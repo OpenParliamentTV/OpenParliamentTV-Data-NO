@@ -1,0 +1,1332 @@
+<Forhandlinger Status="Komplett">
+  <Mote moteID="11559">
+    <Startseksjon>
+      <Motestart>
+        <Tittel>Møte onsdag den 7. januar 2026 kl. 10</Tittel>
+        <President Id="i1000857" personID="MOW">
+          <A>President: <Uth Type="Sperret">Morten
+Wold</Uth></A>
+        </President>
+        <Dagsorden>
+          <Tittel>Dagsorden <DagsordenNR>(nr. 34):</DagsordenNR></Tittel>
+          <DagsordenSak Id="i1000859">
+            <Liste Type="Dagsorden">
+              <Pkt>
+                <A> 1.	Muntlig
+spørretime</A>
+              </Pkt>
+              <Pkt>
+                <A> 2.	Referat</A>
+              </Pkt>
+            </Liste>
+          </DagsordenSak>
+        </Dagsorden>
+      </Motestart>
+    </Startseksjon>
+    <Hovedseksjon Id="i1000861">
+      <Saker>
+        <Sporretime saksKartNr="1">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak nr. 1</Uth> [10:00:13]</Saknr>
+            <Saktittel Id="i1000863">
+              <A>Muntlig spørretime</A>
+            </Saktittel>
+          </Sakshode>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [10:00:14]:</Navn> Stortinget
+mottok mandag meddelelse fra Statsministerens kontor om at statsrådene Lubna
+Boby Jaffery og Sigrun Aasland vil møte til muntlig spørretime.</A>
+            <A Type="Minnrykk">De annonserte regjeringsmedlemmene er til stede,
+og vi er klare til å starte den muntlige spørretimen.</A>
+            <A Type="Minnrykk">Vi starter da med første hovedspørsmål, fra
+representanten Silje Hjemdal.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1000865">
+            <A>
+              <Navn personID="SIHJE">
+Silje Hjemdal (FrP) [10:00:42]:</Navn> Mitt spørsmål går til kulturministeren. </A>
+            <A Type="Minnrykk">Regjeringen snakker varmt om frivilligheten,
+men i praksis har de pekt ut nettopp frivilligheten som en av sine
+fremste kuttposter. De har halvert skattefradraget for gaver, noe
+som alene har ført til et inntektstap for organisasjonene på svimlende
+7,5 mrd. kr på tre år. De fjernet gaveforsterkningsordningen, og
+nå senest måtte Pantelotteriet, som er en svært viktig inntektskilde
+for Røde Kors, slik at de kan drive beredskap, redningstjenester
+og besøkstjenester, stanse innsamlingen før året var omme fordi
+regjeringen ikke ville justere beløpsgrensen. </A>
+            <A Type="Minnrykk">Det stopper ikke der. Nå i julen måtte også
+flere kjøpmenn begrense sin gavmildhet til frivilligheten, da de
+ikke lenger kunne donere pepperkaker og tilsvarende julegodt som organisasjonene
+hadde som mål å gi til barn – alt på grunn av regjeringens forbud.
+Man kan jo spørre seg om regjeringen har prioriteringene sine på
+plass. </A>
+            <A Type="Minnrykk">Disse endringene og kuttene er bare noen eksempler, men
+de er usosiale eksempler på hvor konkret og korttenkt det går an
+å være. Frivilligheten er selve ryggraden i beredskapen og omsorgen
+mange steder i landet. Når staten svikter, stiller frivilligheten
+opp. Da burde selvfølgelig staten stille opp tilbake. </A>
+            <A Type="Minnrykk">Vil statsråden nå ta ansvar og revurdere sitt
+tidligere standpunkt vedrørende beløpsgrensen, slik at Pantelotteriet slipper
+å stanse innsamlingsarbeid også i 2026? </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1000867">
+            <A>
+              <Navn personID="LBF">
+Statsråd Lubna Boby Jaffery [10:02:33]:</Navn> Først må jeg ønske
+representanten Hjemdal godt nytt år. Det er tydelig at representanten
+har brukt god tid på å lage en historie rundt hvordan denne regjeringen
+behandler frivilligheten, som jeg ikke helt kan slutte meg til. </A>
+            <A Type="Minnrykk">Når det gjelder Pantelotteriet, hadde vi en
+diskusjon om dette også rett før jul. Pantelotteriet er et supplement
+til den enerettsmodellen vi har, som representantens parti for øvrig
+er imot, og som gjør at Norsk Tipping kan fordele overskuddet. Vi
+har tillatt en del private lotterier, og Pantelotteriet er ett av dem.
+For at de skal kunne eksistere, må man ha en beløpsgrense, et omsetningstak,
+som staten da setter gjennom forskrift. Vi har også økt i tråd med
+KPI, konsumprisindeksen, som gjør at også Pantelotteriet har kunnet
+få økte inntekter, og at man ikke må endre forskriften hvert år. </A>
+            <A Type="Minnrykk">Jeg hadde et møte med Røde Kors rett før jul,
+der vi var veldig enige om at det er viktig for oss at enerettsmodellen
+beskyttes – en modell også Røde Kors nyter godt av. Jeg skjønner
+at Røde Kors ønsker å få mest mulig inntekter til sitt viktige arbeid,
+og hvordan beløpsgrensen settes, og om den settes, er noe vi skal
+ha en dialog med Røde Kors om. Det er ikke noe jeg har tenkt å diskutere
+åpent her i Stortinget, for det er en dialog vi har med Pantelotteriet. </A>
+          </Hovedinnlegg>
+          <Replikk Id="i1000869">
+            <A>
+              <Navn personID="SIHJE">
+Silje Hjemdal (FrP) [10:04:03]:</Navn> Postkodelotteriet støtter
+23 store organisasjoner, som f.eks. Redd Barna, Amnesty og Norsk
+Folkehjelp, gjennom samme lisensordning som Pantelotteriet, som
+vi innledningsvis diskuterte. Det er veldig flott at kulturministeren
+har møtt Røde Kors, men når disse andre aktørene har spurt om et
+møte med statsråden, har de blitt avvist. Det kan jo framstå som
+litt arrogant. Det virker i hvert fall litt tilfeldig hvem som blir
+hørt, og hvem som blir møtt. Det mener jeg er med på å svekke tilliten
+til den modellen vi har. </A>
+            <A Type="Minnrykk">Vil statsråden nå gå i reell dialog med alle
+organisasjoner som omfattes av denne lotterilisensordningen, og
+ikke bare dem som får medieomtale?</A>
+          </Replikk>
+          <Replikk Id="i1000871">
+            <A>
+              <Navn personID="LBF">
+Statsråd Lubna Boby Jaffery [10:05:01]:</Navn> Her tror jeg at jeg
+må be representanten om å være litt varsom i tolkningen av hvem
+jeg møter og ikke møter. Det er slik at vi har hatt god dialog med
+begge organisasjonene knyttet til dette i forkant, der de har fått
+et svar, et skriftlig svar. Begge fikk et skriftlig svar fra meg
+om at omsetningstaket ikke kom til å bli hevet. Så hadde jeg et
+behov for å ha et møte med Røde Kors etter de oppslagene som hadde
+vært, for å gjøre ettertrykkelig klart for den nye lederen i Røde
+Kors at vi hadde vært veldig tydelige og gitt dem beskjed om dette
+2. desember i fjor. Dette var ikke noe nytt for Røde Kors – det
+var viktig for meg å understreke i møtet. I tillegg var det viktig for
+meg å understreke i møtet at det er viktig at vi beskytter enerettsmodellen.
+Jeg tror alle som kjenner meg, vet at jeg møter mange og ikke prøver
+å forskjellsbehandle, men dette er en ny prosess for dette årets
+pantelotteri og postkodelotteri. Vi må komme tilbake til om vi skal
+ha et møte med dem eller ha en prosess som den vi hadde i fjor,
+der vi ga en skriftlig tilbakemelding på henvendelsene deres.</A>
+          </Replikk>
+          <Replikk Id="i1000873">
+            <A>
+              <Navn personID="SIHJE">
+Silje Hjemdal (FrP) [10:06:04]:</Navn> Problemstillingen har vært
+kjent over flere år, så det viser at regjeringen ikke har villet
+ta tak for å gjøre noe med dette taket. </A>
+            <A Type="Minnrykk">En annen utfordring for frivilligheten er imidlertid
+at Lotteritilsynet har ilagt Norsk Tipping bøter på nærmere 120 mill. kr
+i 2025. Monopolisten Norsk Tipping har fått seg en solid trøkk,
+og tilliten er vesentlig svekket. Jeg og Fremskrittspartiet frykter
+at det er frivilligheten og breddeidretten, særlig for barn og unge,
+som må betale prisen for rotet i Norsk Tipping. Synes kulturministeren
+det er rettferdig overfor formålsmottakerne?</A>
+          </Replikk>
+          <Replikk Id="i1000875">
+            <A>
+              <Navn personID="LBF">
+Statsråd Lubna Boby Jaffery [10:06:49]:</Navn> For det første må
+jeg si at ja, det har vært en kjent problemstilling med Pantelotteriet
+og Postkodelotteriet. Derfor har vi flere ganger faktisk hevet omsetningstaket,
+og det unnlater jo representanten å nevne i sin spørsmålsstilling. </A>
+            <A Type="Minnrykk">I tillegg har denne regjeringen gjort det som
+den forrige regjeringen ikke klarte, selv om det begynner å bli
+ganske mange år siden, nemlig å innføre full momskompensasjon. Å snakke
+om det er noe annet enn faktisk å gjøre det, og denne regjeringen
+gjør det.</A>
+            <A Type="Minnrykk">Når det gjelder Norsk Tipping, har vi en enerettsmodell som
+representanten er imot. Jeg opplever at hun ønsker å svekke den
+enerettsmodellen vi har i samfunnet vårt. </A>
+            <A Type="Minnrykk">Det er svært alvorlig, det som har skjedd i
+Norsk Tipping. Jeg har vært helt tydelig på at den tilliten må gjenopprettes,
+av flere grunner. Den viktigste er selvfølgelig at vi har en enerettsmodell
+som beskytter dem som er spilleavhengig. Det er en enerettsmodell
+som representanten ikke støtter. Hun ønsker frislipp av utenlandske
+spillaktører i det norske markedet. Det kan ikke jeg være med på.</A>
+            <A Type="Minnrykk">Vi skal gjenopprette tilliten til Norsk Tipping.</A>
+          </Replikk>
+          <Replikk Id="i1000877">
+            <A>
+              <Navn personID="SIHJE">
+Silje Hjemdal (FrP) [10:07:53]:</Navn> Jeg diskuterer gjerne spillpolitikk,
+men i dag er det først og fremst frivilligheten og de lokale lagene
+jeg er opptatt av å løfte fram, som nå taper på regjeringens politikk.
+Idretten, lokale frivillige, ideelle organisasjoner og stiftelser
+som nyter godt av tildelingene, har ingen innflytelse over Norsk
+Tippings tekniske løsninger eller deres eventuelle brudd på regelverk.
+Likevel er det de som risikerer fullt ut å bli økonomisk skadelidende
+som følge av disse bøtene. </A>
+            <A Type="Minnrykk">Vil statsråden vurdere å kompensere mottakere
+av spilloverskuddet for bortfall som følge av bøtene, slik at sanksjoneringen
+av Norsk Tipping overholdes samtidig som uskyldige frivillige organisasjoner
+og lag ikke påføres et betydelig inntektstap?</A>
+          </Replikk>
+          <Replikk Id="i1000879">
+            <A>
+              <Navn personID="LBF">
+Statsråd Lubna Boby Jaffery [10:08:51]:</Navn> Norsk Tipping er
+et selskap under Kulturdepartementet, og det er styret i Norsk Tipping
+som må foreta de vurderingene. Det kan ikke jeg som statsråd gjøre
+når det gjelder kompensasjon. Vi er helt enig i at det er beklagelig
+at Norsk Tipping flere ganger de siste årene har opplevd feil i
+sine tekniske systemer. Det er veldig uheldig, og også irriterende,
+at når det skjer, betyr det at det er mindre penger til idrett,
+kultur, helseformål og frivillighet.</A>
+            <A Type="Minnrykk">Det viktigste med enerettsmodellen er likevel
+at vi begrenser de sosiale problemene knyttet til pengespill. Det
+unnlater representanten Hjemdal å ta innover seg, at det er det som
+er hovedformål nummer én med enerettsmodellen. Nummer to er at det
+er en fin ting at vi kan bruke pengene til å fordele overskuddet.
+Formålet med enerettsmodellen er å beskytte de gruppene som kan
+være utsatt for spilleavhengighet.</A>
+          </Replikk>
+          <Replikk Id="i1000881">
+            <A>
+              <Navn personID="SIHJE">
+Silje Hjemdal (FrP) [10:09:55]:</Navn> De siste års feil viser nettopp
+at enerettsmodellen på ingen som helst måte er ufeilbarlig, men
+det er en annen diskusjon. </A>
+            <A Type="Minnrykk">Igjen vil jeg over til frivilligheten. I november
+fikk jeg overlevert en underskriftskampanje fra ledere og generalsekretærer
+i 85 organisasjoner. I løpet av tre år har de mistet gaveinntekter
+for 7,5 mrd. kr. En av årsakene er regjeringens halvering av skattefradraget
+for gaver til frivillige organisasjoner i 2022. Vil regjeringen
+eller kulturministeren nå lytte til frivilligheten og ta grep for
+å øke skattefradraget for gaver, slik disse organisasjonene ber
+om i dette oppropet?</A>
+          </Replikk>
+          <Replikk Id="i1000883">
+            <A>
+              <Navn personID="LBF">
+Statsråd Lubna Boby Jaffery [10:10:47]:</Navn> Skattefradrag er
+ikke mitt konstitusjonelle område. Det ligger under Finansdepartementet.
+Sånn sett kan jeg ikke svare for akkurat det, men jeg må si at det
+har vært sådd tvil om de tallene som brukes, stemmer. Blant annet
+har man gått inn i de tallene og sett at man har brukt tall fra
+bl.a. Aker sykehus, om det de har fått i skattefradrag for gaver.
+Jeg kommer ikke til å svare på om regjeringen kommer til å gjøre
+det, for det er ikke mitt område. </A>
+            <A Type="Minnrykk">Jeg må si at vi ser at folk fortsatt gir penger
+til frivillige lag og organisasjoner. Det denne regjeringen gjør,
+er å gi full momskompensasjon, noe som Silje Hjemdals parti aldri
+ga til frivillige lag og organisasjoner. </A>
+          </Replikk>
+          <Replikk Id="i1000885">
+            <A>
+              <Navn personID="MARGRT">
+Maren Grøthe (Sp) [10:11:44]:</Navn> En viktig inntektskilde for
+idretten og frivilligheten over hele Norge har vært bingospill og
+bingohaller. I høst innførte regjeringen nye beløpsgrenser for bingospill,
+og resultatet er at hele bingobransjen nå faller sammen, særlig
+i distriktene. Over 25 bingohaller ble lagt ned i fjor. Bransjen
+selv melder at minst 38 er planlagt nedlagt første halvår i 2026,
+og det antas at ingen bingoer nord for Trondheim vil overleve. Flere
+tusen lag og organisasjoner over hele landet er med det i ferd med
+å miste viktige inntekter, som finansierer alt fra aktivitet i idrettslag
+til lokale jeger- og fiskeforeninger, funksjonshemmedes organisasjoner
+– og sånn kunne vi fortsatt. Målet med innstrammingene var ansvarlighet.
+Vi er alle opptatt av det, og også Senterpartiet er opptatt av enerettsmodellen,
+men situasjonen med at en rekke bingohaller nå må legge ned, mener
+vi er uholdbar fordi det går ut over lokal aktivitet over hele landet. Mitt
+spørsmål er: Vil statsråden se på tapsgrensene på nytt, eller på
+å innføre kompenserende tiltak for de lagene dette gjelder?</A>
+          </Replikk>
+          <Replikk Id="i1000887">
+            <A>
+              <Navn personID="LBF">
+Statsråd Lubna Boby Jaffery [10:12:52]:</Navn> Jeg er glad for at
+vi står sammen med Senterpartiet i behovet for å ha en enerettsmodell,
+og det var det som var bakgrunnen for å innføre tapsgrenser. Sånn
+som det har vært tidligere, har man kunnet gå fra hall til hall
+og tape ganske mye penger. Vi vet at det ikke går ut over sånne
+som meg og Maren Grøthe, men det er andre som da opplever å tape. </A>
+            <A Type="Minnrykk">Vi ser at det er et stort engasjement rundt
+hvordan det har slått ut, og det er selvfølgelig noe vi har løpende
+dialog om. Vi har hatt flere møter med lag og organisasjoner knyttet
+til dette. Jeg kan ikke si om vi skal sette i verk kompenserende tiltak
+eller endre tapsgrensen her og nå, men dette er noe vi følger med
+på. Vi får også henvendelser om dette og er åpne for å ha en dialog.</A>
+          </Replikk>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [10:13:39]:</Navn> Vi går til
+neste hovedspørsmål.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1000889">
+            <A>
+              <Navn personID="HSP">
+Haagen Poppe (H) [10:13:54]:</Navn> Henrik Bulls nasjonalteaterbygning
+på Johanne Dybwads plass er et synlig minne om begynnelsen på Norge
+som en stolt kulturnasjon. Dessverre er den i dag også i sørgelig
+forfatning etter årevis med forsømt vedlikehold. De opprinnelige
+planene om å renovere bygningen fra 1899 og samtidig bygge et nytt
+anlegg på Tullinløkka under bakken har nå heldigvis blitt skrotet,
+og regjeringen går i stedet inn for den såkalte minimumsløsningen: rehabilitere
+den gamle hovedbygningen i sentrum og etablere eksterne scener og
+saler. Hvor de skal ligge, eller hvor mange det kan bli, skal avklares
+senere, men steder som Økern har blitt nevnt som en del av et byutviklingsprosjekt
+i Oslo øst.</A>
+            <A Type="Minnrykk">I ellevte time kom det et privat initiativ
+fra aksjonsgruppen Ny framtid for Nationaltheatret. De mener det
+er mulig å bygge ut Henrik Bulls teater i samme stil til en billigere
+penge enn prisen for renovering av dagens bygg og etablering av
+eksterne scener, men underlaget er langt mindre detaljert og komplett
+enn alternativer som Statsbygg har utarbeidet. I rapporten fra Marstrand
+er kostnadene for minimumsalternativet ikke konkretisert, det er
+fremdeles en rekke ukjente faktorer, og tidshorisonten strekker
+seg 18 år fram i tid. Utvidelsesalternativet til den private aksjonsgruppen
+er av prosjektgruppen selv vurdert til 2,8 mrd. kr og av Marstrand
+til 3,7 mrd. kr og kan stå ferdig i 2032. Utvidelsesforslaget er
+blitt kåret til årets tapte mulighet i Minerva, og Høyre mener det
+er tragisk at dette alternativet ikke får samme grundige vurdering
+som Statsbyggs forslag.</A>
+            <A Type="Minnrykk">Hvorfor lar statsråden en slik unik mulighet
+fare uten engang å utrede den ordentlig?</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1000891">
+            <A>
+              <Navn personID="LBF">
+Statsråd Lubna Boby Jaffery [10:16:00]:</Navn> Som representanten
+sa, kommer dette forslaget inn i ellevte – kanskje også tolvte –
+time. Dette er ikke en diskusjon som er ny, så i så måte burde dette
+forslaget kanskje ha kommet enda tidligere, all den tid denne debatten
+har pågått.</A>
+            <A Type="Minnrykk">Likevel: Den eksterne kvalitetssikringsrapporten
+gikk igjennom det forslaget som ble levert inn, så det er foretatt
+en vurdering av det. Kvalitetssikringsrapporten pekte på stor usikkerhet
+og risiko knyttet til kostnader ved forslaget fra Horn-gruppen.
+I kvalitetssikringen er det også pekt på mangler når det gjelder
+kapasitet og funksjonalitet. Dersom vi skulle ha foretatt en fullstendig
+kvalitetssikring av et forslag som ble levert inn i ellevte/tolvte
+time, ville denne prosessen ha blitt ytterligere forsinket. </A>
+            <A Type="Minnrykk">Nå har regjeringen tatt en beslutning om oppussing
+av et minimumsalternativ og lokalisering av scene 2 og scene 3 utenfor
+nasjonalteaterbygningen. Der har vi sagt at vi skal ha en avklaringsfase
+og komme tilbake til valg av biscener innen ett år. Nå er det allerede
+gått et halvt år siden det, så jeg håper vi er nærmere en teaterløsning,
+som ikke vil ta 18 år, men som vil stå i nye 100 år for kommende
+generasjoner.</A>
+          </Hovedinnlegg>
+          <Replikk Id="i1000893">
+            <A>
+              <Navn personID="HSP">
+Haagen Poppe (H) [10:17:33]:</Navn> Jeg må få lov til å si at de
+som først og fremst har avskåret og forsinket denne saken de siste
+årene, er Støre-regjeringen selv. Det er bra at Tullinløkka-planene
+ble skrotet, men det er fremdeles sånn at en rekke alternative lokasjoner
+for nye Nationaltheatret i Groruddalen må utredes nærmere, i tillegg
+til eventuelle andre ledige statlige eiendommer. Det vil også ta
+tid og koste penger. Høyre viste i sine merknader til statsbudsjettet
+at det er mulig å omdisponere penger som er avsatt til dette formålet, til
+også å vurdere Horn-gruppens forslag. </A>
+            <A Type="Minnrykk">Hvorfor vil statsråden bruke enda mer tid og
+ressurser på å utrede videre helt nye Nationaltheatret andre steder
+i byen, men ikke en utvidelse av dagens? Hvorfor har statsråden
+så dårlig tid, når hennes egne planer er stipulert til å ta ti år
+lengre tid enn utvidelsesalternativet?</A>
+          </Replikk>
+          <Replikk Id="i1000895">
+            <A>
+              <Navn personID="LBF">
+Statsråd Lubna Boby Jaffery [10:18:36]:</Navn> Jeg tror vi skal
+være forsiktige med å si hvem sin skyld det er at Nationaltheatret
+er i den situasjonen det er i. Det har vært mange statsråder som
+har hatt ansvar for Nationaltheatret som ikke har tatt en beslutning.
+Denne statsråden har tatt en beslutning og sagt at vi går for minimumsalternativet,
+med biscener utenfor dagens nasjonalteaterbygning. </A>
+            <A Type="Minnrykk">Jeg mener det er viktig at vi skal foreta konkrete
+og tydelige vurderinger av flere forhold, f.eks. bygningsmassen
+– hvilken type bygningsmasse man skal ha for å utføre teatervirksomhet
+de kommende årene. Vi må ta hensyn til teaterets ønsker og behov.
+De får ikke alt de ønsker. Det har denne regjeringen vist, ved at
+vi faktisk sa nei til Tullinløkka-alternativet, som var det prefererte
+alternativet for de aller, aller fleste knyttet til teateret. </A>
+            <A Type="Minnrykk">Jeg er opptatt av at vi skal ha fortgang i
+saken, og denne saken har vært en del av debatten og offentligheten
+i veldig mange år. Derfor mener jeg at de alternativene vi har på
+bordet nå, er de mest realistiske å gå videre med.</A>
+          </Replikk>
+          <Replikk Id="i1000897">
+            <A>
+              <Navn personID="HSP">
+Haagen Poppe (H) [10:19:36]:</Navn> Vi skal bygge et nytt nasjonalteater
+og pusse opp det gamle, uttalte statsråden i Nytt på nytt den 5.
+desember. Vi får anta at dette ikke var ment som en spøk. Høyre
+mener at Norge allerede har et nasjonalteater, og at vi ikke trenger
+et nytt eller nye andre steder i byen. Vi mener også at nasjonal
+kulturpolitikk først og fremst skal være nettopp det – kulturpolitikk
+og ikke byutviklingspolitikk i Oslo øst. Et teater som Nationaltheatret er
+noe mer enn en scene eller praktiske lokaler. Det er et viktig symbol
+for Norge som kulturnasjon, og slike institusjoner fortjener et
+praktbygg, med tyngde og beliggenhet som gjenspeiler rollen. Skissene
+som utvidelsen av Bulls teater viser, er elegante og en tidløs løsning
+som har ordentlig schwung over seg. </A>
+            <A Type="Minnrykk">Er statsråden enig med Høyre i at et nasjonalteater
+først og fremst skal være nettopp det ordlyden tilsier – et nasjonalteater
+for hele landet? Og er statsråden enig i at en slik tung, ærverdig
+institusjon aller helst bør ligge i sentrum av landets hovedstad?</A>
+          </Replikk>
+          <Replikk Id="i1000899">
+            <A>
+              <Navn personID="LBF">
+Statsråd Lubna Boby Jaffery [10:20:42]:</Navn> Nå vet jeg ikke om
+vi skal bruke Nytt på nytt som referanse til hva man mener – det
+er kanskje stortingssalen som er stedet. Men ja, jeg mener det jeg
+mener om at vi har et flott nasjonalteater. Det skal vi videreutvikle.
+Vi er helt enig i at det viktigste hensynet for framtidens nasjonalteater
+er kulturpolitikken, og at det ikke er byutviklingshensyn som er
+det viktigste når vi velger hva som skal være den framtidige løsningen
+for Nationaltheatret. </A>
+            <A Type="Minnrykk">I innledningen, hovedspørsmålet, sa representanten
+at nasjonsbyggingen startet da. Med fare for kanskje å ta feil, tror
+jeg at Den Nationale Scene, DNS, ble bygd før Nationaltheatret,
+så nasjonsbyggingen har foregått flere steder i landet. Men hovedstaden
+er ekstremt viktig for nasjonsbyggingen, teateret skal stå på denne
+plassen, og de kulturpolitiske hensynene kommer til å være det som
+veier tyngst i valget av framtidig løsning for Nationaltheatret</A>
+          </Replikk>
+          <Replikk Id="i1000901">
+            <A>
+              <Navn personID="HSP">
+Haagen Poppe (H) [10:21:36]:</Navn> Vi er alle sammen helt enig
+i at det er trist at nasjonens teater forfaller slik det gjør, og
+vi er selvfølgelig også helt enig i at vi må få fortgang i dette
+prosjektet. Men prosjektplanen som i alternativet regjeringen går
+for, løper jo helt fram til 2042. Ny framtid for Nationaltheatret
+peker på en raskere framdriftsmodell. Marstrand sier fram til 2032,
+altså ti år tidligere. Hvorvidt dette er realistisk eller ei, kan
+ikke jeg bombastisk slå fast her i dag, på samme måte som statsråden
+ikke bombastisk kan slå fast det motsatte, for vi har ikke det samme
+gode grunnlaget for å ta den vurderingen som man har for de andre
+alternativene. Vi kommer heller aldri til å få vite det dersom statsråden
+står på sitt og ikke vil ha en ekstra runde – om så parallelt med
+utredningen av 14 nye Nationaltheatret-lokasjoner i Groruddalen. </A>
+            <A Type="Minnrykk">Jeg vet at man ikke liker hypotetiske spørsmål
+– politikere liker ikke det – men jeg tillater meg allikevel å spørre:
+Dersom dette viste seg i en privat initiert grundigere analyse, (presidenten
+klubber) ville man da gått en runde til? (Presidenten avbryter.)</A>
+          </Replikk>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [10:22:43]:</Navn> Tiden er ute.</A>
+          </Presinnlegg>
+          <Replikk Id="i1000903">
+            <A>
+              <Navn personID="LBF">
+Statsråd Lubna Boby Jaffery [10:22:46]:</Navn> Hypotetiske spørsmål
+er vanskelige å besvare.  Det viktigste er at på samme måte som
+representanten sier at man ikke bombastisk kan si at dette alternativet
+vil ta kortere tid, har jeg overfor Statsbygg vært veldig opptatt
+av at jeg ønsker fortgang også i oppussingen av nasjonalteaterbygningen.
+Da må vi også ta et hurtig valg – og også et godt valg, et faglig
+godt fundert valg, når det gjelder hvor biscenene skal ligge, slik
+at man kan sette i gang byggingen av biscener, eventuelt oppussing
+av biscener og oppussing av Hovedscenen. Jeg ønsker at denne saken
+skal få en endelig løsning der vi har et teater som kan stå i 100
+nye år, som kan gi folk teateropplevelser av høy kvalitet. Uansett
+kommer denne saken til å lande i Stortinget til slutt, og da håper
+jeg selvfølgelig på et bredt politisk flertall for den løsningen
+vi kommer fram til.</A>
+          </Replikk>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [10:23:41]:</Navn> Vi går til
+neste hovedspørsmål.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1000905">
+            <A>
+              <Navn personID="JLO">
+Jorunn Gleditsch Lossius (KrF) [10:23:55]:</Navn> At det nå er større
+åpenhet og aksept i samfunnet vårt for transpersoner, skeive og
+andre som av ulike grunner føler seg litt annerledes, er veldig
+positivt. For KrF er den mest fundamentale verdien nettopp menneskeverdet
+– alle menneskers unike verdi – og at alle mennesker skal møtes
+med forståelse, nestekjærlighet og respekt for den de er, og at
+det skal være romslige rammer for kjønnsrollene.</A>
+            <A Type="Minnrykk">Opp igjennom historien og på tvers av kulturer
+har kjønnskategoriene vært helt sentrale – slik de også er i medisinen og
+biologien – og kvinners rettigheter bygger ufravikelig på dem. Jeg
+betviler ikke regjeringens intensjon om å bedre vilkårene for transpersoner,
+men problemet er at regjeringen legger opp til en postmoderne dekonstruksjon
+av kjønnsforståelsen som ikke tjener noen, heller ikke transpersoner,
+og særlig ikke barn.</A>
+            <A Type="Minnrykk">I Bufdirs råd om møter med kjønnsmangfold for
+offentlig ansatte heter det f.eks. at man skal la transpersoner
+bruke kjønnsdelte rom i tråd med sine egne ønsker og sin egen identitet.
+Det samme rådet gir Rosa kompetanse-kursene, som Kultur- og likestillingsdepartementet
+gir støtte til. Man skal altså selv, ut fra hva man føler seg som,
+få velge hvilken garderobe man vil benytte. For mange jenter og
+kvinner kan dette skape utrygghet. Det kan føre til at man vegrer
+seg for å delta i gym, idrett og andre aktiviteter fordi de risikerer
+å møte en biologisk mann i omkledningsrommet. For jenter og kvinner som
+har vært utsatt for seksuelle overgrep, kan dette være spesielt
+problematisk. </A>
+            <A Type="Minnrykk">Mener likestillingsminister Jaffery at det
+er riktig at jenter og kvinner skal kunne møte biologiske menn som
+identifiserer seg som kvinner, i garderoben?</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1000907">
+            <A>
+              <Navn personID="LBF">
+Statsråd Lubna Boby Jaffery [10:26:05]:</Navn> Representanten Lossius’
+parti har fremmet et representantforslag om dette temaet, og det
+skal jeg svare Stortinget nøye på.</A>
+            <A Type="Minnrykk">Når det gjelder dette konkrete punktet i veilederen,
+må jeg bare si at dette er en veileder som ikke er vedtatt. Dette
+er en veileder som har vært på høring. Det er ingenting i denne veilederen
+som er besluttet, og dermed er det ingenting av det som representanten
+stiller spørsmål om, som er politikk i dag. </A>
+            <A Type="Minnrykk">Jeg er glad for at representanten anerkjenner
+transpersoner. Av og til tyder ting på at partiet KrF ikke anerkjenner
+at transpersoner er en virkelighet. Til og med Verdens helseorganisasjon
+viser til at kjønnsidentiteter kan være mangefasetterte. </A>
+            <A Type="Minnrykk">Når det gjelder det konkrete spørsmålet om
+garderober, har jeg stor forståelse for at mange kan være bekymret
+for dette, men jeg vil understreke at dette gjelder en veldig liten gruppe.
+Jeg er opptatt av at hvis vi skal videreføre den veilederen som
+har vært på høring, må dette også tas med, og vi må også sørge for
+at hvis det i det hele tatt skal gjøres, så skal det gjøres på en
+skikkelig måte.</A>
+          </Hovedinnlegg>
+          <Replikk Id="i1000909">
+            <A>
+              <Navn personID="JLO">
+Jorunn Gleditsch Lossius (KrF) [10:27:19]:</Navn> Jeg håper virkelig
+at dette er noe likestillingsministeren vil legge stor vekt på i
+den videre saksgangen og når høringen er gjennomført. </A>
+            <A Type="Minnrykk">I Storbritannia avsa høyesterett den 16. april
+2025 en enstemmig dom som fastslo at begrepene «kvinne» og «mann» i
+den britiske likestillingsloven skal referere til biologisk kjønn,
+ikke juridisk kjønn eller kjønnsidentitet. Domstolen der advarte
+mot å tolke kjønn som noe annet enn biologisk fordi det ville gjøre
+lovverket inkonsekvent – sågar ubrukelig – særlig i spørsmål om
+likelønn, kvotering og kjønnsdelte rom, som garderober og krisesentre.
+Statsminister Keir Starmer kommenterte at dommen var et velkomment
+skritt framover som ga reell klarhet på et område der vi trenger
+klarhet. </A>
+            <A Type="Minnrykk">Er statsråden enig med britisk høyesterett
+og Keir Starmer i at likestillingsloven må baseres på biologisk
+kjønn for å kunne gi mening på områder som likelønn, kvotering og kjønnsdelte
+rom?</A>
+          </Replikk>
+          <Replikk Id="i1000911">
+            <A>
+              <Navn personID="LBF">
+Statsråd Lubna Boby Jaffery [10:28:24]:</Navn> Det er noe underlig
+ved at jeg skal måtte kommentere en britisk høyesterettsdom og den
+britiske statsministerens uttalelser. Vi har en likestillings- og
+diskrimineringslov i Norge som baserer seg på kjønn, der kvinner
+og sårbare grupper har et ekstra vern i loven. Jeg vet at det muligens
+finnes et stortingsflertall i denne salen som ikke ønsker å ha en
+likestillings- og diskrimineringslov som faktisk sier at kvinner
+og sårbare grupper har et spesielt vern i loven. Det er litt underlig
+ut fra Lossius’ spørsmål.</A>
+            <A Type="Minnrykk">Verdens helseorganisasjon, som mange regner
+som den viktigste helseorganisasjonen i verden, slår fast at ikke-binære
+mennesker eksisterer. Det er en veldig liten gruppe personer som
+ikke identifiserer seg som verken kvinne eller mann. Jeg mener det
+er viktig at vi viser forståelse og respekt for denne gruppen og
+legger til rette for at de får tilstrekkelig hjelp.</A>
+          </Replikk>
+          <Replikk Id="i1000913">
+            <A>
+              <Navn personID="JLO">
+Jorunn Gleditsch Lossius (KrF) [10:29:30]:</Navn> Jeg tror likestillingsministeren
+må ta inn over seg at f.eks. Rosa kompetanse-kursene og Bufdirs
+råd formidler at det finnes flere kjønn enn to, og at ens kjønn
+primært handler om identitet framfor biologi. Lærere oppfordres
+til å snakke om kjønnsroller på en måte som innebærer at barn kan
+være et annet kjønn hvis de bryter med tradisjonelle kjønnsstereotypier. Helsesøstre
+har uttalt til VG at kjønnsrollene nå har blitt smalere og mer stereotype.
+En helsesykepleier sier at jenter kommer med spørsmål om hvorvidt
+de burde bytte kjønn fordi de har kort hår, liker gutteting eller
+skiller seg ut fra den stereotypiske jenta på andre måter. Dette
+er bekymringsfullt.</A>
+            <A Type="Minnrykk">Jeg lurer på om likestillingsministeren er
+enig i at det er et tilbakeslag for likestillingen at så mange jenter
+nå oppfatter at det er noe galt med dem hvis de bryter med tradisjonelle kjønnsstereotypier.</A>
+          </Replikk>
+          <Replikk Id="i1000915">
+            <A>
+              <Navn personID="LBF">
+Statsråd Lubna Boby Jaffery [10:30:30]:</Navn> Siden representanten
+ber meg om å ta inn over meg noe, må jeg også be representanten
+om å ta inn over seg noe. Det er at dette er en veileder som har
+vært på høring. Den er for det første ikke innført. For det andre
+er det en veileder; det er ikke snakk om å bli tvunget til å omtale
+folk som «hen». Man kan fortsatt si «han», «hun», «gutt» og «jente».
+Dette er en veileder, et forslag til en veileder. Det må representanten
+ta inn over seg.</A>
+            <A Type="Minnrykk">Vi lever i et samfunn der dette har blitt et
+stort tema, også fordi representantens parti ønsker å importere
+denne debatten til Norge fra USA. </A>
+            <A Type="Minnrykk">Ikke-binære mennesker har eksistert til alle
+tider. Dette er ikke et nytt fenomen som plutselig har oppstått.
+Folk har vært skeive, homofile og lesbiske. Folk har levd åpent,
+kanskje mye mer åpent enn man gjør i dagens samfunn. Det er også noe
+man må ta inn over seg.</A>
+          </Replikk>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [10:31:38]:</Navn> Vi går da videre
+til neste hovedspørsmål. </A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1000917">
+            <A>
+              <Navn personID="SIMVEL">
+Simen Velle (FrP) [10:31:52]:</Navn> Mitt spørsmål går til forsknings-
+og høyere utdanningsministeren. </A>
+            <A Type="Minnrykk">Norge har et næringsliv som krever høy kompetanse
+og innovasjon. For å henge med i den internasjonale utviklingen trenger
+vi en forskningspolitikk som styrker samarbeidet mellom akademia
+og næringsliv. Vi må prioritere områder der vi har kompetansefortrinn
+og naturgitte ressurser. Men Norge er ikke kjent som noen forskningsnasjon.
+I 2024 investerte Norge om lag 1,8 pst. av bruttonasjonalproduktet
+i forskning og utvikling, betydelig mindre enn våre nordiske naboer.
+Sverige ligger på 3,4 pst., Finland og Danmark ligger på rundt 3 pst. </A>
+            <A Type="Minnrykk">Dette gapet svekker vår konkurranseevne, teknologiutvikling
+og omstillingsevne. Mens nabolandene våre trapper opp satsingen,
+fortsetter Norge å tape terreng. Ifølge beregninger fra Khrono innebærer
+årets statsbudsjett en nedgang i forsknings- og utviklingsbevilgningene
+på 1,2 pst. sammenlignet med saldert budsjett for 2024. Fjorårets
+samlede bevilgning til forskning var den laveste siden 2017. </A>
+            <A Type="Minnrykk">Mitt spørsmål er enkelt: Er statsråden fornøyd
+med regjeringens innsats for å styrke forskning og utvikling, gitt
+at vi ligger så langt bak våre nordiske naboer?</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1000919">
+            <A>
+              <Navn personID="SIGAAS">
+Statsråd Sigrun Aasland [10:33:04]:</Navn> Jeg vil takke representanten
+Simen Velle for et svært viktig spørsmål, men jeg er ikke enig i
+analysen. Det er sånn at vi i Norge finansierer forskning på et
+høyt nivå fra offentlig sektor. Det er innenfor næringslivets bidrag
+til forskning vi ligger bak mange andre land. </A>
+            <A Type="Minnrykk">Over tid har norsk offentlig forskningsinnsats
+vært stabil, med en topp under pandemien, som for veldig mange andre offentlige
+utgifter. Statsbudsjettet for 2026 innebærer en økning i offentlige
+FoU-utgifter sammenlignet med 2024, herunder også noen veldig viktige
+satsinger på bl.a. kvanteteknologi, der samarbeid med næringslivet
+er helt sentralt. </A>
+            <A Type="Minnrykk">Så er jeg opptatt av, som representanten Velle,
+at næringslivet i mye større grad må komme på banen i både finansiering
+av og samarbeid om forskning. Der skjer det heldigvis mye bra og
+spennende, både innenfor interesse for kvanteteknologi, forskning
+på dette, inn i det grønne skiftet – som representanten Velle tidligere
+har utvist lite entusiasme for – og nylig, før jul, i DNVs nye forskningsfond,
+der det skal bevilges penger til grunnforskning fra en viktig norsk
+næringsaktør. </A>
+            <A Type="Minnrykk">Dette er et prioritert område for regjeringen
+å styrke. Det handler ikke om offentlig sektors og statsbudsjettets
+FoU-utgifter, det handler om å bidra til å bedre og styrke rammevilkår,
+forvente mer fra næringslivet og å få til gode samarbeidsprosjekter.
+Det jobber vi godt med, både med Forskningsrådet og med store deler
+av norsk næringsliv. </A>
+          </Hovedinnlegg>
+          <Replikk Id="i1000921">
+            <A>
+              <Navn personID="SIMVEL">
+Simen Velle (FrP) [10:34:46]:</Navn> Jeg merker meg at statsråden
+er svært positiv til å øke den private andelen av forskningsinvesteringene.
+Små og mellomstore bedrifter, der mye forskning, utvikling og innovasjon
+skjer, er helt avhengige av norsk privat kapital. Flere norske offentlige
+utredninger har de siste årene pekt på at den særnorske høye formuesskatten
+vrir sparing mot eiendom fremfor investering i virksomheter. Den
+bidrar også til at mange kapitalsterke nordmenn og driftige gründere
+flytter utenlands. Dette reduserer i sum kapitaltilgangen til forskning,
+utvikling og innovasjon i norsk næringsliv og vår evne til å bygge
+opp nye, kunnskapsbaserte næringer som skal sikre verdiskaping i fremtiden. </A>
+            <A Type="Minnrykk">Er statsråden bekymret for de negative effektene
+dagens formuesbeskatning har på kapitaltilgang for forskning og
+innovasjon i norske bedrifter?</A>
+          </Replikk>
+          <Replikk Id="i1000923">
+            <A>
+              <Navn personID="SIGAAS">
+Statsråd Sigrun Aasland [10:35:34]:</Navn> Jeg mener norsk næringslivs
+bidrag til og deltakelse i forskning er altfor viktig til å reduseres
+til – nok en gang – et spørsmål om formuesskatt. Alle land har ulike
+skattesystemer, ulike fordeler og ulemper. Andre land har høyere
+arbeidsgiveravgifter. Andre land har høyere selskapsskatter, som
+jeg registrerer at representantens parti også har vært villig til
+å øke for å redusere formuesskatten. Denne regjeringen er positiv
+til alltid å forbedre skattesystemet vårt. Derfor har vi også invitert
+til et bredt skatteforlik og initiert en skattekommisjon. </A>
+            <A Type="Minnrykk">Når det er sagt, deler jeg representantens
+ambisjon om at små og mellomstore bedrifter må ha lettere tilgang
+på kunnskap fra våre sterke forskningsmiljøer, og det jobber vi
+bl.a. med Forskningsrådet for å få til bedre løsninger for. Det
+handler mye om god relasjonsbygging over tid og om å etablere samarbeid,
+i både stor og liten skala.</A>
+          </Replikk>
+          <Replikk Id="i1000925">
+            <A>
+              <Navn personID="SIMVEL">
+Simen Velle (FrP) [10:36:32]:</Navn> Det er helt riktig at det å samarbeide
+og snakke med hverandre er svært viktig, og jeg registrerer at både
+statsråden og tidligere statsråder i samme departement har ønsket
+en bred debatt om dette, men det holder ikke bare å snakke med hverandre.
+Dette handler også om helt konkrete investeringer i forskning og
+utvikling, noe jeg ikke opplever at regjeringen legger til rette
+for. </A>
+            <A Type="Minnrykk">Ta f.eks. gaveforsterkningsordningen, som tidligere
+ga et statlig påslag på inntil 25 pst. ved gaver til forskning.
+Det var et effektivt virkemiddel for å utløse private midler. Ordningen førte
+til flere forskningsmidler fra privatpersoner, bedrifter, stiftelser
+og frivillige organisasjoner. Universitetene mente at ordningen
+fungerte godt og etter intensjonen. De var negative da Solberg-regjeringen
+skrotet ordningen i 2021, og avviklingen førte til en nedgang i
+gavefinansiert forskning og rammet særlig grunnforskningen ved en
+rekke universiteter. For eksempel fikk Universitetet i Bergen en
+reduksjon på rundt 15 pst.</A>
+            <A Type="Minnrykk">Vil statsråden ta initiativ til å gjeninnføre
+gaveforsterkningsordningen for å få mer privat kapital til norsk
+forskning?</A>
+          </Replikk>
+          <Replikk Id="i1000927">
+            <A>
+              <Navn personID="SIGAAS">
+Statsråd Sigrun Aasland [10:37:33]:</Navn> Det korte svaret er nei.
+Denne regjeringen er opptatt av å prioritere norsk forskningsinnsats
+på områder av særlig stor betydning, der norske forskningsmiljøer
+har særlige styrker, og der vi vet at samfunnet har store kompetanse-
+og kunnskapsbehov. Derfor har vi nylig lansert et betydelig forskningsprogram
+på kunstig intelligens. Vi har nylig lansert et stort forskningsinitiativ
+på kvanteteknologi, der det er stor interesse og allerede deltakelse
+fra næringslivet, og vi har lansert nye forskningssatsinger innenfor
+totalforsvar. </A>
+            <A Type="Minnrykk">Jeg vil anbefale representanten Velle å dra
+på NHOs årskonferanse i dag, for jeg opplever at norsk næringsliv
+er svært framoverlent i sitt ønske om å bygge ny kunnskap og forskning
+og har satt det på agendaen på store deler av dagens program. Det
+er jeg veldig glad for, og jeg har god dialog med både næringsaktører
+og organisasjoner om hvordan vi skal legge til rette for enda mer
+av dette.</A>
+          </Replikk>
+          <Replikk Id="i1000929">
+            <A>
+              <Navn personID="SIMVEL">
+Simen Velle (FrP) [10:38:31]:</Navn> Jeg kan bekrefte overfor statsråden
+at jeg har planer om å besøke NHOs årskonferanse. Jeg har bare et
+visst behov for å stille noen spørsmål til statsråden i Stortinget
+først. </A>
+            <A Type="Minnrykk">Jeg er enig i ambisjonen. Jeg er helt enig
+i at det norske næringslivet ønsker å investere mer i forskning
+og utvikling, så de er fremoverlente, men regjeringen er ikke spesielt
+fremoverlente. Ved lanseringen av langtidsplanen for forskning og høyere
+utdanning i 2023 signaliserte regjeringen et ønske om en bred debatt
+om hvordan private kan bidra mer til forskning. Samme år leverte
+Oslo Economics og NIFU, på oppdrag fra Norges forskningsråd, en
+omfattende utredning om privat finansiering av forskning, utvikling
+og forskningsbasert innovasjon i Norge. I rapporten pekes det på
+en rekke ulike tiltak og politiske grep som kan bidra til mer privatfinansiert forskning,
+som f.eks. å gjeninnføre gaveforsterkningsordningen, modernisere
+stiftelseslovgivningen, ulike fondsmekanismer samt lettelser i formuesskatten.</A>
+            <A Type="Minnrykk">Hva har regjeringen konkret gjort de siste
+tre årene for å få økt privat kapital inn i forskningssystemet?</A>
+          </Replikk>
+          <Replikk Id="i1000931">
+            <A>
+              <Navn personID="SIGAAS">
+Statsråd Sigrun Aasland [10:39:32]:</Navn> Jeg har i hvert fall
+i det siste – på litt under ett år – satt i gang flere initiativ for
+å øke næringslivets deltakelse i og bidrag til forskning, på bakgrunn
+av kunnskapsgrunnlaget som foreligger. </A>
+            <A Type="Minnrykk">Som jeg var inne på, mener ikke denne regjeringen
+at gaveforsterkningsordningen, der den enkelte bedrift bestemmer hva
+staten skal bruke forskningsmidler på, er en strategisk fornuftig
+måte å gjøre dette på. Jeg har det siste halve året invitert både
+næringsliv, virkemiddelaktører og forskere inn for å gi oss innspill
+på hva som skal gjøres for å få til bedre samarbeid. De har også
+tatt opp potensialet i stiftelseslovgivning i samarbeidsarenaer
+gjennom Forskningsrådet. Jeg minner også om at vi nylig har lansert
+et helt nytt forskningsprogram med en helt ny innretning innenfor
+kvanteteknologi, der vi skal bruke 150 mill. kr i året og invitere
+næringslivet til å ta lederskap i disse prosjektene. Det vil også
+komme flere initiativer for å dra inn norsk næringsliv, men skattepolitikk
+er en svært liten del av det.</A>
+          </Replikk>
+          <Replikk Id="i1000933">
+            <A>
+              <Navn personID="SIMVEL">
+Simen Velle (FrP) [10:40:34]:</Navn> Jeg merker meg at regjeringen
+har svært lave ambisjoner for å senke skattenivået både for folk
+og for næringsliv, men det får bli en annen sak. </A>
+            <A Type="Minnrykk">Jeg har gjennom de siste fire spørsmålene i
+denne salen understreket en rekke tiltak som både jeg og en NOU
+ønsker skal gjennomføres i Norge, men jeg opplever ikke at statsråden
+i tilstrekkelig grad tar mine forslag på alvor. For hva er den situasjonen
+vi faktisk står i? Jo, det er at vi har et næringsliv som dessverre
+underinvesterer i forskning og utvikling, i hvert fall i forhold
+til våre skandinaviske naboland. Både i Sverige og Danmark har de
+store stiftelser. Og i Norge har vi – til tross for at vi i utgangspunktet
+har den kompetansen og det næringslivet som skal til for å løse
+problemet – en regjering som ikke underbygger ønsket om å investere
+i forskning og utvikling. Formuesskatt og gaveforsterkningsordningen
+er bare to konkrete eksempler. </A>
+            <A Type="Minnrykk">Men jeg ønsker å stille spørsmålet én gang
+til: Hva har regjeringen konkret gjort, utover å sette ned utvalg
+og snakke om disse tingene, og hvilke konkrete tiltak kan det norske
+næringslivet forvente seg fra regjeringen i tiden som kommer?</A>
+          </Replikk>
+          <Replikk Id="i1000935">
+            <A>
+              <Navn personID="SIGAAS">
+Statsråd Sigrun Aasland [10:41:41]:</Navn> Jeg er veldig glad for
+at representanten Velle i løpet av denne samtalen vi har hatt her,
+har endret sin analyse fra at det er offentlig sektor som investerer
+for lite i forskning, til at det altså er næringslivet som investerer
+for lite i forskning. Og der er vi helt enige. </A>
+            <A Type="Minnrykk">Hva har regjeringen gjort? Helt konkret har
+regjeringen lansert nye forskningssatsinger i en skala på flere
+milliarder kroner, der norsk næringsliv har en helt sentral rolle.
+Det vil også framover være viktig for meg å forsterke og videreutvikle
+dette arbeidet. Jeg vil løfte fram at patentene for norske forskningsmiljøer
+har mer enn doblet seg de siste årene, gjennom teknologioverføringskontorene
+på norske universiteter, og det er en utvikling som er mye bedre
+enn i samfunnet for øvrig. Det viser at vi har virkemidler som virker.
+Vi har også satt ned en skattekommisjon, og vi er ikke fremmed for
+å diskutere skatt, men vi har også andre virkemidler på menyen. </A>
+          </Replikk>
+          <Replikk Id="i1000937">
+            <A>
+              <Navn personID="MTY">
+Mathilde Tybring-Gjedde (H) [10:43:02]:</Navn> Det er interessant
+å merke seg at vi har en regjering som først driver næringsfiendtlig
+politikk og så kommer med pekefingeren mot næringslivet og spør
+hvorfor de ikke satser mer på forskning og utvikling.</A>
+            <A Type="Minnrykk">Det jeg kanskje synes er interessant ved statsråden,
+er at hun egentlig virker veldig fornøyd med egen innsats, samtidig som
+man i fjor så en alarmerende reduksjon i den samlede forskningsinnsatsen
+i Norge. I fjor gikk forskningsinnsatsen for første gang ned både
+i kroner og øre og i folk i alle sektorer – i instituttsektoren,
+i høyere utdanning og i næringslivet. SSB skriver rett ut at så
+lenge målingene har pågått, og vi snakker altså om målinger som
+i hvert fall har pågått siden 1960-tallet, har det alltid vært realvekst.
+Kun i 2004, under finanskrisen og under koronapandemien, var det
+realnedgang, og selv da var ikke reduksjonen så stor som den var
+i fjor. Antallet forskere har falt for første gang siden 1960-tallet,
+både i instituttsektoren og i høyere utdanning, og dette skjer samtidig
+som landene rundt oss satser. Er ikke dette alarmerende?</A>
+          </Replikk>
+          <Replikk Id="i1000939">
+            <A>
+              <Navn personID="SIGAAS">
+Statsråd Sigrun Aasland [10:44:05]:</Navn> I saldert budsjett for
+2026 blir det bevilget omtrent 51,3 mrd. kr til forskning og utvikling.
+Det er en nominell økning på 2,7 mrd. kr fra 2025 og tilsvarer en
+realvekst på 1,95 pst.</A>
+            <A Type="Minnrykk">Så er det sånn at det under pandemien ble bevilget
+betydelige midler til f.eks. midlertidige stillinger i forskningssektoren,
+som over tid og etter pandemien har blitt faset ut. I løpet av de
+siste ti årene har rammebevilgningene til både universiteter og
+høyskoler og offentlig forskningsinnsats holdt seg stabile og økt
+noe.</A>
+            <A Type="Minnrykk">Jeg mener det skal være en sterk offentlig
+finansiering av forskning. Det er et viktig fellesgode som vi alle
+må ta ansvar for, og så mener jeg i tillegg at norsk næringsliv
+har interesse av og nytte av å både delta mer og investere mer i
+forskning. Jeg opplever ikke at norsk næringsliv oppfatter dette
+som en pekefinger. Snarere møtes denne invitasjonen med stor entusiasme,
+og det tror jeg vi kommer til å se mer av i dagene som kommer.</A>
+          </Replikk>
+          <Replikk Id="i1000941">
+            <A>
+              <Navn personID="MTY">
+Mathilde Tybring-Gjedde (H) [10:45:10]:</Navn> Arbeiderpartiet har
+styrt siden 2021 – ikke bare siden i fjor. Resultatet etter fire
+år med Arbeiderpartiet er at vi nå ser et alarmerende fall, et sjeldent
+fall, i den totale forskningsinnsatsen i Norge – ja, i næringslivet,
+som statsråden er veldig opptatt av å peke på, men også i det offentlige,
+altså i høyere utdanning og instituttsektoren. Det er altså bare
+tre år tidligere hvor det har vært den type fall, og fallet var
+størst i fjor. Det er situasjonen der ute i den sektoren som Arbeiderpartiet
+har styrt nå i fire år.</A>
+            <A Type="Minnrykk">Jeg er enig i at vi må gjøre mer for næringslivet,
+men også der gjelder spørsmålet til regjeringen: Statsråden sier
+nå at skattepolitikken er en svært liten del av det som skal til
+for at også næringslivet skal ha muskler til å investere i forskning og
+utvikling, tiltrekke seg internasjonal kompetanse og internasjonale
+forskere og starte gründerskap og gründermiljøer. Selvfølgelig har
+skattepolitikken veldig mye å si. Her har regjeringen nå aktivt
+i fire år ført en politikk som gjør at andre land rundt oss tiltrekker
+seg kompetanse, tiltrekker seg forskning og investerer i det, mens
+næringslivet dessverre ikke har den samme muligheten.</A>
+          </Replikk>
+          <Replikk Id="i1000943">
+            <A>
+              <Navn personID="SIGAAS">
+Statsråd Sigrun Aasland [10:46:15]:</Navn> Jeg skal forsøke å gjenta
+svaret mitt på en mer konkret måte. Det er altså sånn at den nedgangen
+representanten viser til, ikke er en trend i offentlig forskningsfinansiering
+– offentlig forskningsfinansiering øker fra 2025 til 2026 – men
+utelukkende har å gjøre med utfasing av tilleggsmidler som kom under
+pandemien, og slik er det på svært mange samfunnsområder.</A>
+            <A Type="Minnrykk">Denne regjeringen investerer ikke bare penger
+i forskning. Vi gjør også tydelige prioriteringer innenfor polarforskning,
+kvanteforskning, kunstig intelligens, totalforsvar og andre store,
+viktige områder som det er nødvendig å bygge kunnskap på, som er
+nødvendige for vår sikkerhet og konkurransekraft, og der vi i mye
+større grad enn tidligere inviterer næringslivet til både å delta
+og å ha en ledende rolle.</A>
+          </Replikk>
+          <Replikk Id="i1000945">
+            <A>
+              <Navn personID="MARVEA">
+Marit Vea (V) [10:47:26]:</Navn> Norge er avhengig av forskning,
+og den norske forskningen er avhengig av deltakelse i EUs Horisont-program.
+Gjennom deltakelse i Horisont-programmet har institutter og universiteter
+hentet hjem hele 17 mrd. kr for å finansiere norsk forskning og
+utvikling. Dette handler kort og godt om framtidens arbeidsplasser, grønn
+teknologi og beredskap for landet vårt.</A>
+            <A Type="Minnrykk">Akkurat nå reforhandles Horisont-programmet
+i EU, og det mangler en viktig setning i utkastet til det nye programmet.
+Det står ikke lenger at enhver begrensning som gjøres i programmet,
+skal være i samsvar med EØS-avtalen. Med Norges manglende unntak
+for EØS’ ståltoll friskt i minne er det ikke akkurat alarmistisk
+å være bekymret for at norske forskere skal bli ekskludert fra det
+nye Horisont-programmet.</A>
+            <A Type="Minnrykk">Jeg lurer derfor på om statsråden kan garantere
+at Norge også i neste periode er fullverdig assosiert med Horisont
+Europa på like vilkår som EU-landene, og at regjeringen aktivt arbeider
+for å få EØS-klausulen inn igjen. Og dersom EU likevel strammer
+til: Hvilke tiltak settes inn for å hindre kompetanse- og innovasjonstap?</A>
+          </Replikk>
+          <Replikk Id="i1000947">
+            <A>
+              <Navn personID="SIGAAS">
+Statsråd Sigrun Aasland [10:48:37]:</Navn> Tusen takk for spørsmålet.
+Jeg er helt enig med representanten i at vår deltakelse i EUs forskningsprogrammer
+er viktig. De er viktige for norsk forskning, for norsk samfunn
+og viktige for verden, for internasjonalt samarbeid om både forskning,
+konkurransekraft og sikkerhet blir stadig viktigere i den verdenen
+vi lever i.</A>
+            <A Type="Minnrykk">Det er, som representanten sier, nå i forhandling.
+Kommisjonen har presentert et forslag. I forrige runde fikk Norge og
+EFTA-landene inn en spesifikk setning med referanse til EØS-avtalen.
+Jeg har hatt mange gode bilaterale møter både med EUs kommissær
+for forskning og med flere av mine forskningskollegaer i EU-landene
+og fremmet dette. Vi har også lagt fram et felles EFTA-standpunkt
+med spørsmål om den samme setningen. Dette jobber vi med på mange
+nivåer. Det er stor interesse for å ha Norge med i det neste rammeprogrammet.
+Vi jobber fortsatt med dette, og jeg har stor tro på at vi skal
+få til gode resultater.</A>
+          </Replikk>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [10:49:37]:</Navn> Vi går til
+neste hovedspørsmål.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1000949">
+            <A>
+              <Navn personID="MIREHB">
+Mirell Høyer-Berntsen (SV) [10:49:54]:</Navn> Jeg vil begynne med
+å ønske vår kulturminister et riktig godt nytt år, og jeg ser fram
+til en ny, spennende sesjon.</A>
+            <A Type="Minnrykk">Økonomi er fortsatt en av de største grunnene
+til at barn og unge faller utenfor idretten, og jeg har tidligere
+uttalt at idretten er en av våre aller største arenaer for inkludering.
+Nå peker rapporter på at økte kostnader de siste årene har gjort økonomi
+til en barriere for flere, og at dette først og fremst skyldes den
+generelle prisveksten i samfunnet. Som norsk idrett selv uttrykker,
+skal økonomi ikke være en begrensning for deltakelse, og de understreker
+at behovet for offentlige rammevilkår må støtte aktivitetstilbudene,
+slik at barn fra familier med lav inntekt får delta. </A>
+            <A Type="Minnrykk">Manglende deltakelse kan bety at noen barn
+går glipp av både fysisk aktivitet og sosial tilhørighet. Vi i SV
+mener at spillemidler alene ikke kan løse dette problemet, for øremerking
+til økonomisk inkludering kan jo gå på bekostning av finansiering
+til anlegg og aktivitet, som også er avgjørende for at barn skal
+kunne være aktive. Derfor mener vi i SV at innsatsen mot økonomi
+som barriere må suppleres med midler over statsbudsjettet og gjøres
+til en varig og forutsigbar ordning – ikke bare med uforutsigbare
+enkeltbevilgninger, slik det har vært gjort de siste årene.</A>
+            <A Type="Minnrykk">Mitt spørsmål til statsråden er: Hvordan vil
+man sikre at arbeidet mot økonomi som barriere i idretten blir langsiktig og
+forutsigbart, slik at barn og unge faktisk får mulighet til å delta
+i aktivitet, fellesskap og mestring, også etter at midlertidige
+ekstrabevilgninger tar slutt?</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1000951">
+            <A>
+              <Navn personID="LBF">
+Statsråd Lubna Boby Jaffery [10:51:56]:</Navn> Jeg vil også ønske
+representanten godt nytt år, og vi ser fram til å samarbeide om
+bl.a. dette temaet, som handler om inkludering av barn og unge i
+idretten.</A>
+            <A Type="Minnrykk">Denne regjeringen har vært opptatt av å sørge
+for nettopp at økonomi ikke skal være en barriere i idretten, og
+da ikke bare gjennom en ekstrainnsats som samarbeidspartiene våre ga
+i nysalderingen, men også gjennom spillemidlene, der man har gjort
+permanent enkelte ordninger som gis til kommuner og idrettslag i
+kommuner der man har barn som lever i vedvarende fattigdom. Det
+er også slik at antall medlemmer i Norges idrettsforbund har økt
+de siste årene, og det tyder jo på at flere barn og unge faktisk
+blir med i idretten.</A>
+            <A Type="Minnrykk"> Ja, økonomi er en barriere, men vi må gjøre
+noe med dette på flere fronter. Jeg er usikker på om statsbudsjettet
+er veien å gå, all den tid dette er penger vi må kjempe inn hvert
+år. Det er vanskelig å få nok penger til alle gode formål, og derfor
+er spillemidlene en kjærkommen del av de pengene vi kan bruke for
+å inkludere barn og unge.</A>
+            <A Type="Minnrykk">Jeg er opptatt av at også andre ting er med
+på å gjøre at barn og unge kan delta i aktivitet, og det er bl.a.
+det denne regjeringen gjør når det gjelder billigere SFO og billigere
+barnehage, og også det at man gir støtte til aktiviteter i kommunene,
+bl.a. BUA, er med på å bidra til at barrierene blir tatt ned.</A>
+            <A Type="Minnrykk">Det er også andre ting som gjør at barn og
+unge ikke deltar, og det tror jeg er et tema som vi må bruke tid
+på, for vi vet f.eks. at kvinner og jenter med innvandrerbakgrunn
+deltar i aktiviteter i mye mindre grad enn sine brødre.</A>
+            <A Type="Minnrykk">Jeg er glad for at dette er et tema og ser
+fram til at vi skal jobbe sammen for å få ned barrierene.</A>
+          </Hovedinnlegg>
+          <Replikk Id="i1000953">
+            <A>
+              <Navn personID="MIREHB">
+Mirell Høyer-Berntsen (SV) [10:54:01]:</Navn> Jeg er fortsatt veldig
+bekymret. Selv om statsråden svarer som hun gjør, tror jeg vi trenger
+mer forutsigbar finansiering til idretten, for de melder så tydelig
+om det. Med hensyn til spillemidlene ser vi at det går ut over anlegg
+og aktivitetsutstyr man er helt nødt til å bruke. Jeg spør derfor
+igjen: Hvordan vil statsråden sørge for at staten gir idrettslagene
+forutsigbare rammer over statsbudsjettet, slik at kostnadspresset
+på familiene reduseres og barn ikke mister tilgang til aktivitet
+og sosialt fellesskap?</A>
+          </Replikk>
+          <Replikk Id="i1000955">
+            <A>
+              <Navn personID="LBF">
+Statsråd Lubna Boby Jaffery [10:54:43]:</Navn> Denne regjeringen
+har prioritert både å gi penger til lagene sånn at de kan inkludere
+barn og unge i aktiviteter, og vi har prioritert anlegg. Vi har
+fått ned etterslepet på anlegg betydelig de siste fire årene. Nå
+er det i snitt ett års ventetid. Man må vente ett år, det er sånn
+vi må gjøre det, men dette er noe vi prioriterer i tildelingen av
+spillemidler – å satse på anlegg sånn at det bygges flere. Vi vil
+jo at flere av de store byene, som f.eks. Oslo, skal bygge enda
+mer. De bygger nesten ingen ting, og de får jo alle spillemidlene
+de søker om. Vi gjør også mer, som å sørge for at man har midler
+som går direkte til idrettskretsene som har barn som trenger spesiell
+inkludering. Jeg er veldig redd for at vi uthuler enerettsmodellen hvis
+vi begynner å gi penger over statsbudsjettet også, men dette er
+en samtale vi må ha i det kommende året.</A>
+          </Replikk>
+          <Replikk Id="i1000957">
+            <A>
+              <Navn personID="MIREHB">
+Mirell Høyer-Berntsen (SV) [10:55:49]:</Navn> Jeg vil gjerne stille
+et spørsmål om inkludering av flere via aktivitetshjelpemidler.
+Vi vet at en av de aller største barrierene for idrettsdeltakelse
+for personer med nedsatt funksjonsevne er mangelen på utstyr tilpasset
+deres individuelle funksjonsnedsettelse og kropp. I en rapport utarbeidet
+av Oslo Economics i 2020 sa halvparten av respondentene at manglende
+tilgang til aktivitetshjelpemidler har begrenset deres idrettsdeltakelse.
+Aktivitetshjelpemidler for personer over 26 år er en overslagsbevilgning.
+I 2025 gikk denne ordningen tom for penger 6. januar. Det var altså
+i går, for ett år siden. Etter dette får ingen med nedsatt funksjonsevne
+over 26 år støtte til aktivitetshjelpemidler. Den samme rapporten
+viser at potten minimum bør økes til 200 mill. kr for å sikre at
+alle med funksjonsnedsettelse får aktivitetshjelpemidler. </A>
+            <A Type="Minnrykk">Mitt spørsmål er: Vil statsråden gjøre noe
+med dette og rettighetsfeste aktivitetshjelpemidler for personer
+over 26 år?</A>
+          </Replikk>
+          <Replikk Id="i1000959">
+            <A>
+              <Navn personID="LBF">
+Statsråd Lubna Boby Jaffery [10:56:54]:</Navn> Hvis jeg kunne gjort
+noe med det ene og alene, hadde jeg gjort det, men den potten ligger
+hos arbeids- og inkluderingsministeren. Derfor kan jeg ikke svare
+på når regjeringen får gjort dette, eller om det er noe vi kommer
+til å prioritere det kommende året. Det er klart det er en viktig
+pott for å gjøre det slik at folk kan få mulighet til å delta, og
+det er et tema som diskuteres. Jeg kan ikke gå utover mine fullmakter
+og inn på arbeids- og inkluderingsministerens budsjett, selv om det
+selvfølgelig kunne vært et ønske fra enkelte. Vi må i totaliteten
+av hele statsbudsjettet se hvilke prioriteringer vi gjør, men det
+er klart dette er et enkelttiltak som også jeg som idrettsminister
+ser kan være med på å gjøre at flere mennesker kommer seg ut i aktivitet.</A>
+          </Replikk>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [10:57:55]:</Navn> Vi går videre
+til neste hovedspørsmål.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1000961">
+            <A>
+              <Navn personID="GP">
+Geir Pollestad (Sp) [10:58:08]:</Navn> Spørsmålet mitt går til statsråden
+for forsking og høgare utdanning. </A>
+            <A Type="Minnrykk">I statsbudsjettet for 2026 føreslo regjeringa
+å kutta studieplassar i sjukepleie i distrikta og i Nord-Noreg.
+Grunngjevinga for dette var låge søkjartal. I forhandlingane i Stortinget om
+statsbudsjettet vart dette omgjort. Desse studieplassane vart likevel
+oppretthaldne. </A>
+            <A Type="Minnrykk">Når regjeringa bruker låge søkjartal som grunngjeving for
+å føreslå å leggja ned studieplassar, burde jo ein logisk konsekvens
+vera at høge søkjartal var ei grunngjeving for å oppretthalda studieplassar.
+Sånn er dessverre ikkje logikken til regjeringa og Arbeidarpartiet. </A>
+            <A Type="Minnrykk">I Alta er det oppretta politiutdanning. Dette
+er ei svært populær utdanning, med over ti søkjarar per studieplass.
+Likevel føreslår regjeringa å leggja ned politiutdanninga i Alta. Så
+mitt spørsmål til statsråden for høgare utdanning er: Bør ikkje
+populære utdanningar som gjev kompetanse som me treng, oppretthaldast? </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1000963">
+            <A>
+              <Navn personID="SIGAAS">
+Statsråd Sigrun Aasland [10:59:27]:</Navn> Tusen takk for et godt
+spørsmål. </A>
+            <A Type="Minnrykk">Jeg vil først presisere at regjeringen ikke
+har lagt ned studieplasser i distriktene. Regjeringen foreslo i
+statsbudsjettet for 2026 å prioritere opp studieplasser på steder
+med ikke bare høye søkertall over tid, men høy gjennomføringsgrad.
+Det ble også foreslått å fullfinansiere de studentene og studieplassene som
+var på enkelte institusjoner, men der man altså hadde færre studenter
+og lavere gjennomføring enn det man over flere år har blitt bedt
+om å levere. </A>
+            <A Type="Minnrykk">Vi prioriterer sykepleierutdanning. Derfor
+har vi også i budsjettforliket blitt enige om å styrke disse studiestedene, med
+en klar forventning om at de må øke både opptaket og gjennomføringsgraden
+av sykepleierstudenter. </A>
+            <A Type="Minnrykk">Så er jeg glad for at vi sammen med Senterpartiet
+over de siste fire årene tydelig har prioritert gode utdanningstilbud
+i distriktene og brukt 320 mill. kr på å opprette og styrke desentraliserte
+utdanningstilbud, senest i budsjettet for 2026, med midler til studieplasser
+i Kirkenes. Det er viktig for tilgang på utdanning i hele landet.
+Det er også viktig for sikkerhet og beredskap. Vi tar tilsvarende
+grep mange steder fordi vi trenger tilgang på viktig kompetanse
+i hele landet. </A>
+            <A Type="Minnrykk">Akkurat når det gjelder politiutdanningen,
+ligger den under justis- og beredskapsministerens ansvarsområde.
+Jeg vil likevel på generelt grunnlag si at vi kommer til å jobbe
+systematisk framover både med å prioritere de utdanningene samfunnet
+har behov for, og med å sørge for at vi har god tilgang på utdanningsmuligheter
+over hele landet. </A>
+          </Hovedinnlegg>
+          <Replikk Id="i1000965">
+            <A>
+              <Navn personID="GP">
+Geir Pollestad (Sp) [11:01:18]:</Navn> Eg er fullt klar over at politiutdanninga
+i Alta ligg konstitusjonelt under justisministeren. Det er likevel
+slik at spørsmålet mitt handlar om det prinsipielle, nemleg om når
+det er kompetanse som vert etterspurd, og som me treng.</A>
+            <A Type="Minnrykk">I regjeringa sin eigen nordområdestrategi vert
+det peika på både tryggleik, beredskap og desentralisert utdanning,
+og ein må seia at politiutdanninga i Alta har vore ein braksuksess.
+Eg tenkjer at viss regjeringa har ei felles tilnærming til høgare
+utdanning og utdanning av kompetanse som me treng, burde regjeringa
+ha vidareført tilbodet med politiutdanning i Alta, for dette er
+kompetanse som landsdelen treng. Då stiller eg spørsmålet på ny:
+Er det ikkje ein god idé å oppretthalda populære studieplassar i
+distrikta, som bl.a. politiutdanninga i Alta?</A>
+          </Replikk>
+          <Replikk Id="i1000967">
+            <A>
+              <Navn personID="SIGAAS">
+Statsråd Sigrun Aasland [11:02:22]:</Navn> Jeg er glad for at representanten
+spør prinsipielt. Jeg skal også svare prinsipielt. Jeg vil si at
+det er mange kriterier for å opprettholde og opprette studier på
+ulike steder. Det handler om etterspørsel, eller popularitet, som
+representanten kaller det. Det handler om behov i samfunnet. Det
+handler om dimensjonering og prioritering av ulike studiesteder.
+Det handler også om de ulike studiestedenes egne ønsker og signaler
+om hvor de ønsker å tilby utdanning. </A>
+            <A Type="Minnrykk">Igjen: Det konkrete svaret på spørsmålet om
+politiutdanningen i Alta må jeg overlate til justis- og beredskapsministeren,
+men det prinsipielle svaret mitt er fortsatt at regjeringen er opptatt
+av å tilby utdanning av høy kvalitet over hele landet og på en mest
+mulig forutsigbar måte.</A>
+          </Replikk>
+          <Replikk Id="i1000969">
+            <A>
+              <Navn personID="TRINFA">
+Trine Fagervik (Sp) [11:03:22]:</Navn> Det er krevende å rekruttere
+og beholde politifolk i nord, og i den sikkerhetspolitiske situasjonen
+er det særlig viktig at politiet i nord har god rekruttering. Med
+desentraliserte utdanningstilbud, kombinert med Senterpartiets gjennomslag
+for nedskriving av studielån, kan vi lykkes. Regjeringen skriver
+selv i nordområdemeldingen som ble lagt fram 26. august i 2025,
+at desentralisert utdanning er etablert i Alta. Videre skriver den
+at det skal være kraftfull satsing på utdanning i nord. Det går
+på regjeringens troverdighet løs når den på den ene siden lover kraftfull
+satsing, men i realiteten bygger ned utdanningstilbud systematisk.
+Er det i tråd med regjeringens nordområdesatsing å legge ned populære
+utdanningstilbud med stor oversøkning i nord?</A>
+          </Replikk>
+          <Replikk Id="i1000971">
+            <A>
+              <Navn personID="SIGAAS">
+Statsråd Sigrun Aasland [11:04:13]:</Navn> Jeg oppfatter at spørsmålet
+i stor grad ligner på spørsmålet fra representanten Pollestad, og
+jeg skal igjen svare prinsipielt.</A>
+            <A Type="Minnrykk">For det første bygger ikke regjeringen ned
+utdanningstilbud. Regjeringen prioriterer utdanningstilbud også
+i distriktene. Vi trenger tilgang på gode, desentraliserte utdanningstilbud,
+også innenfor sikkerhet og beredskap. De 6 mill. kr som ble bevilget
+til Universitetet i Tromsø for å tilby desentralisert utdanning
+– bl.a. i sikkerhet og beredskap, i Kirkenes – er en viktig del
+av dette, i tillegg til svært mange andre gode, desentraliserte
+utdanningstilbud vi har over hele landet. Det tror jeg er en god
+tilnærming til hvordan vi også må tenke framover, der vi har sterke
+campuser ved utdanningsinstitusjonene våre, men i tillegg supplerer
+det med desentraliserte tilbud for voksne eller for folk som av
+ulike årsaker ikke ønsker eller kan flytte på seg.</A>
+          </Replikk>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:05:13]:</Navn> Vi går til
+neste hovedspørsmål.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1000973">
+            <A>
+              <Navn personID="HEGNYH">
+Hege Bae Nyholt (R) [11:05:29]:</Navn> Solberg-regjeringen gikk
+i 2019 til angrep på UH-sektorens autonomi da de foreslo å overføre
+sektorens bygg til Statsbygg. For dem som ikke husker det, var det
+et trekløver bestående av forsknings- og høyere utdanningsminister
+Iselin Nybø fra Venstre, kommunal- og moderniseringsminister Monica
+Mæland fra Høyre og finansminister Siv Jensen fra FrP som gikk i
+bresjen for dette på den tiden.</A>
+            <A Type="Minnrykk">En samlet sektor slo tilbake mot høyresidens
+markedsgjøring av eiendomsforvaltningen i statlig sivil sektor,
+og Arbeiderpartiet falt den gangen ned på riktig side, ved å lytte
+til fagforeninger og til ledelsen ved de utsatte universitetene.
+Det var denne dialogen og åpenheten som sikret at saken ble tilstrekkelig
+belyst, og som gjorde at det gikk an å stoppe den nevnte markedsgjøringen
+av offentlig sektor, som ville svekket de fem gamle, selvforvaltende
+universitetenes autonomi.</A>
+            <A Type="Minnrykk">Det var derfor med stor undring jeg leste i
+budsjettproposisjonen for 2026 at Kunnskapsdepartementet utreder
+en ny kapitalbelastningsmodell for de fem universitetene som forvalter
+eiendom på vegne av staten. Å forvalte egen eiendom sikrer at universitetene
+oppfyller samfunnsoppdraget, gjennom fortsatt å bruke eiendom strategisk
+for å bygge opp under sektorens autonomi. I dagens politiske landskap
+er dette viktigere enn noensinne.</A>
+            <A Type="Minnrykk">Derfor er mitt spørsmål til statsråden: Har
+regjeringen egne analyser som viser at en slik modell ikke vil svekke
+universitetenes økonomi og autonomi, og kan disse i så fall legges
+fram for Stortinget?</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1000975">
+            <A>
+              <Navn personID="SIGAAS">
+Statsråd Sigrun Aasland [11:07:04]:</Navn> Jeg vil takke for spørsmålet
+og også få lov til å skryte av mine forgjengere i denne posten,
+som har gjort en stor innsats for å effektivisere og nedskalere
+høye byggekostnader i denne sektoren. Samtidig er det sånn at universitetssektoren,
+og særlig de selvforvaltende universitetene, har noen særlige oppgaver
+knyttet til forvaltning av eldre, historisk viktige bygg som av
+ulike historiske årsaker tilligger deres ansvar. </A>
+            <A Type="Minnrykk">Det er riktig, som representanten sier, at
+det i budsjettproposisjonen for 2026 sies at vi utreder en modell
+med sikte på å sørge for at det fortsatt skal være gode insentiver
+for å drive vedlikehold av alle bygg i denne sektoren. Istedenfor
+en garanti vil jeg si at det for regjeringen er et premiss for hele
+det arbeidet, og for den utredningen, at enhver endring i modell for
+finansiering av bygg ikke skal gå utover universitetenes samfunnsoppdrag
+eller kjerneoppgaver. Det ligger til grunn for det arbeidet som
+nå gjøres.</A>
+          </Hovedinnlegg>
+          <Replikk Id="i1000977">
+            <A>
+              <Navn personID="HEGNYH">
+Hege Bae Nyholt (R) [11:08:15]:</Navn> Takk for svaret. Det er åpenbart
+gjort en del arbeid i utredninger, og jeg vil derfor fortsette med
+å spørre ministeren: Har dere fått utredninger eller hatt dialog
+med de fem gamle, som de omtales som, om hvilke effekter en slik
+endring i kapitalbelastning vil ha for sektoren? Hvis ja, kan disse
+deles?</A>
+          </Replikk>
+          <Replikk Id="i1000979">
+            <A>
+              <Navn personID="SIGAAS">
+Statsråd Sigrun Aasland [11:08:36]:</Navn> Prosessen som omtales
+i budsjettproposisjonen, handler nettopp om bl.a. å ha en slik dialog,
+med utgangspunkt om at enhver endring skal videreføre det handlingsrommet,
+den økonomien og de oppgavene som universitetene gjennomfører, og
+å finne ut om det er mulig å gjøre forvaltningen og finansieringen
+av vedlikehold av eldre bygg og eventuelle nye bygg på en mer effektiv
+måte. Jeg er enig med representanten i at det er svært viktig at
+dette ikke går ut over universitetenes kjerneoppdrag.</A>
+          </Replikk>
+          <Replikk Id="i1000981">
+            <A>
+              <Navn personID="HEGNYH">
+Hege Bae Nyholt (R) [11:09:14]:</Navn> Spørsmålet mitt var om det
+er mulig å få mer innsyn i de utredninger og den dialogen som har
+foregått. Vi kunne lese i Khrono i dag at journalistene har fått
+avslag på dette. Regjeringen snakker mye om tillitsreform og mindre
+om detaljstyring og åpenhet. Hvordan samsvarer det med å vurdere
+en modell der staten tar over eierskapet til universitetsbygg og
+i praksis ønsker en sentral styring av sektoren, samt at det i liten
+grad er et offentlig ordskifte om dette?</A>
+          </Replikk>
+          <Replikk Id="i1000983">
+            <A>
+              <Navn personID="SIGAAS">
+Statsråd Sigrun Aasland [11:09:45]:</Navn> Det ligger fast at universitetene
+U5 skal være selvforvaltende institusjoner, så det ligger ingen
+intensjon her om å overdra bygninger. Det er heller ikke foretatt
+noen utredning som det er mulig å offentliggjøre, for dette er omtalt
+i proposisjonen som et arbeid vi går i gang med. Det er også dialog
+med disse institusjonene, og deres viktige innspill på hva som er
+mulig og hensiktsmessig, er en helt sentral del av arbeidet.</A>
+          </Replikk>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:10:17]:</Navn> Dermed er den
+muntlige spørretimen omme.</A>
+          </Presinnlegg>
+        </Sporretime>
+        <Sakreferat Id="i1000985">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak
+nr. 2</Uth> [11:10:21]</Saknr>
+            <Saktittel Id="i1000987">
+              <A>Referat</A>
+            </Saktittel>
+          </Sakshode>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:10:23]:</Navn> Det foreligger
+ikke noe referat.</A>
+            <A Type="Minnrykk">Dermed er dagens kart ferdigbehandlet. Forlanger
+noen ordet før møtet heves? – Møtet er hevet.</A>
+          </Presinnlegg>
+        </Sakreferat>
+      </Saker>
+    </Hovedseksjon>
+    <Sluttseksjon>
+      <Hevet>
+        <A>Møtet hevet kl. 11.11.</A>
+      </Hevet>
+    </Sluttseksjon>
+  </Mote>
+</Forhandlinger>

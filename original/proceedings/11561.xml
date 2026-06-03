@@ -1,0 +1,3256 @@
+<Forhandlinger Status="Komplett">
+  <Mote moteID="11561">
+    <Startseksjon>
+      <Motestart>
+        <Tittel>Møte tirsdag den 6. januar 2026 kl. 10</Tittel>
+        <President Id="i1005409" personID="MOW">
+          <A>President: <Uth Type="Sperret">Morten
+Wold</Uth></A>
+        </President>
+        <Dagsorden>
+          <Tittel>Dagsorden <DagsordenNR>(nr. 33):</DagsordenNR></Tittel>
+          <DagsordenSak Id="i1005411">
+            <Liste Type="Dagsorden">
+              <Pkt>
+                <A> 1.	Innstilling
+fra helse- og omsorgskomiteen om Representantforslag frå stortingsrepresentanten
+Kjersti Toppe om ein konkret og tidfesta opptrappingsplan for utvikling
+av distriktspsykiatriske senter (DPS)</A>
+                <A>(Innst. 72 S (2025–2026), jf. Dokument 8:18 S (2025–2026))</A>
+              </Pkt>
+              <Pkt>
+                <A> 2.	Innstilling fra helse- og omsorgskomiteen om Endringer i
+helsepersonelloven og pasientjournalloven mv. (taushetsplikt og
+tilgjengeliggjøring av pasientopplysninger)</A>
+                <A>(Innst. 71 L (2025–2026), jf. Prop. 154 L (2024–2025))</A>
+              </Pkt>
+              <Pkt>
+                <A> 3.	Innstilling fra næringskomiteen om Samtykke til ratifikasjon
+av konvensjon om skiping av ein mellomstatleg organisasjon for utvikling
+og utnytting av digitale havsystem og informasjonstenester (Mercator
+internasjonale senter for havet) av 23. april 2025</A>
+                <A>(Innst. 66 S (2025–2026), jf. Prop. 5 S (2025–2026))</A>
+              </Pkt>
+              <Pkt>
+                <A> 4.	Referat</A>
+              </Pkt>
+            </Liste>
+          </DagsordenSak>
+        </Dagsorden>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:00:17]:</Navn> Da dette er
+den første møtedagen i det nye året, vil presidenten benytte anledningen
+til å ønske alle et riktig godt nytt år!</A>
+          <A Type="Minnrykk">Representantene Jorunn Gleditsch Lossius, Mona
+Nilsen, Farukh Qureshi, Ruth Mariann Hop og Mari Holm Lønseth, som
+har vært permittert, har igjen tatt sete.</A>
+          <A Type="Minnrykk">Følgende innkalte vararepresentanter tar nå
+sete:</A>
+          <Liste Type="Fri">
+            <Pkt>
+              <A>For Nordland: Trine Fagervik</A>
+            </Pkt>
+            <Pkt>
+              <A>For Telemark: Helene Røsholt</A>
+            </Pkt>
+            <Pkt>
+              <A>For Vestfold: Ada Lassen-Urdal</A>
+            </Pkt>
+          </Liste>
+          <A Type="Minnrykk">Fra Senterpartiets stortingsgruppe foreligger
+søknad om velferdspermisjon for representanten Erling Sande i tiden
+fra og med 6. til og med 14. januar.</A>
+          <A Type="Blanklinjeminnrykk">Etter forslag fra presidenten ble
+enstemmig besluttet:</A>
+          <Liste Type="Num">
+            <Pkt>
+              <A>Søknaden behandles straks og innvilges.</A>
+            </Pkt>
+            <Pkt>
+              <A>Vararepresentanten Aleksander Øren Heen innkalles for å
+møte i permisjonstiden.</A>
+            </Pkt>
+          </Liste>
+        </Presinnlegg>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:01:15]:</Navn> Aleksander
+Øren Heen er til stede og vil ta sete.</A>
+          <A Type="Minnrykk">Representanten Kjersti Toppe vil fremsette
+et representantforslag.</A>
+        </Presinnlegg>
+        <Hovedinnlegg Id="i1005413">
+          <A>
+            <Navn personID="KJT">
+Kjersti Toppe (Sp) [10:01:35]:</Navn> På vegner av stortingsrepresentantane
+Trine Fagervik og meg sjølv vil eg fremja eit forslag om gratis
+legemiddel på kvit resept for barn opptil seks år.</A>
+        </Hovedinnlegg>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:01:49]:</Navn> Forslaget vil
+bli behandlet på reglementsmessig måte. </A>
+        </Presinnlegg>
+      </Motestart>
+    </Startseksjon>
+    <Hovedseksjon Id="i1005415">
+      <Saker>
+        <Sak saksKartNr="1" sakID="105052">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak nr. 1</Uth> [10:01:57]</Saknr>
+            <Saktittel Id="i1005419">
+              <A>Innstilling fra helse- og omsorgskomiteen
+om Representantforslag frå stortingsrepresentanten Kjersti Toppe
+om ein konkret og tidfesta opptrappingsplan for utvikling av distriktspsykiatriske
+senter (DPS) <Uth Type="RETT">(Innst. 72 S (2025–2026), jf. Dokument
+8:18 S (2025–2026))</Uth></A>
+            </Saktittel>
+          </Sakshode>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [10:02:13]:</Navn> Etter ønske
+fra helse- og omsorgskomiteen vil presidenten ordne debatten slik:
+3 minutter til hver partigruppe og 3 minutter til medlemmer av regjeringen.</A>
+            <A Type="Minnrykk">Videre vil det – innenfor den fordelte taletid
+– bli gitt anledning til inntil syv replikker med svar etter innlegg
+fra medlemmer av regjeringen, og de som måtte tegne seg på talerlisten
+utover den fordelte taletid, får også en taletid på inntil 3 minutter.</A>
+          </Presinnlegg>
+          <Presinnlegg Id="i1005421">
+            <A>
+              <Navn personID="KEI">
+Kristian August Eilertsen (FrP) [10:02:50]</Navn> (ordfører for
+saken): Jeg vil først takke komiteen for en god behandling av et
+utrolig viktig forslag, der vi også har klart å samle oss relativt
+tverrpolitisk om flere forslag. Komiteen gjennomførte muntlig høring
+i saken den 20. november, og der deltok det seks instanser. I tillegg
+har vi mottatt fire skriftlige høringsinnspill. </A>
+            <A Type="Minnrykk">Så over til selve saken. Den utviklingen vi
+ser i Norge i dag når det gjelder psykisk helse, er bekymringsfull.
+Vi ser at stadig flere sliter. Særlig er det flere barn og unge
+som sliter og har alvorlige utfordringer. Når det gjelder å behandle
+mennesker som har den typen utfordringer, er distriktspsykiatriske
+senter helt avgjørende for å kunne gi et tilbud til folk der de
+bor. Det er også veldig avgjørende for at pårørende skal kunne ha
+mulighet til å møte og ta del i behandlingsforløpet til sine nære
+og kjære. Derfor er det å ha en desentralisert struktur når det
+gjelder døgnplasser innenfor psykiatrien, utrolig viktig. </A>
+            <A Type="Minnrykk">Vi ser at angst og depresjon er lidelsene som
+rammer flest, og at det er særlig barn og unge som rammes av dette. Det
+er også veldig mange som ikke oppsøker hjelp, og veldig mange av
+dem som faktisk oppsøker hjelp, får hjelp altfor sent. Vi har i
+løpet av julen også sett en hel rekke oppslag i media som avdekker
+at det er veldig mange som i dag ender opp med å bli en fare for
+både samfunnet og seg selv fordi man får hjelp altfor sent. Det
+henger sammen med at de siste 20 årene – kanskje lenger enn det
+– har en hel rekke døgnplasser innenfor psykiatrien blitt bygd ned
+over hele landet. Vi ser at denne utviklingen fortsetter til tross
+for at man har vedtatt en opptrappingsplan som sier at man skal
+ha både flere døgnplasser i psykiatrien og en desentralisert struktur. </A>
+            <A Type="Minnrykk">Det som er oppsiktsvekkende, er at det er ved
+de distriktspsykiatriske sentrene i distriktene at døgnplassene
+og døgntilbud legges ned. Vi merker oss at både Legeforeningen og
+Fagforbundet i sine høringsinnspill trekker fram at det er redusert
+kapasitet, at man mister døgnfunksjoner flere plasser, og at veldig
+mange da får en lengre avstand til tilbud som tidligere var tilgjengelig
+lokalt. </A>
+            <A Type="Minnrykk">Derfor er det nå helt nødvendig å gripe inn
+og stoppe de prosessene som foregår ved Sykehuset Telemark og ved
+Universitetssykehuset Nord-Norge. Helseforetaket har vedtatt å legge
+ned DPS-en i Seljord. Det er også vedtatt å avvikle døgntilbudet
+ved DPS-ene på Storslett i Nordreisa kommune og på Storsteinnes
+i Balsfjord kommune, i Troms fylke. </A>
+            <A Type="Minnrykk">Derfor vil jeg, på vegne av Fremskrittspartiet,
+SV, Rødt og Senterpartiet, ta opp mindretallsforslag nr. 1, om å
+opprettholde det distriktspsykiatriske senteret i Seljord med døgntilbud
+på minst dagens nivå, og mindretallsforslag nr. 2, om de nevnte
+tilbudene i Troms. </A>
+          </Presinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [10:05:52]:</Navn> Representanten
+Kristian August Eilertsen har tatt opp de forslagene han refererte
+til.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1005423">
+            <A>
+              <Navn personID="KOS">
+Kai Steffen Østensen (A) [10:06:06]:</Navn> Godt nytt år, president,
+og takk til saksordføreren for arbeidet og redegjørelsen i saken.
+Dette er en sak som understreker viktigheten av fortsatt å løfte,
+prioritere og helhetlig rigge et psykisk helsetjenestetilbud som
+gir gode og tilgjengelige tjenester der folk bor og trenger hjelp.
+En sånn helhetlig tilnærming bygger på opptrappingsplanen for psykisk
+helse som vi la fram sammen med Senterpartiet i 2023. Planen er
+helhetlig og langsiktig og ser forebygging, lavterskeltilbud og
+tilbud i spesialisthelsetjenesten i sammenheng – et vesentlig poeng
+for Arbeiderpartiet – sånn at pasientene får riktig behandling til
+riktig tid, av de fagfolkene som har kompetansen til å gi det. </A>
+            <A Type="Minnrykk">De distriktspsykiatriske sentrene er en del
+av planen, og målet er klart: De skal utvikles og styrkes, for vi
+trenger både poliklinisk behandling, ambulant behandling og døgnbehandling
+i det som for Arbeiderpartiet handler om å sikre økt totalkapasitet
+for psykisk helsevern – og arbeidet følges opp. Arbeiderparti-regjeringen
+har bedt sykehusene lage konkrete og tidfestede planer for hvordan
+døgnkapasiteten i psykisk helsevern skal øke fram mot 2030, i tråd
+med framskrivingsplanene, både på sykehus og ved DPS-ene. Dette
+er et viktig oppdrag som er prioritert, og som sørger for at vi
+bygger på helheten i vår felles helsetjeneste. </A>
+            <A Type="Minnrykk">Komiteens flertall løfter et viktig poeng om
+fagfolkbehovet framover. Fagfolkene er grunnplanken i helsetjenesten
+– uten dem, ingen tjeneste. Det er også derfor vi er i dialog med alle
+partiene på Stortinget om en ny helsepersonellplan fram mot 2040,
+med mål om å styrke innsatsen for utdanning og rekruttering, men
+også for å sikre at vi beholder flere folk i tjenesten. Arbeidet
+er allerede i gang, og vi vil også inkludere psykisk helsevern.
+Innspillene til dette representantforslaget bør vi ta med oss inn
+i arbeidet. </A>
+            <A Type="Minnrykk">Til slutt: Arbeiderpartiet er tydelig på at
+Stortinget bør være varsomt med å gå inn i hvorvidt enkelttilbud
+skal legges ned eller opprettes ved ulike helseforetak. Vi setter
+de overordnede målene for vår felles helsetjeneste i denne sal,
+mens sykehusene må ha handlingsrommet til å kunne få levere på oppdraget.
+Det stadig å gripe inn i enkeltbeslutninger vil være å flytte de
+faglige forsvarlighetsvurderingene fra fagmiljøene til politikerne.
+La meg likevel understreke at vi ser behovet for å fornye dagens
+helsemodell, sånn at vi alltid har rammene til å gi verdens beste
+helsetjeneste. Det arbeidet er i gang med regjeringens varslede
+helsereform. </A>
+            <A Type="Minnrykk">Skal vi gi trygghet for folks psykiske helse,
+må vi sørge for at vi bygger opp totalkapasiteten i psykisk helsevern.
+Det er det Arbeiderpartiet prioriterer.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1005425">
+            <A>
+              <Navn personID="MAHAG">
+Margret Hagerup (H) [10:09:12]:</Navn> Psykisk helse er et av de
+viktigste områdene i helsepolitikken. Det handler om mennesker som
+strever, familier som står i krevende situasjoner, og et helsevesen
+som må være tilgjengelig når behovene er størst. Derfor er det også
+bred enighet i denne salen om at psykisk helsevern må styrkes, og
+at distriktspsykiatriske sentre er en helt sentral del av dette
+tilbudet.</A>
+            <A Type="Minnrykk">Høyre deler intensjonen bak representantforslaget
+som ligger til grunn for denne innstillingen. Vi er enige om at
+kapasiteten innen psykisk helsevern er presset, at mange pasienter
+opplever for lange ventetider, og at mangel på personell er en alvorlig
+utfordring både i spesialisthelsetjenesten og i kommunene.</A>
+            <A Type="Minnrykk">Samtidig er det viktig å være tydelig på hvordan
+vi best kan løse disse utfordringene. Høyre mener at en styrking
+av DPS-ene ikke kan skje gjennom detaljstyring fra Stortinget av enkeltinstitusjoner
+eller bestemte døgntilbud. Slike beslutninger må tas på bakgrunn
+av faglige vurderinger, pasientenes behov og helheten i tjenestetilbudet
+– ikke gjennom politiske vedtak om konkrete lokaliseringer eller
+driftsformer.</A>
+            <A Type="Minnrykk">Helsepolitikk handler også om prioriteringer
+og realisme. Vi står allerede i en situasjon der mangelen på kvalifisert helsepersonell
+er den største flaskehalsen i tjenestene. Å vedta nye opptrappingsplaner
+uten samtidig å sikre rekruttering, utdanning og bedre bruk av personell,
+risikerer å bli symbolpolitikk med gode intensjoner, men begrenset
+effekt for pasientene.</A>
+            <A Type="Minnrykk">Høyre mener derfor at en videre utvikling av
+DPS-tilbudet må inngå i en helhetlig plan for psykisk helsevern
+– en plan som ser spesialisthelsetjenesten og kommunehelsetjenesten
+i sammenheng, som legger til rette for mer ambulante tjenester,
+bedre samhandling og større fleksibilitet, og som tar hensyn til
+at behovene kan variere betydelig mellom ulike deler av landet.</A>
+            <A Type="Minnrykk">Høyres mål er klart: Pasientene skal få raskere
+hjelp, bedre kvalitet i behandlingen og et mer tilgjengelig psykisk helsevern
+uavhengig av hvor de bor. Det er pasientens helsetjeneste. For å
+få til det må vi gi fagmiljøene tillit, sikre bærekraftige rammer
+og prioritere tiltak som faktisk styrker kapasiteten i tjenestene.</A>
+            <A Type="Minnrykk">Høyre støtter det første forslaget om å gjennomføre
+en helhetlig og faglig gjennomgang av tilbudet, med en tydelig føring
+om å hindre nedbygging av den totale kapasiteten innen psykisk helsevern.
+Høyre deler ambisjonen om et sterkt og desentralisert psykisk helsevern.
+Samtidig mener vi at veien dit må være faglig forankret, helhetlig
+og realistisk.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1005427">
+            <A>
+              <Navn personID="KATLIE">
+Kathy Lie (SV) [10:12:09]:</Navn> I denne saken fremmer vi forslag
+som er både overordnede og prinsipielle og et forsvar mot nedleggelse
+av konkrete distriktspsykiatriske sentre vi vet det er planer om
+å legge ned, eller hvor man planlegger å legge ned døgnplassene. </A>
+            <A Type="Minnrykk">Det er stort behov for psykisk helsehjelp i
+hele landet, og for mange er det viktig å kunne få den hjelpen i
+nærheten av der de bor og lever sitt liv. Man skal ikke behøve å
+bo i en større by for å ha psykisk helsehjelp innenfor rimelig reiseavstand.
+Det er jo hele kjernen i at man i sin tid satset på å få spesialisert
+psykisk helsehjelp ut av de store sykehusene i form av DPS-er.</A>
+            <A Type="Minnrykk">Altfor mange med psykiske helseplager får ikke
+den hjelpen de trenger. Mange oppsøker ikke hjelp, og mange av dem som
+ber om hjelp, får ikke hjelp, eller de får hjelpen altfor sent.
+Kapasiteten innen psykisk helsevern er rett og slett for lav. Vi
+har en opptrappingsplan for psykisk helsehjelp, men i dag tror jeg
+det er mange som ikke opplever noen opptrapping. Særlig er jeg bekymret
+for at så mange unge sliter med psykisk uhelse. Det er selvfølgelig
+kritisk for den enkelte som får et vanskelig liv, men også for samfunnet
+når stadig flere unge ender opp som uføre.</A>
+            <A Type="Minnrykk">Skiftende regjeringer har sagt de skal satse
+på psykisk helse i mange år. Det vises til statistikker som sier
+at det er like mange døgnplasser i psykisk helsevern nå som for
+noen år tilbake, men opplevelsen der ute er en helt annen. Stadig hører
+vi om fortvilte mennesker som opplever at deres distriktspsykiatri
+legges ned. Fra et stort helseforetaks side kan det virke bagatellmessig
+å legge ned en sengeplass her og der, eller endog å flytte sengene
+et annet sted, men for dem som lever sitt liv i et distrikt hvor
+den helsehjelpen de visste var i nærheten, ikke lenger er der, er
+dette dramatisk.</A>
+            <A Type="Minnrykk">Jeg er enig i at helsetilbudet i Norge ikke
+styres best gjennom enkeltvedtak i Stortinget, men gjennom gode
+utredninger og god planlegging av det totale tilbudet. Vi kan likevel ikke
+bare sitte her og se på at psykiatrien bygges ned og sengeplasser
+flyttes og legges ned, samtidig som alle er enige om at vi skal
+styrke psykiatrien, og samtidig som vi faktisk har en opptrappingsplan
+som skal gi bedre og mer psykisk helsehjelp – ikke mindre. Derfor
+støtter SV forslagene om bevaring av DPS-tilbudet i Seljord og i
+Troms. </A>
+            <A Type="Minnrykk">SV støtter alle forslag som fremmes i saken.
+Vi er godt fornøyde med at det er flertall i komiteen for å gjøre
+en helhetlig faglig gjennomgang av tilbudet innen psykisk helsevern,
+og at det skal fremmes en konkret og tidfestet plan for utvikling
+av distriktspsykiatriske sentre i hele Norge. Vi er også godt fornøyd
+med at det er flertall for å be regjeringen sikre at inntil vi har
+denne planen på bordet, skal alle planer og vedtak om nedleggelser
+eller svekking av døgnplasser stilles i bero. Vi er dessuten fornøyde
+med at vi skal få til en satsing på utdanning og rekruttering av
+helsepersonell innen psykisk helsevern.</A>
+            <A Type="Minnrykk">Med dette vil jeg bare si: Godt nytt psykisk
+helseår til alle!</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1005429">
+            <A>
+              <Navn personID="KJT">
+Kjersti Toppe (Sp) [10:15:19]</Navn> (leiar i komiteen): Takk til
+komiteen for samarbeidet om saka.</A>
+            <A Type="Minnrykk">I den førre store opptrappingsplanen for psykisk
+helse, frå 1999 til 2008, vart det etablert distriktspsykiatriske
+senter i heile Noreg. Det var ei tydeleg politisk satsing på desentralisert
+struktur av spesialiserte tilbod innan psykisk helsevern. Ei slik
+utbygging skulle sikra nærleik til pasientar, og at dei store institusjonane
+ikkje lenger skulle vera hovudregelen i psykisk helsevern. Oppbygginga
+av DPS skulle sikra desentralisert behandling, spesialiserte tilbod
+og eit godt samarbeid om pasientar med kommunane, og det skulle
+inngå i det heilskaplege behandlingstilbodet innan psykisk helsevern.</A>
+            <A Type="Minnrykk">Det har vore fleire opptrappingar etterpå,
+bl.a. ein opptrappingsplan som vart vedtatt i Stortinget i 2023,
+som òg skulle fortsetja ei utvikling av det nære helsetilbodet i
+psykisk helsevern. Vår store bekymring er likevel at trass i ein
+vedtatt opptrappingsplan er fleire DPS-ar føreslått lagde ned, eller det
+er gjort vedtak om nedlegging. I høyringa komiteen hadde, kom det
+fram frå fleire at det no skjer ei stille nedbygging av DPS-ar i
+psykisk helsevern. Legeforeningen påpeikte at fleire DPS-einingar
+har fått redusert kapasitet eller har mista døgnfunksjonen. Fagforbundet
+rapporterer om at tillitsvalde seier at det no skjer ei nedbygging
+av DPS-ar over heile landet.</A>
+            <A Type="Minnrykk">I Seljord er det no gjort eit vedtak om å leggja
+ned DPS-en. Det vil bety at kapasiteten for psykosepasientar når
+det gjeld døgnbehandling, vert redusert med 40 pst. Mitt spørsmål
+er om Stortinget kan karakterisera dette som ei enkeltsak som ikkje
+er Stortinget verdig å bry seg om, og at vi berre skal visa til
+at dette er ei fagleg utvikling vi skal ha respekt for.</A>
+            <A Type="Minnrykk">I opptrappingsplanen for 2000-talet var det
+ein politisk visjon om eit desentralisert tilbod. Eg ser ikkje den
+visjonen no. Eg synest det er veldig, veldig trist at ein skal leggja
+ned eit fagmiljø i Seljord med over 20 kompetente medarbeidarar og
+eit unikt tilbod for ei sårbar pasientgruppe i Øvre Telemark med
+meir. Det synest eg faktisk at Stortinget skulle ha brydd seg om.
+Eg er glad for fleirtalet vi har fått for det eine forslaget, og
+forslaga er vel tatt opp frå før.</A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [10:18:26]:</Navn> Forslagene
+er allerede opptatt.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1005431">
+            <A>
+              <Navn personID="SEA">
+Seher Aydar (R) [10:18:41]:</Navn> Psykisk helsevern må styrkes,
+ikke svekkes. I Telemark og Troms legges døgntilbud ned, og selv
+ved store sykehus som Oslo universitetssykehus kuttes det dramatisk.
+Med helseforetaksmodellen skal sykehusene få folk gjennom. De skal
+produsere behandling. De vil at pasienten skal raskt inn og raskt
+ut. Det har gjort at psykisk helsevern har vært salderingspost i
+helseforetakene lenge.</A>
+            <A Type="Minnrykk">Hver eneste helseminister som har sittet siden
+helseforetaksmodellen ble innført, har forsøkt å få helseforetakene
+til å prioritere psykisk helse, uten å klare det. Psykisk helse
+lønner seg ikke i sykehusenes system. Da er det der de kutter når økonomien
+settes under press. Det er altså økonomiske kutt, ikke faglige.
+Kuttene i psykisk helse i spesialisthelsetjenesten har lempet ansvaret
+over på kommunene, noe de verken har kapasitet eller kompetanse
+til å håndtere. Jeg er bekymret over en situasjon der befolkningens
+psykiske helseproblemer øker, uten at tjenesten er rustet til å
+møte det behovet.</A>
+            <A Type="Minnrykk">Høyre innførte innsatsstyrt finansiering i
+poliklinisk psykisk helsevern, til tross for advarsler fra fagfolkene.
+Resultatet har vært at de ansatte har måttet bruke mye av tiden
+sin på administrative oppgaver og koordinering av pasientene. Det har
+helt klart gått ut over pasientene. Ifølge en medlemsundersøkelse
+Psykologforeningen utførte, oppleves det at rammene er for trange,
+og at de presses til å skrive ut pasienter før de er ferdig behandlet.
+Nå har DPS-ene store vansker med å holde på og rekruttere psykologer,
+og det påvirker selvfølgelig tilbudet over hele landet.</A>
+            <A Type="Minnrykk">Det som skjer nå, er at over hele landet står
+tilbud i fare for enten å bli lagt ned eller å kuttes kraftig i.
+Riksrevisjonen har kommet med sterk kritikk av tjenestetilbudet
+for mennesker som sliter med rus og psykiske helselidelser. Det
+er faktisk ikke sånn at pasientene blir borte selv om tilbud blir
+vedtatt lagt ned, og legges ned. Derimot fører disse kuttene i psykisk
+helsehjelp til at mange pasienter blir stående uten hjelp, oppfølging
+og behandling, og det til tross for at de har et behov for helsehjelp.
+Det er det som er konsekvensen av å vedta å legge ned psykiske helsetilbud
+til tross for at behovet er til stede.</A>
+            <A Type="Minnrykk">Noen oppsøker aldri hjelp. Det finnes det ulike
+grunner til. Andre som derimot faktisk oppsøker hjelp, får ikke
+den hjelpen de trenger. Ja, mange får også veldig god hjelp av dyktige
+fagfolk. Det vi ber om i disse forslagene, er at det skal bli tilgjengelig
+for flere over hele landet, uansett om de bor i Troms, Telemark,
+Oslo eller et annet distrikt eller en annen storby – altså uavhengig
+av geografi, økonomi eller bakgrunn. Rødt er mot nedleggelse av
+tilbudene, fra nord til sør.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1005433">
+            <A>
+              <Navn personID="MARDAL">
+Marius Langballe Dalin (MDG) [10:21:52]:</Navn> Det er vondt å miste
+noko som har betydd mykje for ein. Vi som kjem frå Distrikts-Noreg,
+blir med rette bekymra når vi ser at storsamfunnet tek frå oss noko.
+Det skal vi ta på alvor, også i denne salen. </A>
+            <A Type="Minnrykk">Samtidig er det viktigare å sjå på korleis
+vi kan stille dei riktige krava framover og utvikle tilbodet i eit
+heilskapleg perspektiv, framfor å gå inn og krevje at vi skal ha
+akkurat det vi har i dag. Vi må sjå heilskapen framfor å gå inn
+i detaljar vi ikkje har føresetnader for å gå inn i. Det viktigaste
+er faktisk å ha lokale tenester ein treng ofte, og det er dei polikliniske
+tenestene. Vi i MDG satsar hardt på å utvikle betre og meir utbreidde
+polikliniske tenester både i psykiatrien og i somatikken. Vi har
+kjempa igjennom 100 mill. kr ekstra til døgnplassar i psykiatrien,
+og det skal vi følgje opp, men dei veit best lokalt korleis desse
+midlane kan brukast. Vi har tru på det lokale sjølvstyret, faktisk. </A>
+            <A Type="Minnrykk">Om eg er rett informert, er DPS-en i Seljord
+allereie i praksis nedlagt. Det har vore store rekrutteringsutfordringar, og
+det å prøve å oppretthalde dette no er som å piske ein død hest,
+dessverre. Det har også vore lågt belegg, ikkje minst frå dei lokalt.
+Det er også noko ein tek i betraktning. Eg har sjølvsagt vore i
+kontakt med Legeforeningen, mi eiga fagforeining, og dei åtvarar
+på det sterkaste mot at vi skal gå inn på denne måten i Troms og
+Seljord, slik delar av Stortinget no ønskjer å gjere. Ikkje minst
+i Troms er det ein situasjon der dei faktisk har ei betydeleg styrking
+av døgnplassar i psykiatrien, men dei ser det som fagleg nødvendig
+å samle det. Totalt sett vil det å vedta dette difor vere ei betydeleg
+svekking av det psykiske tenestetilbodet i Troms. </A>
+            <A Type="Minnrykk">Vi kjem difor berre til å støtte eitt forslag,
+og det er det første punktet i tilrådinga frå komiteen om «en enhetlig
+faglig gjennomgang». Vi forstår det slik at dei i kvart lokale helseføretak
+skal styrkje døgntilbodet i psykiatrien og styrkje det totale tilbodet,
+men at vi ikkje skal gå inn og detaljstyre frå Stortinget. Vi risikerer
+å skyte oss i foten og gjere vondt verre for dei som treng det aller
+mest, for det er nettopp desse dei ønskjer å satse på, ikkje minst
+i Troms.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1005435">
+            <A>
+              <Navn personID="IDARSE">
+Ida Lindtveit Røse (KrF) [10:24:43]:</Navn> DPS-ene er viktige.
+De sikrer nærhet til behandlingstilbudet, og de sikrer også et bedre
+samarbeid med kommunehelsetjenesten. Det er veldig stor enighet
+om at dette er riktig og viktig, men likevel går utviklingen i feil
+retning. Istedenfor at DPS-ene styrkes, svekkes de og er nedleggingstruet.
+Det medfører lengre avstander og kan også heve terskelen for både
+å få og å be om hjelp. </A>
+            <A Type="Minnrykk">På den ene siden har det vært et sterkt politisk
+ønske om mer behandling nærmere der folk bor, at mennesker ikke
+skal bli kasteballer i systemet mellom instanser, og at man på den måten
+svekker tilbudet. Samtidig er det nettopp det som skjer. Det desentraliserte
+tilbudet svekkes, og det rapporteres både om nedbygging og om at
+tilbud avsluttes og legges ned. Det får konsekvenser – først i det
+små og kanskje ikke så synlig, men deretter blir det mer synlig. </A>
+            <A Type="Minnrykk">Statsråden viser i sitt svar til at det er
+personellutfordringer, og at personell er den viktigste ressursen
+for å gi trygge og gode tjenester. Det er jeg helt enig i. Det er
+allerede mangel på personell, og behovet blir enda større i årene
+som kommer. Når man lar det gå så langt og bygger ned et tilbud
+over tid, kan man heller ikke la seg overraske over at det på et
+tidspunkt vil oppstå personellmangel i andre enden. Det er ikke ordene
+som betyr noe; det er faktisk handling. Vi kan gjenta så mange ganger
+vi vil i denne salen at psykisk helsevern må styrkes, men når det
+er det motsatte som i realiteten skjer, må vi sette foten ned, og
+det er KrFs utgangspunkt i denne saken.</A>
+            <A Type="Minnrykk">Derfor støtter vi forslag til vedtak I, om
+at inntil det reelt sett er en plan for utvikling av distriktspsykiatriske
+sentre, må nedskjæringen og nedstengningen stoppe. Det er uakseptabelt at
+DPS-er legges ned samtidig som vi behandler denne saken, og samtidig
+som vi står og sier at tilbudet må styrkes. </A>
+            <A Type="Minnrykk">Når det gjelder forslag nr. 2, mener jeg intensjonen egentlig
+er ivaretatt gjennom forslag til vedtak I. Samtidig vil jeg uttrykke
+en stor skepsis til at vi fra Stortingets side skal begynne en detaljstyring
+på institusjonsnivå. </A>
+            <A Type="Minnrykk">Til slutt: For å sikre nok personell innenfor
+psykisk helsevern må det også satses på utdanning og rekruttering
+for framtiden. Det kan selvsagt ses på i sammenheng med andre strategier
+og satsinger for å sikre nok helsepersonell, men det er viktig når
+vi ser den utviklingen som har vært og er, at dette også er en tydelig
+satsing fra Stortingets side. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1005437">
+            <A>
+              <Navn personID="JANVES">
+Statsråd Jan Christian Vestre [10:27:54]:</Navn> Godt nytt år!</A>
+            <A Type="Minnrykk">Aller først vil jeg takke representanten Toppe
+for å løfte fram et viktig tema. La meg begynne med å si at vi har
+gode desentraliserte tjenester innen psykisk helsevern i Norge.
+De distriktspsykiatriske sentrene, DPS-ene, står for hovedvekten av
+det polikliniske tilbudet til voksne pasienter over 18 år. Det gis
+tilbud om døgnbehandling ved DPS-ene eller i sykehus, avhengig av
+pasientens tilstand og behov. </A>
+            <A Type="Minnrykk">Det er verdt å minne om at vi har greid å snu
+nedgangen i antall døgnplasser til at det nå er en økning. Den økningen kommer
+til å fortsette gjennom 2026 og 2027. I de planene for økt døgnkapasitet
+som regjeringen har bestilt, og som de regionale helseforetakene
+leverte på i høst, er døgntilbudet ved de distriktspsykiatriske
+sentrene medregnet. Jeg kommer til å stille krav til de regionale
+helseforetakene om at denne økningen skal fortsette også i årene
+framover, i tråd med de behovene helseforetakene selv har pekt på
+gjennom framskrivningsmodellen. </A>
+            <A Type="Minnrykk">Jeg vil legge til at det også er gledelig at
+vi ser en nedgang i ventetider for psykisk helsevern. Vi ser at
+stadig flere kommuner bygger ut lavterskeltilbud innen psykisk helsevern.
+Det jobbes også med nye måter å organisere tjenestetilbudet på,
+slik at pasienter som har behov for tjenester, ikke skal være kasteballer
+mellom kommunehelsetjenester og spesialisthelsetjenester, men at
+de skal få én vei inn til psykisk helsevern. Alt dette er viktige
+tiltak.  </A>
+            <A Type="Minnrykk">Å sikre tilgang til døgntilbud handler om å
+ta vare på de mest alvorlig psykisk syke. Også for denne gruppen
+pågår det en styrking av tilbudet, bl.a. gjennom en overordnet plan
+for sikkerhetspsykiatrien. Så trenger vi å satse enda mer på forebygging
+og lavterskeltilbud. Det bidrar til at sykdomsbyrden kan bli mindre,
+både for den enkelte og for samfunnet.</A>
+            <A Type="Minnrykk">Jeg deler komiteens bekymring for økningen
+i psykiske plager, særlig når det gjelder våre barn og unge. Derfor
+er innsats spesielt overfor barn og unge viktig i den videre oppfølgingen
+av Opptrappingsplan for psykisk helse. Her er også en videre styrking
+av DPS-ene et viktig mål. I videreutviklingen av disse tilbudene
+bygger vi på de framskrivningsmodellene vi har, og jobber for å
+sikre et best mulig og mest mulig helhetlig tilbud til målgruppen.
+Så må vi også vurdere konsekvensene av all politikk når det gjelder
+tilgangen til helsepersonell og hvordan vi legger til rette for
+både å rekruttere og å beholde de fagfolkene vi trenger framover.</A>
+            <A Type="Minnrykk">Jeg er glad for at komiteen er engasjert i
+tilbudet til dem med psykiske lidelser. Jeg er glad for at vi har
+gode desentraliserte tjenester. Innstillingen viser at det er bred
+enighet om mål og ambisjoner, men noe ulike syn på hvilke beslutninger vi
+skal ta nasjonalt, og hvilke som bør tas av dem som er nærmere pasientene.</A>
+            <A Type="Minnrykk">Til slutt vil jeg si at jeg naturligvis merker
+meg innstillingen, og regjeringen kommer naturligvis til å følge
+opp de vedtakene Stortinget vil gjøre.</A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [10:30:57]:</Navn> Det blir replikkordskifte.</A>
+          </Presinnlegg>
+          <Replikk Id="i1005439">
+            <A>
+              <Navn personID="KEI">
+Kristian August Eilertsen (FrP) [10:31:13]:</Navn> I høringsinnspillene
+fra både Legeforeningen og Fagforbundet til komiteen ble det påpekt
+at flere DPS-enheter har fått redusert kapasitet, de har mistet
+døgnfunksjoner de siste årene, og at pasienter dermed har fått lengre
+avstand til tilbud som tidligere var tilgjengelig lokalt. De trekker
+også fram at dette er en bekymringsfull utvikling.</A>
+            <A Type="Minnrykk">Når vi ser til Troms fylke, er det altså nå
+vedtatt i helseforetaket å legge ned døgntilbudet ved DPS-ene på
+Storslett i Nordreisa, på Storsteinnes i Balsfjord og på Silsand
+på Senja. Dersom det gjennomføres, står man uten døgnplasser i distriktene
+i Troms. Det er ingen døgnplasser igjen, det er kun i de to store
+byene – Harstad og Tromsø – at det er døgntilbud tilgjengelig.</A>
+            <A Type="Minnrykk">Hva tenker statsråden om dette? Mener han det
+er fornuftig at man skal stå uten døgntilbud i distriktene i Troms?</A>
+          </Replikk>
+          <Replikk Id="i1005441">
+            <A>
+              <Navn personID="JANVES">
+Statsråd Jan Christian Vestre [10:32:08]:</Navn> Jeg er enig i beskrivelsen
+av at det har vært bygd ned for mange døgnplasser i psykisk helsevern.
+Det har pågått over mange år. I forrige periode var det viktig for
+regjeringen å stoppe den nedbyggingen, og det klarte vi. Denne perioden
+har vi sagt at vi skal bygge opp. Vi har også lagt fram en plan
+for hvordan vi skal øke døgnkapasiteten i psykisk helsevern over
+en del år, med om lag 460 nye døgnplasser. </A>
+            <A Type="Minnrykk">Jeg mener det er et viktig prinsipp at vi som
+politikere bør legge de overordnede rammene, bl.a. være tydelig
+på oppbygging, være tydelig på hvilke tilbud og tjenester vi forventer
+at eksisterer, og så mener jeg det bør være opp til de regionale helsemyndighetene
+og de lokale sykehusstyrene å bestemme hvordan dette tilbudet skal
+innrettes. Da må de bl.a. ta hensyn til hvor det er behov, hvor
+det finnes fagkompetanse, det totale tjenestetilbudet i regionen.
+Helse nord har planer om å bygge opp kapasiteten, de har ikke planer
+om å bygge ned kapasiteten, men tjenestetilbudet vil kunne bli justert
+for bedre å ivareta pasientene.</A>
+          </Replikk>
+          <Replikk Id="i1005443">
+            <A>
+              <Navn personID="KEI">
+Kristian August Eilertsen (FrP) [10:33:13]:</Navn> Det er ikke snakk
+om en justering av tilbudet i Troms, det er snakk om en sentralisering
+av tilbudet i Troms. Alt skal sentraliseres fra distriktene i fylket
+inn til de store byene. Det virker som statsråden mener at det er
+en fornuftig politikk å kutte ut døgntilbud i distriktene, og at
+dette kun skal være tilgjengelig i de store byene. </A>
+            <A Type="Minnrykk">Jeg vil minne statsråden om at Troms er et
+fylke med enorme avstander. Hvis man skal kjøre fra f.eks. Nordreisa, der
+DPS på Storslett ligger, og det i dag er døgntilbud, og til Tromsø,
+snakker vi altså om opp mot 4 timers kjøretid. Det vil si at avstanden
+for de sykeste blir betraktelig større, og tilgjengeligheten blir
+mindre. Det er konsekvensen av politikken statsrådens regjering
+fører. Mener virkelig statsråden det er fornuftig å sentralisere
+såpass viktige tilbud for de sykeste av de psykiatriske pasientene
+– inn til de største byene, der man også f.eks. har et større rusmiljø
+– og at man da ikke skal ha noe tilbud igjen i distriktene?</A>
+          </Replikk>
+          <Replikk Id="i1005445">
+            <A>
+              <Navn personID="JANVES">
+Statsråd Jan Christian Vestre [10:34:16]:</Navn> Sentralisering
+er ikke noe mål for regjeringen. Målet er at vi skal ha gode helsetjenester
+over hele Norge. Når de lokale helsemyndighetene er helt tydelige
+på at de trenger å flytte kapasitet, bl.a. for nettopp å ta vare
+på de aller sykeste pasientene ved Åsgård i Tromsø, der vi nå skal
+investere stort i et helt nytt sykehusbygg, mener jeg vi skal lytte
+til hva de lokale helsemyndighetene sier. Jeg har møtt fagfolkene
+i UNN, som er veldig tydelige på at de mener dette er det beste
+for pasientene i Troms.</A>
+            <A Type="Minnrykk">Det er ikke sånn at alle tjenestene skal sentraliseres.
+Snarere tvert imot pågår det nå en prosess sammen med kommunene
+for å se på hvordan man kan lage halvannenlinjetjenester, hvordan
+man kan videreutvikle DPS-strukturen med tanke på samarbeid mellom
+kommunehelsetjenesten og spesialisthelsetjenesten. Det er allerede
+levert inn en søknad fra Helsefellesskapet Troms og Ofoten om rekrutterings-
+og samhandlingsmidler, og der ser man nå på både samdrift av KAD-senger
+og også døgnplasser ved DPS. Det kommer til å være tilbud også i
+framtiden.</A>
+          </Replikk>
+          <Replikk Id="i1005447">
+            <A>
+              <Navn personID="BÅH">
+Bård Hoksrud (FrP) [10:35:32]:</Navn> Det er interessant å høre
+statsråden si at man ønsker distriktspsykiatriske sentre i distriktene,
+når man sentraliserer – spesielt i både Troms og Telemark.</A>
+            <A Type="Minnrykk">Jeg har lyst til å stille statsråden et veldig
+konkret og tydelig spørsmål. I et skriftlig svar til meg i begynnelsen
+av oktober skrev statsråden at ved endringer som er av vesentlig
+betydning for helseforetakets virksomhet, skal saken politisk avklares
+i et foretaksmøte. </A>
+            <A Type="Minnrykk">Da blir spørsmålet mitt: Er nedleggelse av
+Seljord avklart politisk i et foretaksmøte, hvor statsråden som
+øverste ansvarlig aksepterer og mener det er helt greit å legge
+ned dette tilbudet? Jeg hører at man begrunner det faglig med at
+det er vanskelig å få tak i folk, men det er realiteten fordi man
+i flere år har truet med at dette tilbudet skulle legges ned. Det
+er klart at ingen søker når man ikke vet om man har jobb der til
+neste år. Det er konsekvensen og noe av utfordringen. Har statsråden
+vært inne, har det vært et foretaksmøte, eller er ikke innbyggerne
+i Vest-Telemark som sliter med psykiske helseplager, viktige nok?</A>
+          </Replikk>
+          <Replikk Id="i1005449">
+            <A>
+              <Navn personID="JANVES">
+Statsråd Jan Christian Vestre [10:36:35]:</Navn> Innbyggerne i Vest-Telemark
+er like viktige som alle andre innbyggere i landet vårt, men jeg
+må også minne om at Sykehuset Telemark helt siden mai 2024 har forsøkt
+å rekruttere psykiater til DPS i Seljord uten å lykkes. Vi kan liksom
+ikke bare hoppe over det og late som at det rekrutteringsproblemet
+ikke eksisterer.</A>
+            <A Type="Minnrykk">Jeg har sjekket tallene i dag. Når det gjelder
+Sykehuset Telemark, er det riktig at det nå er besluttet å avvikle
+ni døgnplasser ved Seljord DPS, men vi må også ha med i ligningen at
+en øker antallet sikkerhetspsykiatriske plasser med syv, og en oppretter
+også to nye psykoseplasser ved en annen lokasjon i Telemark. Veldig
+mange av dem som har brukt DPS i Seljord, kommer ikke fra Vest-Telemark.
+Det er mange innbyggere fra Grenland som bruker det tilbudet. </A>
+            <A Type="Minnrykk">Det har helt sikkert vært et godt tilbud, men
+nå er vi inne i veldig detaljerte spørsmål. Jeg lurer litt på hvordan
+representanten mener at vi på Stortinget skal ha bedre forutsetninger for
+å vite hva som gir det beste tjenestetilbudet til innbyggerne i
+Telemark, enn Sykehuset Telemark kan, som er opptatt av sine innbyggeres
+ve og vel, og som kan gjøre de helhetlige, faglige vurderingene.</A>
+          </Replikk>
+          <Replikk Id="i1005451">
+            <A>
+              <Navn personID="ERLBE1">
+Erlend Svardal Bøe (H) [10:37:53]:</Navn> Statsråden sier i sitt
+innlegg at regjeringen har en intensjon om å øke antallet døgnplasser
+innen psykisk helsevern med 430 plasser. Det er – først og fremst
+– ikke noe regjeringen har kommet på, det er noe Stortinget vedtok
+i opptrappingsplanen for psykisk helse for to et halvt år siden,
+der Stortinget ba regjeringen om å øke antallet døgnplasser med
+430 plasser. Problemet er at det vedtaket ble gjort for to et halvt
+år siden. </A>
+            <A Type="Minnrykk">I trontaledebatten i oktober kom regjeringen
+plutselig med et forslag om at en skal lage en plan for hvordan
+en skal øke døgnplassene. Spørsmålet mitt er: Hva er grunnen til
+at en ikke har fulgt opp det vedtaket Stortinget har gjort? Hvorfor har
+en brukt to et halvt år på å gjøre nesten ingenting – når vi ser
+at det er stort behov for å øke antallet døgnplasser i tiden framover? </A>
+          </Replikk>
+          <Replikk Id="i1005453">
+            <A>
+              <Navn personID="JANVES">
+Statsråd Jan Christian Vestre [10:38:44]:</Navn> Det regjeringen
+har prioritert, er å stoppe nedbyggingen av antall døgnplasser.
+Det i seg selv har vært veldig viktig, men det har også vært krevende,
+fordi det har vært bygd ned over veldig mange år. </A>
+            <A Type="Minnrykk">Vi har også vært utålmodige, og jeg er enig
+med representanten i at dette har gått for sakte. Det er også grunnen
+til at vi i styringsdialogen med de regionale helseforetakene har tydeliggjort
+dette målet. Det gjorde vi allerede før sommeren i fjor. Nå får
+vi se hva de endelige tallene for 2025 viser, men alle prognosene
+tilsier at vi for første gang på lang tid har en vekst i antall
+døgnplasser. Som jeg sa i innlegget, kommer den veksten til å fortsette
+gjennom 2026, og den skal fortsette gjennom 2027. Dette stiller
+vi krav om i oppdragsbrevene, vi måler det, og vi kommer til å følge
+med på det, så det er jeg helt sikker på at sykehusene faktisk kommer
+til å gjøre. </A>
+            <A Type="Minnrykk">Jeg er også glad for de signalene som kommer
+fra partiet Høyre i dag, nemlig at det er et politisk ansvar å sikre
+at vi har nok kapasitet – men hvor den kapasiteten skal være, og
+den nøyaktige arbeidsdelingen mellom de ulike institusjonene, bør
+det være opp til de lokale sykehusstyrene å bestemme. </A>
+          </Replikk>
+          <Replikk Id="i1005455">
+            <A>
+              <Navn personID="ERLBE1">
+Erlend Svardal Bøe (H) [10:39:49]:</Navn> Det å stoppe nedbyggingen
+var også et vedtak Stortinget gjorde i forbindelse med opptrappingsplanen
+for psykisk helse, og jeg tror vi som politikere må være ærlige
+på at vi over mange år har bygd ned, fordi de faglige vurderingene
+har vært at en skulle ha en dreining. </A>
+            <A Type="Minnrykk">Jeg har et oppfølgingsspørsmål. I Arbeiderpartiets
+opprinnelige budsjettforslag for 2026 lå det ingen penger til å
+øke døgnkapasiteten i psykisk helsevern. I budsjettenigheten med SV,
+Senterpartiet, MDG og Rødt ligger det riktignok inne 100 mill. kr.
+Utfordringen er at de 100 mill. kr som er lagt inn, fordeles på
+både rus, psykisk helse og vold. Da er mitt spørsmål til statsråden:
+Hvordan skal en da fordele de 100 mill. kr, og hvor mye vil det
+gi i netto vekst og tilvekst i døgnplasser i psykisk helsevern for
+2026?</A>
+          </Replikk>
+          <Replikk Id="i1005457">
+            <A>
+              <Navn personID="JANVES">
+Statsråd Jan Christian Vestre [10:40:41]:</Navn> Akkurat tallet
+for 2026 husker jeg ikke. La meg likevel være helt tydelig på at
+det sykehusbudsjettet Stortinget har vedtatt, er et godt sykehusbudsjett,
+og det er ikke bare fullt mulig, men jeg forventer også at sykehusene
+kommer til å levere på det oppdraget de har fått, med det budsjettet
+de har fått. Det er et budsjett som dekker fullt ut kostnadsveksten,
+det dekker fullt ut demografi, og det er på toppen av det noe midler
+til aktivitetsvekst. </A>
+            <A Type="Minnrykk">Vi bruker mer penger på helse enn stort sett
+alle andre land rundt oss. Vi har også høyere personelldekning i
+våre sykehus enn veldig mange andre land. Vi bruker mer penger på sykehusene
+nå enn vi gjorde før pandemien. Teknisk beregningsutvalg viser at
+det har vært en reell vekst i sykehusbudsjettene under denne regjeringen,
+mens det under den forrige regjeringen var det motsatte som skjedde. </A>
+            <A Type="Minnrykk">Alt kan ikke bare handle om å bevilge mer penger,
+vi har også et ansvar for å forvalte skattebetalernes penger på
+en effektiv måte. Vi må være like opptatt av hva vi får ut av hver skattekrone
+vi bruker på helse, som av hver skattekrone vi putter inn i helsetjenesten.
+Derfor er jeg ikke enig i premisset om at alle nye oppgaver må komme
+med nye midler. </A>
+          </Replikk>
+          <Replikk Id="i1005459">
+            <A>
+              <Navn personID="KJT">
+Kjersti Toppe (Sp) [10:41:58]:</Navn> Når eg høyrer innlegget til
+statsråden, slår det meg at det verkar som det er det same for statsråden
+og regjeringa om det er eit tilbod i eit distriktspsykiatrisk senter
+i distriktet, eller om det er eit tilbod meir sentralisert i helseføretaket.
+Det er òg full tillit til at dette er avgjerder helseføretaket sjølv
+må gjera – inga politisk innblanding og ingen politiske visjonar
+om at vi faktisk skal ha eit godt, desentralisert psykisk helsevern
+med distriktspsykiatriske senter med døgnfunksjonar. </A>
+            <A Type="Minnrykk">I Seljord betyr nedlegging av DPS-et ein reduksjon
+på 40 pst. i psykoseplassar. Det hjelper ikkje om ein aukar sikkerheitspsykiatrien,
+for det er faktisk ikkje den same pasientgruppa – såpass mykje forstår
+òg vi på Stortinget. Spørsmålet mitt er, som Bård Hoksrud òg tok
+opp: Har statsråden godkjent denne nedlegginga på eit føretaksmøte?</A>
+          </Replikk>
+          <Replikk Id="i1005461">
+            <A>
+              <Navn personID="JANVES">
+Statsråd Jan Christian Vestre [10:43:05]:</Navn> Begge representantene
+vet at det ikke har vært gjennomført foretaksmøte om DPS i Seljord.
+Det er offentlig tilgjengelig informasjon. Jeg er også litt overrasket
+over at representanten ikke hører hva jeg sier i innlegget mitt,
+så la meg gjenta det jeg sa. Jeg sa at i opptrappingsplanen er videre
+styrking av DPS et viktig mål. Selvsagt skal vi styrke DPS-ene.
+Vi er bare grunnleggende uenige om vi skal sitte i hovedstaden,
+i Oslo, og detaljstyre hvor plassene i distriktene skal være, eller
+om de lokale sykehusstyrene, med lokale tillitsvalgte, lokale verneombud
+og lokale fagfolk, og etter høringsinnspill fra de lokalt berørte
+kommunene, skal ha den myndigheten. </A>
+            <A Type="Minnrykk">Ja, jeg har faktisk større tillit til at lokale
+sykehusstyrer, som sitter tett på pasientene sine, kan vurdere hva
+som er hensiktsmessig struktur, og ja, jeg tar det på alvor når
+Sykehuset Telemark sier at de i to år har forsøkt å rekruttere til
+Seljord og ikke får det til. Vi kan jo ikke lukke øynene for det.
+Så er det et politisk ansvar å sikre nok døgnplasser, og det var
+også det jeg ga representanten ros og anerkjennelse for å bringe fram
+i dette forslaget. </A>
+          </Replikk>
+          <Replikk Id="i1005463">
+            <A>
+              <Navn personID="SEA">
+Seher Aydar (R) [10:44:23]:</Navn> Gang på gang hører vi helseministre
+snakke om at psykisk helse skal prioriteres. I dag hører vi om den
+viktige jobben som er gjort, men det er i strid med både den informasjonen
+vi får lokalt, og også det både Fagforbundet og deres tillitsvalgte
+sier, og som Legeforeningen forteller om, at folk har fått lengre
+avstand til helsetilbud. Realiteten er altså at tilbudet ikke er
+godt nok. Realiteten er at det ikke holder at helseministrene har
+gode intensjoner, når vi har et sykehussystem som gjør at det ikke
+lønner seg å prioritere psykisk helse, hvor nedprioriteringene eller
+omorganiseringene ikke handler bare om hva som er faglig lurt, men
+om hvordan sykehussystemet er i dag. </A>
+            <A Type="Minnrykk">Ser helseministeren utfordringer med hvordan
+sykehusene er organisert i dag, som gjør at psykisk helsevern nedprioriteres,
+og at vi har disse debattene vi har i dag – som ikke bare handler
+om at Stortinget vil detaljstyre tilbudene lokalt, men om at tilbud
+legges ned til tross for at det finnes et enormt behov? </A>
+          </Replikk>
+          <Replikk Id="i1005465">
+            <A>
+              <Navn personID="JANVES">
+Statsråd Jan Christian Vestre [10:45:17]:</Navn> Noen tilbud legges
+ned, bl.a. fordi det ikke er pasientgrunnlag, fordi en ikke klarer
+å rekruttere helsepersonell, eller fordi en mener at pasientene
+vil ha større faglig utbytte og bedre kvalitet ved å få den helsehjelpen
+et annet sted – og ja, jeg mener at det er faglige spørsmål sykehusstyrene
+lokalt bør få vurdere. </A>
+            <A Type="Minnrykk">Det er imidlertid ikke riktig at psykisk helsevern
+bygges ned, for antall døgnplasser går opp, og ventetidene går ned. Det
+er også stadig flere kommuner som utarbeider og utvikler lavterskeltilbud
+innenfor psykisk helsevern. </A>
+            <A Type="Minnrykk">Betyr det at alt er rosenrødt? Nei, på ingen
+måte. Jeg er like bekymret som det Stortinget er for at vi har for
+få døgnplasser. Det er derfor vi nå bygger opp antall døgnplasser.
+Jeg er like bekymret som det Stortinget er for at det fortsatt er
+for mange kommuner som ikke har lavterskeltilbud. Det er derfor vi
+bevilger mer penger til kommunene, sånn at de kan opprette lavterskeltilbud. </A>
+            <A Type="Minnrykk">Det er åpenbart utfordringer, men det er ikke
+det denne saken handler om. Det denne saken bl.a. handler om, er
+om vi skal gripe inn i et lokalt sykehusstyres ansvar og stoppe
+en omstillingsprosess. Da mener jeg vi flytter oppgaver bort fra sykehustyrene,
+og det er regjeringen imot. </A>
+          </Replikk>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [10:46:19]:</Navn> Replikkordskiftet
+er omme. </A>
+            <A Type="Minnrykk">De talere som heretter får ordet, har også
+en taletid på inntil 3 minutter. </A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1005467">
+            <A>
+              <Navn personID="ADALAU">
+Ada Lassen-Urdahl (A) [10:46:45]:</Navn> Psykisk helsearbeid skjer
+ikke først og fremst i et system. Det skjer i skolen, i arbeidslivet,
+i familien, i fritiden, i hverdagen. Derfor må vi tenke helhetlig.
+Forebygging, tidlig innsats og oppfølging er i stor grad et kommunalt
+ansvar. Det er der vi kan fange opp problemer tidlig, gi støtte
+før det blir alvorlig og bidra til mestring over tid. Samtidig vet
+vi at noen vil få alvorlige psykiske lidelser og ha behov for spesialisert
+kompetanse, døgnbehandling og tverrfaglig oppfølging. Da skal hjelpen være
+der – kompetent, trygg og tilgjengelig. </A>
+            <A Type="Minnrykk">Distriktspsykiatriske sentre er en sentral
+del av dette bildet. Derfor er styrking og videreutvikling av dem
+avgjørende for å sørge for at flere får rett hjelp til rett tid,
+men DPS-ene kan ikke fungere godt alene. De må inngå i et sammenhengende
+tjenestetilbud, der kommunen, DPS, ambulante team og sykehus jobber
+sammen rundt pasienten. Det er nettopp dette vi i Arbeiderpartiet
+legger til grunn i innstillingen: at utviklingen av DPS må ses i
+sammenheng med hele behandlingskjeden og med hvordan vi best bruker
+den viktigste ressursen vi har, nemlig kompetent helsepersonell.
+Derfor har vi satset på opptrappingsplanen for psykisk helse og
+satt i gang arbeidet med Helsepersonellplan 2040. Det avgjørende
+spørsmålet her er faktisk ikke hvor mange planer vi har. Det avgjørende
+er om pasienten faktisk får den hjelpen de trenger, til rett tid,
+på rett nivå og med riktig kompetanse. </A>
+            <A Type="Minnrykk">Helseforetakene har ansvaret for å vurdere
+hvordan de, i samarbeid med kommunene, kan sikre dette på en faglig
+forsvarlig måte. Det innebærer også å se ressursene samlet, slik at
+kompetansen brukes der den gjør mest nytte for befolkningen som
+helhet. Ja, det er viktig å ha tilbud nær folk, men ikke når det
+går på bekostning av kvaliteten og stabiliteten disse pasientene
+sårt trenger. Personellmangelen må løses før Stortinget vedtar opprettholdelse
+av døgnplasser. For Arbeiderpartiet handler dette om ansvarlighet
+og tillit – tillit til faglige vurderinger, et ansvar for helheten
+og en tydelig ambisjon om å bygge et psykisk helsevern som henger
+sammen, rundt menneskene det er til for. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1005469">
+            <A>
+              <Navn personID="BÅH">
+Bård Hoksrud (FrP) [10:49:21]:</Navn> Distriktspsykiatriske tilbud
+i distriktene er viktig. Det handler om at det skal være nær der
+folk er. Da må man ikke drive og sentralisere, som man nå er i ferd
+med å gjøre både i Troms, i Telemark og også andre steder, for når
+DPS-tilbudet flyttes lenger unna, er det ikke alle pasientene som
+faktisk følger etter. Noen blir sittende igjen, ikke fordi de ikke
+vil ha hjelp, men fordi de ikke klarer å reise dit – det er så store
+utfordringer med det. Det er det også viktig å ha med seg i dette
+bildet. </A>
+            <A Type="Minnrykk">For Fremskrittspartiet er dette et spørsmål
+om trygghet og verdighet. DPS-ene skal være med og bidra til å senke
+terskelen for hjelp, ikke heve den. Jeg har eksempler fra min egen
+hjemkommune, der DPS er flyttet til nabokommunen. Det medfører utfordringer
+for noen av dem som brukte dette tilbudet, når man først skal på
+én buss og så må skifte til en annen buss. For de fleste av oss
+er ikke det noe stort problem, men for noen mennesker er det faktisk
+en stor barriere for å klare å komme seg dit. Det betyr altså at
+tilbudet blir dårligere, og det er konsekvensen med noe av det som
+ligger her. Jeg frykter det veldig i Telemark når det gjelder DPS
+i Seljord, der det ikke gjelder det daglige tilbudet, men døgntilbudet. Det
+er derfor vi ønsker å stoppe den beslutningen som er gjort.</A>
+            <A Type="Minnrykk">Jeg stilte et konkret spørsmål som statsråden
+ikke svarte meg på, om det hadde vært foretaksmøte, og om han hadde fulgt
+opp det han svarte i skriftlig spørsmål til meg i oktober i fjor.
+Han avkrefter altså nå i etterkant til representanten Toppe og sier
+at han ikke har gjort det. Da er tydeligvis ikke dette viktig nok
+for helsetilbudet i Telemark, for man har sagt at vesentlige endringer
+i helsetilbudet i Telemark skulle statsråden politisk avklare i
+et foretaksmøte. Det er noe helt annet enn det statsråden svarte
+til representanten Toppe. Han sa bare at han ikke har gjort det.</A>
+            <A Type="Minnrykk">Jeg mener noe om å bruke de sikkerhetspsykiatriske
+plassene i Skien som argumentasjon for hvorfor man skal legge ned
+ni plasser i Seljord. For det første er det ikke samme type plasser,
+og for det andre er det noe som er vedtatt for lenge siden. Dette
+er ikke noe som kommer som en konsekvens av det som skjer i Seljord.
+Det har vært utsettelser når det gjelder bygg og ferdigstillelse
+osv., så ikke prøv å late som at dette er en oppfølging, og at man
+sørger for å ta hensyn til det som skjer i Seljord. Jeg synes det
+er viktig å ha med seg. </A>
+            <A Type="Minnrykk">Jeg mener også noe om at regjeringens representanter
+her fra talerstolen skryter av at man skal heve og styrke tilbudet. Realiteten
+er at man først legger ned tilbud, for så å si at man kanskje skal
+øke det igjen. Jeg synes dette er veldig dumt. Jeg håper at både
+Kristelig Folkeparti og MDG besinner seg og tenker seg om en gang
+til, sammen med Høyre, og faktisk støtter mindretallets forslag
+i denne saken. Dette er viktig. Seljord har hatt utfordringer med
+rekruttering, men det har jammen ikke vært lett når man hele tiden
+har som spøkelse at tilbudet skal legges ned. Det har vært flere
+søkere, men man har ikke valgt. Jeg tror dette handler om kravene
+til kutt for Sykehuset Telemark på over 60 mill. kr om et par år.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1005471">
+            <A>
+              <Navn personID="ERLBE1">
+Erlend Svardal Bøe (H) [10:52:41]:</Navn> Vi har store utfordringer
+innenfor psykisk helse i Norge. Det er flere som sliter og som faller
+utenfor arbeidslivet. Andelen som får nei til hjelp, har økt med
+nesten 40 pst. de siste fire årene, og vi ser at tilbudet av døgnplasser
+ikke bygges raskt nok opp, og også blir spist opp, f.eks. av dem
+som blir dømt til tvungent psykisk helsevern. </A>
+            <A Type="Minnrykk">Vi har gjort en del tydelige vedtak i denne
+salen. For to og et halvt år siden behandlet vi opptrappingsplanen
+for psykisk helse. Da vedtok Stortinget at vi skulle stoppe nedbyggingen
+av døgnplasser, og vi vedtok å øke antallet døgnplasser i tråd med
+framskrivingsbehovene i helseforetakene fram mot 2040. Fortsatt
+har ikke regjeringen fulgt opp det, men de skal nå lage en plan
+for hvordan man skal øke kapasiteten. </A>
+            <A Type="Minnrykk">For ett år siden vedtok Stortinget at vi skal
+ha et desentralisert tilbud innenfor psykisk helsevern, som også
+er en del av dette arbeidet. Igjen har ikke Arbeiderpartiet fulgt
+det godt nok opp. Selv om det ligger 100 mill. kr i budsjettenigheten, er
+det 100 mill. kr som smøres tynt utover. Dette er ikke 100 mill. kr
+bare til psykisk helsevern og oppbygging av døgnplasser i psykisk
+helsevern; dette er penger som også skal gå til andre områder for
+å bygge opp kapasitet. </A>
+            <A Type="Minnrykk">Høyre er bekymret for den nedbyggingen av distriktspsykiatriske
+sentre som vi ser. Det er viktig at vi har tjenester nær folk, både
+døgnplasser og poliklinisk virksomhet. Det er også grunnen til at
+Høyre støtter forslaget om å ha en faglig og helhetlig gjennomgang
+av tilbudet innenfor distriktspsykiatriske sentre. </A>
+            <A Type="Minnrykk">Jeg tror vi må stille oss et litt mer grunnleggende
+spørsmål enn det jeg opplever at man har gjort i salen så langt
+i dag. Hva er problemet i psykisk helsevern i dag? Er problemet
+lokasjonen, altså hvor tilbudet ligger, eller er problemet at folk ikke
+får hjelp? Jeg mener at problemet er det siste. Problemet er ikke
+hvor man legger tilbudet; problemet er at folk ikke får hjelp. Det
+er jo det vi burde ha brukt tiden på å diskutere her i salen. Hvordan
+kan vi øke den totale kapasiteten innenfor psykisk helsevern, hvordan
+kan vi sørge for at færre blir avvist i det psykiske helsevernet,
+og hvordan kan vi sørge for å bygge opp lavterskeltilbudene? Det
+er det vi burde fokusere på. Hvordan sørger vi for at flere mennesker
+får mer hjelp innenfor det psykiske helsevernet? Det er tydeligvis
+ikke interessant nok, for det gir kanskje ikke et oppslag i avisene, men
+det er folk vi snakker om. Det vi må diskutere, er folk som trenger
+hjelp. </A>
+            <A Type="Minnrykk">Jeg er helt enig i diskusjonen som går på desentralisert tilbud,
+at det må forankres og følges opp. Derfor er også Høyre veldig glad
+for at forslaget om dette vil få flertall, for det betyr at regjeringen
+blir nødt til å gjøre en faglig og helhetlig gjennomgang av tilbudet
+ved de distriktspsykiatriske sentrene i dag. Totalkapasiteten og
+hvordan flest mulig skal få hjelp, må være det viktigste når vi
+diskuterer dette – for slik er det ikke i dag.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1005473">
+            <A>
+              <Navn personID="HANSTE">
+Hanne Beate Stenvaag (R) [10:55:55]:</Navn> Det har tidligere i
+debatten blitt beskrevet hvor alvorlig situasjonen i Troms er, altså
+at tre desentraliserte døgntilbud skal legges ned – alle tilbudene
+i distriktene i Troms, både i Nordreisa, i Balsfjord og i Senja.
+Dette er veldrevne sengeposter som er viktige alternativer til innleggelser
+ved akuttpostene i Tromsø, hvor det er sprengt kapasitet og også
+begrenset mulighet for å skjerme forskjellige pasientgrupper fra
+hverandre. </A>
+            <A Type="Minnrykk">Dette er en dramatisk sentralisering som svekker
+tilgangen på helsehjelp for mange i Troms. Det betyr at alvorlig syke
+mennesker må reise langt bort fra hjemstedet sitt – bort fra familie,
+venner og kjente omgivelser – for å få behandling. Det betyr at
+terskelen vil bli høyere for å få hjelp, og at det i praksis vil
+bli vanskeligere med samhandling mellom spesialisthelsetjenesten
+og kommunehelsetjenesten når spesialisthelsetjenestene flyttes bort
+fra der pasientene og de pårørende lever sitt liv. Avstandene i
+Nord-Norge er store. Fra Nordreisa tar det fire timer å kjøre til
+Tromsø. Til Alta tar det 2,5 time, og man må over Kvænangsfjellet,
+som er stengt ganske mange ganger i løpet av en vinter. </A>
+            <A Type="Minnrykk">Min vararepresentant på Stortinget fra Troms,
+Camilla Mikkelsen, har vært en veldig tydelig stemme mot disse nedleggelsene,
+og hun har skrevet om sine erfaringer med DPS i Nordreisa: </A>
+            <Sitat Type="Minnrykk">
+              <A>«Første gang jeg ble innlagt ved døgnenheten
+ved DPS, var jeg så syk at jeg knapt klarte å møte opp, selv om
+innleggelsen var frivillig. Jeg måtte ha hjelp til å både pakke
+koffert og samle tanker, for alt var totalt kaos og mørke. Jeg var
+heldig – hjelpen jeg fikk ved DPS i Nordreisa ble et vendepunkt.
+Gjennom god og nær oppfølging kunne jeg sakte, men sikkert bygge
+meg opp igjen. Denne hjelpen har ikke bare gjort det mulig for meg
+å finne tilbake til meg selv, men også til å delta i samfunnet igjen.
+(...) Dette viser hvor viktig det er med et tilgjengelig og lokalt
+tilbud som kan gi mennesker muligheten til å reise seg.» </A>
+            </Sitat>
+            <A Type="Minnrykk">Det er en sterk historie hun forteller om hvor
+viktig det er å ha et tilbud nær der man bor. DPS Nordreisa har
+ikke hatt problemer med fagfolk, har hatt stabil bemanning, og døgnplassene
+er en vesentlig del av tilbudet. Blant annet kan seksjonsleder ved
+DPS på Storslett fortelle om den store kontrasten til før denne
+døgnavdelingen ble opprettet, da det ofte var behov for politiet
+for å få lagt inn folk på tvang på Åsgård i Tromsø. Det er vanskelig
+å tro at noen ønsker seg tilbake til en sånn situasjon. </A>
+            <A Type="Minnrykk">Disse nedleggelsene av DPS-er i Troms er en
+tydelig nedbygging av den offentlige velferden og gjør det mer utrygt å
+bo i distriktene i Troms. Det viser også absurditeten i helseforetaksmodellen
+– en helsepolitikk som prioriterer økonomi framfor mennesker. Et
+flertall av de politiske partiene har vært på disse DPS-ene og vist
+motstand mot nedleggelsen, men helseforetaksmodellen gjør at man
+likevel ender opp med at de blir lagt ned, selv om det altså er
+et politisk flertall for å beholde disse plassene. </A>
+            <A Type="Minnrykk">Derfor ville det være utrolig viktig å få et
+konkret vedtak på Stortinget i dag, men jeg håper at det vedtaket
+vi får, kan være tydelig nok til å sende et signal til Universitetssykehuset Nord-Norge
+om at disse nedleggelsene i distriktene i Troms må stoppes. </A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [10:58:56]:</Navn> Presidenten
+vil bare gjøre oppmerksom på forretningsordenen § 55: Når man bruker
+sitater, bør det tydelig fremgå når sitatet begynner, og når det
+slutter.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1005475">
+            <A>
+              <Navn personID="AGHA">
+Anne Grethe Hauan (FrP) [10:59:24]:</Navn> Psykisk helsevern skal
+vera tryggleiken når livet raknar, ikkje ei reiseplanlegging. Når
+avstanden aukar, fell fleire frå. Det er ei utvikling regjeringa
+har ansvaret for.</A>
+            <A Type="Minnrykk">Me ser store geografiske forskjellar. Finnmark
+og Nordland ligg dårlegast an, men òg i Vestfold og Telemark skjer det
+ei svekking av DPS-tilbodet. I Telemark er det heilt konkret snakk
+om å leggja ned døgnkapasiteten ved DPS Seljord. Det er ikkje ein
+teoretisk diskusjon; det er ei pågåande avgjerd. Regjeringa veit
+om det, helseministeren veit om det – likevel blir det ikkje gripe
+inn. Då må me stilla eit heilt grunnleggjande spørsmål: Veit regjeringa
+kva dette faktisk betyr for dei menneska det går ut over?</A>
+            <A Type="Minnrykk">DPS, distriktspsykiatrisk senter, er ryggrada
+i det psykiske helsevernet for vaksne. Det er her menneske med alvorleg depresjon,
+angst, PTSD, bipolar liding og spiseforstyrring får hjelp utan å
+bli lagde inn på sjukehus. </A>
+            <A Type="Minnrykk">La meg vera konkret: Ein småbarnsfar slit med
+alvorleg depresjon. Han treng tett og stabil oppfølging. Når DPS-tilbodet
+blir flytta eller lagt ned, blir han beden om å møta opp langt vekke
+– ofte med buss og tog i fleire timar. Meiner regjeringa på alvor
+at menneske i psykisk krise skal reisa slik for å få behandling?</A>
+            <A Type="Minnrykk">Fagfolk og brukarorganisasjonar har åtvara
+i årevis: Lange reisevegar og brot i behandling aukar risikoen for
+fråfall, forverring og akuttinnlegging. Presset kjem til å auka,
+for me ser ein kraftig vekst i barne- og ungdomspsykiatrien. Fleire unge
+får hjelp i BUP, og fleire skal vidare til DPS når dei blir vaksne.
+Overgangen er sårbar, og han krev kapasitet og kontinuitet. Då må
+me byggja opp DPS, ikkje byggja ned.</A>
+            <A Type="Minnrykk">Når psykisk helsehjelp sviktar, får det alvorlege
+konsekvensar. Me ser det i samfunnet, og me ser det i fengsel, med fleire
+dødsfall på kort tid. Det er ikkje tilfeldig. Det er resultatet
+av manglande oppfølging og nedbygging av tilbod. Når me ikkje gjev
+folk hjelp i tide, endar nokre i krise – i verste fall med livet
+som innsats.</A>
+            <A Type="Minnrykk">Arbeidarpartiet seier dei prioriterer psykisk
+helse. Samstundes blir ryggrada i systemet – DPS – bygd ned. Det
+er eit alvorleg sprik mellom det regjeringa seier, og det regjeringa gjer.
+Sentralisering er ikkje modernisering. Det er ansvarsfråskriving.</A>
+            <A Type="Minnrykk">Psykisk helsehjelp skal vera tilgjengeleg når
+livet raknar. Når ho ikkje er det, er det ikkje pasienten som har
+feila, det er politikken – og ansvaret ligg hos regjeringa. Difor
+må me stoppa nedbygginga av DPS og sørgja for at alle får hjelp
+der dei bur. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1005477">
+            <A>
+              <Navn personID="KEI">
+Kristian August Eilertsen (FrP) [11:02:40]:</Navn> For Fremskrittspartiet
+handler denne saken om trygghet for pasientene. Hvis vi igjen går
+til situasjonen i Troms, har vi i dag tre velfungerende DPS-er –
+på Storslett i Nordreisa, på Storsteinnes i Balsfjord og på Silsand
+i Senja kommune. Det er tre velfungerende DPS-er med et veletablert
+fagmiljø, som er godt etablert også i nærmiljøet, som har tillit
+og troverdighet blant befolkningen og hos pasientene. Det er et
+avgjørende tilbud for noen av de aller sykeste i Troms fylke. </A>
+            <A Type="Minnrykk">Det som skjer nå, er at man med regjeringens
+velsignelse – og også tydeligvis med partiet Høyres velsignelse
+– skal bygge ned disse ekstremt viktige tilbudene for de sykeste syke
+i Troms fylke. Man skal sentralisere de viktige tjenestene. Man
+skal sentralisere dem bort fra distriktet og inn til de største
+byene i Troms. Det er ikke til å forstå. Hadde det enda bare vært
+en faglig begrunnelse for at man skal gjøre det, så kunne man kanskje
+ha akseptert det, men det finnes altså ikke et eneste faglig argument
+for å gjøre denne nedbyggingen av døgnplasser ved DPS-ene i distriktene
+i Troms. Ingen faglige argumenter foreligger. Hvis man går inn og
+ser i referatet fra styremøtet i UNN da beslutningen ble tatt, handlet
+vedtaket utelukkende om økonomi. Det er altså økonomi som er årsaken
+til at man skal sentralisere bort disse døgnplassene fra distriktene
+i Troms og inn til de største byene. Uten å kutte i distriktene
+hadde man ikke kunnet bygge opp tjenester i byene. Her er det store
+paradokset. I stedet for å sentralisere og kutte i viktige tilbud
+i distriktene i Troms, burde man legge mer penger på bordet for
+å kunne både bygge opp tilbudet ved Åsgård ved UNN Tromsø og beholde
+disse viktige tilbudene i Troms. </A>
+            <A Type="Minnrykk">Jeg har vært og besøkt disse tre døgnenhetene
+ved DPS-ene i Troms. Jeg har sett de ansatte i øynene. Jeg har pratet med
+pasientene. Jeg har pratet med pårørende. Det er ingen av dem heller
+som forstår hvorfor man skal gjøre dette. Ingen forstår det. Det
+lokale helsepersonellet i kommunene rundt forstår heller ikke hvorfor
+man skal legge dette ned. Når man prater med dem, sier de at de
+ikke finner noen fornuftige argumenter for å gjennomføre denne sentraliseringen
+av viktige døgntilbud. Likevel insisterer statsråden på at dette
+er fornuftig å gjøre. Det er faglige vurderinger, sier statsråden,
+men klarer ikke å vise til en eneste plass der dette står i offentlige dokumenter.
+Den nedbyggingen som foregår, er alarmerende. Den kan ikke få fortsette.
+Det eneste ansvarlige, også ut fra et faglig perspektiv, er at Stortinget
+griper inn i denne saken og sier stopp – dette aksepterer vi ikke,
+for disse grunnleggende tjenestene i distriktene i Troms er såpass
+avgjørende at vi ikke aksepterer at det skal flyttes inn til storbyene.
+Hvis man likevel velger å la dette gjennomføres, får man også bære
+ansvaret for konsekvensene av det.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1005479">
+            <A>
+              <Navn personID="KOS">
+Kai Steffen Østensen (A) [11:05:50]:</Navn> Dette har vært en god
+debatt så langt om et viktig tema, og den har oppklart en viktig
+del av diskusjonen om hva som ligger i forslag til vedtak I i tilrådingen
+fra komiteen. Arbeiderpartiet er for at vi tar en helhetlig faglig
+gjennomgang av tilbudet innen psykisk helsevern. Vi støtter for
+så vidt at det fremmes en konkret og tidfestet plan for utvikling
+av psykisk helsevern-tilbudet i Norge, slik regjeringen også er
+i gang med, og som både helseministeren og undertegnede har redegjort
+for i denne debatten. I debatten tydeliggjøres det også at forslag
+til vedtak I i komiteens tilråding for flere partier handler om
+at den totale kapasiteten ikke skal bygges ned. </A>
+            <A Type="Minnrykk">Det gjør at Arbeiderpartiet nå varsler at vi
+også kommer til å stemme for forslag til vedtak I, med den samme
+begrunnelsen. Det skal ikke være tvil om at tjenestene skal styrkes, en
+begrunnelse som er i tråd med vårt uttalte og klare mål om å øke
+kapasiteten i psykisk helsevern. Det bygger på målene i opptrappingsplanen
+for psykisk helse og arbeidet regjeringen allerede har satt i gang.
+Arbeiderpartiet legger til grunn at vi stemmer for forslaget, med
+mål om å stoppe en nedbygging av totalkapasiteten, i det tilbudet
+som tilbys innenfor distriktspsykiatriske sentre og psykisk helsevern.
+Dette er derfor å anse som en stemmeforklaring. </A>
+            <A Type="Minnrykk">Jeg ser fram til et spennende helsepolitisk
+2026 sammen med gode kollegaer i helse- og omsorgskomiteen. Denne
+debatten vitner om en god start på det året vi nå er på vei inn
+i.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1005481">
+            <A>
+              <Navn personID="MARDAL">
+Marius Langballe Dalin (MDG) [11:07:31]:</Navn> Vi er ikkje på nokon
+måte fornøgde med at DPS blir lagde ned eller er planlagt lagde
+ned i Troms, og at det allereie er lagt ned i Seljord – la det vere
+heilt klart. Det er smertefullt på alle måtar. Spørsmålet for oss
+i stortingssalen er ikkje først og fremst om vi skal seie ja eller
+nei til dette, men kva som gjev best effekt totalt sett for dei
+psykisk sjuke, og ikkje minst for dei som treng det mest innanfor
+psykiatrien – i desse områda og i resten av Noreg. Korleis utnyttar
+vi knapp kompetanse best, og kven er til sjuande og sist best til
+å svare på desse spørsmåla? Er det vi i stortingssalen, eller er
+det dei som sit i styra og tillitsvalde rundt omkring i landet?
+Eg har også gjort ein god del research her, som sagt – eg har brukt
+mange timar på det. Min konklusjon er at det ikkje er klokt å gripe
+inn i desse sakene. </A>
+            <A Type="Minnrykk">Eg registrerer at ein del parti trur det er
+svært klokt å styre dette frå Oslo, men utan at det følgjer pengar
+med, og utan at det følgjer med personell og kompetanse. Det meiner
+eg er grunnleggjande gale. Eg minner om at det aller viktigaste
+er dei polikliniske tenestene i DPS, og dei er det ikkje snakk om å
+leggje ned. Det er dit ein må reise ofte, det er ikkje til døgntenester
+ein reiser oftast, sjølv om vi også sjølvsagt ønskjer at ein skal
+kunne tilby det lokalt. </A>
+            <A Type="Minnrykk">Vi er som sagt ikkje fornøgde med regjeringas
+arbeid med DPS og rekruttering til psykiatrien. Dette må vi sjå
+på saman i forbindelse med helsepersonellplanen, og vi må saman i
+opposisjonen vere vaktarar for at regjeringa faktisk får fart på
+det arbeidet. Likevel: Utan pengar og fagfolk er det som sagt uforsvarleg
+å detaljstyre slik ein del parti no ønskjer. Vi må tenkje heilt
+annleis. Vi må sjå heilskapen og sørgje for at ein totalt sett får
+eit betre helsetilbod for dei psykisk sjuke, ikkje detaljstyre og
+faktisk gjere det motsette, nemleg øydeleggje det lokale styre prøver
+å byggje opp.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1005483">
+            <A>
+              <Navn personID="KEI">
+Kristian August Eilertsen (FrP) [11:10:08]:</Navn> Bare for å ta
+det siste først, som ble sagt fra representanten fra Miljøpartiet
+De Grønne. Når det gjelder de tre DPS-ene i Troms, er det ingen
+utfordringer med å rekruttere personell. Man har hatt et stabilt
+fagmiljø over lang tid, så det er ingen problemer der, men man har
+fått et problem nå, når man har gjort et vedtak om å legge ned og
+avvikle de døgntilbudene som er der. Da har problemet oppstått,
+men før det var det ikke noe problem. </A>
+            <A Type="Minnrykk">Når det gjelder spørsmålet om økonomi, har
+Fremskrittspartiet både i nysalderingen av budsjettet for i fjor
+og i vårt alternative budsjett lagt inn betraktelig med midler til
+bl.a. Helse nord for å kunne ha disse døgntilbudene i framtiden,
+så argumentet som framføres fra Miljøpartiet De Grønne om at det ikke
+er personell og ikke følger med penger, faller på steingrunn når
+man ser på hva Fremskrittspartiet har gjort tidligere i denne salen.</A>
+            <A Type="Minnrykk">Så over til innlegget fra representanten Svardal
+Bøe og Høyre. Man snakker om at lokalisering ikke har noe å si,
+det viktigste er at man får et tilbud, men lokalisering har faktisk noe
+å si, for hvis det er stor avstand til tilbudet, øker det terskelen
+for de sykeste syke når det gjelder å oppsøke hjelp. Terskelen øker
+også for å kunne involvere de pårørende i behandlingsforløpet, og
+for at de pårørende skal kunne besøke sine nære og kjære. Derfor
+har lokalisering noe å si. Det virker som at partiet Høyre er komfortabelt
+med at man sentraliserer bort alle døgntilbudene i Troms og legger
+det til den store byen i Troms fylke, som er Tromsø. Det mener tydeligvis partiet
+Høyre er bra. Når Fremskrittspartiet forsøker å stoppe dette, fordi
+statsråden ikke vil gripe inn, mener partiet Høyre at dette er en
+hopp-og-sprett-politikk. Det er hopp-og-sprett-politikk å forsøke
+å berge et viktig tilbud i distriktene i Troms. Det synes jeg også
+er interessant. Hadde representanten fra Høyre turt å si det samme
+hvis han hadde besøkt disse døgntilbudene? Hadde han turt å si til
+de ansatte, si til de pårørende, si til pasientene at det er hopp-og-sprett-politikk
+å skulle stoppe nedleggelsen av deres tilbud eller av deres arbeidsplass?
+Det er helt utrolig at man får seg til å si noe sånt. Man kan ikke
+bare stille opp i lokalavisen og si at man er bekymret for nedleggelsen
+og bekymret for at det skal kuttes i plasser, men så vil man ikke
+løfte en finger i denne salen for å stoppe disse alvorlige kuttene
+som skjer.</A>
+            <A Type="Minnrykk">Til slutt. Representanten fra Arbeiderpartiet
+nevnte at man hadde tillit til de faglige vurderingene som blir
+gjort, men det finnes ingen faglige argumenter for å legge ned disse døgntilbudene
+i Troms fylke. Jeg håper at representanten fra Arbeiderpartiet eller
+noen andre fra regjeringspartiet kan redegjøre for de faglige argumentene
+for å sentralisere bort disse viktige døgntilbudene i Troms fylke.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1005485">
+            <A>
+              <Navn personID="KJT">
+Kjersti Toppe (Sp) [11:13:24]:</Navn> Oppbygginga av DPS under opptrappingsplanen
+på byrjinga av 2000-talet var ei politisk satsing på eit desentralisert
+psykisk helsevern. No ser vi at det skjer ei nedbygging av distriktspsykiatriske
+senter, og fleirtalet i denne salen karakteriserer det som ei fagleg utvikling
+politikarar ikkje har kompetanse til å bry seg med. Det reagerer
+eg på. </A>
+            <A Type="Minnrykk">Når representanten Langballe Dalin seier han
+har tatt ein telefon til si eiga fagforeining, Legeforeningen, reagerer
+eg òg, for han kan jo kanskje heller sjå kva dei skriv i høyringa. Der
+skriv dei at dei i lang tid har meldt si bekymring for nedlegging
+av døgnplassar i psykisk helsevern og følgjene dette får for dei
+mest alvorleg psykisk sjuke pasientane. Representanten frå Miljøpartiet
+Dei Grøne seier han har meir tru på dei polikliniske tenestene.
+Det har sjølvsagt alle, men Legeforeningen skriv heilt korrekt at
+spørsmålet er om vi no har nådd eit punkt der det ikkje lenger er
+fagleg forsvarleg med ytterlegare reduksjon i døgnkapasitet. </A>
+            <A Type="Minnrykk">Når ein no godtar, altså fleirtalet her, at
+40 pst. av døgnkapasiteten til psykosepasientar i Telemark vert
+lagd ned, forstår eg ikkje korleis ein kan la vera å ha nokre overordna
+føringar for korleis DPS-strukturen i Noreg skal vera. Det er stor
+støtte til den konkrete, fagleg forankra og tidfesta opptrappingsplanen
+for DPS og døgnkapasitet i psykisk helsevern, men eg fryktar no,
+med den siste stemmeforklaringa frå Arbeidarpartiet, at dette berre
+vil handla om den totale kapasiteten, ikkje om DPS. Det som var
+utgangspunktet for heile forslaget, var at vi er bekymra for at
+DPS-strukturen i Noreg sakte, men sikkert vert lagd ned. </A>
+            <A Type="Minnrykk">Fleire viser til at dei er opptatt av det lokale
+sjølvstyret. Senterpartiet er opptatt av det lokale sjølvstyret,
+men ærleg tala: Eit føretaksstyre er ikkje eit lokalt sjølvstyre.
+Der sit det ikkje folkevalde. Det er bedriftsøkonomiske styre som
+sit der på nåde frå ein helsestatsråd eller eit overordna føretak
+og har bedriftsøkonomiske målsetjingar, som er det overordna. Det er
+ikkje eit lokalt sjølvstyre. Det folkevalde organet som styrer den
+statlege spesialisthelsetenesta, sit her, og da må òg vi ta ansvar. </A>
+            <A Type="Minnrykk">Når det gjeld mangelen på psykiatrar i Seljord,
+har føretaket sagt nei til delt stilling. På folkemøtet i Seljord
+var det nokon frå kommunen som sa: Ja, vi manglar sjukepleiarar
+på sjukeheimen, men vi legg ikkje ned sjukeheimen for det.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1005487">
+            <A>
+              <Navn personID="TRINFA">
+Trine Fagervik (Sp) [11:16:43]:</Navn> Oppbyggingen av distriktspsykiatriske
+sentre skulle sikre desentralisert behandling, bidra til godt samarbeid
+om pasientene med kommunene og inngå som en del av det helhetlige
+behandlingstilbudet innen psykisk helse. Likevel kan vi stadig lese
+om tilbud i hele landet som står i fare for å bli kuttet kraftig
+eller lagt ned. Vi hører historier og erfaringer fra pasienter,
+familie og støtteapparat om pasienter som ikke får tilbudet som
+trengs for å få hjelp og oppfølging, selv om de har stort behov
+for helsehjelp. </A>
+            <A Type="Minnrykk">Et eksempel kunne vi lese i en VG-sak fra desember,
+der det vises til en systematisk nedbygging av det distriktspsykiatriske
+tilbudet i Vesterålen og Lofoten over flere år, til tross for at
+det i oppdragsbrev fra departementet gjentatte ganger er blitt pekt
+på at slike tilbud skal styrkes. I 2014 gikk man fra tre til ett
+behandlingstilbud, og tjuefire døgnplasser ble redusert til åtte.
+Nå skal Vesterålen, med sine åtte gjenværende døgnplasser, dekke
+et stort geografisk område med rundt 56 000 mennesker. I 2024 ble
+også disse plassene foreslått lagt ned. Det ble heldigvis stoppet. </A>
+            <A Type="Minnrykk">I VG kunne vi lese om psykiater Reiulf Ruud,
+som på 1980-tallet flyttet til Nord-Norge og bygget opp det psykiatriske
+tilbudet i Vesterålen, som ifølge VG ble landsledende. Føringen
+den gangen og det som for psykiater Ruud ble avgjørende for at han
+flyttet til Vesterålen, var at det skulle være høyest mulig kompetanse,
+nærmest der folk bor. Det må fortsatt være en føring. Folk må få
+den hjelpen de trenger, nærmest mulig. </A>
+            <A Type="Minnrykk">Politiet i Lofoten og Vesterålen melder på
+sin side om minst 10–15 politioppdrag i måneden, som ofte varer
+mellom 2 og 18 timer per oppdrag, hvor politiets ressurser ubetinget
+låses til helseoppdrag. Politiet i Vesterålen og Lofoten melder
+om økte kostnader som følge av reduksjonen i helsetilbudet og om
+at andre politioppgaver må nedprioriteres. Slike signaler får vi
+også fra Helgeland og øvrige områder der avstandene er store, og
+sannsynligvis vil vi få slike beskrivelser om Seljord og Storsteinnes,
+mfl., blir lagt ned. Det kan ikke være sånn at politiet skal finansiere
+sentralisering og nedleggelse av distriktspsykiatriske tilbud. </A>
+            <A Type="Minnrykk">Utviklingen er og har vært bekymringsfull.
+Vi trenger derfor denne gjennomgangen av tilbud innen psykisk helsevern
+og en tidfestet plan for utvikling av distriktspsykiatriske sentre,
+og vi må hindre nedbygging av slike tilbud. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1005489">
+            <A>
+              <Navn personID="SEA">
+Seher Aydar (R) [11:19:56]:</Navn> Først til helsepersonellmangelen:
+La oss slå fast at man ikke løser det ved å legge ned helsetilbud.
+Det er problemer som noen steder har vedvart, men som ikke har blitt
+løst. De som jobber i disse avdelingene, har mange ganger bedt om
+at arbeidsvilkårene må bli bedre hvis de skal kunne stå i jobb.
+Det har ikke blitt løst. Dette er ikke bare et problem som har blitt
+skapt med denne regjeringen, det er et problem som har vedvart lenge
+før, men det er på tide å løse det. Løsningen er ikke at folk mister
+helsetilbud.</A>
+            <A Type="Minnrykk">Det andre jeg vil påpeke, er at det egentlig
+er litt interessant å høre alle som mener vi ikke skal gripe inn
+og stoppe nedleggelse av helsetilbud, fordi vi ikke har den faglige
+kunnskapen. Problemet er at det for det første ikke er faglig kunnskap
+som ligger bak f.eks. nedleggelsene i Troms, de er økonomisk begrunnet.
+For det andre er det ikke lokalt bestemt. Representanten Toppe var
+inne på det. Helseforetakenes styre er ikke lokale representanter,
+de er ikke på valg, de har ikke noe folkevalgt mandat, og mange
+av dem bor ikke engang i de fylkene eller regionene de faktisk skal
+ta avgjørelser for. De er altså ikke valgt av folket, og mange av
+dem bor ikke engang der de skal ta store avgjørelser som handler
+om hva slags helsetilbud folk skal ha. </A>
+            <A Type="Minnrykk">Det er viktig å minne om det min kollega fra
+Rødt i Troms, Hanne Stenvaag, var inne på tidligere i dag, med tanke
+på hva det betyr for Troms, og avstandene der, når man sentraliserer.
+Derfor er det ikke godt nok å si at man skal øke tilbudet sentralt,
+for også distriktene må være trygge. Det er noe paradoksalt med
+at vi på den ene siden snakker om at folk skal bo i hele Norge,
+men på den andre siden gjør vi det ganske uattraktivt å bo i hele
+Norge hvis man får et helseproblem, enten det er psykisk eller fysisk.
+Det er det som er problemet når man legger ned tilbud lokalt og
+sentraliserer det, spesielt i landsdeler hvor avstandene er store.
+Vi ser samtidig at det er enorme kutt også i de store byene. Det
+er det som er problemet her: Vi ser kutt på kutt på kutt og nedleggelse
+etter nedleggelse, og så får vi beskjed om at vi som er folkevalgte,
+som har fått tillit av folk til å representere dem, ikke skal sette
+foten ned og stanse nedleggelsene. </A>
+            <A Type="Minnrykk">Da er spørsmålet mitt: Hvem sitt ansvar er
+det? Hvem er det som har ansvar for at distriktene i Troms har et
+psykisk helsetilbud, hvis vi som sitter her, ikke skal ta det ansvaret? Er
+det helseforetakene, og så skal vi si at vi håper – inshallah –
+at de tar det ansvaret? Det holder ikke. Som folkevalgte er vi nødt
+til faktisk å ta politisk ansvar for at befolkningen – uansett om
+de bor i et distrikt eller i en by – har helsehjelp. Spesielt kan
+vi stanse all nedleggelse fram til denne planen regjeringen snakker
+om at de skal legge fram og faktisk gjennomføre, er gjennomført.</A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:22:54]:</Navn> Presidenten
+vil minne om at det ikke er nødvendig å påkalle høyere makter ved
+innlegg i Stortinget.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1005491">
+            <A>
+              <Navn personID="JANVES">
+Statsråd Jan Christian Vestre [11:23:09]:</Navn> Jeg vil også benytte
+anledningen til å takke for en god debatt så langt. Det er veldig
+bra at det er så bredt og stort engasjement om dette. Jeg mener
+vi må ha takhøyde i denne salen for at vi har litt ulikt prinsipielt
+syn på hvor beslutninger skal fattes. Det er helt greit, det er
+en del av demokratiet. Det er selvfølgelig helt i orden å mene at
+sånne typer beslutninger bør fattes i denne sal. Det har jeg respekt
+for, og så ber jeg om respekt også for et annet standpunkt, som
+er at lokaliseringsdebatter bør tas i lokale sykehusstyrer og avgjøres
+av lokale sykehusstyrer.</A>
+            <A Type="Minnrykk">Representanten Hoksrud – som ikke er her nå
+– spurte om hvorfor dette ikke har vært brakt opp på foretaksmøtet. Det
+er nettopp fordi jeg mener at det er Sykehuset i Telemark som skal
+avgjøre hvordan de dimensjonerer sitt tilbud i Telemark. Jeg tror
+rett og slett at Sykehuset i Telemark er bedre egnet til å vurdere
+det enn det jeg er, som helse- og omsorgsminister. Kanskje tar jeg
+feil, men det er min mening, og det er jeg som har dette ansvaret,
+så da må jeg også følge min overbevisning.</A>
+            <A Type="Minnrykk">Det er veldig viktig igjen å understreke at
+det totale antallet døgnplasser betyr noe. Nå er det kommet mange
+påstander i denne salen, men la meg bare understreke at det totale antallet
+døgnplasser gikk opp i 2025. Det gikk opp i 2025, det skal opp i
+2026, og det skal opp i 2027. Vi skal ha netto 430 flere døgnplasser
+gjennom en del år fram i tid. Det er mitt ansvar som helse- og omsorgsminister
+å sørge for at det skjer, og det kommer jeg selvfølgelig til å følge
+opp.</A>
+            <A Type="Minnrykk">Så var det et annet spørsmål fra representanten
+Hoksrud på om nye plasser innenfor psykose og sikkerhetspsykiatri kan
+kompensere for at man tar bort noen døgnplasser i DPS Seljord. Dette
+er jo veldig faglige spørsmål. La meg ta en sammenligning, uten
+å trekke det altfor langt: Tenk hvis vi her i denne salen skulle
+sitte og bestemme hvilke sykehus som skal ha kjemoterapi i kreftbehandling,
+hvem som skal tilby immunterapi, hvor vi skal ha strålebehandling.
+Dette er dypt faglige spørsmål vi har tillit til at onkologene og
+ekspertene i sykehusene avgjør. Det vi som folkevalgte må være opptatt
+av, er at flest mulig overlever, at flest mulig blir friske, at
+det er gode arbeidsvilkår for helsepersonellet vårt, og at vi har
+et godt tilbud over hele landet, men diskusjonene om hva de ulike
+helseregionene trenger for å imøtekomme sin befolkning, mener jeg
+vi må ha tillit til at de avgjør selv.</A>
+            <A Type="Minnrykk">Jeg er glad for at forslag nr. 1, fra representanten
+Toppe, får bredt flertall i dag. Jeg kan love representanten Toppe
+og alle andre at regjeringen kommer til å følge det grundig, skikkelig
+og lojalt opp. Vi kommer til å legge fram en plan for å videreutvikle
+DPS-ene i Norge. Det er et viktig gjennombrudd denne salen nå gjør
+i dette arbeidet. Vi kommer selvfølgelig til å gjøre dette til en
+del av opptrappingsplanen vår for psykisk helsevern og følge det
+opp like aktivt som vi følger opp vår egen plan. Det skulle altså
+bare mangle.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1005493">
+            <A>
+              <Navn personID="KEI">
+Kristian August Eilertsen (FrP) [11:26:23]:</Navn> Denne saken har
+en større betydning enn bare det å gi behandling til pasienter som
+har psykisk sykdom. Den handler også om å opprettholde bosetting
+i landet. For å kunne opprettholde bosetting i distriktene er det
+viktig å opprettholde tilbudene som er der. Det som nå skjer i Troms,
+er en storstilt sentralisering av tilbud – bort fra distriktene
+og inn til de største byene. Det vil være med på å spenne bein under
+muligheten for å opprettholde bosettingen i distriktene i Troms
+og Nord-Norge framover.</A>
+            <A Type="Minnrykk">Jeg synes det er veldig leit at partiet Høyre
+velger å være haleheng og støttehjul for regjeringspartiet Arbeiderpartiet
+i denne saken og sørger for at de får flertall for at denne sentraliseringen
+kan fortsette, i stedet for at de slutter seg til resten av opposisjonen
+og sørger for at man stopper disse ufornuftige nedleggelsene og
+sentraliseringene.</A>
+            <A Type="Minnrykk">Jeg må også si om innlegget fra statsråden
+nå nettopp at det nesten var som om han abdiserte fra talerstolen.
+Han sa at han ikke har peiling på det helsefaglige tilbudet i f.eks. Troms,
+og at han overlater til helseforetakene å styre det etter eget forgodtbefinnende.
+Han burde i det minste klare å framføre et faglig argument for hvorfor
+det er fornuftig å gjøre det. Det er da et tegn på at han ikke har
+satt seg inn i saken og heller ikke funnet fram til de faglige argumentene
+for å gjøre dette. Det illustrerer hele poenget i denne saken: Det
+handler om økonomi, det handler ikke om fag. Hvis man lytter til
+de faglige argumentene i saken, er det altså ikke noe som tilsier
+at man skal legge ned og sentralisere døgntilbudene i Troms fylke.</A>
+            <A Type="Minnrykk">Fra statsrådens side snakker man også om at
+det er viktig å ha et godt tilbud over hele landet. Det er alle
+sammen enig i, men det vi ser i praksis, er at disse tilbudene er
+i ferd med å forsvinne mange steder i landet. Likevel folder man
+sine hender i denne salen, og man velger ikke å gripe inn og stoppe
+det som er i ferd med å skje. Det er veldig trist, synes Fremskrittspartiet,
+både på vegne av de ansatte som jobber der og utøver disse tjenestene
+i dag, og ikke minst på vegne av pasientene og de pårørende, som
+i dag har store lidelser, og som i dag får god hjelp på disse plassene,
+bl.a. i Troms og i Telemark, men som kommer til å miste tilbudet
+i sitt nærmiljø framover.</A>
+            <A Type="Minnrykk">Det kommer til å heve terskelen for å søke
+hjelp. Det kommer til å heve terskelen for å få hjelp. Det kommer
+med stor sannsynlighet også til å føre til at liv går tapt, fordi
+vi ikke har et godt tilbud i distriktene i Troms. Jeg vil derfor
+komme tilbake til poenget at man her altså har en mulighet til å
+stoppe det. Noen partier i denne salen, bl.a. Fremskrittspartiet,
+forsøker å gjøre det. Andre partier mener tydeligvis at det er hopp-og-sprett-politikk.
+De folder sine hender. De står og raser i lokalavisene over at dette
+skjer, men de er ikke villig til å løfte en finger i Stortinget
+for å stoppe det som nå er i ferd med å skje. Det håper jeg at innbyggerne
+i dette landet merker seg.</A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:29:16]:</Navn> Representanten
+Kjersti Toppe har hatt ordet to ganger tidligere og får ordet til
+en kort merknad, begrenset til 1 minutt.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1005495">
+            <A>
+              <Navn personID="KJT">
+Kjersti Toppe (Sp) [11:29:33]:</Navn> I § 30 i helseføretakslova
+står det at det er visse saker der eit helseføretak ikkje har kompetanse,
+og det skal avgjerast i eit føretaksmøte, altså av statsråden. Det
+er saker av vesentleg betydning. Det kan diskuterast, men det står
+òg at det gjeld saker som vert antatt å ha prinsipielle sider av
+betyding. Dette er ei slik sak. Når føretak både i Troms og i Telemark
+vedtar nedlegging av ein politisk vilja struktur, er det vedtak
+som har prinsipielle sider, og som må forankrast hos statsråden.</A>
+            <A Type="Minnrykk">Det er ein statsråd sitt privilegium å tolka
+lova som ein vil, men ut ifrå debatten i dag, er det ikkje nødvendig
+med eit føretaksmøte, for regjeringa og Arbeidarpartiet har godkjent desse
+nedleggingane, for dei veit at dei har kunna gripa inn. Sånn er
+dette styringssettet. Vi har eigentleg fått det svaret allereie.</A>
+          </Hovedinnlegg>
+          <Merknad>
+            <Handling>
+              <A>
+                <Uth Type="Sperret">Lise Selnes</Uth> hadde
+her overtatt presidentplassen.</A>
+            </Handling>
+          </Merknad>
+          <Hovedinnlegg Id="i1005497">
+            <A>
+              <Navn personID="JANVES">
+Statsråd Jan Christian Vestre [11:30:49]:</Navn> Det er blitt stilt
+spørsmål om strukturen i Troms og hvilke faglige vurderinger som
+er gjort der. Det svarte jeg representanten Eilertsen på i et svar
+i høst, men jeg kan gjenta noe av det som ble sagt der. Det ene
+er at samlet antall døgnplasser i nord ikke skal ned, det skal opp,
+i likhet med i de fire andre helseregionene.</A>
+            <A Type="Minnrykk">Det er gjort en faglig vurdering av en arbeidsgruppe
+i nord som mener at dette vedtaket gir en forskyvning av døgnkapasitet,
+noe som er med på å skape et mer bærekraftig tjenestetilbud totalt
+sett, og et mer helhetlig og bedre differensiert tilbud til pasientene
+med de mest alvorlige og sammensatte lidelsene.</A>
+            <A Type="Minnrykk">Dette er ikke bare økonomiske argumenter, dette
+er faglige vurderinger av at pasientene i Troms vil ha bedre utnyttelse
+av tilbudet sånn det nå er beskrevet. Så har Helse nord i tillegg
+bedt UNN, som er ansvarlig for dette, om å styrke polikliniske og
+ambulante tjenester for å kompensere for nedtaket av døgnplasser
+på DPS-nivå.</A>
+            <A Type="Minnrykk">Jeg har også vært på Storslett, jeg har også
+møtt klinikerne og lokalpolitikere der, og jeg har hatt møter også
+med de andre regionene. Jeg skjønner at dette er vanskelige spørsmål og
+krevende beslutninger. Det er ingen som ønsker at det tilbudet de
+har, og det tilbudet de jobber i, skal legges ned – selvsagt ikke.
+Derfor mener jeg det er veldig viktig å lytte til det en forteller
+lokalt. Til syvende og sist blir det et spørsmål om hvem som skal
+beslutte dette, og det har vi også i denne debatten vist at det
+er ulike synspunkter på mellom de politiske partiene. Det er helt
+ærlig og redelig, sånn er det.</A>
+            <A Type="Minnrykk">Jeg har lyst til å legge til at akkurat når
+det gjelder Troms, er ikke siste ord i denne saken sagt. Det er
+fordi at etter at denne beslutningen ble tatt av UNN, har regjeringen
+i foretaksmøte bedt alle fire helseregioner om å bygge opp døgnkapasiteten
+i psykisk helsevern. Det vil kunne få betydning for DPS-strukturen
+i Troms. Det er ingen DPS-er som er nedlagt, men de er planlagt
+endret eller nedlagt fra 2028. Det er fortsatt et stykke fram til
+2028.</A>
+            <A Type="Minnrykk">Nå må Helse nord beskrive hvordan de skal sikre
+at de får nok døgnkapasitet. Jeg utelukker ikke at de i den vurderingen kommer
+til at de ønsker å beholde deler av dette tilbudet. I tillegg til
+det, er det dialog med de berørte kommunene for å se på hvordan
+man kan legge til rette for halvannenlinjetjenester der også spesialisthelsetjenesten
+og kommunen jobber sammen. Siste ord er ikke sagt.</A>
+            <A Type="Minnrykk">Til slutt: Det foreligger ikke planer ut over
+dette, så vidt jeg vet, om å endre DPS-strukturen. Det ble stilt
+spørsmål om Lofoten og Nordland. Det foreligger ingen planer om endringer
+der, og store deler av resten av landet vil også være uberørt av
+disse endringene.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1005499">
+            <A>
+              <Navn personID="ERLBE1">
+Erlend Svardal Bøe (H) [11:34:08]:</Navn> Det er veldig mye retorikk
+fra Fremskrittspartiet i denne salen. Jeg tror FrP skal passe seg
+litt for å beskylde Høyre for sentralisering, når det er FrP som
+vil legge ned helseforetakene og flytte all makt til et sykehusdirektorat
+i Oslo. Det vil gjøre at en fjerner veldig mange av beslutningene
+bort fra pasientene ute i landet vårt. Når Eilertsen snakker om
+Høyre her fra talerstolen, virker det som om han har et slags eierskap
+til virkeligheten og til Høyres politikk. Høyres politikk på dette
+området er veldig tydelig. Det var vi som gikk i bresjen for å stoppe
+nedbyggingen av plassene innenfor psykisk helsevern da vi behandlet
+opptrappingsplanen for psykisk helse. Det var vi som var med på
+å legge føringer for at en skulle legge til grunn framskrivingene
+fram mot 2040, som vil si at en skal øke antallet plasser med 430,
+og vi har også vært veldig tydelige på at vi er nødt til å gjøre
+noe med andelen avviste pasienter framover. </A>
+            <A Type="Minnrykk">Når det gjelder Troms, har jeg vært på besøk
+på veldig mange av de institusjonene lenge før Fremskrittspartiet
+var på besøk der. Jeg har snakket med de ansatte og snakket med
+pasientene der, og det er ingen tvil om at en trenger å ha et desentralisert
+tilbud, men da må en også forholde seg til virkeligheten. Det er
+ikke snakk om å legge ned alle de distriktspsykiatriske sentrene,
+det er snakk om å gjøre noen endringer i døgnplasser opp mot det
+polikliniske tilbudet. Her framstilles det som at nå skal alt legges
+ned i distriktene. Det er ikke riktig i det hele tatt. </A>
+            <A Type="Minnrykk">Så blir min utfordring tilbake igjen til Fremskrittspartiet når
+en snakker om Troms: Er en da imot den byggingen av UNN Åsgård som
+nå skal komme, som vil være kjempeviktig? Det er et lokale fra 1961,
+et dårlig lokale, som er nedslitt, og som ikke representerer en
+verdig behandling for pasienter innenfor psykisk helsevern i hele
+tatt. Skal en nå sette det i spill, så en ikke får satt i gang med
+den byggingen, som gjelder et bygg tilbake igjen til ca. 1960? Det
+er på en måte det en setter det opp mot når en bruker argumentasjonen
+om sentralisering. Hvis en ikke skal gjøre noen grep, vil en ikke
+få realisert UNN Åsgård. Det er realiteten, og det er realiteten
+en er nødt til å forholde seg til.</A>
+            <A Type="Minnrykk">Jeg er også veldig bekymret for den overstyringen
+vi holder på med fra Stortinget her. Det ser vi også fra Fremskrittspartiet,
+som nå er på vei til å bygge ned UNN som et universitets- og regionsykehus
+fordi en skal splitte opp veldig mange spesialisthelsetjenester
+i Helse nord, som har et svakt pasientgrunnlag, og som har store
+utfordringer med helsepersonell. En slik nedbygging blir realiteten
+når en overstyrer på den måten en gjør nå. Bare noen får mer oppmerksomhet
+i media, skal en kaste seg inn i det, men helheten er en tydeligvis
+ikke så opptatt av. </A>
+            <A Type="Minnrykk">La meg være helt tydelig: Høyre vil øke antallet
+døgnplasser i psykisk helsevern, vi vil ha et desentralisert tilbud, og
+vi vil gjøre noe med andelen avviste pasienter, som har økt altfor
+mye de siste årene. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1005501">
+            <A>
+              <Navn personID="KEI">
+Kristian August Eilertsen (FrP) [11:37:01]:</Navn> For å ta det
+siste først: Fremskrittspartiet støtter absolutt den nybyggingen
+som skal skje på UNN Åsgård i Tromsø, og mener det er på høy tid
+at det blir gjennomført. Vi setter ikke dette opp mot hverandre,
+vi mener at det er mulig å gjøre begge ting samtidig. Vi er også
+villig til å legge penger på bordet for å kunne opprettholde tilbudet
+i distriktene og beholde fagmiljøene der, men samtidig bygge opp
+i Tromsø ved UNN Åsgård. Det mener vi at det er fullt mulig å få
+til, og vi er også, som sagt, villig til å legge pengene på bordet.</A>
+            <A Type="Minnrykk">Jeg synes at innlegget fra statsråden var interessant.
+Dette er et typisk eksempel på politikerspråk. Man snakker om at man
+skal ha en «forskyvning» av døgnplasser, men det ordet folk flest
+bruker, er «sentralisering» av døgnplasser. Det er ikke snakk om
+å forskyve det, det er snakk om å sentralisere det, bort fra distriktene,
+nær der folk bor, inn til den største byen i Troms: Tromsø. Jeg
+synes at statsråden rett og slett burde slutte med den type politikerspråk
+og heller kalle en spade for en spade og si at det er snakk om en
+sentralisering. </A>
+            <A Type="Minnrykk">Det blir jo veldig interessant når statsråden
+i sitt innlegg fortsetter med å fortelle at det kanskje ikke blir
+noe av dette likevel. Man skal tydeligvis ikke forskyve disse plassene
+– eller sentralisere, som folk flest kaller det – til Tromsø. Man skal
+kanskje beholde noen av disse plassene i distriktene i Troms, fordi
+man har et ønske om å bygge opp den samlede kapasiteten. Det er
+veldig interessant, og det kunne vært veldig nyttig om Stortinget
+hadde fått seg forelagt den opplysningen tidlig i debatten. Det
+er ingen tvil om at man kan gjøre begge deler, som jeg sa i starten
+av innlegget. Man kan både bygge opp det spesialiserte tilbudet,
+UNN Åsgård, i Tromsø, og beholde og videreutvikle tilbudet i distriktene
+i Troms. For ettertiden håper jeg at statsråden kommer med den typen
+opplysninger tidlig i debatten. Det blir veldig interessant å se
+om det er alvor i det statsråden sier, at det faktisk også blir
+gjort noe med tilbudet i distriktene, altså at døgntilbudet blir
+forsterket framover.</A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:39:05]:</Navn> Flere har ikke
+bedt om ordet til sak nr. 1.</A>
+          </Presinnlegg>
+          <Referanse Id="i1005503" voteringsDato="2026-01-06" debattDato="2026-01-06" saksKartNr="1" />
+        </Sak>
+        <Sak Id="i1005505" saksKartNr="2" sakID="104002">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak
+nr. 2</Uth> [11:39:11]</Saknr>
+            <Saktittel Id="i1005509">
+              <A>Innstilling fra helse- og omsorgskomiteen
+om Endringer i helsepersonelloven og pasientjournalloven mv. (taushetsplikt
+og tilgjengeliggjøring av pasientopplysninger) <Uth Type="RETT">(Innst. 71 L
+(2025–2026), jf. Prop. 154 L (2024–2025))</Uth></A>
+            </Saktittel>
+          </Sakshode>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:39:30]:</Navn> Etter ønske
+fra helse- og omsorgskomiteen vil presidenten ordne debatten slik:
+3 minutter til hver partigruppe og 3 minutter til medlemmer av regjeringen.</A>
+            <A Type="Minnrykk">Videre vil det – innenfor den fordelte taletid
+– bli gitt anledning til inntil sju replikker med svar etter innlegg
+fra medlemmer av regjeringen, og de som måtte tegne seg på talerlisten
+utover den fordelte taletid, får også en taletid på inntil 3 minutter.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1005511">
+            <A>
+              <Navn personID="RAGBER">
+Ragnhild Bergheim (A) [11:40:05]:</Navn> På vegne av saksordføreren,
+representanten Truls Vasvik, vil jeg starte med å takke for godt
+samarbeid i komiteen.</A>
+            <A Type="Minnrykk">Proposisjonen vi har foran oss, inneholder
+forslag til endringer i fem lover. Det er pasientjournalloven, helsepersonelloven,
+helse- og omsorgstjenesteloven, pasient- og brukerrettighetsloven
+og spesialisthelsetjenesteloven. De foreslåtte endringene gjelder
+særlig regler om taushetsplikt og tilgang til helseopplysninger.</A>
+            <A Type="Minnrykk">Hovedformålet er å gjøre regelverket bedre
+egnet til trygg informasjonsdeling i pasientbehandlingen og mer
+tilpasset en digital helsetjeneste. Med forslaget sørger regjeringen
+for at konfidensialitet, integritet og tilgjengelighet om data ivaretas,
+og jeg vil legge litt vekt på tilgjengelighet. Forhåpentligvis bidrar
+dette til å redusere glippsoner og hindre at pasienter må fortelle
+historien sin igjen og igjen i møte med nye behandlere, slik situasjonen
+i stor grad er i dag.</A>
+            <A Type="Minnrykk">Når behandlere får tilgang til relevante opplysninger
+når de trenger det, kan det styrke pasientsikkerheten. Samtidig skal
+reglene bli enklere å forstå og bruke i praksis. Komiteen har hatt
+muntlig høring med fire høringsinstanser og mottatt fire skriftlige
+innspill i denne saken.</A>
+            <A Type="Minnrykk">Arbeiderpartiet støtter altså hovedgrepet.
+Taushetsplikten er grunnleggende for pasientenes personvern, integritet
+og tillit til helse- og omsorgstjenesten. Samtidig må regelverket gi
+helsepersonell tydelige, praktiske rammer for forsvarlig helsehjelp
+og nødvendig faglig samarbeid.</A>
+            <A Type="Minnrykk">Arbeiderpartiet har i våre merknader til saken
+redegjort for vårt primære standpunkt. Det innebærer å støtte de
+foreslåtte endringene i §§ 21, 23 og 67 i helsepersonelloven. At
+vi støtter de endringene i proposisjonen, er basert på at departementet
+var tydelig på at dette er en samordning med forvaltningsloven og
+en presisering av gjeldende rett, ikke en innstramming.</A>
+            <A Type="Minnrykk">Likevel ser vi at det er et stort flertall
+her i Stortinget som mener noe annet, og siden disse lovene omhandler
+pasientsikkerhet og taushetsplikt, mener vi det er viktig at det
+er stor enighet rundt disse lovene. Derfor kommer Arbeiderpartiet
+likevel til å støtte komiteens tilråding, og dermed ser det ut til at
+tilrådingen fra komiteen vil vedtas enstemmig.</A>
+            <A Type="Minnrykk">Samlet gir lovforslaget bedre og tryggere informasjonsdeling
+til pasientenes beste, med klare rammer for logging, kontroll og
+reservasjonsrett – og et mer moderne og balansert regelverk som
+styrker både pasientsikkerhet og personvern.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1005513">
+            <A>
+              <Navn personID="JSB">
+Julia Brännström Nordtug (FrP) [11:43:20]:</Navn> Når ulykken inntreffer
+eller sykdom rammer, hviler pasientens trygghet på at helsepersonell
+har tilstrekkelige opplysninger om pasienten til å yte forsvarlig
+helsehjelp. Slik informasjon kan være kritisk for pasientsikkerheten,
+men deles informasjon feil – til feil tid, til feil mennesker eller
+med feil begrunnelse – svekkes vår rett til kontroll over egne helseopplysninger
+og våre grunnleggende rettigheter om personvern. Personvernet må
+sikkert ivaretas, samtidig som pasientsikkerheten sikres. Det er
+komplekse dilemmaer.</A>
+            <A Type="Minnrykk">Fremskrittspartiet støtter intensjonen i regjeringens
+forslag om å gjøre regelverket mer digitaliseringsvennlig og å bidra
+til at helseopplysninger er tilgjengelig for behandling av pasienter
+på tvers av virksomheter og journalsystemer. Det vil sikre bedre
+kunnskap om pasienten.</A>
+            <A Type="Minnrykk">Samtidig mener Fremskrittspartiet det er avgjørende
+at pasientens rett til å motsette seg slik informasjonsdeling skal ivaretas.
+Fremskrittspartiet mener pasienter skal ha bedre oversikt og kontroll
+på hvem som skal ha tilgang på opplysninger som omhandler dem selv.
+Vi støtter forslag om endringer for å ivareta det og vil framover
+også følge opp at dette er tilstrekkelig.</A>
+            <A Type="Minnrykk">Fremskrittspartiet støtter ikke teksten regjeringen
+har foreslått om å regulere taushetsplikt og helsehjelp helsepersonell
+kan utøve til «private formål». Dette kan tolkes som et uttrykk
+for en mistillit til helsepersonell, kunne hindre legers mulighet
+til å utøve god legeskikk og skape utrygghet for å hjelpe. Legeforeningen
+mener dette forslaget «bygger på en alvorlig feilslutning om hvordan
+helsetjenesten faktisk fungerer».</A>
+            <A Type="Minnrykk">Regjeringen har rotet seg bort i et forsøk
+på å ivareta flere hensyn og blander inn ressurshensyn og prioritering
+i helsetjenesten i en lov om helsepersonells taushetsplikt, for
+å sørge for at personer ikke skal få «gå foran andre ventende pasienter i
+’køen’ fordi de ’kjenner noen’». Det er en meget spesiell sammenblanding
+som ikke hører noe sted hjemme, og som kunne ha fått dramatiske
+konsekvenser.</A>
+            <A Type="Minnrykk">Vi merker oss også at Arbeiderpartiet ved tidligere
+anledninger har sagt at forslaget ikke skal innebære noen endringer i
+praksis, kun en presisering av ordlyden, men for det første er det
+tydelig i proposisjonen at man ønsker en endring i helsepersonells
+benyttelse av opplysninger. Hvis man skal ta Arbeiderpartiet på
+ordet om at det ikke skal være en praksisendring, er det også uforståelig
+hvorfor det opprinnelig var et behov for å innarbeide denne teksten
+i lovteksten.</A>
+            <A Type="Minnrykk">Det er mange lovforslag til behandling i saken.
+I det store er dette gode forslag som vil styrke pasientsikkerheten
+samtidig som personvernet ivaretas. Samtidig er Fremskrittspartiet glad
+for at komiteens flertall har funnet sammen og går mot to av forslagene,
+som må kunne kategoriseres som en alvorlig feilslutning. Jeg er
+også glad for å høre at Arbeiderpartiet har snudd, og at det virker
+som om de støtter komiteens tilråding i saken.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1005515">
+            <A>
+              <Navn personID="ERLBE1">
+Erlend Svardal Bøe (H) [11:46:40]:</Navn> Jeg skal prøve å være
+kort. Jeg synes det var en god redegjørelse også fra Fremskrittspartiet
+om flertallets tilråding. Vi støtter flere av forslagene og intensjonene
+bak forslagene til endringer i taushetsplikten og tilgang til helseopplysninger.
+Det handler både om at pasientene skal sikres rask hjelp, og om
+at man skal ivareta at ikke helseopplysninger kommer på avveier. Det
+handler også om å sette helsepersonell i stand til å gjøre jobben
+sin på en god måte. </A>
+            <A Type="Minnrykk">Det er to endringer her som Høyre ikke støtter.
+Det er helsepersonelloven § 21 nytt andre ledd bokstav c, der en
+foreslår fra regjeringen å ta inn private formål som en del av det, med
+intensjon om i større grad å få samsvar med den nye forvaltningsloven.
+Det er veldig vanskelig å tenke at man bare kan kopiere noe fra
+en annen lov og over til helsefeltet, når det er to ulike sektorer
+som har ulike måter å jobbe og se ting på. Helsepersonell har en
+plikt til å hjelpe. Vi er bekymret for at hvis en hadde tatt inn
+dette, ville den plikten blitt utfordret, for man argumenterer ikke
+her med bakgrunn i vern av pasienten, men med bakgrunn i en rettferdig
+prioritering i helsetjenesten.</A>
+            <A Type="Minnrykk">Vi er også imot endringene i helsepersonelloven
+§ 23 nr. 3, som vi heller ikke støtter. Begge disse forslagene har Legeforeningen
+gitt ganske klare tilbakemeldinger på i sine høringsinnspill, og
+dette forslaget vil bidra til at man får mindre daglig sparring
+og også mindre kvalitetsforbedring til det beste for pasientene.
+ </A>
+            <A Type="Minnrykk">Vi er en del av komiteens tilråding og synes
+det er bra at man har klart å finne sammen i komiteen i at en ikke
+støtter disse to endringene.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1005517">
+            <A>
+              <Navn personID="KATLIE">
+Kathy Lie (SV) [11:48:46]:</Navn> Som saksordføreren redegjorde
+for, handler denne saken om mindre endringer og presiseringer i
+en rekke lover for helsepersonell – pasientjournalloven osv. Hovedtrekkene
+i de endringene som legges fram, er, slik jeg har forstått det,
+å gjøre helseopplysninger mer tilgjengelige for behandling av pasienter,
+gjennom informasjonsdeling, og å gjøre informasjonen mer digitaliseringsvennlig.
+Ellers har også hensikten med endringen vært å tydeliggjøre regelverket,
+sånn at det blir lettere å forstå og bruke. </A>
+            <A Type="Minnrykk">Når man vedtar endringer som skal gjøre det
+lettere å dele pasientopplysninger, er det viktig at man samtidig
+tydeliggjør regelverket rundt taushetsplikten, for det er viktig
+at pasientene føler seg trygge på at deres opplysninger ikke havner
+på avveier. </A>
+            <A Type="Minnrykk">Jeg så i utgangspunktet ingen problemer med
+de lovendringene som ble lagt fram for behandling i Stortinget,
+og har derfor støttet de foreslåtte endringene under behandlingen i
+komiteen. Så kom det fram noen kritiske bemerkninger, spesielt fra
+Legeforeningen, når det gjelder endringer i noen av paragrafene.
+Vi har tenkt, vurdert og sett at å la være å gjøre de endringene
+Legeforeningen var kritisk til, ikke ser ut til å svekke regelverket
+i særlig stor grad. SV har derfor besluttet at vi vil stemme for
+flertallets innstilling i saken, og tror likevel at dette blir et
+bra lovvedtak.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1005519">
+            <A>
+              <Navn personID="KJT">
+Kjersti Toppe (Sp) [11:50:41]</Navn> (leiar i komiteen): Senterpartiet
+støttar proposisjonen utanom dei to endringane, som eg vil gå inn
+på, og eg må seia at det er veldig gledeleg at det no ser ut til
+å verta eit einstemmig storting som meiner det same som Senterpartiet
+har stått for i innstillinga. Det er veldig bra for norske helsetenester. </A>
+            <A Type="Minnrykk">Når det gjeld § 21 nytt andre ledd bokstav c
+i helsepersonellova, som omhandlar dette med private formål, kom
+det veldig tidleg fram er at ein her hadde tråkka feil i departementet.
+Ein kan forstå intensjonen, men når det er forklart av omsyn til
+rettferdig prioritering, ikkje med vern av pasienten, har ein gått
+litt feil frå byrjinga av. Departementet skreiv òg at «uttrykket
+‘private formål’ skal forstås vidt», og det vart eksemplifisert
+i innstillinga at ein skal forstå dette slik at ein får opplysningar
+for å ivareta andre sine interesser, som f.eks. «en ektefelle, egne
+barn, slekt, venner, kolleger og naboer». Dette ville eigentleg
+ha ramma alle legar i heile Noreg, og det ville ha hindra det store
+samfunnsbidraget alle bidrar med. Eg vil òg tru at det ville ha
+auka helsekøane i Noreg, så det ville vore eit veldig spesielt vedtak
+å gå vidare med. Eg er veldig glad for at komiteen har tatt høyringsinnspela
+på alvor og ikkje vedtar akkurat denne endringa. Dei andre forslaga
+i proposisjonen er jo einstemmige, og dei er sjølvsagt veldig viktige. </A>
+            <A Type="Minnrykk">Det dette ville ha ført til, var at om ein
+som lege gjekk inn og fekk ein del helseopplysningar frå ein person
+ein ikkje var sett til å behandla, ville den handlinga verta likestilt
+med misbruk av teiepliktig pasientinformasjon, journalsnoking og brot
+på teieplikta, og det ville kunna føra til bøter og fengsel i opptil
+eitt år. Det var faktisk eit veldig oppsiktsvekkjande forslag.</A>
+            <A Type="Minnrykk">Når det gjeld helsepersonellova § 21 tredje
+ledd, om å fjerne unntaket når opplysningane er anonymiserte, var
+det òg eit feiltrinn frå departementet, der ein sidestilte anonyme
+opplysningar med avidentifiserte opplysningar. Eg meiner òg det er
+rett at ein ikkje fjernar dette unntaket, slik at ein kan bidra til
+kvalitetsutvikling i helsetenestene.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1005521">
+            <A>
+              <Navn personID="SEA">
+Seher Aydar (R) [11:54:00]:</Navn> Siden det er enighet i denne
+saken, skal jeg nøye meg med å presisere to ting fra Rødts side.
+Det er at vi også støtter hovedgrepene i denne proposisjonen, spesielt
+det som handler om at regelverket skal bli mer digitaliseringsvennlig,
+og at helseopplysninger skal være tilgjengelige for behandling av
+pasienter. </A>
+            <A Type="Minnrykk">Dette handler om at vi har vært kritiske til
+to av punktene det nå er enighet om i salen, så jeg skal ikke gå
+veldig detaljert inn i hvorfor. Det er også beskrevet i merknadene. </A>
+            <A Type="Minnrykk">La meg likevel slå fast to ting: Alle er enige
+om viktigheten av taushetsplikt og det å hindre at opplysninger
+misbrukes. Det var egentlig aldri det uenigheten handlet om. Dette har
+handlet om to av forslagene, forslag til ny § 21 andre ledd bokstav c
+i helsepersonelloven og det nye forslaget med hensyn til unntaket
+i § 23 nr. 3, som det har vært uenighet om. Jeg er glad for at det
+nå er enstemmighet, og at vi nå får vedtak vi alle kan stå bak. </A>
+            <A Type="Minnrykk">For Rødt handler det om at disse forslagene
+kunne ha uønskede konsekvenser. Spesielt når forslag tolkes så ulikt mellom
+dem som leverer forslaget, og dem som skal utøve det i praksis,
+er det også et viktig signal. Jeg er glad for at regjeringen har
+lyttet til det signalet, og at vi nå får et forslag både regjeringen
+og Legeforeningen kan slå seg til ro med.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1005523">
+            <A>
+              <Navn personID="JANVES">
+Statsråd Jan Christian Vestre [11:55:49]:</Navn> Det er viktig at
+helsepersonell har de verktøyene de trenger for å sikre at de har
+tilgang til nødvendige opplysninger i vår felles helsetjeneste.
+Samtidig må vi respektere taushetsplikten og pasientenes tillit
+til helsetjenesten, og lovendringene vi nå behandler, legger til
+rette for dette. Vi tar viktige steg mot en mer effektiv og trygg
+helsetjeneste, og jeg er glad for at det er bred enighet om regjeringens
+forslag. </A>
+            <A Type="Minnrykk">Med de endringene vi har foreslått, vil det
+bli lettere å dele helseopplysninger mellom helsepersonell, reglene
+blir mer digitaliseringsvennlige, og de blir lettere å forstå og
+bruke. Dette vil også kunne bidra til bedre pasientsikkerhet.</A>
+            <A Type="Minnrykk">Jeg vil gjerne få framheve noen av de viktigste
+lovforslagene. Det lovfestes for det første at helsepersonellet
+som trenger opplysningene, selv skal vurdere om opplysningene er
+relevante og nødvendige for å yte helsehjelp. I dag er det helsepersonellet
+som har ansvaret for disse opplysningene som må vurdere dette, og
+dette snur vi altså på. For å sikre god kollegial støtte og at pasienter
+drar nytte av behandlingen andre pasienter har fått, utvides også
+adgangen til å bruke opplysninger om andre pasienter i behandlingen
+av egne pasienter. Alt autorisert helsepersonell skal gis denne
+muligheten, ikke bare utpekte leger og tannleger, som i dag. På
+denne måten legger vi til rette for bedre bruk av personellressurser
+og bedre oppgavedeling enn i dag.</A>
+            <A Type="Minnrykk">Vi er alle enige om at kvaliteten på helsehjelpen
+skal være best mulig. Mange pasienter behandles flere steder i samme
+behandlingsforløp. For å kunne kvalitetsforbedre behandlingsforløpene
+skal det kunne gis tilgang til opplysninger fra andre virksomheter
+der pasienten har fått behandling. Dette er viktig bl.a. for å øke
+kvaliteten i svangerskaps- og barselomsorgen. </A>
+            <A Type="Minnrykk">Jeg merker meg at flertallet i komiteen vil
+ta ut formuleringen om «private formål» og videreføre en regel om
+at opplysninger uten identifiserende kjennetegn tas ut. Det er ikke ideelt
+ut fra lovtekniske hensyn, men det rokker ikke ved helheten i regjeringens
+forslag. Derfor er også jeg glad for at det er et enstemmig storting
+som nå kan stå bak dette.</A>
+            <A Type="Minnrykk">Lovvedtakene det ligger an til i dag, vil være
+sentrale for videre utvikling av et moderne helsevesen og vil bidra
+til mer effektiv pasientbehandling.</A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:57:56]:</Navn> Det blir replikkordskifte. </A>
+          </Presinnlegg>
+          <Replikk Id="i1005525">
+            <A>
+              <Navn personID="KEI">
+Kristian August Eilertsen (FrP) [11:58:15]:</Navn> Fremskrittspartiet
+er veldig opptatt av sikkerheten til ambulansepersonell som skal
+rykke ut på oppdrag og berge liv og helse, og som i ytterste konsekvens
+risikerer eget liv og egen helse for å trygge oss andre. Det er
+en problemstilling Fremskrittspartiet har tatt opp i flere runder
+i Stortinget. Blant annet utfordret vi i spørretimen i høst statsråden
+på hvordan man kan flagge eller merke pasienter som har f.eks. en
+voldshistorikk, eller som kan utgjøre en fare for ambulansepersonell
+på oppdrag. </A>
+            <A Type="Minnrykk">I sitt svar i spørretimen sa statsråden bl.a.
+at de lovendringene som nå gjøres i Prop. 154 L for 2024–2025, vil være
+med på å muliggjøre den typen informasjonsdeling. Fremskrittspartiet
+har stilt spørsmål til både Fagforbundet og Delta om de formuleringene
+som ligger i lovforslaget, vil muliggjøre det. De svarer begge til
+oss at de ikke ser hvordan lovforslaget vil kunne gjøre dette. Kan
+statsråden redegjøre for hvordan det vil kunne muliggjøre denne
+typen informasjonsdeling?</A>
+          </Replikk>
+          <Replikk Id="i1005527">
+            <A>
+              <Navn personID="JANVES">
+Statsråd Jan Christian Vestre [11:59:18]:</Navn> Takk for spørsmålet.
+Jeg er i stort enig i beskrivelsen, og også jeg er bekymret for
+den situasjonen som er. Ikke minst ble dette aktualisert etter det
+tragiske dødsfallet vi så i Sverige i fjor. Det er selvfølgelig
+veldig viktig at våre ambulansemedarbeidere har både god opplæring,
+god kompetanse, god støtte og også får den hjelpen som er nødvendig
+for å kunne identifisere og håndtere potensielt farlige pasienter.
+De skal selvfølgelig ikke måtte oppleve vold og trusler i hverdagen
+sin. Vi må gjøre alt det vi kan for å bekjempe det. </A>
+            <A Type="Minnrykk">La meg svare veldig konkret og veldig tydelig
+på det representanten spør om. Vår klare vurdering er at reglene
+om taushetsplikt ikke er til hinder for at informasjon om pasienten
+deles med ambulansepersonell. Derfor er det, som jeg sa sist vi
+diskuterte dette i Stortinget, viktig at vi nå tar tak i den reelle
+utfordringen, som er å etablere gode, nyttige løsninger for informasjonsdeling
+som faktisk skaper en reell trygghet, og som ambulansemedarbeiderne
+opplever som nyttig og trygt i hverdagen.</A>
+          </Replikk>
+          <Replikk Id="i1005529">
+            <A>
+              <Navn personID="KEI">
+Kristian August Eilertsen (FrP) [12:00:20]:</Navn> Slik jeg oppfatter
+svaret fra statsråden, bekrefter han at det med dagens lovverk er
+mulig å ha den typen informasjonsdeling vi har diskutert tidligere.
+Likevel er det ikke en enhetlig praksis for dette rundt omkring
+i alle helseregionene. Det naturlige oppfølgingsspørsmålet til statsråden
+er da om han vil sørge for at det blir en enhetlig, felles praksis
+i hele landet som sørger for at ambulansepersonellet ute på oppdrag
+får nødvendig informasjon om de pasientene de skal hente eller behandle,
+slik at man kan være sikker på å gjøre nødvendige beskyttelsestiltak
+overfor seg selv og ikke blir utsatt for unødvendige situasjoner
+der det er stor risiko for vold og trusler på et oppdrag.</A>
+          </Replikk>
+          <Replikk Id="i1005531">
+            <A>
+              <Navn personID="JANVES">
+Statsråd Jan Christian Vestre [12:01:04]:</Navn> Takk for oppfølgingsspørsmålet.
+Som jeg også sa sist vi diskuterte dette i denne salen, har vi allerede
+gitt et oppdrag om nettopp å se på dette tjenestetilbudet – om det
+i større grad kan standardiseres, og hvilke faglige retningslinjer
+og veiledninger som bør finnes. Jeg synes det er en god idé å tenke
+seg at hvis en i et helseforetak, en helseregion, har funnet smarte måter
+å gjøre dette på som fungerer godt, som oppleves trygt, som ivaretar
+tryggheten og sikkerheten til ambulansemedarbeiderne, samtidig som
+vi selvfølgelig må ivareta reglene om taushetsplikt, er det veldig
+fint hvis vi kan spre og videreføre det og få utvidet det også til
+andre områder. Det er jo det dette arbeidet nå vil vise oss.</A>
+            <A Type="Minnrykk">Vi er også veldig opptatt av dette, og da må
+vi i hvert fall sikre at vi har et regelverk som ikke er i veien
+for det. Det får vi nå på plass. Det er selvfølgelig viktig at det
+er gode retningslinjer og rutiner for dette, sånn at vi faktisk
+bruker det regelverket et enstemmig storting nå slutter seg til.</A>
+          </Replikk>
+          <Replikk Id="i1005533">
+            <A>
+              <Navn personID="JSB">
+Julia Brännström Nordtug (FrP) [12:02:11]:</Navn> Mener statsråden
+at regjeringens forslag til ny § 21 c, om å utnytte opplysninger
+til private formål, skulle bli tolket snevert eller vidt?</A>
+          </Replikk>
+          <Replikk Id="i1005535">
+            <A>
+              <Navn personID="JANVES">
+Statsråd Jan Christian Vestre [12:02:23]:</Navn> Jeg er uenig i
+den tolkningen flere her legger til grunn av hva det er regjeringen
+har foreslått. Jeg har også hatt inngående dialog med Legeforeningen
+om dette, og jeg ser at når den misforståelsen er oppstått, er det
+ikke noe problem for oss å trekke den delen av forslaget. Det vil
+si: Formelt sett gjør vi jo ikke det, men vi stemmer da med flertallet
+i komiteen for ikke å gjøre denne endringen. </A>
+            <A Type="Minnrykk">Vår klare vurdering er at dette forslaget er
+en videreføring av gjeldende rett og ikke noe annet enn det. Vår
+klare vurdering er at det fortsatt, med den endringen regjeringen foreslo,
+ville vært fullt mulig for helsepersonell å yte helsehjelp også
+på fritiden. Det har blitt brukt som eksempel hva som kan skje hvis
+man som lege er på en fotballkamp og noen skader seg – kan man da
+hjelpe vedkommende? Ja, selvfølgelig kan man gjøre det – det er
+jo fantastisk at man gjør det. Vi har leger i denne salen. Hvis
+legene i denne sal på sin fritid fjerner sting fra en kollega som
+har vært til en operasjon eller fått gjort et inngrep – selvfølgelig
+kunne man fortsatt også med det, men det måtte vært journalført,
+akkurat som i dag. Vi er rett og slett uenige om hva dette betyr,
+men nå har vi blitt enige om hvordan vi skal håndtere det, og det
+er det viktigste.</A>
+          </Replikk>
+          <Replikk Id="i1005537">
+            <A>
+              <Navn personID="JSB">
+Julia Brännström Nordtug (FrP) [12:03:29]:</Navn> Grunnen til at
+jeg spør, er at det er ganske forvirrende at ett og samme parti
+omtaler et lovforslag til behandling i Stortinget så ulikt. Der
+det i proposisjonen står at lovbestemmelsen om private formål «må
+forstås vidt», skriver regjeringspartiet i innstillingen at private
+formål «må forstås snevert». Det er jo veldig motstridende og ville
+rett og slett gjort lovens praktiske tolkning uforståelig for veldig
+mange i deres hverdag som helsepersonell. Nå blir jo ikke dette
+vedtatt av Stortinget i dag. Det er jeg veldig glad for. </A>
+            <A Type="Minnrykk">Jeg er også veldig glad for at Arbeiderpartiet
+trekker sine forslag og kommer til å stemme for innstillingen, men
+jeg er likevel nysgjerrig på hva statsråden egentlig mente. Han
+trekker selv fram eksemplet med fotballtreneren. Mener statsråden
+at legen som da er fotballtrener, eller er på en fotballkamp, skulle
+få lov til å utnytte opplysninger til å ivareta andres interesser,
+når dette er et privat formål og ikke en oppgave legen er satt til
+å gjøre?</A>
+          </Replikk>
+          <Replikk Id="i1005539">
+            <A>
+              <Navn personID="JANVES">
+Statsråd Jan Christian Vestre 12:04:29]:</Navn> Vi må tilbake til
+definisjonen av hva som er privat formål. Det vi mener med dette,
+er at taushetsbelagte opplysninger ikke skal kunne utnyttes for
+helsepersonellets egne personlige eller økonomiske interesser. Det
+er det vi mener skulle forstås bredt, men det er altså ikke et privat
+formål etter regjeringens lovendringsforslag når helsepersonellet
+er i en behandlerrelasjon til pasienten. Det er heller ikke til
+hinder at pasientopplysningene brukes til andre legitime lovfestede
+formål hvis helsepersonellet har et tjenstlig behov for å bruke
+opplysningene. Om det er på arbeidsstedet eller på fritiden, skiller
+vi ikke mellom så lenge vedkommende er helsepersonell og har autorisasjon. </A>
+            <A Type="Minnrykk">Som sagt ville det med dette forslaget fra
+regjeringen fortsatt vært fullt mulig å yte helsehjelp på fritiden,
+men da skal det altså journalføres, og det skal man også i dag.
+Det er det heller ingen uenighet med Legeforeningen om. Derfor er fortsatt
+min klare vurdering at dette ikke var noe annet enn en videreføring
+av gjeldende rett, men ettersom det har oppstått en misforståelse
+om det, en uklarhet, mener jeg det er ryddig, slik et enstemmig
+storting nå gjør, ikke å innta det.</A>
+          </Replikk>
+          <Replikk Id="i1005541">
+            <A>
+              <Navn personID="KJT">
+Kjersti Toppe (Sp) [12:05:49]:</Navn> Eg har same spørsmålet som
+føregåande replikant. Det er jo spesielt når Arbeidarpartiet i regjering
+skriv i proposisjonsteksten at private føremål skal verta forstått
+vidt, medan Arbeidarpartiet i merknad i saka skriv at private føremål
+skal verta forstått snevert. </A>
+            <A Type="Minnrykk">No er jo denne saka avgjort, så det har for
+så vidt inga hensikt å spørja statsråden sånn sett, men eg vil likevel
+spørja om ikkje statsråden forstår at når Stortinget skal vedta
+ei lovendring som skal få konsekvensar framover, kan ein ikkje ha ein
+situasjon der det er så motstridande vurderingar frå regjeringspartiet,
+og at det var bra at det vart endra.</A>
+          </Replikk>
+          <Replikk Id="i1005543">
+            <A>
+              <Navn personID="JANVES">
+Statsråd Jan Christian Vestre [12:06:51]:</Navn> Takk for oppfølgingsspørsmålet.</A>
+            <A Type="Minnrykk">Det er åpenbart at det har vært uklart og misforståelser om
+dette, så vi må bare ta på vår kappe at vi som regjering ikke har
+klart å kommunisere godt nok hva dette lovendringsforslaget innebar.
+Det er mitt ansvar og bare mitt ansvar, og det ansvaret tar jeg
+selvfølgelig. </A>
+            <A Type="Minnrykk">Jeg vil likevel si at det ikke er noen motsetning
+i de sitatene representanten henviser til, for det vi snakker om
+når vi snakker om private formål, er altså det som handler om egne personlige
+eller økonomiske interesser, og det mener vi skal forstås bredt.
+Man kan altså ikke utnytte en pasientrelasjon til egne økonomiske
+eller personlige interesser på den måten, men det å innta private
+formål i denne bestemmelsen, ville ikke vært til hinder for helsepersonell
+som yter helsehjelp, rett og slett fordi det ikke er et privat formål
+når en er i behandlerrelasjon til pasienten. Derfor mener vi at
+dette ville vært en videreføring av både retten som er i dag, praksisen
+som er i dag, og sånn som leger opererer dette i dag. Jeg har full
+tillit til at de gjør det på aller beste måte, med pasientenes ve
+og vel som sitt viktigste formål.</A>
+          </Replikk>
+          <Replikk Id="i1005545">
+            <A>
+              <Navn personID="KJT">
+Kjersti Toppe (Sp) [12:07:59]:</Navn> Eg opplever at statsråden
+heller ikkje i dei føregåande replikkane er inne på eit argument
+for forslaget frå regjeringa, nemleg at presiseringa tydeleggjer
+– altså forslaget til presisering, som no ikkje vert vedtatt – at
+enkeltpersonar ikkje skal få urettmessige fordelar, som å gå føre
+andre ventande pasientar. Meiner statsråden at det er veldig alvorleg
+at pasientar kan gå føre andre ventande dersom dei får ei helsevurdering
+av ein lege på fritida, og at det var nødvendig å endra lova for
+å hindra det?</A>
+          </Replikk>
+          <Replikk Id="i1005547">
+            <A>
+              <Navn personID="JANVES">
+Statsråd Jan Christian Vestre [12:08:43]:</Navn> Da må vi tilbake
+igjen til det diskusjonen handler om, nemlig hva et privat formål
+er. Privat formål her vil altså være hvis man på fritiden bruker
+taushetsbelagte opplysninger for egne personlige eller økonomiske
+interesser. Det at en legemamma som er med sønnen på fotballkamp,
+yter helsehjelp hvis enten sønnen, kompisen eller venninnen til
+sønnen skader seg og f.eks. begynner å blø eller det er mistanke
+om brudd i en fot, er ikke bare lov, men svært ønskelig. Dette ligger
+dypt i legegjerningen. Man er lege 24/7. For mange er det et kall,
+til og med. </A>
+            <A Type="Minnrykk">Det å yte forsvarlig helsehjelp og bistå venner
+og bekjente på fritiden når man ønsker det, skal man selvfølgelig
+kunne fortsette med i framtiden, men det det var snakk om her, var taushetsbelagte
+opplysninger som da ikke skulle kunne bli utnyttet for økonomisk
+vinning. Det er det det her er snakk om. Vi mener som sagt det ville
+vært en videreføring av gjeldende rett, men ettersom det har oppstått
+uklarhet, er det det beste sånn som Stortinget nå vedtar det.</A>
+          </Replikk>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [12:09:47]:</Navn> Replikkordskiftet
+er over.</A>
+            <A Type="Minnrykk">Flere har ikke bedt om ordet til sak nr. 2.</A>
+          </Presinnlegg>
+          <Referanse Id="i1005549" voteringsDato="2026-01-06" debattDato="2026-01-06" saksKartNr="2" />
+        </Sak>
+        <Sak Id="i1005551" saksKartNr="3" sakID="105209">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak
+nr. 3</Uth> [12:09:57]</Saknr>
+            <Saktittel Id="i1005555">
+              <A>Innstilling fra næringskomiteen om
+Samtykke til ratifikasjon av konvensjon om skiping av ein mellomstatleg
+organisasjon for utvikling og utnytting av digitale havsystem og informasjonstenester
+(Mercator internasjonale senter for havet) av 23. april 2025 <Uth Type="RETT">(Innst. 66 S (2025–2026), jf. Prop. 5 S (2025–2026))</Uth></A>
+            </Saktittel>
+          </Sakshode>
+          <Hovedinnlegg Id="i1005557">
+            <A>
+              <Navn personID="RUTHOP">
+Ruth Mariann Hop (A) [12:10:34]</Navn> (ordfører for saken): Det
+er kanskje årets lengste sakstittel så langt!</A>
+            <A Type="Minnrykk">Jeg vil benytte anledningen til å ønske alle
+et godt nytt år og takke medlemmene i næringskomiteen for et godt
+samarbeid i denne saken og gjennom 2025 generelt. </A>
+            <A Type="Minnrykk">Et godt samarbeid gjør oss som regel både klokere
+og bedre rustet til å ta fornuftige avgjørelser. Det er også det
+denne saken dreier seg om, for sammen med Frankrike, Portugal, Spania,
+Italia og Storbritannia skal vi ikke bare til VM, vi skal også opprette
+Mercator, som er et internasjonalt senter for havet, nettopp for
+å heve vår kunnskap om havet. Flere kan komme med etter hvert, om
+de ønsker det.</A>
+            <A Type="Minnrykk">Mercator har gjennom flere år utviklet komplekse
+havsimuleringssystemer som er i stand til både å forutsi, beskrive og
+analysere havets tilstand. De har også levert satellittdata til norske
+kystmodeller. Målet med denne ratifikasjonen av senteret er at vi
+nå sammen skal utvikle og utnytte digitale havsystemer og informasjonssystemer
+for å oppnå en bedre forståelse av havet.</A>
+            <A Type="Minnrykk">Som vi vet, er havet stort og dekker over 70 pst.
+av jordens overflate. For oss som kystnasjon, betyr havkunnskap mye
+for at vi skal kunne utvikle og forvalte våre havområder, at vi
+skal kunne sikre våre kystsamfunn, og at vi skal utvikle nye havnæringer
+og administrere fiskeriene våre på en god måte.</A>
+            <A Type="Minnrykk">Arbeiderpartiet oppfordrer derfor Stortinget
+til å stemme for innstillingen til næringskomiteen i denne saken.</A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [12:12:10]:</Navn> Flere har ikke
+bedt om ordet til sak nr. 3.</A>
+            <A Type="Minnrykk">Dermed er dagens kart ferdig debattert. Stortinget
+tar nå pause, og i samsvar med den annonserte dagsordenen vil det bli
+votering kl. 15.</A>
+          </Presinnlegg>
+          <Referanse Id="i1005559" voteringsDato="2026-01-06" debattDato="2026-01-06" saksKartNr="3" />
+          <Merknad>
+            <Avbrutt>
+              <A align="center">Stortinget tok pause i forhandlingene
+kl. 12.13.</A>
+            </Avbrutt>
+            <Handling>
+              <A align="center">-----</A>
+              <A align="center">Stortinget tok opp att forhandlingane kl. 15.</A>
+              <A align="center">President: <Uth Type="Sperret">Ingrid Fiskaa</Uth></A>
+            </Handling>
+          </Merknad>
+        </Sak>
+        <VoteringerStart>
+          <Tittel>Votering</Tittel>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [15:02:14]:</Navn> Stortinget
+går då til votering.</A>
+          </Presinnlegg>
+          <Voteringer Id="i1005561" saksKartNr="1" debattDato="2026-01-06" tidspunkt="1502" sakID="105052">
+            <Sakdel>
+              <Tittel>Votering i sak nr. 1,
+debattert 6. januar 2026</Tittel>
+              <A Id="i1005563">Innstilling fra helse- og omsorgskomiteen om
+Representantforslag frå stortingsrepresentanten Kjersti Toppe om
+ein konkret og tidfesta opptrappingsplan for utvikling av distriktspsykiatriske
+senter (DPS) (Innst. 72 S (2025–2026), jf. Dokument 8:18 S (2025–2026))</A>
+              <Referanse Id="i1005565" debattDato="2026-01-06" saksKartNr="1" />
+              <Presinnlegg>
+                <A>
+                  <Navn>Presidenten:</Navn> Under debatten har Kristian
+August Eilertsen sett fram to forslag på vegner av Framstegspartiet,
+Sosialistisk Venstreparti, Senterpartiet og Raudt.</A>
+                <A Type="Minnrykk">Forslag nr. 1 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringa sørge for
+at Sykehuset Telemark HF opprettholder distriktspsykiatrisk senter
+i Seljord med døgntilbud minst på dagens nivå.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 2 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen sørge for
+at Universitetssykehuset Nord-Norge HF opprettholder de distriktspsykiatriske
+sentrene på Storslett, Storsteinnes og Silsand med døgntilbud minst
+på dagens nivå.»</A>
+                </Sitat>
+              </Presinnlegg>
+              <Votering>
+                <Tittel>Votering: </Tittel>
+                <A Type="Minnrykk">Forslaga frå Framstegspartiet, Sosialistisk
+Venstreparti, Senterpartiet og Raudt blei med 56 mot 44 røyster
+ikkje vedtekne.</A>
+                <A Type="Minnrykk">(Voteringsutskrift kl. 15.02.48)</A>
+              </Votering>
+              <A Type="Blanklinjeminnrykk">Komiteen hadde tilrådd Stortinget
+å gjera følgjande </A>
+            </Sakdel>
+            <VedtakS Id="i1005567">
+              <Tittel>vedtak:</Tittel>
+              <RomertallSeksjon>
+                <Tittel>I</Tittel>
+                <A Type="Minnrykk">Stortinget ber regjeringen foreta en helhetlig
+faglig gjennomgang av tilbudet innen psykisk helsevern og fremme
+en konkret og tidfestet plan for utvikling av distriktspsykiatriske senter
+i hele Norge, og hindre nedbygging av slike tilbud.</A>
+                <Presinnlegg>
+                  <A>
+                    <Navn>Presidenten:</Navn> Bak tilrådinga står Framstegspartiet,
+Høgre, Sosialistisk Venstreparti, Senterpartiet, Raudt og Kristeleg
+Folkeparti.</A>
+                  <A Type="Minnrykk">Arbeidarpartiet, Miljøpartiet Dei Grøne og
+Venstre har varsla støtte til tilrådinga. </A>
+                </Presinnlegg>
+                <Votering>
+                  <Tittel>Votering: </Tittel>
+                  <A Type="Minnrykk">Tilrådinga frå komiteen blei samrøystes vedteken.</A>
+                </Votering>
+                <A Type="Blanklinjeminnrykk">Vidare var tilrådd:</A>
+              </RomertallSeksjon>
+              <RomertallSeksjon>
+                <Tittel>II</Tittel>
+                <A Type="Minnrykk">Stortinget ber regjeringa sikre at inntil det
+er lagt fram en konkret og tidfesta plan for utviklingen av distriktspsykiatriske
+senter, stilles alle planer og vedtak om nedleggelser eller svekking
+av døgnplasser ved distriktspsykiatriske senter i helseforetakene
+i bero.</A>
+              </RomertallSeksjon>
+              <RomertallSeksjon>
+                <Tittel>III</Tittel>
+                <A Type="Minnrykk">Stortinget ber regjeringa sørge for ei satsing
+på utdanning og rekruttering av helsepersonell innen psykisk helsevern
+og informere Stortinget på eigna måte.</A>
+                <Presinnlegg>
+                  <A>
+                    <Navn>Presidenten:</Navn> Bak tilrådinga står Framstegspartiet,
+Sosialistisk Venstreparti, Senterpartiet, Raudt og Kristeleg Folkeparti.</A>
+                  <A Type="Minnrykk">Venstre har varsla støtte til tilrådinga.</A>
+                  <A Type="Minnrykk">Arbeidarpartiet, Høgre og Miljøpartiet Dei
+Grøne har varsla at dei vil røysta imot.</A>
+                </Presinnlegg>
+                <Votering>
+                  <Tittel>Votering: </Tittel>
+                  <A Type="Minnrykk">Tilrådinga frå komiteen blei med 51 mot 49
+røyster ikkje vedteken.</A>
+                  <A Type="Minnrykk">(Voteringsutskrift kl. 15.03.52)</A>
+                </Votering>
+              </RomertallSeksjon>
+            </VedtakS>
+          </Voteringer>
+          <Voteringer Id="i1005569" saksKartNr="2" debattDato="2026-01-06" tidspunkt="1504" sakID="104002">
+            <Sakdel>
+              <Tittel>Votering i sak nr. 2,
+debattert 6. januar 2026</Tittel>
+              <A Id="i1005571">Innstilling fra helse- og omsorgskomiteen om
+Endringer i helsepersonelloven og pasientjournalloven mv. (taushetsplikt
+og tilgjengeliggjøring av pasientopplysninger) (Innst. 71 L (2025–2026),
+jf. Prop. 154 L (2024–2025))</A>
+              <Referanse Id="i1005573" debattDato="2026-01-06" saksKartNr="2" />
+              <A Type="Blanklinjeminnrykk">Komiteen hadde tilrådd Stortinget
+å gjera følgjande vedtak til</A>
+            </Sakdel>
+            <VedtakL>
+              <VedtakTilLov>
+                <Tittel>lov</Tittel>
+                <OmLoven>
+                  <A>om endringer i helsepersonelloven og pasientjournalloven mv.
+(taushetsplikt og tilgjengeliggjøring av pasientopplysninger)</A>
+                </OmLoven>
+                <A Type="Sentrert">I</A>
+                <A Type="Uinnrykk">I lov 2. juli 1999 nr. 64 om helsepersonell
+m.v. gjøres følgende endringer:</A>
+                <Lovkap>
+                  <Stikktittel>Kapittel 5 overskriften skal lyde:</Stikktittel>
+                  <Tittel>Kapittel 5. Taushetsplikt og tilgjengeliggjøring av opplysninger</Tittel>
+                  <Paragraf>
+                    <Stikktittel>§ 21 skal lyde:</Stikktittel>
+                    <Tittel>§ 21 <Uth Type="Kursiv">Helsepersonells taushetsplikt</Uth></Tittel>
+                    <A Type="Minnrykk">
+                      <Endring>Opplysninger</Endring> om folks legems-
+eller sykdomsforhold eller andre personlige forhold <Endring>helsepersonell</Endring> får
+vite om i egenskap av å være helsepersonell, <Endring>er underlagt
+taushetsplikt</Endring>.</A>
+                    <A Type="Minnrykk">
+                      <Endring>Taushetsplikten innebærer at helsepersonell</Endring>
+                    </A>
+                    <Liste Type="Fri">
+                      <Pkt>
+                        <A>
+                          <Endring>a. 	ikke skal tilgjengeliggjøre
+opplysningene for andre</Endring>
+                        </A>
+                      </Pkt>
+                      <Pkt>
+                        <A>
+                          <Endring>b. 	skal hindre at andre får adgang eller kjennskap
+til opplysningene</Endring>
+                        </A>
+                      </Pkt>
+                      <Pkt>
+                        <A>
+                          <Endring>c. 	ikke skal lese, søke etter eller på annen måte
+tilegne seg, bruke eller besitte taushetsbelagte opplysninger uten
+at det er begrunnet i helsehjelp eller administrasjon av slik hjelp
+eller har hjemmel i eller i medhold av lov.</Endring>
+                        </A>
+                      </Pkt>
+                    </Liste>
+                    <A Type="Minnrykk">
+                      <Endring>Første og andre ledd gjelder også
+opplysninger som kan røpe identiteten til personer som tar kontakt
+med medisinsk nødmeldetjeneste. Dette gjelder likevel ikke når tilgjengeliggjøring
+av opplysninger om identiteten er nødvendig for å unngå fare for
+liv eller helse.</Endring>
+                    </A>
+                    <A Type="Minnrykk">
+                      <Endring>Første til tredje ledd gjelder tilsvarende
+for andre som mottar opplysninger etter §§ 25, 28, 29 a, 29 e og
+29 f.</Endring>
+                    </A>
+                    <A Type="Blanklinje">§ 21 a oppheves.</A>
+                  </Paragraf>
+                  <Paragraf>
+                    <Stikktittel>§ 22 skal lyde:</Stikktittel>
+                    <Tittel>§ 22 <Uth Type="Kursiv">Bortfall av taushetsplikt ved
+samtykke m.m.</Uth></Tittel>
+                    <A Type="Minnrykk">
+                      <Endring>Taushetsplikt er</Endring> ikke til
+hinder for at opplysninger gjøres <Endring>tilgjengelige</Endring> for
+den <Endring>som</Endring> opplysningene direkte gjelder, eller for
+andre i den utstrekning den som har krav på taushet <Endring>samtykker</Endring>.</A>
+                    <A Type="Minnrykk">For personer under 16 år gjelder reglene i
+pasient- og brukerrettighetsloven § 4-4 tilsvarende for samtykke
+etter første <Endring>ledd</Endring>. For personer over 16 år som
+mangler beslutningskompetanse, jf. pasient- og brukerrettighetsloven
+§ 4-3 <Endring>andre</Endring> ledd, kan nærmeste pårørende gi samtykke
+etter første ledd.</A>
+                    <A Type="Minnrykk">
+                      <Endring>Et</Endring> forsikringsselskap <Endring>skal
+ikke få opplysninger</Endring> som den opplysningene direkte gjelder,
+kan nektes innsyn i etter pasient- og brukerrettighetsloven § 5-1 <Endring>andre</Endring> ledd.</A>
+                  </Paragraf>
+                  <Paragraf>
+                    <Stikktittel>§ 23 skal lyde:</Stikktittel>
+                    <Tittel>§ 23 <Uth Type="Kursiv">Begrensninger i taushetsplikten</Uth></Tittel>
+                    <A Type="Minnrykk">
+                      <Endring>Taushetsplikt er</Endring> ikke til
+hinder for:</A>
+                    <Liste Type="Fri">
+                      <Pkt>
+                        <A>
+                          <Endring>a.</Endring> 	at opplysninger
+gis den som fra før er kjent med <Endring>opplysningene</Endring></A>
+                      </Pkt>
+                      <Pkt>
+                        <A>
+                          <Endring>b.</Endring> 	at opplysninger gis videre når ingen
+berettiget interesse tilsier <Endring>hemmelighold</Endring></A>
+                      </Pkt>
+                      <Pkt>
+                        <A>
+                          <Endring>c.</Endring> 	at opplysninger gis videre når behovet
+for beskyttelse må anses ivaretatt ved at individualiserende kjennetegn
+er <Endring>utelatt</Endring></A>
+                      </Pkt>
+                      <Pkt>
+                        <A>
+                          <Endring>d. </Endring>	at opplysninger gis videre når tungtveiende
+private eller offentlige interesser gjør det <Endring>rettmessig</Endring></A>
+                      </Pkt>
+                      <Pkt>
+                        <A>
+                          <Endring>e.</Endring> 	at opplysningene gis videre etter
+regler fastsatt i lov eller i <Endring>forskrift</Endring> når det
+er uttrykkelig fastsatt eller klart forutsatt at <Endring>taushetsplikten</Endring> ikke
+skal gjelde.</A>
+                      </Pkt>
+                    </Liste>
+                  </Paragraf>
+                  <Paragraf>
+                    <Stikktittel>§ 24 første ledd første punktum skal lyde:</Stikktittel>
+                    <A Type="Minnrykk">
+                      <Endring>Taushetsplikt er</Endring> ikke til
+hinder for at opplysninger om en avdød person gis videre dersom
+vektige grunner taler for dette.</A>
+                  </Paragraf>
+                  <Paragraf>
+                    <Stikktittel>§ 25 skal lyde:</Stikktittel>
+                    <Tittel>§ 25 <Uth Type="Kursiv">Tilgjengeliggjøring av opplysninger
+til helsehjelp</Uth></Tittel>
+                    <A Type="Minnrykk">
+                      <Endring>Taushetsplikt er ikke til hinder for
+at opplysninger om en pasient gjøres tilgjengelige for helsepersonell
+eller annet samarbeidende personell når opplysningene er relevante
+og nødvendige for å yte helsehjelp til pasienten.</Endring>
+                    </A>
+                    <A Type="Minnrykk">
+                      <Endring>Opplysningene kan gjøres tilgjengelige
+av virksomheten med ansvar for opplysningene eller av det helsepersonellet som
+har dokumentert opplysningene etter § 39. Dette kan blant annet
+skje ved direkte tilgang mellom virksomheter.</Endring>
+                    </A>
+                    <A Type="Minnrykk">
+                      <Endring>Personellet som skal bruke opplysningene,
+har ansvar for å vurdere om opplysningene er relevante og nødvendige.</Endring>
+                    </A>
+                    <A Type="Minnrykk">
+                      <Endring>Departementet kan gi forskrift om
+tilgjengeliggjøring av opplysninger til helsehjelp og adgangen til
+å motsette seg slik tilgjengeliggjøring.</Endring>
+                    </A>
+                    <A Type="Blanklinje">§ 25 a og § 25 b oppheves.</A>
+                  </Paragraf>
+                  <Paragraf>
+                    <Stikktittel>§ 26 skal lyde:</Stikktittel>
+                    <Tittel>§ 26 <Uth Type="Kursiv">Oversendelse av epikrise</Uth></Tittel>
+                    <A Type="Minnrykk">
+                      <Endring>Ved utskrivning fra helseinstitusjon,
+etter poliklinisk behandling eller etter behandling hos spesialist
+skal en epikrise sendes til innleggende eller henvisende helsepersonell,
+til det helsepersonellet som trenger opplysningene for å kunne gi pasienten
+forsvarlig oppfølging, og til pasientens faste lege. Med epikrise
+menes et sammendrag av tilgjengelige journalopplysninger som gjelder
+en undersøkelse eller behandling av en pasient, og som er nødvendige
+for at videre behandling eller oppfølging av pasienten innenfor
+helse- og omsorgstjenesten kan skje på en forsvarlig måte.</Endring>
+                    </A>
+                    <A Type="Minnrykk">
+                      <Endring>Dersom det ikke er mulig å sende epikrisen
+samtidig med utskrivning eller avslutning av behandlingen, skal
+den sendes innen forsvarlig tid etter dette.</Endring>
+                    </A>
+                    <A Type="Minnrykk">
+                      <Endring>Departementet kan gi forskrift om
+plikten etter første og andre ledd, herunder hvem epikrisen skal
+sendes til, hvilke opplysninger epikrisen skal inneholde, og når
+epikrisen skal være sendt.</Endring>
+                    </A>
+                  </Paragraf>
+                  <Paragraf>
+                    <Stikktittel>§ 27 skal lyde:</Stikktittel>
+                    <Tittel>§ 27 <Uth Type="Kursiv">Tilgjengeliggjøring av opplysninger
+til helsepersonell uten behandlerrelasjon</Uth></Tittel>
+                    <A Type="Minnrykk">
+                      <Endring>Taushetsplikt er ikke til hinder for
+at opplysninger gjøres tilgjengelige for</Endring>
+                    </A>
+                    <Liste Type="Fri">
+                      <Pkt>
+                        <A>
+                          <Endring>a. 	helsepersonell i helsefaglige
+arbeidsfellesskap, når formålet er å støtte helsepersonellet i å
+treffe beslutninger om helsehjelp, å sikre forsvarlig opplæring
+av helsepersonell eller å gjennomføre helsehjelp</Endring>
+                        </A>
+                      </Pkt>
+                      <Pkt>
+                        <A>
+                          <Endring>b. 	helsepersonell som har autorisasjon eller lisens
+etter §§ 48 eller 49, når formålet er ytelse av helsehjelp til en annen
+pasient enn den som opplysningene gjelder.</Endring>
+                        </A>
+                      </Pkt>
+                    </Liste>
+                    <A Type="Minnrykk">
+                      <Endring>Opplysninger som tilgjengeliggjøres
+etter første ledd, skal være relevante og nødvendige for formålet.
+Opplysningene skal så langt det er mulig, gjøres tilgjengelige uten
+at pasientens navn eller fødselsnummer fremgår.</Endring>
+                    </A>
+                    <A Type="Minnrykk">
+                      <Endring>Departementet kan gi forskrift om
+at enkelte personellgrupper med særskilte oppgaver i et behandlingsforløp
+kan få tilgjengeliggjort opplysninger etter første ledd bokstav
+b på samme vilkår som helsepersonell med autorisasjon eller lisens.</Endring>
+                    </A>
+                  </Paragraf>
+                  <Paragraf>
+                    <Stikktittel>§ 28 skal lyde:</Stikktittel>
+                    <Tittel>§ 28 <Uth Type="Kursiv">Tilgjengeliggjøring av opplysninger
+til undervisning, ekstern veiledning mv.</Uth></Tittel>
+                    <A Type="Minnrykk">
+                      <Endring>Taushetsplikt er ikke til hinder for
+at opplysninger gjøres tilgjengelige for</Endring>
+                    </A>
+                    <Liste Type="Fri">
+                      <Pkt>
+                        <A>
+                          <Endring>a. 	helsepersonell som har
+autorisasjon eller lisens etter §§ 48 eller 49, som tidligere har
+ytt helsehjelp til pasienten i et konkret behandlingsforløp, og
+som skal bruke opplysningene til egen læring eller for kvalitetsforbedring
+av helsehjelpen</Endring>
+                        </A>
+                      </Pkt>
+                      <Pkt>
+                        <A>
+                          <Endring>b. 	helsepersonell med undervisningsansvar som
+arbeider i virksomheten der pasientene har mottatt helsehjelp, når formålet
+er å finne opplysninger om pasienter som egner seg i undervisning
+for å sikre forsvarlig utdanning av helsepersonell eller helsefaglige
+studenter</Endring>
+                        </A>
+                      </Pkt>
+                      <Pkt>
+                        <A>
+                          <Endring>c. 	helsepersonell som er eksterne veiledere, når
+opplysningene er nødvendige for gjennomføring av vedtak truffet av
+tilsynsmyndigheten etter §§ 56 og 59</Endring>
+                        </A>
+                      </Pkt>
+                      <Pkt>
+                        <A>
+                          <Endring>d. 	personell som bistår med elektronisk bearbeiding
+av opplysningene, eller som bistår med service og vedlikehold av
+utstyr, når slik bistand er nødvendig for å oppfylle lovbestemte
+krav til dokumentasjon</Endring>
+                        </A>
+                      </Pkt>
+                      <Pkt>
+                        <A>
+                          <Endring>e. 	virksomhetens pasientadministrasjon når det
+gjelder pasientens fødselsnummer eller annen unik identifikator og
+opplysninger om diagnose, eventuelle hjelpebehov, tjenestetilbud,
+innskrivnings- og utskrivningsdato og relevante administrative data</Endring>
+                        </A>
+                      </Pkt>
+                      <Pkt>
+                        <A>
+                          <Endring>f. 	samarbeidende personell når dette er nødvendig
+for å ivareta behovene til pasientens mindreårige barn eller mindreårige
+søsken, jf. § 10 a</Endring>
+                        </A>
+                      </Pkt>
+                      <Pkt>
+                        <A>
+                          <Endring>g. 	virksomhetens ledelse for å identifisere pasientgrunnlag eller
+kontaktinformasjon til pasienter for inklusjon i konkrete forsknings-
+eller kvalitetsforbedringsprosjekter</Endring>
+                        </A>
+                      </Pkt>
+                      <Pkt>
+                        <A>
+                          <Endring>h. 	en klinisk etikkomité når opplysningene er
+nødvendige for at komiteen skal kunne bistå helsepersonellet med
+råd eller drøftelse av etiske utfordringer i et konkret tilfelle, det
+ikke er praktisk mulig eller det er klart uhensiktsmessig å innhente
+samtykke fra pasienten, det er registrert i pasientjournalen hvorfor
+samtykke ikke er innhentet, og hensynet til pasientens integritet
+og velferd er ivaretatt.</Endring>
+                        </A>
+                      </Pkt>
+                    </Liste>
+                    <A Type="Minnrykk">
+                      <Endring>Opplysninger som tilgjengeliggjøres
+etter første ledd, skal være relevante og nødvendige for det aktuelle
+formålet. Personidentifikasjon skal ikke skje i større utstrekning
+enn det som er nødvendig for å ivareta formålet. Opplysningene skal så
+langt det er mulig, tilgjengeliggjøres uten at pasientens navn eller
+fødselsnummer fremgår. Ved tilgjengeliggjøring etter første ledd
+bokstav h skal navn eller fødselsnummer ikke fremgå.</Endring>
+                    </A>
+                  </Paragraf>
+                  <Paragraf>
+                    <Stikktittel>§ 29 skal lyde:</Stikktittel>
+                    <Tittel>§ 29 <Uth Type="Kursiv">Rett til å motsette seg tilgjengeliggjøring</Uth></Tittel>
+                    <A Type="Minnrykk">
+                      <Endring>Pasienten kan motsette seg at opplysninger
+gjøres tilgjengelige etter §§ 25 til 27 og 28 første ledd bokstavene
+a, b, c og h.</Endring>
+                    </A>
+                    <A Type="Minnrykk">
+                      <Endring>Opplysningene kan heller ikke tilgjengeliggjøres
+dersom det er grunn til å tro at pasienten ville motsette seg det
+ved forespørsel.</Endring>
+                    </A>
+                    <A Type="Minnrykk">
+                      <Endring>Tilgjengeliggjøring kan likevel skje
+dersom tungtveiende grunner taler for det.</Endring>
+                    </A>
+                  </Paragraf>
+                  <Paragraf>
+                    <Stikktittel>§ 29 a skal lyde:</Stikktittel>
+                    <Tittel>§ 29 a <Uth Type="Kursiv">Opplysninger til virksomhetens
+ledelse</Uth></Tittel>
+                    <A Type="Minnrykk">
+                      <Endring>Taushetsplikt er ikke til hinder for
+at opplysninger gjøres tilgjengelige for virksomhetens ledelse når
+formålet er helsehjelp, internkontroll, intern kvalitetsforbedring
+av tjenesten eller utarbeidelse av statistikk. Ved samarbeid om
+behandlingsrettede helseregistre etter pasientjournalloven § 9 kan slike
+opplysninger også gjøres tilgjengelige for ledelsen i samarbeidende
+virksomhet.</Endring>
+                    </A>
+                    <A Type="Minnrykk">
+                      <Endring>Taushetsplikt er heller ikke til hinder
+for at ledelsen i en annen virksomhet får tilgjengeliggjort opplysninger
+som gjelder denne virksomhetens pasienter, når formålet er kvalitetsforbedring
+av behandlingsforløp.</Endring>
+                    </A>
+                    <A Type="Minnrykk">
+                      <Endring>Opplysninger som tilgjengeliggjøres
+etter første og andre ledd, skal være relevante og nødvendige for
+det aktuelle formålet. Personidentifikasjon skal ikke skje i større
+utstrekning enn det som er nødvendig for å ivareta formålet. Opplysningene
+skal så langt det er mulig, tilgjengeliggjøres uten at pasientens
+navn eller fødselsnummer fremgår.</Endring>
+                    </A>
+                  </Paragraf>
+                  <Paragraf>
+                    <Stikktittel>Ny § 29 b skal lyde:</Stikktittel>
+                    <Tittel>§ 29 b <Uth Type="Kursiv">Opplysninger som sakkyndig</Uth></Tittel>
+                    <A Type="Minnrykk">
+                      <Endring>Taushetsplikt er</Endring> ikke til
+hinder for at helsepersonell som opptrer som sakkyndig gir opplysninger
+til oppdragsgiveren, dersom opplysningene er mottatt under utførelse
+av oppdraget og har betydning for dette.</A>
+                    <A Type="Minnrykk">Den som opptrer som sakkyndig, skal gjøre pasienten oppmerksom
+på oppdraget og hva dette innebærer.</A>
+                  </Paragraf>
+                  <Paragraf>
+                    <Stikktittel>§ 29 c skal lyde:</Stikktittel>
+                    <Tittel>§ 29 c <Uth Type="Kursiv">Opplysninger til arbeidsgiver</Uth></Tittel>
+                    <A Type="Minnrykk">Departementet kan gi forskrift om adgangen
+til å gi opplysninger om en arbeidstakers helseforhold videre til
+arbeidsgiveren, i den grad opplysningene gjelder arbeidstakerens skikkethet
+til et bestemt arbeid eller oppdrag.</A>
+                  </Paragraf>
+                  <Paragraf>
+                    <Stikktittel>§ 29 d skal lyde:</Stikktittel>
+                    <Tittel>§ 29 d <Uth Type="Kursiv">Opplysninger om særreaksjonsdømte
+utlendinger</Uth></Tittel>
+                    <A Type="Minnrykk">
+                      <Endring>Taushetsplikt</Endring> er ikke til
+hinder for at det gis nødvendige opplysninger om særreaksjonsdømte
+utlendinger til utlendingsmyndighetene til bruk i en utvisningssak.</A>
+                    <A Type="Minnrykk">Ved utvisning av en utlending som utholder
+en strafferettslig særreaksjon, <Endring>er taushetsplikt</Endring> ikke
+til hinder for at det til helse- og omsorgstjenesten i mottakerstaten
+gis opplysninger som er nødvendige for at mottakerstaten skal kunne
+vurdere vedkommendes behov for helsemessig oppfølging eller behov
+for å underlegges en behandling som kan beskytte samfunnet der mot
+gjentakelsesfare som nevnt i straffeloven § 62.</A>
+                  </Paragraf>
+                  <Paragraf>
+                    <Stikktittel>§ 29 e skal lyde:</Stikktittel>
+                    <Tittel>§ 29 e <Uth Type="Kursiv">Dispensasjon fra taushetsplikt</Uth></Tittel>
+                    <A Type="Minnrykk">Departementet kan etter søknad bestemme at
+opplysninger fra pasientjournaler og andre behandlingsrettede helseregistre
+skal tilgjengeliggjøres uten hinder av <Endring>taushetsplikt</Endring>, <Endring>når</Endring>:</A>
+                    <Liste Type="Fri">
+                      <Pkt>
+                        <A>a. 	opplysningene skal brukes til et
+uttrykkelig angitt formål knyttet til statistikk, helseanalyser,
+forskning, utvikling og bruk <Endring>av beslutningsstøtteverktøy</Endring>,
+kvalitetsforbedring, planlegging, styring eller beredskap for å
+fremme helse, forebygge sykdom og skade eller gi bedre helse- og <Endring>omsorgstjenester</Endring></A>
+                      </Pkt>
+                      <Pkt>
+                        <A>b. <Endring>	det er umulig eller vanskelig å innhente samtykke
+fra et tilstrekkelig utvalg av de registrerte</Endring></A>
+                      </Pkt>
+                      <Pkt>
+                        <A>c. 	mottakeren har gjort rede for hvilke egnede tekniske
+og organisatoriske tiltak som skal settes i verk for å ivareta <Endring>informasjonssikkerheten</Endring></A>
+                      </Pkt>
+                      <Pkt>
+                        <A>
+                          <Endring>d.</Endring> 	behandlingen av opplysningene er
+av vesentlig interesse for samfunnet.</A>
+                      </Pkt>
+                    </Liste>
+                    <A Type="Minnrykk">Det skal ikke tilgjengeliggjøres flere opplysninger
+enn det som er nødvendig for formålet. Opplysningene skal tilgjengeliggjøres
+uten navn, fødselsnummer eller andre direkte personentydige kjennetegn
+med mindre slike opplysninger av særlige grunner er nødvendige.</A>
+                    <A Type="Minnrykk">Departementet kan sette som vilkår for tilgjengeliggjøring
+at mottakeren setter i verk særlige tiltak for å verne den registrertes
+grunnleggende rettigheter og interesser.</A>
+                    <A Type="Minnrykk">Opplysningene kan bare tilgjengeliggjøres dersom
+det er ubetenkelig ut fra etiske, medisinske og helsefaglige hensyn. For
+tilgjengeliggjøring til medisinsk og helsefaglig forskning skal
+mottakeren ha fått forhåndsgodkjenning fra den regionale komiteen
+for medisinsk og helsefaglig forskningsetikk, jf. <Endring>helseforskningsloven
+§ 9. Dersom tilgjengeliggjøring av opplysninger kan true samfunnets
+evne til å verne grunnleggende verdier og funksjoner og sette liv
+og helse i fare, skal opplysningene ikke gjøres tilgjengelige</Endring>.</A>
+                    <A Type="Minnrykk">
+                      <Endring>Myndigheten</Endring> etter første
+ledd kan delegeres til underordnet forvaltningsorgan eller legges
+til den regionale komiteen for medisinsk og helsefaglig forskningsetikk.</A>
+                    <A Type="Minnrykk">Departementet kan gi forskrift om bruk av taushetsbelagte
+opplysninger i forskning og om helsepersonells adgang til tilgjengeliggjøring
+og bruk av taushetsbelagte opplysninger til formål som ikke gjelder
+helsehjelp, og som pasienten samtykker til.</A>
+                  </Paragraf>
+                  <Paragraf>
+                    <Stikktittel>Ny § 29 f skal lyde:</Stikktittel>
+                    <Tittel>§ 29 f <Uth Type="Kursiv">Deltakende observasjon av helsepersonells
+yrkesutøvelse</Uth></Tittel>
+                    <A Type="Minnrykk">
+                      <Endring>Departementet kan etter søknad bestemme
+at taushetsplikt ikke skal være til hinder for deltakende observasjon
+av helsepersonells yrkesutøvelse. Vilkårene i § 29 e gjelder tilsvarende.</Endring>
+                    </A>
+                    <A Type="Minnrykk">
+                      <Endring>Myndigheten etter første ledd kan
+delegeres til underordnet forvaltningsorgan eller legges til den
+regionale komiteen for medisinsk og helsefaglig forskningsetikk.</Endring>
+                    </A>
+                  </Paragraf>
+                  <Paragraf>
+                    <Stikktittel>§ 32 første ledd og andre ledd første punktum
+skal lyde:</Stikktittel>
+                    <A Type="Minnrykk">Den som yter helsehjelp, skal i sitt arbeid
+være oppmerksom på forhold som bør føre til tiltak fra den kommunale
+helse- og omsorgstjenesten, og skal av eget tiltak gi den kommunale
+helse- og omsorgstjenesten opplysninger om slike forhold etter å
+ha innhentet samtykke fra pasienten, eller så langt opplysningene
+ellers kan gis uten hinder av <Endring>taushetsplikt</Endring>.</A>
+                    <A Type="Minnrykk">Uten hinder av <Endring>taushetsplikt skal</Endring> helsepersonell
+av eget tiltak gi opplysninger til den kommunale helse- og omsorgstjenesten,
+når det er grunn til å tro at en gravid kvinne misbruker rusmidler
+på en slik måte at det er overveiende sannsynlig at barnet vil bli
+født med skade, jf. helse- og omsorgstjenesteloven § 10-3.</A>
+                  </Paragraf>
+                  <Paragraf>
+                    <Stikktittel>§ 33 andre ledd skal lyde:</Stikktittel>
+                    <A Type="Minnrykk">Helsepersonell skal uten hinder av <Endring>taushetsplikt
+melde</Endring> fra til barnevernstjenesten uten ugrunnet opphold</A>
+                    <Liste Type="Fri">
+                      <Pkt>
+                        <A>a. 	når det er grunn til å tro at et
+barn blir eller vil bli mishandlet, utsatt for alvorlige mangler
+ved den daglige omsorgen eller annen alvorlig omsorgssvikt,</A>
+                      </Pkt>
+                      <Pkt>
+                        <A>b. 	når det er grunn til å tro at et barn har en livstruende
+eller annen alvorlig sykdom eller skade og ikke kommer til undersøkelse
+eller behandling,</A>
+                      </Pkt>
+                      <Pkt>
+                        <A>c. 	når det er grunn til å tro at et barn med nedsatt funksjonsevne
+eller et spesielt hjelpetrengende barn ikke får dekket sitt særlige
+behov for behandling eller opplæring,</A>
+                      </Pkt>
+                      <Pkt>
+                        <A>d. 	når et barn har vist alvorlige atferdsvansker ved å
+begå alvorlige eller gjentatte lovbrudd, ved problematisk bruk av
+rusmidler, eller ved å ha vist annen form for utpreget normløs atferd,</A>
+                      </Pkt>
+                      <Pkt>
+                        <A>e. 	når det er grunn til å tro at et barn blir eller vil
+bli utnyttet til menneskehandel.</A>
+                      </Pkt>
+                    </Liste>
+                  </Paragraf>
+                  <Paragraf>
+                    <Stikktittel>Ny § 34 b skal lyde:</Stikktittel>
+                    <Tittel>§ 34 b <Uth Type="Kursiv">Adgang til å gi opplysninger
+i forbindelse med sviktende dyrehold</Uth></Tittel>
+                    <A Type="Minnrykk">
+                      <Endring>Helsepersonell kan uten hinder av
+taushetsplikt gi melding til Mattilsynet eller politiet når det
+er grunn til å tro at dyr blir utsatt for slik mishandling eller
+alvorlig svikt vedrørende miljø, tilsyn og stell at det anses rettmessig.</Endring>
+                    </A>
+                    <A Type="Blanklinje">§ 45 og § 45 a oppheves.</A>
+                  </Paragraf>
+                  <Paragraf>
+                    <Stikktittel>§ 62 a første og andre ledd skal lyde:</Stikktittel>
+                    <A Type="Minnrykk">Statens helsetilsyn kan ved tilbakekall og
+suspensjon av autorisasjon, lisens eller spesialistgodkjenning pålegge
+helsepersonell å levere inn sitt pasientjournalarkiv til <Endring>Nasjonalarkivet</Endring>.</A>
+                    <A Type="Minnrykk">Hvis det ved vedtak om tilbakekall av autorisasjon,
+lisens eller spesialistgodkjenning for alltid etter § 57 andre ledd
+ikke er aktuelt å overføre pasientjournalarkivet til et bestemt
+helsepersonell eller til en bestemt virksomhet, skal helsepersonellet
+straks levere inn sitt pasientjournalarkiv til <Endring>Nasjonalarkivet</Endring>.</A>
+                  </Paragraf>
+                  <Paragraf>
+                    <Stikktittel>§ 67 skal lyde:</Stikktittel>
+                    <Tittel>§ 67 <Uth Type="Kursiv">Straff</Uth></Tittel>
+                    <A Type="Minnrykk">Den som forsettlig eller grovt uaktsomt overtrer
+bestemmelser i loven eller i medhold av den, straffes med bøter
+eller fengsel i inntil tre måneder.</A>
+                    <A Type="Minnrykk">
+                      <Endring>Overtredelse av § 21 om taushetsplikt
+straffes etter straffeloven § 209, likevel slik at også medvirkning
+straffes.</Endring>
+                    </A>
+                    <A Type="Minnrykk">
+                      <Endring>Den som forsettlig eller grovt uaktsomt
+overtrer forbudet i § 21 andre ledd bokstav c mot urettmessig tilegnelse
+av taushetsbelagte opplysninger, straffes med bøter eller fengsel
+i inntil ett år.</Endring>
+                    </A>
+                    <A Type="Minnrykk">
+                      <Endring>Grov urettmessig tilegnelse av taushetsbelagte
+opplysninger straffes med fengsel i inntil tre år. Ved avgjørelsen
+av om den urettmessige tilegnelsen er grov, skal det særlig legges
+vekt på</Endring>
+                    </A>
+                    <Liste Type="Fri">
+                      <Pkt>
+                        <A>
+                          <Endring>a. 	faren for stor skade eller
+ulempe for pasienten eller brukeren</Endring>
+                        </A>
+                      </Pkt>
+                      <Pkt>
+                        <A>
+                          <Endring>b. 	om det foreligger en tilsiktet vinning med
+overtredelsen</Endring>
+                        </A>
+                      </Pkt>
+                      <Pkt>
+                        <A>
+                          <Endring>c. 	overtredelsens varighet og omfang</Endring>
+                        </A>
+                      </Pkt>
+                      <Pkt>
+                        <A>
+                          <Endring>d. 	den utviste skyld</Endring>
+                        </A>
+                      </Pkt>
+                      <Pkt>
+                        <A>
+                          <Endring>e. 	om handlingen er begått av noen som tidligere
+er ilagt en strafferettslig reaksjon for liknende handlinger.</Endring>
+                        </A>
+                      </Pkt>
+                    </Liste>
+                    <A Type="Sentrert">II</A>
+                    <A Type="Uinnrykk">I lov 1. mars 2019 nr. 3 om tilskudd til visse
+private virksomheter med offentlig tjenestepensjonsordning skal
+§ 3 andre ledd bokstav a lyde:</A>
+                    <Liste Type="Fri">
+                      <Pkt>
+                        <A>a. 	virksomhetens avkastning på premiereserve
+og <Endring>bufferfond</Endring> forvaltet av tjenestepensjonsleverandør
+for den andel som tilskuddsordningen dekker, fratrukket administrative
+kostnader</A>
+                      </Pkt>
+                    </Liste>
+                    <A Type="Sentrert">III</A>
+                    <A Type="Uinnrykk">I lov 2. juli 1999 nr. 61 om spesialisthelsetjenesten
+m.m. oppheves § 3-2.</A>
+                    <A Type="Sentrert">IV</A>
+                    <A Type="Uinnrykk">I lov 2. juli 1999 nr. 63 om pasient- og brukerrettigheter
+gjøres følgende endringer:</A>
+                  </Paragraf>
+                  <Paragraf>
+                    <Stikktittel>§ 5-3 skal lyde:</Stikktittel>
+                    <Tittel>§ 5-3 <Uth Type="Kursiv">Rett til å motsette seg tilgjengeliggjøring
+av opplysninger i journal</Uth></Tittel>
+                    <A Type="Minnrykk">Pasienten og brukeren <Endring>kan motsette
+seg tilgjengeliggjøring av opplysninger i journal i samsvar med
+helsepersonelloven § 29 og pasientjournalloven § 17</Endring>.</A>
+                    <A Type="Minnrykk">
+                      <Endring>Opplysningene</Endring> kan heller
+ikke <Endring>tilgjengeliggjøres</Endring> dersom det er grunn til
+å tro at pasienten eller brukeren ville motsette seg det ved <Endring>forespørsel</Endring>.</A>
+                    <A Type="Minnrykk">
+                      <Endring>Tilgjengeliggjøring</Endring> kan
+likevel skje dersom tungtveiende grunner taler for <Endring>det</Endring>.</A>
+                  </Paragraf>
+                  <Paragraf>
+                    <Stikktittel>§ 6-4 skal lyde:</Stikktittel>
+                    <Tittel>§ 6-4 <Uth Type="Kursiv">Barns rett til opplæring og spesialpedagogisk
+hjelp i helseinstitusjon</Uth></Tittel>
+                    <A Type="Minnrykk">Barn i <Endring>opplæringspliktig</Endring> alder
+har rett til <Endring>grunnskoleopplæring</Endring> under opphold
+i helseinstitusjon, i den grad dette følger av opplæringslova.</A>
+                    <A Type="Minnrykk">Ungdom har rett til <Endring>videregående opplæring</Endring> under
+opphold i helseinstitusjon, i den grad dette følger av opplæringslova.</A>
+                    <A Type="Minnrykk">
+                      <Endring>Barn under opplæringspliktig alder</Endring> har
+rett til spesialpedagogisk hjelp under opphold i helseinstitusjon,
+i den grad dette følger av <Endring>barnehageloven</Endring>.</A>
+                    <A Type="Sentrert">V</A>
+                    <A Type="Uinnrykk">I lov 24. juni 2011 nr. 30 om kommunale helse-
+og omsorgstjenester m.m. oppheves § 5-10.</A>
+                    <A Type="Sentrert">VI</A>
+                    <A Type="Uinnrykk">I lov 20. juni 2014 nr. 42 om behandling av
+helseopplysninger ved ytelse av helsehjelp gjøres følgende endringer:</A>
+                  </Paragraf>
+                  <Paragraf>
+                    <Stikktittel>§ 7 andre ledd bokstav g skal lyde:</Stikktittel>
+                    <Liste Type="Fri">
+                      <Pkt>
+                        <A>g. 	informasjonssikkerhet<Endring>,
+logg</Endring> og internkontroll, jf. §§ 22<Endring>, 22 a</Endring> og
+23.</A>
+                      </Pkt>
+                    </Liste>
+                  </Paragraf>
+                  <Paragraf>
+                    <Stikktittel>§ 7 tredje ledd skal lyde:</Stikktittel>
+                    <A Type="Minnrykk">
+                      <Endring>Virksomheten skal ta hensyn til behovet
+for effektiv samhandling ved anskaffelse og videreutvikling av sine
+behandlingsrettede helseregistre.</Endring>
+                    </A>
+                    <A Type="Blanklinje">Nåværende tredje ledd blir nytt fjerde ledd.</A>
+                  </Paragraf>
+                  <Paragraf>
+                    <Stikktittel>§ 13 fjerde ledd fjerde punktum skal lyde:</Stikktittel>
+                    <A Type="Minnrykk">Ved unntak fra samtykke gjelder helsepersonelloven <Endring>§ 25
+første ledd og § 29</Endring> tilsvarende.</A>
+                  </Paragraf>
+                  <Paragraf>
+                    <Stikktittel>§ 17 første ledd bokstav a skal lyde:</Stikktittel>
+                    <Liste Type="Fri">
+                      <Pkt>
+                        <A>a. 	helseopplysninger i et behandlingsrettet
+helseregister etablert med hjemmel i §§ 8 til 10 gjøres tilgjengelige
+for helsepersonell etter § 19, jf. helsepersonelloven <Endring>§
+29</Endring> og pasient- og brukerrettighetsloven § 5-3,</A>
+                      </Pkt>
+                    </Liste>
+                  </Paragraf>
+                  <Paragraf>
+                    <Stikktittel>§ 18 første ledd skal lyde:</Stikktittel>
+                    <A Type="Minnrykk">Pasienten eller brukeren har rett til informasjon
+og innsyn i henhold til <Endring>§ 22 a</Endring>, pasient- og brukerrettighetsloven
+§ 3-6 tredje ledd og § 5-1 og til personvernforordningen artikkel 13
+og 15.</A>
+                  </Paragraf>
+                  <Paragraf>
+                    <Stikktittel>§ 19 første og andre ledd skal lyde:</Stikktittel>
+                    <A Type="Minnrykk">Innenfor rammen av taushetsplikten <Endring>etter
+helsepersonelloven</Endring> skal den dataansvarlige sørge for at
+relevante og nødvendige helseopplysninger er tilgjengelige for helsepersonell og
+annet samarbeidende personell når dette er nødvendig for å yte,
+administrere eller kvalitetssikre <Endring>helsehjelp. Personellet kan
+innenfor rammene av denne taushetsplikten behandle opplysningene
+så langt det er nødvendig for å yte, administrere eller kvalitetssikre
+helsehjelp</Endring>.</A>
+                    <A Type="Minnrykk">
+                      <Endring>Med mindre annet er fastsatt i lov
+eller i medhold av lov, skal den dataansvarlige bestemme</Endring> på
+hvilken måte opplysningene skal gjøres tilgjengelige. Opplysningene
+skal gjøres tilgjengelige på en måte som ivaretar informasjonssikkerheten.</A>
+                  </Paragraf>
+                  <Paragraf>
+                    <Stikktittel>Ny § 22 a skal lyde:</Stikktittel>
+                    <Tittel>§ 22 a <Uth Type="Kursiv">Dokumentasjon av tilgjengeliggjøring</Uth></Tittel>
+                    <A Type="Minnrykk">
+                      <Endring>Tilgjengeliggjøring av helseopplysninger
+etter denne loven og helsepersonelloven skal dokumenteres i en logg
+eller i pasientens journal. I logg skal det minst dokumenteres informasjon
+om:</Endring>
+                    </A>
+                    <Liste Type="Fri">
+                      <Pkt>
+                        <A>
+                          <Endring>a. 	identiteten og den organisatoriske
+tilhørigheten til den som får helseopplysningene</Endring>
+                        </A>
+                      </Pkt>
+                      <Pkt>
+                        <A>
+                          <Endring>b. 	grunnlaget for tilgjengeliggjøringen</Endring>
+                        </A>
+                      </Pkt>
+                      <Pkt>
+                        <A>
+                          <Endring>c. 	tidsperioden for tilgjengeliggjøringen</Endring>
+                        </A>
+                      </Pkt>
+                      <Pkt>
+                        <A>
+                          <Endring>d. 	hvilke opplysninger eller dokumenter som blir
+tilgjengeliggjort.</Endring>
+                        </A>
+                      </Pkt>
+                    </Liste>
+                    <A Type="Minnrykk">
+                      <Endring>Den registrerte har rett til innsyn
+i dokumentasjonen.</Endring>
+                    </A>
+                    <A Type="Minnrykk">
+                      <Endring>Dersom oversikten viser at noen urettmessig
+har hentet frem journalopplysninger, skal virksomheten opplysningene er
+hentet fra og den registrerte varsles, jf. personvernforordningen
+artikkel 33 og 34.</Endring>
+                    </A>
+                    <A Type="Minnrykk">
+                      <Endring>Departementet kan gi forskrift om
+dokumentasjon av tilgjengeliggjøring av helseopplysninger.</Endring>
+                    </A>
+                  </Paragraf>
+                  <Paragraf>
+                    <Stikktittel>§ 30 skal lyde:</Stikktittel>
+                    <Tittel>§ 30 <Uth Type="Kursiv">Straff for brudd på taushetsplikt</Uth></Tittel>
+                    <A Type="Minnrykk">Overtredelse av § 15 om taushetsplikt straffes
+etter straffeloven § 209, likevel slik at <Endring>også</Endring> medvirkning
+straffes.</A>
+                  </Paragraf>
+                  <Paragraf>
+                    <Stikktittel>§ 30 a skal lyde:</Stikktittel>
+                    <Tittel>§ 30 a <Uth Type="Kursiv">Straff for urettmessig tilegnelse
+av helseopplysninger</Uth></Tittel>
+                    <A Type="Minnrykk">Den som forsettlig eller grovt uaktsomt overtrer
+forbudet <Endring>i § 16</Endring> mot urettmessig tilegnelse av <Endring>helseopplysninger</Endring>, <Endring>straffes</Endring> med
+bøter eller fengsel i inntil <Endring>ett</Endring> år.</A>
+                    <A Type="Minnrykk">Grov urettmessig tilegnelse av helseopplysninger
+straffes med fengsel i inntil <Endring>tre</Endring> år. Ved avgjørelsen
+av om den urettmessige tilegnelsen av helseopplysninger er <Endring>grov</Endring>, <Endring>skal</Endring> det
+særlig legges vekt på</A>
+                    <Liste Type="Fri">
+                      <Pkt>
+                        <A>a. 	faren for stor skade eller ulempe
+for pasienten eller <Endring>brukeren</Endring></A>
+                      </Pkt>
+                      <Pkt>
+                        <A>b. <Endring>	om det foreligger en tilsiktet vinning med
+overtredelsen</Endring></A>
+                      </Pkt>
+                      <Pkt>
+                        <A>c. 	overtredelsens varighet og <Endring>omfang</Endring></A>
+                      </Pkt>
+                      <Pkt>
+                        <A>d. 	den utviste <Endring>skyld</Endring></A>
+                      </Pkt>
+                      <Pkt>
+                        <A>e. 	om handlingen er begått av noen som tidligere er ilagt
+en strafferettslig reaksjon for liknende handlinger.</A>
+                      </Pkt>
+                    </Liste>
+                    <A Type="Sentrert">VII</A>
+                    <A Type="Uinnrykk">I lov 20. desember 2024 nr. 96 om abort gjøres
+følgende endringer:</A>
+                  </Paragraf>
+                  <Paragraf>
+                    <Stikktittel>§ 9 overskriften skal lyde:</Stikktittel>
+                    <Tittel>§ 9 <Uth Type="Kursiv">Gravide som mangler beslutningskompetanse</Uth></Tittel>
+                  </Paragraf>
+                  <Paragraf>
+                    <Stikktittel>§ 9 første ledd første punktum skal lyde:</Stikktittel>
+                    <A Type="Minnrykk">Dersom den gravide mangler <Endring>beslutningskompetanse</Endring> etter
+pasient- og brukerrettighetsloven § 4-3 andre til fjerde ledd, og
+har en verge eller fremtidsfullmektig som har et mandat som omfatter
+bistand i spørsmålet om abort, kan vergen eller fremtidsfullmektigen
+kreve abort på den gravides vegne.</A>
+                    <A Type="Sentrert">VIII</A>
+                    <A Type="Uinnrykk">Loven gjelder fra den tiden Kongen bestemmer.
+Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig
+tid.</A>
+                  </Paragraf>
+                </Lovkap>
+                <Votering>
+                  <Tittel>Votering: </Tittel>
+                  <A Type="Minnrykk">Tilrådinga frå komiteen blei samrøystes vedteken.</A>
+                </Votering>
+                <Presinnlegg>
+                  <A>
+                    <Navn>Presidenten:</Navn> Det blir votert over overskrifta
+til lova og lova i det heile.</A>
+                </Presinnlegg>
+                <Votering>
+                  <Tittel>Votering: </Tittel>
+                  <A Type="Minnrykk">Overskrifta til lova og lova i det heile blei
+samrøystes vedtekne.</A>
+                </Votering>
+                <Presinnlegg>
+                  <A>
+                    <Navn>Presidenten:</Navn> Lovvedtaket vil bli sett
+opp til andre gongs behandling i eit seinare møte i Stortinget.</A>
+                </Presinnlegg>
+              </VedtakTilLov>
+            </VedtakL>
+          </Voteringer>
+          <Voteringer Id="i1005575" saksKartNr="3" debattDato="2026-01-06" tidspunkt="1504" sakID="105209">
+            <Sakdel>
+              <Tittel>Votering i sak nr. 3,
+debattert 6. januar 2026</Tittel>
+              <A Id="i1005577">Innstilling fra næringskomiteen om Samtykke til
+ratifikasjon av konvensjon om skiping av ein mellomstatleg organisasjon
+for utvikling og utnytting av digitale havsystem og informasjonstenester
+(Mercator internasjonale senter for havet) av 23. april 2025 (Innst.
+66 S (2025–2026), jf. Prop. 5 S (2025–2026))</A>
+              <Referanse Id="i1005579" debattDato="2026-01-06" saksKartNr="3" />
+              <A Type="Blanklinjeminnrykk">Komiteen hadde tilrådd Stortinget
+å gjera følgjande</A>
+            </Sakdel>
+            <VedtakS>
+              <Tittel>vedtak:</Tittel>
+              <A Type="Minnrykk">Stortinget samtykker i ratifikasjon av konvensjon
+om skiping av ein mellomstatleg organisasjon for utvikling og utnytting
+av digitale havsystem og informasjonstenester (Mercator internasjonale
+senter for havet) av 23. april 2025. </A>
+              <Votering>
+                <Tittel>Votering: </Tittel>
+                <A Type="Minnrykk">Tilrådinga frå komiteen blei samrøystes vedteken.</A>
+              </Votering>
+            </VedtakS>
+          </Voteringer>
+        </VoteringerStart>
+        <Sakreferat Id="i1005581">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak
+nr. 4</Uth> [15:05:01]</Saknr>
+            <Saktittel Id="i1005583">
+              <A>Referat</A>
+            </Saktittel>
+          </Sakshode>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [15:05:03]:</Navn> Det ligg ikkje
+føre noko referat.</A>
+            <A Type="Minnrykk">Dermed er kartet for i dag ferdig handsama.
+Ber nokon om ordet før møtet blir heva? – Møtet er heva.</A>
+          </Presinnlegg>
+        </Sakreferat>
+      </Saker>
+    </Hovedseksjon>
+    <Sluttseksjon>
+      <Hevet>
+        <A>Møtet slutt kl. 15.06.</A>
+      </Hevet>
+    </Sluttseksjon>
+  </Mote>
+</Forhandlinger>

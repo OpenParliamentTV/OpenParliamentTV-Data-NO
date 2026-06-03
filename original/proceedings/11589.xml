@@ -1,0 +1,2870 @@
+<Forhandlinger Status="Komplett">
+  <Mote moteID="11589">
+    <Startseksjon>
+      <Motestart>
+        <Tittel>Møte tirsdag den 3. februar 2026 kl. 10</Tittel>
+        <President Id="i1007014" personID="MASG">
+          <A>President: <Uth Type="Sperret">Masud
+Gharahkhani</Uth></A>
+        </President>
+        <Dagsorden>
+          <Tittel>Dagsorden <DagsordenNR>(nr. 41):</DagsordenNR></Tittel>
+          <DagsordenSak Id="i1007016">
+            <Liste Type="Dagsorden">
+              <Pkt>
+                <A> 1.	Innstilling
+fra kontroll- og konstitusjonskomiteen om Grunnlovsforslag fra Grete
+Wold, Tobias Drevland Lund, Une Bastholm, Sivert Bjørnstad, Heidi
+Nordby Lunde, Åsmund Aukrust og Ingvild Wetrhus Thorsvik om endring
+i §§ 1, 3 til 9, 11 til 15, 17 til 32, 34 til 37, 39 til 41, 43
+til 48, 62, 67 til 69, 74 til 82, 86, 90 og 121 (om republikk)</A>
+                <A>(Innst. 87 S (2025–2026), jf. Dokument 12:13 (2023–2024))</A>
+              </Pkt>
+              <Pkt>
+                <A> 2.	Innstilling fra kontroll- og konstitusjonskomiteen om
+tre grunnlovsforslag om endring i § 121</A>
+                <A>(Innst. 88 S (2025–2026), jf. Dokument 12:14 (2023–2024), Dokument
+12:15 (2023–2024) og Dokument 12:40 (2023–2024))</A>
+              </Pkt>
+              <Pkt>
+                <A> 3.	Referat</A>
+              </Pkt>
+            </Liste>
+          </DagsordenSak>
+        </Dagsorden>
+        <Subtit>Minnetale over tidligere stortingsrepresentant
+Lars Gunnar Lie</Subtit>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:00:11]:</Navn> Ærede medrepresentanter!
+Tidligere stortingsrepresentant og statsråd gjennom mange år Lars
+Gunnar Lie døde 18. april 2025.</A>
+          <A Type="Minnrykk">Han ble født i Fjell i Hordaland, men bodde
+store deler av livet i Førde, der han arbeidet som lektor i realfag
+på videregående skole og engasjerte seg i lokalpolitikken. Fra 1975
+satt han i kommunestyret i Førde for Kristelig Folkeparti, og han var
+ordfører fra 1981 til 1983. I 1985 ble han valgt inn på Stortinget
+fra Sogn og Fjordane fylke. Da Syse-regjeringen ble utnevnt etter
+valget i 1989, var Lars Gunnar Lie blant de nye statsrådene som
+kom ut fra Slottet. Han var landets nye samferdselsminister.</A>
+          <A Type="Minnrykk">Som stortingsrepresentant gjennom fire perioder
+rakk Lars Gunnar Lie innom flere komiteer. At realfagslektoren begynte
+i kirke- og undervisningskomiteen, var helt naturlig. Senere satt
+han både i finanskomiteen og i næringskomiteen, før han etter valget
+i 1997 kom tilbake til finanskomiteen, da som komitéleder. Det var
+etter dette valget at Kjell Magne Bondevik dannet sin første regjering,
+og lederposten i finanskomiteen er kanskje det viktigste vervet
+en politiker fra et regjeringsparti kan få. </A>
+          <A Type="Minnrykk">Det er mange harde forhandlinger som må til
+i finanskomiteen dersom en mindretallsregjering skal få gjennomslag for
+politikken sin, og her viste Lars Gunnar Lie seg å være rett mann
+på rett plass. Han var spenstig, rask og snudde seg fort for å få
+ting på plass. Det skadet nok heller ikke at han hver uke hadde
+som mål å heise seg opp etter armene i kontordøren for å bygge krefter.</A>
+          <A Type="Minnrykk">Etter valget i 2001 gikk Lars Gunnar Lie ut
+av Stortinget og ble pensjonist. Etter noen år flyttet han og kona
+fra Førde og tilbake til hjemfylket. I sju år var han med i forstanderskapet
+til Det teologiske menighetsfakultet, og i tre år, fra 2005, var
+han hovedstyreleder i Det Norske Misjonsselskap. Kirke og misjon
+var alltid en viktig del av livet hans.</A>
+          <A Type="Minnrykk">Som politiker var han alltid hardtarbeidende,
+effektiv og resultatorientert. Vi er takknemlige for hans lange,
+gode og trofaste gjerning, både for KrF og for samfunnet. Vi lyser
+fred over Lars Gunnar Lies minne.</A>
+        </Presinnlegg>
+        <Merknad>
+          <Handling>
+            <A>Representantene påhørte stående presidentens
+minnetale.</A>
+          </Handling>
+        </Merknad>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:03:24]:</Navn> Representantene
+Lise Selnes, Sunniva Holmås Eidsvoll, Grunde Almeland, Solveig Vik
+og Jone Blikra, som har vært permittert, har igjen tatt sete.</A>
+          <A Type="Minnrykk">Følgende innkalte vararepresentanter tar nå
+sete:</A>
+          <Liste Type="Fri">
+            <Pkt>
+              <A>For Aust-Agder: Amalie Kollstrand</A>
+            </Pkt>
+            <Pkt>
+              <A>For Vest-Agder: Jan Erik Hogstad og Alexander Liane</A>
+            </Pkt>
+            <Pkt>
+              <A>For Akershus: Tonje Lavik Pederssen</A>
+            </Pkt>
+            <Pkt>
+              <A>For Finnmark: Roy-Håkon Skårvik Friskilæ</A>
+            </Pkt>
+            <Pkt>
+              <A>For Hedmark: Erik Hager</A>
+            </Pkt>
+            <Pkt>
+              <A>For Hordaland: Ulvar Akselsen og Kamilla Bjerkholt Karlsen</A>
+            </Pkt>
+            <Pkt>
+              <A>For Møre og Romsdal: Berit Tønnesen og Carl-Henrik Myrseth
+Moltumyr</A>
+            </Pkt>
+            <Pkt>
+              <A>For Nordland: Ingunn Skogmo-Nordvang</A>
+            </Pkt>
+            <Pkt>
+              <A>For Oslo: Ola Svenneby og Malin Bye Sørensen</A>
+            </Pkt>
+            <Pkt>
+              <A>For Rogaland: Reidar Sand</A>
+            </Pkt>
+            <Pkt>
+              <A>For Sør-Trøndelag: Kjell-Arve Aspaas</A>
+            </Pkt>
+          </Liste>
+          <A Type="Minnrykk">Fra Fremskrittspartiets stortingsgruppe foreligger
+meddelelse om at den innvilgede permisjonen for representanten Jon
+Engen-Helgheim tirsdag 3. februar er trukket tilbake. – Denne meddelelse
+tas til etterretning.</A>
+          <A Type="Minnrykk">Det foreligger tre permisjonssøknader:</A>
+          <Liste Type="Strek">
+            <Pkt>
+              <A>fra Høyres stortingsgruppe om velferdspermisjon
+for representanten Tone Wilhelmsen Trøen tirsdag 3. februar</A>
+            </Pkt>
+            <Pkt>
+              <A>fra Sosialistisk Venstrepartis stortingsgruppe om permisjon
+for representanten Kirsti Bergstø i tiden fra og med 3. til og med
+5. februar for å delta på reise til Nuuk, Grønland</A>
+            </Pkt>
+            <Pkt>
+              <A>fra Senterpartiets stortingsgruppe om permisjon etter Stortingets
+forretningsorden § 5 annet punktum for representanten Bent-Joacim
+Bentzen fra og med 3. februar og inntil videre</A>
+            </Pkt>
+          </Liste>
+          <A Type="Minnrykk">Disse søknader foreslås behandlet straks og
+innvilget. – Det anses vedtatt.</A>
+          <A Type="Minnrykk">Fra første vararepresentant for Nordland, Trine
+Fagervik, foreligger søknad om fritak fra å møte i stortinget i
+tiden fra og med 3. til og med 7. februar under representanten Bent-Joacim
+Bentzens permisjon, av velferdsgrunner.</A>
+          <A Type="Blanklinjeminnrykk">Etter forslag fra presidenten ble
+enstemmig besluttet:</A>
+          <Liste Type="Num">
+            <Pkt>
+              <A>Søknaden behandles straks og innvilges.</A>
+            </Pkt>
+            <Pkt>
+              <A>Følgende vararepresentanter innkalles for å møte i permisjonstiden
+slik:</A>
+              <A>For Akershus: Håkon Snortheim 3. februar og Balder Alvær Olafsen
+3.–5. februar</A>
+              <A>For Nordland: Siv Mossleth 3.–5. februar</A>
+            </Pkt>
+          </Liste>
+        </Presinnlegg>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:05:26]:</Navn> Håkon Snortheim,
+Balder Alvær Olafsen og Siv Mossleth er til stede og vil ta sete.</A>
+          <A Type="Minnrykk">Representanten Kari Sofie Bjørnsen vil framsette
+et representantforslag.</A>
+        </Presinnlegg>
+        <Hovedinnlegg Id="i1007018">
+          <A>
+            <Navn personID="KARBJR">
+Kari Sofie Bjørnsen (H) [10:05:50]:</Navn> På vegne av representantene
+Alexander Stokkebø, Erlend Larsen, Tage Pettersen, Ove Trellevik
+og meg selv har jeg gleden av å framsette et representantforslag
+om plan for håndtering av sprengstoff og ammunisjon i norsk natur
+og i kystnære farvann.</A>
+        </Hovedinnlegg>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:06:11]:</Navn> Representanten
+Maren Grøthe vil framsette to representantforslag.</A>
+        </Presinnlegg>
+        <Hovedinnlegg Id="i1007020">
+          <A>
+            <Navn personID="MARGRT">
+Maren Grøthe (Sp) [10:06:29]:</Navn> På vegne av representantene
+Geir Pollestad, Bjørn Arild Gram og meg selv vil jeg fremme et representantforslag
+om å utrede en økt elavgift for datasentre.</A>
+          <A Type="Minnrykk">På vegne av representanten Erling Sande og
+meg selv har jeg gleden av å framsette et representantforslag om
+å endre rammebetingelsene for bingospill for å sikre inntekter til
+frivilligheten.</A>
+        </Hovedinnlegg>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:06:53]:</Navn> Forslagene
+vil bli behandlet på reglementsmessig måte.</A>
+        </Presinnlegg>
+      </Motestart>
+    </Startseksjon>
+    <Hovedseksjon Id="i1007022">
+      <Saker>
+        <Sak saksKartNr="1" sakID="100012">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak nr. 1</Uth> [10:07:00]</Saknr>
+            <Saktittel Id="i1007026">
+              <A>Innstilling fra kontroll- og konstitusjonskomiteen
+om Grunnlovsforslag fra Grete Wold, Tobias Drevland Lund, Une Bastholm,
+Sivert Bjørnstad, Heidi Nordby Lunde, Åsmund Aukrust og Ingvild
+Wetrhus Thorsvik om endring i §§ 1, 3 til 9, 11 til 15, 17 til 32,
+34 til 37, 39 til 41, 43 til 48, 62, 67 til 69, 74 til 82, 86, 90
+og 121 (om republikk) <Uth Type="RETT">(Innst. 87 S (2025–2026),
+jf. Dokument 12:13 (2023–2024))</Uth></A>
+            </Saktittel>
+          </Sakshode>
+          <Hovedinnlegg Id="i1007028">
+            <A>
+              <Navn personID="JONSAY">
+Jonas Andersen Sayed (KrF) [10:07:55]</Navn> (ordfører for saken):
+I dag behandler Stortinget et grunnlovsforslag som berører selve
+fundamentet for statsformen vår: spørsmålet om Norge fortsatt skal
+være et konstitusjonelt monarki, eller om vi skal innføre republikk.
+Det er ikke første gang Stortinget står i denne diskusjonen. Tvert
+imot har tilsvarende forslag vært fremmet og grundig behandlet flere
+ganger tidligere, og hver gang har det blitt avvist.</A>
+            <A Type="Minnrykk">På vegne av hele komiteen vil jeg understreke
+at dette er et prinsipielt spørsmål om statsform, ikke en vurdering
+av innsatsen til dagens kongehus. Det er viktig å holde fast ved nettopp
+dette skillet. Vurderingen vår handler om institusjonen monarkiet,
+dens rolle i det norske demokratiet og dens betydning for samfunnet
+som helhet.</A>
+            <A Type="Minnrykk">Når det er sagt – og på tvers av synet i det
+prinsipielle spørsmålet vi behandler i dag – er det all grunn til
+å uttrykke takknemlighet til kongen og hans lange tjeneste for landet. Kong
+Harald har fylt rollen som statsoverhode med verdighet, klokskap
+og en samlende kraft – i medgang og i motgang, i krise og i hverdag. </A>
+            <A Type="Minnrykk">Monarkiet har dype historiske røtter i Norge.
+Det moderne konstitusjonelle monarkiet er et resultat av demokratiske kamper,
+maktbegrensning og folkestyre. Kongen styrer ikke, han samler. Han
+utøver ikke politisk makt, men representerer kontinuitet, fellesskap
+og samhold. I en tid preget av polarisering, uro og raske omveltninger,
+har dette en egenverdi. Et samlende statsoverhode hevet over partipolitikken
+er ikke en demokratisk svakhet. For mange er det snarere en demokratisk
+styrke.</A>
+            <A Type="Minnrykk">Det er ingen tvil om at den reelle makten i
+det norske demokratiet ligger i denne salen, hos oss 169 folkets
+representanter, og det er en vakker tradisjon når kongen foretar
+den høytidelige åpningen av Stortinget hver oktober. Det er dypt symbolsk
+at den første plikten til en ny monark er å komme til Stortinget
+for å avlegge ed.</A>
+            <A Type="Minnrykk">La meg legge til at det i den siste tiden har
+vært flere alvorlige og krevende saker knyttet til enkeltmedlemmer
+av kongefamilien. Det har vært belastende for dem det gjelder, men
+også for institusjonen og for tilliten den hviler på. Det er avgjørende
+med åpenhet, ansvarlighet og opprydning, nettopp fordi monarkiet
+har en samlende rolle, fordi det har så stor tillit og støtte. Derfor
+må en også tåle offentlighetens krav og spørsmål.</A>
+            <A Type="Minnrykk">Men når vi løfter blikket, er bildet klart:
+Monarkiet har bred og stabil støtte i befolkningen. Ifølge Norstat
+for NRK fra september 2025 ønsker 73 pst. av befolkningen å beholde monarkiet.
+Denne sterke støtten blir også gjenspeilet i denne salen.</A>
+            <A Type="Minnrykk">Komiteen er delt i synet på denne grunnlovsendringen, og
+det er både legitimt og sunt i et demokrati. Mindretallet vil redegjøre
+for sitt syn, men KrF og flertallet er klare på at vi fortsatt ønsker
+monarki som Norges statsform.</A>
+            <A Type="Minnrykk">Avslutningsvis vil jeg takke komiteens medlemmer
+for et godt samarbeid i behandlingen av denne saken.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1007030">
+            <A>
+              <Navn personID="KARSAN">
+Kari Baadstrand Sandnes (A) [10:11:35]:</Navn> Jeg har stor respekt
+for dem som mener at makt ikke skal arves, og at samfunnets høyeste
+verv og posisjoner bør være et resultat av valg. Samtidig er det
+opp til hver enkelt representant i denne salen å ta stilling og
+stemme etter egen overbevisning i denne saken.</A>
+            <A Type="Minnrykk">I dag skal vi votere over om Norge skal være
+et monarki eller en republikk. Jeg kommer til å stemme for å videreføre monarkiet.
+Det gjør jeg fordi jeg mener at kongehuset har utført og fortsatt
+utfører sin gjerning på en meget god måte for Norge, både nasjonalt
+og internasjonalt. Kongefamilien bidrar positivt til Norges omdømme
+ute i verden, og jeg mener også at det er lønnsomt for oss som nasjon.</A>
+            <A Type="Minnrykk">Kongehuset har vært samlende i både gode og
+vanskelige tider, og har fungert som et viktig felles samlingspunkt
+på tvers av politiske skillelinjer. Samtidig er det ingen grunn
+til å legge skjul på at monarkiet rommer et paradoks. Det er noe grunnleggende
+spesielt ved at en sånn rolle arves, og at den som står først i
+arverekken, i praksis egentlig ikke kan reservere seg fra en livslang
+oppgave som involverer hele familien.</A>
+            <A Type="Minnrykk">Hadde vi stått overfor spørsmålet om å innføre
+monarki i dag, ville jeg kanskje vært mer i tvil. Men det er ikke
+et nytt system vi stemmer over. Vi vurderer en ordning sånn den
+faktisk fungerer i Norge. Siden 1905 har våre monarker kong Haakon,
+kong Olav og kong Harald vært viktige forsvarere av demokratiet
+vårt, bidratt til samhold og vært et felles samlingspunkt i både
+glede og sorg.</A>
+            <A Type="Minnrykk">På denne bakgrunn vil jeg og de aller fleste
+av Arbeiderpartiets representanter stemme for å videreføre monarkiet.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1007032">
+            <A>
+              <Navn personID="PTA">
+Per-Willy Amundsen (FrP) [10:14:10]</Navn> (komiteens leder): Den
+siste tids offentlige avsløringer og den mediestormen som kongehuset
+nå står i, er ikke utgangspunktet for denne grunnlovsbehandlingen.
+Det kan se ut som at kronprinsessen har ført det norske folk bak
+lyset, men det må ikke skygge for den livslange tjenesten Hans Majestet
+Kongen har utført og utfører til beste for nasjonen. Vi uttrykker
+først og fremst sympati med kong Harald og dronning Sonja for den vanskelige
+familiære situasjonen de står i nå.</A>
+            <A Type="Minnrykk">Det denne debatten handler om, er valg av hvilken
+styreform Norge skal ha for fremtiden. Vi bygger på en del erfaringer.
+Det nye norske konstitusjonelle monarkiet, som et tydelig flertall
+i befolkningen valgte i 1905, med 78,9 pst., har tjent Norge godt.
+Det har gjort at vi har et samlende statsoverhode, som i urolige
+tider har vært samlende for hele befolkningen.</A>
+            <A Type="Minnrykk">Vi har vært velsignet med gode monarker opp
+gjennom historien, med kong Haakon, under bl.a. annen verdenskrig, kong
+Olav og hans spesielle plass i folks hjerter, og ikke minst nåværende
+kong Harald. De har alle utført en særdeles god tjeneste for Norge
+og har på mange måter vist at med å ha et statsoverhode som er upolitisk,
+som kan samle alle, så har man på mange måter en uovertruffen styreform
+som fungerer også i krise.</A>
+            <A Type="Minnrykk">Erfaringer fra andre land som har republikk
+– vi har kanskje fått mange demonstrasjoner på det i den senere
+tid også – er at man opplever at statsoverhodet er splittende, og
+at man ikke har den samlende figuren. I en tid med ulike meninger
+i det politiske landskapet, som står hardt mot hverandre, er det i
+hvert fall Fremskrittspartiets vurdering at det å holde fast ved
+det konstitusjonelle monarkiet som vi har, også vil tjene oss i
+fremtiden.</A>
+            <A Type="Minnrykk">Det er vanskelig å se for seg at en president
+Jonas Gahr Støre – til ingen skam for han – kan være like samlende
+som kong Harald. Det sier seg selv. Det er også det historien har vist
+oss, at det å ha et kongedømme med kloke konger som fungerer over
+tid, har lagt grunnlaget for å utvikle gode institusjoner og et
+sterkt folkestyre og demokrati. Det er bare å se seg litt rundt
+i verden, i Europa, se til Storbritannia, som gjennom sin gradvise
+utvikling har fått en styreform som virkelig har gitt resultater.
+Det har skjedd over århundrer.</A>
+            <A Type="Minnrykk">På samme måte er det selvfølgelig viktig at
+Stortinget hvert fjerde år tar denne debatten. Det er til syvende
+og sist Stortinget som vedtar grunnlovsendringer og bestemmer hvordan
+vår konstitusjon skal se ut, så vi må alltid ha den debatten, og
+det er riktig å ha den debatten. Etter Fremskrittspartiets syn –
+og det er veldig tydelig formulert i vårt program – ønsker vi fortsatt
+monarki i Norge. Vi har vært tjent med å ha et konstitusjonelt monarki
+i Norge, og vi mener vi også vil være best tjent med det i fremtiden.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1007034">
+            <A>
+              <Navn personID="LAHA">
+Lars Haltbrekken (SV) [10:19:14]:</Navn> Et lands statsoverhode
+bør velges; vervet bør ikke gå i arv. Derfor foreslår SV å endre
+Grunnloven og innføre republikk. Er landets innbyggere fornøyde
+med statsoverhodet, kan hen gjenvelges. Er de misfornøyde, kan hen
+kastes gjennom valg. Det er demokratiets kjerne. </A>
+            <A Type="Minnrykk">En overgang til republikk vil være det naturlige
+sluttpunktet for demokratiseringen som startet i 1814, og som var sluttført
+da Stortinget ved unionsoppløsningen i praksis fratok kongen de
+siste restene av formell makt. Republikk er i dag den vanligste
+styreformen i verden. Forslagsstillerne ønsker å endre Grunnloven,
+sånn at også Norge får et statsoverhode som er valgt av folket,
+dvs. en president. </A>
+            <A Type="Minnrykk">En innvending mot forslaget den siste tiden
+har vært: Se til USA. Hvordan står det egentlig til der borte med
+republikken? Det er ikke mange igjen i Norge som mener at dagens president
+i USA er et gode for verken USA eller verden – tvert imot – men
+denne presidenten kan kastes gjennom valg. Etter dagens amerikanske
+grunnlov kan han ikke gjenvelges som president. Tenk om han var
+konge og satt livet ut. </A>
+            <A Type="Minnrykk">Endring av styreformen for den norske stat
+er av stor viktighet for folket og landet. Innføring av republikk
+som ny styreform bør derfor bare gjennomføres dersom et flertall
+av folket stemmer ja til dette ved en folkeavstemning der valget
+står mellom å innføre republikk eller fortsatt å ha et arvelig,
+monarkisk styresett. Derfor fremmes det også forslag om å gjennomføre
+en sånn folkeavstemning. Det er naturlig at styreformen avgjøres
+ved en folkeavstemning. En sånn folkeavstemning bør gjennomføres
+etter at Stortinget har vedtatt de nødvendige grunnlovsendringene
+for innføring av republikk som styreform. </A>
+            <A Type="Minnrykk">For at folkeavstemningen skal få betydning,
+må grunnlovsendringene gjøres betinget av at de får tilslutning
+i den etterfølgende folkeavstemningen. Forslagsstillerne har derfor tatt
+inn i grunnlovsforslaget en bestemmelse om at grunnlovsendringene
+bare trer i kraft dersom innføring av republikk som styreform i
+Norge får flertall ved en etterfølgende folkeavstemning. Ikrafttredelse
+settes til 1. januar året etter at en sånn folkeavstemning avholdes,
+for å gi noe tid til praktiske forberedelser for iverksettelse av
+den nye styreformen. Det foreslås også å sette som betingelse at
+en sånn folkeavstemning avholdes innen utgangen av neste stortingsperiode,
+sånn at grunnlovsvedtaket Stortinget eventuelt fatter i neste periode,
+ikke kan vekkes til live ved en folkeavstemning i senere perioder. </A>
+            <A Type="Minnrykk">Jeg tar med det opp SVs forslag.</A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [10:21:56]:</Navn> Da har representanten
+Lars Haltbrekken tatt opp det forslaget han refererte til.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1007036">
+            <A>
+              <Navn personID="GP">
+Geir Pollestad (Sp) [10:22:09]:</Navn> Eg ønskjer å starta med å
+takka saksordføraren for hans innlegg, og eg sluttar meg i all hovudsak
+til det som vart sagt der.</A>
+            <A Type="Minnrykk">Det er krevjande dagar for kongefamilien vår,
+men det er ikkje det debatten i dag handlar om. Dette er ein større
+debatt enn det. Det er eit konkret forslag om å gå vekk frå eit
+styresett med kongedøme og ei over tusenårig historie. Det er å
+gå vekk frå eit sentralt element i Grunnlova vår, tradisjonen vår og
+demokratiet vårt.</A>
+            <A Type="Minnrykk">Vår noverande kongefamilie har me hatt sidan
+1905. Det avgjerande spørsmålet er om dette har bidrege til stabilitet
+i Noreg og samling av nasjonen. Svaret er for meg og Senterpartiet
+eit klart ja. Det er faktisk ikkje sånn at alle berre støttar monarkiet
+fordi me i dag har ein bra konge og ein fin kronprins. Mi og Senterpartiets
+støtte byggjer på at det arvelege monarkiet faktisk er ei bra styreform
+som fungerer. Ikkje minst bidreg det til at skifte av regjering
+går føre seg på ein anstendig måte. Det er kanskje den mest politiske
+oppgåva av alle. Det er i skifte av regjering at kongen vår som
+partipolitisk uavhengig har si viktigaste rolle. Denne oppgåva er
+kraftig underkommunisert i debatten.</A>
+            <A Type="Minnrykk">Det finst alternativ til monarki, som har både
+styrkar og svakheiter. Nokre peiker på dei prinsipielle sidene og
+byggjer argumentasjonen sin på dei. Problemet med ei sånn tilnærming
+er at verken livet til folk, samfunnet vårt eller politikken er
+berre prinsipielle. Dei byggjer på historia og tradisjonen vår og
+på å finna løysingar som faktisk står seg over tid.</A>
+            <A Type="Minnrykk">Kongefamilien vår består av menneske. Me har
+ein flott kongefamilie som har lagt ned, og som legg ned, ein stor
+innsats for oss alle. Folk gjer feil, kongefamilien vår gjer feil, men
+eit augeblinksbilde endrar ikkje synet vårt på styreform. Det finst
+heller ingen eksempel på feilfrie presidentar, men det finst rikeleg
+med eksempel på presidentar som har mørke flekkar. Det er òg rikeleg
+med eksempel på maktmisbruk i land med president.</A>
+            <A Type="Minnrykk">Det er her det skurrar hjå meg når dei som
+ønskjer republikk, argumenterer. Vil dei ha ein president med mykje
+makt, eller trur dei at ein president vald for ein kortare periode
+ville klart å ha den samlande rolla som kongefamilien vår har hatt sidan
+1905? Den fremste styrken til monarkiet er på sett og vis fråværet
+av reell makt. Makta i Noreg vert utøvd av kollegiale organ, og
+det er styrken vår.</A>
+            <A Type="Minnrykk">I innstillinga vert det peikt på den folkelege
+støtta som monarkiet har. Det var òg saksordføraren inne på i innlegget sitt.
+Det er òg eit argument for min del, men det er ikkje eit avgjerande
+argument. Det avgjerande er at me i dag har eit robust styresett
+som er grunnlovfesta, og som vil kunna stå seg over generasjonar
+framover.</A>
+            <A Type="Minnrykk">Mindretalet argumenterer med at republikk er
+den mest vanlege styreforma i verda. Eg vil ikkje anbefala Stortinget
+å gå for den styreforma som til kvar tid er mest populær i eit globalt
+perspektiv. Det er òg verdt å minna om at demokrati er i mindretal
+i eit globalt perspektiv.</A>
+            <A Type="Minnrykk">Ut frå dette stemmer Senterpartiet imot forslaga
+til grunnlovsendring.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1007038">
+            <A>
+              <Navn personID="HEGNYH">
+Hege Bae Nyholt (R) [10:26:52]:</Navn> Spørsmålet om styreform er
+et prinsipielt spørsmål, og det bør behandles som det. Rødt er prinsipielt
+imot at makt skal gå i arv. Vi arbeider kontinuerlig for å flytte
+så mye makt som mulig bort fra ikke-valgte organer til folkevalgte
+organer. Republikk er i dag den vanligste styreformen i verden,
+og Rødt mener av prinsipp at monarki er mindre demokratisk enn republikk.
+Vi mener at makt må gis i valg, og vi ønsker på prinsipielt grunnlag
+å innføre en form for republikk istedenfor dagens monarki – for
+på den måten å sikre innflytelse for folk over hvem som er landets
+statsoverhode. Rødt kommer derfor til å stemme for forslaget. </A>
+            <A Type="Minnrykk">Samtidig er innføring av republikk aktuelt
+for oss bare dersom et flertall av folket stemmer ja til dette i
+en folkeavstemning. Rødt mener at enhver grunnleggende endring av den
+norske statsformen kun må skje i tråd med folkeflertallets vilje,
+og vi vil derfor understreke det som forslagsstillerne framholder:
+at endring av styreformen for den norske staten er av stor viktighet
+for folket og landet. Innføring av republikk som ny styreform bør
+derfor bare gjennomføres dersom et flertall av folket stemmer ja
+til dette ved en folkeavstemning der valget står mellom å innføre
+republikk eller fortsatt ha en arvelig monarkisk styreform. En folkeavstemning
+vil gi det norske folk mulighet til å bestemme hvem som skal være landets
+øverste leder, framfor dagens ordning, hvor makt går i arv.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1007040">
+            <A>
+              <Navn personID="UAB">
+Une Bastholm (MDG) [10:28:53]:</Navn> Som parti har ikke Miljøpartiet
+De Grønne tatt prinsipielt stilling til om Norge skal endre styreform.
+Vi vil derfor stemme litt ulikt her i salen under avstemningen i
+dag. Jeg, derimot, konkluderte for noen år siden, og jeg er blant
+forslagsstillerne og mener at vårt konstitusjonelle monarki er utdatert
+og bør endres til republikk. Hovedgrunnen er det åpenbare demokratiske
+prinsippet om at utøvende politisk makt over andres liv ikke bør gå
+i arv – en sånn makt bør velges. I tillegg mener jeg at en valgt
+president vil kunne være vel så samlende og ha et sterkere mandat
+og større tyngde i viktige oppgaver i vår tid, slik som relasjonsbygging
+med andre land eller å roe ned gemyttene internt og samle oss. </A>
+            <A Type="Minnrykk">Veldig mange av oss er glad i kongen vår. Jeg
+er også takknemlig for hvordan han bruker tronen – i ord og i handling
+– som en raus, liberal og moderne stemme for alle i Norge. Den symbolske
+verdien er tung og viktig. Jeg vil også minne om at den er politisk,
+selv om den ikke er partipolitisk. Kongen er en viktig formidler
+av våre norske politiske, demokratiske og liberale verdier, og han
+kan være det fordi dette er verdier vi er samlet om. En slik samlende
+stemme kan også en president være. Men fordi kongen ikke har noe
+valgt mandat i folket, er hans makt i realiteten først og fremst
+nettopp symbolsk, og den vil være begrenset i situasjoner hvor en
+trenger en samlende politisk leder som er hevet over den daglige
+politikken – selv om Grunnloven, formelt sett, selvfølgelig egentlig
+gir kongen en klart større rolle som en viktig del av vår utøvende
+makt.</A>
+            <A Type="Minnrykk">Dette er et argument i seg selv for å endre
+Grunnloven: Grunnloven bør gjenspeile slik Norge faktisk ser ut,
+slik reglene er, og slik vi i praksis styrer landet vårt og fordeler
+makten. Det kommer jeg litt tilbake til.</A>
+            <A Type="Minnrykk">Vi vet hva vi har, men vi vet ikke hva vi får.
+Jeg synes det virker som den viktigste grunnen til at en del ikke
+ønsker å endre styresett. Det er naturlig og menneskelig, men det
+er ikke en spesielt god grunn til å fastholde et arvelig monarki
+som ikke er i tråd med våre demokratiske og liberale verdier og prinsipper.
+Jeg mener at tradisjoner er viktige, men at noe er en tradisjon,
+er ikke i seg selv en god grunn til å fortsette med noe som går
+på tvers av våre erkjennelser og verdier.</A>
+            <A Type="Minnrykk">Da Norge fikk sin grunnlov i 1814, sto vi overfor
+raske og store endringer. Norge ble ført inn i en løs union med
+Sverige, men inspirert av Montesquieu og andre demokratiske og liberale
+krefter i Europa la Grunnloven opp til en klar tredeling av statsmakten:</A>
+            <Liste Type="Strek">
+              <Pkt>
+                <A>en lovgivende makt: Stortinget</A>
+              </Pkt>
+              <Pkt>
+                <A>en utøvende makt: Kongen og regjeringen</A>
+              </Pkt>
+              <Pkt>
+                <A>en dømmende makt: domstolene</A>
+              </Pkt>
+            </Liste>
+            <A Type="Minnrykk">Dette var en av de mest moderne og demokratiske
+ordningene i sin samtid. Om en i det hele tatt hadde hatt muligheten,
+all den tid Norge tilhørte svenskekongen, er det forståelig at en
+på det tidspunktet ikke i tillegg endret Norge til republikk. Det
+er også forståelig at vi ikke endret dette i 1905, da Norge ble
+selvstendig og sto i nye, store endringer. </A>
+            <A Type="Minnrykk">Folkeavstemningen i november 1905 legitimerte
+valg av ny, norsk konge, med et klart flertall for kongedømme –
+men vi må ikke glemme hvor få det var som deltok i folkeavstemningen.
+Jeg vil minne om tallene: Det klare flertallet var på 259 563 mot
+69 264. Da må vi legge til, for å minne oss selv på det, at i begge
+folkeavstemningene i 1905 – i august om unionsoppløsningen og i
+november om statsform – var det kun menn over 25 år som hadde stemmerett,
+og de måtte ikke motta fattighjelp, for da var de ikke verdig til
+å kunne stemme.</A>
+            <A Type="Minnrykk">Det merkelige er at vi fortsatt er et monarki,
+på tross av at dette går helt på tvers av andre helt fundamentale
+verdier og prinsipper i Norge, som vi har forsterket gang på gang
+de siste 100 årene. </A>
+            <A Type="Minnrykk">Grunnloven burde gjenspeile de faktiske reglene
+som gjelder i Norge, inkludert vårt parlamentariske styresett. Grunnloven
+gir i dag kongen utøvende makt, noe han ikke utøver i praksis. Det
+gjør at Grunnloven er utdatert på dette punktet i en helt sentral
+sak: forholdet og maktfordelingen mellom utøvende og lovgivende
+makt.</A>
+            <A Type="Minnrykk">Vi som har foreslått denne endringen av Grunnloven
+nå, foreslår at det også gjøres en grundig utredning av ulike innretninger
+av et slikt republikansk styresett som kan passe Norge, før en legger
+fram forslaget for en folkeavstemning. Da kan en få avklart spørsmål
+som hvordan presidenten skal velges, og hvem som er valgbar, hvilke
+fullmakter presidenten skal ha, hvor lenge en president kan sitte,
+og hva som skal skje med den nåværende kongefamilien.</A>
+            <A Type="Minnrykk">Aller sist: Det skjer nå en kamp om verdiene
+der ute. I en tid der demokratiet taper oppslutning til fascistiske
+tankesett, der menneskeverdet og menneskerettigheter er under angrep, og
+der mektige politiske ledere i stormaktene i verden angriper helt
+grunnleggende liberale og demokratiske verdier og vår regelstyrte
+verdensorden, burde Norge og de tolv andre konstitusjonelle monarkiene
+i Europa gjøre det motsatte. Vi bør fullbyrde demokratiseringsprosessen
+som vi startet i vårt land i 1814, og erstatte kongen med en valgt
+president. Alle mennesker i dette landet er like mye verdt, og borgerne
+bør selv få velge hele sin utøvende makt, ikke bare deler av den.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1007042">
+            <A>
+              <Navn personID="MARDAL">
+Marius Langballe Dalin (MDG) [10:35:29]:</Navn> Noreg bør bli republikk,
+men når, og på kva måte? Å bestemme meg for kva eg skulle stemme
+om grunnlovsforslaget, var ikkje heilt enkelt. Aller først vil eg
+rette ein stor takk til kongen og dronninga. Den store innsatsen
+deira for Noreg i mange år har vore heilt uvurderleg, og det same
+gjeld forgjengarane deira. Det konstitusjonelle kongedømet vårt
+har tent oss godt i mange år.</A>
+            <A Type="Minnrykk">Eg er òg prinsipiell republikanar. Eg meiner
+det er grunnleggjande udemokratisk at ein kan arve posisjonen som
+statsoverhovud. Pragmatisk monarkist er eg likevel, og difor hadde
+eg tenkt å stemme mot grunnlovsforslaget, men tida for kongedøme
+bør på eit tidspunkt ta slutt. Eg har sakna eit alternativ for å
+signalisere kvar vi bør vere langt der framme.</A>
+            <A Type="Minnrykk">Eg vil på vegner av meg sjølv fremje eit laust
+forslag med følgjande ordlyd:</A>
+            <Sitat Type="Minnrykk">
+              <A>«Stortinget ber regjeringen utrede en
+overgang til republikk i Norge. Utredningen skal vurdere fordeler
+og ulemper ved å endre statsform til republikk og vurdere ulike
+modeller for innføring av republikansk styreform i Norge.»</A>
+            </Sitat>
+            <A Type="Minnrykk">Hendingar i den siste tida har gjort meg litt
+meir i tvil, men å endre statsform etter tusen år med monarki er
+ei alvorleg sak. Det er ei avgjerd som vil forme Noreg i all overskodeleg
+framtid. Det vil setje nye rammer for demokratiet vårt og påverke
+korleis folkestyret fungerer. Den avgjerda skal ikkje takast i lys
+av dagsaktuelle hendingar, men i lys av korleis vi ønskjer å utvikle
+samfunnet og demokratiet vårt for generasjonar som kjem.</A>
+            <A Type="Minnrykk">Valet av styreform er ei djupt politisk og
+verdibasert avgjerd. Fasitsvar på kva som er rett, finst ikkje.
+Vi hadde ei folkeavrøysting før kong Haakon tiltredde som konge.
+Det er naturleg at ei folkeavrøysting òg må skje viss vi skal endre
+statsform. Ei utgreiing kan likevel gje relevant informasjon og leggje
+grunnlaget for ein realitetsorientert debatt. Den debatten er ikkje
+til stades i dag.</A>
+            <A Type="Minnrykk">Det finst mange ulike variantar av republikanske
+styreformer. USA har ei styreform med stor makt hos presidenten, noko
+eg trur ingen i Noreg vil ønskje seg. Våre nordiske naboar Island
+og Finland har som kjent heilt andre roller for presidentane, òg
+dei imellom heilt forskjellige. Det er langt meir naturleg å sjå
+i den retninga.</A>
+            <A Type="Minnrykk">Både val av statsoverhovud og fordelinga av
+ansvar og fullmakter kan organiserast på heilt ulike måtar, med
+store konsekvensar for samfunn og folkestyre. Dersom Noreg skal gje
+seg inn på ei reform av styresett, må målet vere meir demokrati,
+meir involvering og ein struktur som er robust i møtet med autoritære
+straumdrag. Samtidig skal ein vareta behovet for ritual og det høgtidelege,
+slik vi f.eks. får oppleve ved dei høgtidelege opningane av Stortinget.</A>
+            <A Type="Minnrykk">Difor meiner eg det første steget i ein slik
+prosess bør vere ei utgreiing. Her inviterer eg alle som er republikanar
+i hovudet, men monarkist i hjartet, til å vere med og utforske kva
+Noreg kan bli som republikk. Debatten er sunn og interessant.</A>
+            <A Type="Minnrykk">La oss sikte mot republikk langt der framme,
+blåne bak blåne, men her og no vil eg seie: Lenge leve kongen og
+hans hus!</A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [10:39:16]:</Navn> Representanten
+Marius Langballe Dalin har tatt opp det forslaget han refererte.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1007044">
+            <A>
+              <Navn personID="PAMB">
+Pål Morten Borgli (FrP) [10:39:36]:</Navn> I dag skal vi diskutere
+monarki eller republikk, og det er en viktig og stor prinsipiell
+debatt. For meg er svaret likevel klinkende klart og i tråd med
+vårt eget partiprogram. Jeg er tydelig tilhenger av det norske monarkiet,
+og jeg må bare si tusen, tusen takk for det kongefamilien har vært,
+og det kongefamilien er i dag.</A>
+            <A Type="Minnrykk">Kongehuset har gjennom generasjoner vist seg
+å være en trygg, samlende og stabil institusjon i det norske samfunnet. Når
+landet har vært preget av uro, usikkerhet eller sorg, har kongen
+framstått som et samlingspunkt – ikke som en politisk aktør, men
+som et menneskelig og moralsk fundamentert anker. I sånne øyeblikk
+har kongehuset minnet oss om hvem vi er, og hva vi faktisk står
+sammen om.</A>
+            <A Type="Minnrykk">Jeg tror veldig mange nordmenn kjenner seg
+igjen nettopp i dette, at kongen representerer noe som står over
+partipolitikk og skiftende flertall. En institusjon som gir kontinuitet
+i en tid der mye annet er i veldig, veldig rask endring, skaper trygghet,
+ikke minst i krisetider. </A>
+            <A Type="Minnrykk">For meg handler dette også om menneskene. Jeg
+opplever kongefamilien som ekte, varme og samlende mennesker. De
+framstår ikke som noen fjerne symboler, men som folk som vi kjenner
+oss igjen i. De møter mennesker i Norge med respekt, tilstedeværelse
+og ydmykhet, enten det er i møte med barn, eldre og frivillige eller
+i møte med mennesker som har det noe vanskelig. Jeg er også veldig
+glad for at vi har et folkelig monarki, en konge og en dronning
+som snakker som oss, har glimt i øyet og en humor og trygghet det
+norske folket kjenner seg igjen i. </A>
+            <A Type="Minnrykk">Monarkiet har utviklet seg i takt med det norske
+demokratiet. Det har vist evne til fornyelse, samtidig som det har bevart
+sin rolle som en samlende og viktig kraft. Jeg mener derfor at monarkiet
+fortsatt har en viktig plass i Norge og i framtiden, ikke som et
+hinder for demokratiet, men som en støtte opp om demokratiet. </A>
+            <A Type="Minnrykk">Et viktig argument for monarki er nettopp at
+statsoverhodet står utenfor partipolitikken. Alternativet til et
+monarki er ikke et politisk vakuum. Det er et politisk valgt statsoverhode, enten
+det ville vært statsministeren, som i dag er Jonas Gahr Støre, eller
+f.eks. stortingspresidenten, Masud Gharahkhani. For meg illustrerer
+dette nettopp utfordringer med en republikk. Politiske ledere er
+– helt naturlig – en del av politiske konflikter. De representerer
+et flertall og et mindretall – vinnere og tapere. Vi har også sett
+hvordan politiske utspill, bl.a. i sommer, der det ble advart fra
+ledende politiske personer om nettopp Sylvi Listhaug som person,
+har bidratt til polarisering istedenfor samling. </A>
+            <A Type="Minnrykk">Dette er ikke ment som kritikk av enkeltpersoner,
+men som en påminnelse om at politiske roller i sin natur kan virke splittende.
+Nettopp derfor mener jeg at det er en styrke at det norske statsoverhodet
+ikke er en del av den politiske kampen. </A>
+            <A Type="Minnrykk">Av disse grunnene vil jeg og vi i Fremskrittspartiet
+stemme for å videreføre monarkiet. Norge skal fortsatt være et grunnlovfestet
+monarki. Regenten skal være nasjonens samlende symbol og statsoverhode.
+For oss gir det stabilitet, fellesskap og en institusjon som samler
+når vi trenger det som aller mest.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1007046">
+            <A>
+              <Navn personID="TMV">
+Trygve Slagsvold Vedum (Sp) [10:44:26]:</Navn> Norge har verdens
+nest eldste grunnlov i daglig bruk. Det er bare USA som har en eldre
+grunnlov i daglig bruk – den er fra 1787. Når vi sammenligner de
+to styresettene i Norge og USA, har vi valgt ulikt når det gjelder
+republikk eller monarki. I de siste års hendelser har monarkiet
+vist seg å være en veldig stabil, ikke ustabil, styreform. </A>
+            <A Type="Minnrykk">Da Falsen sto på Eidsvoll i 1814 og leste,
+var den første paragrafen «Kongeriket Norge er et fritt, selvstendig,
+udelelig og uavhendelig rike.» Senterpartiet ønsker ikke å bytte
+ut kongeriket Norge med republikken Norge. Hvis du ser på de konstitusjonelle
+monarkiene, som f.eks. Danmark, Sverige, Storbritannia, Nederland
+og Norge, er de blant verdens mest stabile demokratier, der det
+er kontinuitet, ro og trygghet.</A>
+            <A Type="Minnrykk">Jeg har lyst til å gå tilbake dit representanten
+Pollestad var i stad, ved maktskiftet i Norge. Hva er det som faktisk skjer?
+Den regjeringen som har tapt, reiser opp til Slottet. Det siste
+Jens Stoltenberg gjorde da han var statsminister, og jeg fikk lov
+til å være statsråd i den regjeringen, var at han som statsminister
+i den tapende regjeringen foreslo den neste: statsminister Erna
+Solberg, utenriksminister Børge Brende, finansminister Siv Jensen,
+landbruksminister Sylvi Listhaug. Så sier kongen ja vel. Det neste
+avtroppende statsminister foreslår, er at maktskiftet skjer på et
+gitt tidspunkt, klokken 12. Den tapende regjeringen går ut, og den
+vinnende regjeringen kommer inn en time etterpå. Det siste Solberg
+gjorde, var å foreslå Jonas Gahr Støre. Kongen sier ja vel. Så foreslo
+Solberg at regjeringen skal skifte på det og det tidspunktet, og kongen
+sier igjen ja vel. </A>
+            <A Type="Minnrykk">Monarkiet har en stabiliserende rolle også
+ved maktskifter i Norge. Når vi har sett hvordan maktskifter har
+skjedd f.eks. i USA, med den uroen, den utryggheten og det politiske spillet
+som har vært ved maktskifter, kan kontinuiteten og tryggheten vi
+har i vår styringsform, ikke undervurderes.</A>
+            <A Type="Minnrykk">Hvorfor skal vi gjøre en radikal endring i
+en styringsform som fungerer så godt, som har vært stabiliserende
+og trygg for landet vårt, fra 1905 til i dag? Hvis vi skal gjøre
+en så radikal endring, må det være noe som ikke fungerer, at det
+skaper utrygghet og ustabilitet. Det har gjort det motsatte: lagt
+de tryggeste og beste rammer rundt folkestyret, folkets vilje blir gitt
+uttrykk for gjennom valg, og statsråder utnevnes på en verdig og
+god måte. Derfor er ikke Senterpartiet tilhenger av denne typen
+radikale endringer.</A>
+            <A Type="Minnrykk">Tradisjonen har vært en bærebjelke i det norske
+folkestyret. Den norske folkestyretradisjonen er sterk og god, og
+monarkiet har lagt en god ramme rundt den. Heldigvis vil derfor Stortinget
+i dag, etter denne avstemningen, sørge for at det samme fortsatt
+kommer til å stå i den første paragrafen som da Falsen leste det
+opp i 1814: «Kongeriket Norge er et fritt, selvstendig, udelelig
+og uavhendelig rike.»</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1007048">
+            <A>
+              <Navn personID="EVEERI">
+Even H. Eriksen (A) [10:48:27]:</Navn> Takk til saksordføreren for
+en god redegjørelse av sakens sider. For fire år siden hadde jeg
+det ærefulle oppdraget å være saksordfører i tilsvarende sak. Det
+stormer nok mer rundt kongehuset i dag enn det gjorde for fire år
+siden. Selv velger jeg å se bort fra den siste tids enkeltsaker
+når et så viktig prinsipielt spørsmål om Norges styresett skal diskuteres.</A>
+            <A Type="Minnrykk">Monarkiet har tjent Norge godt. Det har det
+i over 100 år, men det var en tid der monarkiet ikke tjente Norge
+godt, i union med andre land. Vi er ikke der i dag. Jeg kan avsløre
+til presidenten at jeg kommer til å stemme imot grunnlovsforslaget
+som åpner for en folkeavstemning om monarkiet og en innføring av
+republikk i Norge.</A>
+            <A Type="Minnrykk">Jeg er glad for å være del av et parti som
+i stort hegner om den arven vi har fra 1905. Vi har også flere meninger
+hos oss, slik det er ellers i befolkningen, og det er bra. Det er
+viktig at vi med jevne mellomrom tar en politisk vurdering av vår
+egen styreform. Det er helt nødvendig i et moderne demokrati. </A>
+            <A Type="Minnrykk">Jeg tror ikke at det ville utgjort den største
+forskjellen for AS Norge og hverdagen for deg og meg om det hadde
+vært en president eller en konge som var statsoverhode for nasjonen. Det
+er helt andre ting. Jeg opplever heller ikke en stor folkebevegelse
+for å endre styreformen, men registrerer at en fortsatt stor andel
+av det norske folk er enig med meg og flere andre på talerstolen
+her – deriblant den forrige taleren – i at kongehuset har en viktig
+funksjon i dag. Vi ønsker å videreføre monarkiet også inn i framtiden.</A>
+            <A Type="Minnrykk">Jeg skal komme med en innrømmelse. Oppi her,
+i hodet, er jeg republikaner. Jeg mener prinsipielt det er feil
+at makt og posisjoner går i arv. Alle skal ha like muligheter. Likevel
+er jeg inni her, i hjertet, monarkist. Kongen representerer Norge og
+våre verdier på en fremragende måte. Kongen er raus, klok og inkluderende.</A>
+            <A Type="Minnrykk">Vi har hatt et konstitusjonelt monarki i over
+100 år. Slik situasjonen er i dag, ser jeg få argumenter for å erstatte
+dagens styreform med en annen, men jeg er trygg på at Kongeriket Norge
+fint hadde fungert som republikken Norge, selv om det ikke klinger
+like godt.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1007050">
+            <A>
+              <Navn personID="AGNVIL">
+Agnes Nærland Viljugrein (A) [10:51:16]:</Navn> Noe av det jeg er
+stoltest av når jeg tar med meg besøk hit på Stortinget, er å kunne
+peke på plassen til stortingspresidenten og si: Der sitter Masud
+Gharahkhani. Han er en flyktning som kom til Skotselv og Drammen
+i Norge. Han jobbet i helsevesenet, tok utdanning, ble folkevalgt,
+og i dag er han den mektigste personen i landet vårt – etter kongen.</A>
+            <A Type="Minnrykk">Det sier noe om landet vårt, og det sier noe
+om Norge – at man nettopp ikke må kjenne de riktige menneskene,
+omgi seg i kretser med innflytelsesrike folk eller ha stor formue
+for å bli folkevalgt, men at makten i vårt land tvert imot ligger
+i folket, ligger i nasjonalforsamlingen, ligger her i Stortinget.</A>
+            <A Type="Minnrykk">Det er bare ett problem med den historien,
+og det er at man må si «etter kongen». Selv om vi i praksis utøver
+det demokratiet vi alle er stolte av, har vi i prinsippet bygget
+opp samfunnsmodellen vår med en monark på toppen av samfunnet som
+arver sin makt. Det er jeg overbevist om at er grunnleggende feil.
+Når Stortinget i dag skal diskutere nettopp Grunnloven, en lov som
+skal stå seg over tid og representere våre prinsipper, mener jeg
+at den burde vært bygget på prinsippet om folkestyre, som republikk.</A>
+            <A Type="Minnrykk">Selvfølgelig skal vi ivareta tradisjoner, kulturbærere, kontinuitet
+og trygghet i en urolig tid, men det trenger ikke bygge på prinsippet
+om at én person arver makt i kraft av å være født inn i en mektig
+familie. Tvert imot bør vi sikre de verdiene gjennom et system som
+forsvarer dem, men samtidig er forankret i et system for ansvarliggjøring. </A>
+            <A Type="Minnrykk">I vårt demokratiske system har den ansvarligheten
+alltid vært bygget opp gjennom valg. Styrken i tillit ligger også
+i å kunne stille våre øverste ledere til ansvar, og at det er folk
+som får avgjøre når de ikke lenger har tilliten vår. Mange i debatten
+har referert til prosessen hvor den tapende statsministeren reiser
+til Slottet og foreslår den neste, men det er jo en konsekvens av
+at vi har et velfungerende demokrati, ikke av at vi har monarki. </A>
+            <A Type="Minnrykk">Norske tradisjoner eksisterer i samfunnet vårt
+fordi vi som fellesskap tar vare på dem, fordi noen av oss spiller
+i kirken på julaften, og vi går i 17. mai-tog. Vi tar vare på tradisjonene
+når vi stemmer i nasjonalsangen vår sammen med landslaget vårt før
+en fotballkamp, eller det skjer når Musti synger «Gro Harlem Brundtland»
+og på den måten viderefører viktig historie i Norge til nye generasjoner.
+Det fellesskapet er så vanvittig mye sterkere som kulturbærer enn
+prinsippet om at det er noen som skal arve makt i samfunnet vårt.
+Det er godt at vi har ledere som kan representere og ivareta verdiene
+våre.</A>
+            <A Type="Minnrykk">Historien her i Norge har vist oss at også
+folkevalgte ledere har evnen til å samle oss. Ta f.eks. den rollen
+Bent Høie og Raymond Johansen spilte for mange av oss under pandemien.
+Da samlet vi oss rundt TV-sendinger og fant håp i deres ord om at
+hverdagen snart ville komme tilbake. Enda viktigere er hvordan Jens
+Stoltenberg fant ordene etter 22. juli som vi andre ikke klarte,
+om mer åpenhet, mer demokrati, men aldri naivitet.</A>
+            <A Type="Minnrykk">I Norge har vi 357 ordførere, politisk valgte
+ledere i kommunene våre, som er tettest på folk, og som likevel
+fungerer samlende i både høytider, krisesituasjoner eller som talspersoner
+for sine geografiske områder i Norge. Det er lett å finne eksempler
+på folkevalgte ledere og presidenter der ute som kan samle og forene
+et folk, og det er også lett å finne eksempler på monarker som ikke
+gjør det. Den grunnleggende forskjellen på de to rollene er likevel
+at en president må velges, mens en monark sitter på livstid.</A>
+            <A Type="Minnrykk">Jeg er fantastisk glad for kong Harald. Jeg
+er også blant alle dem som opplever ham som en veldig samlende konge
+og en vi kan være utrolig stolt av. Likevel er jeg overbevist om
+at han har den tilliten hos oss fordi han gjør jobben sin godt,
+fordi han tar rollen sin på alvor, ikke først og fremst fordi han
+er født til den. Folkevalgte ledere bør også etterstrebe folks tillit, akkurat
+som vi som er folkevalgte her i Stortinget, bør etterstrebe folks
+tillit. De som pragmatisk støtter kongehuset, bør være tydeligere
+på når det er vi har et kongehus som samler, og når det ikke lenger
+gjør det.</A>
+            <A Type="Minnrykk">Jeg er sosialdemokrat fordi jeg er grunnleggende
+overbevist om at det er fellesskapet som er vår sterkeste kraft,
+og fordi jeg vil videreføre en del av sosialdemokratiets og arbeiderbevegelsens
+historie. Da Arbeiderpartiet ble stiftet i 1887, var en av våre
+fire saker i valgprogrammet allmenn stemmerett. Den politiske kampen
+gikk også til kjernen av Arbeiderpartiet. Vårt mål var å organisere
+arbeidsfolk fra fagforeninger over hele landet og representere dem
+politisk i en demokratisk organisasjon. Arbeiderpartiet var folkemakt
+mot pengemakt, arbeiderinteresser mot kapitalinteresser. Ikke minst
+representerte vårt parti helt vanlige folks inntog på Stortinget
+og deres deltakelse i demokratiske prosesser. Ved å representere
+stemmene til helt vanlige folk kunne Arbeiderpartiet bidra til å
+utvide demokratiet og bygge et mer representativt folkestyre i Norge.</A>
+            <A Type="Minnrykk">I vårt parti har vi ulikt syn på monarki og
+republikk, og det går helt fint. Når jeg i dag forsvarer mitt standpunkt,
+mener jeg det også er forankret i sosialdemokratiet og i arbeiderbevegelsens
+aller dypeste historie i Norge. I politikken brenner jeg for et
+samfunn der makt og innflytelse ligger hos vanlige folk, og at det
+ikke spiller noen rolle hvem man er, hvor man kommer fra, hvilken
+bakgrunn man har, hvilke relasjoner man har, hvem ens familie er,
+eller hvor mye penger man har. Jeg mener at det skal være opp til
+folk i dette landet å avgjøre hvem som skal være våre mektigste
+ledere, hvem som skal være vårt statsoverhode. Det mener jeg bør
+skje gjennom en folkeavstemning, og det er det jeg kommer til å
+stemme for i dag.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1007052">
+            <A>
+              <Navn personID="SMY">
+Sverre Myrli (A) [10:58:31]:</Navn> Jeg har de siste dagene fått
+veldig mange henvendelser fra folk som ikke tror det er tilfeldig
+at denne debatten kommer i Stortinget akkurat i dag. Jeg tror vi
+må si at dette er satt opp på Stortingets langtidsprogram for veldig
+lenge siden, så jo, det er tilfeldig at denne debatten og denne
+avstemningen, som vel er en periodevis seanse, kommer akkurat i
+dag. Tar jeg ikke feil, er dette er min åttende periode på Stortinget,
+og da har jeg vel også vært med på åtte avstemninger om hvorvidt
+vi skal gå over til republikk. </A>
+            <A Type="Minnrykk">Noen hevder at befolkningen bør kunne gi uttrykk
+for hva de mener om styreformen med et visst mellomrom i tid. Det
+går det an å argumentere for, for det er 120 år siden vi hadde folkeavstemning
+om styreformen. Det går også an, som jeg har sett noen gjøre, å
+argumentere for at spørsmålet folk ble stilt i folkeavstemningen
+i 1905, ikke var et prinsipielt spørsmål om styreformen. Spørsmålet
+befolkningen ble stilt i den andre folkeavstemningen i 1905 – den
+første var om unionsoppløsningen med Sverige – var følgende, og
+her må jeg takke stortingsarkivet, som har funnet fram dokumentene
+for meg:</A>
+            <Sitat Type="Minnrykk">
+              <A>«Er den stemmeberettigede enig i stortingets
+bemyndigelse til regjeringen om at opfordre prins Carl af Danmark
+til at lade sig vælge til Norges konge, svarer han «Ja»; er han
+ikke, svarer han «Nei».»</A>
+            </Sitat>
+            <A Type="Minnrykk">Valget var i realiteten et valg mellom republikk
+og monarki, men folkeavstemningen ble formulert som et ja eller nei
+til prins Carl, altså senere kong Haakon. Det var vel også derfor
+kong Haakon kunne fleipe med sine europeiske monarkkollegaer om
+at han var den eneste folkevalgte monarken i verden. </A>
+            <A Type="Minnrykk">Det blir jo hevdet at det var statsministeren
+selv, Christian Michelsen, som formulerte spørsmålet i folkeavstemningen.
+Michelsen satset også posisjonen sin på det – regjeringen Michelsen
+sa at hvis de ikke fikk flertall i folkeavstemningen, ville regjeringen
+gå av. Republikaneren Michelsen formulerte altså spørsmålet og ville
+ha prins Carl – senere kong Haakon – som konge, og begrunnelsen
+var politiske og taktiske årsaker. Det må kunne sies. Det ble hevdet
+fra Michelsens og regjeringens side at en ønsket å ha en konge for
+å sørge for et lavt konfliktnivå i landet, men det var selvsagt
+også taktisk, fordi Norge, som et lite land i nord, ønsket et godt
+forhold til andre europeiske land. I særdeleshet må vi tro at det
+gjaldt Sverige, Danmark og Storbritannia, og derfor også valget
+av prins Carl. </A>
+            <A Type="Minnrykk">Det kan selvsagt legges til at det var svært
+få republikker i Europa i 1905, og at det kanskje også var et argument
+for å gå inn for monarki i 1905. Folkeavstemningen viste at 79 pst. stemte
+ja og 21 pst. stemte nei. Størst flertall for monarkiet var det
+i Vestfold, med 93 pst., og minst flertall var det i Telemark, med
+59 pst. Det var for 120 år siden. Argumentet den gang om at monarki
+som styreform er lurt for å ha et lavt konfliktnivå, er et like
+godt argument i dag som det var i 1905, for 120 år siden. Derfor
+kan jeg ikke se at det skulle være nødvendig med noen ny folkeavstemning. </A>
+            <A Type="Minnrykk">Vi har et system som fungerer bra, og det bidrar
+til lavt konfliktnivå. Det skulle heller ikke være nødvendig å be
+regjeringen utrede styreformen. Jeg vil tro justisministeren, som
+er til stede, er glad hvis det forslaget ikke oppnår flertall i
+Stortinget.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1007054">
+            <A>
+              <Navn personID="OLASVE">
+Ola Svenneby (H) [11:03:41]:</Navn> Kongehusets verdi verken kan
+eller bør måles i enkelthendelser eller avisoverskrifter i et øyeblikksbilde,
+heller ikke i dag. Kongehuset må måles i hvilken stabilitet det
+bidrar til over tid, for kongehuset er et generasjonsprosjekt. Sannheten
+er at samtlige av verdens mest stabile og demokratiske land – det
+være seg Belgia, Nederland, Luxembourg, Storbritannia, New Zealand
+eller Australia – er konstitusjonelle monarkier. Jeg tror ikke det
+er tilfeldig. Jeg tror kongehuset bidrar til nettopp den stabiliteten
+som gjør demokratiet vårt stødig, for monarkiet er ingen motsetning
+til demokratiet. Dessuten stemmer norske velgere hvert fjerde år
+over kongehuset, på samme måte som vi stemmer over regjeringen gjennom
+indirekte valg. Ønsker folket republikk, kan det stemme på partiene
+som vil endre statsform i Norge. Inntil videre forblir de republikanske
+partienes oppslutning i Norge beskjeden.</A>
+            <A Type="Minnrykk">Vi trenger aldri å bygge opp Norge fra bunnen.
+Å ta stilling til skrivebordsrealiteter som spørsmålet om hva vi
+ville ha gjort dersom det eventuelt skulle inntreffe, er derfor
+ikke spesielt relevant. Det samme spørsmålet kunne vi jo f.eks. stille
+om rødvin: Ville vi funnet opp rødvin i dag dersom vi hadde bygd
+opp samfunnet vårt på nytt? Eller om politiske partier: Ville vi
+funnet opp partiet SV dersom vi hadde bygd samfunnet vårt på nytt?
+Men det skal vi forhåpentligvis ikke gjøre, og det er for meg det
+viktigste prinsippet. </A>
+            <A Type="Minnrykk">Det er enkelte som bruker Norges økende mangfold
+som et argument for å bygge ned de fellesinstitusjonene som vi har.
+Jeg ser det stikk motsatt. Det er nettopp når samfunnet vårt blir
+mer mangfoldig, vi skal holde fast på institusjonene våre, og blant
+dem som bygger ned forskjellene mellom livssyn, bakgrunn og identitet,
+står kongehuset i en særstilling. La oss holde det slik.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1007056">
+            <A>
+              <Navn personID="TSTA">
+Tom Staahle (FrP) [11:06:20]:</Navn> Debatten om monarki eller republikk
+i Norge blir ofte framstilt som et spørsmål om tradisjon mot modernitet.
+En slik motsetning er for enkel. Det norske monarkiet er ikke udemokratisk,
+det er en institusjon som har historisk og prinsipiell betydning
+og bidrar til stabilitet, samling og demokratisk forankring.</A>
+            <A Type="Minnrykk">Kongedømmet i Norge har historiske røtter tilbake
+til middelalderen, mens den moderne betydningen av monarkiet oppsto
+i 1814. Med Grunnloven ble kongemakten konstitusjonelt innrammet
+og tydelig underlagt folkesuvereniteten gjennom Stortinget. Norge
+valgte ikke et enevelde, men et konstitusjonelt monarki der kongen
+skulle regjere, men ikke styre. Dette prinsippet har vært grunnleggende
+for norsk statsforståelse, og er det fortsatt.</A>
+            <A Type="Minnrykk">Valget om å videreføre monarkiet i 1905 ga
+– og gir – monarkiet en demokratisk legitimitet. Etter oppløsningen
+av unionen med Sverige kunne Norge ha valgt en republikk, men både
+Stortinget og folket ønsket monarki. Kongedømmet ble dermed et uttrykk
+for folkets vilje. Det skal vi ta på alvor.</A>
+            <A Type="Minnrykk">Prinsipielt sett har monarkiet flere demokratiske
+fortrinn. Et arvelig statsoverhode står utenfor partipolitikken
+og har ingen egen politisk agenda, og nettopp fordi kongen ikke
+er valgt, trenger han heller ikke å pleie velgergrupper, vinne valg eller
+markere seg politisk. Det gjør at en monark er bedre egnet som et
+samlende symbol enn et valgt statsoverhode, som uunngåelig er knyttet
+opp mot politiske konflikter og flertall.</A>
+            <A Type="Minnrykk">I motsetning til det republikanere ofte hevder,
+er ikke monarkiet et brudd med likhetsprinsippet i praksis. Kongen
+i Norge har ingen politisk makt som ikke er demokratisk kontrollert,
+og ingen borgere stilles dårligere som følge av kongens rolle. Monarkiet
+tydeliggjør skillet mellom politisk makt og statens symbolske og
+samlende funksjoner. Det er viktig, det er riktig, og det styrker
+demokratiet ved å samle makt hos de folkevalgte samtidig som staten
+har et stabilt og verdig ansikt utad.</A>
+            <A Type="Minnrykk">Mange republikanere hevder også at det å være
+en republikk er prinsipielt rent, men det stemmer ikke. Et valgt
+statsoverhode kan skape konkurranse om oppmerksomheten og legitimiteten
+i forhold til en statsminister og et storting, og risikoen for en
+politisering av statsoverhodeembetet er større enn det er i et monarki.</A>
+            <A Type="Minnrykk">Det norske monarkiet er ikke bare et spørsmål
+om tradisjon, det handler altså om institusjonell klokskap. Det
+representerer kontinuitet i et politisk system preget av endring,
+og det innbyr også til samling. Så lenge monarkiet fungerer innenfor
+klare konstitusjonelle rammer – og det gjør det, med bred folkelig
+støtte – er det ikke bare forsvarlig, men prinsipielt riktig å bevare
+det. Monarkiet i Norge står ikke i motsetning til demokratiet, det
+er en del av det. Jeg kommer til å stemme for å videreføre monarkiet.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1007058">
+            <A>
+              <Navn personID="YSTMAT">
+Øystein Mathisen (A) [11:09:36]:</Navn> Prinsipielt er det vanskelig,
+og for meg umulig, å forsvare at én familie skal være født til en
+opphøyd posisjon og status, finansiert av fellesskapet og med privilegier
+som andre i samfunnet bare kan drømme om. Prinsipielt kan en derfor
+si og hevde at monarkiet burde ha vært avskaffet for lenge siden,
+men i denne saken møtes for meg prinsipper og det pragmatiske.</A>
+            <A Type="Minnrykk">Kong Haakon, kong Olav og kong Harald har betydd mye
+for Norge. De har fungert som en samlende kraft i samfunnet, som
+er i stadig endring. I noen av landets vanskeligste perioder – under
+andre verdenskrig, i økonomiske kriser og i dagene etter 22. juli
+– hadde kongen en viktig rolle for å skape fellesskap, samhold og
+trygghet.</A>
+            <A Type="Minnrykk">Monarkiets historiske fortid i Europa er tett
+knyttet sammen med enevelde og en forestilling om at kongene hadde
+fått sin kraft og makt på guddommelig vis – at det var ansett som
+Guds vilje at de skulle styre. Denne maktforståelsen er blitt utfordret
+gjennom opplysningstiden og de demokratiske omveltningene som fulgte.
+Enkelte kongehus forsvant, mens andre ble konstitusjonelle monarkier
+underlagt grunnlov og folkestyre.</A>
+            <A Type="Minnrykk">I Norge valgte vi både konge og demokrati.
+Vårt monarki ble ikke innsatt med guddommelig autoritet, men med
+folkelig legitimitet. Gjennom folkeavstemningen i 1905 ble Haakon 7.
+innsatt som Norges konge.</A>
+            <A Type="Minnrykk">Mitt prinsipielle førstevalg er ikke å stemme
+verken for eller mot monarki i dag, men å etablere et nytt prinsipp:
+at ethvert tronskifte bekreftes av folket gjennom en folkeavstemning.
+Slik ville monarkiets legitimitet bli fornyet og institusjonen demokratisk
+forankret tydeligere, men et slikt forslag ligger ikke til behandling
+i dag.</A>
+            <A Type="Minnrykk">Kongehuset er i litt hardt vær for tiden. Samtidig
+skal endringer i Grunnloven ha lengre perspektiver. Uavhengig av flertallet
+i denne salen vil en eventuell endring av styringsform kreve en
+folkeavstemning for å forankres.</A>
+            <A Type="Minnrykk">Personlig mener jeg at legitimiteten, den fornyede
+tilliten og den demokratiske forankringen en folkeavstemning ved ethvert
+tronskifte ville ha gitt, ville ha styrket det norske monarkiet.
+Og dersom den dagen skulle komme hvor den folkelige støtten ikke
+lenger er der, da er det også et legitimt utfall, for det ville
+ha vært folkets vilje.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1007060">
+            <A>
+              <Navn personID="GP">
+Geir Pollestad (Sp) [11:12:32]:</Navn> Det har vore ein god og verdig
+debatt om monarki eller republikk. Me i Senterpartiet har jo uttalt
+oss nokså hardt mot forslaget. Men det finst ein president som eg
+er veldig glad i og stolt av, og det er stortingspresidenten – så
+ta dei orda til deg, president!</A>
+            <A Type="Minnrykk">Det eg saknar i debatten frå dei som forsvarer
+republikk og argumenterer for det, er at det er veldig vanskeleg
+å få tak på kva slags type republikk og kva slags type president
+ein ser for seg.</A>
+            <A Type="Minnrykk">Eg har møtt på Stortinget sidan 2009. I heile
+denne tida har kong Harald vore landets øvste leiar. Eg har tenkt
+litt på: Dersom me hadde vore ein republikk, kven hadde vore president
+– eller presidentar – i denne perioden? Eg har gjort meg mine tankar.
+Dei har eg ikkje tenkt å dela med Stortinget, men eg kan seia såpass
+at det eg har tenkt, ikkje har styrkt meg i trua på at republikk
+ville ha tent Noreg.</A>
+            <A Type="Minnrykk">Fleire i denne debatten peikar på demokratiet.
+Men ein må òg ta inn over seg at ein har eit velfungerande demokrati, og
+det norske demokratiet er uløyseleg knytt til monarkiet, slik at
+det er ingen motsetnad mellom monarki og demokrati. Tvert imot meiner
+Senterpartiet at monarkiet har bygd opp under og støtta det norske
+demokratiet.</A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:14:18]:</Navn> Flere har ikke
+bedt om ordet til sak nr. 1.</A>
+          </Presinnlegg>
+          <Referanse Id="i1007062" voteringsDato="2026-02-03" debattDato="2026-02-03" saksKartNr="1" />
+        </Sak>
+        <Sak Id="i1007064" saksKartNr="2" sakID="100039,100014,100013">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak
+nr. 2</Uth> [11:14:27]</Saknr>
+            <Saktittel Id="i1007072">
+              <A>Innstilling fra kontroll- og konstitusjonskomiteen
+om tre grunnlovsforslag om endring i § 121 <Uth Type="RETT">(Innst.
+88 S (2025–2026), jf. Dokument 12:14 (2023–2024), Dokument 12:15 (2023–2024)
+og Dokument 12:40 (2023–2024))</Uth></A>
+            </Saktittel>
+          </Sakshode>
+          <Hovedinnlegg Id="i1007074">
+            <A>
+              <Navn personID="JULSTU">
+Julie E. Stuestøl (MDG) [11:15:04]</Navn> (ordfører for saken):
+I dag behandler vi tre forslag om endringer i Grunnloven § 121,
+selve prosedyren for hvordan Stortinget kan endre Grunnloven. Alle
+forslagene peker på den samme utfordringen: at dagens ordning har
+svakheter når det gjelder utredning og synlighet i offentligheten.
+Dette er ikke noe nytt, det har vært påpekt av fagfolk lenge, og
+Stortinget satte selv ned Andersen-utvalget for å foreslå en bedre
+prosedyre. Denne rapporten behandlet Stortinget i 2024. </A>
+            <A Type="Minnrykk">De tre forslagene er altså alternativer til
+dagens prosedyre. Felles for alle tre forslagene er et ønske om
+at grunnlovsforslag skal behandles i to omganger – først i perioden
+de framsettes, og deretter i den neste perioden, hvor det fortsatt skal
+kreves to tredjedels flertall for vedtak. I tillegg vil et grunnlovsforslag
+kunne justeres noe etter at det er levert inn, dersom høring og
+andre forarbeider avdekker svakheter. </A>
+            <A Type="Minnrykk">Grunnlovsforslag 14 bygger direkte på anbefalingene
+fra Andersen-utvalget i Dokument 18, og foreslår at grunnlovsforslag
+skal framsettes innen siste hverdag i mai, i valgperiodens tredje
+år, at Stortinget i fjerde år kan ta stilling til om forslaget skal
+tas opp til behandling etter valget, og at det krever støtte fra
+en tredjedel av Stortinget i denne førstegangsavgjørelsen. Grunnlovsforslag 40
+bygger også på utvalgets arbeid, men foreslår at en fjerdedel av
+Stortingets medlemmer må støtte et forslag for at det skal sendes
+videre. Grunnlovsforslag 15 ble fremmet av representanter fra flere
+partier, og bygger på kontroll- og konstitusjonskomiteens tidligere
+innstilling i Dokument 18. Her innføres en totrinnsbehandling, men uten
+siling. </A>
+            <A Type="Minnrykk">Alle framsatte grunnlovsforslag skal fortsatt
+behandles etter valget, uavhengig av om de får Stortingets tilråding
+i første runde eller ikke. Den første behandlingen skal sikre bedre utredning,
+større åpenhet og at velgerne kjenner til forslagene før valget.
+Stortinget kan i denne fasen tilrå endringene i forslagene, og både
+opprinnelige og eventuelt endrede forslag skal deretter kunngjøres. </A>
+            <A Type="Minnrykk">Modernisering av prosedyren støttes i dag av
+et mindretall i dagens kontroll- og konstitusjonskomité, mens flertallet i
+komiteen mener at dagens regler i alt vesentlig har fungert godt. </A>
+            <A Type="Minnrykk">Jeg går nå over til MDGs standpunkt i saken.
+For min egen del mener jeg at det er synd hvis Stortinget i dag
+lar denne sjansen gå fra seg til en viktig forbedring. Både stortingsflertallet
+som bestilte utredningen i 2022, Andersen-utvalgets rapport og en
+enstemmig kontrollkomité har vært helt tydelige: Dagens system trenger
+endringer. Komiteen anno 2024 sa at det ikke er holdbart at de viktigste
+lovendringene Stortinget behandler, er de som er dårligst utredet. </A>
+            <A Type="Minnrykk">Norges institutt for menneskerettigheter, NIM,
+er enig. I Norge stiller vi strenge krav til utredning av vanlige
+lover og forskrifter, men ikke til selve Grunnloven, den teksten
+som står øverst i vårt rettshierarki. Jeg er enig med NIM i at alle
+de tre forslagene vil styrke kvaliteten i Stortingets arbeid fordi
+de gir oss mulighet til behandling i to perioder, mer åpenhet og bedre
+tilgjengelighet for velgerne. En første behandling vil synliggjøre
+partienes standpunkter og gi grunnlovsforslag større offentlig oppmerksomhet.
+Dette styrker folkesuvereniteten fordi velgerne faktisk får innsikt
+i hva man går til valg på.</A>
+            <A Type="Minnrykk">Den viktigste forskjellen mellom de tre forslagene
+er likevel ikke uvesentlig. Andersen-utvalgets to forslag innebærer
+at kun forslag som oppnår et visst flertall, faktisk blir behandlet
+i neste periode. Det betyr at noen forslag siles bort, noe som svekker
+mindretallsvernet og retten hver enkelt representant har til å få
+sine forslag behandlet i Stortinget. </A>
+            <A Type="Minnrykk">En enstemmig kontrollkomité mente i 2024 at
+dette var en så stor svakhet ved de opprinnelige forslagene at de
+gikk sammen om et omforent forslag, altså Dokument 12:15. Her er
+en førstegangsvotering kun veiledende. Alle framsatte forslag får
+altså en grundig behandling, det åpnes for mulige justeringer, og
+Stortinget må fortsatt ha to tredjedels flertall i siste instans. </A>
+            <A Type="Minnrykk">Dette er en klar forbedring. Det er mer demokratisk,
+det styrker kvaliteten i grunnlovsforslagene, og det styrker folkesuvereniteten
+uten å svekke mindretallsvernet. Jeg håper virkelig at representantene
+i dagens storting griper denne muligheten, og jeg anbefaler å stemme
+for grunnlovsforslag 15.</A>
+            <A Type="Minnrykk">Jeg tar opp mindretallsforslaget i saken.</A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:19:53]:</Navn> Representanten
+Julie E. Stuestøl har tatt opp det forslaget hun refererte til. </A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1007076">
+            <A>
+              <Navn personID="SMY">
+Sverre Myrli (A) [11:20:09]:</Navn> Takk til saksordføreren for
+en grundig gjennomgang av saken som sådan og forslagene vi i dag
+har til behandling. </A>
+            <A Type="Minnrykk">La meg aller først si at jeg er enig i at det
+kan hevdes at det til en viss grad er lite debatt om og oppmerksomhet
+omkring grunnlovsforslag i det øyeblikket de fremmes, eller i den
+perioden de fremmes. Det går også an å si at grunnlovsforslag kan
+fremmes og for så vidt vedtas uten forutgående grundig utredning,
+i motsetning til andre lovforslag, der slikt er et krav, som også
+saksordføreren sa.</A>
+            <A Type="Minnrykk">Jeg er enig i det, men jeg må samtidig stille
+spørsmålet: Er det store og reelle problemer med dagens prosedyrer
+for endring av Grunnloven? Med et nytt regime, et nytt system, for
+fremming og framsettelse av grunnlovsforslag har en jo ingen forsikring
+om at det blir mer offentlig debatt omkring grunnlovsforslagene.</A>
+            <A Type="Minnrykk">Vi – jeg får si vi – alle på Stortinget som
+har et ansvar for både Grunnloven og andre lover og vedtak som fattes,
+har jo de siste årene, de siste periodene, prøvd å legge til rette
+for mer debatt om grunnlovsforslagene, også i den perioden forslagene
+fremmes. Det har vært avholdt seminarer, og det har vært åpnet for
+debatter i plenum over de forslagene som er fremmet. Det har vært
+seminarer i lagtingssalen, og det har vært seminarer andre steder,
+men vi må jo innrømme at det ikke har vært veldig stor interesse
+for de debattene.</A>
+            <A Type="Minnrykk">Så til problemstillingen om grunnlovsforslag
+og at de kan fremmes og vedtas uten at de er grundig utredet: Ja,
+det går det an å hevde. Og ja, jeg vet at mange, særlig fra juridiske miljøer,
+hevder det. Men igjen: Er det et stort problem, og vedtar vi store
+grunnlovsendringer i Norge uten at endringene er utredet? Eller
+for å si det litt mer brutalt: Vedtar vi grunnlovsendringer uten
+at Stortinget egentlig vet hva de vedtar? Nei, det kan jeg egentlig
+ikke komme på at har skjedd. I forkant av eventuelle grunnlovsendringer
+har vi tradisjonelt grundige prosesser og grundige utredninger,
+gjerne i form av offentlige utredninger – NOU-er, som de gjerne
+er kalt – eller andre utredninger.</A>
+            <A Type="Minnrykk">Jeg kan nevne noen av de mest aktuelle de senere
+årene. Om forholdet mellom kirke og stat, som jo medførte store endringer
+i Grunnloven, var det utvalg og grundige utredninger. Det samme
+var det da vi la bestemmelser om menneskerettighetene inn i Grunnloven;
+det var mange års utredninger og debatt. Og det samme gjaldt da
+Stortinget i forrige periode gjorde til dels store endringer i valglovgivningen.
+Det var utvalg og utredninger i forkant; en utredet endringene før
+Stortinget endret Grunnloven. Til og med da vi foretok språklige justeringer
+av Grunnloven, var det på bakgrunn av innspill fra fagekspertise
+og andre som jobbet med problemstillingene.</A>
+            <A Type="Minnrykk">Jeg vil også si at hvis det er et problem i
+dag at grunnlovsforslag er lite utredet, er det fullt mulig for
+Stortinget å gjøre noe med det. Stortinget kan når som helst innhente
+de opplysninger og utredninger en måtte ønske, også når det gjelder grunnlovsforslag,
+både fra regjeringen og fra andre. Vi kan gjerne sette oss ned og
+diskutere det: Bør vi gjøre det på en annen måte? Bør vi skaffe
+til veie mer utredninger av de grunnlovsforslag som fremmes i en
+periode?</A>
+            <A Type="Minnrykk">Flertallet mener at Grunnloven i alt vesentlig
+har fungert bra når det gjelder prosedyren for framsettelse av grunnlovsendringer.
+Grunnlovsforslag fremmes den ene perioden i et av de tre første
+årene i perioden. Så ligger det over stortingsvalget, og så må det
+behandles i et av de tre første årene i den påfølgende stortingsperioden,
+og der må forslaget få to tredjedels flertall for å bli vedtatt.
+Slik har det vært i tiår etter tiår, og jeg vil igjen si at det
+har fungert rimelig bra.</A>
+            <A Type="Minnrykk">Et nytt regelverk, og det går an å argumentere
+for det, jeg skal snart komme til det, vil bli et mer komplisert
+regelverk, og derfor må fordeler og ulemper med dagens system og
+med et eventuelt nytt system veies opp mot hverandre. Er det rett og
+slett ønskelig å foreta såpass store endringer i Grunnloven?</A>
+            <A Type="Minnrykk">Komitéflertallet legger til grunn at Grunnloven
+ikke skal endres uten at det er høyst påkrevet. Dessuten vil jeg
+legge til at i de tidene vi nå lever i, når vi ser hvordan verden
+rundt oss er, skal det være skranker for å endre Grunnloven. Det
+skal ikke være for lett å endre Grunnloven. Uansett hvilke bestemmelser
+som ligger til grunn, er det et viktig prinsipp at grunnlovsforslag
+ligger over et stortingsvalg. Velgerne kan da si sin mening gjennom
+stemmeseddelen ved påfølgende valg, og det er et viktig prinsipp
+at det kreves to tredjedels flertall i forsamlingen i Stortinget
+for at grunnlovsforslag skal bli vedtatt.</A>
+            <A Type="Minnrykk">Det går an å føre gode argumenter for at dagens
+system bør endres. Utvalget ledet av tidligere stortingspresident
+Dag Terje Andersen, Andersen-utvalget, utredet derfor et nytt system
+for framsettelse av grunnlovsforslag, som etter forslagsstillernes
+mening skulle medføre at forslagene ble bedre utredet, og at en
+skulle få mer offentlig debatt.</A>
+            <A Type="Minnrykk">Arbeiderpartiet har hele tiden vært innstilt
+på å støtte forslaget fra Andersen-utvalget, altså det vi i dag
+behandler som grunnlovsforslag 14. Men flertallet i kontroll- og
+konstitusjonskomiteen i forrige periode ville ikke støtte Andersen-utvalgets
+forslag, som var grundig utredet. Mange av dem som nå argumenterer
+for at det er nødvendig å ha nye prosedyreregler for framsettelse
+av grunnlovsforslag, hevder at dagens grunnlovsforslag er lite utredet.
+Så setter Stortinget ned et utvalg, Andersen-utvalget, med bred
+sammensetning fra akademia og det politiske miljøet, som fremmer
+et helhetlig og gjennomarbeidet forslag, grundig utredet, men så
+vil en altså ikke fremme det forslaget, men snekrer sammen sitt
+eget forslag i kontrollkomiteen i forrige periode. Det er ingenting
+galt med det. Det er helt greit, men det er samtidig litt rart at
+en ikke kan støtte Andersen-utvalgets forslag, når en argumenterer
+med at det er en svakhet ved dagens system at grunnlovsforslag er
+lite utredet.</A>
+            <A Type="Minnrykk">Til slutt: Etter min og Arbeiderpartiets oppfatning
+er det viktig at skal vi gjøre slike endringer i Grunnloven, må
+det ha et bredt flertall i denne salen. Det må være stor grad av
+enighet for å gjøre den typen endringer av Grunnloven. Det er det ikke,
+og derfor har vi havnet på at vi ikke kommer til å støtte noen av
+de tre forslagene som er framsatt, når det gjelder endringen av
+prosedyren for framsettelse av grunnlovsforslag.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1007078">
+            <A>
+              <Navn personID="PTA">
+Per-Willy Amundsen (FrP) [11:29:19]</Navn> (komiteens leder): Når
+forslag fremsettes, og når forslag til lovendringer presenteres
+for Stortinget gjennom proposisjoner, har vi alltid all grunn til
+å stille oss et par spørsmål – det gjør vi i hvert fall i Fremskrittspartiet:
+Hvilket problem er det man søker å løse? Hva er grunnen til at vi
+må foreta endringer? </A>
+            <A Type="Minnrykk">Det kan det godt være mange grunner til, avhengig
+av hvilken sak det er snakk om, men det er en forutsetning, når man
+gjør endringer, at man skal løse et problem. Det er sjekk nummer
+én. Det gjelder ikke minst når det kommer forslag til lovendringer.
+Når vi skal gjøre grunnlovsendringer, må vi stille oss det samme
+spørsmålet enda tydeligere: Hvilket problem er det vi søker å løse? </A>
+            <A Type="Minnrykk">Man kan lese de argumentene som har vært fremført
+i forbindelse med forslagene til endring av Grunnloven som vi har
+til behandling her i dag. Det som alle de argumentene har til felles,
+er at de ikke definerer et problem som det er grunn til å anse som
+reelt. </A>
+            <A Type="Minnrykk">For det første har man i praksis, i de store,
+tunge og viktige sakene som handler om endring av Grunnloven, gjort
+de utredningene som er nødvendige. Jeg synes min gode kollega, representanten
+Myrli, redegjorde godt for det i sitt innlegg. Man har altså ikke
+de utfordringene som man argumenterer for å ha. </A>
+            <A Type="Minnrykk">Samtidig har vi et system som har fungert over
+tid. Gjennom flere tiår har vi lagt til grunn dagens behandling
+av grunnlovsendringer, og det har fungert. Da er det vanskelig å se
+at det er noen grunn til å støtte noen av de forslagene som er til
+behandling her i dag. </A>
+            <A Type="Minnrykk">Fremskrittspartiet er grunnlovskonservativt,
+og det er all grunn til å være tilbakeholden med å gjøre endringer
+i Grunnloven. De argumentene for grunnlovsendringer som fremføres,
+skal i hvert fall være veldig godt begrunnet og veldig godt dokumentert.
+I denne saken kan vi ikke se at de er det. Derfor har Fremskrittspartiet
+valgt ikke å støtte noen av de forslagene som er til behandling.
+Vi trenger ikke å endre et system som fungerer.</A>
+          </Hovedinnlegg>
+          <Merknad>
+            <Handling>
+              <A>
+                <Uth Type="Sperret">Morten Wold</Uth> hadde
+her overtatt presidentplassen.</A>
+            </Handling>
+          </Merknad>
+          <Hovedinnlegg Id="i1007080">
+            <A>
+              <Navn personID="PCF">
+Peter Frølich (H) [11:32:39]:</Navn> Norge har et sterkt demokrati,
+med en grundig og ryddig saksbehandling, helt fra kommunalt nivå
+til de aller høyeste og øverste organnivåene. Vi som sitter her,
+vet veldig godt at man knapt kan behandle og vedta en veistubb i
+dette landet uten at det foreligger grundige utredninger. Vi har,
+som man også vet, behandlet hundrevis – kanskje tusenvis – av proposisjoner
+i denne salen og latt oss imponere av det juridiske nivået på forarbeidene
+som lages i regjeringsapparatet. Det store unntaket når det gjelder
+saker som behandles i denne salen, kommer når vi behandler grunnlovssaker.
+Jeg synes det er helt påfallende. I motsetning til regjeringen har
+altså ikke Stortinget et tilsvarende utredningsapparat som kan sikre
+solid utarbeidede juridiske forarbeider. Så med mindre det ligger
+et helt spesielt utredningsarbeid til grunn – som det riktig nok
+gjør noen ganger – står altså Stortinget mer eller mindre på bar
+bakke når vi skal vedta noen av de viktigste reglene for hvordan
+vi skal styre landet vårt. </A>
+            <A Type="Minnrykk">Dette gir to problemer. Det ene er selvfølgelig
+det åpenbare: at det er uhyre varierende kvalitet på forslagene
+som kommer opp til behandling. Jeg sier det med all respekt: Noen av
+de forslagene vi har hatt til behandling, og som til og med har
+vært nære på å få flertall noen ganger, kunne like gjerne vært kladdet
+på en serviett. Det som kommer, er syltynt. Det gir enda et problem:
+Debattene blir lite opplyst. Ofte kan det være at man bare automatisk
+avviser det som kan være gode forslag, med henvisning til at det
+er et tynt forarbeidsgrunnlag. Det er i seg selv et problem. Om
+forslagene skulle bli vedtatt, er det også et problem. Ved tolkningstvil
+senere vil tynne forarbeider være dypt problematisk og kunne gjøre
+at Stortingets vilje kanskje, i verste fall, ikke blir fulgt på
+riktig måte av domstolene. </A>
+            <A Type="Minnrykk">Det andre problemet – det har også vært påpekt
+– er at det blir uoversiktlig. Det blir uoversiktlig for velgerne
+der ute, det blir uoversiktlig for media, og, la oss være ærlige
+med hverandre, det blir noen ganger også ganske uoversiktlig for
+oss i denne salen. </A>
+            <A Type="Minnrykk">Dette var det lenge en bred oppfatning om at
+var et problem og noe som måtte løses. Det var nettopp derfor utvalget ledet
+av Dag Terje Andersen ble satt ned. De gjorde et strålende og veldig
+grundig arbeid. De pekte på hvor feil dette var, og så kom de opp
+med noen løsninger, som kontroll- og konstitusjonskomiteen bygget
+på. Man kastet det ikke bort i det hele tatt; man bygget på det,
+sa seg enig i de fundamentale problemstillingene, og gjorde det
+man noen ganger gjør i Stortinget: Man gjorde justeringer på toppen
+av et solid faglig grunnlag. </A>
+            <A Type="Minnrykk">Noen av justeringene var å ikke sile vekk like
+mye som Andersen-utvalget hadde foreslått. Vi ønsket å opprettholde hver
+enkelt representants grunnleggende rett til å kunne fremme forslag.
+Det var viktig for den forrige kontroll- og konstitusjonskomiteen. </A>
+            <A Type="Minnrykk">Det andre vi la opp til, var en skikkelig,
+grundig og detaljert utredningsprosess som speiler den som regjeringen
+har. Det hadde vært fullt ut gjennomførbart. Det krevde bare den lille
+grunnlovsendringen som er til behandling i dag, men som dessverre
+– plutselig og veldig overraskende – blir skutt ned av de samme
+partiene som for noen måneder siden snakket varmt om denne omforente
+løsningen. Man må jo respektere at folk endrer mening – det er som
+det er – men jeg synes at begrunnelsen som er brukt i innstillingen,
+ikke helt holder vann. Man kan ikke si at dette har fungert greit
+i de årene som har vært. Det var det, både i denne salen og utenfor
+dette huset, stor og bred enighet om at det ikke har. Dette er en
+prosedyre med potensielle svakheter og sårbarheter. Nå blir det som
+før, og det er litt dumt. </A>
+            <A Type="Minnrykk">Fra representanten Myrli har det fra denne
+talerstolen blitt sagt at det går likevel an å utrede og å bruke
+utredningskapasitet hvis Stortinget ønsker det. Det er i så fall
+glimrende. Det var også et av premissene og bærebjelken i det opplegget som
+den forrige kontroll- og konstitusjonskomiteen foreslo, nemlig at
+man mye mer aktivt skulle bruke utredningsapparatet. Min innstendige
+oppfordring til kontroll- og konstitusjonskomiteen er at de skal
+kjenne på ansvaret, forstå problemet og bruke de verktøyene man
+tross alt har, til å kunne gi bedre grunnlovsdebatter, selv om det
+nå blir som før, i det store og det hele. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1007082">
+            <A>
+              <Navn personID="GP">
+Geir Pollestad (Sp) [11:38:24]:</Navn> Senterpartiets enkle utgangspunkt
+er at det bør vera ein høg terskel for å gjera endringar i Grunnloven.
+Så er spørsmålet om dagens prosedyre verkar. Eg har lyst til å svara
+ja på det. Me høyrde at det i førre innlegg, frå representanten
+Frølich, vart nemnt grunnlovsendringar forfatta på ein serviett.
+Eg har ikkje kjennskap til at forslag til endringar i Grunnloven
+forfatta på ein serviett har vorte ein del av Noregs grunnlov, så
+eg trur det vert brukt litt store ord. Det er eit faktum at oppigjennom
+åra har Stortinget gjort både store og viktige endringar i Grunnloven. Mitt
+klare inntrykk er at dei har vore både gjennomtenkte og – der det
+har vore nødvendig – vurderte og greidde ut. </A>
+            <A Type="Minnrykk">Eg har all respekt for at tidlegare kontrollkomitear
+har gått inn i dette spørsmålet og ønskt å justera prosessen, både for
+å føreta ei siling og for å skapa meir engasjement. Men då kan ein
+stilla seg spørsmålet: Kva er det som gjer at det er såpass lite
+engasjement rundt grunnlovsendringar? Kan det tenkjast at Grunnloven
+har ganske brei støtte, at det ikkje er et folkeleg behov for og
+ønske om å gjera dei store endringane? Folk støttar Grunnloven,
+som me veit, men eg trur òg folk lever med at det er ein høg terskel
+for å gjera endringar. Det ligg jo òg i dei forslaga som er oppe
+i dag, og det er eg glad for.</A>
+            <A Type="Minnrykk">Det vert peikt på behovet for å greia ut grunnlovsforslag betre.
+Ja, men det er ikkje slik at gjeldande ordning hindrar at grunnlovsforslag
+vert greidde ut. Det er òg verdt å ta med seg. Eg vil peika på noko
+som eg for så vidt òg synest er eit poeng – og representanten Myrli
+gjorde greie for det: Når ein vil at betre utgreiingar skal liggja
+til grunn for grunnlovsendringar, er det jo eit litt morosamt poeng
+at ein samlar seg om akkurat det forslaget som ikkje er greidd ut
+og anbefalt etter ei utgreiing. </A>
+            <A Type="Minnrykk">Senterpartiet står for ein grunnlovskonservatisme.
+Det betyr at me ikkje skal endra Grunnloven slik me f.eks. endrar Stortingets
+forretningsorden – endra han for å sjå om det fungerer betre. Nei,
+det må vera eit reelt behov for å endra han, og det meiner me ikkje
+ligg føre i denne saka. Eg skal ikkje på nokon som helst måte hevda
+at det mindretalet har føreslått, inneber ein revolusjon, men det
+er kanskje slik at ein løyser eit problem ein ikkje har, med tiltak
+som neppe vil verka. På den bakgrunnen vil Senterpartiet stemma
+imot forslaga.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1007084">
+            <A>
+              <Navn personID="HEGNYH">
+Hege Bae Nyholt (R) [11:42:09]:</Navn> Jeg får se om jeg starter
+en brann, men jeg tviler.</A>
+            <A Type="Minnrykk">Rødt kommer til å stemme for grunnlovsforslag 15,
+som er fremmet av representanter fra flere partier, deriblant Rødt. Forslaget
+er fremmet på bakgrunn av Stortingets behandling av rapporten fra
+Utvalget til å utrede prosedyren for grunnlovsendringer.</A>
+            <A Type="Minnrykk">Forslagsstillernes intensjon er å sikre en
+grundigere og bedre behandling av grunnlovsforslag. Forslaget medfører
+at Stortinget behandler grunnlovsforslag i to omganger, i motsetning
+til slik det er i dag, hvor grunnlovsforslag behandles kun én gang.</A>
+            <A Type="Minnrykk">Den første behandlingen, som da vil være en
+ny ordning, vil skje i samme valgperiode som forslaget framsettes.
+Den andre vil skje etter at det har vært avholdt valg, altså det
+vi holder på med her i dag. Den første behandlingen vil innebære
+at Stortinget voterer over hvorvidt grunnlovsforslaget skal tilrådes
+vedtatt etter neste valg. Stortinget vil da også kunne tilrå endringer
+i framsatte forslag, slik at Stortinget tilrår et forslag som er
+endret i forhold til forslaget som opprinnelig ble framsatt.</A>
+            <A Type="Minnrykk">Dette vil etter vårt syn kunne skape mer offentlig
+debatt om forslagene og derfor styrke velgernes mulighet til å orientere
+seg om hva grunnlovsforslaget går ut på, samt hvilke representanter
+og partier som stiller seg bak de ulike grunnlovsforslagene. Den
+doble behandlingen og Stortingets mulighet til å tilrå endringer
+i framsatte forslag vil etter vårt syn også kunne bidra til at grunnlovsforslag
+i praksis blir bedre utredet.</A>
+            <A Type="Minnrykk">I henhold til grunnlovsforslag 15 skal alle
+framsatte forslag behandles av Stortinget etter valget, uavhengig
+av om de får Stortingets tilråding eller ikke. Hvis Stortinget tilrår
+et forslag som er endret i forhold til forslaget som opprinnelig
+ble framsatt, skal Stortinget etter valget behandle både det tilrådde
+forslaget, slik det lyder med endringer, og det opprinnelig framsatte
+forslaget.</A>
+            <A Type="Minnrykk">At alle forslag skal behandles etter at det
+har vært avholdt valg, uavhengig av om det er blitt tilrådd av Stortinget
+under første gangs behandling, skiller forslaget fra grunnlovsforslagene
+nr. 14 og 40. I henhold til disse forslagene er det nemlig kun grunnlovsforslag
+som oppnår henholdsvis en tredjedels eller en fjerdedels tilslutning
+under første gangs behandling, som skal tas til behandling etter
+neste valg.</A>
+            <A Type="Minnrykk">Rødt er sterk motstander av at det innføres
+en slik silingsmekanisme for hvilke grunnlovsforslag som skal gå
+til andre gangs behandling. Etter vårt syn bør alle framsatte forslag
+behandles etter neste valg, slik at velgerne får mulighet til å
+ta disse med i betraktningen når de bestemmer seg for hvem som skal
+få deres stemme.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1007086">
+            <A>
+              <Navn personID="SMY">
+Sverre Myrli (A) [11:44:51]:</Navn> Jeg har lyst til å kommentere
+noe av det representanten Frølich tok opp i sitt innlegg, som for
+øvrig var et godt innlegg. Jeg vet at han personlig har vært og
+er veldig engasjert i dette spørsmålet, men det er jo litt betegnende
+for situasjonen at et tidligere medlem av kontroll- og konstitusjonskomiteen
+må opp for å argumentere sterkt for dette. Det er vel litt betegnende
+for situasjonen, for hvor er det store engasjementet blant stortingsrepresentantene
+for å gjøre disse endringene, hvis det virkelig er et så stort problem
+som enkelte hevder?</A>
+            <A Type="Minnrykk">Jeg vet at det går an, og at jussprofessorer
+og andre som har henvendt seg, har argumentert for hvorfor det er
+nødvendig å gjøre endringer. Ja, det er fullt mulig å hevde det,
+men det er Stortinget og Stortingets representanter som er ansvarlige
+for lovgivningen og formuleringene både i Grunnloven og i andre
+lover, og når det er så lite engasjement i Stortinget, er det kanskje
+et bevis på at de fleste synes det fungerer rimelig bra, slik regelverket
+er i dag. Når det er sagt, betyr selvsagt ikke det at det ikke er
+mulig å hevde at en kan gjøre endringer, og at et annet regelverk,
+et annet system for framsettelse av grunnlovsforslag, også kunne
+ha vært på sin plass. </A>
+            <A Type="Minnrykk">Jeg vil samtidig ta litt til motmæle mot det
+Frølich sa. Han sa noe sånt som at Stortinget står på bar bakke
+i behandlingen av grunnlovsforslagene. Jeg synes det er en veldig overdrivelse
+av situasjonen, og det stemmer vel ikke. For det første vil jeg
+si at hvis det fremmes grunnlovsforslag på servietter eller på andre
+måter, som det ble hevdet, og Stortinget står på bar bakke, bør
+absolutt ikke den typen grunnlovsforslag vedtas av Stortinget. For
+det andre, og som jeg også sa i hovedinnlegget mitt: Har det noen
+gang skjedd at Stortinget har vedtatt store endringer i Grunnloven
+uten at det er grundig utredet på forhånd?</A>
+            <A Type="Minnrykk">Som jeg sa tidligere, er det fullt mulig å
+lage et system, også med dagens bestemmelser i Grunnloven, hvor
+forslagene utredes på en bedre måte. Jeg vet det tidligere har vært snakk
+om å legge inn i Stortingets forretningsorden at grunnlovsforslag
+skal utredes bedre etter at de er fremmet. Det er det fullt mulig
+å gjøre også med dagens regelverk, og jeg blir gjerne med og ser
+på formuleringer av det som kan samle flertall i salen.</A>
+            <A Type="Minnrykk">Konklusjonen er at det hadde vært gode argumenter
+for å stemme for Andersen-utvalgets forslag, som ble utredet grundig,
+både av representanter fra juridiske miljøer og andre innen akademia
+og av representanter med bakgrunn fra flere ulike politiske partier,
+men det måtte da ha fordret at det hadde vært bredt flertall for
+et slikt forslag, og det er det altså ikke. Da får vi leve med bestemmelsene
+i Grunnloven slik de er, og jeg tror Stortinget skal leve godt med
+det også framover.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1007088">
+            <A>
+              <Navn personID="JULSTU">
+Julie E. Stuestøl (MDG) [11:48:52]:</Navn> Jeg skulle veldig gjerne
+sett at det var like mye engasjement både i salen og i media for
+denne saken som i den forrige saken vi behandlet, om monarki og
+republikk, men det er godt å se at i hvert fall enkelte av oss er
+her og har lyst til å debattere dette. Jeg vil takke for debatten,
+som jo ble nokså kort, trass i at dette er et veldig viktig tema
+for Grunnloven som politisk verktøy og for demokratiet vårt i stort.</A>
+            <A Type="Minnrykk">Jeg har respekt for og kan støtte en viss konservativ
+tilnærming til det å endre Grunnloven, men jeg må få gjenta at det
+viktigste argumentet for å endre prosedyren nettopp er kvalitet
+og forankring. En kan se for seg at Stortinget vedtar formuleringer
+som er mindre gode enn de kunne ha vært, fordi de ikke kan endres
+etter at de er fremmet. Det hjelper ikke så mye med et seminar i
+lagtingssalen eller en utredning etter at de er fremmet i sin endelige
+form. Vi kan også se for oss at det kan skje at Stortinget avviser
+et forslag som de i prinsippet er enig i, fordi formuleringen er
+upresis og at dette kommer fram for sent. Dermed vil en endring
+som et flertall ønsker seg, utsettes i mange år.</A>
+            <A Type="Minnrykk">Vi har sett eksempler på at endringer av Grunnloven
+har vært omtalt som unødvendige etter at de er vedtatt. Med mulighet
+for justeringer og presiseringer i første behandlingsrunde unngår
+vi de tvetydighetene og unødvendige svakhetene som dagens system
+kan gi, og Stortinget får større kontroll over presisjonen i teksten.
+Dette reduserer også risikoen for rettsliggjøring og for at domstolene
+må fylle inn uklarheter som burde vært avklart politisk.</A>
+            <A Type="Minnrykk">Mens representanten Myrli plasserer jussprofessorer
+i en liten, spesiell boks som en særlig interessegruppe, vil jeg igjen
+vise til Norges institusjon for menneskerettigheters tydelige høringssvar,
+hvor de skriver at en mer grundig behandling vil høyne kvaliteten
+på selve grunnlovsteksten og styrke Stortingets rolle som landets
+grunnlovsgiver. </A>
+            <A Type="Minnrykk">Jeg er overrasket over at det ser ut til at
+Stortingets flertall ikke ønsker å gi seg selv bedre verktøy, bedre
+prosesser og en tydeligere konstitusjonell posisjon i møte med både
+domstolene og den utøvende makt. Dette kunne styrket maktfordelingen,
+og det kunne tydeliggjort Stortingets eierskap til Grunnloven. Jeg
+synes det er synd at vi ikke vil gjøre det i dag.</A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:51:37]:</Navn> Representanten
+Sverre Myrli har hatt ordet to ganger tidligere i debatten og får
+anledning til en kort merknad, begrenset til 1 minutt.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1007090">
+            <A>
+              <Navn personID="SMY">
+Sverre Myrli (A) [11:51:51]:</Navn> Til det siste innlegget: Jeg
+vil ikke ha på meg at jeg har plassert jussprofessorer i noen boks,
+eller andre for den saks skyld. De er svært viktige premissleverandører
+i lovgivningen både når det gjelder Grunnloven, og når det gjelder
+andre ting, så det er ingen kritikk av verken jussprofessorer eller
+andre som har engasjert seg. Poenget mitt var at det er Stortinget
+og Stortingets representanter som er ansvarlige for lovgivningen,
+og som også er ansvarlige for Grunnloven og de formuleringene som
+Grunnloven har.</A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:52:24]:</Navn> Flere har ikke
+bedt om ordet til sak nr. 2.</A>
+            <A Type="Minnrykk">Det ringes til votering.</A>
+          </Presinnlegg>
+          <Referanse Id="i1007092" voteringsDato="2026-02-03" debattDato="2026-02-03" saksKartNr="2" />
+        </Sak>
+        <VoteringerStart>
+          <Tittel>Votering</Tittel>
+          <Merknad>
+            <Handling>
+              <A>
+                <Uth Type="Sperret">Masud Gharahkhani</Uth> gjeninntok
+her presidentplassen.</A>
+            </Handling>
+          </Merknad>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [12:06:32]:</Navn> Stortinget
+går da til votering og starter med resterende saker fra Stortingets
+møte torsdag den 29. januar, dagsorden nr. 40.</A>
+          </Presinnlegg>
+          <Voteringer Id="i1007094" saksKartNr="6" debattDato="2026-01-29" tidspunkt="1206" sakID="104767">
+            <Sakdel>
+              <Tittel>Votering i sak nr. 6,
+debattert 29. januar 2026</Tittel>
+              <A Id="i1007096">Innstilling fra kontroll- og konstitusjonskomiteen
+om Riksrevisjonen si undersøking av bruk av teknologi for å flytte
+spesialisthelsetenester nær pasienten (Innst. 84 S (2025–2026),
+jf. Dokument 3:3 (2025–2026))</A>
+              <Referanse Id="i1007098" debattDato="2026-01-29" saksKartNr="6" />
+              <A Type="Blanklinjeminnrykk">Komiteen hadde innstilt til Stortinget
+å gjøre følgende</A>
+            </Sakdel>
+            <VedtakS>
+              <Tittel>vedtak:</Tittel>
+              <A Type="Minnrykk">Dokument 3:3 (2025–2026) – Riksrevisjonen si
+undersøking av bruk av teknologi for å flytte spesialisthelsetenester nær
+pasienten – vedlegges protokollen. </A>
+              <Votering>
+                <Tittel>Votering: </Tittel>
+                <A Type="Minnrykk">Komiteens innstilling ble enstemmig vedtatt.</A>
+              </Votering>
+            </VedtakS>
+          </Voteringer>
+          <Voteringer Id="i1007100" saksKartNr="7" debattDato="2026-01-29" tidspunkt="1207" sakID="103874">
+            <Sakdel>
+              <Tittel>Votering i sak nr. 7,
+debattert 29. januar 2026</Tittel>
+              <A Id="i1007102">Innstilling fra kontroll- og konstitusjonskomiteen
+om Riksrevisjonens undersøking av arbeidet til styresmaktene med
+samanhengande digitale tenester (Innst. 81 S (2025–2026), jf. Dokument
+3:14 (2024–2025))</A>
+              <Referanse Id="i1007104" debattDato="2026-01-29" saksKartNr="7" />
+              <A Type="Blanklinjeminnrykk">Komiteen hadde innstilt til Stortinget
+å gjøre følgende</A>
+            </Sakdel>
+            <VedtakS>
+              <Tittel>vedtak:</Tittel>
+              <A Type="Minnrykk">Dokument 3:14 (2024−2025) – Riksrevisjonens
+undersøking av arbeidet til styresmaktene med samanhengande digitale
+tenester – vedlegges protokollen. </A>
+              <Votering>
+                <Tittel>Votering: </Tittel>
+                <A Type="Minnrykk">Komiteens innstilling ble enstemmig vedtatt.</A>
+              </Votering>
+            </VedtakS>
+          </Voteringer>
+          <Voteringer Id="i1007106" saksKartNr="8" debattDato="2026-01-29" tidspunkt="1207" sakID="103977">
+            <Sakdel>
+              <Tittel>Votering i sak nr. 8,
+debattert 29. januar 2026</Tittel>
+              <A Id="i1007108">Innstilling fra kontroll- og konstitusjonskomiteen
+om Riksrevisjonens undersøkelse av oppfølging av forbruk gjennom
+rammeavtalen for formidling av IKT-konsulenttjenester inngått av
+DSS i 2022 (Innst. 82 S (2025–2026), jf. Dokument 3:16 (2024–2025))</A>
+              <Referanse Id="i1007110" debattDato="2026-01-29" saksKartNr="8" />
+              <A Type="Blanklinjeminnrykk">Komiteen hadde innstilt til Stortinget
+å gjøre følgende</A>
+            </Sakdel>
+            <VedtakS>
+              <Tittel>vedtak:</Tittel>
+              <A Type="Minnrykk">Dokument 3:16 (2024–2025) – Riksrevisjonens
+undersøkelse av oppfølging av forbruk gjennom rammeavtalen for formidling
+av IKT-konsulenttjenester inngått av DSS i 2022 – vedlegges protokollen. </A>
+              <Votering>
+                <Tittel>Votering: </Tittel>
+                <A Type="Minnrykk">Komiteens innstilling ble enstemmig vedtatt.</A>
+              </Votering>
+            </VedtakS>
+          </Voteringer>
+          <Voteringer Id="i1007112" saksKartNr="9" debattDato="2026-01-29" tidspunkt="1208" sakID="104876">
+            <Sakdel>
+              <Tittel>Votering i sak nr. 9,
+debattert 29. januar 2026</Tittel>
+              <A Id="i1007114">Innstilling fra energi- og miljøkomiteen om Representantforslag
+fra stortingsrepresentantene Grunde Almeland, Guri Melby og Abid
+Raja om en plan som sørger for at Norge kutter utslipp og når klimamålene
+(Innst. 55 S (2025–2026), jf. Dokument 8:3 S (2025–2026))</A>
+              <Referanse Id="i1007116" debattDato="2026-01-29" saksKartNr="9" />
+              <Presinnlegg>
+                <A>
+                  <Navn>Presidenten:</Navn> Under debatten er det
+satt fram 43 forslag. Det er</A>
+                <Liste Type="Strek">
+                  <Pkt>
+                    <A>forslag nr. 1, fra Rikard Spets på
+vegne av Fremskrittspartiet, Sosialistisk Venstreparti, Rødt, Miljøpartiet
+De Grønne og Venstre</A>
+                  </Pkt>
+                  <Pkt>
+                    <A>forslag nr. 2, fra Rikard Spets på vegne av Fremskrittspartiet,
+Miljøpartiet De Grønne og Venstre</A>
+                  </Pkt>
+                  <Pkt>
+                    <A>forslagene nr. 3–25, fra Marit Vea på vegne av Sosialistisk
+Venstreparti, Rødt, Miljøpartiet De Grønne og Venstre</A>
+                  </Pkt>
+                  <Pkt>
+                    <A>forslagene nr. 26–36, fra Marit Vea på vegne av Sosialistisk
+Venstreparti, Miljøpartiet De Grønne og Venstre</A>
+                  </Pkt>
+                  <Pkt>
+                    <A>forslagene nr. 37–40, fra Marit Vea på vegne av Miljøpartiet
+De Grønne og Venstre</A>
+                  </Pkt>
+                  <Pkt>
+                    <A>forslagene nr. 41–43, fra Marit Vea på vegne av Venstre</A>
+                  </Pkt>
+                </Liste>
+                <A Type="Minnrykk">Det voteres over forslagene nr. 41–43, fra
+Venstre.</A>
+                <A Type="Minnrykk">Forslag nr. 41 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen utrede og
+fremme forslag om modeller for prising av klimautslipp fra jordbruket som
+gir sterkere økonomiske insentiver til å kutte klimautslipp på norske
+gårder.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 42 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen utrede og
+fremme forslag om en avgift på mineralgjødsel, hvor formålet er
+å redusere utslipp av lystgass.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 43 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen fremme forslag
+om krav til at offentlige anskaffelser av mat og måltidstjenester skal
+være i tråd med kostholdsrådene.»</A>
+                </Sitat>
+              </Presinnlegg>
+              <Votering>
+                <Tittel>Votering: </Tittel>
+                <A Type="Minnrykk">Forslagene fra Venstre ble med 160 mot 4 stemmer
+ikke vedtatt.</A>
+                <A Type="Minnrykk">(Voteringsutskrift kl. 12.08.28)</A>
+              </Votering>
+              <Presinnlegg>
+                <A>
+                  <Navn>Presidenten:</Navn> Det voteres over forslagene
+nr. 37, 39 og 40, fra Miljøpartiet De Grønne og Venstre. </A>
+                <A Type="Minnrykk">Forslag nr. 37 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen fremme forslag
+for å ta inn styringssystemforordningen i norsk rett, slik at det stilles
+krav til en helhetlig energi- og klimaplan.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 39 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen fremme forslag
+om at 100 prosent av den samlede kompensasjonen en virksomhet mottar
+fra CO<Sub>2</Sub>-kompensasjonsordningen, skal brukes på klima-
+og energieffektiviseringstiltak fra 2026.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 40 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen sikre at
+landbruket har økonomiske insentiver til å gjennomføre tiltak som
+øker karbonbinding i jord.»</A>
+                </Sitat>
+              </Presinnlegg>
+              <Votering>
+                <Tittel>Votering: </Tittel>
+                <A Type="Minnrykk">Forslagene fra Miljøpartiet De Grønne og Venstre
+ble med 155 mot 10 stemmer ikke vedtatt.</A>
+                <A Type="Minnrykk">(Voteringsutskrift kl. 12.09.00)</A>
+              </Votering>
+              <Presinnlegg>
+                <A>
+                  <Navn>Presidenten:</Navn> Det voteres over forslag
+nr. 38, fra Miljøpartiet De Grønne og Venstre. Forslaget lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen fremme forslag
+om å fjerne merverdiavgiften på frukt og grønt.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Kristelig Folkeparti har varslet støtte til
+forslaget. </A>
+              </Presinnlegg>
+              <Votering>
+                <Tittel>Votering: </Tittel>
+                <A Type="Minnrykk">Forslaget fra Miljøpartiet De Grønne og Venstre
+ble med 150 mot 16 stemmer ikke vedtatt.</A>
+                <A Type="Minnrykk">(Voteringsutskrift kl. 12.09.20)</A>
+              </Votering>
+              <Presinnlegg>
+                <A>
+                  <Navn>Presidenten:</Navn> Det voteres over forslagene
+nr. 26–36, fra Sosialistisk Venstreparti, Miljøpartiet De Grønne
+og Venstre. </A>
+                <A Type="Minnrykk">Forslag nr. 26 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen videreføre
+klimaavtalen med EU ut over 2030.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 27 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen etablere
+et uavhengig klimaråd som kan gi faglige råd, evaluere politikken
+og følge opp Norges klimamål.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 28 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen gjennomgå
+og fremme forslag til justeringer i skatte- og avgiftssystemet for
+å fremme klimavennlige valg, inkludert firmabilbeskatning, trafikkforsikringsavgift,
+engangsavgift og veibruksavgift.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 29 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen legge frem
+en opptrappingsplan for økt CO<Sub>2</Sub>-avgift til minst 3 000
+kroner per tonn innen 2030.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 30 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen utrede og
+fremme forslag til en miljøavgift på «ultra fast fashion» og bruke
+skatte- og avgiftspolitikken for å redusere importen av miljøskadelige
+varer via netthandel.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 31 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen fremme forslag
+om en tilskuddsordning for karbonfangst og -lagring på avfallsanlegg
+ved de store byene.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 32 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen utrede og
+fremme forslag om en ordning med en negativ CO<Sub>2</Sub>-avgift,
+hvor fangst av CO<Sub>2</Sub> fra omgivelsesluft (DACCS) og fangst
+av biogene utslipp (bio-CCS eller BECCS) belønnes per lagrede tonn.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 33 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen styrke Enovas
+tilskuddsordninger for å sikre 50 prosent utslippskutt i transportsektoren
+innen 2030.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 34 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen styrke vedlikehold
+og utbedring av jernbane- og togmateriell og kjøpe inn mer togmateriell.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 35 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen i en tilleggsavtale
+gi Enova ansvar for å etablere et nasjonalt nett av fyllestasjoner
+for flytende biogass og hydrogen.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 36 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen fremme forslag
+om å gi lastebiler og varebiler som er utslippsfrie eller går på
+biogass, tilgang til kollektivfeltene.»</A>
+                </Sitat>
+              </Presinnlegg>
+              <Votering>
+                <Tittel>Votering: </Tittel>
+                <A Type="Minnrykk">Forslagene fra Sosialistisk Venstreparti, Miljøpartiet
+De Grønne og Venstre ble med 147 mot 18 stemmer ikke vedtatt.</A>
+                <A Type="Minnrykk">(Voteringsutskrift kl. 12.09.42)</A>
+              </Votering>
+              <Presinnlegg>
+                <A>
+                  <Navn>Presidenten:</Navn> Det voteres over forslagene
+nr. 3–5 og 9–25, fra Sosialistisk Venstreparti, Rødt, Miljøpartiet
+De Grønne og Venstre. </A>
+                <A Type="Minnrykk">Forslag nr. 3 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen fremme forslag
+om et nasjonalt klimamål som gir en tydelig ramme for norsk klimapolitikk.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 4 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen legge fram
+«Grønn bok» som en egen sak for Stortinget.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 5 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen fremme forslag
+for en styrket sirkulær økonomi, med utgangspunkt i ekspertgruppen
+for virkemidler for å fremme sirkulære aktiviteter.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 9 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen gjennomgå
+og revidere metode- og beslutningsverktøyene som brukes i transportplanlegging,
+herunder i arbeidet med Nasjonal transportplan, slik at de er i
+tråd med Norges klima- og miljømål.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 10 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen styrke bruken
+av UFF-prinsippet (unngå, flytte, forbedre) i transport- og arealplanlegging,
+slik at utslipp og naturinngrep reduseres mest mulig.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 11 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen legge fram
+en forpliktende plan for nullutslippsløsninger på ikke-elektrifiserte togstrekninger.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 12 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen i arbeidet
+med Nasjonal transportplan prioritere en satsing på kollektivtransport, sykkel
+og gange og andre tiltak som sikrer at det blir mer attraktivt å
+bruke kollektivtransport.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 13 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen utarbeide
+en nasjonal sykkelstrategi som både gjør det tryggere og mer attraktivt
+å sykle, og som legger til rette for at flere bruker sykkelen i
+daglig transport.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 14 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen i arbeidet
+med Nasjonal transportplan prioritere vedlikehold og oppgradering
+av eksisterende fylkesveier fremfor utbygging av nye motorveier.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 15 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen fremme en
+handlingsplan for utslippskutt i fiske.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 16 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen sikre at
+Enova oppretter et målrettet støtteprogram for fiskerinæringen.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 17 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen fremme forslag
+om krav til overgang til nullutslipp eller biogass i anbud og kontrakter
+der det i dag benyttes flytende naturgass (LNG).»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 18 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen fremme forslag
+om nullutslippskrav i offentlige anskaffelser av hurtigbåter fra 2026.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 19 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen fremme forslag
+om nullutslippskrav til servicefartøy i havbruksnæringen fra 2027.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 20 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen utrede hvordan
+utslipp fra fritidsbåter kan reduseres, herunder momsfritak for elbåter,
+for å gjøre Norge til et ledende land for utvikling av ny elbåtteknologi
+på privatmarkedet, etter modell av norsk elbilpolitikk.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 21 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen sørge for
+at Sokkeldirektoratet bidrar til en forsvarlig forvaltning av norske
+petroleumsressurser i tråd med Norges klimamål og internasjonale
+klimaforpliktelser.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 22 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen sikre at
+et forbud mot nedbygging av myr reelt sett gir en betydelig reduksjon
+i nedbygging av myr.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 23 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen styrke Enova
+under Klima- og miljødepartementet og sikre at satsingen på punktutslippsprogrammet
+i industrien forsterkes.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 24 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen utrede en
+støtteordning for karbonfangst og -lagring i industrien, basert
+på et auksjonssystem som involverer et differansekontraktregime
+som kobles mot kvoteprisen, slik at utbetalingene for staten blir
+mindre jo høyere kvoteprisen er.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 25 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen utvikle
+en plan for sluttfasen av norsk petroleumsindustri, som sikrer at
+Norge slutter å lete etter mer olje og gass, ikke tildeler nye lisenser
+på norsk sokkel eller tillater bygging av ny infrastruktur som binder
+Norge til utslipp mot og forbi 2050.»</A>
+                </Sitat>
+              </Presinnlegg>
+              <Votering>
+                <Tittel>Votering: </Tittel>
+                <A Type="Minnrykk">Forslagene fra Sosialistisk Venstreparti, Rødt,
+Miljøpartiet De Grønne og Venstre ble med 137 mot 28 stemmer ikke vedtatt.</A>
+                <A Type="Minnrykk">(Voteringsutskrift kl. 12.10.04)</A>
+              </Votering>
+              <Presinnlegg>
+                <A>
+                  <Navn>Presidenten:</Navn> Det voteres over forslagene
+nr. 6–8, fra Sosialistisk Venstreparti, Rødt, Miljøpartiet De Grønne
+og Venstre. </A>
+                <A Type="Minnrykk">Forslag nr. 6 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen gjennomgå
+og fremme forslag til justeringer i skatte- og avgiftssystemet for
+å fjerne unødvendige hindringer og gjøre gjenbruk mer lønnsomt.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 7 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen fremme forslag
+om å fjerne merverdiavgiften på brukthandel.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 8 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen fremme forslag
+om å fjerne merverdiavgiften på reparasjoner av klær, elektronikk
+og husholdnings- og fritidsvarer.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Kristelig Folkeparti har varslet støtte til
+forslagene. </A>
+              </Presinnlegg>
+              <Votering>
+                <Tittel>Votering: </Tittel>
+                <A Type="Minnrykk">Forslagene fra Sosialistisk Venstreparti, Rødt,
+Miljøpartiet De Grønne og Venstre ble med 133 mot 34 stemmer ikke vedtatt.</A>
+                <A Type="Minnrykk">(Voteringsutskrift kl. 12.10.24)</A>
+              </Votering>
+              <Presinnlegg>
+                <A>
+                  <Navn>Presidenten:</Navn> Det voteres over forslag
+nr. 2, fra Fremskrittspartiet, Miljøpartiet De Grønne og Venstre.
+Forslaget lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen gjennomgå
+det regulatoriske rammeverket for fiskefartøy og fjerne unødvendige hindringer
+i reguleringene samt sørge for at disse ikke utgjør barrierer for
+innovasjon og reduserte klimagassutslipp fra fiskeflåten.»</A>
+                </Sitat>
+              </Presinnlegg>
+              <Votering>
+                <Tittel>Votering: </Tittel>
+                <A Type="Minnrykk">Forslaget fra Fremskrittspartiet, Miljøpartiet
+De Grønne og Venstre ble med 109 mot 57 stemmer ikke vedtatt.</A>
+                <A Type="Minnrykk">(Voteringsutskrift kl. 12.10.42)</A>
+              </Votering>
+              <Presinnlegg>
+                <A>
+                  <Navn>Presidenten:</Navn> Det voteres over forslag
+nr. 1, fra Fremskrittspartiet, Sosialistisk Venstreparti, Rødt,
+Miljøpartiet De Grønne og Venstre. Forslaget lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen komme tilbake
+til Stortinget innen utgangen av 2026 med en utredning av momsfritak
+for gjenbruksbutikker, bruktsalg og reparasjoner.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Kristelig Folkeparti har varslet støtte til
+forslaget.</A>
+              </Presinnlegg>
+              <Votering>
+                <Tittel>Votering: </Tittel>
+                <A Type="Minnrykk">Forslaget fra Fremskrittspartiet, Sosialistisk
+Venstreparti, Rødt, Miljøpartiet De Grønne og Venstre ble med 85
+mot 81 stemmer ikke vedtatt.</A>
+                <A Type="Minnrykk">(Voteringsutskrift kl. 12.11.05)</A>
+              </Votering>
+              <A Type="Blanklinjeminnrykk">Komiteen hadde innstilt til Stortinget
+å gjøre følgende</A>
+            </Sakdel>
+            <VedtakS Id="i1007120">
+              <Tittel>vedtak:</Tittel>
+              <A Type="Minnrykk">Dokument 8:3 S (2025–2026) – Representantforslag
+fra stortingsrepresentantene Grunde Almeland, Guri Melby og Abid
+Raja om en plan som sørger for at Norge kutter utslipp og når klimamålene
+– vedtas ikke.</A>
+              <Presinnlegg>
+                <A>
+                  <Navn>Presidenten:</Navn> Sosialistisk Venstreparti,
+Rødt, Miljøpartiet De Grønne og Venstre har varslet at de vil stemme
+imot.</A>
+              </Presinnlegg>
+              <Votering>
+                <Tittel>Votering:</Tittel>
+                <A Type="Minnrykk" Id="i1007122">Komiteens innstilling ble vedtatt
+med 133 mot 30 stemmer.</A>
+                <A Type="Minnrykk">(Voteringsutskrift kl. 12.11.40)</A>
+              </Votering>
+            </VedtakS>
+          </Voteringer>
+          <Voteringer Id="i1007124" saksKartNr="10" debattDato="2026-01-29" tidspunkt="1212" sakID="104877">
+            <Sakdel>
+              <Tittel>Votering i sak nr. 10,
+debattert 29. januar 2026</Tittel>
+              <A Id="i1007126">Innstilling fra energi- og miljøkomiteen om Representantforslag
+fra stortingsrepresentantene Maren Grøthe og Trygve Slagsvold Vedum
+om å stanse innføringen av ny EU-avgift på drivstoff i Norge (Innst.
+58 S (2025–2026), jf. Dokument 8:8 S (2025–2026))</A>
+              <Referanse Id="i1007128" debattDato="2026-01-29" saksKartNr="10" />
+              <Presinnlegg>
+                <A>
+                  <Navn>Presidenten:</Navn> Under debatten er det
+satt fram to forslag. Det er</A>
+                <Liste Type="Strek">
+                  <Pkt>
+                    <A>forslag nr. 1, fra Tor Mikkel Wara
+på vegne av Fremskrittspartiet</A>
+                  </Pkt>
+                  <Pkt>
+                    <A>forslag nr. 2, fra Maren Grøthe på vegne av Senterpartiet </A>
+                  </Pkt>
+                </Liste>
+                <A Type="Minnrykk">Det voteres over forslag nr. 1, fra Fremskrittspartiet.
+Forslaget lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen fjerne CO<Sub>2</Sub>-avgiften
+på de områder som dekkes av EUs nye klimakvotesystem (ETS2) fra
+samme dato som det innføres.»</A>
+                </Sitat>
+              </Presinnlegg>
+              <Votering>
+                <Tittel>Votering: </Tittel>
+                <A Type="Minnrykk">Forslaget fra Fremskrittspartiet ble med 119
+mot 47 stemmer ikke vedtatt.</A>
+                <A Type="Minnrykk">(Voteringsutskrift kl. 12.12.14)</A>
+              </Votering>
+              <Presinnlegg>
+                <A>
+                  <Navn>Presidenten:</Navn> Det voteres over forslag
+nr. 2, fra Senterpartiet. Forslaget lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen stanse den
+nasjonale gjennomføringen av EUs nye klimakvotesystem (ETS2).»</A>
+                </Sitat>
+                <A Type="Minnrykk">Fremskrittspartiet har varslet subsidiær støtte
+til forslaget.</A>
+              </Presinnlegg>
+              <Votering>
+                <Tittel>Votering: </Tittel>
+                <A Type="Minnrykk">Forslaget fra Senterpartiet ble med 110 mot
+55 stemmer ikke vedtatt.</A>
+                <A Type="Minnrykk">(Voteringsutskrift kl. 12.12.34)</A>
+              </Votering>
+              <A Type="Blanklinjeminnrykk">Komiteen hadde innstilt til Stortinget
+å gjøre følgende</A>
+            </Sakdel>
+            <VedtakS Id="i1007130">
+              <Tittel>vedtak:</Tittel>
+              <A Type="Minnrykk">Dokument 8:8 S (2025–2026) – Representantforslag
+fra stortingsrepresentantene Maren Grøthe og Trygve Slagsvold Vedum
+om å stanse innføringen av ny EU-avgift på drivstoff i Norge – vedtas
+ikke</A>
+              <Presinnlegg>
+                <A>
+                  <Navn>Presidenten:</Navn> Fremskrittspartiet og
+Senterpartiet har varslet at de vil stemme imot. </A>
+              </Presinnlegg>
+              <Votering>
+                <Tittel>Votering:</Tittel>
+                <A Type="Minnrykk">Komiteens innstilling ble vedtatt med 109 mot
+57 stemmer.</A>
+                <A Type="Minnrykk">(Voteringsutskrift kl. 12.13.04)</A>
+              </Votering>
+              <Presinnlegg>
+                <A>
+                  <Navn>Presidenten:</Navn> Stortinget går da til
+votering over sakene på dagens kart, dagsorden nr. 41.</A>
+              </Presinnlegg>
+            </VedtakS>
+          </Voteringer>
+          <Voteringer Id="i1007132" saksKartNr="1" debattDato="2026-02-03" tidspunkt="1214" sakID="100012">
+            <Sakdel>
+              <Tittel>Votering i sak nr. 1,
+debattert 3. februar 2026</Tittel>
+              <A Id="i1007134">Innstilling fra kontroll- og konstitusjonskomiteen
+om Grunnlovsforslag fra Grete Wold, Tobias Drevland Lund, Une Bastholm,
+Sivert Bjørnstad, Heidi Nordby Lunde, Åsmund Aukrust og Ingvild
+Wetrhus Thorsvik om endring i §§ 1, 3 til 9, 11 til 15, 17 til 32,
+34 til 37, 39 til 41, 43 til 48, 62, 67 til 69, 74 til 82, 86, 90
+og 121 (om republikk) (Innst. 87 S (2025–2026), jf. Dokument 12:13
+(2023–2024))</A>
+              <Referanse Id="i1007136" debattDato="2026-02-03" saksKartNr="1" />
+              <Presinnlegg>
+                <A>
+                  <Navn>Presidenten:</Navn> Under debatten er det
+satt fram to forslag. Det er</A>
+                <Liste Type="Strek">
+                  <Pkt>
+                    <A>forslag nr. 1, fra Lars Haltbrekken
+på vegne av Sosialistisk Venstreparti og Rødt</A>
+                  </Pkt>
+                  <Pkt>
+                    <A>forslag nr. 2, fra Marius Langballe Dalin på vegne av Miljøpartiet
+De Grønne</A>
+                  </Pkt>
+                </Liste>
+                <A Type="Minnrykk">Det voteres over forslag nr. 1, fra Sosialistisk
+Venstreparti og Rødt. Forslaget lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«I</A>
+                  <A>Lovens tittel skal lyde:</A>
+                  <A>
+                    <Uth Type="Halvfet">Norges rikes grunnlov</Uth>
+                  </A>
+                  <A>–</A>
+                  <A>
+                    <Uth Type="Halvfet">Noregs rikes grunnlov</Uth>
+                  </A>
+                  <A>§ 1 skal lyde:</A>
+                  <A>Norge er en fri, selvstendig, udelelig og uavhendelig republikk.</A>
+                  <A>–</A>
+                  <A>Noreg er ein fri, sjølvstendig, udeleleg og uavhendeleg republikk.</A>
+                  <A>Overskriften til kapittel B skal lyde:</A>
+                  <A>
+                    <Uth Type="Halvfet">B. Om den utøvende makt</Uth>
+                  </A>
+                  <A>–</A>
+                  <A>
+                    <Uth Type="Halvfet">B. Om den utøvande makta</Uth>
+                  </A>
+                  <A>§ 3 skal lyde:</A>
+                  <A>Den utøvende makt er hos regjeringen og presidenten. Nærmere
+bestemmelser om presidenten fastsettes ved lov.</A>
+                  <A>–</A>
+                  <A>Den utøvande makta er hos regjeringa og presidenten. Nærare føresegner
+om presidenten blir fastsette i lov.</A>
+                  <A>§§ 4, 5, 6, 7, 8, 9 og 11 oppheves.</A>
+                  <A>§ 12 skal lyde:</A>
+                  <A>Regjeringen skal bestå av en statsminister og minst syv andre
+medlemmer. Alle regjeringens medlemmer skal være stemmeberettigede
+norske borgere.</A>
+                  <A>Regjeringen fordeler gjøremålene blant sine medlemmer slik den
+finner det tjenlig. Til å delta i regjeringsmøter ved siden av de
+faste medlemmer kan regjeringen i særlige tilfeller tilkalle andre
+norske borgere, men ikke presidenten eller medlemmer av Stortinget.</A>
+                  <A>Ektefeller, foreldre og barn eller to søsken må ikke på samme
+tid være medlemmer av regjeringen.</A>
+                  <A>–</A>
+                  <A>I regjeringa skal det vere ein statsminister og minst sju andre
+medlemmer. Alle medlemmene av regjeringa skal vere røysteføre norske
+borgarar.</A>
+                  <A>Regjeringa fordeler gjeremåla mellom medlemmene slik ho meiner
+det er tenleg. Til å vere med på regjeringsmøte ved sida av dei
+faste medlemmene kan regjeringa i særlege høve kalle inn andre norske
+borgarar, men ikkje presidenten eller medlemmer av Stortinget.</A>
+                  <A>Ektefolk, foreldre og born eller to sysken må ikkje samstundes
+vere medlemmer av regjeringa.</A>
+                  <A>§ 13 skal lyde:</A>
+                  <A>Regjeringens saker avgjøres ved stemmegivning. Ved stemmelikhet
+har statsministeren eller, i dennes fravær, den første av de tilstedeværende
+statsråder to stemmer.</A>
+                  <A>–</A>
+                  <A>Sakene til regjeringa blir avgjorde med røysting. Står røystene
+likt, har statsministeren eller, om han er borte, den fyrste av
+statsrådane som er til stades, to røyster.</A>
+                  <A>§ 14 skal lyde:</A>
+                  <A>Regjeringen kan utnevne statssekretærer til å bistå regjeringens
+medlemmer i utførelsen av deres gjøremål utenfor regjeringsmøtene.
+Den enkelte statssekretær handler på vegne av det medlem av regjeringen
+som hun eller han er knyttet til, i den utstrekning dette medlem
+bestemmer.</A>
+                  <A>–</A>
+                  <A>Regjeringa kan utnemne statssekretærar til å hjelpe medlemmene
+av regjeringa med gjeremåla deira utanfor regjeringsmøta. Kvar statssekretær
+handlar på vegner av den medlemmen av regjeringa som ho eller han
+er knytt til, så langt denne medlemmen fastset.</A>
+                  <A>§ 15 skal lyde:</A>
+                  <A>Ethvert medlem av regjeringen har plikt til å fratre sitt embete
+etter at Stortinget har fattet vedtak om mistillit til vedkommende
+alene eller til den samlede regjering.</A>
+                  <A>Når Stortinget har fattet vedtak om mistillit, kan det bare utføres
+gjøremål som er nødvendige for en forsvarlig embetsførsel.</A>
+                  <A>–</A>
+                  <A>Kvar medlem av regjeringa har plikt til å gå av etter at Stortinget
+har gjort vedtak om mistillit til vedkommande åleine eller til heile
+regjeringa.</A>
+                  <A>Når Stortinget har gjort vedtak om mistillit, kan det berre utførast
+slike gjeremål som trengst for forsvarleg embetsførsle.</A>
+                  <A>I §§ 17, 18, 19 og 22 annet ledd gjøres følgende endringer:</A>
+                  <A>«kongen» erstattes med «regjeringen» på bokmål og med «regjeringa»
+på nynorsk.</A>
+                  <A>§ 20 første ledd skal lyde:</A>
+                  <A>Regjeringen har i regjeringsmøte rett til å benåde forbrytere
+etter at dom er falt. Forbryteren kan velge å motta regjeringens
+nåde eller underkaste seg den idømte straff.</A>
+                  <A>–</A>
+                  <A>Regjeringa har i regjeringsmøte rett til å gje forbrytarar nåde
+etter at dom er fallen. Forbrytaren kan velje å ta imot nåden frå
+regjeringa eller ta den idømde straffa.</A>
+                  <A>§ 21 skal lyde:</A>
+                  <A>Regjeringen velger og utnevner alle sivile og militære embetsmenn.
+Disse har lydighets- og troskapsplikt til konstitusjonen.</A>
+                  <A>–</A>
+                  <A>Regjeringa vel og utnemner alle sivile og militære embetsmenn.
+Dei har plikt til å vere lydige og tru mot konstitusjonen.</A>
+                  <A>§ 22 første ledd første og annet punktum skal lyde:</A>
+                  <A>Statsministeren, de øvrige medlemmer av regjeringen og statssekretærene
+kan uten dom avskjediges av regjeringen. Det samme gjelder for de
+embetsmenn som er ansatt ved regjeringens kontorer eller i utenrikstjenesten, sivile
+overøvrighetspersoner, sjefer for regimenter og andre militære korps,
+kommandanter på festninger og høystbefalende på krigsskip.</A>
+                  <A>–</A>
+                  <A>Statsministeren, dei andre medlemmene av regjeringa og statssekretærane
+kan utan dom avsetjast av regjeringa. Det same gjeld for dei embetsmennene
+som er tilsette ved regjeringskontora eller i utanrikstenesta, sivile
+overøvrigheitspersonar, sjefar for regiment og andre militære korps,
+kommandantar på festningar og høgstbefalande på krigsskip.</A>
+                  <A>§ 23 første ledd skal lyde:</A>
+                  <A>Regjeringen kan dele ut ordener til hvem den vil, til belønning
+for utmerkede fortjenester, som må kunngjøres offentlig. Regjeringen
+kan ikke tildele annen rang eller tittel enn den et embete medfører.
+Ordenen fritar ingen for statsborgernes felles plikter og byrder
+og gir heller ikke fortrinnsrett til statlige embeter. Embetsmenn som
+avskjediges i nåde, beholder den tittel og rang de hadde i embetet.
+Dette gjelder ikke regjeringens medlemmer eller statssekretærene.</A>
+                  <A>–</A>
+                  <A>Regjeringa kan gje ordenar til kven ho vil, til påskjøning for
+framifrå gagnsverk, som må kunngjerast offentleg. Regjeringa kan
+ikkje tildele annan rang og tittel enn den eit embete fører med
+seg. Ordenen fritek ingen for dei plikter og bører som er sams for
+statsborgarane, og gjev heller ikkje førerett til statlege embete.
+Embetsmenn som får avskil i nåde, får ha den tittelen og rangen
+dei hadde i embetet. Dette gjeld ikkje medlemmene av regjeringa
+eller statssekretærane.</A>
+                  <A>§ 24 oppheves.</A>
+                  <A>§ 25 første ledd første punktum skal lyde:</A>
+                  <A>Regjeringen har høyeste befaling over rikets forsvarsmakt.</A>
+                  <A>–</A>
+                  <A>Regjeringa har høgste befalinga over forsvarsmakta til riket.</A>
+                  <A>§ 26 første ledd skal lyde:</A>
+                  <A>Regjeringen har rett til å sammenkalle tropper, begynne krig
+til forsvar av landet og slutte fred, inngå og oppheve folkerettslige
+avtaler og sende og motta sendemenn.</A>
+                  <A>–</A>
+                  <A>Regjeringa har rett til å kalle saman troppar, byrje krig til
+forsvar av landet og slutte fred, inngå og seie opp folkerettslege
+avtaler og sende og ta imot sendemenn.</A>
+                  <A>§ 27 skal lyde:</A>
+                  <A>Alle regjeringens medlemmer skal møte i regjeringsmøter når de
+ikke har lovlig forfall. Ingen beslutning må tas der når ikke over
+halvparten av medlemmene er til stede.</A>
+                  <A>–</A>
+                  <A>Alle medlemmene av regjeringa skal møte i regjeringsmøte når
+dei ikkje har lovleg forfall. Inga avgjerd må takast der når ikkje
+over helvta av medlemmene er til stades.</A>
+                  <A>§ 28 skal lyde:</A>
+                  <A>Tilrådinger om embetsutnevnelser og andre viktige saker skal
+foredras i regjeringsmøte av det medlem av regjeringen hvis fagområde
+de tilhører. Hun eller han skal ekspedere sakene i overensstemmelse
+med regjeringens beslutning.</A>
+                  <A>–</A>
+                  <A>Tilrådingar om embetsutnemningar og andre viktige saker skal
+målberast i regjeringsmøte av den medlemmen av regjeringa som har
+det fagområdet dei høyrer til. Ho eller han skal ekspedere sakene
+i samsvar med avgjerda til regjeringa.</A>
+                  <A>§ 29 skal lyde:</A>
+                  <A>Hindrer lovlig forfall et medlem av regjeringen fra å møte og
+foredra de saker som tilhører hennes eller hans fagområde, skal
+disse saker foredras av et annet medlem, som regjeringen konstituerer
+til det.</A>
+                  <A>Hindrer lovlig forfall så mange fra å møte at ikke flere enn
+halvparten av det bestemte antall medlemmer er til stede, skal så
+mange andre personer som nødvendig konstitueres til å delta i regjeringsmøtet.</A>
+                  <A>–</A>
+                  <A>Hindrar lovleg forfall ein medlem frå å møte og målbere saker
+som høyrer til hennar eller hans fagområde, skal sakene målberast
+av ein annan medlem, som regjeringa konstituerer til det.</A>
+                  <A>Hindrar lovleg forfall så mange frå å møte at ikkje fleire enn
+helvta av det fastsette talet på medlemmer er til stades, skal så
+mange andre personar som naudsynt konstituerast til å vere med på
+regjeringsmøtet.</A>
+                  <A>§ 30 skal lyde:</A>
+                  <A>I regjeringsmøtet føres det protokoll over alle de saker som
+behandles der. De diplomatiske saker som regjeringen beslutter å
+hemmeligholde, føres inn i en egen protokoll. Det samme gjelder
+de militære kommandosaker som regjeringen beslutter å hemmeligholde.</A>
+                  <A>Enhver som deltar i regjeringsmøte, har plikt til å si sin mening
+med frimodighet. Mener noe medlem av regjeringen at regjeringens
+beslutning strider mot statsformen eller landets lover, har hun
+eller han plikt til å gjøre kraftige motforestillinger og tilføye
+sin mening i protokollen. Den som ikke har protestert på denne måte,
+anses for å ha vært enig i regjeringens beslutning og er ansvarlig
+for det, slik som det siden blir bestemt, og kan av Stortinget settes
+under tiltale for Riksretten.</A>
+                  <A>–</A>
+                  <A>I regjeringsmøtet blir det ført protokoll over alle saker som
+blir behandla der. Dei diplomatiske sakene som regjeringa vedtek
+å halde løynde, blir førte inn i ein særskild protokoll. Det same
+gjeld dei militære kommandosakene som regjeringa vedtek å halde
+løynde.</A>
+                  <A>Kvar den som er med på regjeringsmøte, har plikt til å seie si
+meining med frimod. Meiner nokon medlem av regjeringa at avgjerda
+til regjeringa strir mot statsforma eller lovene i landet, har ho
+eller han plikt til å ta kraftig til motmæle og skrive si meining
+i protokollen. Den som ikkje har protestert såleis, blir rekna for
+å ha vore samd i avgjerda til regjeringa og er ansvarleg for det,
+slik som det sidan blir fastsett, og Stortinget kan setje vedkommande
+under tiltale for Riksretten.</A>
+                  <A>§ 31 skal lyde:</A>
+                  <A>Alle regjeringens beslutninger utferdiges i dens navn og undertegnes
+av statsministeren eller, om statsministeren ikke har vært til stede,
+av det første av regjeringsmøtets tilstedeværende medlemmer.</A>
+                  <A>–</A>
+                  <A>Alle avgjerdene til regjeringa blir utferda i namnet til regjeringa
+og blir underskrivne av statsministeren eller, om statsministeren
+ikkje var til stades i regjeringsmøtet, av den fyrste av dei medlemmene
+som var det.</A>
+                  <A>§§ 32, 34, 35, 36, 37, 39, 40, 41, 43, 44, 45, 46, 47 og 48 oppheves.</A>
+                  <A>§ 62 skal lyde:</A>
+                  <A>De tjenestemenn som er ansatt ved regjeringens kontorer, bortsett
+fra statssekretærer og politiske rådgivere, kan ikke stille til
+valg. Heller ikke Høyesteretts medlemmer, tjenestemenn som er ansatt
+i utenrikstjenesten, eller tjenestemenn ansatt ved presidentens
+kontor, kan stille til valg.</A>
+                  <A>Regjeringens medlemmer, presidenten, statssekretærer og politiske
+rådgivere ved regjeringens eller presidentens kontorer kan ikke
+møte som representanter på Stortinget.</A>
+                  <A>–</A>
+                  <A>Tenestemenn som er tilsette ved regjeringskontora, bortsett frå
+statssekretærar og politiske rådgjevarar, kan ikkje stille til val.
+Heller ikkje medlemmene av Høgsterett, tenestemenn som er tilsette
+i utanrikstenesta, og tenestemenn som er tilsette ved kontoret til
+presidenten, kan stille til val.</A>
+                  <A>Medlemmer av regjeringa, presidenten, statssekretærane og politiske
+rådgjevarar ved regjeringas eller presidentens kontor kan ikkje
+møte som representantar på Stortinget.</A>
+                  <A>I § 67 strykes «Kongeriket».</A>
+                  <A>§ 68 første punktum skal lyde:</A>
+                  <A>Stortinget trer i alminnelighet sammen i rikets hovedstad den
+første hverdag i oktober måned hvert år, med mindre regjeringen
+eller presidenten på grunn av usedvanlige omstendigheter, så som
+fiendtlig angrep eller smittsom sykdom, velger en annen by i riket.</A>
+                  <A>–</A>
+                  <A>Stortinget kjem i regelen saman i hovudstaden den fyrste kvardagen
+i oktober kvart år, om ikkje regjeringa eller presidenten på grunn
+av usedvanlege omstende, så som fiendsleg åtak eller smittsam sjukdom,
+vel ein annan by i riket.</A>
+                  <A>§ 69 skal lyde:</A>
+                  <A>Når Stortinget ikke er samlet, kan det sammenkalles av regjeringen
+dersom den mener det er nødvendig.</A>
+                  <A>–</A>
+                  <A>Når Stortinget ikkje er samla, kan regjeringa kalle det saman
+dersom ho meiner det trengst.</A>
+                  <A>§ 74 første ledd skal lyde:</A>
+                  <A>Så snart Stortinget har konstituert seg, åpner statsministeren
+eller den statsministeren utpeker til det, forhandlingene med en
+tale om rikets tilstand og de forhold som hun eller han især ønsker
+å lede Stortingets oppmerksomhet mot.</A>
+                  <A>–</A>
+                  <A>Så snart Stortinget har konstituert seg, opnar statsministeren
+eller den statsministeren set til det, forhandlingane med ei tale
+om tilstanden i riket og dei emna ho eller han særleg vil gjere
+Stortinget merksam på.</A>
+                  <A>§ 74 annet ledd skal lyde:</A>
+                  <A>Når Stortingets forhandlinger er åpnet, har statsministeren og
+regjeringens øvrige medlemmer rett til å møte i Stortinget og på
+lik linje med Stortingets medlemmer delta i forhandlingene når de
+holdes for åpne dører, men uten å avgi stemme. I de saker som behandles
+for lukkede dører, gjelder dette bare når Stortinget tillater det.</A>
+                  <A>–</A>
+                  <A>Når forhandlingane i Stortinget er opna, har statsministeren
+og dei andre medlemmene av regjeringa rett til å møte i Stortinget
+og til liks med medlemmene der ta del i forhandlingane når dei blir
+haldne for opne dører, men utan å røyste. I saker som blir behandla
+for stengde dører, gjeld dette berre når Stortinget gjev løyve til
+det.</A>
+                  <A>§ 75 bokstav e oppheves.</A>
+                  <A>§ 75 bokstav f blir bokstav e og skal lyde:</A>
+                  <A>e) 	å la seg forelegge regjeringsmøtenes protokoller og alle
+offentlige innberetninger og papirer;</A>
+                  <A>–</A>
+                  <A>e) 	å få seg førelagt protokollane frå regjeringsmøta og alle
+offentlege meldingar og papir;</A>
+                  <A>I § 75 bokstav g, som blir bokstav f, gjøres følgende endring:</A>
+                  <A>«kongen» erstattes med «regjeringen» på bokmål og med «regjeringa»
+på nynorsk.</A>
+                  <A>§ 75 bokstav h blir bokstav g og skal lyde:</A>
+                  <A>g) 	å kunne gi enhver påbud om å møte for seg i statssaker;</A>
+                  <A>–</A>
+                  <A>g) 	å kunne gje kven som helst påbod om å møte for seg i statssaker;</A>
+                  <A>§ 75 nåværende bokstav i til m blir § 75 bokstav h til l.</A>
+                  <A>§ 76 første ledd skal lyde:</A>
+                  <A>Enhver lov skal først foreslås på Stortinget, enten av en stortingsrepresentant
+eller av regjeringen ved et av dens medlemmer.</A>
+                  <A>–</A>
+                  <A>Alle lovframlegg skal fyrst gjerast på Stortinget, anten av ein
+stortingsrepresentant eller av regjeringa ved ein av medlemmene.</A>
+                  <A>§ 77 skal lyde:</A>
+                  <A>Når Stortinget har fattet det samme lovvedtak to ganger etter
+hverandre, sendes det til regjeringen med anmodning om dens sanksjon.</A>
+                  <A>–</A>
+                  <A>Når Stortinget har gjort same lovvedtaket to gonger på rad, går
+vedtaket til regjeringa med oppmoding om sanksjon.</A>
+                  <A>§ 78 skal lyde:</A>
+                  <A>Godtar regjeringen lovvedtaket, forsyner statsministeren det
+med sin underskrift, og dermed blir det til lov. Godtar regjeringen
+det ikke, sendes det tilbake til Stortinget med den erklæring at
+regjeringen for tiden ikke finner det tjenlig å sanksjonere det.
+I så tilfelle kan ikke det storting som da er samlet, legge dette
+vedtak frem for regjeringen igjen.</A>
+                  <A>–</A>
+                  <A>Godtek regjeringa lovvedtaket, skriv statsministeren under, og
+dermed blir det til lov. Godtek regjeringa det ikkje, blir det sendt
+attende til Stortinget med dei orda at regjeringa for tida ikkje
+meiner det er tenleg å sanksjonere det. I så fall kan ikkje det
+stortinget som då er samla, leggje dette vedtaket fram for regjeringa
+att.</A>
+                  <A>§ 79 skal lyde:</A>
+                  <A>Når to storting med ett valg og minst to storting imellom har
+fattet det samme lovvedtak uforandret uten at Stortinget i mellomtiden
+har fattet noe avvikende endelig lovvedtak, og det da forelegges
+regjeringen, så blir det til lov selv om regjeringen ikke gir sin
+sanksjon før Stortinget adskilles.</A>
+                  <A>–</A>
+                  <A>Når to storting med eitt val og minst to storting imellom har
+gjort same lovvedtaket uendra utan at Stortinget i mellomtida har
+gjort avvikande endeleg lovvedtak, og det då blir lagt fram for
+regjeringa, så blir det til lov endå om regjeringa ikkje gjev sanksjon
+før Stortinget skilst.</A>
+                  <A>§ 80 tredje ledd skal lyde:</A>
+                  <A>Innen denne tid meddeler statsministeren regjeringens beslutning
+om de lovvedtak som ikke allerede er avgjort (jf. §§ 77 til 79),
+ved enten å stadfeste dem eller å forkaste dem. Alle de som ikke
+uttrykkelig er blitt godkjent, anses for å være forkastet.</A>
+                  <A>–</A>
+                  <A>Innan den tid kunngjer statsministeren for Stortinget avgjerda
+til regjeringa om dei lovvedtaka som ikkje alt er avgjorde (jf.
+§§ 77 til 79), med anten å stadfeste eller å forkaste dei. Alle
+dei som ikkje uttrykkeleg blir godkjende, blir rekna som forkasta.</A>
+                  <A>§ 81 skal lyde:</A>
+                  <A>Alle lover (unntatt dem i § 79) utferdiges i regjeringens navn,
+under Norges rikes segl og med følgende ord: «Den norske regjering
+kunngjør at vi er blitt forelagt Stortingets vedtak av dato sålydende:
+(her følger vedtaket). Vi godkjenner og stadfester dette vedtaket
+som lov, under vår hånd og rikets segl.»</A>
+                  <A>–</A>
+                  <A>Alle lover (så nær som dei etter § 79) blir utferda i namnet
+til regjeringa, under Noregs rikssegl og med desse orda: «Den norske
+regjeringa kunngjer at Stortinget har lagt føre oss eit vedtak dagsett
+dato som lyder slik: (her kjem vedtaket). Vi godkjenner og stadfester
+dette vedtaket som lov, under vår hand og riksseglet.»</A>
+                  <A>§ 82 annet punktum skal lyde:</A>
+                  <A>Intet medlem av regjeringen må legge frem uriktige eller villedende
+opplysninger for Stortinget eller dets organer.</A>
+                  <A>–</A>
+                  <A>Ingen medlemmer av regjeringa må leggje fram urette eller villeiande
+opplysningar for Stortinget eller eit stortingsorgan.</A>
+                  <A>§ 86 første ledd skal lyde:</A>
+                  <A>Riksretten dømmer i første og siste instans i de saker som Stortinget
+anlegger mot medlemmer av regjeringen, Høyesterett eller Stortinget,
+eller presidenten, for straffbart eller annet rettsstridig forhold
+når de har brutt sine konstitusjonelle plikter.</A>
+                  <A>–</A>
+                  <A>Riksretten dømmer i fyrste og siste instans i dei sakene som
+Stortinget reiser mot medlemmer av regjeringa, Høgsterett eller
+Stortinget, eller presidenten, for eit strafflagt eller anna rettsstridig
+tilhøve når dei har brote sine konstitusjonelle plikter.</A>
+                  <A>§ 86 tredje ledd tredje punktum skal lyde:</A>
+                  <A>Presidenten, medlemmer av regjeringen og medlemmer av Stortinget
+kan ikke velges til medlem av Riksretten.</A>
+                  <A>–</A>
+                  <A>Presidenten, medlemmer av regjeringa og medlemmer av Stortinget
+kan ikkje veljast til medlem av Riksretten.</A>
+                  <A>§ 90 første ledd første punktum skal lyde:</A>
+                  <A>Dommere utnevnes av regjeringen etter innstilling fra et uavhengig
+råd.</A>
+                  <A>–</A>
+                  <A>Dommarar blir utnemnde av regjeringa etter tilråding frå eit
+uavhengig råd.</A>
+                  <A>§ 121 skal lyde:</A>
+                  <A>Viser erfaring at noen del av denne Norges rikes grunnlov bør
+endres, skal endringsforslag fremsettes på første, annet eller tredje
+storting etter et nytt valg og kunngjøres. Men det tilkommer først
+det første, annet eller tredje storting etter neste valg å bestemme
+om den foreslåtte endring skal finne sted eller ei. En slik endring må
+likevel aldri motsi denne grunnlovs prinsipper, men bare angå modifikasjoner
+i enkelte bestemmelser som ikke endrer denne konstitusjons ånd,
+og to tredjedeler av Stortinget må være enige i en slik endring.</A>
+                  <A>En grunnlovsbestemmelse som er vedtatt på denne måte, skal underskrives
+av Stortingets president og sekretær og sendes regjeringen til kunngjøring
+som gjeldende bestemmelse i Norges rikes grunnlov.</A>
+                  <A>–</A>
+                  <A>Viser røynsla at nokon del av denne Noregs rikes grunnlov bør
+endrast, skal framlegget om endring leggjast fram på det fyrste,
+andre eller tredje stortinget etter eit nytt val og kunngjerast.
+Men det er fyrst det fyrste, andre eller tredje stortinget etter
+neste val som avgjer om endringa skal gjerast eller ikkje. Ei slik
+endring må likevel aldri stri mot prinsippa i denne grunnlova, men
+berre gjelde modifikasjonar i einskilde føresegner som ikkje endrar
+ånda i denne konstitusjonen, og to tredjedelar av Stortinget må
+vere samde i ei slik endring.</A>
+                  <A>Ei grunnlovsføresegn som er vedteken på denne måten, skal underskrivast
+av Stortingets president og sekretær og sendast til regjeringa til
+kunngjering som gjeldande føresegn i Noregs rikes grunnlov.</A>
+                  <A>II</A>
+                  <A>Vedtak I trer i kraft 1. januar året etter at innføring av republikk
+som styreform i Norge har fått flertall ved en folkeavstemning.
+Slik folkeavstemning må avholdes innen 31. september 2030.</A>
+                  <A>III</A>
+                  <A>De som på tidspunktet nevnt under II første punktum er regjeringsmedlemmer,
+får fra da av myndighet, rettigheter og plikter som medlem av regjeringen
+etter den endrede grunnloven og myndighet, rettigheter og plikter som
+i eller i medhold av lov er tillagt regjeringsmedlemmer eller statsråder.
+Myndighet, rettigheter eller plikter som i eller i medhold av lov
+er tillagt kongen, skal fra da av tillegges regjeringen. Myndighet,
+rettigheter eller plikter som i eller i medhold av lov er tillagt
+Kongen i statsråd, skal fra da av tillegges regjeringen i regjeringsmøte.»</A>
+                </Sitat>
+              </Presinnlegg>
+              <Votering>
+                <Tittel>Votering: </Tittel>
+                <A Type="Minnrykk">Forslaget fra Sosialistisk Venstreparti og
+Rødt ble med 141 mot 26 stemmer ikke vedtatt.</A>
+                <A Type="Minnrykk">(Voteringsutskrift kl. 12.14.05)</A>
+              </Votering>
+              <A Type="Blanklinjeminnrykk">Komiteen hadde innstilt til Stortinget
+å gjøre følgende</A>
+            </Sakdel>
+            <VedtakS>
+              <Tittel> vedtak:</Tittel>
+              <A Type="Minnrykk">Dokument 12:13 (2023–2024) – Grunnlovsforslag
+fra Grete Wold, Tobias Drevland Lund, Une Bastholm, Sivert Bjørnstad,
+Heidi Nordby Lunde, Åsmund Aukrust og Ingvild Wetrhus Thorsvik om
+endring i §§ 1, 3 til 9, 11 til 15, 17 til 32, 34 til 37, 39 til
+41, 43 til 48, 62, 67 til 69, 74 til 82, 86, 90 og 121 (om republikk)
+– samtlige alternativer – bifalles ikke. </A>
+              <Presinnlegg>
+                <A>
+                  <Navn>Presidenten:</Navn> Som følge av voteringen
+over mindretallsforslag nr. 1 bortfaller votering over tilrådingen. </A>
+                <A Type="Minnrykk">Det voteres over forslag nr. 2, fra Miljøpartiet
+De Grønne. Forslaget lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen utrede en
+overgang til republikk i Norge. Utredningen skal vurdere fordeler
+og ulemper ved å endre statsform til republikk og vurdere ulike
+modeller for innføring av republikansk styreform i Norge.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Rødt har varslet støtte til forslaget. </A>
+              </Presinnlegg>
+              <Votering>
+                <Tittel>Votering: </Tittel>
+                <A Type="Minnrykk">Forslaget fra Miljøpartiet De Grønne ble med
+150 mot 17 stemmer ikke vedtatt.</A>
+                <A Type="Minnrykk">(Voteringsutskrift kl. 12.14.37)</A>
+              </Votering>
+            </VedtakS>
+          </Voteringer>
+          <Voteringer Id="i1007138" saksKartNr="2" debattDato="2026-02-03" tidspunkt="1215" sakID="100013,100014,100039">
+            <Sakdel>
+              <Tittel>Votering i sak nr. 2,
+debattert 3. februar 2026</Tittel>
+              <A Id="i1007140">Innstilling fra kontroll- og konstitusjonskomiteen
+om tre grunnlovsforslag om endring i § 121 (Innst. 88 S (2025–2026),
+jf. Dokument 12:14 (2023–2024), Dokument 12:15 (2023–2024) og Dokument
+12:40 (2023–2024))</A>
+              <Referanse Id="i1007142" debattDato="2026-02-03" saksKartNr="2" />
+              <Presinnlegg>
+                <A>
+                  <Navn>Presidenten:</Navn> Under debatten har Julie
+E. Stuestøl satt fram et forslag fra Høyre, Sosialistisk Venstreparti,
+Rødt, Miljøpartiet De Grønne og Kristelig Folkeparti. Forslaget
+lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Dokument 12:15 (2023–2024) – Grunnlovsforslag fra
+Peter Frølich, Svein Harberg, Frode Jacobsen, Nils T. Bjørke, Carl
+I. Hagen, Audun Lysbakken, Seher Aydar, Grunde Almeland og Lan Marie
+Nguyen Berg om endring i § 121 (om prosedyren for grunnlovsendringer)
+– bifalles.»</A>
+                </Sitat>
+              </Presinnlegg>
+              <Votering>
+                <Tittel>Votering: </Tittel>
+                <A Type="Minnrykk">Forslaget fra Høyre, Sosialistisk Venstreparti,
+Rødt, Miljøpartiet De Grønne og Kristelig Folkeparti ble med 109
+mot 57 stemmer ikke vedtatt.</A>
+                <A Type="Minnrykk">(Voteringsutskrift kl. 12.15.17)</A>
+              </Votering>
+              <A Type="Blanklinjeminnrykk">Komiteen hadde innstilt til Stortinget
+å gjøre følgende </A>
+            </Sakdel>
+            <VedtakS>
+              <Tittel>vedtak:</Tittel>
+              <RomertallSeksjon>
+                <Tittel>I</Tittel>
+                <A Type="Minnrykk">Dokument 12:14 (2023–2024) – Grunnlovsforslag
+fra Frode Jacobsen, Kirsti Leirtrø og Kari Henriksen om endring i
+§ 121 (om prosedyren for fremsettelse og behandling av grunnlovsforslag)
+– bifalles ikke.</A>
+              </RomertallSeksjon>
+              <RomertallSeksjon>
+                <Tittel>II</Tittel>
+                <A Type="Minnrykk">Dokument 12:15 (2023–2024) – Grunnlovsforslag
+fra Peter Frølich, Svein Harberg, Frode Jacobsen, Nils T. Bjørke, Carl
+I. Hagen, Audun Lysbakken, Seher Aydar, Grunde Almeland og Lan Marie
+Nguyen Berg om endring i § 121 (om prosedyren for grunnlovsendringer)
+– bifalles ikke.</A>
+              </RomertallSeksjon>
+              <RomertallSeksjon>
+                <Tittel>III</Tittel>
+                <A Type="Minnrykk">Dokument 12:40 (2023–2024) – Grunnlovsforslag
+fra Per Olaf Lundteigen om endring i § 121 (om prosedyren for grunnlovsendring)
+– bifalles ikke. </A>
+                <Presinnlegg>
+                  <A>
+                    <Navn>Presidenten:</Navn> Som følge av voteringen
+over mindretallsforslag nr. 1 bortfaller votering over II i tilrådingen.</A>
+                  <A Type="Minnrykk" Id="i1007144">Det voteres over I og III. </A>
+                </Presinnlegg>
+                <Votering>
+                  <Tittel>Votering: </Tittel>
+                  <A Type="Minnrykk">Komiteens innstilling, I og III, ble enstemmig
+vedtatt.</A>
+                </Votering>
+              </RomertallSeksjon>
+            </VedtakS>
+          </Voteringer>
+        </VoteringerStart>
+        <Sakreferat Id="i1007150">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak nr.
+3</Uth> [12:15:38]</Saknr>
+            <Saktittel Id="i1007152">
+              <A>Referat</A>
+            </Saktittel>
+          </Sakshode>
+          <Liste Type="Fri">
+            <Pkt>
+              <A>(203) Representantforslag fra stortingsrepresentantene
+Sofie Marhaug, Synne Høyforsslett og Mímir Kristjánsson om å avvikle
+Nysnø (Dokument 8:91 S (2025–2026))</A>
+            </Pkt>
+          </Liste>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [12:15:48]:</Navn> Presidenten
+foreslår at representantforslaget behandles etter forretningsordenen
+§ 39 annet ledd bokstav e (avvises).</A>
+            <A Type="Minnrykk">Representanten Geir Jørgensen har bedt om ordet.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1007154">
+            <A>
+              <Navn personID="GEIRAJ">
+Geir Jørgensen (R) [12:16:10]:</Navn> Det avviste forslaget i presidentens
+forslag er Rødts forslag innlevert her tirsdag 27. januar, om å
+avvikle det statlige klimafondet, Nysnø. Begrunnelsen fra presidentskapet
+har vært at dette var behandlet i desember – i forbindelse med Fremskrittspartiets
+alternative budsjettforslag. Vi i Rødt vil likevel opprettholde
+dette forslaget, og vi foreslår at dette representantforslaget blir sendt
+til næringskomiteen og behandlet som et ordinært Dokument 8-forslag.</A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten:</Navn> Stortinget vil da votere
+over behandlingsmåten på Dokument 8:91 S. </A>
+            <A Type="Minnrykk">Presidenten vil – på bakgrunn av at tilsvarende
+forslag har vært votert over tidligere i sesjonen – foreslå at forslaget avvises.</A>
+            <A Type="Minnrykk">Representanten Geir Jørgensen har foreslått
+at forslaget sendes næringskomiteen.</A>
+            <A Type="Minnrykk">Det vil bli votert alternativt mellom presidentens
+forslag og forslaget fra Rødt.</A>
+          </Presinnlegg>
+          <Votering>
+            <Tittel>Votering: </Tittel>
+            <A Type="Minnrykk">Ved alternativ votering mellom presidentens
+forslag og forslaget fra Rødt ble presidentens forslag vedtatt med
+141 mot 19 stemmer. </A>
+            <A Type="Minnrykk">(Voteringsutskrift kl. 12.17.20)</A>
+          </Votering>
+          <Presinnlegg>
+            <A>Videre ble referert:</A>
+            <Liste Type="Fri">
+              <Pkt>
+                <A>2.	(204) Representantforslag fra stortingsrepresentantene Frøya
+Skjold Sjursæther, Arild Hermstad, Ingrid Liland, Oda Indgaard og
+Julie E. Stuestøl om norsk deltakelse i EUs sosiale klimafond (Dokument
+8:101 S (2025–2026))</A>
+                <A>Enst.: Sendes energi- og miljøkomiteen.</A>
+              </Pkt>
+              <Pkt>
+                <A>3.	(205) Representantforslag frå stortingsrepresentantane Kjersti
+Toppe, Erling Sande og Bent-Joacim Bentzen om å sikre tilfluktsrom
+på norske sjukehus (Dokument 8:103 S (2025–2026))</A>
+                <A>Enst.: Sendes helse- og omsorgskomiteen.</A>
+              </Pkt>
+              <Pkt>
+                <A>4.	(206) Representantforslag fra stortingsrepresentantene Julie
+E. Stuestøl, Marius Langballe Dalin, Une Bastholm, Frøya Skjold
+Sjursæther, Ingrid Liland, Anne Lise Gjerstad Fredlund, Marian Hussein
+og Mirell Høyer-Berntsen om en tilbakekallspraksis som verdsetter
+inkludering (Dokument 8:102 S (2025–2026))</A>
+                <A>Enst.: Sendes kommunal- og forvaltningskomiteen.</A>
+              </Pkt>
+              <Pkt>
+                <A>5.	(207) Representantforslag frå stortingsrepresentantane Erling
+Sande, Maren Grøthe og Kjersti Toppe om meir frileik og aktivitet
+i skulen (Dokument 8:100 S (2025–2026))</A>
+                <A>Enst.: Sendes utdannings- og forskningskomiteen.</A>
+              </Pkt>
+            </Liste>
+          </Presinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [12:17:53]:</Navn> Dermed er dagens
+kart ferdigbehandlet. Forlanger noen ordet før møtet heves? – Så
+synes ikke, og møtet er hevet.</A>
+          </Presinnlegg>
+        </Sakreferat>
+      </Saker>
+    </Hovedseksjon>
+    <Sluttseksjon>
+      <Hevet>
+        <A>Møtet hevet kl. 12.18.</A>
+      </Hevet>
+    </Sluttseksjon>
+  </Mote>
+</Forhandlinger>

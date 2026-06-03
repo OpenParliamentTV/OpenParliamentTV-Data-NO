@@ -1,0 +1,17 @@
+{
+  "moteid": 11535,
+  "parts": [
+    {
+      "moteid": 11535,
+      "delnr": 1,
+      "qbvid": "d4e7n9s7lusc73834ifg",
+      "mp4_url": "https://httpcache0-90415-cachedown0.dna.ip-only.net/90415-cachedown0/assets/d4/d4e7nek7lusc73834ig0/d4e7jl47lusc73834if0_1080p.mp4",
+      "audio_mp4_url": "https://httpcache0-90415-cachedown0.dna.ip-only.net/90415-cachedown0/assets/d4/d4e7nek7lusc73834ig0/d4e7jl47lusc73834if0_240p.mp4",
+      "hls_url": "https://httpcache0-90415-cacheod0.dna.ip-only.net/90415-cacheod0/_definst_/smil:assets/d4/d4e7nek7lusc73834ig0/d4e7jl47lusc73834if0_240p/playlist.m3u8",
+      "tc_in_utc": "2025-11-18T08:58:09+00:00",
+      "tc_out_utc": "2025-11-18T10:36:41+00:00",
+      "duration_seconds": 5912.0,
+      "thumbnail_url": "https://httpcache0-90415-cachedown0.dna.ip-only.net/90415-cachedown0/assets/d4/d4e7nek7lusc73834ig0/d4e7jl47lusc73834if0_1080p_5.jpeg"
+    }
+  ]
+}

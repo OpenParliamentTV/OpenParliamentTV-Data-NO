@@ -1,0 +1,3348 @@
+<Forhandlinger Status="Kvalitetssikret">
+  <Mote moteID="11599">
+    <Startseksjon>
+      <Motestart>
+        <Tittel>Møte tirsdag den 17. mars 2026 kl. 10</Tittel>
+        <President Id="i1006300" personID="MASG">
+          <A>President: <Uth Type="Sperret">Morten
+Wold</Uth></A>
+        </President>
+        <Dagsorden>
+          <Tittel>Dagsorden <DagsordenNR>(nr. 55):</DagsordenNR></Tittel>
+          <DagsordenSak Id="i1006302">
+            <Liste Type="Dagsorden">
+              <Pkt>
+                <A> 1.	Innstilling
+fra kontroll- og konstitusjonskomiteen om oppnevning av granskingskommisjon
+for å undersøke forhold som har blitt aktualisert gjennom offentliggjøringen
+av Epstein-dokumentene</A>
+                <A>(Innst. 160 S (2025–2026))</A>
+              </Pkt>
+              <Pkt>
+                <A> 2.	Innstilling fra kontroll- og konstitusjonskomiteen om Riksrevisjonens
+undersøkelse av bistand til klimatilpasning i utviklingsland</A>
+                <A>(Innst. 152 S (2025–2026), jf. Dokument 3:4 (2025–2026))</A>
+              </Pkt>
+              <Pkt>
+                <A> 3.	Innstilling fra kontroll- og konstitusjonskomiteen om Riksrevisjonens
+undersøkelse av Navs innsats for å forhindre frafall fra arbeidslivet</A>
+                <A>(Innst. 149 S (2025–2026), jf. Dokument 3:5 (2025–2026))</A>
+              </Pkt>
+              <Pkt>
+                <A> 4.	Innstilling fra kontroll- og konstitusjonskomiteen om Riksrevisjonens
+undersøkelse av myndighetenes ansvar i forbindelse med Alexander
+L. Kielland-ulykken</A>
+                <A>(Innst. 156 S (2025–2026), jf. Dokument 3:7 (2025–2026))</A>
+              </Pkt>
+              <Pkt>
+                <A> 5.	Innstilling fra kontroll- og konstitusjonskomiteen om Anmodnings-
+og utredningsvedtak i stortingssesjonen 2024-2025</A>
+                <A>(Innst. 125 S (2025–2026), jf. Meld. St. 4 (2025–2026))</A>
+              </Pkt>
+              <Pkt>
+                <A> 6.	Referat</A>
+              </Pkt>
+            </Liste>
+          </DagsordenSak>
+        </Dagsorden>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:00:19]:</Navn> Representantene
+Hågen Poppe, Jorunn Gleditsch Lossius, Sverre Myrli, Per Vidar Kjølmoen, Frode
+Jacobsen, Solveig Vik og Kristine L. Solli, som har vært permittert,
+har igjen tatt sete.</A>
+          <A Type="Minnrykk">Følgende innkalte vararepresentanter tar nå
+sete:</A>
+          <A Type="Minnrykk">For Finnmark: Lavrans Lyngstad</A>
+          <A Type="Minnrykk">For Hedmark: Erik Hager</A>
+          <A Type="Minnrykk">For Hordaland: Ulvar Akselsen</A>
+          <A Type="Minnrykk">For Oslo: Margit Bye, Ola Svenneby, Malin Bye
+Sørensen og Andreas Sjalg Unneland</A>
+          <A Type="Minnrykk">For Nord-Trøndelag: Siv Sætran</A>
+          <A Type="Minnrykk">For Vestfold: Mathias Willassen Hanssen</A>
+          <A Type="Minnrykk">For Østfold: Mette Gro Karlsen</A>
+          <A Type="Minnrykk">Fra Sosialistisk Venstrepartis stortingsgruppe
+foreligger søknad om permisjon etter Stortingets forretningsorden
+§ 5 annet punktum for representanten Kathy Lie fra og med 17. mars
+og inntil videre.</A>
+          <A Type="Blanklinjeminnrykk">Etter forslag fra presidenten ble
+enstemmig besluttet:</A>
+          <Liste Type="Num">
+            <Pkt>
+              <A>Søknaden behandles straks og innvilges.</A>
+            </Pkt>
+            <Pkt>
+              <A>Vararepresentanten Audun Hammer Hovda innkalles for å møte
+i permisjonstiden.</A>
+            </Pkt>
+          </Liste>
+        </Presinnlegg>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:01:21]:</Navn> Audun Hammer
+Hovda er til stede og vil ta sete.</A>
+          <A Type="Minnrykk">Utenriksminister Espen Barth Eide vil overbringe
+en kongelig proposisjon.</A>
+        </Presinnlegg>
+        <Hovedinnlegg Id="i1006304">
+          <A>
+            <Navn personID="EBE">
+Utenriksminister Espen Barth Eide [10:01:36]:</Navn> På vegne av
+regjeringen har jeg den ære å overbringe en kongelig proposisjon
+om endringer i politiregisterloven og grenseloven m.v., testing
+og utvikling av informasjonssystemer.</A>
+        </Hovedinnlegg>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:01:48]:</Navn> Proposisjonen
+vil bli behandlet på reglementsmessig måte. </A>
+          <A Type="Minnrykk">Representanten Jonas Andersen Sayed vil fremsette
+et representantforslag.</A>
+        </Presinnlegg>
+        <Hovedinnlegg Id="i1006306">
+          <A>
+            <Navn personID="JONSAY">
+Jonas Andersen Sayed (KrF) [10:02:04]:</Navn> På vegne av representantene
+Jorunn Gleditsch Lossius, Harry Valderhaug, Ida Lindtveit Røse og
+meg selv vil jeg framsette et representantforslag om langtidsplan
+for effektiv norsk bistand.</A>
+        </Hovedinnlegg>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:02:17]:</Navn> Representanten
+Grunde Almeland vil fremsette et representantforslag.</A>
+        </Presinnlegg>
+        <Hovedinnlegg Id="i1006308">
+          <A>
+            <Navn personID="GKAL">
+Grunde Almeland (V) [10:02:19]:</Navn> På vegne av representantene
+Guri Melby, Abid Raja og meg selv vil jeg fremme et representantforslag
+om å stimulere til økt brukt av samkjøring for å nå nullvekstmålet.</A>
+        </Hovedinnlegg>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:02:40]:</Navn> Representanten
+Tone Wilhelmsen Trøen vil fremsette et representantforslag.</A>
+        </Presinnlegg>
+        <Hovedinnlegg Id="i1006310">
+          <A>
+            <Navn personID="TWT">
+Tone Wilhelmsen Trøen (H) [10:02:56]:</Navn> På vegne av stortingsrepresentantene
+Margret Hagerup, Tage Pettersen. Mari Holm Lønseth og meg selv har
+jeg æren av å fremsette et representantforslag om å sikre forutsigbar
+finansiering av krisesenterbygg. </A>
+        </Hovedinnlegg>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:03:13]:</Navn> Representanten
+Lars Haltbrekken vil fremsette et representantforslag.</A>
+        </Presinnlegg>
+        <Hovedinnlegg Id="i1006312">
+          <A>
+            <Navn personID="LAHA">
+Lars Haltbrekken (SV) [10:03:26]:</Navn> På vegne av meg selv vil
+jeg framsette et forslag om en ny modell for utjevning av nettleie.</A>
+        </Hovedinnlegg>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:03:36]:</Navn> Representanten
+Frøya Skjold Sjursæther vil fremsette et representantforslag.</A>
+        </Presinnlegg>
+        <Hovedinnlegg Id="i1006314">
+          <A>
+            <Navn personID="FRYSJU">
+Frøya Skjold Sjursæther (MDG) [10:03:52]:</Navn> På vegne av representantene
+Oda Indgaard og meg selv vil jeg framsette et representantforslag
+om å slå ned på grov miljøkriminalitet.</A>
+        </Hovedinnlegg>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:04:02]:</Navn> Forslagene
+vil bli behandlet på reglementsmessig måte.</A>
+        </Presinnlegg>
+      </Motestart>
+    </Startseksjon>
+    <Hovedseksjon Id="i1006316">
+      <Saker>
+        <Sak saksKartNr="1" sakID="107358">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak nr. 1</Uth> [10:04:11]</Saknr>
+            <Saktittel Id="i1006320">
+              <A>Innstilling fra kontroll- og konstitusjonskomiteen
+om oppnevning av granskingskommisjon for å undersøke forhold som
+har blitt aktualisert gjennom offentliggjøringen av Epstein-dokumentene <Uth Type="RETT">(Innst. 160 S (2025–2026))</Uth></A>
+            </Saktittel>
+          </Sakshode>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [10:04:26]:</Navn> Etter ønske
+fra kontroll- og konstitusjonskomiteen vil presidenten ordne debatten
+slik: 5 minutter til hver partigruppe og 5 minutter til medlemmer av
+regjeringen.</A>
+            <A Type="Minnrykk">Videre vil det – innenfor den fordelte taletid
+– bli gitt anledning til inntil åtte replikker med svar etter innlegg
+fra medlemmer av regjeringen, og de som måtte tegne seg på talerlisten
+utover den fordelte taletid, får en taletid på inntil 3 minutter.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1006322">
+            <A>
+              <Navn personID="PTA">
+Per-Willy Amundsen (FrP) [10:05:05]</Navn> (komiteens leder og ordfører
+for saken): Den 30  januar 2026 ble det offentliggjort et omfattende
+materiale knyttet til den avdøde Jeffrey Epstein. Dette skjedde
+etter pålegg fra den amerikanske kongressen om å avdekke nettverket
+rundt Epstein. Materialet inneholdt tre millioner sider, 180 000
+bilder og 2 000 videoer. </A>
+            <A Type="Minnrykk">Det ble raskt klart at nettverket til Epstein
+hadde forgreninger til Norge. Norske medier kunne avsløre at personer med
+nåværende eller tidligere tilknytning til regjering og forvaltning
+fremsto som sentrale i dette nettverket. Det fremkom også opplysninger
+om andre aktørers intensjoner og mål overfor norske institusjoner
+og myndigheter. </A>
+            <A Type="Minnrykk">Opplysningene som har fremkommet, reiser svært
+alvorlige spørsmål om misbruk av høytstående offentlige stillinger og
+verv, norske myndighetspersoners utveksling av informasjon, tjenester
+og kontakter i lukkede nettverk med antidemokratiske eller kriminelle
+elementer. </A>
+            <A Type="Minnrykk">Videre reises det svært alvorlige spørsmål
+om myndighetspersoners eksponering for påvirkningsfare og mulige
+skadevirkninger for norske interesser, kritikkverdig forvaltning av
+offentlige midler, og ikke minst om dette har blitt muliggjort gjennom
+manglende kontroll og ukultur i forvaltningen – og da særlig i utenrikstjenesten.
+Dersom disse spørsmålene forblir ubesvart, er det fundamentalt farlig
+og fortjent egnet til varig å skade tilliten til statens myndigheter.
+Det vil være utålelig. </A>
+            <A Type="Minnrykk">Den ekstraordinære situasjonen som har oppstått,
+krever derfor ekstraordinære tiltak som kan skape grunnlag for å gjenoppbygge
+tilliten til våre institusjoner. Derfor innstiller kontroll- og
+konstitusjonskomiteen enstemmig på at det opprettes en uavhengig
+granskingskommisjon som skal avdekke sannheten og svare på spørsmålene
+som har blitt reist etter offentliggjøringen av Epstein-dokumentene.
+Alvoret understrekes av at dette blir den niende granskingskommisjonen
+Stortinget oppnevner siden 1883. </A>
+            <A Type="Minnrykk">Komiteen mener at kommisjonen må ha et bredt
+mandat for sitt arbeid, herunder relasjonen mellom Jeffrey Epstein
+og hans nettverk og nåværende eller tidligere norske politikere, embetsmenn,
+statsansatte og andre med tilknytning til norske myndigheter, f.eks.
+mottakere av offentlige tilskudd. Dette gjøres det nærmere rede
+for i innstillingen og skal omfatte prosessen som ledet fram til
+Oslo-avtalen i 1993. </A>
+            <A Type="Minnrykk">Tilsvarende oppstilles det strenge krav til
+kommisjonens medlemmer. De skal ikke ha eller ha hatt partipolitisk
+tilknytning. De skal heller ikke ha tilknytning til den norske utenrikstjenesten
+eller andre institusjoner og virksomheter som kan bli direkte berørt
+av granskingen. Det legges til grunn et skjerpet habilitetskrav. </A>
+            <A Type="Minnrykk">Granskingskommisjonen skal videre utstyres
+med en særlov som gir uinnskrenket tilgang på alle relevante opplysninger,
+uten hinder av lov- eller avtalebestemt taushetsplikt. Dette skal
+heller ikke være begrenset til regjering og forvaltning, men også
+omfatte private rettssubjekter, forutsatt at det er grunn til å
+tro at private rettssubjekter besitter informasjon som ikke finnes
+i forvaltningen, og som kommisjonen vurderer som relevant etter
+mandatet. </A>
+            <A Type="Minnrykk">Jeg viser for øvrig til innstillingen fra en
+samlet kontroll- og konstitusjonskomité, og jeg vil takke komiteens
+medlemmer for det som har vært et svært godt samarbeid om det som er
+en svært viktig sak for å gjenreise tilliten til vårt demokratis institusjoner. </A>
+            <A Type="Minnrykk">Sannheten må blottlegges – uten hensyn til
+konsekvenser. Og til dem som har misbrukt maktposisjonene sine,
+vil jeg si: Ingen skal vernes, ingen skal beskyttes, og ingen skal tro
+at deres stilling eller nettverk kan skjerme dem. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1006324">
+            <A>
+              <Navn personID="SMY">
+Sverre Myrli (A) [10:10:21]:</Navn> La meg aller først takke komitélederen
+og saksordføreren for en grundig og god gjennomgang. Jeg vil nå
+først si litt om hva dette dreier seg om, og etterpå, fordi det
+er nødvendig, også si litt om hva dette ikke dreier seg om. </A>
+            <A Type="Minnrykk">Dette er en svært alvorlig sak. Hvis norske
+myndighetspersoner på en eller annen måte har vært tilknyttet Jeffrey Epstein
+eller andre i nettverket hans, er det selvsagt svært alvorlig og
+noe som ikke kan aksepteres. Det må vi til bunns i, og vi må finne
+ut hvordan det i så fall kunne skje. Alt må fram. Alle steiner må
+snus, som vi har sagt i denne prosessen. </A>
+            <A Type="Minnrykk">Det er bra at Stortingets kontroll- og konstitusjonskomité legger
+fram en enstemmig innstilling, og at det nå er full enighet om at
+det nedsettes en ekstern granskingskommisjon, slik Stortingets forretningsorden
+åpner for. I tillegg vil det være naturlig å legge til at det også
+vil bli åpnet kontrollsak i regi av kontroll- og konstitusjonskomiteen
+med tilhørende kontrollhøring, slik også forretningsordenen beskriver
+grundig. Jeg vil også legge til: Verken Stortinget eller kontrollkomiteen
+er noen domstol. Har det skjedd noe straffbart, hvis noen har gjort
+noe som er i brudd med norsk lov, er det en politisak. Det er i
+så fall det tredje sporet, som Stortinget og kontrollkomiteen ikke
+skal legge seg oppi, men både ekstern granskingskommisjon og kontrollsak
+er vårt ansvar. </A>
+            <A Type="Minnrykk">Stortinget vil nå – som trinn to i trinn én
+som vi nå er inne i, etter innstillingen fra kontrollkomiteen –
+med en marsjordre til presidentskapet om å legge fram forslag om
+å nedsette en granskingskommisjon, få på plass en slik granskingskommisjon.
+La meg bare si at det ikke har vært full enighet om at vi skulle
+gjøre dette ut fra slik forretningsordenen beskriver det. Jeg minner
+om at både MDG og Fremskrittspartiet ville at regjeringen skulle
+nedsette en granskingskommisjon. Det hadde blitt feil, og jeg er
+glad for at alle partier som måtte mene det, gikk bort fra det.
+Det hadde blitt feil hvis regjeringen skulle ta initiativ til en
+kommisjon som i alle fall delvis skulle granske seg selv og underliggende
+etater. Så det er svært gledelig at det nå er full enighet om at
+Stortinget nedsetter en ekstern granskingskommisjon.</A>
+            <A Type="Minnrykk">Jeg vil også si lite grann om hva dette ikke
+dreier seg om. Forretningsordenens bestemmelser om ekstern granskingskommisjon
+må forstås ut fra Stortingets rolle som kontrollerende myndighet,
+altså at Stortinget skal kontrollere regjeringen og forvaltningen,
+slik det er skissert i Grunnloven. Regjeringen og forvaltningen
+skal gjøre det Stortinget bestemmer, og selvsagt innenfor de regler
+og bestemmelser som er bestemt. Det er Stortingets ansvar, å kontrollere
+regjeringen og forvaltningen, og i det bildet må som sagt også opprettelse
+av en uavhengig granskingskommisjon forstås. Verken en kontrollsak
+i kontrollkomiteen eller en ekstern granskingskommisjon er arenaer
+for politiske omkamper. En granskingskommisjon skal ikke være en
+omkamp om norsk utenrikspolitikk eller norsk bistandspolitikk, som
+jeg har sett enkelte i den offentlige debatten har tatt til orde
+for. Ja, jeg har til og med sett at noen har sagt at nå skal alle
+bevilgninger fra staten til grønne prosjekter, til miljøprosjekter,
+fram i dagens lys. Nei, omkamp om politisk fattede beslutninger
+er ikke en del av granskingskommisjonens arbeid. At enkelte partier
+vil ha en annen bistandspolitikk, eller kanskje ingen bistandspolitikk
+i det hele tatt, er greit. Det er en politisk uenighet. Den kan
+vi føre i denne salen i vanlige politiske debatter, men det har
+ingenting med en kontrollsak eller en granskingskommisjon å gjøre. </A>
+            <A Type="Minnrykk">Vi har kommet langt i arbeidet. Dette er nå
+inne i et godt spor. Jeg minner om at med dagens vedtak vil Stortinget
+be presidentskapet om å jobbe videre med saken og sammen med de
+parlamentariske ledere legge fram endelig forslag for Stortinget
+om oppnevning av en granskingskommisjon, med mandat, navn og sammensetning.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1006326">
+            <A>
+              <Navn personID="LAHA">
+Lars Haltbrekken (SV) [10:15:38]:</Navn> Det er et veldig alvorlig
+bakteppe for den saken vi diskuterer i dag. Det er de siste månedene
+avdekket nær kontakt mellom serieovergriperen Epstein og norske
+myndighetspersoner. Det har gjennom offentliggjørelsen av Epstein-filene
+kommet alvorlige opplysninger som har ført til at en tidligere statsminister
+etterforskes for korrupsjon, og at sentrale personer i utenrikstjenesten
+forfølges på samme måte. Vi har også sett at tidligere utenriksministre
+i norske regjeringer har pleid nær kontakt med serieovergriperen
+fra USA. </A>
+            <A Type="Minnrykk">Med rette har saken skapt en dyp mistillit
+til det politiske systemet. Det er vårt ansvar å gjøre alt som står
+i vår makt for å gjenopprette den tilliten og sørge for at det politiske systemet
+er fortjent å ha den tilliten vi er avhengig av. Derfor er det bra
+og helt avgjørende at vi i dag har et enstemmig storting som ber
+om at det settes ned en uavhengig granskingskommisjon. Det er også
+riktig at det er Stortinget som nedsetter denne kommisjonen, ikke
+regjeringen. </A>
+            <A Type="Minnrykk">I arbeidet må kommisjonen stå fritt i den jobben
+de skal gjøre. Her vil jeg vise til en av merknadene i innstillingen: </A>
+            <Sitat Type="Minnrykk">
+              <A>«Komiteen mener at mandatet bør utformes
+med nok fleksibilitet til at det i rimelig utstrekning gir kommisjonen
+mulighet til å forfølge relevante spor og problemstillinger som
+kommer frem underveis i granskingsarbeidet. Samtidig ser komiteen
+at det kan fremkomme nye opplysninger og problemstillinger som likevel
+kan nødvendiggjøre utvidelser eller tilføyelser til mandatet. Komiteen
+viser blant annet til at det på nåværende tidspunkt er uvisst om
+det amerikanske justisdepartementet vil offentliggjøre ytterligere
+informasjon i saken, og når dette i så fall vil skje. I tillegg
+kan det fremkomme ny og vesentlig informasjon gjennom kontroll-
+og konstitusjonskomiteens behandling av saken og pågående politietterforskninger,
+og gjennom undersøkelser og etterforskninger i andre land. Etter
+komiteens syn tilsier dette at det i oppnevningen av granskingskommisjonen skal
+tas forbehold om utvidelser av eller tilføyelser i mandatet, og
+at det i så fall vil bli gitt nødvendige fristutsettelser for arbeidet.»</A>
+            </Sitat>
+            <A Type="Minnrykk">Det er i dag også fremmet et løst forslag til
+saken fra partiet Rødt. Vi deler intensjonen i forslaget om at det
+må komme en delrapport fra granskingskommisjonen før endelig rapport er
+ferdig, men vi vil allikevel stemme imot det løse forslaget som
+er fremmet. Det kan være at det at det skal komme en rapport i løpet
+av 2026, er for tidlig for granskingskommisjonen, og vi mener også
+at forslaget bryter litt med den friheten vi mener at granskingskommisjonen
+bør ha i sitt arbeid. Det å få delrapporter underveis mener vi allikevel
+er viktig, men det må være kommisjonen selv som vurderer når dette
+er riktig å gjøre.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1006328">
+            <A>
+              <Navn personID="OBT">
+Ove Trellevik (H) [10:20:46]:</Navn> Forventningane til kommisjonen
+er høge. Mandatet er knytt til å avdekkja eventuelle norske forbindelsar
+til Jeffrey Epstein-nettverket og konsekvensane av det. Det er knytt
+store forventningar til at kommisjonen granskar Utanriksdepartementet
+og andre norske myndigheiter sin eventuelle kontakt med Epstein.
+Det er forventa at kommisjonen gjennomgår dokumenta for å identifisera
+norske personar, organisasjonar eller interesser som kan ha hatt
+kontakt eller har motteke støtte eller annan påverknad frå Epstein-nettverket.
+Det skal verta undersøkt om organisasjonar med tilknyting til miljøet
+har motteke økonomisk støtte frå UD, etter avsløring om at 54 organisasjonar
+fekk støtte utan ordinær utlysing. Spørsmålet er: Er det ein samanheng mellom
+dette og eventuelt Epstein-nettverket.</A>
+            <A Type="Minnrykk">Det er brei politisk einigheit om at granskinga
+må vera grundig og snu alle steinar for å gjenoppretta tilliten
+til norske institusjonar og norsk utanriksteneste. Granskinga kjem
+til å verta tidkrevjande ettersom ein skal undersøkja forhold over ein
+ganske stor tidsperiode. Det er òg viktig, trur eg, at dette ikkje
+dreg altfor langt ut i tid, då det kan mista både sin aktualitet
+og sin verdi for samfunnet. Det er viktige – som det vart påpeikt
+av fleire her, og som det for så vidt òg står i innstillinga – at
+det må vera ein form for fleksibilitet i det endelege mandatet som
+presidentskapet legg fram for Stortinget, til å følgja nye spor
+og nye funn ein oppdagar undervegs som kan vera viktig å forfølgja
+i saka.</A>
+            <A Type="Minnrykk">Det er òg påpeikt at Stortinget har det konstitusjonelle ansvaret,
+og me er ikkje nokon domstol. Det trur eg det er viktig at ein i
+samfunnet og ute elles tek med seg – domstolen, politiet og rettsapparatet
+gjer sine vurderingar, og Stortinget har eit heilt anna ansvar i
+dette. </A>
+            <A Type="Minnrykk">Det skal verta spennande når me no får saka
+til behandling i presidentskapet. Eg er peika på som saksordførar
+i presidentskapet til å vera med og leggja fram det endelege mandatet
+for Stortinget og føreslå aktuelle kandidatar til granskingskommisjonen,
+før det vert endeleg vedteke her i denne sal. </A>
+            <A Type="Minnrykk">Dette er eit viktig arbeid som er veldig viktig
+for både Noreg, norsk utanriksteneste og innbyggjarane i Noreg.
+Til sjuande og sist er det eit viktig prinsipp for Noreg at Noreg har
+truverd i utanrikstenesta.</A>
+            <A Type="Minnrykk">Forslaget til Raudt gjeld delrapportar, og
+delrapportar kan ha ein funksjon. Men det kan òg utfordra det konstitusjonelle
+ansvaret til sjuande og sist dersom ein delrapport peikar på noko
+som kan verta eit konstitusjonelt ansvar – å peike på noko. Det
+kan vera veldig uheldig for saka før ho er endeleg ferdig. Eg tenkjer
+at granskingskommisjonen må få frie tyglar til eventuelt å melda
+tilbake til Stortinget dersom dei føler behov for det i si sak,
+utan at me nødvendigvis pålegg dei å koma tilbake til Stortinget
+– det kan få negative konsekvensar for det endelege standpunktet
+som Stortinget skal ta i saka. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1006330">
+            <A>
+              <Navn personID="GP">
+Geir Pollestad (Sp) [10:24:41]:</Navn> Det er mest ikkje til å tru.
+Tidlegare statsminister Thorbjørn Jagland er sikta for grov korrupsjon,
+tidlegare utanriksminister Børge Brende måtte trekkja seg som leiar
+av World Economic Forum, og hemmelege og graderte dokument dukka
+opp i ei bu hos diplomatparet Mona Juul og Terje Rød-Larsen. Me
+har fått kjennskap til at norske utanrikspolitikarar har sete som
+privatpersonar i ei sveitsisk stifting for å passa på bruken av norske
+skattepengar – eller har dei sete der for å passa på at straumen
+av norske skattepengar inn i stiftinga ikkje stoppa opp? </A>
+            <A Type="Minnrykk">Avsløringane etter Epstein-filene er ikkje
+til å tru, og difor må me handla. Me må finne ut kva som har skjedd,
+og me må finne ut korleis me kan hindra at det skjer igjen. Me må
+få klargjort faktiske hendingar, men det er like viktig for Senterpartiet
+å finna ut om det har vore og er ein kultur som gjer at sånne ting
+kan skje. </A>
+            <A Type="Minnrykk">Senterpartiet er glad for at ein samla kontroll-
+og konstitusjonskomité har lagt fram ei innstilling om granskinga
+som både er svært vid og som opnar for å gå langt tilbake i tid. </A>
+            <A Type="Minnrykk">Senterpartiet meiner at eit kjernespørsmål
+i dette er: Er det som har kome i kjølvatnet av Epstein-filene,
+det einaste uakseptable som finst i forvaltninga og utanrikstenesta? Sjølvsagt
+er det ingen grunn til å tru det. Difor er me glade for at kommisjonen
+òg får moglegheit til å sjå på forhold som ligg utanfor det som
+er direkte knytt til Epstein-filene. </A>
+            <A Type="Minnrykk">Senterpartiet er oppteke av å sjå nærmare på
+pengebruken til å tenkjetankar og organisasjonar innanfor bistand.
+Er delar av vår bistandspolitikk i realiteten internasjonale sysselsetjingstiltak
+for godt betalte menn i dress? </A>
+            <A Type="Minnrykk">Senterpartiet er oppteke av å sjå nærmare på
+prosessen som leidde fram til at Noreg fekk plass i FNs sikkerheitsråd. Senterpartiet
+er oppteke av å sjå nærmare på prosessen som leidde fram til at
+Thorbjørn Jagland fekk rolla som generalsekretær i Europarådet. </A>
+            <A Type="Minnrykk">Det er òg andre saker den seinare tida som
+me må sjå på med nye auge i lys av Epstein-sakene. Eit veldig tydeleg
+eksempel er relasjonen mellom det iranske regimet og Solberg-regjeringa
+i perioden 2016–2018. Me veit at ein av Solberg-regjeringas statsrådar
+frå Framstegspartiet hadde svært tett kontakt med Iran i denne perioden:
+deltok i feiring av den islamske revolusjonen i Irans ambassade,
+arbeidde med å starta ei norsk-iransk veneforeining og var på offisiell
+reise til Iran i 2016. Òg ein statssekretær og seinare olje- og
+energiminister var i Iran på offisielt besøk i denne tida. Samtidig
+vart det arbeidd med å inngå ein skatteavtale mellom Noreg og Iran. </A>
+            <A Type="Minnrykk">Sett i ettertid, og med den utvida forståinga
+av kva som faktisk er mogleg, meiner eg at forholdet mellom Solberg-regjeringa
+og det iranske regimet òg er eit forhold som granskingskommisjonen
+bør sjå på, og som ligg innanfor mandatet, sånn som det no er. </A>
+            <A Type="Minnrykk">Eg høyrte Hans Andreas Limi frå FrP på radioen
+i dag. Han unnskylda seg med at det i denne perioden òg hadde vore andre
+land som hadde hatt ein tett relasjon til det iranske regimet. Det
+er Senterpartiet absolutt ikkje ueinig i, men det er få eksempel
+frå andre land på at det iranske regimet har flytta inn i ei statsrådsleilegheit
+– og kva gjorde statsministeren då dette vart kjent? Vart det teke
+med det alvoret som saka tilsa? Me meiner at ettertida gjer at me
+må sjå på dette med nye auge. </A>
+            <A Type="Minnrykk">Til sjuande og sist er spørsmålet som må reisast
+i absolutt alle desse sakene, om enkeltpersonar har sete sine eigne
+interesser framfor Noreg sine interesser, og om det har vore nok vilje
+til å oppdaga og avslutta ein sånn praksis. </A>
+            <A Type="Minnrykk">Avsløringane me har sett, svekkjer tilliten
+til politikken, men òg tilliten til kven me som land er. Det er
+ein stor jobb som ligg framfor granskingskommisjonen. For Senterpartiet er
+det svært viktig at me får ein uavhengig og dyktig kommisjon. </A>
+            <A Type="Minnrykk">Eg vil takka dei andre medlemene i komiteen
+for samarbeidet med innstillinga. Me opplever at dei innspela som
+Senterpartiet hadde, er godt varetekne, og eg er veldig glad for
+at det er ein samla komité som står bak dette. </A>
+            <A Type="Minnrykk">Kommisjonen må ikkje verta ei kvilepute. Difor
+er det viktig at kontroll- og konstitusjonskomiteen fortset arbeidet, og
+at me raskt får svar frå utanriksministrar som har sete dei seinare
+åra. Me er difor innstilte på at sjølv om granskinga raskt kjem
+i gang, må samtidig kontrollsaka i kontrollkomiteen gå vidare. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1006332">
+            <A>
+              <Navn personID="HEGNYH">
+Hege Bae Nyholt (R) [10:29:37]:</Navn> Jeg husker håndtrykkene på
+plena, hvordan Norge tok eierskap til freden i Midtøsten, og historien
+om superparet som hadde jobbet i kulissene for å sikre Oslo-avtalen.
+Jeg har i årene etter håndtrykket foran Det hvite hus både bodd
+og reist i Palestina. Ofte unngikk jeg å nevne at jeg kom fra Norge.
+Oslo-avtalen sto ikke høyt i kurs; den hadde på ingen måte ført
+til en bedre hverdag for palestinerne, snarere tvert imot. </A>
+            <A Type="Minnrykk">Avsløringene fra det amerikanske justisdepartementet
+viser at norske diplomater og politisk ledende personer var vevd inn
+i seksualforbryterens nett, men de viste også noe annet viktig:
+en elite som regnet seg selv som usårbar, og som kunne operere etter
+egne lover og regler. </A>
+            <A Type="Minnrykk">Vi trenger å få svar på en rekke spørsmål.
+Vi trenger å få svar på relasjoner mellom Jeffrey Epstein og hans
+nettverk og nåværende og tidligere norske politikere, embetsmenn, statsansatte
+og andre med tilknytning til norske myndigheter, f.eks. mottakere
+av offentlige tilskudd. </A>
+            <A Type="Minnrykk">Vi trenger å få svar på hvordan varslene knyttet
+til IPI, International Peace Institute, og menneskehandel ble håndtert og
+vurdert. Vi trenger å få svar på spørsmål om Norges kampanjer for
+topposisjoner i internasjonale organisasjoner, bl.a. da man fikk
+Jagland valgt til generalsekretær i Europarådet og Mona Juul fikk
+en plass i Sikkerhetsrådet. </A>
+            <A Type="Minnrykk">Vi trenger også få svar på spørsmål om tildeling
+og bruk av bistandsmidler og andre offentlige tilskudd til internasjonale
+organisasjoner. Har norske bistandsmidler gått til høye rekesmørbrød
+framfor mat og vann til folk i nød? Vi trenger også å få svar på
+hvorfor ingen har satt ned foten overfor Rød-Larsen, Juul og resten
+av utenriksadelen. </A>
+            <A Type="Minnrykk">Derfor er det bra at en samlet komité vil sette
+ned en granskingskommisjon som skal få gode rammer og betingelser
+for å undersøke de sporene de finner relevante. Granskingskommisjonen
+må, for å kunne gjøre en grundig jobb, få uinnskrenket tilgang på
+alle relevante opplysninger, uten hinder av lov eller avtalebestemt
+taushetsplikt. Derfor er Rødt glad for at det i forslaget til mandat
+er tydeliggjort at kommisjonen har denne tilgangen, også overfor
+regjeringen og forvaltningen. </A>
+            <A Type="Minnrykk">Kommisjonens arbeid vil trolig ta tid. Derfor
+fremmer Rødt et forslag om at kommisjonen må komme med en løypemelding
+i form av en delrapport i løpet av 2026. </A>
+            <A Type="Minnrykk">Kontroll- og konstitusjonskomiteen har samtidig
+med arbeidet med mandat for en granskingskommisjon åpnet kontrollsak.
+Rødt har vært tydelig på at vi ønsker både en granskingskommisjon
+og et hurtigløp i form av en kontrollsak og høring. Svarene vi har
+fått av regjeringen så langt, viser at de problemene vi diskuterer
+her, går langt tilbake i tid, og at også tidligere politisk ledelse
+i UD må svare for seg. Blant annet må Ine Eriksen Søreide, Børge
+Brende og Jonas Gahr Støre kalles inn på teppet, og Rødt vil at
+det skal skje så snart som praktisk mulig. </A>
+            <A Type="Minnrykk">Det er nødvendig at både Stortinget og det
+norske folk får svar på spørsmål som har skapt tvil, og som i verste
+fall kan føre til lavere tillit i samfunnet. Men like viktig som
+å få svar på spørsmål er det å sikre at tilsvarende ikke kan få
+utspille seg igjen, med andre aktører og i andre fora. Derfor er
+en viktig del av mandatet til granskingskommisjonen å komme med anbefalinger
+og forslag til tiltak som særlig bør ta sikte på å forebygge mot
+identifisert risiko samt styrke åpenhet, kontroll, integritet og
+tillit til utenrikstjenesten og forvaltningen for øvrig. Utallige
+ganger er det i denne salen blitt sagt at man må gjøre seg fortjent
+til tillit. Epstein-saken har vist at vi har en betydelig jobb å
+gjøre. </A>
+            <A Type="Minnrykk">Med det tar jeg opp Rødts forslag.</A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [10:33:24]:</Navn> Representanten
+Hege Bae Nyholt har tatt opp det forslaget hun refererte til.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1006334">
+            <A>
+              <Navn personID="INGLIL">
+Ingrid Liland (MDG) [10:34:00]:</Navn> Vi har lenge vært stolt av
+tilliten i Norge, men Epstein-avsløringene har nok gitt oss den
+grufulle erkjennelsen at den tilliten kanskje har vært litt naiv.
+Ikke engang norsk maktelite er immun mot skjulte forbindelser og
+korrupsjon, og for politikere som har kunnet smykke seg med høy
+tillit fra folket, har det vært rystende. Tidligere statsministre
+og toppdiplomater trekkes inn i en sånn sak. Da er det ikke lenger
+en skandale fra utlandet; det er en nasjonal tillitskrise.</A>
+            <A Type="Minnrykk">Tillitskrisen har for en del vært på frammarsj
+i mange år, og det er dessverre folk som ikke er overrasket, som
+jeg har snakket med. De sier at skal de få tilliten tilbake, må
+det ikke bare ryddes opp, men vi må starte en helt annen åpenhetskultur,
+fra dem med makt til folk flest. Vi kan ikke sitte her i salen og
+kreve tillit fra folk uten minst å vise like stor tillit tilbake.</A>
+            <A Type="Minnrykk">Det var ikke åpenbart at Epstein-skandalen
+skulle bli håndtert på den måten som vi skal se i dag. Flere partier
+var avvisende, og mange var nølende. Da MDG ba regjeringen om å
+sette ned en uavhengig gransking, som representanten Myrli pekte
+på, var det nettopp fordi flertallet i Stortinget slepte beina etter
+seg for å komme i gang. Det virket nesten som om noen var irritert
+over at folk ikke bare kunne gi oss tillit – de fleste politikere
+er jo ålreite, eller hva? Jeg er glad for at alle partiene nå omsider
+har sluttet seg til det MDG var først ute med å foreslå: en ekstern
+og uavhengig granskingskommisjon.</A>
+            <A Type="Minnrykk">Det er nok fortsatt noen uenigheter om de demokratiske ambisjonene
+i denne salen, og det har vært en spesiell øvelse å høre Fremskrittspartiet
+gjøre seg høy og mørk i denne saken. Fremskrittspartiet er det eneste
+partiet som stemte mot et forbud mot hemmelige donasjoner til partiene
+i fjor. De har stemt imot åpenhetsloven og imot lobbyregister. De
+har til og med lokalpolitikere som har sagt at de heller vil sitte
+i fengsel enn å være åpen om hvem som påvirker dem.</A>
+            <A Type="Minnrykk">I dag snakker vi ikke bare på vegne av en offentlighet som
+ønsket svar. Vi snakker på vegne av ofre for overgrep, av barn som
+har blitt utnyttet og sviktet, av folk som forventer at rettsstaten
+også gjelder for folk med makt og penger. Det som sjokkerer folk
+mest, er ikke hva dokumentene avdekker, men hvor forutsigbart det
+virker. Det er som fra en tv-serie: eliten som beskytter eliten
+bak lukkede dører, og sårbare mennesker som behandles som rekvisitter
+i elitenes fantasiutløp.</A>
+            <A Type="Minnrykk">Når åpenheten svikter, fylles tomrommet med
+konspirasjonsteorier. Folkestyret tåler ikke at vi lar spørsmål
+blir stående ubesvart. Denne granskingskommisjonen er en mulighet til
+å vise at maktpersoner som har misbrukt sin rolle, blir holdt ansvarlig,
+og folk som har eller i framtiden inntar maktposisjoner, blir påminnet
+om hvem sine interesser de skal jobbe for, nemlig folkets. Det skal
+ikke være noen tvil om at vi slår ned på – som det står i innstillingen
+– misbruk av høytstående offentlige stillinger og verv, utveksling
+av informasjon, tjenester og kontakter i lukkede nettverk med antidemokratiske eller
+kriminelle elementer, myndighetspersoners eksponering for påvirkningsfare
+og mulige skadevirkninger for norske interesser, kritikkverdig forvaltning
+av offentlige midler eller manglende kontroll og ukultur i forvaltningen.</A>
+            <A Type="Minnrykk">Det må være klinkende klart: Denne kommisjonens
+arbeid skal på ingen måte snevres inn til norsk utenrikstjeneste eller
+norsk bistand. I en tid der de globale krisene velter inn over verden
+og bistandsbransjen varsler alarm fordi Trump har stanset matleveranser
+til 14 sultrammede land, kan ikke denne skandalen bli en unnskyldning
+– fordi verdens mektigste har misbrukt sin makt – til å slutte å
+hjelpe verdens mest sårbare. Tvert imot må vi vise at et åpent og
+liberalt folkestyre er det som skal til for fortsatt å kjempe mot
+krig, fattigdom og korrupsjon. Det er derfor en seier at kontroll-
+og konstitusjonskomiteens innstilling er så tydelig på at alle steiner
+skal snus. Ingen navn, ingen institusjoner og ingen posisjoner bør skjermes.</A>
+            <A Type="Minnrykk">Epstein-skandalen bør være starten på en større
+åpenhetsreform. Derfor har MDG de siste ukene foreslått bl.a. et politisk
+uavhengig antikorrupsjonsorgan med reelle muskler, en ny modell
+for utnevning av medlemmer til Nobelkomiteen, strengere karanteneregler
+for toppolitikere, styrking av Økokrim, lobbyregister på Stortinget
+og i kommunestyrene, strengere regulering av donasjoner til partier
+og valgpåvirkning. Vi er stolt av å være et tillitssamfunn. Det
+eneste som kan bygge tillit, er mer åpenhet, ikke mindre.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1006336">
+            <A>
+              <Navn personID="JONSAY">
+Jonas Andersen Sayed (KrF) [10:39:15]:</Navn> Tillit er ikke noe
+du erklærer. Det er noe du må fortjene hver eneste dag. Norge er
+et tillitssamfunn. Det er ikke en selvfølge eller noe vi kan vedta
+i denne salen. Det er noe vi har arvet, og som vi har et helt spesielt
+ansvar for å forvalte. </A>
+            <A Type="Minnrykk">Felles for oss som er stortingsrepresentanter,
+for statsministeren og for diplomatene som representerer Norge ute
+i verden, er at vi forvalter en tillit på vegne av folket. Det er
+et stort ansvar. Vi skal bedømmes strengere enn folk flest – selvfølgelig
+skal vi det. Vi har makt og privilegier til å ta avgjørelser som
+påvirker mange. Derfor gjør denne saken meg så sint og frustrert.
+Hvordan kunne sentrale norske politikere og diplomater pleie kontakt
+med en mann som er ansvarlig for grusomme overgrep, menneskehandel
+og seksuell utnyttelse av unger? </A>
+            <A Type="Minnrykk">Komiteen er samlet om at de opplysningene som
+har kommet fram, reiser svært alvorlige spørsmål om misbruk av høytstående
+posisjoner, om norske myndighetspersoners deltakelse i lukkede nettverk
+med antidemokratiske og kriminelle elementer, og om manglende kontroll
+og ukultur i forvaltningen, spesielt i utenrikstjenesten. Derfor
+er KrFs linje tydelig: Alt må på bordet. Vi var tidlig ute og krevde
+en uavhengig granskingskommisjon. Arbeiderpartiet var først imot,
+men ble for etter å ha tenkt seg om. Det er jeg glad for. Jeg vil
+takke alle partiene i komiteen for et konstruktivt og tillitsfullt
+samarbeid i arbeidet med denne innstillingen. </A>
+            <A Type="Minnrykk">Denne saken skal heller ikke bli en konkurranse
+om hvem som tar den mest på alvor, men vi skal gjøre vårt for at vi
+og alle der hjemme kan være trygge på at det vi har gjort, er alt
+vi kan for å få fakta på bordet, klargjøre ansvar og lære av det
+som har gått galt, sånn at vi unngår nye saker som denne. Det gjelder
+ikke minst de hundrevis av ansatte i utenrikstjenesten som går på
+jobb hver dag og gjør sitt beste for å fremme norske interesser.
+De fortjener ikke den mistenkeliggjøringen. </A>
+            <A Type="Minnrykk">Siden 1880-tallet har Stortinget opprettet
+åtte granskingskommisjoner. En stortingsoppnevnt granskingskommisjon
+er et helt ekstraordinært virkemiddel som bare bør benyttes helt
+unntaksvis. At et samlet storting i dag står samlet bak oppnevnelsen
+av en sånn kommisjon, er et veldig sterkt signal. Dette granskingsarbeidet
+vil ta tid. Det er viktig at vi også skal vedta en særlov som gir
+kommisjonen uinnskrenket tilgang på alle relevante opplysninger
+uten å bli hindret av taushetsplikt, samtidig som personer som blir
+berørt av granskingen, får prosessuelle rettssikkerhetsgarantier.</A>
+            <A Type="Minnrykk">Om kommisjonens sammensetning er det avgjørende
+at medlemmene har den nødvendige faglige kompetansen og integriteten.
+For KrF har det også vært viktig at medlemmene ikke bør ha nåværende
+eller tidligere partipolitisk tilknytning, ei heller tilknytning
+til den norske utenrikstjenesten eller andre institusjoner og virksomheter
+som kan bli direkte berørt av granskingen. </A>
+            <A Type="Minnrykk">Det er opplagt at tildeling og bruk av bistandsmidler
+skal være en del av mandatet. Det er KrF helt enig i. For oss er
+et ambisiøst bistandsbudsjett et mål, men størrelsen på budsjettet
+er ikke det samme som kvaliteten på bistanden. Bistanden må selvfølgelig
+ikke bare være godt ment. Den må prioritere de effektive tiltakene
+og prosjektene og være godt gjennomført. Når bistand blir gjort
+rett, er det ingen poster på det norske statsbudsjettet som gir
+like mye velferd for hver krone. Norsk bistand har gjennom vaksineprogrammer
+reddet millioner av liv og gitt skoleplass til millioner av unger
+som ellers ikke hadde hatt det. </A>
+            <A Type="Minnrykk">Denne tillitsskaden har skjedd. Det må vi bare
+forholde oss til, og så må vi gjøre det vi kan for at det skal være
+grunnlag for å gjenoppbygge. Det mener jeg vi tar et skritt mot
+i dag.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1006338">
+            <A>
+              <Navn personID="JGS">
+Statsminister Jonas Gahr Støre [10:43:22]:</Navn> Jeg vil takke
+kontroll- og konstitusjonskomiteen for innstillingen og representantene
+for denne debatten. Det er en viktig debatt. Et samstemt storting
+reagerer sterkt på det som har framkommet i Epstein-dokumentene,
+og det gjør også jeg. La meg gjenta medfølelse til ofrene for overgrepene
+Epstein begikk gjennom mange år. Saken viser at det er mulig å kjøpe
+og misbruke innflytelse bare man er rik nok. Den viser samtidig kraften
+av at kvinner som er ofre, finner sammen og står fram, slik de har
+gjort i USA.</A>
+            <A Type="Minnrykk">Det er påvist koblinger til nordmenn i betrodde
+og sentrale posisjoner i Epstein-filene. Det er reist begrunnede
+spørsmål om koblingene er i strid med loven og mange sider av samfunnets
+etiske regelverk. Det er avgjørende at disse forholdene og spørsmålene
+de utløser, blir opplyst, og at fakta kommer på bordet. Jeg er enig
+med kontroll- og konstitusjonskomiteen om at saken reiser alvorlige
+spørsmål, og jeg er derfor enig i at det er avgjørende at disse
+spørsmålene blir belyst og besvart, slik at tillit kan gjenopprettes
+så snart som mulig. </A>
+            <A Type="Minnrykk">La meg kortfattet peke på at dette arbeidet
+nå blir fulgt opp langs flere spor, også av regjeringen. For det
+første: Når påtalemyndigheten ved Økokrim har åpnet etterforskning mot
+tre personer for grov korrupsjon og medvirkning til grov korrupsjon,
+har jeg forsikret meg om at Utenriksdepartementet bistår Økokrim
+og legger til rette for deres etterforskning.</A>
+            <A Type="Minnrykk">For det andre: I dag behandles kontroll- og
+konstitusjonskomiteens innstilling om å oppnevne en ekstern granskingskommisjon.
+Regjeringen mener det er viktig med en uavhengig gjennomgang, og
+at det derfor er riktig at det er Stortinget som oppnevner en granskingskommisjon,
+slik også representanten Myrli understreket i sitt innlegg. Regjeringen
+vil legge godt til rette for granskingskommisjonens undersøkelser.
+Når kommisjonen avlegger sin rapport, vil regjeringen gå grundig gjennom
+den.</A>
+            <A Type="Minnrykk">For det tredje: Utenriksdepartementet har en
+personalsak som gjelder en av deres medarbeidere. UD gjennomgår
+også tilskuddene som er gitt til og kontakten med International Peace
+Institute. I tillegg har kontroll- og konstitusjonskomiteen stilt
+mange spørsmål til regjeringen, inkludert to til meg. Jeg mener
+jeg har gitt grundige svar på disse spørsmålene, og vi vil selvfølgelig
+svare på alle spørsmål komiteen kommer med, og fra Stortinget og
+granskingskommisjonen.</A>
+            <A Type="Minnrykk">Jeg mener det er viktig å si, fordi mange er
+på jobb for norske interesser hver dag i utenrikstjenesten, at de
+gjør en viktig og god jobb for Norge, og mer enn det: De bidrar
+til at Norge kan stå opp for innsatsen for en mer rettferdig og
+fredeligere verden. Gjennom de siste tiårene har Norge engasjert seg
+i freds- og utviklingssamarbeid. Dette er ofte engasjement og ulike
+initiativ med sikte på å bidra til å bilegge konflikter, gjenoppbygging
+etter konflikt og medvirkning til rettsoppgjør. Ofte er dette arbeid
+på områder hvor det ikke er oppgåtte stier, hvor det ikke er gode
+rutiner, fordi det nettopp handler om sammenbrudd i forhold mellom
+mennesker. </A>
+            <A Type="Minnrykk">Selvsagt skal alle forhold ved dette engasjementet
+være åpent og tilgjengelig for diskusjon, kontroll og kritisk søkelys,
+men jeg vil si at vi ikke må komme dit – og særlig ikke i den situasjonen
+vi opplever i dag, der folkeretten brytes, og terskelen for å bruke
+militærmakt synes å bli senket av mektige stater – at denne typen
+arbeid blir gjenstand for mistenkeliggjøring, lettvint politisk
+retorikk og dratt ned på grunn av det enkeltpersoner har gjort i
+denne saken. Vi må rett og slett skille mellom dette.</A>
+            <A Type="Minnrykk">Jeg vil avslutte med noen ord om tillit. Tillit
+til myndighetspersoner er avgjørende i vårt demokrati. Det grunnleggende
+er at hver person med ansvar og tildelt myndighet er seg bevisst
+dette ansvaret og lever opp til de rettslige og etiske standardene
+vi har i vårt samfunn. Tillit ivaretas også av lover, retningslinjer,
+rutiner og kontrollmekanismer som oppdateres regelmessig. </A>
+            <A Type="Minnrykk">Fra regjeringens side sørger vi for god opplæring
+og oppfølging av alle dem som er i vår tjeneste. De siste årene
+har regjeringen også gjennomgått og oppdatert opplæringen den politiske
+ledelsen i departementene og ved Statsministerens kontor får. Det
+er gjort for å gi likere og bedre opplæring til alle politikere
+i regjeringsapparatet. Regjeringen får regelmessige oppdateringer,
+og vi diskuterer aktuelt regelverk, senest med en grundig gjennomgang
+i forrige uke. Samtidig er og må vi alltid være åpne for forbedringer
+og for å lære av feil. Derfor er det viktig at sakene som kommer
+opp gjennom offentliggjøring av Epstein-filene, nå gjennomgås grundig.
+Dette er viktig for folks tillit til demokratiet.</A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [10:47:51]:</Navn> De talerne
+som heretter får ordet, har en taletid på inntil 3 minutter.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1006340">
+            <A>
+              <Navn personID="PAMB">
+Pål Morten Borgli (FrP) [10:48:02]:</Navn> Stortinget behandler
+i dag en sak som i utgangspunktet burde vært helt utenkelig. Likevel
+står vi her fordi alvorlige opplysninger har kommet fram i en offentliggjøring
+av de såkalte Epstein-dokumentene i USA. Materialet som er offentliggjort,
+inneholder opplysninger som peker mot personer med tilknytning til
+regjering og forvaltning, og reiser spørsmål om forbindelser, nettverk
+og relasjoner som aldri burde ha eksistert i nærheten av norske
+myndighetsmiljø.</A>
+            <A Type="Minnrykk">For Fremskrittspartiet er det helt avgjørende
+at denne saken blir grundig, uavhengig og kompromissløst undersøkt. Det
+som særlig bekymrer, er at problemstillingene ikke bare berører
+enkeltpersoner. De berører faktisk systemet, kulturer og nettverk
+som har utviklet seg over tid.</A>
+            <A Type="Minnrykk">Komiteens innstilling peker bl.a. på spørsmål
+knyttet til mulige bindinger mellom norske myndighetspersoner og
+internasjonale nettverk, sårbarheter for påvirkning eller press, håndtering
+av informasjon og kontakter i utenrikstjenesten og ikke minst forvaltningen
+av store offentlige midler, inkludert bistandsmidler. Norge forvalter
+hvert år titalls milliarder i bistand og tilskudd til internasjonale
+organisasjoner og prosjekter. Når det samtidig reises spørsmål om
+nettverk, forbindelser og manglende kontrollmekanismer, er det helt
+legitimt å stille spørsmålet: Har systemet vært godt nok rigget
+for å forhindre maktmisbruk, kameraderi og maktkonsentrasjon i lukkede
+miljøer? </A>
+            <A Type="Minnrykk">Dette handler om hvordan enorme bistandsmidler
+forvaltes. Når milliarder av kroner går gjennom komplekse nettverk,
+organisasjoner og prosjekter, må vi tørre å stille spørsmålet: Har
+vi skapt et system som i noen tilfeller belønner bistandsprofitører
+mer enn bistandsresultatet i seg selv? </A>
+            <A Type="Minnrykk">Derfor støtter Fremskrittspartiet også fullt
+ut forslaget om å oppnevne en uavhengig granskingskommisjon. Den kommisjonen
+må ha reell uavhengighet, full tilgang på informasjon og tilstrekkelige
+fullmakter til å undersøke alle relevante forhold. Det som også
+er viktig, er at sannheten må komme helt opp og fram, og det må
+foreslås tiltak.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1006342">
+            <A>
+              <Navn personID="AICS">
+Aina Stenersen (FrP) [10:51:03]:</Navn> I slutten av 2025 offentliggjorde
+det amerikanske justisdepartementet en mengde dokumenter og informasjon
+vedrørende overgrepsdømte og tiltalt for menneskehandel av mindreårige,
+Jeffrey Epstein. Epstein bygde et omfattende nettverk av mektige venner
+samtidig som han i årevis rekrutterte og misbrukte unge og mindreårige
+jenter. Han hadde bl.a. en privat øy og flere eiendommer for å utsette
+unge kvinner og jenter for overgrep. </A>
+            <A Type="Minnrykk">I det offentliggjorte materialet til Epstein
+har det framkommet opplysninger om personer med nåværende eller
+tidligere tilknytning til den norske regjeringen og den norske forvaltningen
+som gir grunnlag for nærmere undersøkelser av flere potensielt svært
+alvorlige forhold, og opplysninger om andre aktørers intensjoner
+og mål overfor norske institusjoner og myndigheter.</A>
+            <A Type="Minnrykk">Opplysninger som har framkommet, reiser svært
+alvorlige spørsmål om bl.a. misbruk av høytstående offentlige stillinger
+og verv, myndighetspersoners utveksling av informasjon, tjenester
+og kontakter i lukkede nettverk med antidemokratiske eller kriminelle
+elementer, myndighetspersoners eksponering for påvirkningsfare og
+mulig skadevirkning for norske interesser, kritikkverdig forvaltning
+av offentlige midler samt hvorvidt dette har blitt muliggjort gjennom
+manglende kontroll og ukultur i forvaltningen vår, særlig i utenrikstjenesten.
+Dette er svært alvorlig. </A>
+            <A Type="Minnrykk">Kommisjonen vi setter ned, er godt utstyrt
+med virkemidler, og den skal ha gode forutsetninger for å finne
+sannheten. Det kan se ut som et persongalleri har vært i sving mellom
+politikk, diplomati, bistandsorganisasjoner, internasjonale stiftelser
+og internasjonale nettverksbyggere. Derfor er det viktig at granskingen
+strekker seg tilbake til prosessen rundt Oslo-avtalen på 1990-tallet. </A>
+            <A Type="Minnrykk">Henrik Thune, tidligere toppdiplomat og tidligere
+statssekretær i UD og ved Statsministerens kontor, ble intervjuet
+i Dagens Næringsliv. Her trekker han fram at det mangler et system
+i Norge for at embetsverk og andre kan varsle uten at egen karriere
+får merke av det. Det synes jeg det er verdt å ta med seg. </A>
+            <A Type="Minnrykk">Det er også verdt å merke seg at vi i Fremskrittspartiet mener
+at svarene fra statsministeren til komiteen er utilstrekkelige.
+Etter omfattende avsløringer om kritikkverdige forhold i UD er det
+ikke nok å svare at Stortinget skal sette ned en granskingskommisjon,
+at Økokrim har satt i gang en etterforskning, og at det er igangsatt
+en personalsak i UD. Vi trenger enda flere tiltak.</A>
+            <A Type="Minnrykk">Det er viktig at alle stener snus i denne saken.
+Det skylder vi ofrene til Epstein, og det er viktig for å gjenreise
+tilliten til politikere, UD, byråkratiet og demokratiet som helhet.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1006344">
+            <A>
+              <Navn personID="SMY">
+Sverre Myrli (A) [10:54:24]:</Navn> Jeg vil aller først si til Sayed
+fra Kristelig Folkeparti, som sa at Arbeiderpartiet var imot å sette
+ned granskingskommisjon i utgangspunktet: Nei, det er ikke riktig.
+Når en representerer et parti som heter Kristelig Folkeparti, bør
+en prøve å forholde seg til sannheten. Det er riktig at vi var imot
+at regjeringen skulle nedsette en granskingskommisjon. Vår magefølelse
+– og med stor mage kan det bli mye følelser – var at det ble feil,
+fordi en kunne komme inn på spørsmål som direkte eller indirekte har
+med regjeringens ansvarsområde å gjøre. Derfor var det riktig at
+det var Stortinget som skulle sette ned granskingskommisjon. Arbeiderpartiet
+var imot at regjeringen skulle nedsette granskingskommisjon, men
+Sayed kan gå tilbake og se på presseklipp om hvem som var av de
+første – kanskje de aller første – til å foreslå at vi skulle nedsette
+granskingskommisjon fra Stortingets side, etter bestemmelsene i
+forretningsordenen.</A>
+            <A Type="Minnrykk">Så vil jeg si litt til det løse forslaget fra
+Rødt, som er fremmet i dag. Nei, aller først må jeg bare kommentere
+noe av det Nyholt fra Rødt sa i debatten. Det er mulig at hennes
+utgangspunkt om Oslo-avtalen er slik hun beskriver det, men jeg
+vil samtidig si at det var veldig mange som var glad for og hadde
+trua på Oslo-avtalen – eller Oslo-avtalene, for det var to avtaler,
+både i 1993 og i 1995. Det er mulig at Rødt – eller den gangen var
+det vel ikke noe Rødt, det var vel AKP (ml) – var imot Oslo-avtalen.
+Verken fred, demokrati eller menneskerettigheter var vel AKP (ml)s
+paradegrener, så det er mulig AKP (ml) var imot Osloavtalen, og
+full respekt for det, men det var også veldig mange som hadde trua
+på det. Så gikk det som det gjorde, men det ble i alle fall forsøkt.</A>
+            <A Type="Minnrykk">Så vil jeg også si, for debatten: Mona Juul
+fikk plass i Sikkerhetsrådet, sa Nyholt. Hvorfor skal vi si sånne
+ting? Norge fikk plass i Sikkerhetsrådet. Mona Juul satt der på
+Norges vegne, som ambassadør, men det er altså ingen i utenrikstjenesten
+som driver et sånt utenrikspolitisk solospill. For debattens skyld
+bør vi holde oss for gode til å bruke slike begreper.</A>
+            <A Type="Minnrykk">Vi kan selvsagt politisk være uenige om Norge
+skal spille en rolle internasjonalt. «Lille land - hva nå?», skrev
+Knut Frydenlund i 1982. Noen av oss mener at Norge skal spille en
+rolle internasjonalt, og så kan vi diskutere hvordan det skal gjøres.</A>
+            <A Type="Minnrykk">Nå går tida mi ut, men jeg vil bare si at vi
+ikke kommer til å stemme for Rødts forslag – det er et helt unødvendig
+forslag.</A>
+            <A Type="Minnrykk" Id="i1006346">
+              <Navn personID="PTA">
+Per-Willy Amundsen (FrP) [10:57:43]:</Navn> For å sikre åpenhet
+om kommisjonens arbeid også for ettertiden er det viktig at arkivloven,
+med nødvendige tilpasninger, gis anvendelse for granskingskommisjonen.
+Dette er omtalt i innstillingen. Men det må understrekes: Riktig
+arkiv skal være stortingsarkivet, ikke Nasjonalarkivet, som det
+står i innstillingen. Dette arkivet skal overleveres når arbeidet
+er avsluttet, og skal kunne tilgjengeliggjøres for fremtiden. </A>
+            <A Type="Minnrykk">Så har jeg behov for å kommentere en del av
+de innleggene som har kommet. Det gjelder særlig representanten Myrli
+fra Arbeiderpartiet, som er veldig opptatt av hvem som først ville
+ha gransking – om det var regjeringen, Stortinget eller andre. Vel,
+Fremskrittspartiet var i hvert fall først opptatt av at vi skulle
+ha en uavhengig gransking, og det er jo greit å få avklart om regjeringen
+vil igangsette tilsvarende prosesser når Stortinget først skal gjøre
+det. Det er åpenbart at det er Stortinget som er riktig adressat.
+La oss nå bli ferdig med det. </A>
+            <A Type="Minnrykk">Det er selvfølgelig også riktig at denne kommisjonen skal
+ikke opptre som noen domstol, slik representanten Myrli er inne
+på. Likevel kan det underveis i granskingen fremkomme forhold som
+i høyeste grad indikerer lovbrudd som må håndteres av politiet,
+og det må man også ha rutiner for å håndtere. </A>
+            <A Type="Minnrykk">Når det gjelder det representanten Nyholt fra
+Rødt sa, så deler ikke Fremskrittspartiet det syn at vi skal pålegge
+kommisjonen å avgi første delrapport i 2026. Det er selvfølgelig ønskelig
+at det skjer så raskt som mulig, men det må være innenfor den arbeidsmetodikken
+og de mulighetene som kommisjonen selv ser, som må legges til grunn.
+Vi kommer ikke til å støtte forslaget fra Rødt selv om vi er enig
+i intensjonen om at disse forholdene må avklares så raskt som mulig. </A>
+            <A Type="Minnrykk">Til Pollestad: Ja, det er helt ok om kommisjonen
+ønsker å se nærmere på Per Sandbergs reise til Iran eller andre
+forhold. Det er derfor dette er en uavhengig granskingskommisjon,
+selv om jeg kanskje tror det er litt perifert for det de kanskje
+i utgangspunktet er opptatt av, men de står selvfølgelig fritt til
+det. Det som først og fremst er viktig for kommisjonen å ettergå,
+følger selvfølgelig av hvem som har hatt ansvaret. Det er Arbeiderpartiet
+i særdeleshet, dernest Høyre i noe mindre grad, men også Senterpartiet
+og SV med de postene de har hatt i Utenriksdepartementet.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1006348">
+            <A>
+              <Navn personID="JONSAY">
+Jonas Andersen Sayed (KrF) [11:00:57]:</Navn> Jeg vil takke for
+en god debatt så langt. Jeg vil bare understreke det jeg sa i mitt
+innlegg, at jeg er glad for at komiteen og Stortinget har jeg blitt
+enige om rammene for mandat og sammensetning av den eksterne granskingskommisjonen. </A>
+            <A Type="Minnrykk">Jeg hører representanten Myrli er i ferd med
+å skape en fortelling om at det er Arbeiderpartiet som har vært
+mest opptatt av at vi skal få alle fakta på bordet og sette ned
+en ekstern granskingskommisjon om denne saken. Det er en kreativ
+historieomskriving. Det var mye som skjedde i dagene etter at disse
+avsløringene kom. Det ble bl.a. fra Fremskrittspartiet her på Stortinget
+sendt et brev til statsministeren der de ba ham om å ta initiativ
+til å sette ned et eksternt granskingsutvalg. På det brevet svarte
+statsministeren kategorisk: </A>
+            <Sitat Type="Minnrykk">
+              <A>«Et granskingsutvalg er, etter mitt
+syn, derfor ikke riktig virkemiddel for å opplyse saken. Ut fra
+det som hittil har kommet frem, reiser saken spørsmål om enkeltpersoners
+opptreden og det er deres ansvar å opplyse saken. Et slikt utvalg
+er heller ikke egnet for å ta stilling til enkeltpersoners personlige
+ansvar. Det ligger til påtalemyndigheten og domstolene. Et granskingsutvalg
+med de rammene du skisserer vil ha et svært vidt mandat, og jeg
+har vanskelig for å se at en slik prosess raskt vil kunne bringe
+klarhet i saken.» </A>
+            </Sitat>
+            <A Type="Minnrykk">Videre blir det skrevet om den pågående gjennomgangen av
+både personellmessig art og oppfølgingen av UDs støtte til International
+Peace Institute. Det er vel og bra, og jeg er enig i at det rette
+er at det er Stortinget som setter ned en ekstern granskingskommisjon,
+men med respekt å melde: Det var uklart hva Arbeiderpartiets syn
+var på denne saken de første dagene etter avsløringene.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1006350">
+            <A>
+              <Navn personID="HEGNYH">
+Hege Bae Nyholt (R) [11:03:07]:</Navn> Det er en slags politisk
+vurderingsoppgave å vurdere om man skal sitte stille, eller om man
+skal tegne seg, men noen ganger får Nyholt fra Rødt behov for å
+avklare et par ting. Én av dem er at Nyholt og Rødt ikke aner hva
+AKP m-l var mot og for den gangen, all den tid Nyholt aldri har
+vært medlem. Det er ikke en del av debatten. Jeg vet hva Rød ungdom
+og Rød Valgallianse mente, der jeg alltid har hørt hjemme, senere
+i Rødt.</A>
+            <A Type="Minnrykk">Det er mulig at Oslo-avtalen så litt ulik ut
+etter som hvilket sted du så det ifra, men på bakkenivået i Dheisheh
+camp utenfor Betlehem var det ingen suksess. For dem som opplevde
+at veien ble gravd opp av settlere, var det ingen suksess. Ingen
+i denne salen mener vel at det er fred og fordragelighet i Palestina,
+det er vi ganske enige om. </A>
+            <A Type="Minnrykk">Jeg vil oppfordre til at vi diskuterer granskingskommisjonen.
+Jeg vil oppfordre til at vi fortsetter det relativt konstruktive
+arbeidet vi har gjort, både i komiteen og i debatten, for det fortjener
+det norske folk. Det norske folk, som har valgt oss som øverste
+ledelse, fortjener en ålreit debatt og at vi jobber for å få sannheten
+på bordet og sørger for at det ikke kan gjenta seg.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1006352">
+            <A>
+              <Navn personID="GP">
+Geir Pollestad (Sp) [11:04:39]:</Navn> Eg opplever at me har hatt
+ein debatt som tek inn over seg det alvoret som er i denne saka,
+og det er jo ein samla komité som står bak dette. Eg synest kanskje
+at debatten vert litt skjemd av ein ganske uviktig diskusjon om
+kven som meinte kva når, og kven som var imot, og kven som var for.
+Eg opplevde at partia var for dette. Det som Senterpartiet var veldig
+skeptisk til, var at det skulle vera ein granskingskommisjon i regi
+av regjeringa, og det gav me uttrykk for dei fyrste dagane. Så kom
+dette relativt raskt over på rett spor. </A>
+            <A Type="Minnrykk">Eg meiner at når me seier at dette skal vera
+ei brei gransking som skal gå langt tilbake i tid, då betyr partifarge
+ingenting. Eg registrerer at komitéleiaren peikar på veldig mange parti
+utanom sitt eige. Eg meiner at viss granskingskommisjonen meiner
+det er grunnlag for å sjå på om det i andre saker kan ha vore ting
+som set spørsmålsteikn ved forholdet mellom Noreg og f.eks. andre
+statar, organisasjonar eller stiftingar, må ein sjølvsagt gå inn
+i det. Det kunne vore andre saker og andre eksempel ein kunne nemna
+utanom det iranske regimet og kontakten med Solberg-regjeringa,
+men nå var det det eg nemnde. Det kan òg vera andre saker, og sjølvsagt
+bør kommisjonen då stå fritt til å gå inn i dei viss dei kan belysa
+det som er problemstillinga som me er opptekne av, nemleg: Korleis
+skal me hindra at dette skjer igjen? Korleis kan me byggja opp tilliten
+igjen? </A>
+            <A Type="Minnrykk">Når det gjeld det lause forslaget frå Raudt,
+er Senterpartiet i utgangspunktet einig i det som står der. Det
+hadde vore fint viss det skjer. Men me har hatt ein prosess i komiteen,
+og Raudt kunne fremja forslaget sitt om dette i innstillinga. Det er
+for så vidt ikkje så viktig. Det som er viktig for oss, er at kommisjonen
+har fridom til å kunna leggja fram ei delinnstilling. Det har dei
+med denne innstillinga. Dermed er det ikkje nødvendig å støtta forslaget
+til Raudt, og det vil heller ikkje Senterpartiet gjera.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1006354">
+            <A>
+              <Navn personID="PTA">
+Per-Willy Amundsen (FrP) [11:07:22]:</Navn> Representanten Pollestad
+har helt rett i det siste. Her har man gitt veldig frie rammer til
+granskingskommisjonen og arbeidet de skal gjøre. Det betyr at de
+også står fritt til å ettergå dem de måtte ønske, og det som er
+naturlig, gitt deres forståelse av mandatet, og gitt deres uavhengighet.
+Det er helt grunnleggende viktig for denne saken. Da er det selvfølgelig
+ingenting som er «off limits». Det gjelder i alle sammenhenger i
+denne saken. </A>
+            <A Type="Minnrykk">Jeg følte også behov for å kommentere til representanten Liland
+fra MDG, som jeg skjønner ønsker å dra FrP inn i dette, selv om
+vi aldri har hatt noen tilknytning til Utenriksdepartementet i det
+hele tatt. Det er for så vidt et greit forsøk. Det hun snakker om,
+handler om helt andre saker. Det som i hvert fall er klart, er at
+Fremskrittspartiet var den eneste stemmen som allerede for 20 år
+siden uttrykte bekymring for det man så i utenrikstjenesten i de
+sakene som var fremme da. Riksrevisjonen kom med kritikk i 2021.
+Det fikk ikke den nødvendige oppfølgingen fra Stortinget. Fremskrittspartiet
+har stått på i denne saken over tid, og det tenker jeg bygger troverdighet
+i seg selv. Carl I. Hagen har gått foran også i denne saken. </A>
+            <A Type="Minnrykk">Uten å politisere det for mye er jeg faktisk
+veldig enig med representanten Nyholt fra Rødt. Det er viktig at
+vi fortsetter på det sporet som komiteen har vært inne på. Jeg tror egentlig
+vi skal være litt stolte over at man klarer å samle seg på tvers
+av politiske skillelinjer i viktige saker som denne. Det er ikke
+alle land hvor det hadde vært mulig, for å si det på den måten,
+men i Norge klarer vi det. Det betyr også at det er på de vilkårene
+at sannheten skal fram, uansett.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1006356">
+            <A>
+              <Navn personID="SMY">
+Sverre Myrli (A) [11:10:09]:</Navn> Kort til representanten Sayed
+fra Kristelig Folkeparti, som sa at jeg var opptatt av å skape en
+fortelling: Nei, jeg er opptatt av å få fram sannheten om debatten,
+men enda viktigere – og det er bra at vi nå er enige om det – er
+det at vi får fram sannheten og de faktiske forhold i det fryktelige
+sakskomplekset som Epstein-dokumentene har avdekket.</A>
+            <A Type="Minnrykk">Tiden rant ut i sted da jeg skulle forklare
+hvorfor vi ønsker å stemme imot Rødts forslag. Det er mye bra i
+det forslaget, og hvis granskingskommisjonen ønsker å legge fram
+delrapporter, er det veldig bra, men den friheten må kommisjonen
+selv ha. Jeg slutter meg til det både Pollestad og Amundsen der
+har sagt. Det er unødvendig at Stortinget skal dirigere for kommisjonen
+når en slik eventuell delrapport skal komme. Om den eventuelt skal
+legges fram i desember 2026 eller januar 2027, må kommisjonen stå
+fritt til å bestemme selv.</A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:11:10]:</Navn> Flere har ikke
+bedt om ordet til sak nr. 1.</A>
+          </Presinnlegg>
+          <Referanse Id="i1006358" voteringsDato="2026-03-17" debattDato="2026-03-17" saksKartNr="1" />
+        </Sak>
+        <Sak Id="i1006360" saksKartNr="2" sakID="105667">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak
+nr. 2</Uth> [11:11:15]</Saknr>
+            <Saktittel Id="i1006364">
+              <A>Innstilling fra kontroll- og konstitusjonskomiteen
+om Riksrevisjonens undersøkelse av bistand til klimatilpasning i utviklingsland <Uth Type="RETT">(Innst. 152 S (2025–2026), jf. Dokument 3:4 (2025–2026))</Uth></A>
+            </Saktittel>
+          </Sakshode>
+          <Hovedinnlegg Id="i1006366">
+            <A>
+              <Navn personID="JONSAY">
+Jonas Andersen Sayed (KrF) [11:11:52]</Navn> (ordfører for saken):
+Hva betyr egentlig klimatilpasning i praksis? For en bonde i Malawi
+kan det bety tilgang til mer robuste frøsorter når regnet svikter.
+For et lokalsamfunn i Mosambik kan det handle om flomvern eller
+bedre varslingssystemer når syklonene treffer. Kort sagt: Klimatilpasning
+handler om menneskers evne til å leve med et klima i endring. </A>
+            <A Type="Minnrykk">Jeg vil først takke Riksrevisjonen for en grundig
+og viktig rapport. Klimaendringene rammer ikke rettferdig. De landene
+som har bidratt minst til problemet, er ofte dem som rammes hardest
+av konsekvensene. Dette gjelder særlig fattige og sårbare samfunn.
+Derfor er klimatilpasning så viktig: for matsikkerhet, for å forebygge
+humanitære kriser og for å styrke samfunnets evne til å håndtere
+et mer uforutsigbart klima. </A>
+            <A Type="Minnrykk">Stortinget har sluttet seg til en betydelig
+opptrapping av denne bistanden. Nettopp derfor er det avgjørende
+at innsatsen er godt styrt og kunnskapsbasert, og at vi faktisk
+vet hvilke resultat den gir. </A>
+            <A Type="Minnrykk">Riksrevisjonen har undersøkt norsk klimatilpasningsbistand
+i perioden 2015 til 2025, med særlig vekt på Malawi og Mosambik,
+to viktige partnerland for Norge. Funnene er tydelige: Riksrevisjonen
+mener at Utenriksdepartementet og Norad ikke har sikret korrekt
+informasjon om hvor stor klimatilpasningsbistanden faktisk er. Samtidig
+får klimatilpasning for lite oppmerksomhet i planlegging og oppfølging
+av bistandsavtaler i landene som er undersøkt. </A>
+            <A Type="Minnrykk">Det pekes også på at det er vanskelig å dokumentere
+varige resultater i større skala, og at styringen i for liten grad
+sikrer en tydelig strategisk innretning. I tillegg gir rapporteringen
+til Stortinget ikke et helhetlig bilde av hvilke resultater som
+oppnås. Den overordnede vurderingen fra Riksrevisjonen er derfor
+at situasjonen ikke er tilfredsstillende. Det slutter komiteen seg
+til. </A>
+            <A Type="Minnrykk">Når Norge har økt innsatsen på klimatilpasning,
+er det enda viktigere med tydelige mål, god styring og bedre kunnskap
+om hva som virker. Bistand må ikke bare være godt ment, det må også
+være godt gjennomført. </A>
+            <A Type="Minnrykk">Komiteen vil også understreke at svak rapportering
+gjør det vanskeligere for Stortinget å føre kontroll med hvordan midlene
+blir brukt, og hvilke resultater som faktisk blir oppnådd. Riksrevisjonen
+kommer derfor med flere klare anbefalinger: bedre oversikt over
+bistanden, sterkere mål og resultatoppfølging, bedre deling av kunnskap
+mellom UD, Norad og utenriksstasjonene og en mer balansert rapportering
+til Stortinget. Komiteen støtter disse anbefalingene og forventer
+at de blir fulgt opp. </A>
+            <A Type="Minnrykk">Til slutt: Når Norge bruker betydelige midler
+på klimatilpasning, gjør vi det fordi vi ønsker å bidra til at mennesker
+og lokalsamfunn skal stå bedre rustet i møte med klimaendringene.
+Da må vi også sikre at pengene blir brukt så effektivt som mulig
+og gir dokumenterbare resultater. </A>
+            <A Type="Minnrykk">Så vil jeg legge til noen kommentarer om KrFs
+syn i saken. Klimaendringene merkes først og fremst ikke i rapporter og
+statistikker. De blir merket i menneskers hverdag – når avlingen
+slår feil, når flommen kommer, når tørken varer for lenge. Det var
+nettopp dette som lå til grunn da Norge valgte å trappe opp bistanden
+til klimatilpasning: en matsikkerhetskrise og en kraftig vekst i
+antallet mennesker som levde i sult. </A>
+            <A Type="Minnrykk">Tallene er alvorlige. Beregninger viser at
+uten tilpasningstiltak vil klimaendringene føre til en nedgang i
+global jordbruksproduksjon på opp mot 30 pst. fram mot 2050. Samtidig
+vil den globale etterspørselen etter mat øke med 50 pst. Det sier
+seg selv: Dette er en farlig utvikling. Derfor er det også svært
+alvorlig når Riksrevisjonen finner at forvaltningen av bistanden
+til klimatilpasning ikke er god nok. Effektiviteten er for svak,
+resultatorienteringen er for svak, og rapporteringen til Stortinget
+og offentligheten er for dårlig. Det gjelder dessverre ikke bare
+på dette feltet. I fjor kom det fram at Norad publiserer resultatene
+for bare 21 av 1 869 bistandsprosjekter på nettportalen bistandsresultater.no.
+Det er rett og slett ikke godt nok. Jeg håper statsråden kan bekrefte
+at man er på en bedre plass nå når det gjelder åpenhet og det å
+rapportere resultater. </A>
+            <A Type="Minnrykk">KrF mener det bør etableres en helhetlig og
+transparent ordning for resultatmåling av multilaterale organisasjoner
+og fond som mottar norsk bistand. Vi bør i større grad sammenligne
+organisasjonene etter hvilke resultater de faktisk oppnår, og hvor
+effektivt de bidrar til målene i norsk utviklingspolitikk. Sånne
+vurderinger bør også få betydning for hvordan framtidige midler
+blir prioritert. Det vil kunne styrke både åpenheten og effekten
+av norsk bistand. </A>
+            <A Type="Minnrykk">Til slutt: Alle land trenger å ha klare planer
+for klimatilpasning. Det er langt billigere å forebygge, å bygge
+beredskap, enn hva det koster å møte krisen uforberedt. Dette gjelder
+også i utviklingspolitikken. Mislykkes vi med klimatilpasning, vil
+resultatet bli mer nød, flere kriser og et enda større behov for
+humanitær nødhjelp. Derfor må vi lykkes bedre enn i dag. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1006368">
+            <A>
+              <Navn personID="LISSEL">
+Lise Selnes (A) [11:17:37]:</Navn> Riksrevisjonens rapport om norsk
+bistand til klimatilpasning i utviklingsland er et viktig varsku
+og tar opp noe som Arbeiderpartiet tar på største alvor – at hver
+krone av norsk bistand skal brukes målrettet, effektivt og med et
+tydelig resultat. Dette er alvorlig, og vi må forvente en ansvarlighet
+i bruk av offentlige midler. Vi må være opptatt av troverdigheten
+Norge skal ha som pådriver i internasjonal klimapolitikk. </A>
+            <A Type="Minnrykk">Rapporten viser at styringen av bistand til
+klimatilpasning ikke har vært god nok. Det er for svake systemer
+for å følge opp, for lite og for dårlig samlet oversikt og for uklare resultater.
+Det er kritikkverdig, og det må tas tak i. Rapporteringen til Stortinget
+har vært for svak, for fragmentert og ufullstendig, ofte uten en
+tydelig kobling mellom mål og resultater. </A>
+            <A Type="Minnrykk">Det endrer ikke hovedbildet. Norge er, og skal
+fortsatt være, et land som står skulder ved skulder med verdens
+mest sårbare i møte med klimaendringer. Klimaendringer rammer hardest
+dem som har gjort minst for å skape dem – småbønder i Sahel, kvinner
+i tørkeutsatte områder og familier som mister livsgrunnlaget sitt
+når avlinger svikter og vannet forsvinner. For disse menneskene
+handler ikke klimatilpasning om rapporteringssystemer, men om liv
+og framtid. Derfor er det viktig å fortsatt arbeide med klimatilpasningsbistanden. </A>
+            <A Type="Minnrykk">Riksrevisjonen har rett i at vi må gjøre mer
+for å vise fram resultatene. Vi må ha bedre kontroll på hvordan
+midlene brukes, tydeligere kriterier for hva som faktisk er klimatilpasning,
+og mer åpenhet om virkningen av innsatsen. Det er ikke nok å ha
+gode intensjoner, vi må også kunne dokumentere effekten. </A>
+            <A Type="Minnrykk">Regjeringen har allerede igangsatt arbeid for
+å følge opp Riksrevisjonens anbefalinger. Utenriksdepartementet
+er i gang med å forbedre systemene for registrering og rapportering.
+Norad skal styrke sin faglige veiledning og oppfølging av avtaler,
+og det skal bli en mer helhetlig rapportering til Stortinget, slik
+at vi får et klarere bilde på hva Norge faktisk oppnår gjennom klimatilpasningsbistanden.
+Dette arbeidet handler ikke bare om intern kontroll, men om å styrke
+tilliten, tilliten til at Norge leverer kvalitet i bistand, og tilliten
+hos mottakerlandene til at vi står ved våre løfter over tid. </A>
+            <A Type="Minnrykk">Arbeiderpartiet mener at klimatilpasning må
+ses i en sammenheng med utvikling av fattigdomsbekjempelse. Det handler
+ikke bare om å bygge demninger og sikre avlinger. Det handler om
+utdanning, helse, likestilling og å styrke lokalsamfunn, for når
+mennesker får makt til å håndtere klimaendringene selv, skaper vi
+en bærekraftig utvikling. </A>
+            <A Type="Minnrykk">Riksrevisjonens gjennomgang viser oss hvor
+vi må bli bedre. Vi må fortsette å stille krav til kvalitet, resultat
+og ansvarlighet, samtidig som vi holder fast på solidariteten som ligger
+i norsk bistandspolitikk. Norge skal fortsatt være en pålitelig
+partner i den globale klimakampen. Vi skal levere med åpenhet, med
+ansvar og med tydelig retning. La denne rapporten være et startpunkt
+for forbedring – ikke en brems, men en drivkraft for å styrke både
+styring, effekt og tillit. For vi vet at kampen mot klimaendringene
+ikke vinnes med ord, den vinnes med handling, og handling må være
+preget av både solidaritet, kunnskap og resultater. Klimatilpasning
+er ikke en fotnote i utviklingspolitikken, det er en grunnmur for
+bærekraftig utvikling i en verden som blir varmere, våtere og mer uforutsigbar. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1006370">
+            <A>
+              <Navn personID="AICS">
+Aina Stenersen (FrP) [11:22:09]:</Navn> Komiteens medlemmer fra
+Fremskrittspartiet vil trekke fram at det er kritikkverdig at Norge
+har så mye som tredoblet bistanden til klimatilpasninger – fra 1,06 mrd. kr
+i 2020 til 3,18 mrd. kr i 2026. Bistanden har økt kraftig, og samtidig
+trekker Riksrevisjonen fram at UD mangler en helhetlig oversikt
+over hvilke resultater den fører til. Dette mener Fremskrittspartiet
+er kritikkverdig. </A>
+            <A Type="Minnrykk">Riksrevisjonen viser i undersøkelsen til at
+over 340 mill. kr var rapportert feil. 10 av de 20 bistandsavtalene som
+Riksrevisjonen kontrollerte, var feilkategorisert som klimatilpasning.</A>
+            <A Type="Minnrykk">Stortinget ønsker rapportering om både gode
+og dårlige resultater av bistanden, men Riksrevisjonen påpeker at
+det er lite systematisk rapportering til Stortinget, og de påpeker
+også at det heller ikke er de samme avtalene som det blir rapportert om
+fra år til år. Riksrevisjonen konkluderer med at rapporteringen
+til Stortinget ikke gir et helhetlig bilde av hvilke resultater
+som oppnås. Riksrevisjonen presiserer at rapporteringen til Stortinget
+kun inneholder gode resultater. Rapporteringen er ikke balansert.
+Dette er kritikkverdig. </A>
+            <A Type="Minnrykk">Disse medlemmer vil også trekke fram at Riksrevisjonen skriver
+at rapporteringen heller ikke sier noe om måloppnåelse i forhold
+til det som var planlagt, eller om forholdet mellom hva som er oppnådd,
+og hvor mye norske midler som gikk til tiltaket. Riksrevisjonen
+påpeker også at feilkategoriseringen innebærer en overrapportering
+av Norges bistand til klimatilpasning under Parisavtalen. Fremskrittspartiet
+synes det er svært kritikkverdig at manglende informasjon gjør det
+vanskelig for Stortinget å vurdere om bistanden gir resultater.
+For eksempel er resultater innen Malawi og Mosambik vanskelig å
+dokumentere, ifølge Riksrevisjonen. Svak kunnskap om resultater
+er en vedvarende utfordring, ifølge UD, og bistandsavtaler handler
+også mindre om klimatilpasning enn forventet. </A>
+            <A Type="Minnrykk">Fremskrittspartiet vil også trekke fram at
+dette ikke er første gang at Riksrevisjonen slår alarm om norsk
+bistand. Tidligere rapporter har også påpekt store svakheter i kontroll over
+midlene, men regjeringen har tydeligvis ennå ikke lært. Disse medlemmer
+mener det er nødvendig å kutte i budsjettene, og vi kan ikke akseptere
+at midler brukes på en slik måte, uten god kontroll, uten nøytral
+rapportering til Stortinget og med et manglende fokus på mål- og
+resultatorientering. </A>
+            <A Type="Minnrykk">Disse medlemmer mener at det norske folk, relevante utviklingsland
+og sårbare befolkningsgrupper har krav på at regjeringen tar ansvar
+for en fornuftig bruk av bistandsmidler og gir en balansert rapportering
+til Stortinget – om både gode og dårlige resultater. Og vi må ha
+fokus på mål og resultater i arbeidet for å oppnå matsikkerhet,
+bekjempe sult og redusere sårbarhet, og for at vi skal klare å forebygge
+humanitære kriser.</A>
+            <A Type="Minnrykk">Fremskrittspartiet mener avslutningsvis at
+også denne undersøkelsen viser en grunnleggende mangel på kontroll. Disse
+medlemmer mener at rapporten dessverre viser en fortsatt sterkt
+kritikkverdig forvaltning av offentlige norske midler.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1006372">
+            <A>
+              <Navn personID="AAUK">
+Statsråd Åsmund Aukrust [11:26:10]:</Navn> Klimaendringene er den
+største utfordringen i vår tid, og jeg er veldig glad for at komiteen
+enstemmig – og helt riktig – skriver at konsekvensene rammer utviklingsland
+spesielt, og sårbare befolkningsgrupper aller hardest. Derfor har
+klimatilpasning vært en høy prioritet i norsk utviklingspolitikk
+gjennom mange år og under skiftende regjeringer, også under denne.</A>
+            <A Type="Minnrykk">Klimatilpasning handler om å gjøre samfunnet
+mer robust i møte med ekstremvær, havnivåstigning, tørke, flom, hete
+og andre konsekvenser av klimaendringene som ikke lenger kan unngås.
+Klimatilpasning er helt avgjørende i kampen mot ulikhet og for å
+bidra til jobbskaping. Det er også med på å forebygge humanitære
+kriser, konflikt og migrasjon. Det er selvsagt helt nødvendig og
+helt riktig at vi som fellesskap stiller strenge krav til hvordan
+midlene forvaltes, og til hvilke resultater vi kan oppnå. </A>
+            <A Type="Minnrykk">Jeg synes det er bra at Riksrevisjonen har
+gått igjennom bistand til klimatilpasning i utviklingsland, og jeg
+vil gjenta et viktig poeng i mitt svarbrev til Riksrevisjonen, at
+vi er glad for de anbefalingene, og vi erkjenner at det er utfordringer knyttet
+til styring og resultatrapportering i klimatilpasningsbistanden.
+Vi er i gang med oppfølgingsplanen, som mer detaljert beskriver
+hvordan vi skal følge opp anbefalingene fra Riksrevisjonen. </A>
+            <A Type="Minnrykk">Det er, som vi også har kommunisert, noen utfordringer knyttet
+til dette. Klimatilpasning er ikke et entydig definert begrep internasjonalt,
+og selv om det er gode retningslinjer fra OECD, finnes det i dag
+ingen global enhetlig metode for å måle eller klassifisere klimatilpasning
+på en helt presis måte. Noe av det vi har gjort, er at statistikken
+er korrigert, og vi har igangsatt tiltak for bedre kategorisering
+og rapportering. Vi styrker kompetansen blant saksbehandlerne og
+forbedrer systemene for mål- og resultatstyring. Vi jobber for bedre kunnskapsdeling
+mellom UD, Norad og ambassadene og er tydelige på forventninger
+i våre tildelingsbrev. </A>
+            <A Type="Minnrykk">Det pågår også et internasjonalt arbeid for
+å utvikle et sett med mål og felles indikatorer for klimatilpasningsfeltet,
+med utgangspunkt i det overordnede globale målet for klimatilpasning,
+som er nedfelt i Parisavtalen.</A>
+            <A Type="Minnrykk">Jeg vil avslutte med å si at vi er veldig opptatt
+av at rapporteringen til Stortinget selvsagt skal være balansert,
+korrekt og opplysende. Vi har over tid arbeidet med å forbedre målformuleringer
+og resultatrapporteringen som vi gir til Stortinget gjennom Prop. 1 S. </A>
+            <A Type="Minnrykk">Jeg ønsker veldig velkommen en bredere debatt
+om norsk utviklingspolitikk, og jeg har tatt initiativ til et stort
+arbeid som vi har kalt Vendepunkt, som skal snu hver stein i måten
+vi arbeider på. Jeg synes også saksordføreren kom med noen gode
+anbefalinger fra Kristelig Folkepartis side, og det kommer til å
+gå inn i det arbeidet, om hva som skal være målsettingene med norsk
+utviklingsarbeid, og hvordan vi best skal kunne se resultater, og
+klimabistanden vil selvsagt være noe av det vi ser på. </A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:29:27]:</Navn> Flere har ikke
+bedt om ordet til sak nr. 2.</A>
+          </Presinnlegg>
+          <Referanse Id="i1006374" voteringsDato="2026-03-17" debattDato="2026-03-17" saksKartNr="2" />
+        </Sak>
+        <Sak Id="i1006376" saksKartNr="3" sakID="105644">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak
+nr. 3</Uth> [11:29:32]</Saknr>
+            <Saktittel Id="i1006380">
+              <A>Innstilling fra kontroll- og konstitusjonskomiteen
+om Riksrevisjonens undersøkelse av Navs innsats for å forhindre frafall
+fra arbeidslivet <Uth Type="RETT">(Innst. 149 S (2025–2026), jf.
+Dokument 3:5 (2025–2026))</Uth></A>
+            </Saktittel>
+          </Sakshode>
+          <Hovedinnlegg Id="i1006382">
+            <A>
+              <Navn personID="KARSAN">
+Kari Baadstrand Sandnes (A) [11:30:05]</Navn> (ordfører for saken):
+Riksrevisjonen har gjort en undersøkelse av Navs innsats for å forhindre
+frafall i arbeidslivet.</A>
+            <A Type="Minnrykk">Komiteen viser til at frafall fra arbeidslivet
+er en utfordring med store konsekvenser, både for enkeltmennesker
+og for samfunnet som helhet. Å delta i arbeidslivet gir ikke bare økonomisk
+trygghet, men kan også bidra til sosial tilhørighet, mestring og
+bedre helse. I tillegg er høy sysselsetting en forutsetning for
+å kunne opprettholde et høyt nivå på offentlige tjenester og overføringer.</A>
+            <A Type="Minnrykk">Arbeidslinja er et grunnleggende prinsipp i
+norsk arbeids- og velferdspolitikk, der hovedmålet er at flest mulig skal
+kunne forsørge seg selv gjennom arbeid. For å oppnå dette skal det
+føres en økonomisk politikk som legger til rette for høy sysselsetting,
+og en aktiv inkluderingspolitikk som skal få flere inn i arbeidslivet.
+Arbeidslivet skal også organiseres slik at flest mulig kan stå i
+arbeid over tid. I tillegg er det et bærende prinsipp at det skal
+lønne seg å arbeide.</A>
+            <A Type="Minnrykk">Inntektssikringsordningene skal gi økonomisk
+trygghet, samtidig som de stimulerer til arbeid.</A>
+            <A Type="Minnrykk">I Norge har myndighetene over tid iverksatt
+en rekke tiltak for å redusere frafallet fra arbeidslivet. Innsatsen
+har vært særlig rettet mot forebygging, inkludering og oppfølging
+av sårbare grupper. Tiltakene har bl.a. handlet om å styrke Navs rolle,
+tilrettelegge på arbeidsplassen og bruke arbeidsrettede tiltak og
+kompetanseheving.</A>
+            <A Type="Minnrykk">Et sentralt virkemiddel i arbeidet med å redusere
+frafall er intensjonsavtalen mellom myndighetene og partene i arbeidslivet
+om et mer inkluderende arbeidsliv, IA-avtalen. Målene i avtalene
+er ikke nådd.</A>
+            <A Type="Minnrykk">Komiteen viser til at Riksrevisjonen har kommet
+fram til følgende konklusjoner:</A>
+            <Liste Type="Strek">
+              <Pkt>
+                <A>Målet om å redusere frafallet fra
+arbeidslivet er ikke nådd, og det er en økning i andelen som har
+mottatt helserelaterte ytelser. De stiller spørsmål ved om arbeids-
+og velferdsetaten i tilstrekkelig grad har kontrollert folketrygdlovens
+vilkår for rett til sykepenger.</A>
+              </Pkt>
+              <Pkt>
+                <A>Videre konkluderer de med at sykmeldte får for lite oppfølging,
+og at behandlingen av AAP-søknader varierer mellom Nav-kontor, og
+de er også blitt mindre strenge siden 2018.</A>
+              </Pkt>
+              <Pkt>
+                <A>Det vises også til at mange AAP-mottakere ikke deltar i arbeidsmarkedstiltak.
+Informasjon om arbeidsevnen til søkere av uføretrygd er heller ikke
+godt nok kjent.</A>
+              </Pkt>
+              <Pkt>
+                <A>Til sist konkluderer Riksrevisjonen med at rammene for jobben
+som fastlege gjør det krevende å ivareta portvokterrollen for folketrygden.</A>
+              </Pkt>
+            </Liste>
+            <A Type="Minnrykk">Komiteen slutter seg til Riksrevisjonens konklusjoner
+og deres vurdering om at dette er kritikkverdig.</A>
+            <A Type="Minnrykk">Komiteen viser til at Riksrevisjonen har anbefalt
+at Arbeids- og inkluderingsdepartementet legger til rette og forsterker
+arbeidet slik at de kan identifisere hvilke brukere som har behov
+for sykefraværsoppfølging:</A>
+            <Liste Type="Strek">
+              <Pkt>
+                <A>Svakheter knyttet til automatisering
+av saksbehandlingen for sykepenger må håndteres. Det må sørges for
+bedre informasjonsutveksling og samarbeid i sykefraværsoppfølgingen.</A>
+              </Pkt>
+              <Pkt>
+                <A>Arbeids og inkluderingsdepartementet må i samarbeid med
+helsemyndighetene understreke lovens intensjon om bruk av gradert
+sykmelding.</A>
+              </Pkt>
+              <Pkt>
+                <A>Arbeids og inkluderingsdepartementet må også sikre at AAP
+i større grad blir en aktiv arbeidsrettet ytelse, slik at mottakernes
+arbeidsevne avklares.</A>
+              </Pkt>
+              <Pkt>
+                <A>For å sikre at folk får riktig ytelse må kvaliteten i søknadsbehandlingen
+for helserelaterte ytelser styrkes.</A>
+              </Pkt>
+              <Pkt>
+                <A>Bruk av rådgivende leger i arbeids- og velferdsetaten må være
+hensiktsmessig, slik at deres medisinske kompetanse styrker kvaliteten
+i vedtaksprosessene og oppfølgingen av mottakere.</A>
+              </Pkt>
+              <Pkt>
+                <A>Til sist anbefaler Riksrevisjonen at Arbeids- og inkluderingsdepartementet
+utreder fastlegenes portvokterrolle for folketrygden.</A>
+              </Pkt>
+            </Liste>
+            <A Type="Minnrykk">Komiteen er enig i Riksrevisjonens anbefalinger
+og registrerer at statsråden i sitt svarbrev til Riksrevisjonen
+viser til at konklusjoner og anbefalinger i stor grad sammenfaller
+med kunnskapen og forståelsen hun har om sentrale utfordringer som
+arbeids- og velferdsetaten står overfor i sitt arbeid med å forhindre
+frafall fra arbeidslivet, og at en rekke tiltak som vil kunne bidra
+til å styrke innsatsen for at flere kommer i arbeid og færre går
+på stønad, er iverksatt. Videre viser statsråden til at Riksrevisjonens
+konklusjoner og anbefalinger peker på områder som statsråden vil
+ha oppmerksomhet på framover og utvikle videre.</A>
+            <A Type="Minnrykk">Jeg har lyst til å gi honnør til statsråden
+for at hun har tatt tak i utfordringene som Riksrevisjonen har avdekket.</A>
+            <A Type="Minnrykk">Komiteen har lagt fram saken enstemmig, men
+jeg regner allikevel med at de andre partiene vil legge fram sine
+egne betraktninger.</A>
+            <A Type="Minnrykk">Arbeiderpartiet ser at mange, særlig unge,
+sliter med å komme inn i arbeidslivet. Utenforskap er en utfordring
+på mange områder. Det rammer på den ene siden de unge som ikke er
+omfattet av noe tilbud, verken jobb eller skole, og flere er ikke
+registrert med noe aktivitet i det hele tatt, ikke engang sosialhjelp.
+På den andre siden frarøver dette skolen og arbeidslivet viktige
+ressurser, og mangfoldet blir dermed mindre. Dette er utfordringer
+vi må ta på alvor.</A>
+            <A Type="Minnrykk">Gjennom utdanning, videreutdanning, lærlingplasser
+og praksisplasser kan vi gi unge mennesker mulighet til å få erfaring
+og bygge sitt arbeidsliv. Samtidig må vi sørge for at de som står
+utenfor arbeidslivet på grunn av sykdom eller andre årsaker, får
+muligheter til å komme tilbake. Dette krever en helhetlig tilnærming
+der vi investerer i kompetanseheving og inkluderende arbeidsmiljøer.</A>
+            <A Type="Minnrykk">Som samfunn har vi et ansvar for å skape flere
+arbeidsplasser, men også for å sørge for at disse jobbene er trygge.
+Vi må sikre gode arbeidsforhold, hele stillinger og lønn å leve
+av.</A>
+            <A Type="Minnrykk">Arbeiderpartiet jobber for en politikk som
+fremmer vekst, men som også setter mennesker først. Vi trenger flere
+i arbeid, og vi trenger flere gode jobber. Arbeiderpartiet vil derfor
+bl.a.:</A>
+            <Liste Type="Strek">
+              <Pkt>
+                <A>styrke den norske arbeidslivsmodellen</A>
+              </Pkt>
+              <Pkt>
+                <A>videreutvikle og styrke ungdomsgarantien der unge under
+30 år sikres jobb eller utdanning</A>
+              </Pkt>
+              <Pkt>
+                <A>sørge for at de med uføretrygd som kan jobbe noe, får en reell
+mulighet til det</A>
+              </Pkt>
+            </Liste>
+            <A Type="Minnrykk">Det er derfor viktig at arbeidsgivere tør å
+være modige nok til å gi særlig unge på AAP eller uføre en sjanse
+i arbeidslivet. Vi ser tallene i statistikker og grafer, men bak
+hvert tall befinner det seg mennesker – mennesker som trenger å
+komme seg ut i arbeid og et arbeidsliv som trenger deres ressurser. Hvert
+enkelt menneske har en kompetanse som noen må se og nyttiggjøre
+seg av, og uten å være stereotypisk: Hvis kompetansen er spillerfaring
+på nattetid, da er det en nyttig erfaring som arbeidslivet må nyttiggjøre
+seg.</A>
+            <A Type="Minnrykk">Hovedregelen skal selvfølgelig være hele stillinger,
+men vi mener likevel ikke at redusert stilling ved sykdom er i konflikt
+til dette prinsippet.</A>
+          </Hovedinnlegg>
+          <Merknad>
+            <Handling>
+              <A>
+                <Uth Type="Sperret">Ingrid Fiskaa</Uth> hadde
+her teke over presidentplassen.</A>
+            </Handling>
+          </Merknad>
+          <Hovedinnlegg Id="i1006384">
+            <A>
+              <Navn personID="MARBYE">
+Margit Bye (MDG) [11:39:08]:</Navn> En av de viktigste delene av
+velferdssamfunnet vårt er det sosiale sikkerhetsnettet vi har bygd
+opp over de siste 100 årene. Det er en grunnleggende trygghet for
+oss alle i å vite at dersom man blir syk eller av andre grunner
+mister arbeidsevnen, skal ikke det bety umiddelbar fattigdom – det
+skal bety et system som tar deg imot og hjelper deg på bena igjen. </A>
+            <A Type="Minnrykk">De som jobber i Nav, gjør en enorm innsats
+for å sikre nettopp det – at de som kan jobbe, får muligheten til
+å jobbe, at de som er syke, skal få de midlene som trengs for at
+de skal kunne bli friske så fort som mulig, og at de som er for
+syke til å jobbe, fortsatt skal tas vare på og ha muligheten til
+å leve et godt liv. Dessverre ser vi at systemet altfor ofte utgjør
+et hinder framfor å være et hjelpemiddel. Ressursene i Nav brukes i
+for stor grad til å følge opp enorme kontrollbehov og til å utkvittere
+minimumskrav for alle, framfor til målrettet og tilpasset oppfølging
+av dem som trenger det aller mest. </A>
+            <A Type="Minnrykk">Dette handler ikke om dem som jobber i Nav;
+det handler om for dårlig politisk oppfølging. Etaten står i en
+enormt vanskelig spagat mellom en standardisert oppfølging av alle
+sykmeldte, som først og fremst handler om politisk bestemte, lovpålagte
+krav om kontroll og vilkår og tilpasset oppfølging av de menneskene
+som trenger hjelp for å sørge for at kortvarige sykmeldinger ikke
+blir langvarig frafall og utenforskap. </A>
+            <A Type="Minnrykk">Jeg og MDG mener at ministeren har et ansvar
+for å gå igjennom både regelverk og rutiner for å frigjøre slik
+at ressursene kan brukes på det sistnevnte. </A>
+            <A Type="Minnrykk">For veldig mange av dem som oppsøker Nav, er
+det den mest sårbare dagen i hele deres liv. For mange gir den dagen kanskje
+en følelse av nederlag, fordi man trenger hjelp til noe man skulle
+ønske at man fikk til selv. Dagen representerer kanskje at man er
+sykere og derfor ikke kan gjøre alt man vil, eller alt man har pleid
+å gjøre. For den norske staten og det norske fellesskapet er denne
+perioden blant de viktigste i noens liv. Det er nå vi alle har sjansen
+til å sørge for at noen som står i fare for å falle ut, hankes inn
+igjen og får den hjelpen de trenger. Men da må de som jobber i Nav,
+vite hvem dette er, og ha ressurser til å følge opp. </A>
+            <A Type="Minnrykk">Derfor er en av de mest alvorlige konklusjonene
+fra Riksrevisjonen nettopp dette: Nav har ikke gode nok systemer
+til å identifisere hvem som står i fare for å falle ut. Da blir
+oppfølgingen også for svak og for tilfeldig. </A>
+            <A Type="Minnrykk">Nav har selv sett på bruk av maskinlæring for
+å identifisere brukere med behov for mer målrettet oppfølging, som
+et mulig tiltak for å sikre nettopp det Riksrevisjonen og vi som politikere
+etterlyser: bedre treffsikkerhet, tidligere innsats og smartere
+prioritering av ressurser. Men for at dette arbeidet skal kunne
+utredes videre, trengs det et hjemmelsgrunnlag. Miljøpartiet De
+Grønne håper derfor at regjeringen kommer tilbake til oss i Stortinget
+så fort som mulig med et forslag som sikrer dette.</A>
+            <A Type="Minnrykk">Vi trenger en annen politikk, en som er mer
+proaktiv, mer treffsikker og mer menneskenær – en politikk som griper
+inn tidligere, som bruker de verktøyene vi faktisk har, og som sørger
+for at færre mennesker blir stående alene i overgangen fra jobb
+til utenforskap. Det kan vi få til, men da må vi bruke ressursene
+enda klokere enn det denne rapporten viser at vi gjør i dag. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1006386">
+            <A>
+              <Navn personID="AIM">
+Anna Molberg (H) [11:43:32]:</Navn> Ordet «økning» er en gjenganger
+i Riksrevisjonens undersøkelse av Navs innsats for å forhindre frafall
+i arbeidslivet. Det er en økning i andelen som har falt utenfor
+arbeidslivet de siste årene, og det er en økning i andelen mottakere
+av helserelaterte ytelser. I tillegg påpekes det at målene om å
+redusere frafall i arbeidslivet og reduksjon av sykefraværet ikke
+er nådd. Det er ikke god nok oppfølging av sykmeldte og mottakere
+av arbeidsavklaringspenger. Det er også vesentlige mangler i saksbehandlingen
+rundt de helserelaterte ytelsene. Alt i alt konkluderer Riksrevisjonen
+med at dette er kritikkverdig. </A>
+            <A Type="Minnrykk">I lys av både denne rapporten og andre alvorlige
+hendelser i forbindelse med arbeidet i vår arbeids- og velferdsetat den
+siste tiden har Høyre en stund tatt til orde for en totalgjennomgang
+av Nav. På samme måte som at vi gjennomanalyserte norsk politi etter
+22. juli-terrorangrepet, bør vi gjøre det samme med vår største
+etat. Solberg-regjeringen la den såkalte politianalysen til grunn
+for hele sitt arbeid med en historisk modernisering av norsk politi
+gjennom politireformen. Høyre mener at Nav bør gjennomgå en lignende
+analyse, med mål om større moderniseringer og større effektiviseringer,
+når vi har et godt og faglig grunnlag på plass. </A>
+            <A Type="Minnrykk">En slik Nav-reform bør ta for seg hele ytelsessystemet. Vi
+bør se på om vi bør forenkle, redusere eller forbedre antallet ytelser.
+Vi bør se på om vi bør samordne utbetalingen av mange av disse ytelsene
+for å gjøre det enklere for dem som mottar. Vi bør også se på organiseringen
+av Nav, om den faktisk er riktig. Vi bør i større grad også sikre
+at digitaliseringsarbeidet i Nav prioriterer de enkle sakene, slik
+at vi frigjør tid og ressurser for Nav-ansatte til faktisk å kunne
+følge opp den enkelte bruker. </A>
+            <A Type="Minnrykk">Til slutt bør hele Navs arbeid snus helt på
+hodet. Vi bør si at Nav skal bli mer arbeidsorientert framfor diagnoseorientert.
+Vi må begynne å spørre mennesker om hva de faktisk kan bidra med
+i arbeidslivet, framfor å spørre: Hvor syk er du? De aller fleste
+som bruker Nav i en eller annen form, og som går på en helserelatert
+ytelse, har arbeidsevne og ønsker å bidra. Da er det vår plikt å
+sikre nettopp disse menneskene en meningsfull hverdag og arbeid.
+Det er mye god velferd i å sikre mennesker en plass i arbeidslivet
+på sine premisser. </A>
+            <A Type="Minnrykk">Tiden for en gjennomgang av Nav er moden. Nå
+er det 20 år siden Nav-reformen. Høyre ser positivt på at regjeringen
+har signalisert at de ønsker å gjøre nettopp det Høyre har tatt
+til orde for en god stund. </A>
+            <A Type="Minnrykk">Riksrevisjonen peker, som nevnt, også på at
+oppfølgingen av sykmeldte er for dårlig i Norge. Det er dessverre
+også sånn at vi ligger i verdenstoppen når det gjelder høyt sykefravær.
+Selv om sykefraværet har gått noe ned den siste tiden, er det likevel
+på et helt uakseptabelt høyt nivå. Bare se til Sverige, vårt naboland,
+som vi liker å sammenligne oss med – der er sykefraværet omtrent
+det halve. </A>
+            <A Type="Minnrykk">Høyre har nylig tatt til orde for at det er
+på tide å ta politisk ansvar for det høye sykefraværet vi har i
+Norge. Vi ønsker å invitere alle partier som ser alvorlig på at
+vi er verdensmester i sykefravær, til samtaler, med mål om et forlik
+om sykelønnsordningen. </A>
+            <A Type="Minnrykk">Vi er nødt til å få debatten om sykelønnsordningen
+til å handle om noe mer enn bare hvorvidt man skal kutte eller ikke
+kutte i sykelønnsordningen. Høyre ønsker å se på sykelønnsordningen
+med brede briller. Vi bør kanskje vurdere om tiden man kan være
+sykmeldt, bør utvides, rett og slett fordi det er ganske brutalt
+å være i et langt behandlingsforløp og få en kompensasjon av lønnen
+på 100 pst., for så å oppleve at man detter ned til 66 pst. av lønnen
+den dagen det har gått ett år. </A>
+            <A Type="Minnrykk">Samtidig bør vi heller ikke utelukke at slike
+forhandlinger om sykelønnsordningen kan innebære en liten reduksjon i
+sykelønnen, for det er ingen tvil om at verdens høyeste sykefravær
+har en sammenheng med at vi har verdens mest generøse sykelønnsordning.
+Poenget her er at vi må tørre å diskutere alle sider ved sykelønnsordningen,
+fordi vi ønsker jo alle at sykelønnsordningen skal stå seg for framtidige
+generasjoner. </A>
+            <A Type="Minnrykk">Foreløpig har ingen andre partier, med unntak
+av Venstre, signalisert at de er villige til å se på sykelønnsordningen. </A>
+            <A Type="Minnrykk">Når 700 000 nordmenn i arbeidsfør alder står
+utenfor arbeid eller utdanning, bør egentlig alarmklokkene gå. Vi
+har altfor mange unge mennesker med psykiske lidelser og plager som
+parkeres på en livslang uføretrygd, og vi har, som nevnt, et sykefravær
+som er i verdenstoppen. Da er det helt nødvendig at ansvarlige partier
+tør å ta ansvar og tør å iverksette tiltak. Vi ønsker alle en sterk
+velferdsstat, men vi ønsker den også for framtiden. Høyre er villige
+til å ta nettopp dette ansvaret, ta de vanskelige debattene og gjøre
+store reformer for å snu denne utviklingen. Velferdsstaten vår må
+sikres for framtiden, og det arbeidet er nødt til å starte akkurat
+nå.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1006388">
+            <A>
+              <Navn personID="KJSE">
+Statsråd Kjersti Stenseng [11:50:27]:</Navn> Jeg vil starte med
+å si at det overordnede målet for arbeids- og velferdspolitikken
+ligger fast. Vi trenger å få flere inn i arbeid og aktivitet og
+færre på ytelser. </A>
+            <A Type="Minnrykk">Kritikken fra Riksrevisjonen er alvorlig. Jeg
+deler bekymringen for at innsatsen for å redusere frafall fra arbeidslivet
+på ingen måte har gitt gode nok resultater. Jeg er særlig bekymret
+for det høye sykefraværet og langvarige trygdeløp. Det rammer disse
+enkeltmenneskene, og det rammer også ikke minst oss som fellesskap.</A>
+            <A Type="Minnrykk">Riksrevisjonens undersøkelse peker på helt
+sentrale utfordringer og forhold som i stor grad er kjent. Det er
+allerede iverksatt flere tiltak, som vil kunne bidra til å styrke
+arbeids- og velferdsetatens innsats for at flere kommer i arbeid
+og færre går på stønad. Jeg har bl.a. igangsatt et lovarbeid for
+å regulere en mer behovstilpasset sykefraværsoppfølging fra Nav. </A>
+            <A Type="Minnrykk">Jeg har også nylig hatt på høring forslag om
+tydeligere plikter for både arbeidsgiver og den sykmeldte ved sykefravær.
+I forslagene tydeliggjøres også lovens intensjon om bruk av gradert
+sykmelding, i tråd med Riksrevisjonens anbefaling.</A>
+            <A Type="Minnrykk">Begge disse forslagene følger opp tiltak fra
+IA-avtalen, som ble inngått med partene i arbeidslivet i fjor vår.
+IA-samarbeidet er viktig, men vi må gjøre mer. Som en del av regjeringens
+plan for Norge har helse- og omsorgsministeren og jeg gått sammen
+om en satsing på en friskere befolkning og redusert sykefravær.
+Arbeiderparti-regjeringen ønsker å forsterke samarbeidet mellom
+arbeid og helse. Vi vurderer hvordan vi bl.a. bedre kan støtte opp
+om fastlegens arbeid med å vurdere alternativer til sykmelding.
+Ungdomsløftet og Flere i arbeid er også sentrale satsinger i regjeringens
+plan for Norge.</A>
+            <A Type="Minnrykk">I budsjettet for inneværende år fikk Arbeiderparti-regjeringen
+flertall for å øke budsjettet til arbeidsrettede tiltak med over
+500 mill. kr. Her inngår både arbeidsmarkedstiltak og personell,
+Jobbsjansen, rekrutteringsprogram til helse- og omsorgssektoren
+og et forsøk som arbeidsrettet ungdomsprogram og Et enklere Nav,
+som nettopp skal fokusere mer på det man kan gjøre og hvor frisk
+man er og fokusere mindre på diagnoser og sykdom.</A>
+            <A Type="Minnrykk">Jeg har også satt ned en ekspertgruppe som
+skal gjennomgå Nav 20 år etter Nav-reformen. Den skal bl.a. vurdere Navs
+oppgaver og organisering. I tillegg har jeg satt ned et utvalg som
+skal se på forenklinger i folketrygdloven for at den skal bli enklere
+å forstå og mer digitaliseringsvennlig. Sammen med ekspertgruppenes
+funn og anbefalinger skal dette gi oss et godt og nødvendig grunnlag
+for å utvikle framtidens arbeids- og velferdsforvaltning med mål
+nettopp om å få flere i jobb og færre på trygd.</A>
+            <A Type="Minnrykk">Jeg er enig med Riksrevisjonen i at det er
+forbedringspotensial, og det gjenstår mye arbeid. Samtidig vil jeg
+også understreke at vi er i gang, og at vi er på riktig vei. Det
+jobbes godt i Nav, og hver dag leverer etatens dyktige medarbeidere velferd
+til hundretusener av nordmenn. Det er dedikerte og engasjerte rådgivere
+og veiledere som jobber iherdig for å hjelpe folk tilbake i arbeidslivet.
+Den jobben er veldig viktig, og den må vi bidra til å forsterke.
+Det er det vi skal bygge videre på til beste for folk og for Norge.
+Målet er fortsatt veldig tydelig: Vi trenger flere i arbeid og færre
+på trygd.</A>
+            <A Type="Minnrykk">Jeg er også glad for at det er bred enighet,
+ikke minst etter å ha hørt representanten fra Høyre her, som understreker
+at Høyre er helt enig i det arbeidet regjeringen har satt i gang, selv
+om vi helt sikkert vil være uenig om både noen virkemidler og veien
+dit. Sykefraværet, som jeg var inne på innledningsvis, er en stor
+bekymring – vi må få sykefraværet ned. Det er positivt at det går
+i riktig retning, og vi ser nå at sykefraværet har gått ned. Det
+er også nettopp gjennom arbeidet i IA-avtalen jeg er opptatt av
+at vi nå skal iverksette tiltak og se på hvordan vi kan både forebygge
+og få folk raskere tilbake etter et sykefraværsløp. Men målet til
+Arbeiderparti-regjeringen er helt klart: Vi vil ikke redusere sykelønnen,
+men vi vil redusere sykefraværet.</A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:55:15]:</Navn> Fleire har
+ikkje bede om ordet til sak nr. 3.</A>
+          </Presinnlegg>
+          <Referanse Id="i1006390" voteringsDato="2026-03-17" debattDato="2026-03-17" saksKartNr="3" />
+        </Sak>
+        <Sak Id="i1006392" saksKartNr="4" sakID="105971">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak
+nr. 4</Uth> [11:55:21]</Saknr>
+            <Saktittel Id="i1006396">
+              <A>Innstilling fra kontroll- og konstitusjonskomiteen
+om Riksrevisjonens undersøkelse av myndighetenes ansvar i forbindelse
+med Alexander L. Kielland-ulykken <Uth Type="RETT">(Innst. 156
+S (2025–2026), jf. Dokument 3:7 (2025–2026))</Uth></A>
+            </Saktittel>
+          </Sakshode>
+          <Hovedinnlegg Id="i1006398">
+            <A>
+              <Navn personID="AICS">
+Aina Stenersen (FrP) [11:55:59]</Navn> (ordfører for saken): Alexander
+L. Kielland-ulykken regnes som den største industriulykken som har
+skjedd i Norge. Av de 212 personene som var om bord, omkom 123.
+Plattformen kantret i løpet av 20 minutter. Over 40 år etter setter
+ulykken fortsatt dype og vonde spor etter seg.</A>
+            <A Type="Minnrykk">Komiteen viser til at Riksrevisjonens bakgrunn
+for Dokument 3:7 for 2025–2026 var at et enstemmig storting i juni 2019
+ga Riksrevisjonen i oppdrag å undersøke hvordan myndighetene hadde
+ivaretatt sitt ansvar i forbindelse med Alexander L. Kielland-ulykken.
+Oppdraget omfattet bl.a. å undersøke myndighetenes ansvar for granskingen
+av årsakene til ulykken, kartleggingen av ansvarsforholdene og oppfølgingen
+av de etterlatte og overlevende. Riksrevisjonen rapporterte denne
+undersøkelsen i Dokument 3:6 for 2020–2021.</A>
+            <A Type="Minnrykk">Stortinget vedtok 5. juni 2025 at Riksrevisjonen
+skulle se på saken på nytt på bakgrunn av at det var offentliggjort
+to nye rapporter. Den ene rapporten er en studie om overlevende og
+pårørende etter ulykken, fra Nasjonalt kunnskapssenter om vold og
+traumatisk stress, NKVTS, i 2024. Den andre var en empirisk undersøkelse
+av myndighetenes oppfølging av ansvar etter Alexander L. Kielland-ulykken,
+fra Universitetet i Stavanger i 2025.</A>
+            <A Type="Minnrykk">Komiteen viser til Riksrevisjonens konklusjoner:
+Det er ikke ny vesentlig informasjon om myndighetenes ansvar for at
+ulykken kunne skje. Myndighetene hadde ikke hovedansvaret for ulykken,
+men det var alvorlige svakheter i hvordan myndighetene ivaretok
+ansvaret sitt før ulykken. Nye fakta viser at de berørte av Alexander
+L. Kielland-ulykken har mye helseplager og redusert livskvalitet.</A>
+            <A Type="Minnrykk">Komiteens flertall, medlemmene fra Arbeiderpartiet, Fremskrittspartiet,
+Høyre, Senterpartiet og Kristelig Folkeparti, slutter seg til Riksrevisjonens
+konklusjon om at det ikke var ny vesentlig informasjon om myndighetenes
+ansvar for at ulykken kunne skje. Komiteen slutter seg til Riksrevisjonens øvrige
+konklusjoner.</A>
+            <A Type="Minnrykk">Komiteen trekker videre fram NKTVS sine resultater
+og konklusjon: </A>
+            <Sitat Type="Minnrykk">
+              <A>«De berørte av Kielland-ulykken strever
+med uforholdsmessig mye helseplager og lavere livskvalitet, sammenlignet
+med den generelle befolkningen. Særlig blant de overlevende er det
+mange som har hatt det vanskelig og som fortsatt strever.</A>
+              <A>Dette understreker de ekstreme belastningene de ble utsatt for.
+Samtidig vitner det om svikten de berørte opplevde, ved at de ikke
+fikk den oppfølgingen som situasjonen krevde.</A>
+              <A>Det er umulig å presist anslå hva effekten av bedre oppfølging
+ville vært, men vi mener at det er faglig grunnlag for å si at det
+kunne ha vært betydningsfullt.»</A>
+            </Sitat>
+            <A Type="Minnrykk">Komiteen registrerer videre at NKVTS i sin
+undersøkelse bl.a. konkluderte med at det er kritikkverdig at de
+pårørende av de omkomne, inkludert barn som brått mistet faren sin, ikke
+fikk noen oppfølging.</A>
+            <A Type="Minnrykk">Komiteen viser til at Riksrevisjonen påpeker
+at bildet som tegnes i denne rapporten, kanskje er enda dystrere
+enn det Riksrevisjonen baserte seg på i 2021. Undersøkelsen til NKVTS
+viser at problemene fortsatt består, og at det ikke bare er den
+psykiske og fysiske helsen, men også ulike aspekter ved de berørtes
+livskvalitet som er redusert. Mange savnet også hjelp til moren
+sin etter ulykken, og flere mødre oppga at de ikke klarte å ta vare
+på barna sine i tiden etter.</A>
+            <A Type="Minnrykk">Som saksordfører vil jeg også trekke fram boken
+«Uten pappa» av Åse Kringlebotn, som er en viktig og sterk dokumentarbok
+fra 2025. I boken er 35 sterke og personlige beretninger fra barn
+som mistet sin far i Alexander L. Kielland-ulykken, samlet.</A>
+            <A Type="Minnrykk">Komiteen vil også videre vise til at NKVTS
+skriver at erfaringene fra Kielland-ulykken har vært viktig for
+utviklingen av psykososial oppfølging etter kriser og katastrofer
+i Norge. Det hviler et ansvar på politikere, myndigheter, fagfolk
+og kommuner for at de som rammes av slike hendelser i dag, ikke
+skal oppleve å bli sviktet av storsamfunnet på samme måte. </A>
+            <A Type="Minnrykk">Komiteen viser til at Riksrevisjonen ikke kommer
+med noen anbefalinger denne gangen. Riksrevisjonen mener at det ikke
+er hensiktsmessig etter så mange år. Alexander L. Kielland-ulykken
+førte til svært mange forbedringer i både regelverk, tilsyn og rapportering.
+Sikkerhetssystemet som ble etablert på norsk sokkel etter ulykken,
+reduserte risikoen for store, alvorlige ulykker betydelig. Komiteen
+slutter seg til Riksrevisjonens anbefalinger. </A>
+            <A Type="Minnrykk">Komiteen registrerer også at statsråden i sitt
+svarbrev til Riksrevisjonen vil takke Riksrevisjonen for det grundige
+arbeidet som er lagt ned. Statsråden skriver videre til Riksrevisjonen
+at rapporten gir et godt bidrag til forståelsen av ansvarsforholdene
+knyttet til ulykken og oppfølgingen i etterkant. Komiteen registrerer
+også at statsråden svarer at det at så mange av de berørte, både
+overlevende og etterlatte, har helseplager og redusert livskvalitet,
+er svært beklagelig.</A>
+            <A Type="Minnrykk">Komiteen vil også takke Riksrevisjonen for
+et grundig arbeid med Alexander L. Kielland-ulykken og NKVTS for sitt
+bidrag, som en kunnskapsrik aktør som utvikler og bidrar til viktig
+kunnskap og kompetanse om vold og traumatisk stress. Vi vil takke
+Universitetet i Stavanger for sin rapport og takke Kielland-nettverket
+for sitt mangeårige arbeid for overlevende og etterlatte etter Alexander
+L. Kielland-ulykken 27. mars 1980.</A>
+            <A Type="Minnrykk">Til slutt vil komiteens flertall – Fremskrittspartiet,
+SV, Senterpartiet, Rødt, MDG og KrF – vise til at alle er enige
+om myndighetenes medansvar for Kielland-katastrofen og svikt i oppfølging
+av overlevende og etterlatte, som har fått vedvarende helseplager
+og redusert livskvalitet. Stortinget har derfor bedt om unnskyldning
+og vedtatt en kompensasjon, noe disse medlemmer støtter fullt ut.
+Disse nevnte medlemmene venter utålmodig på at regjeringen skal
+følge opp Stortingets vedtak om kompensasjon.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1006400">
+            <A>
+              <Navn personID="AMAGUN">
+Amalie Gunnufsen (H) [12:03:17]:</Navn> Alexander L. Kielland-ulykken
+er og vil forbli et nasjonalt traume. 123 mennesker mistet livet.
+89 mennesker overlevde, men for mange har det vært et liv med store
+belastninger – fysisk, psykisk og sosialt. De som mistet noen de
+var glad i, har i over flere tiår kjempet for anerkjennelse, rettferdighet
+og svar. Derfor er det også riktig å bruke tid og ressurser på å
+søke sannheten om det som skjedde, og hvordan vi kan sørge for at
+noe lignende aldri skjer igjen. Med denne rapporten har vi nok en gang
+fått slått fast at myndighetene ikke gjorde en god nok jobb med
+sikkerheten før ulykken.</A>
+            <A Type="Minnrykk">For meg er det viktig å understreke at selv
+om staten ikke hadde hovedansvaret, betyr ikke det at staten ikke
+kunne og burde gjort mer for å forhindre ulykken. Myndighetene var kjent
+med svakheter i regelverket og kontrollen med flyttbare innretninger
+uten at det ble iverksatt nødvendige tiltak. </A>
+            <A Type="Minnrykk">For alle skadde og etterlatte er det alvorlig
+at det i etterkant av ulykken ikke ble skapt tilstrekkelig klarhet
+rundt ansvarsforholdene. Riksrevisjonen bruker sin sterkeste form
+for kritikk når det understrekes at myndighetene forsømte sitt ansvar
+da de ikke gjennomførte en fullstendig kartlegging av ansvaret til
+Stavanger Drilling og Phillips Petroleum etter ulykken. Rapporten
+fra 2021 slår fast at enkelte svakheter kan ha bidratt til å svekke
+tilliten til granskingen. Aleksander L. Kielland-ulykken er derfor
+en veldig trist påminnelse om hvor viktig åpenhet og ansvar er,
+ikke bare i petroleumspolitikken, men i forvaltningen av tilliten
+mellom stat og innbyggere</A>
+            <A Type="Minnrykk">Til slutt: De etterlatte ble ikke godt nok
+ivaretatt av myndighetene. De overlevende og etterlatte fikk ikke
+den oppfølgingen de hadde krav på. Sosialdepartementet sørget ikke
+for tilstrekkelig oppfølging av de etterlatte, selv om man i det
+medisinske fagmiljøet visste at behovet var stort. </A>
+            <A Type="Minnrykk">Det er derfor helt forståelig at mange berørte
+fortsatt opplever manglende tillit til hvordan myndighetene håndterte ulykken.
+Det er viktig for meg å understreke fra denne talerstolen at også
+Høyre stiller seg bak budskapet i flertallsmerknad, og nok en gang
+ønsker å understreke at det er viktig at Stortinget har bedt om
+unnskyldning. For alle som mistet livet, for dem som mistet noen
+de var glad i, og for dem som fikk et helt annet liv enn det de
+kunne hatt, skylder vi å erkjenne det som sviktet. Vi kan ikke endre
+historien, men vi har et stort ansvar for å lære av den.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1006402">
+            <A>
+              <Navn personID="SMY">
+Sverre Myrli (A) [12:06:23]:</Navn> Den 27. mars 1980 er en dato
+som har brent seg inn i minnet. Selv gikk jeg i 2. klasse. Det er
+en av de nyhetshendelsene jeg tidligst husker, med bildene av den
+kantrede plattformen som lå med fire bein opp ned – fire bein, for
+ett manglet. Det brente seg fast, og det var sterke inntrykk som
+rullet over tv-skjermen. Jeg tror det må ha vært noen av de første
+ekstraordinære nyhetssendingene vi så på NRK. Det var en fryktelig
+katastrofe, og 123 mennesker omkom. </A>
+            <A Type="Minnrykk">Saksordføreren har gått grundig gjennom historien
+for det etterspillet som kom etter Kielland-ulykken. Det er ikke vanskelig
+å skjønne at det er stort behov for å komme til bunns i Kielland-komplekset.
+Hvordan kunne dette skje – det som åpenbart ikke burde skjedd? Hvordan
+kan en unngå at noe slikt skjer igjen? Det har en snakket om i alle
+disse årene. Saksordføreren gikk som sagt grundig gjennom dette,
+og jeg skal ikke gjenta det. </A>
+            <A Type="Minnrykk">Den nåværende rapporten fra Riksrevisjonen,
+som vi har til behandling, stammer fra Stortingets vedtak 5. juni
+i fjor. Det var helt riktig av Stortinget å be Riksrevisjonen foreta
+en gjennomgang, som jo Stortinget kan gjøre. Stortinget bør ikke be
+Riksrevisjonen om slikt altfor ofte, men i viktige og spesielle
+saker kan og bør Stortinget gjøre det. Kielland-saken er åpenbart
+en slik sak. </A>
+            <A Type="Minnrykk">Jeg vil gjenta, veldig kort og summarisk, det
+som står i rapporten. Undersøkelsen fra Riksrevisjonen sier at rapporten ikke
+inneholder ny, vesentlig informasjon om myndighetenes ansvar for
+at ulykken kunne skje, og at myndighetene ikke hadde hovedansvaret
+for ulykken, men at det var alvorlige svakheter i hvordan myndighetene
+ivaretok ansvaret sitt for ulykken, som flere har vært inne på i
+debatten. Det sies også – svært viktig – at nye fakta i rapporten
+fra Nasjonalt kunnskapssenter om vold og traumatisk stress viser
+at de berørte har mye helseplager og redusert livskvalitet. </A>
+            <A Type="Minnrykk">Rapporten fra Riksrevisjonen er nok en gang
+en påminnelse, nok en gang en vekker til oss. Det som skjedde 27. mars
+1980, burde ikke skjedd. Det var en fryktelig katastrofe som rammet
+kongeriket, som rammet den nye oljenasjonen Norge, men som først
+og fremst rammet etterlatte, ektefeller, foreldre, venner, osv. </A>
+            <A Type="Minnrykk">Til slutt: Jeg skjønner at det er stor interesse
+for – og kanskje behov for, vil jeg legge til – å diskutere en kompensasjonsordning
+for Kielland-ofrene. Det er absolutt interessant å diskutere. Jeg
+vil bare understreke at det ikke har vært en del av Riksrevisjonens
+oppdrag. Riksrevisjonen har ikke gått inn på spørsmålet om kompensasjon.
+Det er et politisk spørsmål som selvsagt tilligger Stortinget å
+håndtere videre.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1006404">
+            <A>
+              <Navn personID="LAHA">
+Lars Haltbrekken (SV) [12:10:17]:</Navn> Selv husker jeg også godt
+de dagene i mars 1980 da den alvorlige ulykken inntraff. Årene etter
+har vært svært tunge for de etterlatte. Selv om Riksrevisjonen slår
+fast at myndighetene ikke kan bære hovedansvaret for ulykken, er
+det ikke noen tvil om at myndighetene kunne ha gjort mer for å forhindre
+denne ulykken. </A>
+            <A Type="Minnrykk">Jeg hører representanter si i dag at vi må
+lære av det som har skjedd. Det er vi selvfølgelig enig i. Vi ser
+fortsatt i dag at myndighetene har en for dårlig behandling av dem
+som har stått på i oljebransjen, f.eks. oljepionerene. Vi ser også
+at myndighetene har vært for dårlige når det gjelder å følge opp krav
+til sikkerheten for våre ansatte i oljebransjen. Det er nok å nevne
+de gjentatte skandalene knyttet til Equinors anlegg på Melkøya i
+Finnmark, hvor det mange ganger de siste årene har vært veldig alvorlige
+hendelser knyttet til virksomheten, og hvor det er behov for at
+myndighetene agerer overfor et oljeselskap som for det aller meste
+er statseid. </A>
+            <A Type="Minnrykk">Fra SVs side er vi, i likhet med Rødt og MDG,
+skuffet over at Riksrevisjonen ikke tar inn over seg funnene i Universitetet
+i Stavangers rapport om Kielland-ulykken som kom i fjor, og som
+viser at nasjonale interesser overskygget behovet for sannhet og
+rettferdighet for ofrene. Rapporten ga ny dokumentasjon på myndighetenes
+medansvar og svikt i granskingen, men Riksrevisjonen avfeier dette
+som «ikke vesentlig ny informasjon». Dette svekker tilliten til
+myndighetenes håndtering av katastrofen mange år etterpå. </A>
+            <A Type="Minnrykk">Vi er glade for at det er et flertall i komiteen
+som er utålmodige på den oppfølgingen som vi forventer at regjeringen raskt
+kommer med knyttet til kompensasjon til de etterlatte, som Stortinget
+vedtok i fjor.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1006406">
+            <A>
+              <Navn personID="GP">
+Geir Pollestad (Sp) [12:14:05]:</Navn> Kielland-ulykka var sjølvsagt
+grusom for dei som vart ramma og for deira pårørande. Eg hugsar
+ikkje sjølv ulykka, men eg hugsar godt tida etter ulykka. Det var
+ein heil region som hadde gått frå håp, framgang og optimisme, til
+meir skrekk og frykt. Difor må me ta denne saka på største alvor,
+sjølv så lang tid i etterkant. 123 menneske mista livet. Familiar,
+lokalsamfunn og nasjonen vart ramma, og det har vore tiår med manglande
+svar, manglande ansvar og manglande oppfølging. Det er eit alvor som
+nokre har måtta bera byrda av.</A>
+            <A Type="Minnrykk">Når det gjeld konklusjonane til Riksrevisjonen,
+er dei tydelege, men Senterpartiet vil òg forhalda seg til undersøkinga til
+Universitetet i Stavanger frå 2025, som slår fast at styresmaktene
+hadde eit stort ansvar for at ulykka kunne skje, og at etterforskinga
+i ettertid ikkje var god nok. Det er jo spørsmål oppi dette som
+ein ikkje har fått gode nok svar på. Korleis kunne ein bruka denne
+plattforma som ei bustadplattform, noko ho aldri var godkjent som?
+Kvifor vart ikkje avgjerda til Riksadvokaten – i brev av 19. mars
+1982 til Statsadvokaten i Rogaland, om at ingen kunne stillast til
+ansvar for ulykka – teke opp til ei ny vurdering i ettertid? Det
+er spørsmål som ligg der.</A>
+            <A Type="Minnrykk">For Senterpartiet er det no viktig at me for
+det fyrste raskt må sørgja for rettferd for dei etterlatne og dei
+som overlevde. Det må koma på plass ei ordning som den Stortinget
+har sagt at me skal ha på plass. Det handlar om respekt, om rettferd
+og om å retta opp i ein urett som har vart for lenge. </A>
+            <A Type="Minnrykk">For det andre: Sjølvsagt har ulykka gjeve oss
+mykje læring og beredskap, men det er òg ei påminning om at den
+innsatsen som folk gjennom alle desse åra har gjort for å sørgja for
+rikdomen i Noreg ved å utnytta olje- og gassressursen vår, ikkje
+har vore utan risiko. Dei har gjort ein viktig jobb for landet,
+så denne saka har mykje større utbreiing enn til dei som vart direkte
+ramma av ulykka. Det må me ta med oss. Etterspelet etter Alexander
+Kielland-ulykka er eit godt eksempel på kor viktig openheit er for
+å sikra tillit mellom folk og styresmakter. </A>
+            <A Type="Minnrykk">Senterpartiet meiner at Stortinget no må sørgja
+for at ein følgjer opp rapporten og tilrådingane til Riksrevisjonen
+på ein grundig og forpliktande måte. Me må sikra at staten tek ansvar,
+ikkje berre i ord, men i handling, og difor forventar me at regjeringa
+leverer på vedtaket i Stortinget om ein særskild kompensasjon til
+dei som er råka av ulykka. Alexander Kielland-ulykka skal ikkje
+og vil ikkje verta gløymd. Me må sørgja for å ta med oss lærdomen
+frå dette for at ei slik ulykke aldri skal skje igjen.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1006408">
+            <A>
+              <Navn personID="MMIKRI">
+Mímir Kristjánsson (R) [12:18:26]:</Navn> Jeg ble født seks år etter
+Alexander L. Kielland-ulykken, så jeg husker absolutt ingenting
+av det, men jeg har jo rukket å bli nesten 40 år uten at vi har
+løst problemene etter den ulykken, og uten at staten har tatt på
+seg det ansvaret som den uomtvistelig har hatt, både for at et havari
+ble en katastrofe som kostet 123 mennesker livet og som ødela livet
+til mange flere, de som var igjen, både av overlevende og blant
+de etterlatte på land, for at man ikke gransket det på en ordentlig
+måte og kom til bunns i ansvarsforholdene med én gang, og for at
+man ikke tok vare på ofrene, de etterlatte og de overlevende på
+en ordentlig måte etterpå. </A>
+            <A Type="Minnrykk">I en ikonisk tv-sending dag etter Kielland-ulykken
+sa Hans Wilhelm Steinfeld i NRK: I dag er værforholdene bedre, havet
+ligger som et speil. Det som om Nordsjøen angrer på det den har
+gjort. </A>
+            <A Type="Minnrykk">Om havet angret, tok det ganske lang tid før
+staten var i stand til å angre og ta ansvar for det er den hadde
+gjort, for de dispensasjonene den hadde gitt, for at den ikke hadde
+fulgt opp sitt eget regelverk og fulgt opp sine egne kontroller.
+I stedet har man gjennom mange tiår først prøvd å dysse ned denne
+saken – løpe fra ansvaret – og så kjempet en kamp mot å gi kompensasjon
+til de overlevende og etterlatte etter ulykken. </A>
+            <A Type="Minnrykk">Det som Riksrevisjonen kommer fram til i sin
+rapport, er ingen overraskelse, og det bør ikke være det for noen
+av oss som sitter her i denne salen. Vi har i mange år visst, fra
+Riksrevisjonens forrige arbeid, at staten hadde et medansvar for norgeshistoriens
+største industriulykke, der 123 mennesker mistet livet. Det har
+vi som er her inne, vært så klar over at alle partiene har signert
+på unnskyldning til de etterlatte og de overlevende. Likevel ble
+saken altså sendt tilbake til Riksrevisjonen for at de skulle ta
+en runde til. De kom tilbake og sa det som man her har visst hele
+tiden: Staten er medansvarlig for denne ulykken. Staten må ta ansvar
+for at det gikk galt, og staten må ta ansvar for at man ikke har
+fulgt den opp skikkelig i ettertid. Det er jeg glad for at vi får
+stadfestet enda en gang, men da er det i alle fall om å gjøre å
+få satt i verk det et flertall på Stortinget også har vedtatt, nemlig
+at de overlevende og etterlatte etter Kielland-ulykken må få en
+kompensasjon for den uretten som staten begikk mot dem for over
+45 år siden. </A>
+            <A Type="Minnrykk">Dette handler først og fremst om de overlevende
+og etterlatte etter ulykken, men det handler faktisk om mange andre ting
+også. Det handler om alle de hundretusenvis av mennesker som har
+jobbet og som jobber i og rundt oljeindustrien, eller på andre måter
+på havet, for Norge, og at de skal føle seg trygge, og at de skal
+føle at hvis noe går galt i det som alltid vil være risikofylte
+og farlige jobber, så skal staten ta ansvar for sikkerheten og rydde
+opp etter seg etterpå hvis den gjør noe feil eller noe galt. Det
+handler også om, som representanten Pollestad var inne på, om tilliten
+til myndighetene. Hvis det danner seg et inntrykk, det inntrykket
+bunner kanskje til og med i noe sant, av at staten i Norge aldri
+gjør opp for sine egne feil, at en bruker 40 år på å beklage og
+så kanskje ti år til på å betale erstatning, at det er dette som
+skjer gang på gang – at det var det som skjedde først med krigsseilerne,
+så med nordsjødykkerne, så med oljepionerene og så med ofrene etter Kielland-ulykken
+– og at dette er gjennomgående i måten staten behandler det ansvaret
+den har for å sette folks liv og helse i fare i arbeidslivet på,
+kan jo det ødelegge tilliten til hele staten og til myndighetene. </A>
+            <A Type="Minnrykk">Jeg finner det merkelig at den siste merknaden
+i denne innstillingen fra kontroll- og konstitusjonskomiteen ikke
+er enstemmig. Jeg finner det merkelig at det ikke var mulig for også
+Høyre og Arbeiderpartiet å være enig i at Stortingets vedtak om
+å gi kompensasjon burde settes ut i live, og at man ser fram til
+det. Jeg finner det merkelig at man fortsatt har en eller annen
+slags omkampkultur knyttet til det, når alle partiene her inne har
+bedt om unnskyldning, når Riksrevisjonen har sagt at staten har
+et medansvar for at 123 mennesker mistet livet, når et flertall
+har vedtatt at det skal komme en kompensasjonsordning, og når man
+i høst på nytt, til og med, vedtok i denne sal at farten i å etablere
+den kompensasjonsordningen måtte opp. </A>
+            <A Type="Minnrykk">Det er mange her inne i mange partier – inkludert
+Rødt – som har kjempet sammen med de overlevende og etterlatte for
+at de skal få den kompensasjonen. Det handler selvfølgelig om penger,
+men det handler også om rettferdighet. Nordsjødykkerne fikk en kompensasjon
+på 65 G. Det er helt rimelig at disse livene skal behandles likt. </A>
+            <A Type="Minnrykk">Hvis staten ikke er i stand til å gi kompensasjoner
+og etablere sånne holdninger, oppleves det heller ikke som at saken er
+ferdig. Da vil vi ikke bare stå her det året jeg fyller 40 år; da
+vil vi jo stå her også de årene jeg fyller 60, 70 og 80 år, for denne
+saken blir jo ikke glemt, den blir ikke borte. Før vi har ordnet
+opp i denne saken, vil de som har vært berørt, og familiene deres,
+kjempe videre for å få saken lukket, som er det fremste målet de
+overlevende og etterlatte har, men det krever altså at man få på
+plass den kompensasjonsordningen som Stortinget har vedtatt, og
+at man gjør det så fort som man overhodet kan. Det ser vi, i likhet
+med flertallet her inne, fram til at skal skje ved første mulighet.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1006410">
+            <A>
+              <Navn personID="JONSAY">
+Jonas Andersen Sayed (KrF) [12:24:27]:</Navn> Dagen da ulykken med
+Kielland-plattformen skjedde, står igjen som den mørkeste i norsk
+industrihistorie. 123 liv gikk tapt. Det er over fire tiår siden,
+men smerten og savnet lever videre – i familier, i lokalsamfunn
+og i vår historie. </A>
+            <A Type="Minnrykk">Denne tragedien handler ikke bare om en tragisk
+ulykke. Den handler også om svikt. Boligplattformen var aldri godkjent.
+Det var mange feil og mangler under driften. Dører sto åpne, og
+det ble gitt dispensasjoner som aldri burde vært gitt. </A>
+            <A Type="Minnrykk">Det er klart at staten har et ansvar og hadde
+et ansvar. Ikke minst har staten et ansvar for at oppfølgingen av
+ulykken ble så dårlig som den ble, både når det gjaldt å granske
+og komme til bunns i de faktiske årsaksforholdene, og når det gjaldt
+å ta vare på dem som ble sittende igjen – de overlevende og etterlatte.
+Historiene er mange og vonde. Unger som mistet pappaen sin, fikk
+ingen oppfølging. Mødre som ikke klarte å ta vare på ungene sine,
+fikk ingen hjelp. Det tok over 40 år før Stortinget kom med en samlet
+unnskyldning. Men en unnskyldning alene reparerer ikke den tilliten
+som har blitt brutt. </A>
+            <A Type="Minnrykk">Stortinget vedtok 5. juni i fjor at det skal
+etableres en særskilt kompensasjonsordning for de overlevende og
+etterlatte. Det var rett og nødvendig. Vi visste allerede da nok
+om at staten hadde et ansvar, så denne strafferunden med Riksrevisjonen
+var i så måte unødvendig og endrer ikke på det faktum. </A>
+            <A Type="Minnrykk">Når det gjelder saken som vi har til behandling
+i dag, stiller jeg meg i all hovedsak bak innledningen til saksordføreren.
+Det som haster nå, er å få satt punktum. KrF forventer at regjeringen
+leverer på det vedtaket som Stortinget fattet i juni, og også i
+trontaledebatten i oktober, om at regjeringen skal legge fram et
+forslag til kompensasjonsordning for ofre og etterlatte etter Kielland-ulykken
+denne våren.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1006412">
+            <A>
+              <Navn personID="TELA">
+Statsråd Terje Aasland [12:26:42]:</Navn> Aller først: Tusen takk
+til komiteen og saksordføreren for en grundig redegjørelse omkring
+en veldig alvorlig sak.</A>
+            <A Type="Minnrykk">Alexander L. Kielland-ulykken er, som flere
+har nevnt, den største ulykken i norsk industrihistorie. Nå som
+vi igjen nærmer oss årsdagen for ulykken, 27. mars, går selvfølgelig tankene
+til de overlevende og etterlatte, som fortsatt lever med de konsekvensene
+ulykken hadde.</A>
+            <A Type="Minnrykk">Jeg vil takke Riksrevisjonen for det grundige
+arbeidet som er lagt ned i deres nye gjennomgang. Jeg mener det
+var riktig av Stortinget den gang å be Riksrevisjonen om å gjennomgå
+de rapportene som forelå, og Riksrevisjonens gjennomganger gir et
+godt bidrag til forståelsen av ansvarsforhold knyttet til ulykken
+og oppfølgingen i etterkant. Rapporten fra Nasjonalt kunnskapssenter
+om vold og traumatisk stress har særlig bidratt til å kaste lys
+over sammenhengen mellom ulykken og de langvarige helseplagene som
+rammer de berørte, overlevende og etterlatte.</A>
+            <A Type="Minnrykk">Når det gjelder rapporten fra Universitetet
+i Stavanger, konkluderer Riksrevisjonen med at de ikke har funnet
+ny, vesentlig informasjon om myndighetenes ansvar for at ulykken kunne
+skje, verken i den empiriske undersøkelsen til Universitetet i Stavanger
+eller i arkivmateriale som undersøkelsen bygger på. Det tar jeg
+til etterretning. </A>
+            <A Type="Minnrykk">Dette er en sak som er viktig når en tenker
+på læringspunktene – oppfølgingen av læringspunktene – som ligger der.
+Jeg mener at sånn sett er mye bra gjort, men det gjenstår helt sikkert
+også oppgaver.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1006414">
+            <A>
+              <Navn personID="JANVES">
+Statsråd Jan Christian Vestre [12:28:40]:</Navn> Jeg vil innledningsvis
+også takke saksordføreren for en meget god redegjørelse. Som det
+er blitt sagt av flere: Dette er den største ulykken i norsk industrihistorie,
+en enorm tragedie med forferdelige menneskelige konsekvenser. Vi
+kan bare forestille oss de scenene som utspant seg på denne plattformen,
+og ikke minst følgene etterpå for både overlevende, pårørende og
+etterlatte, de som ikke fikk sine kjære hjem. </A>
+            <A Type="Minnrykk">Som også denne saken viser, har nye fakta fått
+godt fram at de berørte av denne forferdelige ulykken har helseplager
+og redusert livskvalitet. At så mange av de berørte, både overlevende
+og etterlatte, har helseplager og redusert livskvalitet, noe som
+er godt dokumentert, er svært alvorlig. Det er ingen tvil om at
+de etterlatte skulle fått bedre hjelp og oppfølging i etterkant
+av ulykken. Det understøttes også med den nye undersøkelsen fra
+Nasjonalt kunnskapssenter om vold og traumatisk stress, NKVTS.</A>
+            <A Type="Minnrykk">I 1980 var kunnskapen om traumebehandling og
+oppfølging av overlevende og etterlatte begrenset. Heldigvis, får
+vi si, har mye skjedd med hensyn til oppfølging av berørte etter kriser
+og katastrofer i årene etter denne ulykken, slik Riksrevisjonen
+også påpeker. Kommunene er nå pålagt å ha planer for psykososial
+oppfølging etter større alvorlige hendelser som skjer innenfor kommunen.
+Ansvaret for psykososial oppfølging og beredskap er også tydeliggjort
+i lov om kommunale helse- og omsorgstjenester. Helsedirektoratet
+har gitt ut en veileder for psykososiale tiltak ved kriser, ulykker
+og katastrofer. I denne veilederen understrekes bl.a. behovet for tidlig,
+proaktiv hjelp.</A>
+            <A Type="Minnrykk">Kompetanse er en annen viktig faktor som har
+bidratt til et mer robust system. NKVTS og de regionale ressurssentrene
+om vold, traumatisk stress og selvmordsforebygging, RVTS, har gitt
+oss mer forskningsbasert kunnskap og kompetanseheving ut mot tjenestene. </A>
+            <A Type="Minnrykk">Jeg vil også benytte anledningen til å takke
+Kielland-nettverket for den jobben de har gjort, som har vært uvurderlig,
+for å støtte overlevende og etterlatte.</A>
+            <A Type="Minnrykk">Det er viktig for regjeringen å støtte kommunene
+i arbeidet med psykososial beredskap og oppfølging. Fra og med statsbudsjettet
+for 2023 er det derfor årlig bevilget 5 mill. kr til at RVTS-ene
+kan gi nødvendig tjenestestøtte til kommuner ved uforutsette og
+akutte kriser, ulykker og katastrofer.</A>
+            <A Type="Minnrykk">Denne regjeringen har også lagt fram en tiårig
+opptrappingsplan for psykisk helse. Planen omfatter hele befolkningen
+og hele bredden i det psykiske helsearbeidet, fra forebygging og
+helsefremming til hjelp, behandling og oppfølging, både i kommunene
+og i spesialisthelsetjenesten. Denne planen styrker feltet med 3 mrd. kr
+over ti år.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1006416">
+            <A>
+              <Navn personID="OBT">
+Ove Trellevik (H) [12:31:39]:</Navn> Eg tek ordet for ei oppklaring.
+Det var representanten frå Raudt som i innlegget sitt gjorde meg
+merksam på at Høgre, og for så vidt òg Arbeidarpartiet, ikkje var
+med i det siste avsnittet i merknadene. Det er rett og slett berre
+ein feil. Høgre stilte seg bak unnskyldninga som er gjeven frå Stortinget,
+og me har òg stilt oss bak at det skal verta gjeve ein kompensasjon
+til offera. Etter det eg forstår, var òg Arbeidarpartiet der at
+dei støtta både ei unnskyldning og at det skulle verta gjeve ein
+kompensasjon. Så slik sett kunne det vore ein komitémerknad. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1006418">
+            <A>
+              <Navn personID="GP">
+Geir Pollestad (Sp) [12:32:30]:</Navn> Sjølv om det ikkje er ein
+del av den rapporten som me behandlar i dag, har eg lyst til å utfordra
+energiministeren til å teikna seg til eit kort innlegg for å oppklara
+ein sak som eg trur veldig mange lurer litt på, nemleg: Kva er status
+for arbeidet med kompensasjonsordning, og når kan Stortinget forventa
+å få den lagt føre seg? Det meiner eg er veldig vesentleg, så kunne
+ein representant for regjeringa ha avklart det før debatten er slutt?
+Og så skal ikkje eg snakka lenger enn eg må, slik at dei skal få lov
+til å teikna seg. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1006420">
+            <A>
+              <Navn personID="AICS">
+Aina Stenersen (FrP) [12:33:33]:</Navn> Tusen takk for en veldig
+god debatt her i salen, og takk også for gode innlegg fra ministrene. </A>
+            <A Type="Minnrykk">Det som fikk meg til å ta ordet, var representanten
+fra Høyre som meldte at Ap og Høyre tilsluttet seg merknaden. Det
+er jeg veldig glad for, så jeg takker for det. Vi har jo hatt disse
+merknadene i ca. fire runder, så det er veldig fint at vi her i
+salen får tilslutning til denne. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1006422">
+            <A>
+              <Navn personID="PTA">
+Per-Willy Amundsen (FrP) [12:34:26]:</Navn> Det er ingen som er
+i tvil om alvoret og historikken i denne saken, som går lang tid
+tilbake, og som ikke har fått den rettferdige behandlingen den burde
+hatt. Jeg føler ikke noe behov for å fylle ut det som jeg mener
+saksordføreren på glimrende vis har gjort rede for. Jeg vil egentlig
+bare påpeke at det er litt spesielt at Sosialistisk Venstreparti,
+Rødt og Miljøpartiet De Grønne har en egen merknad hvor de i realiteten
+kritiserer Riksrevisjonen for deres arbeid. Det er for så vidt grunn
+til å merke seg at man velger å gjøre det, men jeg oppfatter at
+det overhodet ikke treffer blink. Jeg oppfatter at det arbeidet Riksrevisjonen
+har gjort, holder god kvalitet, og det er ingen grunn til å trekke
+det i tvil, sånn som denne merknaden, den nest siste merknaden på
+side 10, gir inntrykk av. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1006424">
+            <A>
+              <Navn personID="TELA">
+Statsråd Terje Aasland [12:35:48]:</Navn> Når jeg blir direkte oppfordret
+av representanten Pollestad til å si noe om hvor regjeringens arbeid
+med denne kompensasjonsordningen ligger, så skal jeg prøve å gi
+et forholdsvis tydelig svar på det. </A>
+            <A Type="Minnrykk">Regjeringen har i oppfølgingen av Stortingets
+vedtak ferdigstilt de delene av arbeidet som er mulig å ferdigstille, innen
+mars. Det har vi gjort i tråd med Stortingets vedtak, og det er
+en kompensasjonsordning som vi mener er riktig, i form av en egen
+særlov, på samme måte som for oljepionerene. Dette er et arbeid
+som har krevd – og krever – juridiske og administrative, men også
+budsjettmessige avklaringer. Regjeringen vil derfor i forbindelse
+med revidert nasjonalbudsjett omtale hvordan en slik kompensasjonsordning
+kan innrettes, og anslag på kostnader, slik at Stortinget har anledning
+til å prioritere dette i budsjettbehandlingen. Et forslag til særlov vil
+da umiddelbart bli sendt på høring, etter at Stortinget har avsatt
+penger til kompensasjonsordning.</A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [12:36:53]:</Navn> Fleire har
+ikkje bedt om ordet til sak nr. 4.</A>
+          </Presinnlegg>
+          <Referanse Id="i1006426" voteringsDato="2026-03-17" debattDato="2026-03-17" saksKartNr="4" />
+        </Sak>
+        <Sak Id="i1006428" saksKartNr="5" sakID="104930">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak
+nr. 5</Uth> [12:37:00]</Saknr>
+            <Saktittel Id="i1006432">
+              <A>Innstilling fra kontroll- og konstitusjonskomiteen
+om Anmodnings- og utredningsvedtak i stortingssesjonen 2024–2025 <Uth Type="RETT">(Innst. 125 S (2025–2026), jf. Meld. St. 4 (2025–2026))</Uth></A>
+            </Saktittel>
+          </Sakshode>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [12:37:15]:</Navn> Etter ønske
+frå komiteen vil presidenten ordna debatten slik: 5 minutt til kvar
+partigruppe og 5 minutt til medlemer av regjeringa. </A>
+            <A Type="Minnrykk">Vidare vil det – innanfor den fordelte taletida
+– bli gjeve høve til inntil åtte replikkar med svar etter innlegg
+frå medlemer av regjeringa, og dei som måtte teikna seg på talarlista
+utover den fordelte taletida, får ei taletid på inntil 3 minutt.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1006434">
+            <A>
+              <Navn personID="PTA">
+Per-Willy Amundsen (FrP) [12:37:56]</Navn> (ordfører for saken):
+Dette er en viktig oppfølging fra Stortinget for å ha kontroll med
+og oversikt over at de vedtak som fattes i denne sal, reelt blir
+fulgt opp av regjeringen. Det er ikke valgfag for regjeringen hvorvidt
+de skal gjennomføre Stortingets anmodnings- og utredningsvedtak;
+det kan altså ha konsekvenser for regjeringen dersom man ikke følger
+opp Stortingets anmodnings- og utredningsvedtak. </A>
+            <A Type="Minnrykk">Derfor er det grunn til bekymring når vi ser
+en utvikling som er vanskelig å forstå på annen måte enn at regjeringen ligger
+etter i å gjennomføre de vedtak Stortinget har gjort. Det begynner
+å bli mange, og det begynner også å bli sånn at en del av dem strekker
+seg svært langt tilbake i tid. Det er på ingen måte en heldig utvikling. </A>
+            <A Type="Minnrykk">Man kan legge til at Stortinget er ganske flinke
+til å gjøre vedtak, så det er ganske omfattende, og det kan det
+jo være veldig mange gode grunner til. Det er også sånn, i hvert
+fall i denne perioden, at Stortinget forholder seg til en mindretallsregjering,
+og da vil det nødvendigvis bli flere vedtak som går mot regjeringens
+vilje. Ikke desto mindre må regjeringen følge opp også disse flertallsvedtakene. </A>
+            <A Type="Minnrykk">Fra komiteens side tror jeg det er viktig å
+understreke alvoret med å følge opp disse vedtakene, og at presisjonen
+kanskje bør være bedre. Jeg har derfor et ønske om å ta initiativ til
+at vi for fremtiden bør ha bedre oppfølging av de anmodnings- og
+utredningsvedtakene som Stortinget fatter, gjerne et system som
+formelt inkluderer fagkomiteene i langt større grad. Det er en diskusjon
+som jeg tenker vi bør ta med presidentskapet – for å sørge for at
+man får den formelle behandlingen av disse vedtakene som de fortjener.
+Det stiller også krav til Stortinget selv at når man fatter vedtak,
+må man være tydelig, og det må være målbart. Man må også kunne sette
+et tidspunkt eller en sluttstrek for når man kan anse det fulgt opp,
+og når det ikke er det. Vi skal komme tilbake til det, men med det
+antallet det er snakk om i dag, er det i hvert fall grunn til å
+stille spørsmål ved om vi i tilstrekkelig grad har god nok oppfølging
+av vedtakene. </A>
+            <A Type="Minnrykk">Jeg vil også informere om at i Prop. 1 S foreslo
+regjeringen å oppheve flere anmodningsvedtak. Likevel ble altså
+fire av disse vedtakene ikke opphevet av Stortinget. Det gjelder vedtakene
+619 for 2024–2025, 807 for 2024–2025, 147 for 2023–2024 og endelig
+1 200 for 2020–2021. Disse er altså ikke omtalt i innstillingen.
+I og med at Stortinget gikk imot regjeringens forslag, forutsettes
+det at regjeringen fortsetter sin rapportering også på disse vedtakene. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1006436">
+            <A>
+              <Navn personID="GP">
+Geir Pollestad (Sp) [12:42:17]:</Navn> Eg har nokre gongar opp gjennom
+livet prøvd å lesa Prosessen av Kafka. Det har kvar einaste gong
+gått gale og fått meg til å føla meg litt forvirra, dum, litt enkel
+og usikker. Det er litt den same følelsen eg får når eg prøver å
+forstå måten Stortinget følgjer opp oppmodingsvedtak på. For korleis
+var det no med dette forholdet mellom oppmodingsvedtaka i statsbudsjettet
+og i Meld. St. 4? Korleis var det no med innstillinga til regjeringa,
+innstillinga til fagkomiteane og innstillinga til kontrollkomiteen
+i dette? Det er mogleg å verta litt forvirra, dum, litt enkel og
+usikker òg av å prøva å forstå det.</A>
+            <A Type="Minnrykk">Eg meiner at innstillinga her viser at regjeringa
+har hatt for lite respekt for oppmodingsvedtaka, for det er ei rekkje vedtak
+ein har føreslått å avslutta rapporteringa på, der Stortinget no
+seier nei, rapporteringa kan ikkje avsluttast. Det som er viktig
+å seia, er at viss regjeringa er ueinig i eit vedtak, kan regjeringa
+føreslå å oppheva vedtaket. Eg meiner det er betydeleg ryddigare
+enn å seia at vedtaket er gjennomført og difor kan leggjast vekk.</A>
+            <A Type="Minnrykk">Det er òg nokre forslag i innstillinga og i
+komiteen som ikkje har eit fleirtal bak seg, men der det mindretalet
+som har gjeve uttrykk for ei meining i innstillinga, har eit fleirtal
+i stortingssalen. Eg forventar at regjeringa òg tek omsyn til det
+når ein ser på om rapporteringa kan avsluttast eller ikkje. Det
+må jo vera stortingsfleirtalet som er det avgjerande. Det er vel sånn
+at Høgre, FrP, Senterpartiet og KrF – nokre vil seia ein draumeallianse,
+det meiner ikkje eg – er ein allianse som har fleirtal i Stortinget,
+men ikkje i kontrollkomiteen. Det må ein ta omsyn til.</A>
+            <A Type="Minnrykk">Det kan nok òg vera – og eg veit ikkje om det
+er upassande – at Stortinget skal snu oss litt rundt og sjå litt
+på oss sjølve òg. Me fattar mange vedtak. Det er vedtak som minner
+meir om julekort enn politiske vedtak, så eg tenkjer at det er viktig at
+òg Stortinget og me i denne salen er opptekne av at vedtaka me fattar,
+er klare og tydelege. Det kan vera at mengda òg kunne vore noko
+mindre, utan at det gjekk utover den politiske viljen som ligg bak
+oss.</A>
+            <A Type="Minnrykk">Det er eit problem at engasjementet for å gjera
+vedtak er større enn engasjementet for at vedtaka faktisk vert følgde opp.
+Hensikta med å gjera vedtak er jo at me ønskjer å påverka samfunnet,
+og då krev me at regjeringa følgjer opp det, men me som storting
+må òg følgja opp kontrollen med om vedtaka vert følgde opp vidare.
+Dermed vil eg gje full støtte til komitéleiarens ønske om å finna
+ein betre måte å gjera dette på i framtida, sånn at me ikkje får
+ein Kafka-følelse når me sit og behandlar desse vedtaka.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1006438">
+            <A>
+              <Navn personID="JANVES">
+Statsråd Jan Christian Vestre [12:46:21]:</Navn> Antallet anmodningsvedtak
+de senere årene har vært på et høyt nivå. Regjeringen følger opp
+de vedtakene Stortinget fatter, og så registrerer vi også at det
+er en diskusjon om bruken av anmodningsvedtakene. Jeg vil presisere
+at et stort antall vedtak i seg selv kan begrense mulighetene for
+en grundig oppfølging av den enkelte saken.</A>
+            <A Type="Minnrykk">Det bør absolutt være et felles mål for Stortinget
+og regjeringen at mengden utestående vedtak over tid reduseres.
+I tilbakemeldingen i Prop. 1 S for 2025–2026 anser departementene
+at det samlet sett er 424 utestående vedtak der rapporteringen ikke
+kan avsluttes. Det er på om lag samme nivå som i fjor.</A>
+            <A Type="Minnrykk">Jeg registrerer også at kontroll- og konstitusjonskomiteen
+i all hovedsak er enig i regjeringens vurdering av hvilke tiltak
+rapporteringen kan avsluttes på, men at komiteen ønsker at det skal
+rapporteres videre på om lag 65 punkter. Regjeringen vil naturligvis
+følge opp disse og rapportere videre.</A>
+          </Hovedinnlegg>
+          <Referanse Id="i1006440" voteringsDato="2026-03-17" debattDato="2026-03-17" saksKartNr="5" />
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [12:47:36]:</Navn> Fleire har
+ikkje bedt om ordet til sak nr. 5.</A>
+            <A Type="Minnrykk">Med det er òg dagens kart ferdig debattert.
+Stortinget tek då pause, og i samsvar med den annonserte dagsordenen
+blir det votering kl. 15.</A>
+          </Presinnlegg>
+          <Merknad>
+            <Avbrutt>
+              <A align="center">Stortinget tok pause i forhandlingane
+kl. 12.48.</A>
+            </Avbrutt>
+            <Handling>
+              <A align="center">-----</A>
+              <A align="center">Stortinget gjenopptok forhandlingene kl. 15.</A>
+              <A Id="i1006442" align="center">President: <Uth Type="Sperret">Morten
+Stordalen</Uth></A>
+            </Handling>
+          </Merknad>
+        </Sak>
+        <VoteringerStart>
+          <Tittel>Votering</Tittel>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [15:05:13]:</Navn> Vi starter
+da voteringen med gjenstående saker fra Stortingets møte torsdag
+12. mars.</A>
+          </Presinnlegg>
+          <Voteringer Id="i1006444" saksKartNr="8" debattDato="2026-03-12" tidspunkt="1505" sakID="105043">
+            <Sakdel>
+              <Tittel>Votering i sak nr. 8,
+debattert 12. mars 2026</Tittel>
+              <A Id="i1006446">Innstilling fra justiskomiteen om Representantforslag
+fra stortingsrepresentantene Mahmoud Farahmand, Henrik Gottfries
+Kierulf, Anna Molberg og Tone Wilhelmsen Trøen om økt maksstraff
+for voldtekt og utvidet unntak fra foreldelsesfrist (Innst. 146
+L (2025–2026), jf. Dokument 8:16 L (2025–2026))</A>
+              <Referanse Id="i1006448" debattDato="2026-03-12" saksKartNr="8" />
+              <A Type="Blanklinjeminnrykk">Komiteen hadde innstilt til Stortinget
+å gjøre følgende vedtak til </A>
+            </Sakdel>
+            <VedtakL>
+              <VedtakTilLov>
+                <Tittel>lov</Tittel>
+                <OmLoven>
+                  <A>om endringer i straffeloven</A>
+                </OmLoven>
+                <A Type="Sentrert">I</A>
+                <A Type="Uinnrykk">I lov 20. mai 2005 nr. 28 om straff gjøres
+følgende endringer:</A>
+                <Paragraf>
+                  <Tittel>§ 91 første ledd skal lyde:</Tittel>
+                  <A Type="Minnrykk">Straffansvaret for folkemord, forbrytelser
+mot menneskeheten, krigsforbrytelser og terrorhandlinger foreldes
+ikke dersom handlingene kan straffes med fengsel i 15 år eller mer.
+Straffansvaret for fullbyrdede overtredelser av §§ <Endring>275,
+291 andre ledd, 293, 299</Endring> og 302 foreldes ikke. Straffansvaret
+for overtredelser av §§ 175, 175 b og 355 a foreldes heller ikke
+såfremt en dødsfølge inngår i vurderingen av om lovbruddet er grovt.</A>
+                </Paragraf>
+                <Paragraf>
+                  <Stikktittel>§ 293 skal lyde:</Stikktittel>
+                  <Tittel>§ 293 <Uth Type="Kursiv">Grov voldtekt</Uth></Tittel>
+                  <A Type="Minnrykk">Grov overtredelse av § 291 andre ledd straffes
+med fengsel <Endring>inntil 21 år</Endring><Uth Type="Kursiv">.</Uth> Ved
+avgjørelsen av om overtredelsen er grov, skal det særlig legges
+vekt på om den er begått av flere i fellesskap, <Endring>om den
+er begått</Endring> på en særlig smertefull eller særlig krenkende
+måte, <Endring>eller om den fornærmede som følge av handlingen dør
+eller får betydelig skade på kropp eller helse</Endring><Uth Type="Kursiv">.</Uth></A>
+                </Paragraf>
+                <Paragraf>
+                  <Stikktittel>§ 294 skal lyde:</Stikktittel>
+                  <Tittel>§ 294 <Uth Type="Kursiv">Grovt uaktsom voldtekt</Uth></Tittel>
+                  <A Type="Minnrykk">Grovt uaktsom overtredelse av § 291 andre ledd
+straffes med fengsel <Endring>inntil 6 år</Endring><Uth Type="Kursiv">.</Uth> Foreligger
+omstendigheter som nevnt i § 293, er straffen fengsel <Endring>inntil
+10 år</Endring><Uth Type="Kursiv">.</Uth></A>
+                  <A Type="Sentrert">II</A>
+                  <Liste Type="Num">
+                    <Pkt>
+                      <A>Loven gjelder fra den tiden Kongen bestemmer.</A>
+                    </Pkt>
+                    <Pkt>
+                      <A>Kongen kan gi nærmere overgangsregler.</A>
+                    </Pkt>
+                  </Liste>
+                </Paragraf>
+                <Presinnlegg>
+                  <A>
+                    <Navn>Presidenten:</Navn> Det voteres over I, § 91
+første ledd.</A>
+                  <A Type="Minnrykk">Arbeiderpartiet og Senterpartiet har varslet
+at de vil stemme imot.</A>
+                </Presinnlegg>
+                <Votering>
+                  <Tittel>Votering: </Tittel>
+                  <A Type="Minnrykk">Komiteens innstilling ble vedtatt med 64 mot
+39 stemmer.</A>
+                  <A Type="Minnrykk">(Voteringsutskrift kl. 15.05.47)</A>
+                </Votering>
+                <Presinnlegg>
+                  <A>
+                    <Navn>Presidenten:</Navn> Det voteres over resten
+av I.</A>
+                  <A Type="Minnrykk">Arbeiderpartiet, Sosialistisk Venstreparti,
+Senterpartiet, Miljøpartiet De Grønne og Venstre har varslet at
+de vil stemme imot.</A>
+                </Presinnlegg>
+                <Votering>
+                  <Merknad>
+                    <Handling>
+                      <A>
+                        <Uth Type="Sperret">Voteringstavlene</Uth> viste
+at 53 representanter hadde stemt mot komiteens innstilling og 50
+representanter hadde stemt for.</A>
+                    </Handling>
+                  </Merknad>
+                  <A Type="Minnrykk">(Voteringsutskrift kl. 15.06.14)</A>
+                </Votering>
+                <Hovedinnlegg>
+                  <A>
+                    <Navn>Per-Willy Amundsen (FrP)</Navn> (fra salen):
+Det er to for mange i salen.</A>
+                </Hovedinnlegg>
+                <Presinnlegg>
+                  <A>
+                    <Navn>Presidenten:</Navn> Er det noen som har stemt
+feil, slik at vi må stemme om igjen?</A>
+                </Presinnlegg>
+                <Hovedinnlegg>
+                  <A>
+                    <Navn>Solveig Vestenfor (A)</Navn> (fra salen):
+Unnskyld! Vi er for mange – det er to for mange fra Arbeiderpartiet.</A>
+                </Hovedinnlegg>
+                <Presinnlegg>
+                  <A>
+                    <Navn>Presidenten:</Navn> Da sender Arbeiderpartiet
+ut to, og så tar vi voteringen om igjen.</A>
+                  <A Type="Minnrykk">Presidenten vil minne representantene om at
+det er skarpe voteringer i dag, så det er viktig at vi nå er riktig
+antall.</A>
+                </Presinnlegg>
+                <Votering>
+                  <Tittel>Votering: </Tittel>
+                  <A Type="Minnrykk">Komiteens innstilling ble vedtatt med 52 mot
+47 stemmer.</A>
+                  <A Type="Minnrykk">(Voteringsutskrift kl. 15.08.56)</A>
+                </Votering>
+                <Presinnlegg>
+                  <A>
+                    <Navn>Presidenten:</Navn> Det voteres over II.</A>
+                  <A Type="Minnrykk">Arbeiderpartiet og Senterpartiet har varslet
+at de vil stemme imot.</A>
+                </Presinnlegg>
+                <Votering>
+                  <Tittel>Votering: </Tittel>
+                  <A Type="Minnrykk">Komiteens innstilling ble vedtatt med 63 mot
+35 stemmer.</A>
+                  <A Type="Minnrykk">(Voteringsutskrift kl. 15.09.17)</A>
+                </Votering>
+                <Presinnlegg>
+                  <A>
+                    <Navn>Presidenten:</Navn> Det voteres over lovens
+overskrift og loven i sin helhet.</A>
+                  <A Type="Minnrykk">Arbeiderpartiet og Senterpartiet har varslet
+at de vil stemme imot.</A>
+                </Presinnlegg>
+                <Votering>
+                  <Tittel>Votering: </Tittel>
+                  <A Type="Minnrykk">Lovens overskrift og loven i sin helhet ble
+vedtatt med 63 mot 35 stemmer.</A>
+                  <A Type="Minnrykk">(Voteringsutskrift kl. 15.09.39)</A>
+                </Votering>
+                <Presinnlegg>
+                  <A>
+                    <Navn>Presidenten:</Navn> Lovvedtaket vil bli satt
+opp til andre gangs behandling i et senere møte i Stortinget. </A>
+                </Presinnlegg>
+              </VedtakTilLov>
+            </VedtakL>
+          </Voteringer>
+          <Voteringer Id="i1006450" saksKartNr="9" debattDato="2026-03-12" tidspunkt="1510" sakID="105914">
+            <Sakdel>
+              <Tittel>Votering i sak nr. 9,
+debattert 12. mars 2026</Tittel>
+              <A Id="i1006452">Innstilling fra helse- og omsorgskomiteen om
+Representantforslag fra stortingsrepresentantene Kristian August
+Eilertsen, Julia Brännström Nordtug, Stig Atle Abrahamsen, Anne
+Grethe Hauan, Erlend Wiborg, Simen Velle, Per-Willy Amundsen, Kristoffer
+Sivertsen og Silje Hjemdal om endring i alkoholloven for å gi kommunene
+utvidet adgang til å innvilge midlertidige unntak fra skjenketidene
+(Innst. 155 L (2025–2026), jf. Dokument 8:67 L (2025–2026))</A>
+              <Referanse Id="i1006454" debattDato="2026-03-12" saksKartNr="9" />
+              <Presinnlegg>
+                <A>
+                  <Navn>Presidenten:</Navn> Under debatten har Kristian
+August Eilertsen satt fram et forslag på vegne av Fremskrittspartiet
+og Høyre. Forslaget lyder: </A>
+                <Sitat Type="Minnrykk" Id="i1006456">
+                  <A>«I</A>
+                  <A>I lov 2. juni 1989 nr. 27 om omsetning av alkoholholdig drikk
+mv. gjøres følgende endringer:</A>
+                  <A>§ 44 sjette ledd skal lyde:</A>
+                  <A>Når Norge deltar i internasjonale idrettsmesterskap på øverste
+nivå og mesterskapet avvikles med betydelig tidsforskjell i forhold
+til norsk tid, kan kommunestyret etter søknad fravike den fastsatte
+skjenketiden. Skjenketiden kan utvides til mellom kl. 03.00 og kl.
+06.00. Det er et vilkår at skjenkestedet gjennomfører og håndterer skjenkingen
+på en forsvarlig måte.</A>
+                  <A>Nåværende sjette, sjuende og åttende ledd blir sjuende, åttende
+og nytt niende ledd.</A>
+                  <A>II</A>
+                  <A>Loven trer i kraft 1. juni 2026.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Det voteres alternativt mellom dette forslaget
+og komiteens innstilling.</A>
+                <A Type="Minnrykk">Venstre har varslet støtte til forslaget.</A>
+                <A Type="Blanklinjeminnrykk">Komiteen hadde innstilt til Stortinget
+å gjøre følgende </A>
+              </Presinnlegg>
+            </Sakdel>
+            <VedtakS>
+              <Tittel>vedtak:</Tittel>
+              <A Type="Minnrykk">Dokument 8:67 L (2025–2026) – Representantforslag
+fra stortingsrepresentantene Kristian August Eilertsen, Julia Brännström
+Nordtug, Stig Atle Abrahamsen, Anne Grethe Hauan, Erlend Wiborg,
+Simen Velle, Per-Willy Amundsen, Kristoffer Sivertsen og Silje Hjemdal
+om endring i alkoholloven for å gi kommunene utvidet adgang til
+å innvilge midlertidige unntak fra skjenketidene – vedtas ikke.</A>
+              <Votering>
+                <Tittel>Votering: </Tittel>
+                <A Type="Minnrykk">Ved alternativ votering mellom komiteens innstilling
+og forslaget fra Fremskrittspartiet og Høyre ble innstillingen vedtatt
+med 49 mot 46 stemmer.</A>
+                <A Type="Minnrykk">(Voteringsutskrift kl. 15.10.47)</A>
+              </Votering>
+            </VedtakS>
+          </Voteringer>
+          <Voteringer Id="i1006458" saksKartNr="10" debattDato="2026-03-12" tidspunkt="1511" sakID="106367">
+            <Sakdel>
+              <Tittel>Votering i sak nr. 10,
+debattert 12. mars 2026</Tittel>
+              <A Id="i1006460">Innstilling fra helse- og omsorgskomiteen om
+Representantforslag fra stortingsrepresentantene Sylvi Listhaug,
+Kristian August Eilertsen, Julia Brännström Nordtug, Stig Atle Abrahamsen,
+Bård Hoksrud, Anne Grethe Hauan og Kristoffer Sivertsen om å sikre
+pasienter med ALS en reell tilgang til ordningen med godkjenningsfritak
+for legemidler i tidlig fase (Innst. 159 S (2025–2026), jf. Dokument
+8:86 S (2025–2026))</A>
+              <Referanse Id="i1006462" debattDato="2026-03-12" saksKartNr="10" />
+              <A Type="Blanklinjeminnrykk">Komiteen hadde innstilt til Stortinget
+å gjøre følgende </A>
+            </Sakdel>
+            <VedtakS>
+              <Tittel>vedtak:</Tittel>
+              <RomertallSeksjon>
+                <Tittel>I</Tittel>
+                <A Type="Minnrykk">Stortinget ber regjeringen nedsette en hurtigarbeidende ekspertgruppe
+med kompetanse på blant annet helserett, medisinsk etikk, legemidler,
+klinisk utprøving, helseforskning og pasientperspektiv, som skal
+utrede hvordan tidlig tilgang til legemidler kan tilgjengeliggjøres
+for pasienter med alvorlig sykdom med kort forventet levetid og
+uten behandlingsmuligheter.</A>
+                <A Type="Minnrykk">Ekspertgruppen skal:</A>
+                <Liste Type="Strek">
+                  <Pkt>
+                    <A>Vurdere og foreslå endringer i dagens
+ordning med godkjenningsfritak for legemidler, også i tidlig fase,
+som imøtekommer behovet for at muligheten for godkjenning også er
+til stede selv om det ikke foreligger godkjenning i noe annet land.</A>
+                  </Pkt>
+                  <Pkt>
+                    <A>Vurdere etiske og juridiske implikasjoner ved å benytte ordningen
+med godkjenningsfritak for legemidler, også i tidlig fase, før det
+foreligger godkjenning i andre land, der det vurderes som faglig
+forsvarlig av helseforvaltningen etter anbefaling fra behandlende
+lege.</A>
+                  </Pkt>
+                  <Pkt>
+                    <A>Foreslå eventuelle endringer i forvaltningspraksisen som bidrar
+til at nye legemidler som har manglende dokumentasjon i tidlig fase,
+ikke vil være til hinder for vurdering i ordningen med godkjenningsfritak.
+En slik eventuell endring skal forutsette at pasienten har en dødelig
+sykdom uten tilgjengelige behandlingsalternativer, at det er vurdert
+som faglig forsvarlig av helseforvaltningen etter anbefaling fra
+behandlende lege, og at pasienten har gitt informert samtykke.</A>
+                  </Pkt>
+                </Liste>
+                <A Type="Blanklinjeminnrykk">Gruppen skal levere tiltak og eventuelle
+forslag til regelverksendringer til Helse- og omsorgsdepartementet
+innen fem måneder.</A>
+              </RomertallSeksjon>
+              <RomertallSeksjon>
+                <Tittel>II</Tittel>
+                <A Type="Minnrykk">Stortinget ber regjeringen i påvente av at
+ekspertgruppen kommer med sin rapport, sørge for at pasienter med
+ALS og andre alvorlige og dødelige sykdommer gis reell mulighet
+til å benytte ordningen med godkjenningsfritak for legemidler i tidlig
+fase, etter en individuell vurdering, når dette blir vurdert som
+faglig forsvarlig av helseforvaltningen etter anbefaling fra behandlende
+lege. Manglende dokumentasjon i tidlig fase av godkjenningsprosessen
+skal i seg selv ikke være til hinder for vurdering i ordningen med
+godkjenningsfritak. Dersom dette krever lovendring, ber Stortinget
+regjeringen komme tilbake så snart som mulig.</A>
+              </RomertallSeksjon>
+              <RomertallSeksjon>
+                <Tittel>III</Tittel>
+                <A Type="Blanklinjeminnrykk">Stortinget ber regjeringen sikre
+at legemiddelforskriften § 2-5 åttende ledd praktiseres i samsvar
+med ordlyden, slik at både fastleger og spesialister kan søke om
+godkjenningsfritak.</A>
+                <Votering>
+                  <Tittel>Votering: </Tittel>
+                  <A Type="Minnrykk">Komiteens innstilling ble enstemmig vedtatt.</A>
+                </Votering>
+                <Presinnlegg>
+                  <A>
+                    <Navn>Presidenten:</Navn> Sak nr. 11 var interpellasjon. </A>
+                  <A Type="Minnrykk">Vi går da til votering over sakene fra Stortingets
+møte fredag 13. mars.</A>
+                </Presinnlegg>
+              </RomertallSeksjon>
+            </VedtakS>
+          </Voteringer>
+          <Voteringer Id="i1006464" saksKartNr="1" debattDato="2026-03-13" tidspunkt="1512" sakID="105072">
+            <Sakdel>
+              <Tittel>Votering i sak nr. 1,
+debattert 13. mars 2026</Tittel>
+              <A Id="i1006466">Innstilling fra kommunal- og forvaltningskomiteen
+om Representantforslag fra stortingsrepresentantene Mudassar Kapur,
+Tage Pettersen, Henrik Gottfries Kierulf og Anne Kristine Linnestad
+om en ny nasjonal boligsosial strategi (Innst. 145 S (2025–2026),
+jf. Dokument 8:23 S (2025–2026))</A>
+              <Referanse Id="i1006468" debattDato="2026-03-13" saksKartNr="1" />
+              <Presinnlegg>
+                <A>
+                  <Navn>Presidenten:</Navn> Under debatten har Anne
+Lise Gjerstad Fredlund satt fram et forslag på vegne av Høyre, Sosialistisk Venstreparti,
+Senterpartiet, Rødt og Miljøpartiet De Grønne. Forslaget lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen utarbeide
+en ny nasjonal boligsosial strategi innen utgangen av 2026.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Det voteres alternativt mellom dette forslaget
+og komiteens innstilling.</A>
+                <A Type="Minnrykk">Kristelig Folkeparti og Venstre har varslet
+støtte til forslaget.</A>
+                <A Type="Blanklinjeminnrykk">Komiteen hadde innstilt til Stortinget
+å gjøre følgende </A>
+              </Presinnlegg>
+            </Sakdel>
+            <VedtakS>
+              <Tittel>vedtak:</Tittel>
+              <A Type="Minnrykk">Dokument 8:23 S (2025–2026) – Representantforslag
+fra stortingsrepresentantene Mudassar Kapur, Tage Pettersen, Henrik
+Gottfries Kierulf og Anne Kristine Linnestad om en ny nasjonal boligsosial
+strategi – vedtas ikke.</A>
+              <Votering>
+                <Tittel>Votering: </Tittel>
+                <A Type="Minnrykk">Ved alternativ votering mellom komiteens innstilling
+og forslaget fra Høyre, Sosialistisk Venstreparti, Senterpartiet, Rødt
+og Miljøpartiet De Grønne ble innstillingen vedtatt med 61 mot 38
+stemmer.</A>
+                <A Type="Minnrykk">(Voteringsutskrift kl. 15.12.13)</A>
+              </Votering>
+              <Presinnlegg>
+                <A>
+                  <Navn>Presidenten:</Navn> Sak nr. 2 var interpellasjon.</A>
+              </Presinnlegg>
+            </VedtakS>
+          </Voteringer>
+          <Voteringer Id="i1006470" saksKartNr="3" debattDato="2026-03-13" tidspunkt="1513" sakID="105076">
+            <Sakdel>
+              <Tittel>Votering i sak nr. 3,
+debattert 13. mars 2026</Tittel>
+              <A Id="i1006472">Innstilling fra kommunal- og forvaltningskomiteen
+om Representantforslag fra stortingsrepresentantene Tage Pettersen,
+Erna Solberg, Haagen Poppe, Kari Sofie Bjørnsen, Mahmoud Farahmand
+og Anne Kristine Linnestad om Norges handlingsrom innenfor EUs reviderte
+avløpsdirektiv (Innst. 144 S (2025–2026), jf. Dokument 8:24 S (2025–2026))</A>
+              <Referanse Id="i1006474" debattDato="2026-03-13" saksKartNr="3" />
+              <Presinnlegg>
+                <A>
+                  <Navn>Presidenten:</Navn> Under debatten er det
+satt fram åtte forslag. Det er </A>
+                <Liste Type="Strek">
+                  <Pkt>
+                    <A>forslag nr. 1, fra Solveig Vestenfor
+på vegne av Arbeiderpartiet</A>
+                  </Pkt>
+                  <Pkt>
+                    <A>forslagene nr. 2 og 3, fra Helge André Njåstad på vegne av
+Fremskrittspartiet, Høyre og Miljøpartiet De Grønne </A>
+                  </Pkt>
+                  <Pkt>
+                    <A>forslagene nr. 4 og 5, fra Helge André Njåstad på vegne av
+Fremskrittspartiet og Høyre </A>
+                  </Pkt>
+                  <Pkt>
+                    <A>forslagene nr. 6 og 7, fra Hanne Beate Stenvaag på vegne av
+Sosialistisk Venstreparti, Rødt og Miljøpartiet De Grønne </A>
+                  </Pkt>
+                  <Pkt>
+                    <A>forslag nr. 8, fra Julie E. Stuestøl på vegne av Sosialistisk Venstreparti
+og Miljøpartiet De Grønne </A>
+                  </Pkt>
+                </Liste>
+                <A Type="Minnrykk">Det voteres over forslag nr. 1, fra Arbeiderpartiet.
+Forslaget lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen, ved implementeringen av
+EUs reviderte avløpsdirektiv, sørge for at norske interesser ivaretas
+på en best mulig måte, og at implementeringen gjøres på en måte
+som er best mulig tilpasset norske forhold.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Miljøpartiet De Grønne har varslet støtte til
+forslaget.</A>
+                <A Type="Minnrykk">Høyre og Rødt har varslet subsidiær støtte
+til forslaget.</A>
+              </Presinnlegg>
+              <Votering>
+                <Tittel>Votering: </Tittel>
+                <A Type="Minnrykk">Forslaget fra Arbeiderpartiet ble vedtatt med
+53 mot 46 stemmer.</A>
+                <A Type="Minnrykk">(Voteringsutskrift kl. 15.13.11)</A>
+              </Votering>
+              <Presinnlegg>
+                <A>
+                  <Navn>Presidenten:</Navn> Det voteres over forslag
+nr. 8, fra Sosialistisk Venstreparti og Miljøpartiet De Grønne.
+Forslaget lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen gjøre en
+grundig vurdering av miljøkonsekvensene av en endret definisjon
+av tettbebyggelse. Vurderingen skal omtale konsekvenser for vannmiljø,
+arealbruk, materialbruk, klimagassutslipp og andre relevante miljøeffekter,
+og den skal være kjent før Stortinget tar stilling til revidert
+avløpsdirektiv.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Venstre har varslet støtte til forslaget.</A>
+                <A Type="Minnrykk">Rødt har varslet subsidiær støtte til forslaget.</A>
+              </Presinnlegg>
+              <Votering>
+                <Tittel>Votering: </Tittel>
+                <A Type="Minnrykk">Forslaget fra Sosialistisk Venstreparti og
+Miljøpartiet De Grønne ble med 81 mot 17 stemmer ikke vedtatt.</A>
+                <A Type="Minnrykk">(Voteringsutskrift kl. 15.13.42)</A>
+              </Votering>
+              <Presinnlegg>
+                <A>
+                  <Navn>Presidenten:</Navn> Det voteres over forslagene
+nr. 6 og 7, fra Sosialistisk Venstreparti, Rødt og Miljøpartiet
+De Grønne.</A>
+                <A Type="Minnrykk">Forslag nr. 6 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen sikre bedre
+regional koordinering av investeringer i avløpsrensing med mål om at
+investeringer i renseanlegg skjer med høyest mulig miljøstandard
+og lavest mulig samlet miljøfotavtrykk.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 7 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen utrede en
+støtteordning for investeringer i avløpsrensing som skal være utløsende
+for bruk av teknologi som gir særlig god miljøeffekt og bidrar til
+å teste ut nye løsninger for effektiv rensing og høy grad av resirkulering
+av avfall fra avløpssektoren.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Venstre har varslet støtte til forslagene.</A>
+              </Presinnlegg>
+              <Votering>
+                <Tittel>Votering: </Tittel>
+                <A Type="Minnrykk">Forslagene fra Sosialistisk Venstreparti, Rødt
+og Miljøpartiet De Grønne ble med 81 mot 17 stemmer ikke vedtatt.</A>
+                <A Type="Minnrykk">(Voteringsutskrift kl. 15.14.03)</A>
+              </Votering>
+              <Presinnlegg>
+                <A>
+                  <Navn>Presidenten:</Navn> Det voteres over forslagene
+nr. 4 og 5, fra Fremskrittspartiet og Høyre.</A>
+                <A Type="Minnrykk">Forslag nr. 4 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen sikre at
+Norge benytter det nasjonale handlingsrommet ved implementeringen av
+EUs reviderte avløpsdirektiv, slik at norske forhold ivaretas på
+en samfunnsøkonomisk forsvarlig måte, og at definisjonen av tettbebyggelse
+oppdateres i tråd med direktivets formål og veiledende kriterier,
+med særlig vekt på faktisk forurensningsbelastning.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 5 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen legge til
+rette for en oppdatert beregningsmetode for bebyggelse som reflekterer faktisk
+forurensningsbelastning, og som er egnet for både små og store tettbebyggelser,
+slik at implementeringen av EUs reviderte avløpsdirektiv blir mest
+mulig treffsikker og kostnadseffektiv.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Kristelig Folkeparti og Venstre har varslet
+støtte til forslagene.</A>
+                <A Type="Minnrykk">Rødt har varslet subsidiær støtte til forslagene.</A>
+              </Presinnlegg>
+              <Votering>
+                <Tittel>Votering: </Tittel>
+                <A Type="Minnrykk">Forslagene fra Fremskrittspartiet og Høyre
+ble vedtatt med 53 mot 45 stemmer.</A>
+                <A Type="Minnrykk">(Voteringsutskrift kl. 15.14.27)</A>
+              </Votering>
+              <Presinnlegg>
+                <A>
+                  <Navn>Presidenten:</Navn> Det voteres over forslagene
+nr. 2 og 3, fra Fremskrittspartiet, Høyre og Miljøpartiet De Grønne.</A>
+                <A Type="Minnrykk">Forslag nr. 2 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen sikre at
+norske miljøforhold, topografi og samfunnsøkonomiske realiteter
+hensyntas og legges til grunn ved utarbeidelsen av kost-/nyttevurderinger
+når EUs reviderte avløpsdirektiv implementeres i Norge.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 3 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen sikre at
+beregningen av personekvivalenter (pe) ved implementeringen av EUs reviderte
+avløpsdirektiv skjer på en måte som er praktisk, forståelig og tilpasset
+norske forhold.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Kristelig Folkeparti og Venstre har varslet
+støtte til forslagene.</A>
+                <A Type="Minnrykk">Rødt har varslet subsidiær støtte til forslagene. </A>
+              </Presinnlegg>
+              <Votering>
+                <Tittel>Votering: </Tittel>
+                <A Type="Minnrykk">Forslagene fra Fremskrittspartiet, Høyre og
+Miljøpartiet De Grønne ble vedtatt med 59 mot 40 stemmer.</A>
+                <A Type="Minnrykk">(Voteringsutskrift kl. 15.14.51)</A>
+              </Votering>
+              <A Type="Blanklinjeminnrykk">Komiteen hadde innstilt til Stortinget
+å gjøre følgende </A>
+            </Sakdel>
+            <VedtakS>
+              <Tittel>vedtak:</Tittel>
+              <RomertallSeksjon>
+                <Tittel>I</Tittel>
+                <A Type="Minnrykk">Stortinget ber regjeringen utrede hva innføringen
+av EUs reviderte avløpsdirektiv vil koste, og utarbeide en oversikt over
+CO<Sub>2</Sub>-utslipp som vil komme på grunn av byggingen av nye
+anlegg m.m., energibruk ved en innføring og hvilke distriktskonsekvenser
+direktivet vil føre til.</A>
+                <Presinnlegg>
+                  <A>
+                    <Navn>Presidenten:</Navn> Arbeiderpartiet, Høyre
+og Venstre har varslet at de vil stemme imot.</A>
+                </Presinnlegg>
+                <Votering>
+                  <Tittel>Votering: </Tittel>
+                  <A Type="Minnrykk">Komiteens innstilling ble vedtatt med 52 mot
+46 stemmer.</A>
+                  <A Type="Minnrykk">(Voteringsutskrift kl. 15.15.13)</A>
+                </Votering>
+                <A Type="Blanklinjeminnrykk">Videre var innstilt: </A>
+              </RomertallSeksjon>
+              <RomertallSeksjon>
+                <Tittel>II</Tittel>
+                <A Type="Minnrykk">Stortinget ber regjeringen legge fram analyser
+over hva innføringen av EUs reviderte avløpsdirektiv vil koste samlet, og
+for den enkelte kommune og den enkelte husstand som vil få høyere
+avgifter.</A>
+              </RomertallSeksjon>
+              <RomertallSeksjon>
+                <Tittel>III</Tittel>
+                <A Type="Minnrykk">Stortinget ber regjeringen tydeliggjøre overfor
+EU at Norge har til hensikt å benytte reservasjonsretten i artikkel 102
+i EØS-avtalen hvis ikke Norge innrømmes tilpasninger i, eller unntak
+fra, EUs reviderte avløpsdirektiv, som minst inkluderer at Norge
+unntas ny artikkel 6 (reduksjonen fra 2 000 og 10 000 til 1 000
+pe), og at unntaket for mindre følsomme områder ikke fjernes, slik
+at Norges interesser ivaretas.</A>
+                <Presinnlegg>
+                  <A>
+                    <Navn>Presidenten:</Navn> Arbeiderpartiet, Høyre,
+Miljøpartiet De Grønne og Venstre har varslet at de vil stemme imot.</A>
+                </Presinnlegg>
+                <Votering>
+                  <Tittel>Votering: </Tittel>
+                  <A Type="Minnrykk">Komiteens innstilling ble med 50 mot 48 stemmer
+ikke vedtatt.</A>
+                  <A Type="Minnrykk">(Voteringsutskrift kl. 15.15.34)</A>
+                </Votering>
+              </RomertallSeksjon>
+            </VedtakS>
+          </Voteringer>
+          <Voteringer Id="i1006476" saksKartNr="4" debattDato="2026-03-13" tidspunkt="1515" sakID="105669">
+            <Sakdel>
+              <Tittel>Votering i sak nr. 4,
+debattert 13. mars 2026</Tittel>
+              <A Id="i1006478">Innstilling fra kontroll- og konstitusjonskomiteen
+om Riksrevisjonens oppfølging av forvaltningsrevisjoner som er behandlet
+av Stortinget (Innst. 153 S (2025–2026), jf. Dokument 3:1 (2025–2026))</A>
+              <Referanse Id="i1006480" debattDato="2026-03-13" saksKartNr="4" />
+              <A Type="Blanklinjeminnrykk">Komiteen hadde innstilt til Stortinget
+å gjøre følgende </A>
+            </Sakdel>
+            <VedtakS>
+              <Tittel>vedtak:</Tittel>
+              <A Type="Minnrykk">Dokument 3:1 (2025−2026) – Riksrevisjonens
+oppfølging av forvaltningsrevisjoner som er behandlet av Stortinget –
+vedlegges protokollen. </A>
+              <Votering>
+                <Tittel>Votering: </Tittel>
+                <A Type="Minnrykk">Komiteens innstilling ble enstemmig vedtatt.</A>
+              </Votering>
+              <Presinnlegg>
+                <A>
+                  <Navn>Presidenten:</Navn> Vi går så til votering
+over sakene på dagens kart.</A>
+              </Presinnlegg>
+            </VedtakS>
+          </Voteringer>
+          <Voteringer Id="i1006482" saksKartNr="1" debattDato="2026-03-17" tidspunkt="1516" sakID="107358">
+            <Sakdel>
+              <Tittel>Votering i sak nr. 1,
+debattert 17. mars 2026</Tittel>
+              <A Id="i1006484">Innstilling fra kontroll- og konstitusjonskomiteen
+om oppnevning av granskingskommisjon for å undersøke forhold som
+har blitt aktualisert gjennom offentliggjøringen av Epstein-dokumentene
+(Innst. 160 S (2025–2026))</A>
+              <Referanse Id="i1006486" debattDato="2026-03-17" saksKartNr="1" />
+              <Presinnlegg>
+                <A>
+                  <Navn>Presidenten:</Navn> Under debatten har Hege
+Bae Nyholt satt fram et forslag på vegne av Rødt. Forslaget lyder: </A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber presidentskapet innlemme
+i mandatet at kommisjonen i løpet av 2026 må levere en delrapport
+som oppsummerer kommisjonens foreløpige funn.»</A>
+                </Sitat>
+              </Presinnlegg>
+              <Votering>
+                <Tittel>Votering: </Tittel>
+                <A Type="Minnrykk">Forslaget fra Rødt ble med 93 mot 6 stemmer
+ikke vedtatt.</A>
+                <A Type="Minnrykk">(Voteringsutskrift kl. 15.16.38)</A>
+              </Votering>
+              <A Type="Blanklinjeminnrykk">Komiteen hadde innstilt til Stortinget
+å gjøre følgende </A>
+            </Sakdel>
+            <VedtakS>
+              <Tittel>vedtak:</Tittel>
+              <RomertallSeksjon>
+                <Tittel>I</Tittel>
+                <A Type="Minnrykk">Stortinget ber presidentskapet legge frem forslag
+for Stortinget om oppnevning av en uavhengig granskingskommisjon,
+med mandat, navn og sammensetning, for å undersøke forhold og problemstillinger
+som har blitt aktualisert gjennom offentliggjøringen av Epstein-dokumentene.</A>
+              </RomertallSeksjon>
+              <RomertallSeksjon>
+                <Tittel>II</Tittel>
+                <A Type="Minnrykk">Stortinget ber presidentskapet legge frem lovforslag
+for Stortinget med nødvendige bestemmelser om granskingskommisjonens
+arbeid, saksbehandling og informasjonstilgang. </A>
+                <Votering>
+                  <Tittel>Votering: </Tittel>
+                  <A Type="Minnrykk">Komiteens innstilling ble enstemmig vedtatt. </A>
+                </Votering>
+              </RomertallSeksjon>
+            </VedtakS>
+          </Voteringer>
+          <Voteringer Id="i1006488" saksKartNr="2" debattDato="2026-03-17" tidspunkt="1518" sakID="105667">
+            <Sakdel>
+              <Tittel>Votering i sak nr. 2,
+debattert 17. mars 2026</Tittel>
+              <A Id="i1006490">Innstilling fra kontroll- og konstitusjonskomiteen
+om Riksrevisjonens undersøkelse av bistand til klimatilpasning i utviklingsland
+(Innst. 152 S (2025–2026), jf. Dokument 3:4 (2025–2026))</A>
+              <Referanse Id="i1006492" debattDato="2026-03-17" saksKartNr="2" />
+              <A Type="Blanklinjeminnrykk">Komiteen hadde innstilt til Stortinget
+å gjøre følgende </A>
+            </Sakdel>
+            <VedtakS>
+              <Tittel>vedtak:</Tittel>
+              <A Type="Minnrykk">Dokument 3:4 (2025−2026) – Riksrevisjonens
+undersøkelse av bistand til klimatilpasning i utviklingsland – vedlegges
+protokollen. </A>
+              <Votering>
+                <Tittel>Votering: </Tittel>
+                <A Type="Minnrykk">Komiteens innstilling ble enstemmig vedtatt.</A>
+              </Votering>
+            </VedtakS>
+          </Voteringer>
+          <Voteringer Id="i1006494" saksKartNr="3" debattDato="2026-03-17" tidspunkt="1518" sakID="105644">
+            <Sakdel>
+              <Tittel>Votering i sak nr. 3,
+debattert 17. mars 2026</Tittel>
+              <A Id="i1006496">Innstilling fra kontroll- og konstitusjonskomiteen
+om Riksrevisjonens undersøkelse av Navs innsats for å forhindre frafall
+fra arbeidslivet (Innst. 149 S (2025–2026), jf. Dokument 3:5 (2025–2026))</A>
+              <Referanse Id="i1006498" debattDato="2026-03-17" saksKartNr="3" />
+              <A Type="Blanklinjeminnrykk">Komiteen hadde innstilt til Stortinget
+å gjøre følgende </A>
+            </Sakdel>
+            <VedtakS>
+              <Tittel>vedtak:</Tittel>
+              <A Type="Minnrykk">Dokument 3:5 (2025−2026) – Riksrevisjonens
+undersøkelse av Navs innsats for å forhindre frafall fra arbeidslivet
+– vedlegges protokollen. </A>
+              <Votering>
+                <Tittel>Votering: </Tittel>
+                <A Type="Minnrykk">Komiteens innstilling ble enstemmig vedtatt.</A>
+              </Votering>
+            </VedtakS>
+          </Voteringer>
+          <Voteringer Id="i1006500" saksKartNr="4" debattDato="2026-03-17" tidspunkt="1518" sakID="105971">
+            <Sakdel>
+              <Tittel>Votering i sak nr. 4,
+debattert 17. mars 2026</Tittel>
+              <A Id="i1006502">Innstilling fra kontroll- og konstitusjonskomiteen
+om Riksrevisjonens undersøkelse av myndighetenes ansvar i forbindelse
+med Alexander L. Kielland-ulykken (Innst. 156 S (2025–2026), jf.
+Dokument 3:7 (2025–2026))</A>
+              <Referanse Id="i1006504" debattDato="2026-03-17" saksKartNr="4" />
+              <A Type="Blanklinjeminnrykk">Komiteen hadde innstilt til Stortinget
+å gjøre følgende </A>
+            </Sakdel>
+            <VedtakS>
+              <Tittel>vedtak:</Tittel>
+              <A Type="Minnrykk">Dokument 3:7 (2025–2026) – Riksrevisjonens
+undersøkelse av myndighetenes ansvar i forbindelse med Alexander L.
+Kielland-ulykken – vedlegges protokollen. </A>
+              <Votering>
+                <Tittel>Votering: </Tittel>
+                <A Type="Minnrykk">Komiteens innstilling ble enstemmig vedtatt.</A>
+              </Votering>
+            </VedtakS>
+          </Voteringer>
+          <Voteringer Id="i1006506" saksKartNr="5" debattDato="2026-03-17" tidspunkt="1519" sakID="104930">
+            <Sakdel>
+              <Tittel>Votering i sak nr. 5,
+debattert 17. mars 2026</Tittel>
+              <A Id="i1006508">Innstilling fra kontroll- og konstitusjonskomiteen
+om Anmodnings- og utredningsvedtak i stortingssesjonen 2024-2025
+(Innst. 125 S (2025–2026), jf. Meld. St. 4 (2025–2026))</A>
+              <Referanse Id="i1006510" debattDato="2026-03-17" saksKartNr="5" />
+              <A Type="Blanklinjeminnrykk">Komiteen hadde innstilt til Stortinget
+å gjøre følgende </A>
+            </Sakdel>
+            <VedtakS>
+              <Tittel>vedtak:</Tittel>
+              <A Type="Minnrykk">Meld. St. 4 (2025–2026) – Anmodnings- og utredningsvedtak
+i stortingssesjonen 2024–2025 – vedlegges protokollen. </A>
+              <Votering>
+                <Tittel>Votering: </Tittel>
+                <A Type="Minnrykk">Komiteens innstilling ble enstemmig vedtatt.</A>
+              </Votering>
+            </VedtakS>
+          </Voteringer>
+        </VoteringerStart>
+        <Sakreferat Id="i1006512">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak
+nr. 6</Uth> [15:19:09]</Saknr>
+            <Saktittel Id="i1006514">
+              <A>Referat</A>
+            </Saktittel>
+          </Sakshode>
+          <Liste Type="Fri">
+            <Pkt>
+              <A>1.	(268) Statsministerens kontor melder
+at</A>
+              <Liste Type="Fri">
+                <Pkt>
+                  <A>lov om endringer i lov om dyrevelferd
+(fremstilling og fremvisning m.m. av seksuelle overgrep mot dyr) (Lovvedtak
+29 (2025–2026))</A>
+                </Pkt>
+                <Pkt>
+                  <A> – er sanksjonert under 13. mars 2026</A>
+                  <A>Enst.: Vedlegges protokollen.</A>
+                </Pkt>
+              </Liste>
+            </Pkt>
+            <Pkt>
+              <A>2.	(269) Representantforslag fra stortingsrepresentantene Marie
+Sneve Martinussen og Seher Aydar om å reversere tidligere svekkelser
+i arbeidsmiljøloven og styrke tillitsvalgtes myndighet (Dokument
+8:157 LS (2025–2026))</A>
+              <A>Enst.: Sendes arbeids- og sosialkomiteen.</A>
+            </Pkt>
+            <Pkt>
+              <A>3.	(270) Representantforslag fra stortingsrepresentantene Bjørn
+Larsen, Erlend Wiborg, Helge André Njåstad, Rune Midtun, Frank Edvard
+Sve, Bengt Rune Strifeldt, Dagfinn Henrik Olsen og Hilde Grande
+om verdensarv og næringsutvikling (Dokument 8:164 S (2025–2026))</A>
+            </Pkt>
+            <Pkt>
+              <A>4.	(271) Representantforslag fra stortingsrepresentantene Siren
+Julianne Jensen, Une Bastholm og Oda Indgaard om strakstiltak for
+å sikre norsk film- og serieproduksjon og hindre kompetanseflukt
+fra bransjen (Dokument 8:166 S (2025–2026))</A>
+              <A>Enst.: Nr. 3 og 4 sendes familie- og kulturkomiteen.</A>
+            </Pkt>
+            <Pkt>
+              <A>5.	(272) Representantforslag fra stortingsrepresentantene Hans
+Andreas Limi, Sylvi Listhaug, Tom Staahle, Hilde Grande og Martin
+Virkesdal Jonsterhaug om tiltak for å dempe økte energipriser og
+levekostnader (Dokument 8:158 S (2025–2026))</A>
+            </Pkt>
+            <Pkt>
+              <A>6.	(273) Representantforslag fra stortingsrepresentantene Frøya
+Skjold Sjursæther, Julie E. Stuestøl, Ingrid Liland, Siren Julianne
+Jensen, Marius Langballe Dalin, Oda Indgaard og Une Bastholm om
+å stanse subsidiene til petroleumsselskapenes utgifter knyttet til
+markedsføring og lobbyisme (Dokument 8:163 S (2025–2026))</A>
+              <A>Enst.: Nr. 5 og 6 sendes finanskomiteen.</A>
+            </Pkt>
+            <Pkt>
+              <A>7.	(274) Representantforslag fra stortingsrepresentantene Kristian
+August Eilertsen, Julia Brännström Nordtug, Stig Atle Abrahamsen,
+Anne Grethe Hauan og Morten Kolbjørnsen om å sikre norsk legemiddelberedskap
+gjennom nasjonal produksjon og forpliktende beredskapsavtaler (Dokument
+8:161 S (2025–2026))</A>
+            </Pkt>
+            <Pkt>
+              <A>8.	(275) Representantforslag frå stortingsrepresentantane Geir
+Pollestad og Kjersti Toppe om ei offensiv satsing på norsk legemiddelproduksjon
+og -beredskap (Dokument 8:167 S (2025–2026))</A>
+              <A>Enst.: Nr. 7 og 8 sendes helse- og omsorgskomiteen.</A>
+            </Pkt>
+            <Pkt>
+              <A>9.	(276) Årsrapport for 2025 fra Stortingets utvalg for
+rettferdsvederlag (Dokument 14 (2025–2026))</A>
+            </Pkt>
+            <Pkt>
+              <A>10.	(277) Endringer i politiregisterloven og grenseloven
+mv. (testing og utvikling av informasjonssystemer) (Prop. 36 L (2025–2026))</A>
+            </Pkt>
+            <Pkt>
+              <A>11.	(278) Representantforslag fra stortingsrepresentantene Mari
+Holm Lønseth, Helene Røsholt, Tone Wilhelmsen Trøen og Margret Hagerup
+om skjerpet straff for psykisk vold (Dokument 8:160 S (2025–2026))</A>
+              <A>Enst.: Nr. 9–11 sendes justiskomiteen.</A>
+            </Pkt>
+            <Pkt>
+              <A>12.	(279) Representantforslag fra stortingsrepresentantene Tom
+Staahle, Erlend Wiborg, Jon Engen-Helgheim og Himanshu Gulati om
+en plan- og bygningslov for krig og krise (Dokument 8:162 S (2025–2026))</A>
+              <A>Enst.: Sendes kommunal- og forvaltningskomiteen.</A>
+            </Pkt>
+            <Pkt>
+              <A>13.	(280) Representantforslag fra stortingsrepresentantene Bård
+Hoksrud, Dagfinn Henrik Olsen, Frank Edvard Sve, May Helen Hetland
+Ervik, Mats Henriksen, Tor André Johnsen, Per-Willy Amundsen og
+Kristian August Eilertsen om å stanse innføring av overtredelsesgebyr
+ved avrenning fra kjøretøy (Dokument 8:159 S (2025–2026))</A>
+              <A>Enst.: Sendes transport- og kommunikasjonskomiteen.</A>
+            </Pkt>
+            <Pkt>
+              <A>14.	(281) Representantforslag fra stortingsrepresentantene Silje
+Hjemdal, Liv Gustavsen, Morgan Langfeldt og Lill Harriet Sandaune
+om praktiske og alternative opplæringstilbud for barn og unge på
+barnevernsinstitusjon (Dokument 8:165 S (2025–2026))</A>
+              <A>Enst.: Sendes utdannings- og forskningskomiteen.</A>
+            </Pkt>
+          </Liste>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [15:19:58]:</Navn> Dermed er dagens
+kart ferdigbehandlet.</A>
+            <A Type="Minnrykk">Forlanger noen ordet før møtet heves? – Møtet
+er hevet.</A>
+          </Presinnlegg>
+        </Sakreferat>
+      </Saker>
+    </Hovedseksjon>
+    <Sluttseksjon>
+      <Hevet>
+        <A>Møtet hevet kl. 15.20.</A>
+      </Hevet>
+    </Sluttseksjon>
+  </Mote>
+</Forhandlinger>

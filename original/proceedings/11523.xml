@@ -1,0 +1,2106 @@
+<Forhandlinger Status="Komplett">
+  <Mote moteID="11523">
+    <Startseksjon>
+      <Motestart>
+        <Tittel>Møte torsdag den 23. oktober 2025 kl. 10</Tittel>
+        <President Id="i1002713" personID="MASG">
+          <A>President: <Uth Type="Sperret">Masud
+Gharahkhani</Uth></A>
+        </President>
+        <Dagsorden>
+          <Tittel>Dagsorden <DagsordenNR>(nr. 9):</DagsordenNR></Tittel>
+          <DagsordenSak Id="i1002715">
+            <Liste Type="Dagsorden">
+              <Pkt>
+                <A> 1.	Sak
+behandlet 15. august 2025 i den utvidede utenriks- og forsvarskomité
+(sak 1: Oljefondets investeringer i israelske selskaper), og innbrakt
+for Stortinget i medhold av forretningsordenen § 16 sjuende ledd.</A>
+              </Pkt>
+              <Pkt>
+                <A> 2.	Referat</A>
+              </Pkt>
+            </Liste>
+          </DagsordenSak>
+        </Dagsorden>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:00:11]:</Navn> Fra representanten
+Bjørn-Kristian Svendsrud foreligger søknad om omsorgspermisjon i
+tiden fra og med 29. oktober til og med 11. november og deretter
+foreldrepermisjon i tiden fra og med 12. november 2025 til og med
+19. juni 2026.</A>
+          <A Type="Blanklinjeminnrykk">Etter forslag fra presidenten ble
+enstemmig besluttet:</A>
+          <Liste Type="Num">
+            <Pkt>
+              <A>Søknaden behandles straks og innvilges.</A>
+            </Pkt>
+            <Pkt>
+              <A>Vararepresentanten, Sebastian Saltrø Ytrevik, innkalles for
+å møte i Stortinget i tiden fra og med 4. november til og med 19. juni.</A>
+            </Pkt>
+          </Liste>
+        </Presinnlegg>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:00:41]:</Navn> Representanten
+Alf Erik Andersen vil framsette et representantforslag.</A>
+        </Presinnlegg>
+        <Hovedinnlegg Id="i1002717">
+          <A>
+            <Navn personID="ALFAND">
+Alf Erik Andersen (FrP) [10:00:53]:</Navn> På vegne av stortingsrepresentantene
+Bård Hoksrud, Erlend Wiborg, Dagfinn Henrik Olsen, Morten Wold,
+Bjørn-Kristian Svendsrud, Bjørnar Laabak, Kristoffer Sivertsen og
+meg selv vil jeg fremme et representantforslag om å avvikle samordningsfellen.</A>
+        </Hovedinnlegg>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:01:10]:</Navn> Representanten
+Marit Vea vil framsette et representantforslag.</A>
+        </Presinnlegg>
+        <Hovedinnlegg Id="i1002719">
+          <A>
+            <Navn personID="MARVEA">
+Marit Vea (V) [10:01:28]:</Navn> På vegne av stortingsrepresentantene
+Guri Melby, Abid Raja og meg selv har jeg gleden av å fremme et
+representantforslag om å tillate kommunene å regulere bruk av elektriske
+sparkesykler på fortau.</A>
+        </Hovedinnlegg>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:01:44]:</Navn> Representanten
+Anne Kristine Linnestad vil framsette tre representantforslag.</A>
+        </Presinnlegg>
+        <Hovedinnlegg Id="i1002721">
+          <A>
+            <Navn personID="ALI">
+Anne Kristine Linnestad (H) [10:02:00]:</Navn> På vegne av representantene
+Trond Helleland, Anna Molberg, Mahmoud Farahmand og meg selv ønsker
+jeg å fremme et forslag om å bevare Flytoget.</A>
+          <A Type="Minnrykk">På vegne av representantene Mudassar Kapur,
+Tage Pettersen, Henrik Gottfries Kierulf og meg selv vil jeg framsette et
+forslag om en ny nasjonal boligsosial strategi.</A>
+          <A Type="Minnrykk">Det tredje er et representantforslag på vegne
+av representantene Erna Solberg, Tage Pettersen, Haagen Poppe, Kari Sofie
+Bjørnsen, Mahmoud Farahmand og meg selv om Norges handlingsrom innenfor
+EUs reviderte avløpsdirektiv.</A>
+        </Hovedinnlegg>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:02:38]:</Navn> Representanten
+Bård Hoksrud vil framsette et representantforslag.</A>
+        </Presinnlegg>
+        <Hovedinnlegg Id="i1002723">
+          <A>
+            <Navn personID="BÅH">
+Bård Hoksrud (FrP) [10:02:53]:</Navn> På vegne av stortingsrepresentantene
+Dagfinn Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik,
+Mats Henriksen, Alf Erik Andersen, Marius Arion Nilsen, Stian Storbukås,
+Kristoffer Sivertsen og meg selv har jeg gleden av å fremme et forslag om
+å redusere bompengebelastningen på E39 Mandal–Kristiansand.</A>
+        </Hovedinnlegg>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:03:11]:</Navn> Representanten
+Aleksander Stokkebø vil framsette et representantforslag.</A>
+        </Presinnlegg>
+        <Hovedinnlegg Id="i1002725">
+          <A>
+            <Navn personID="ALES">
+Aleksander Stokkebø (H) [10:03:24]:</Navn> På vegne av representantene
+Amalie Gunnufsen, Erlend Svardal Bøe, Ove Trellevik, Margret Hagerup,
+Kari Sofie Bjørnsen og meg selv vil jeg fremme et representantforslag
+om en ny petroleumsmelding om utvikling og forutsigbarhet for Norges
+største næring.</A>
+        </Hovedinnlegg>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:03:47]:</Navn> Forslagene
+vil bli behandlet på reglementsmessig måte.</A>
+        </Presinnlegg>
+      </Motestart>
+    </Startseksjon>
+    <Hovedseksjon Id="i1002727">
+      <Saker>
+        <Sak saksKartNr="1">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak nr. 1</Uth> [10:03:54]</Saknr>
+            <Saktittel Id="i1002729">
+              <A>Sak behandlet 15. august 2025 i den
+utvidede utenriks- og forsvarskomité (sak 1: Oljefondets investeringer
+i israelske selskaper), og innbrakt for Stortinget i medhold av
+forretningsordenen § 16 sjuende ledd.</A>
+            </Saktittel>
+          </Sakshode>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [10:04:08]:</Navn> I henhold til
+Stortingets forretningsorden § 16 sjuende ledd vil behandlingen
+i Stortinget starte med en redegjørelse av finansministeren. Presidenten gir
+da ordet til statsråd Jens Stoltenberg.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1002731">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [10:04:47]:</Navn> La meg først få takke
+for muligheten til å redegjøre for forvaltningen av Statens pensjonsfond
+utland.</A>
+            <A Type="Minnrykk">Norge har gjennom flere tiår hatt store inntekter
+fra olje- og gassvirksomhet. Mange andre land med tilsvarende inntekter
+fra naturressurser har brukt for mye penger, for raskt. Resultatet
+for disse landene har i mange tilfeller vært at inntektene er blitt
+mer en forbannelse enn en velsignelse.</A>
+            <A Type="Minnrykk">Forekomstene av olje og gass på norsk kontinentalsokkel er
+ikke et resultat av egne valg, men av naturgitte fortrinn. Det som
+derimot er et resultat av egne valg, er hvordan vi har bygget opp
+en verdensledende næring, og hvordan vi har forvaltet de store inntektene.</A>
+            <A Type="Minnrykk">Vi har lyktes i å fase inn inntektene gradvis
+og unngått at petroleumsvirksomheten i for stor grad har skjøvet
+ut annen næringsvirksomhet. Ikke minst har vi greid å spare inntekter, slik
+at de også kommer framtidige generasjoner til gode.</A>
+            <A Type="Minnrykk">Dette er viktig fordi oljeinntektene ikke er
+vanlige inntekter, men derimot i stor grad en omplassering av formue
+under havbunnen til finansformue i utlandet. Vi har gjort en ikke-fornybar
+ressurs om til en fornybar ressurs med varig avkastning.</A>
+            <A Type="Minnrykk">Fondet er i dag et av verdens største statlige
+investeringsfond. Det er særlige tre politiske veivalg som har gjort
+dette mulig: </A>
+            <Liste Type="Strek">
+              <Pkt>
+                <A>hvor mye som settes inn </A>
+              </Pkt>
+              <Pkt>
+                <A>hvor mye som tas ut </A>
+              </Pkt>
+              <Pkt>
+                <A>hva fondet investeres i</A>
+              </Pkt>
+            </Liste>
+            <A Type="Minnrykk">For det første: Alle de statlige inntektene
+fra olje- og gassvirksomheten blir plassert i pensjonsfondet. Det
+første innskuddet ble gjort i 1996, og siden den gang er det satt
+inn mer enn 9 000 mrd. kr. Dette har vært mulig fordi det meste av
+Norges samlede inntekter fra petroleum har tilfalt fellesskapet
+gjennom stort statlig eierskap og høye skatter.</A>
+            <A Type="Minnrykk">For det andre: Vi fikk etter hvert en klar
+regel for hvor mye vi kunne ta ut av fondet.
+Handlingsregelen fra 2001 sier at vi over tid bare skal ta ut den
+forventede realavkastningen.
+Den reelle verdien kan dermed opprettholdes.</A>
+            <A Type="Minnrykk">For det tredje: Vi bestemte tidlig at fondet
+ikke bare skulle investeres i rentebærende papirer, men også bredt
+i verdens aksjemarkeder. Det gir over tid høyere forventet avkastning, men
+også større svingninger underveis og risiko for tap.</A>
+            <A Type="Minnrykk">Våren 1997 sluttet et flertall på Stortinget
+seg til at 40 pst. av fondet kunne plasseres i aksjer.
+Senere er aksjeandelen i fondet økt i flere omganger, sist til 70 pst.
+i 2017. Beslutningen om å plassere fondets midler i aksjer har vist
+seg å være svært lønnsom for den norske stat, og dermed for hele
+det norske samfunnet. Over tid har plasseringene i globale finansmarkeder
+gitt oss nærmere 12 000 mrd. kr i avkastning, godt over halvparten
+av dagens fondsverdi.</A>
+            <A Type="Minnrykk">Fondet har altså hatt vesentlig større finansinntekter
+enn det har hatt tilførsel av petroleumsinntekter. Uten plasseringene
+i aksjer ville ikke fondet vært i nærheten av dagens verdi på 20 000 mrd. kr. </A>
+            <A Type="Minnrykk">Pensjonsfondet investeres i henhold til en
+referanseindeks fastsatt av Finansdepartementet. Det er åpnet for
+at Norges Bank kan avvike fra den fastsatte indeksen innenfor en begrenset
+ramme. Fondet er derfor langt på vei et indeksfond.</A>
+            <A Type="Minnrykk">Over 97 pst. av avkastningen så langt kan tilskrives
+det politisk bestemte valget av referanseindeks. Avkastningen finansierer
+i dag mer enn hver fjerde krone på statsbudsjettet.</A>
+            <A Type="Minnrykk">Fondets suksess hviler på at vi har bred politisk
+oppslutning om viktige veivalg og en klar ansvars- og rolledeling.
+Investeringene skjer innenfor et politisk bestemt rammeverk, men
+pensjonsfondet er ikke et politisk virkemiddel. Det er en finansiell
+investor. Ansvars- og rolledelingen sørger for armlengdes avstand
+mellom politiske myndigheter og beslutninger om enkeltselskaper.</A>
+            <A Type="Minnrykk">Finansdepartementet har det overordnede ansvaret,
+mens Norges Bank har oppgaven med å forvalte fondet etter mandatet
+fastsatt av departementet. Det omfatter bl.a. å ta investeringsbeslutninger
+og utøve eierrettigheter i enkeltselskaper. Denne arbeidsdelingen
+har bred tilslutning i Stortinget. </A>
+            <A Type="Minnrykk">En del av Norges Banks mandat gitt av Finansdepartementet
+er at pensjonsfondet skal forvaltes ansvarlig. Banken skal fastsette
+prinsipper for den ansvarlige forvaltningen basert på internasjonalt
+anerkjente standarder fra bl.a. FN og OECD.</A>
+            <A Type="Minnrykk">Norges Bank har utformet forventninger til
+selskapene fondet er investert i. Blant annet skal de styres effektivt,
+respektere eierrettigheter og ta hensyn til miljøet og samfunnet rundt
+seg. Banken har dialog med selskapene og stemmer på generalforsamlinger
+i tråd med sine uttrykte forventninger.</A>
+            <A Type="Minnrykk">I tillegg overvåker Norges Bank den løpende
+risikoen i fondet. Det gjelder også selskaper med virksomhet i krigs-
+og konfliktområder, der det skal utvises særskilt aktsomhet. Innenfor
+de politisk fastsatte rammene kan Norges Bank selge seg ut av selskaper
+dersom banken vurderer at det kan redusere risikoen for fondet.</A>
+            <A Type="Minnrykk">Slike nedsalg benyttes for relativt små investeringer
+der banken har avdekket at selskapene ikke opptrer i tråd med forventningene,
+og anser andre virkemidler som uegnet. Som for resten av den ansvarlige
+forvaltningen er slike nedsalg motivert av å oppnå høyest mulig
+avkastning til en akseptabel risiko. </A>
+            <A Type="Minnrykk">I de første årene ble etiske hensyn i pensjonsfondet
+ivaretatt ved at fondet investerte i selskaper på anerkjente børser i
+land med velutviklet selskaps- og verdipapirlovgivning. Dette var
+land som vi har nære politiske og økonomiske bånd til, som var viktige
+handelspartnere for mange norske bedrifter, og som mange norske
+bedrifter investerte i.</A>
+            <A Type="Minnrykk">Da det i 2004 ble etablert egne etiske retningslinjer,
+ble hensynet til framtidige generasjoner definert som én av to etiske
+forpliktelser som fondet skal ivareta. Begge forpliktelsene har
+bred tilslutning i Stortinget.</A>
+            <A Type="Minnrykk">I innstillingen til stortingsmeldingen om Statens
+pensjonsfond for 2021 skrev en samlet finanskomité denne merknaden:</A>
+            <Sitat Type="Minnrykk">
+              <A>«Komiteen viser til at SPUs etiske rammeverk
+bygger på to etiske forpliktelser. For det første skal fondet forvaltes
+med sikte på varig verdiskaping for nålevende og fremtidige generasjoner.
+For det andre skal fondet unngå investeringer i virksomheter som
+medvirker til eller selv er ansvarlige for grove brudd på etiske
+normer. Komiteen støtter disse.» </A>
+            </Sitat>
+            <A Type="Minnrykk">Fondets andre etiske forpliktelse, de etiske
+retningslinjene, består dels av produktkriterier, der fondet pålegges
+ikke å investere i bl.a. tobakk, kull og noen våpentyper. De består også
+av atferdskriterier, der fondet kan utelukke selskaper som medvirker
+til eller selv er ansvarlig for bl.a. grov korrupsjon, alvorlig
+miljøskade og medvirkning til staters brudd på folkeretten. Retningslinjene
+er rettet mot selskaper, ikke stater.</A>
+            <A Type="Minnrykk">Det faglig uavhengige Etikkrådet vurderer om
+selskaper fondet er investert i, har virksomhet som er i strid med
+retningslinjene. Etikkrådets undersøkelser tar opp alvorlige saksforhold.
+Rådet har en grundig prosess, hvor selskapene får uttale seg, for
+å redusere risikoen for å ta beslutninger på feilaktig grunnlag.
+Etikkrådets tilrådinger blir offentliggjort og må være godt begrunnet
+og etterrettelige.</A>
+            <A Type="Minnrykk">Disse prosessene tar nødvendigvis noe tid.
+Når Etikkrådet avdekker virksomhet rådet mener er i strid med kriteriene, gir
+det råd til Norges Bank om observasjon eller utelukkelse. Hovedstyret
+i banken beslutter om selskapet skal settes til observasjon, utelukkes
+eller om eierskapsutøvelse er mer egnet. Samlet er i dag 180 selskaper
+utelukket fra fondet.</A>
+            <A Type="Minnrykk">Verken Etikkrådet eller Norges Bank har som
+oppgave å vurdere andre og bredere hensyn enn det som følger av
+retningslinjene. </A>
+            <A Type="Minnrykk">De etiske retningslinjene er en ordning for
+etterkontroll av selskaper fondet er investert i. Vi må derfor forvente
+at fondet vil kunne være investert i selskaper Etikkrådet senere vil
+gi råd om å utelukke. </A>
+            <A Type="Minnrykk">Det har vært stor oppmerksomhet om pensjonsfondets investeringer
+i lys av den ulovlige okkupasjonen av palestinske områder og den
+folkerettsstridige krigføringen i Gaza.</A>
+            <A Type="Minnrykk">I 2009 ble de første selskapene knyttet til
+okkupasjonen utelukket. I takt med at situasjonen har forverret
+seg og normbruddene er blitt grovere, har fondet trukket seg ut
+av flere selskaper. I dag er totalt 17 selskaper utelukket som følge
+av Israels krigføring og ulovlige okkupasjon, hvorav 8 etter den 7. oktober
+2023. Disse utelukkelsene har skjedd på grunnlag av de etiske retningslinjene.</A>
+            <A Type="Minnrykk">I tillegg til dette har Norges Bank gjort nedsalg
+innenfor sitt mandat om å skape høyest mulig avkastning til akseptabel risiko.
+Banken har dessuten forenklet forvaltningen av den israelske aksjebeholdningen
+ved å selge seg ut av alle selskaper utenfor referanseindeksen og
+avsluttet avtalene med eksterne forvaltere. Alle disse tiltakene
+er begrunnet med økt aktsomhet.</A>
+            <A Type="Minnrykk">Samlet har pensjonsfondet siden utgangen av
+2023 og fram til slutten av august i år solgt seg ned fra 76 til
+33 israelske selskaper. Dette omfatter både utelukkelser under de
+etiske retningslinjene og nedsalgene Norges Bank har foretatt innenfor
+sitt mandat.</A>
+            <A Type="Minnrykk">Norges Bank har også forsterket sitt øvrige
+arbeid med ansvarlig forvaltning. Banken har iverksatt skjerpede
+tiltak, bl.a. gjennom styrking av analyseverktøy som brukes til
+å vurdere risiko, gjennomgang av rutiner og prosesser for behandling
+av tilrådinger fra Etikkrådet og vurdering av krav som stilles til
+eksterne forvaltere. I tillegg styrker Etikkrådet sitt arbeid gjennom
+systematisk og jevnlig gjennomgang av selskaper, bedre informasjonsdeling
+med banken og forsterket nyhetsovervåking. </A>
+            <A Type="Minnrykk">Over tid er de etiske retningslinjene blitt
+mer omfattende. Sist de ble styrket, var våren 2021, da et samlet
+storting bl.a. sluttet seg til at ikke bare kjernevåpen skulle omfattes
+av de etiske retningslinjene, men også plattformer for levering
+av slike våpen. </A>
+            <A Type="Minnrykk">Norge står nå i den mest alvorlige sikkerhetspolitiske
+situasjonen siden andre verdenskrig. Det er økende stormaktsrivalisering
+i verden. Vi har sett en ny brutal krig i Midtøsten, og det er en
+storskalakrig i Europa. Tilliten til internasjonale institusjoner
+svekkes, og normer for samarbeid undergraves. Økonomisk politikk
+og utenriks- og sikkerhetspolitikk henger tettere sammen. Handelen
+mellom land og bedrifter er blitt enda mer sammenvevet, og teknologiselskaper
+er en del av verdikjedene til de fleste virksomheter, også våpenindustrien. </A>
+            <A Type="Minnrykk">Disse endringene utfordrer rammeverket for
+pensjonsfondet på flere måter. Mer krig og uro gjør at flere selskaper kan
+medvirke til staters brudd på folkeretten. Samtidig utviskes skillet
+mellom militær og sivil teknologi. Kunstig intelligens, romteknologi
+og dataanalyse er sentralt i moderne krigføring, slik det er i samfunnet
+for øvrig. </A>
+            <A Type="Minnrykk">Store selskaper som leverer produkter som er
+avgjørende for en lang rekke sivile formål,
+som dataprogrammer og tjenester vi alle bruker hver dag, leverer
+også produkter som brukes i våpensystemer, f.eks. skyløsninger.
+Det blir derfor stadig vanskeligere å trekke en klar grense for
+når selskaper medvirker til grove etiske normbrudd. </A>
+            <A Type="Minnrykk">Ett eksempel på komplekse verdikjeder er selskapet Lockheed
+Martin, som produserer F-35-kampfly. Flyene framstilles ved hjelp
+av mer enn 1 500 underleverandører, blant dem også norske selskaper,
+som Kongsberg Gruppen.</A>
+            <A Type="Minnrykk">Den vanskelige avgrensningen for når selskaper
+medvirker til grove normbrudd, gjenspeiles også i ulike lister fra sivilsamfunnet
+og andre aktører. De inneholder et stort antall selskaper som hevdes
+å ha medvirket til Israels ulovlige okkupasjon og krigføring i Gaza.
+For eksempel peker FNs spesialrapportør for de okkuperte palestinske
+områdene i sin rapport på noen av verdens største selskaper, som
+Microsoft, Alphabet og Amazon.</A>
+            <A Type="Minnrykk">Vi må være forberedt på at Etikkrådet vil kunne
+igangsette undersøkelser av om bl.a. teknologiselskaper og andre
+store selskaper i henhold til dagens retningslinjer kan sies å medvirke
+til staters brudd på folkeretten. Tidligere i år skrev Etikkrådet
+at de hadde flere teknologiselskaper under utredning knyttet til
+kriteriene for menneskerettigheter og krig og konflikt.</A>
+            <A Type="Minnrykk">Dersom pensjonsfondet ikke kan investere i
+slike virksomheter, vil det kunne endre fondets grunnleggende egenskaper.
+Et fond som ikke kan være investert i verdens største selskaper,
+kan vanskelig forbli et globalt indeksfond. Det vil kunne øke risikoen
+eller redusere den forventede avkastningen.</A>
+            <A Type="Minnrykk">Fondet er investert i nesten 8 500 selskaper,
+men de syv mest verdifulle selskapene utgjør alene 16 pst. av fondets
+aksjeverdier. Uten disse syv selskapene de siste fem årene hadde fondet
+vært 1 140 mrd. kr mindre. </A>
+            <A Type="Minnrykk">En del dilemmaer har også blitt satt mer på
+spissen den siste tiden.</A>
+            <A Type="Minnrykk">Norge har flere store og langsiktige samarbeidsavtaler med
+allierte om kjøp, vedlikehold og oppgraderinger av bl.a. kampfly,
+fregatter og stormpanservogner. Selskapene som skal levere disse
+produktene, er utelukket fra fondet. I henhold til dagens retningslinjer
+anses de å medvirke til grove etiske normbrudd fordi de medvirker
+til produksjon av kjernefysiske våpen. Samtidig er kjernevåpen grunnleggende
+for NATOs avskrekkingsstrategi, som Norge er en del av.</A>
+            <A Type="Minnrykk">Det betyr at vi på den ene siden mener at det
+er etisk forsvarlig å overføre store beløp til slike selskaper som
+betaling, mens det er uetisk å motta langt mindre beløp som avkastning fra
+de samme selskapene.</A>
+            <A Type="Minnrykk">Pensjonsfondet er blitt vesentlig større de
+siste årene og får stadig mer oppmerksomhet internasjonalt. Fondet
+kan bli oppfattet som et politisk virkemiddel og uttrykk for norske
+interesser. For å bli behandlet som en finansiell investor internasjonalt
+og få tilgang til de markedene vi ønsker å investere i, må fondet
+fortsatt bli oppfattet som nettopp det.</A>
+            <A Type="Minnrykk">I en urolig tid må vi være forberedt på raske
+endringer. Krig og konflikt kan endre forutsetningene for fondets
+investeringer i et land i løpet av kort tid. Når det skjer, kan
+dagens etiske rammeverk gjøre det vanskelig for Etikkrådet og Norges
+Bank å handle så raskt som situasjonen tilsier. På bakgrunn av krigen
+i Gaza har flere etterlyst mekanismer for raskere beslutninger og
+styrket aktsomhet. Vi må erkjenne at alle disse endringene, utfordringene
+og dilemmaene reiser grunnleggende spørsmål om utformingen av det
+etiske rammeverket for pensjonsfondet.</A>
+            <A Type="Minnrykk">Det er god tradisjon for at beslutninger om
+fondet er basert på grundige vurderinger og bred forankring i Stortinget. Jeg
+mener at tiden er inne for å gjennomgå det etiske rammeverket og
+praktiseringen av det, for å sikre en god balanse mellom viktige
+hensyn. Vi bør ha med oss at dette ikke er noe vi kan møte et stykke
+fram i tid, men noe som utfordrer oss her og nå. </A>
+            <A Type="Minnrykk">Det er en styrke at vi i Norge har bred enighet
+om de lange linjene og om veivalgene i vårt forhold til omverdenen. Pensjonsfondet
+er en viktig del av denne enigheten. Fondet er et av de største
+i sitt slag i en verden som blir mindre forutsigbar. Det finnes
+ingen plassering uten økonomisk eller politisk risiko. Flere av
+dilemmaene knyttet til fondet settes mer på spissen. </A>
+            <A Type="Minnrykk">Vår oppgave er å beskytte fondet ved å holde
+fast ved formålet om å trygge verdiene for nåværende og framtidige
+generasjoner. Samtidig må vi i fellesskap sørge for at fondet forvaltes
+i tråd med verdier vi står sammen om.</A>
+            <A Type="Minnrykk">Jeg ser fram til å høre Stortingets syn på
+disse utfordringene og hvordan vi bør håndtere dem.</A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [10:27:42]:</Navn> Takk for redegjørelsen.</A>
+            <A Type="Minnrykk">Presidenten foreslår at det åpnes for en debatt
+om finansministerens redegjørelse. Presidenten vil i tillegg opplyse
+om at han har til hensikt å føre saken opp på nytt i et senere møte i
+Stortinget. – Det anses vedtatt.</A>
+            <A Type="Minnrykk">Presidenten vil ordne debatten slik: 5 minutter
+til hver partigruppe og 5 minutter til medlemmer av regjeringen.</A>
+            <A Type="Minnrykk">Videre vil det – innenfor den fordelte taletid
+– bli gitt anledning til replikker med svar etter innlegg fra medlemmer
+av regjeringen, og de som måtte tegne seg på talerlisten utover den
+fordelte taletid, får en taletid på inntil 3 minutter.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1002733">
+            <A>
+              <Navn personID="TUMO">
+Tuva Moflag (A) [10:28:29]:</Navn> Takk til finansministeren for
+en grundig og god redegjørelse. Dette er en redegjørelse som både
+trekker opp historikken om hva vi har gjort fram til i dag, og illustrerer
+behovet for å ta en grundig diskusjon om hva vi kan og bør gjøre
+framover.</A>
+            <A Type="Minnrykk">Historien om oljefondet er en suksess vi kan
+være stolte av. Siden det første innskuddet ble gjort i Statens
+pensjonsfond utland, har flere kloke politiske beslutninger bidratt
+til at fondet er en viktig finansieringskilde i det norske statsbudsjettet.
+Disse beslutningene handler i grove trekk om innskuddene og opprettelsen
+av fondet, handlingsregelen og nivået på uttak fra fondet samt investeringsprofilen
+til fondet med beslutningen om å investere i aksjer. I dag er det
+slik at størstedelen av fondets verdi stammer fra avkastningen av
+fondet. </A>
+            <A Type="Minnrykk">Fondet er, har alltid vært og skal fortsatt
+være et finansielt instrument. Overordnet er fondets mål å tjene
+mest mulig penger til en akseptabel risiko. I dette ligger det en
+viktig generasjonskontrakt. Vi har nemlig tatt en ikke-fornybar
+ressurs, som oljen er, og gjort den om til en evigvarende kilde
+til finansiering av velferd. I dag finansierer fondet om lag hver fjerde
+krone på statsbudsjettet. Det betyr at pengene vi bruker på skole,
+eldreomsorg og pensjoner, er avhengige av en fortsatt klok forvaltning
+av vår felles olje- og finansformue.</A>
+            <A Type="Minnrykk">Fondet er ikke, har aldri vært og skal heller
+ikke i framtiden være et politisk instrument. Det løser vi best
+ved å sikre at fondet fortsatt er et globalt, indeksnært fond. Dette
+er imidlertid et rammeverk som kan utfordres, slik det beskrives
+i finansministerens redegjørelse. I en sammenvevd global økonomi
+med integrerte verdikjeder kan det bli nær sagt umulig å skille
+selskaper man kan investere i, fra selskaper man ikke kan investere
+i. Og i en verden der teknologi brukes i både kunnskap og krig,
+kan dagens rammeverk i ytterste konsekvens føre til uttrekk fra
+verdens største teknologiselskaper. Da forlater vi rammeverket om
+et indeksnært globalt aksjefond og det rammeverket som har gjort
+fondet til den ressursen det er i dag. </A>
+            <A Type="Minnrykk">Verden har endret seg mye på få år. Endringene
+skjer raskere enn før og utfordrer oss på nye måter. Vi lever i
+den mest alvorlige sikkerhetspolitiske situasjonen siden andre verdenskrig.
+Russlands invasjon av Ukraina ble møtt med internasjonale sanksjoner,
+og fondet har frosset sine investeringer i Russland. Israels krigføring
+og okkupasjon i Palestina har ført til både risikobaserte nedsalg
+i israelske selskaper og uttrekk basert på anbefalinger fra Etikkrådet.
+Det er likevel reist spørsmål om rammeverket er godt nok for slike
+situasjoner, og om man trenger flere verktøy for å sikre særlig
+aktsomhet og raskere nedsalg fra krigssoner og områder med folkerettsbrudd.</A>
+            <A Type="Minnrykk">Vi står ved et veiskille med tanke på den videre
+forvaltningen av vår felles olje- og finansformue. Det handler om generasjonskontrakten
+og vår evne til å finansiere velferd i årene som kommer. Det handler
+om vår evne til å stille opp for land i krig og konflikt og sikre
+vår egen trygghet og beredskap her hjemme, og det handler om evnen
+til å etterleve folkerettslige forpliktelser. Derfor er jeg glad
+for at finansministeren i denne redegjørelsen så tydelig løfter
+opp dilemmaene vi står overfor, og samtidig inviterer Stortinget
+til dialog om veien videre for Statens pensjonsfond utland. Jeg
+ser fram til en ærlig og åpen debatt knyttet til disse dilemmaene
+i den videre behandlingen av denne tematikken i Stortinget.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1002735">
+            <A>
+              <Navn personID="HLI">
+Hans Andreas Limi (FrP) [10:33:03]:</Navn> Takk for redegjørelsen.
+De beslutninger vi etter hvert skal ta om det fremtidige rammeverket
+for oljefondets investeringer, kan bli de aller viktigste beslutningene
+vi tar i denne stortingsperioden.</A>
+            <A Type="Minnrykk">Oljefondet er i dag investert i rundt 8 500
+selskaper over hele verden og utgjør etter hvert selve grunnmuren
+i det norske velferdssamfunnet. Verdien har vokst fra 1 400 mrd.
+kr i 2005 til over 20 000 mrd. kr i 2025. Av denne enorme veksten utgjør
+nesten 12 000 mrd. kr ren avkastning på fondets investeringer.</A>
+            <A Type="Minnrykk">Denne avkastningen har vært mulig fordi fondet
+har vært forvaltet langsiktig, forutsigbart og profesjonelt. Innenfor brede
+politisk vedtatte rammer har forvalterne hatt frihet til å ta investeringsbeslutninger
+uten direkte politisk innblanding. Det er nettopp fraværet av politisk
+detaljstyring som har gjort det mulig å sikre høy og stabil avkastning
+over tid. Nå ser vi tendenser til at dette utfordres av enkelte
+partier på Stortinget og av eksterne miljøer som i større grad vil
+bruke fondet som en politisk markør. Det må ikke skje.</A>
+            <A Type="Minnrykk">Derfor må et bredt og ansvarlig flertall i
+Stortinget bidra til fortsatt politisk uavhengighet og forutsigbare
+rammer for fondets investeringer. Noen vil selge oss ut av Tesla,
+andre vil trekke investeringene våre fra olje- og gassektoren eller
+fra selskaper de til enhver tid ikke måtte like.</A>
+            <A Type="Minnrykk">Denne typen politisering setter fondets uavhengighet
+og forretningsmessige drift i fare – og dermed også avkastningen.
+Dersom vi først åpner for å hensynta alle mulige politiske ståsteder,
+setter vi en uheldig presedens, og det vil snart være få selskaper
+igjen å investere i. Da vil det til enhver tid sittende stortingsflertallet
+kunne bestemme hvilke selskaper fondet skal eie, hvilke det skal
+selge seg ut av, og hvilke det i fremtiden ikke bør nærme seg.</A>
+            <A Type="Minnrykk">Forvaltningen av våre sparepenger er for viktig
+til å være en del av et politisk spill eller å bli utfordret i rød-grønne
+budsjettforhandlinger på Stortinget. Vi fikk en forsmak på denne utviklingen
+i sommer, da oljefondet solgte seg ut av Caterpillar, verdens største
+produsent av bygg- og anleggsmaskiner. Utsalget blir av noen oppfattet
+som politisk motivert og kan skade Norges interesser på andre viktige
+områder. I et globalt marked kan enkelte selskapers produkter ha
+blitt brukt på uønskede måter, men dersom dette er terskelen for
+utelukkelse, står vi snart igjen med svært få selskaper å investere
+i.</A>
+            <A Type="Minnrykk">Skulle vi fulgt samme logikk, måtte vi også
+solgt oss ut av selskaper som Toyota, Microsoft og Siemens. Fremskrittspartiet
+mener at vi ikke skal sette våre felles sparepenger på spill for
+å gjennomføre symbolske tiltak.</A>
+            <A Type="Minnrykk">Det er behov for enkelte prinsipielle justeringer
+i regelverket, for som finansministeren også nevnte, er fondet i
+dag utelukket fra å investere i selskaper som produserer komponenter
+til kjernevåpen. I praksis betyr det at vi ikke kan investere i
+selskaper som Airbus, Boeing eller Lockheed Martin, samtidig som
+Norge kjøper F-35-kampfly fra Lockheed Martin. Det er åpenbart et
+paradoks. All den tid Norge og resten av Europa investerer kraftig
+i forsvar, fremstår det uklokt å nekte oljefondet å investere i
+nettopp de selskapene vi er avhengige av i et sikkerhetspolitisk
+perspektiv.</A>
+            <A Type="Minnrykk">Oljefondet kan være en forutsigbar, langsiktig
+eier som bidrar med trygg kapital til økt produksjon av forsvarsmateriell
+– samtidig som investeringene også gir god avkastning. Fondets regelverk
+må ikke stå i veien for investeringer som både gir god avkastning
+og støtter opp under vår egen og våre alliertes sikkerhet. Det viktigste
+vi gjør, er å sikre at fondet fortsatt forvaltes på en ansvarlig
+og forutsigbar måte, slik at vi oppfyller fondets langsiktige mål
+om stabil avkastning i lang tid fremover.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1002737">
+            <A>
+              <Navn personID="HEA">
+Henrik Asheim (H) [10:37:48]:</Navn> La meg først takke finansministeren
+for redegjørelsen. Jeg skal knytte noen kommentarer til den konkret,
+men jeg har lyst til å starte med det store bildet aller først.</A>
+            <A Type="Minnrykk">Pensjonsfondet er et av de beste eksemplene
+på at vi i denne salen kan finne sammen, på tvers av skillelinjer
+i norsk politikk, og lage gode løsninger som står seg over tid.
+Pensjonsfondet ble etablert i 1990. Den gangen satt Høyre, Kristelig
+Folkeparti og Senterpartiet sammen i regjering. I 2001 var det regjeringen
+til dagens finansminister som foreslo handlingsregelen for bruken
+av fondet.</A>
+            <A Type="Minnrykk">Pensjonsfondet og handlingsregelen innebærer
+at vi sparer oljeinntektene og bare bruker avkastningen. Det betyr
+at også fremtidige generasjoner kan få nyte godt av de inntektene
+vi får av olje- og gassvirksomheten på norsk sokkel.</A>
+            <A Type="Minnrykk">I dag høres det kanskje selvinnlysende og klokt
+ut, men det var ingen selvfølge at vi som land skulle få til dette.
+På 1970-tallet, da vi nettopp hadde funnet olje, falt Norge i kredittkortfellen.
+Vi begynte å bruke oljepenger på forskudd, før vi hadde tjent dem,
+og etter hvert brukte vi oljepengene løpende. Samtidig økte oljeprisen
+til stadig nye høyder.</A>
+            <A Type="Minnrykk">Det var ikke bærekraftig. I 1986 fikk vi et
+kraftig fall i oljeprisen og et massivt underskudd på statsbudsjettet,
+og det måtte gjennomføres betydelige innstramminger i budsjettene. Så
+holdt oljeprisen seg lav i mange år. I Norge snakket mange om at
+de beste årene i oljealderen sannsynligvis var over. Det første
+innskuddet i oljefondet ble gjort i 1996, ti år senere, og det er
+først de siste tjue årene at oljefondet virkelig har blitt stort.</A>
+            <A Type="Minnrykk">Vi har gått fra å være en oljestat til å bli
+en investorstat. Mer enn 1 av 4 kr på statsbudsjettet vi nå har
+til behandling, kommer fra avkastningen av pensjonsfondet, og mens
+vi tidligere var eksponert for utviklingen i oljeprisen, er nå utviklingen
+i verdensøkonomien og finansmarkedene avgjørende for størrelsen
+på fondet og hva vi kan finansiere over statsbudsjettet.</A>
+            <A Type="Minnrykk">Oljefondets suksessoppskrift har vært indeksnær
+forvaltning, altså at vi eier en liten andel av børsene verden over.
+Det gir god avkastning, lave kostnader og en akseptabel risiko. Det
+er også gjennomsiktig og forutsigbart for andre land. At statlige
+fond kjøper seg inn i andre lands næringsliv, er ikke ukontroversielt,
+men fordi vi verken har kontrollerende andeler eller kan utøve stort
+økonomisk press på selskapene, oppfattes pensjonsfondet som en trygg,
+forutsigbar og upolitisk investor. Derfor er Norge velkommen til
+å investere utenlands, og slik må det fortsette å være.</A>
+            <A Type="Minnrykk">For Høyre har det derfor alltid vært viktig
+å sikre at pensjonsfondet ikke har vært, ikke er, og ikke skal bli
+et utenrikspolitisk virkemiddel. Utenrikspolitikken føres av regjeringen og
+forankres i Stortinget. Den verken føres av eller forankres i Norges
+Bank. Derfor ba også Høyre om en gjennomgang av det etiske regelverket
+i fondsmeldingen før sommeren.</A>
+            <A Type="Minnrykk">Pensjonsfondet er folkets sparepenger, som
+er ment å sikre fremtidige generasjoner av nordmenn. Det er vår
+jobb å tilpasse forvaltningen på en slik måte at vi opprettholder
+det løftet som er gitt mellom generasjoner.</A>
+            <A Type="Minnrykk">Det har oppstått, og det vil oppstå, nye problemstillinger vi
+som folkevalgte vil måtte ta stilling til, og jeg vil takke finansministeren
+for å ha redegjort for dem på en god måte i dag.</A>
+            <A Type="Minnrykk">Vi har allerede et etisk rammeverk, og vi har
+et etikkråd. Stortinget har ved flere anledninger også lagt inn
+nye kriterier for å utelukke investeringer, f.eks. i tobakk, kull
+og enkelte våpen. Samtidig kan dette utfordre inntrykket av at oljefondet ikke
+er politisk, men en forvaltning av folkets penger.</A>
+            <A Type="Minnrykk">Med økende globalisering, store multinasjonale
+konserner og utvikling av teknologi som kan brukes til både godt
+og vondt, kan også våre etiske retningslinjer bli krevende å håndheve
+strengt og prinsipielt i hver enkelt investering.</A>
+            <A Type="Minnrykk">Derfor ønsker Høyre velkommen den redegjørelsen
+finansministeren har gitt i dag, og ser også frem til videre dialog.
+For Høyre vil inngangen da være å sikre best mulig Norges interesser
+og våre felles sparepenger, som skal komme kommende generasjoner
+til gode.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1002739">
+            <A>
+              <Navn personID="KIB">
+Kirsti Bergstø (SV) [10:42:38]:</Navn> Sjelden har vi vært vitne
+til verre forbrytelser og større lidelser enn det vi har sett i Gaza
+de to siste årene. Ufattelig mange er drept og lemlestet. Det meste
+av Gaza ligger i grus. Blokaden har ført til hungersnød, og leger
+og journalister er målrettet drept. Israels brutalitet mot det palestinske
+folk har rystet oss, og for SV har det vært helt grunnleggende at
+Norge må gjøre alt vi kan for å stoppe folkemord. </A>
+            <A Type="Minnrykk">Det ekstreme bomberegnet stilnet da Hamas og
+Israel inngikk våpenhvile. Men den er skjør, og som vi så i helgen, ble
+den brutt – selv om det er grunn til et forsiktig håp for Gazas
+utslitte befolkning, håp om å våkne neste dag. Sist uke vendte hundrevis
+av palestinere som uten rettergang ble satt inn i israelske fengsel,
+hjem til Gaza, og israelske gisler ble satt fri. Det var sterkt
+å se dem komme ut til frihet. Men hva kom de palestinske fangene
+tilbake til? Jo, hjem lagt i grus – og en av dem jeg leste om i
+avisen, fortalte at hele hans familie var drept. </A>
+            <A Type="Minnrykk">Lidelsene er ufattelige, og det er disse forbrytelsene
+som er bakteppet for den diskusjonen vi har i dag. For SV er det helt
+åpenbart at våre egne sparepenger ikke skal investeres i selskap
+som bidrar til grove folkerettsbrudd som begås overfor det palestinske
+folk. Vi har i lang tid krevd at fondet må trekkes ut av selskap
+som medvirker til Israels ulovlige okkupasjon på Vestbredden, og
+vi har krevd at oljefondet skal trekkes ut av selskap som leverer
+våpen og produserer våpen til den israelske hæren – våpen som nå
+brukes i Gaza. </A>
+            <A Type="Minnrykk">Finansministeren er enig med oss i ord, men
+det gjenstår å se i handling. Finansministeren har gjentatte ganger
+sagt at fondet ikke skal være investert i selskap som medvirker
+til folkerettsbrudd, og han har gjentatt dette budskapet når vi
+har utfordret ham i spørretimen og i den offentlige debatten. Likevel
+kommer det eksempel på eksempel i media, fra FN og fra norske organisasjoner
+og nettverk på selskap i fondets portefølje som medvirker nettopp
+til Israels folkerettsbrudd, som Oshkosh, som leverer pansrede lastebiler,
+Airbnb, som muliggjør utleie av ulovlige bosettinger, og RTX, som
+lager Israels missiler. </A>
+            <A Type="Minnrykk">Gjentatte ganger har SV fremmet forslag om
+å rydde opp i dette. Utallige ganger har vi stilt spørsmål til finansministeren.
+Vi har vært oppriktig bekymret for at Norge gjennom oljefondets
+investeringer er medskyldig i forbrytelser. Men hver gang har finansministeren
+avfeid våre advarsler og sagt at det ikke er sånn. Først da advarslene
+nådde Aftenpostens forside i august, innrømmet finansministeren
+at systemet visst ikke var så godt likevel. </A>
+            <A Type="Minnrykk">Jeg vil berømme statsråden for å ta grep. Det
+var sent, men det er ingen tvil om at beskjeden til Norges Bank
+om en gjennomgang av den israelske porteføljen hadde effekt. Aksjene
+i 17 israelske selskap ble solgt rimelig raskt, og Norges Bank avsluttet
+kontrakten med de eksterne israelske forvalterne. </A>
+            <A Type="Minnrykk">Vår klare beskjed er at denne oppvasken må
+fortsette helt til alle selskaper som medvirker til Israels okkupasjon
+og alvorlige folkerettsbrudd, er ute av porteføljen. Jeg tror også
+jeg har folk flest med meg når jeg sier at det er helt uforståelig
+at oljefondet fortsatt har investert titalls milliarder kroner i
+selskap som faktisk leverer våpen til IDF. </A>
+            <A Type="Minnrykk">Det er et helt år siden en ekspertgruppe nedsatt
+av FN trakk fram nettopp det norske oljefondet som eksempel på en finansinstitusjon
+som med sine investeringer i selskap som lager våpen til IDF, risikerer
+å bli medskyldig i grusomme forbrytelser. Nå er det viktig å se
+hvor det går videre herfra. Finansministeren har pekt på Etikkrådet.
+Vi ser at systemet ikke fungerer. Det går for sent. Vi ser også
+at det har vært mulig å trekke ut investeringer og fryse investeringer
+i Russland, og har bedt om at det samme gjøres mot Israel, for vi
+må klare å stå opp mot folkerettsbrudd, alvorlige overgrep og okkupasjon,
+uansett hvor det skjer. </A>
+            <A Type="Minnrykk">SV har fått gjennomslag for at det skal bli
+forbudt å handle og drive næringsvirksomhet med selskap som bidrar
+til okkupasjon. Vi mener at det også bør gjelde oljefondet, og ber statsråden
+ta det med i det videre arbeidet. Jeg ser fram til debatten, og
+jeg tar opp forslagene SV er med på. </A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [10:43:06]:</Navn> Da har representanten
+Kirsti Bergstø tatt opp de forslagene hun refererte til. </A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1002741">
+            <A>
+              <Navn personID="BJAG">
+Bjørn Arild Gram (Sp) [10:48:03]:</Navn> På vegne av Senterpartiet
+vil også jeg takke finansministeren for redegjørelsen. Statens pensjonsfond
+utland er av svært stor betydning for landet vårt. Kloke beslutninger
+tidligere har gjort at Norge nå har et finanspolitisk handlingsrom
+knapt noe annet land har, og det har i prinsippet et evighetsperspektiv
+over seg. </A>
+            <A Type="Minnrykk">Vi må fortsette å være kloke i forvaltningen
+av fondet. Det er snakk om svært store verdier, og den grunnleggende tenkningen
+rammeverket er basert på, bør man være forsiktig med å gjøre brå
+og store endringer i. Det er et langsiktig perspektiv som ligger
+til grunn, med mål om avkastning innenfor akseptabel risiko. Det
+er et finansielt instrument, ikke et politisk, innenfor folkerettens
+rammer.</A>
+            <A Type="Minnrykk">Samtidig viser debatten den siste tiden og
+gjennomgangen av redegjørelsen at dette rammeverket utsettes for
+dilemmaer og utfordringer. Den teknologiske utviklingen går raskt framover,
+og nye teknologiske løsninger vil ofte ha gjennomgripende virkninger
+på tvers av sivil og militær sektor. Når vi ser på hvordan Forsvaret
+skal sikre sin relevans i framtiden, er det nettopp koblingen med
+sivile aktører og sivilt utviklet teknologi – såkalt «dual-use»
+– som er helt sentral. Som det allerede er påpekt, er det samtidig
+slik at verdikjeder ofte blir mer og mer komplekse, på tvers av
+land, sektorer og selskaper. Dette bringer med seg dilemmaer i diskusjonen
+om investeringsunivers og eventuelle uttrekk.</A>
+            <A Type="Minnrykk">Selv om dilemmaer oppstår og utviklingen går
+raskt, er det viktig å identifisere fastpunktene. For at fondet
+skal kunne fungere, er det avhengig av tillit i finansmarkedene
+og fra myndighetene i land der fondet investerer. Selv om Norge
+er et land med et stort fond, er vi først og fremst et lite land
+som er avhengig av våre internasjonale relasjoner. Fondet er og
+må være et globalt indeksnært fond som nyter tillit i finansmarkedene,
+der investeringene gjøres bredt og nøytralt og ikke styres av politiske
+hensyn. Innenfor denne grunnleggende tilnærmingen må rammene til
+fondet utvikles i takt med verden rundt. Redegjørelsen gir et godt
+grunnlag for videre diskusjon.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1002743">
+            <A>
+              <Navn personID="MARMAR">
+Marie Sneve Martinussen (R) [10:50:33]:</Navn> Oljefondets investeringer
+i Israels okkupasjon av Palestina hører selvsagt hjemme i et åpent
+stortingsmøte. Da nye tilfeller av investeringer i okkupasjon og
+folkemord ble løftet gjennom media i august, tok Rødt initiativ
+som gjør at regjeringen nå må legge saken fram for de folkevalgte,
+for behandling, og for offentligheten. Det skulle også bare mangle,
+med den tillitskrisen det norske folks sparepenger befinner seg
+i.</A>
+            <A Type="Minnrykk">FNs granskingskommisjon og ledende folkemordeksperter
+slår fast at Israel har begått folkemord på palestinerne på Gazastripen.
+Israel har ikke avsluttet okkupasjonen av de palestinske områdene
+innen fristen FN ga. Videre har oljefondets koblinger til både folkemord
+og okkupasjon kommet fram – til tross for at finansministeren forsikret
+om det motsatte da vi behandlet oljefondmeldingen i denne salen
+i juni. I mellomtiden har ikke regjeringen endret et eneste komma
+i de etiske retningslinjene, i investeringsmandatet eller i rollefordelingen,
+som fikk oljeformuen vår opp i dette uføret. Etter et knippe uttrekk
+står oljefondet fortsatt investert i 37 selskaper i Israel, og vi
+har ingen garanti mot nye skandaler eller nye krisemøter.</A>
+            <A Type="Minnrykk">I høst har finansministeren vist til Norges
+Bank, som hevder den må ha tilråding fra Etikkrådet, som på sin
+side sier at de ikke er rigget for «ekstremtilfeller som Gaza».
+For å rydde opp i denne pekeleken må stortingsflertallet folket
+nylig har valgt, ta grep. Rammeverket for ansvarlig forvaltning
+av den norske oljeformuen er ikke et velfungerende system. Systemet
+har blitt prøvd og funnet utilstrekkelig. Derfor fremmer Rødt i
+dag flere forslag for å rydde opp.</A>
+            <A Type="Minnrykk">For det første fremmer vi forslag sammen med
+flere andre partier om at regjeringen skal trekke oljefondet ut
+av Israel. Det betyr å omgjøre det politiske vedtaket vi i sin tid
+gjorde da vi tillot oljefondet å investere i Israel. Det tilsvarer
+hvordan regjeringen trakk fondet ut av Russland som en tydelig reaksjon
+på alvorlige folkerettsbrudd. En sånn instruks er det kun regjeringen
+som kan gi – ikke Norges Bank, ikke Etikkrådet og ikke internasjonale
+organer. </A>
+            <A Type="Minnrykk">Videre foreslår Rødt en ansvarsreform av Etikkrådet
+og de etiske retningslinjene. Det styrker den konstitusjonelle ansvarskjeden
+hvis de etiske retningslinjene vedtas av Stortinget. Da vil heller
+ikke departementet lenger kunne endre dem på samme måte som det
+gjorde i 2014, da man nappet ut bestemmelsen om at oljefondets investeringer
+ikke skal stride mot Norges folkerettslige forpliktelser. Det er
+få ord med viktig betydning.</A>
+            <A Type="Minnrykk">Etikkrådet er i dag oppnevnt av departementet
+etter innstilling fra Norges Bank. Det betyr at de som har ansvaret
+for å forvalte porteføljen, også peker ut dem som skal ettergå porteføljen.
+Rødt foreslår i stedet at rådet blir Stortingets kontrollorgan,
+på samme måte som EOS-utvalget eller Riksrevisjonen. Jobben blir
+fortsatt å kontrollere porteføljen, mens Norges Bank fortsatt kontrollerer
+bankens praksis, håndteringen av tilrådingene og det selvstendige
+ansvaret. </A>
+            <A Type="Minnrykk">Reformen Rødt foreslår, krever selvsagt lovvedtak,
+hvor Stortinget må involveres grundig underveis, særlig når det handler
+om å opprette og forme et kontrollorgan for Stortinget – i tråd
+med hva som har vært vanlig i sånne tilfeller. Våre forslag om Etikkrådet
+og en grundig gjennomgang av alle forhold knyttet til forvaltningen
+av oljefondet skal selvsagt ikke gå på bekostning av å ta de raske
+grepene som trengs – tvert om.</A>
+            <A Type="Minnrykk">Det har lenge vært Stortingets vilje at den
+ansvarlige forvaltningen av oljefondet jevnlig skal oppdateres.
+Forrige gjennomgang – Mestad-utvalget – kom i 2020, og det var før både
+Russlands fullskala invasjon av Ukraina og Israels ødeleggelse av
+Gaza. Rødt fremmer derfor forslag om en helhetlig gjennomgang og
+oppdatering av hele rammeverket og ansvarsfordelingen.</A>
+            <A Type="Minnrykk">Jeg takker for redegjørelsen. Jeg er glad for
+at Rødt fikk gjennomslag for at saken nå løftes i Stortinget. Nå
+må oppryddingen starte. Oljefondet må trekkes ut av Israel, folkerettsbrudd
+og ulovlig okkupasjon, og forvaltningen av det norske folks sparepenger
+må strammes opp. Med det tar jeg opp forslagene Rødt har alene og
+sammen med andre i saken.</A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [10:55:14]:</Navn> Representanten
+Marie Sneve Martinussen har tatt opp de forslagene hun refererte
+til.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1002745">
+            <A>
+              <Navn personID="ARIHER">
+Arild Hermstad (MDG) [10:55:32]:</Navn> Det er nå over 20 år siden
+Stortinget vedtok de etiske retningslinjene for oljefondet. Den
+gangen sto jeg på andre siden, som lobbyist, som leder i Framtiden
+i våre hender. Vi presset på for et mer ansvarlig fond, og kampanjen
+endte med at stortingsflertallet tok et banebrytende og prinsipielt
+viktig valg: Økonomien skulle ikke lenger være adskilt fra etikken.
+Det skulle faktisk være mulig å ha en etisk økonomi, også for verdens
+største fond, selv om mange sa at dette var veldig vanskelig. </A>
+            <A Type="Minnrykk">Jeg husker daværende Fremskrittsparti-leder,
+Siv Jensen, som sa at hun sjelden var enig med Framtiden i våre
+hender i noe som helst, men at vi hadde et poeng når det gjaldt
+oljefondet. Retningslinjene ble vedtatt enstemmig. </A>
+            <A Type="Minnrykk">Jeg husker at daværende finansminister Per-Kristian Foss,
+fra Høyre, i 2006 måtte forklare den amerikanske ambassadøren hvordan
+systemet med oljefondet i Norge fungerte, etter at Walmart ble kastet
+ut av fondet. Foss understreket at dette ikke handlet om politikk
+eller diskriminering av amerikanske selskaper, men om en tverrpolitisk
+enighet i Norge om at selskaper som bryter menneskerettighetene
+og arbeiderrettighetene, skal man ikke investere i. </A>
+            <A Type="Minnrykk">Det var faktisk veldig god grunn til å være
+stolt av Norges pionerrolle på det etiske feltet den gangen. Dessverre
+har de siste årene og de siste månedene vist at fondets etikkarbeid har
+havarert. Norske sparepenger er i dag investert i selskaper som
+bidrar til alvorlige brudd på folkeretten, selskaper som har tjent
+penger på å levere våpen, utstyr og tjenester som brukes til å bombe
+skoler, sykehus, barn og sivile i Gaza. Da dette ble påpekt fra
+flere hold, forsikret finansministeren Stortinget om at Norge ikke
+bidro til brudd på folkeretten. Så sent som 8. august sa han: </A>
+            <Sitat Type="Minnrykk">
+              <A>«Vi kan politisk selvfølgelig stramme
+inn retningslinjene, men jeg synes vi har gode retningslinjer som
+sikrer at vi kommer oss ut av selskaper som bidrar til folkerettsbrudd,
+ut av selskaper som selger våpen til ulovlig krigføring i Gaza,
+og ut av selskaper som bidrar til ulovlig okkupasjon og ulovlige
+bosettinger.» </A>
+            </Sitat>
+            <A Type="Minnrykk">Dette stemte ikke, for i praksis ser det ut
+som om finansministeren har vært med på å leke pekeleken. Vi har
+sett med all tydelighet at Norges Bank Investment Management ikke har
+gjort gode nok aktsomhetsvurderinger før investeringene ble gjort. </A>
+            <A Type="Minnrykk">Ingenting av dette er ansvar som kan skyves
+over på Etikkrådet. Mens barn i Gaza ble bombet, tjente Norge penger –
+uten at noen tok ansvar. Både vi i Miljøpartiet De Grønne og andre
+partier har påpekt svakhetene i regelverket, men faktum er at regjeringspartiene
+har stemt ned alle forslag som kunne gjort oljefondet mer ansvarlig.
+De har også ignorert advarsler fra FN, Amnesty, Norsk Folkehjelp
+og andre som har pekt på at Norge ikke oppfyller sine forpliktelser
+etter dommen i Den internasjonale domstolen. </A>
+            <A Type="Minnrykk">Vi vet at KLP fulgte oppfordringen fra juni
+2024 om å gå igjennom porteføljen og vaske den for den typen investeringer.
+Flere norske organisasjoner og FNs rapportør anbefalte regjeringen
+å gjøre det samme. Likevel lukket man øynene. Det er en alvorlig
+ansvarsfraskrivelse. Derfor må finansministeren ta ansvar. Han må
+sørge for at det skjer endringer som gjør at dette aldri kan skje
+igjen. Jeg hadde nok forventet en klar og tydelig forklaring på
+hva som gikk galt, og kanskje en liten unnskyldning, men det kom
+ikke, og det er skuffende. </A>
+            <A Type="Minnrykk">Våre penger skal ikke finansiere folkemord
+og krigsforbrytelser. Våre sparepenger skal ikke finansiere rasering
+av planeten. Dette er fullt og helt regjeringens ansvar. </A>
+            <A Type="Minnrykk">Miljøpartiet De Grønne kommer til å fremme
+en rekke forslag som kan rydde opp i noe av det som har gått galt
+i denne saken. Det er folkets penger som nå har blitt brukt til
+å finansiere krig, okkupasjon og folkemord. Det vil ikke folk i Norge
+ha noe av. Det må vi få en slutt på, og derfor må vi starte oppryddingsjobben
+nå. </A>
+            <A Type="Minnrykk">Jeg tar med det opp MDGs forslag. </A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:00:04]:</Navn> Representanten
+Arild Hermstad har tatt opp de forslagene han refererte til.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1002747">
+            <A>
+              <Navn personID="JRGKRI">
+Jørgen H. Kristiansen (KrF) [11:00:22]:</Navn> På vegne av KrF vil
+jeg begynne med å takke for en reflektert og god redegjørelse fra
+finansministeren. </A>
+            <A Type="Minnrykk" Id="i1002749">La meg videre si at krig er
+grusomt, og de menneskelige lidelsene i Israel og i Gaza som følge
+av krigen som Hamas startet 7. oktober, har vært forferdelige. At
+det nå er blitt våpenhvile, gislene er frigitt og de store lidelsene
+til sivilbefolkningen i Gaza som følge av krigen har tatt slutt,
+er det verdt å glede seg over. Freden er skjør, og mye kan gå galt,
+men utsiktene til en varig fred og en løsning på konflikten mellom palestinerne
+og Israel er bedre enn de har vært siden Oslo-avtalen for mer enn
+30 år siden.</A>
+            <A Type="Minnrykk">Israel har rett til å forsvare seg mot Hamas,
+mot Hizbollah og mot Iran. At det begås feil og overtramp på begge
+sider i en krig, er dessverre normalt. At det er store sivile tapstall
+i en urban krig der den ene parten bruker sivile som skjold, mens
+de stridende oppholder seg i tunneler under bakken, er en tragedie.
+Men det er forskjell på store sivile tapstall og et folkemord –
+store forskjeller. Det var de som skrev folkemordkonvensjonen, veldig
+tydelige på.</A>
+            <A Type="Minnrykk">Jeg er bekymret for at bruken av folkemordbegrepet
+har bidratt til å nøre opp under jødehat her hjemme, og at det har rammet
+norske jøder uforskyldt. Ord kan føre til handlinger, og her mener
+jeg bl.a. statsministeren burde vært tydeligere og tatt til motmæle
+mot beskyldningene fra sine samarbeidspartier.</A>
+            <A Type="Minnrykk">I denne situasjonen må vi beholde et varmt
+hjerte og et kaldt hode, også når det gjelder oljefondet. Enkelte
+partier har krevd Nicolai Tangens avgang fra fondet på grunn av
+investeringer i israelske selskaper. Det blir helt feil. Norge har
+ikke tradisjon for å innføre sanksjoner alene, og det bør heller
+ikke endres nå. Det er multilaterale, globale og tvingende sanksjoner
+vedtatt av Sikkerhetsrådet, eller andre tiltak som det er bred internasjonal
+oppslutning om, som har størst legitimitet og effekt for å påvirke
+en stat til å endre atferd, og det er ikke realistisk å forvente
+at FNs sikkerhetsråd, EU eller en annen bred sammenslutning av likesinnede
+land vil innføre handelsboikott av Israel.</A>
+            <A Type="Minnrykk">Forslaget om å utelukke alle israelske selskaper
+fra oljefondets investeringer bare fordi de er israelske, er direkte oppsiktsvekkende.
+Oljefondet utelukker ikke land, de utelukker enkeltselskaper. Mener
+partiene som foreslår dette, at Israel skal behandles på en annen
+måte enn alle andre land? Og tror disse partiene virkelig at et
+grep som Israel-boikott ikke vil bli tolket som at Norge begynner
+å bruke fondet som et utenrikspolitisk virkemiddel? Tror disse partiene
+virkelig at dette ikke vil undergrave fondets tillit og troverdighet
+internasjonalt og dermed sette våre felles sparepenger i fare?</A>
+            <A Type="Minnrykk">Oljefondets beslutning om å trekke seg ut av
+det amerikanske selskapet Caterpillar har vakt sterke reaksjoner
+i USA. Amerikansk UD sa til Dagens Næringsliv at de er «svært bekymret»
+over det norske statlige investeringsfondets avgjørelse, «som ser
+ut til å være basert på urettmessige påstander mot Caterpillar og
+den israelske regjeringen».</A>
+            <A Type="Minnrykk">Det er 24 selskaper som er utelukket på grunn
+av alvorlige krenkelser av individers rettigheter i krig og konflikt,
+og hele 17 av disse – finansministeren sa 17, sannsynligvis er det 17
+– er relatert til Israel, så langt vi klarer å se av oversikten fra
+Norges Bank. Men ingen av dem har noe med f.eks. krigen i Jemen
+å gjøre. Mange av uttrekkene relatert til Israel kom etter politisk
+press i forbindelse med valgkampen.</A>
+            <A Type="Minnrykk">Det etiske regelverket er viktig, og det må
+følges. Fondet er avhengig av tillit internasjonalt for å kunne
+operere i viktige markeder. Derfor vil KrF sterkt advare mot at
+Stortinget politiserer fondet og bruker det som et utenrikspolitisk
+verktøy. Det vil først og fremst ramme oss selv.</A>
+            <A Type="Minnrykk">Helt avslutningsvis vil jeg si at KrF er positiv
+til en gjennomgang av det etiske regelverket, sånn som finansministeren
+tok til orde for i sin gode og reflekterte redegjørelse.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1002751">
+            <A>
+              <Navn personID="ABIR">
+Abid Raja (V) [11:05:07]:</Navn> Mens Midtøsten denne uken har vært
+preget av at Israel har sluppet over 150 tonn bomber over Gaza –
+til tross for såkalt våpenhvile – har mediebildet her hjemme vært
+preget av valgkampens brutte løfter. Dette henger dessverre også
+på en snodig måte sammen, for det er ikke bare Arbeiderpartiet som
+har brutt løfter de ga til velgerne. Det har også SV.</A>
+            <A Type="Minnrykk">SV stilte før valget et ultimatum: De ville
+ikke forhandle budsjett med regjeringen denne høsten før oljefondet
+solgte seg ut av navngitte selskaper knyttet til Israels ulovlige
+okkupasjon og krigføring. Det var et løfte SV gjentok etter valget, men
+som de nå har forlatt – ikke fordi løftet er oppfylt, men fordi
+SV har skjønt at det ikke er noe de kommer til å få gjennomslag
+for, og at de ikke kommer noen vei mot Arbeiderpartiets systemforsvar.</A>
+            <A Type="Minnrykk">Denne saken er i tillegg et kroneksempel på
+et selvgodt Arbeiderparti som mener at alt er perfekt når de styrer,
+men som blir drevet fra skanse til skanse – som de også har blitt når
+det gjelder brutte løfter om ferger og studielånsslette. Det var
+det samme vi så gang etter gang også i august: Arbeiderpartiet,
+finansministeren og statsministeren hevdet gjentatte ganger at alt
+var perfekt, og at alt fungerte som det skulle, men ble likevel
+tvunget til å be SPU selge seg ut av selskaper etter avsløringer
+i mediene om at det ikke var så perfekt likevel.</A>
+            <A Type="Minnrykk">I stedet for å ta ansvar umiddelbart forsøkte
+både finansministeren og statsministeren seg på en pekelek der alle
+andre enn regjeringen fikk skylden for det uperfekte. Det var direkte ulekkert.
+Jeg våger påstanden: Hadde det ikke vært for at det var valgkamptid,
+ville Arbeiderpartiet ha holdt fast på sine gamle standpunkter om
+at alt var perfekt, og dermed ikke villet gjøre noe.</A>
+            <A Type="Minnrykk">Problemet med brutte løfter er at det har en
+pris som betales med folks tillit. Når Arbeiderpartiet og SV hver
+for seg bryter løfter, er det ikke bare deres egen troverdighet
+som svekkes. Det svekker tilliten til hele det politiske systemet. Dette
+er kjernen i saken vi diskuterer. Oljefondet er fortsatt investert
+i selskaper som bidro og bidrar til krigføring og okkupasjon.</A>
+            <A Type="Minnrykk">Vi husker alle skandalen da Aftenposten i august
+avslørte at fondet var investert i forsvarsselskapet Bet Shemesh
+Engines Holdings, som vedlikeholder kampfly brukt i Gaza. Det forrige
+stortinget stemte likevel ned en rekke forslag om å stramme inn
+regelverket for oljefondet og Etikkrådet. Det forrige stortinget
+sviktet. Det sviktet i møte med en ulovlig og brutal krig. Det sviktet
+i møte med en av de største moralske katastrofene i vår levetid.
+Det å stå opp for systemet var viktigst.</A>
+            <A Type="Minnrykk">Men vi er et nytt storting, og vi har muligheten
+til å gjøre det som er rett nå, og som vil stå seg i ettertid. Derfor
+fremmer Venstre på ny – alene eller sammen med andre partier – en rekke
+forslag som kan bidra til at vi ikke kommer i den samme situasjonen
+igjen.</A>
+            <A Type="Minnrykk">Denne saken har vist oss at lappeteppe-tilnærmingen som
+regjeringen har utvist, ikke er nok. Vi trenger en helt ny, helhetlig
+gjennomgang av rammeverket for forvaltningen av Statens pensjonsfond
+utland, slik Venstre foreslår i dag. Vi trenger også konkrete endringer
+i retningslinjene for observasjon og utelukkelse, slik Venstre og
+andre partier foreslår.</A>
+            <A Type="Minnrykk">Det er selvfølgelig bra at det nå er utsikter
+til fred, etter to år med hensynsløs bombing og drap av uskyldige
+sivile i Gaza. Inntil det er helt tydelig at vi kan få på plass
+en varig fred og en tostatsløsning som er bærekraftig over tid,
+mener jeg og Venstre at det er galt at oljefondet skal være investert
+i Israel. Derfor fremmer vi også forslag om at SPU må trekke seg
+ut av Israel, fullt og helt.</A>
+            <A Type="Minnrykk">Jeg vil benytte anledningen til å legge til
+følgende: Ødeleggelsene i Gaza er katastrofale, og den humanitære
+situasjonen er på bristepunktet. Det må på plass en enorm internasjonal
+innsats og dugnad for å bygge opp igjen et sønderbombet område.
+Det må på plass en enorm innsats for å bidra med akutt helsehjelp,
+mat og husly. Derfor mener jeg og Venstre at Norge må gå foran og
+ta et internasjonalt initiativ til en ekstraordinær støttepakke
+for Gaza, et slags Nansen-program for Gaza, slik at palestinske
+myndigheter får muligheten til å planlegge ut fra en langsiktig
+økonomisk forpliktelse fra Norge og andre land.</A>
+            <A Type="Minnrykk">Jeg håper regjeringen tar denne ballen, og
+at Norge legger seg i front. Jeg ber finansministeren ta med seg
+denne oppfordringen til sine regjeringskollegaer og vil gjerne høre om
+finansministeren har noen umiddelbare tanker om det i dag.</A>
+            <A Type="Minnrykk">Jeg tar opp forslagene Venstre har alene.</A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:10:06]:</Navn> Representanten
+Abid Raja har tatt opp de forslagene han refererte til.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1002753">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [11:10:25]:</Navn> Takk for en god debatt
+om et viktig spørsmål. Som det ble sagt tidlig i debatten, er beslutninger
+dette stortinget eventuelt kommer til å ta om Statens pensjonsfond
+utland, blant de aller viktigste, for det handler simpelthen om
+en så stor del av vår nasjonalformue, og den delen av den som nå
+finansierer mer enn hver fjerde krone på statsbudsjettet. Dette
+er en viktig debatt fordi vi trenger et rammeverk som sikrer at
+vi forvalter verdiene på en god måte også i framtiden. </A>
+            <A Type="Minnrykk">Jeg mener i all hovedsak at det rammeverket
+vi har hatt, egentlig helt siden vi startet med aksjeinvesteringer
+i 1997, har fungert godt. Det har i hvert fall gjort mulig en suksessfortelling
+der vi har gått fra 0 kr i 1996 til 20 000 mrd. kr i årets budsjett.
+Samtidig må vi forstå at det har fungert fordi vi har justert rammeverket
+etter hvert som verden har forandret seg. Tiden har kommet for å
+gjøre nye justeringer og tilpasninger ut fra de erfaringene vi har
+høstet med det rammeverket vi har, og for å håndtere noen av de
+dilemmaene og utfordringene som hele systemet nå åpenbart utsettes
+for. Denne diskusjonen handler ikke om hvorvidt vi er for eller
+mot etiske hensyn, den handler om hvordan vi ivaretar de etiske
+hensynene best. Da vil jeg minne om at det er flere etiske hensyn og
+flere måter å ivareta dem på. </A>
+            <A Type="Minnrykk">I de første årene ble etiske hensyn ivaretatt
+ved at man investerte i velorganiserte, regulerte markeder. Etter
+hvert kom ansvarlig forvaltning av pensjonsfondet, der en legger
+vekt på saker som miljø og eierskapsutøvelse, bl.a. for å sikre
+at man ikke er i selskaper som driver med korrupsjon og annet. Fondet
+selger seg også ut innenfor sitt ansvarlige mandat dersom det mener
+at risikoen er for høy. I 2004 fikk vi særskilte etiske retningslinjer,
+med bred tilslutning her i Stortinget, men der ble det jo sagt,
+og det er også gjentatt av Stortinget flere ganger, senest i 2021,
+at det på en måte er to sett etiske hensyn. Det ene etiske hensynet
+er å sikre god avkastning for nåværende og framtidige generasjoner,
+og det andre settet etiske hensyn er de som er nedfelt i de etiske
+retningslinjene. Begge deler er viktig, og begge deler må håndteres,
+men det å sikre avkastning til fellesskapet, det å sikre at vi har
+inntekter som gjør at vi kan finansiere et av verdens beste velferdssamfunn, er
+også et etisk hensyn. Jeg våger også den påstanden at når Norge
+nå er det eneste, eller i hvert fall ett av to land i OECD som møter
+målsettingen om å bruke 1 pst. av nasjonalproduktet på bistand,
+er det på grunn av at vi har sterke statsfinanser, bl.a. som resultat
+av oljefondet. Det er også et etisk hensyn å sikre at vi fortsatt
+kan være ledende i f.eks. bistandspolitikken. </A>
+            <A Type="Minnrykk">Når det så gjelder det settet med etiske hensyn
+som er nedfelt i de etiske retningslinjene, at vi ikke skal være
+med i selskaper som f.eks. medvirker til brudd på folkeretten, er
+vi jo alle enige om det. Problemet er: Hva er å medvirke, og hvor går
+grensene? Det jeg prøvde å påpeke i min redegjørelse, er at det
+er vanskelig å trekke disse grensene klart i en verden der økonomi
+blir stadig mer sammenvevd. Det er tusenvis av underleverandører
+til et produkt, f.eks. F-35-fly som er brukt i Israel. Hvor lite
+skal bidraget være for at man skal trekke seg ut? Jeg har ikke klare
+svar på det. Jeg bare sier at jeg mener det er riktig å gjøre den
+vurderingen nå. </A>
+            <A Type="Minnrykk">Jeg viser også til at Etikkrådet har sagt tydelig
+at det kommer til å vurdere de store tekselskapene, det som noen ganger
+omtales som en FN-liste, som ikke er en FN-liste, men en rapport
+fra en spesialrapportør. Der står verdens største selskaper listet
+opp. Hvis man tar dem ut av fondet, må i hvert fall Stortinget forstå
+at vi da ikke lenger har et bredt indeksfond. Da har vi ikke lenger
+et fond som forvaltes med lavest mulig risiko, men et helt annet
+fond. Det har konsekvenser som jeg tror Stortinget, og alle, bør
+være klar over før vi eventuelt gjennomfører den type tiltak. Vi
+ser også at man med dagens retningslinjer trekker seg ut av selskaper,
+og så hevder noen at det er politisk. Det er ikke politisk at vi
+går ut av Caterpillar, det er et direkte resultat av retningslinjene
+denne regjeringen og Stortinget har sluttet seg til, men som skaper
+politisk strid. Jeg tror vi skal holde fast ved at det er etter
+retningslinjene, og at det ikke er vi som har tatt den typen enkeltbeslutninger. </A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:15:35]:</Navn> Det blir replikkordskifte.</A>
+          </Presinnlegg>
+          <Replikk Id="i1002755">
+            <A>
+              <Navn personID="HLI">
+Hans Andreas Limi (FrP) [11:15:51]:</Navn> Etter å ha hørt innleggene
+i debatten nå er jeg nok enda mer bekymret enn da vi startet, men
+det skal jeg ikke belemre finansministeren med. Det er bra at finansministeren
+signaliserer at det er nødvendig å ta en gjennomgang.</A>
+            <A Type="Minnrykk">Så er jo spørsmålet: Vi er enige om en gjennomgang
+av rammeverket og det etiske regelverket, men har finansministeren
+noen formening om tidslinjen? Det er mye som tyder på at dette haster
+av hensyn til investeringene til SPU og ikke minst den forventede
+avkastningen. Det er den ene delen av spørsmålet mitt. Den andre
+delen er: Hva gjør vi mens det arbeidet pågår?</A>
+          </Replikk>
+          <Replikk Id="i1002757">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [11:16:39]:</Navn> Som jeg sa i redegjørelsen
+min, er ikke dette utfordringer vi kan forholde oss til i en eller
+annen framtid – det er noe som er her og nå, og som vi må forholde
+oss til i absolutt nær framtid.</A>
+            <A Type="Minnrykk">Det er også slik at Etikkrådet har varslet
+at de setter i gang arbeidet med de store tekselskapene. Jeg kan
+ikke si hva utfallet av den gjennomgangen blir. Det er Etikkrådet
+som på selvstendig grunnlag vurderer det, men basert på det som
+nå er av debatt, basert på det man kan lese av f.eks. andre uttrekk, f.eks.
+fra Caterpillar, er det klart at vi ikke kan utelukke at det kan
+komme anbefalinger om uttrekk fra store internasjonale tekselskaper,
+også de største selskapene i verden. Da settes det dilemmaet vi
+har, på spissen – at det er et etisk hensyn å forvalte dette til
+beste for fellesskapet i dag og framtidige generasjoner og innenfor
+verdier og rammer som vi aksepterer. Det er grunnen til at det er
+viktig at det handles raskt.</A>
+          </Replikk>
+          <Replikk Id="i1002759">
+            <A>
+              <Navn personID="HEA">
+Henrik Asheim (H) [11:17:55]:</Navn> Jeg vil gjenta takken til finansministeren
+for en god og prinsipiell tilnærming til dette, og finansministeren
+sa bl.a. i sitt innlegg at vi må jobbe for at fondet ikke oppfattes
+som et politisk redskap. Landets statsminister uttalte på Zerokonferansen
+i 2019 at vi må venne oss til at pensjonsfondet er et politisk redskap.
+Hvorfor er det viktig at fondet ikke er et politisk redskap?</A>
+          </Replikk>
+          <Replikk Id="i1002761">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [11:18:20]:</Navn> Det er fordi fondet
+skal være en finansiell investor og ha adgang til alle de markedene
+vi ønsker å investere i, og ikke skal bli gjenstand for sanksjoner
+eller hindringer som gjør at det er vanskelig å få den avkastningen
+vi sikrer til det norske fellesskapet og den norske stat.</A>
+            <A Type="Minnrykk">Det er også et ansvar som påhviler oss alle
+her. Det har f.eks. vært sagt i debatten at Caterpillar er en politisk
+beslutning. Nei, det er ikke en politisk beslutning. Det er et resultat av
+de retningslinjene som ble fastsatt først i 2004 og så forsterket
+våren 2021. Vi er ute av selskaper som leverer nye fregatter til
+Norge, som leverer stormpanservogner, som leverer F-35. Det er ikke
+politiske beslutninger, det er resultatet av at vi våren 2021 vedtok
+at vi ikke bare skulle ut av atomvåpen, men også ut av selskaper
+som leverer komponenter til atomvåpen og bæremidler til atomvåpen.
+Da sier jeg bare at vi alle sammen har et ansvar for å ikke snakke
+om dette som om det er politiske beslutninger. Det er beslutninger
+som er et resultat av politiske rammeverk som er vedtatt av Finansdepartementet
+med forankring i Stortinget.</A>
+            <A Type="Minnrykk">Jeg sier også at det er et argument for at
+vi nå har en gjennomgang av dette, for å se på om disse retningslinjene
+er slik som vi ønsker at de skal være.</A>
+          </Replikk>
+          <Replikk Id="i1002763">
+            <A>
+              <Navn personID="HEA">
+Henrik Asheim (H) [11:19:36]:</Navn> Sverdrup-utvalget kom med sin
+utredning i 2022, hvor de bl.a. skriver at Stortinget kan gjøre
+seg til en investeringskomité. De advarte altså mot en politisering
+i Stortinget hvor man får debatter om enkeltkonflikter. Jeg mener
+debatten vi har hatt her i dag, også har båret preg av det. Den
+har egentlig handlet mer om den alvorlige konflikten i Midtøsten
+enn om oljefondet og pensjonsfondets investeringer.</A>
+            <A Type="Minnrykk">Slik de ulike partiene ordlegger seg i denne
+debatten så langt, ser det ut til at det er et ganske solid flertall
+og støtte til den tilnærmingen finansministeren tar, men det flertallet
+er kanskje et annet flertall enn det flertallet som skal forhandle om
+de årlige budsjettene.</A>
+            <A Type="Minnrykk">Mitt spørsmål er egentlig: Ser finansministeren
+for seg å involvere bredt i Stortinget når vi nå skal diskutere
+dette, og se det adskilt fra de budsjettforhandlingene som skal
+pågå denne høsten?</A>
+          </Replikk>
+          <Replikk Id="i1002765">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [11:20:27]:</Navn> Vi har heldigvis god
+erfaring med at vi i Stortinget har greid å ha svært brede flertall
+for de beslutninger vi har tatt om rammeverket, både det etiske
+rammeverket og det øvrige rammeverket, og mitt mål er selvfølgelig
+å ha bred tilslutning også nå.</A>
+            <A Type="Minnrykk">Så tror jeg vi skal skille litt. Det er jo
+en del av dette som kan besluttes av regjeringen, men regjeringen
+har vært opptatt av å ha forankring av de beslutningene. Det etiske
+rammeverket blir f.eks. ikke vedtatt av Stortinget, men vedtas av
+Finansdepartementet etter forankring og drøfting i forbindelse med
+f.eks. en stortingsmelding her i Stortinget. Jeg søker den brede
+forankringen, og så får vi ta stilling til de enkelte dilemmaene
+om hvor bredt det til slutt kan bli. Jeg opplever at det i hvert
+fall i denne sal er åpenhet for en gjennomgang, en utredning. Det
+får vi nå se om det er mulig å få til et bredest mulig flertall
+for.</A>
+          </Replikk>
+          <Replikk Id="i1002767">
+            <A>
+              <Navn personID="KIB">
+Kirsti Bergstø (SV) [11:21:32]:</Navn> Det er godt å høre at regjeringen
+ser behovet for en helhetlig gjennomgang av det etiske rammeverket.
+Det er en erkjennelse av at det ikke fungerer slik det skal, siden
+finansministerens ord om hvor fondet skal investere og ikke investere,
+ikke har blitt til handling. Det finnes ganske tydelige sitater
+fra finansministeren, fra tidligere runder i salen og fra media,
+om at fondet ikke skal være investert i folkerettsbrudd og ulovlig
+okkupasjon. </A>
+            <A Type="Minnrykk">At det nå legges opp til en helhetlig gjennomgang,
+kan imidlertid ikke bety at regjeringen skal legge opp til at det skal
+ta flere år før fondet faktisk trekkes ut av selskaper som åpenbart
+medvirker til grove folkerettsbrudd og okkupasjon.</A>
+            <A Type="Minnrykk">Kan finansministeren love at banken og rådets
+gjennomgang fortsetter med full styrke?</A>
+          </Replikk>
+          <Replikk Id="i1002769">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [11:22:35]:</Navn> For det første mener
+jeg at det som står i retningslinjene, og som jeg har sagt i Stortinget
+og andre steder mange ganger, nemlig at fondet ikke skal være investert
+i selskaper som medvirker til staters brudd på folkeretten, gjelder
+og blir praktisert og håndhevet. Derfor har vi hatt flere uttrekk,
+bl.a. av selskaper som fondet og Norges Bank mener bidrar til ulovlig
+okkupasjon eller ulovlig krigføring i Gaza. Jeg mener også at dette er
+et system for etterkontroll. Det har vært sagt tydelig i Stortinget
+mange ganger, og Stortinget har sluttet seg til det. Det betyr at
+vi igjen kan få eksempler på selskaper som Etikkrådet anbefaler
+at vi trekker oss ut av, selskaper som er ansvarlig for å medvirke
+til staters folkerettsbrudd. </A>
+            <A Type="Minnrykk">I tillegg mener jeg at den diskusjonen vi nå
+har hatt, og ikke minst en del av forslagene om hvilke selskaper
+vi skal trekke oss ut av, flere av verdens største selskaper – FNs
+spesialrapportør, f.eks., mener at de selskapene er ansvarlige for folkerettsbrudd,
+jeg tror til og med at begrepet «folkemord» blir brukt – illustrerer
+et dilemma. Det illustrerer at vi må tenke igjennom om vi faktisk
+ønsker det. Selv om enkeltselskaper skal besluttes av banken, må
+vi ta ansvar for retningslinjer som gjør at banken tar de beslutningene
+som er i tråd med de overordnede målene vi setter.</A>
+          </Replikk>
+          <Replikk Id="i1002771">
+            <A>
+              <Navn personID="KIB">
+Kirsti Bergstø (SV) [11:23:54]:</Navn> Jeg deler målet finansministeren
+tidligere har uttrykt om at fondet ikke skal være investert i ulovlig
+okkupasjon og grove folkerettsbrudd. Da må målet være at de selskapene
+som medvirker til den typen urett, ikke er selskaper vi investerer
+i, men også at det aldri skal skje igjen at vi har denne debatten,
+at det aldri skal skje igjen at vi oppdager at norske investeringer
+er dypt inne i israelsk krigsmateriell.</A>
+            <A Type="Minnrykk">SV var i sin tid pådriver for etiske retningslinjer.
+Det møtte sterk motstand, men endte med enighet i finanskomiteen.
+Vi er fremdeles sterke pådrivere for at oljefondet skal omtales
+og handle internasjonalt på en måte som står seg og er i tråd med
+Norges mål. Vi kan love at vi også vil ta dette inn i forhandlingene
+om budsjett.</A>
+            <A Type="Minnrykk">Hvordan vil finansministeren ta imot det?</A>
+          </Replikk>
+          <Replikk Id="i1002773">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [11:25:02]:</Navn> For det første: Jeg
+tror ikke jeg skal starte forhandlinger om budsjettet her, i en
+debatt om Statens pensjonsfond utland. For det andre: Jeg tror vi
+må være forberedt på at vi igjen kommer til å ha debatt om etiske
+hensyn og etiske dimensjoner ved pensjonsfondet, dels fordi det
+er et system for etterkontroll vi har etablert, og som har hatt
+bred tilslutning i Stortinget helt siden det kom på plass i 2004,
+og dels fordi – og dette er kanskje viktigere – det simpelthen er
+vanskelige grensedragninger knyttet til når et selskap er medansvarlig
+for å medvirke til folkerettsbrudd. Noen mener at det er mange hundre
+selskaper – veldig mange av de aller største selskapene i verden
+– mens andre vil mene at det er å definere det for vidt. </A>
+            <A Type="Minnrykk">Etikkrådet og Norges Bank jobber nå selvfølgelig
+videre basert på de retningslinjene de har fått fra Finansdepartementet,
+men det jeg inviterer til, er en diskusjon om de retningslinjene
+og å vurdere justeringer av dem. Det kan gjøre at man på noen områder
+kan trekke seg ut raskere, mens det på andre områder kan være at
+man skal heve terskelen.</A>
+          </Replikk>
+          <Replikk Id="i1002775">
+            <A>
+              <Navn personID="MARMAR">
+Marie Sneve Martinussen (R) [11:26:20]:</Navn> Finansministeren
+sier at tiden er inne for å gjennomgå det etiske rammeverket for
+oljefondet, bl.a. i lys av de grove folkerettsbruddene i Gaza og
+de problemene som har kommet opp i den forbindelse. Det er godt
+at statsråden kommer Rødt i møte, siden det er nettopp det vi har
+fremmet forslag om i dag. Da er mine spørsmål:</A>
+            <Liste Type="Num">
+              <Pkt>
+                <A>Støtter finansministeren at en slik
+gjennomgang skal framlegges som en stortingsmelding?</A>
+              </Pkt>
+              <Pkt>
+                <A>Vil finansministeren bruke en slik gjennomgang som en slags
+sovepute mot å gjøre nødvendige endringer fram til den meldingen
+i så fall er behandlet?</A>
+              </Pkt>
+            </Liste>
+          </Replikk>
+          <Replikk Id="i1002777">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [11:26:53]:</Navn> Nei, jeg kan se for
+meg at det kan være nødvendig å gjøre endringer før vi har fått
+resultatene av en full gjennomgang, men det er blant de vanskelige
+vurderingene og avveiningene vi skal måtte ta. Jeg mener det er
+en klar fordel at i hvert fall store og prinsipielle endringer skjer
+etter en grundig gjennomgang og etter en forankring i Stortinget.
+Akkurat hva slags form den forankringen skal ta, får vi komme tilbake
+til. Det normale har ofte vært å gjøre den forankringen i form av
+en stortingsmelding – stortingsmeldingen om pensjonsfondet – men
+det er litt avhengig av tidslinjer, hvordan vi organiserer arbeidet,
+og om det er behov for å gjøre tiltak før den helhetlige gjennomgangen
+eller mens den helhetlige gjennomgangen pågår. Denne debatten skal
+jo fortsette – det blir en ny debatt her, litt fram i tid – så da
+tror jeg vi forhåpentligvis vil få klare svar på de spørsmålene
+innen den tid.</A>
+          </Replikk>
+          <Replikk Id="i1002779">
+            <A>
+              <Navn personID="ARIHER">
+Arild Hermstad (MDG) [11:28:06]:</Navn> I den saken vi nå snakker
+om, som handler om investeringer i selskaper som har medvirket til
+bombingen av Gaza, har Etikkrådet blitt brukt som en slags unnskyldning
+for at banken ikke har gjort gode nok aktsomhetsvurderinger. Finansministeren
+har også selv flere ganger uttalt at dette er håndtert gjennom Etikkrådet.
+Spørsmålet er da: </A>
+            <A Type="Minnrykk">Er finansministeren enig i at Etikkrådet i
+denne saken har blitt en sovepute og en unnskyldning for ikke å
+ta etikken til oljefondet på alvor?</A>
+          </Replikk>
+          <Replikk Id="i1002781">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [11:28:56]:</Navn> Det er jeg uenig i.
+Jeg mener at Etikkrådet har gjort en veldig viktig jobb. De har
+gjort den jobben som har bred forankring her i Stortinget. Hele
+systemet med Etikkrådet og Norges Bank er forankret i Stortinget.
+De har kommet med sine anbefalinger, og Norges Bank har tatt de
+beslutningene de har tatt, med bl.a. uttrekk, basert på anbefalingene
+fra Etikkrådet. </A>
+            <A Type="Minnrykk">Jeg mener at både diskusjonen om krigen i Gaza
+og ulovlig okkupasjon av Vestbredden og en del av de andre utfordringene
+nå viser at vi kanskje på noen områder skal lage nye mekanismer
+for å få til raskere uttrekk, f.eks. i krigs- og konfliktsoner,
+men også at det er en del områder og dilemmaer som gjør at vi kanskje
+må heve terskler, fordi vi ser at fondets karakter kommer til å
+endres fundamentalt dersom man går ut av noen av verdens største
+selskaper. Jeg har for min del ikke konkludert, men jeg har sagt
+at dette er ganske alvorlige spørsmål som vi raskest mulig bør ta
+stilling til.</A>
+          </Replikk>
+          <Replikk Id="i1002783">
+            <A>
+              <Navn personID="ABIR">
+Abid Raja (V) [11:30:08]:</Navn> Jeg vil gjerne benytte anledningen
+til å spørre finansministeren om han vil ta med seg min oppfordring
+om en ekstraordinær støttepakke for Gaza, etter modell fra Nansen-programmet,
+og be sine kollegaer i regjeringen vurdere å ta et initiativ til
+en internasjonal giverdugnad for gjenoppbygging av Gaza.</A>
+          </Replikk>
+          <Replikk Id="i1002785">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [11:30:33]:</Navn> Norge er blant de landene
+som går i front når det gjelder å gi bistand til den palestinske
+befolkningen, til FNs programmer for palestinske områder, og vi
+har i veldig mange år også ledet giverlandsgruppen. Jeg tar selvfølgelig
+med meg innspillet om enda mer, at Norge kan spille en enda større
+rolle.</A>
+            <A Type="Minnrykk">Likevel vil jeg igjen minne om at en grunn
+til at Norge er et av ytterst få land – kanskje nå det eneste landet
+– som når målsettingen om å bruke 1 pst. av nasjonalproduktet på
+bistand, er at vi har sterke statsfinanser, og sterke statsfinanser har
+vi bl.a. fordi vi har et stort oljefond som har hatt god avkastning,
+og som har tjent mer penger på aksjer og investeringer i finansmarkeder
+enn vi har fått i oljeinntekter.</A>
+          </Replikk>
+          <Replikk Id="i1002787">
+            <A>
+              <Navn personID="ABIR">
+Abid Raja (V) [11:31:21]:</Navn> Et siste spørsmål: Hva synes finansminister
+Jens Stoltenberg om at vi som land har tjent penger på investeringer
+i et land som samtidig begikk alvorlige og vedvarende folkerettsbrudd
+på Gazastripen? Står finansministeren etisk og moralsk oppreist
+når det gjelder de investeringene?</A>
+          </Replikk>
+          <Replikk Id="i1002789">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [11:31:44]:</Navn> Jeg står oppreist på
+de retningslinjene Venstre og alle andre partier her i Stortinget
+har sluttet seg til. Det er retningslinjer som ikke sier at Norges
+Bank skal trekke seg ut av alle land som er i krig og konflikt,
+men at vi skal trekke oss ut av selskaper som medvirker til folkerettsbrudd.
+Det er ikke rettet mot land, men mot selskaper, og Norges Bank har
+– etter råd fra Etikkrådet – trukket seg ut av en lang rekke selskaper
+Norges Bank mener medvirker til folkerettsbrudd.</A>
+          </Replikk>
+          <Replikk Id="i1002791">
+            <A>
+              <Navn personID="JRGKRI">
+Jørgen H. Kristiansen (KrF) [11:32:29]:</Navn> Takk igjen for en
+god redegjørelse.</A>
+            <A Type="Minnrykk">Det jeg lurer på, er hva finansministeren tror
+hadde vært konsekvensen for Norge hvis vi hadde gjennomført dette
+og trukket oss ut av alle selskaper i Israel.</A>
+          </Replikk>
+          <Replikk Id="i1002793">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [11:32:48]:</Navn> Det hadde blitt oppfattet
+som en klar politisering av fondet, for vi har retningslinjer som
+er rettet mot selskaper, ikke mot land. Man kan selvfølgelig mene
+at de retningslinjene er gale, men de er bredt forankret her i Stortinget.
+Det er ikke retningslinjer om å trekke seg ut av land, men om å
+trekke seg ut av selskaper, og Norges Bank har trukket seg ut av
+mange selskaper. Det hadde altså ikke vært i tråd med det som har
+vært politikken for Norges Bank og Etikkrådet, basert på bred tilslutning
+her i Stortinget.</A>
+          </Replikk>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:33:25]:</Navn> Replikkordskiftet
+er omme.</A>
+            <A Type="Minnrykk">De talere som heretter får ordet, har en taletid
+på inntil 3 minutter.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1002795">
+            <A>
+              <Navn personID="TSTA">
+Tom Staahle (FrP) [11:33:44]:</Navn> Jeg har fulgt debatten med
+stor interesse. Jeg skjønner at dette engasjerer mange, og det engasjerer
+også meg. </A>
+            <A Type="Minnrykk">Krig er krevende, og krig er utfordrende for
+dem som står i det, og det er ikke noe vi kan akseptere. Likevel:
+Det å blande inn oljefondets rolle som et finansielt verktøy for
+AS Norge i det som er en politisk diskusjon, finner jeg særdeles
+krevende. Det denne debatten bærer preg av, er at man skal gjøre oljefondet
+til et politisert verktøy når det gjelder hvordan vi skal forvalte
+de nasjonale verdiene våre. De nasjonale verdiene våre skal være
+til det norske folks beste og til utvikling av den norske staten,
+og da må vi vokte oss vel for å blande for mye politikk inn i det
+som skal være et finansielt verktøy. </A>
+            <A Type="Minnrykk">Det får økonomiske konsekvenser hvis vi velger
+å bruke dette som et politisert verktøy, og det vil ramme hvordan
+vi kan gi tjenester til våre innbyggere, hvordan vi kan investere og
+skape nye verdier til AS Norge og på den måten utvikle denne nasjonen
+videre. Faktum er at hvis vi bruker oljefondet som et politisk verktøy,
+og verdien i oljefondet synker, blir det mindre penger til å investere,
+mindre penger til å gi til tjenester som produseres der ute, og
+vi vil dermed ta ned verdiene til det norske folk. Det er et perspektiv
+vi må ha med oss også i denne debatten. </A>
+            <A Type="Minnrykk">Et relevant poeng – som de som er veldig opptatt
+av dette, og som er moralsk kritiske til fondets virke, ser ut til
+å glemme – er at fondet ikke faktisk bidrar til at man styrker selskapenes
+drift. Fondet tilfører sjelden eller aldri frisk kapital, og et
+selskap der ute kan jo da verken produsere mer eller mindre med
+fondet som eier. Fondets bidrag er i beste fall å sørge for at de
+selskapene vi investerer i, får bedre lånevilkår til å drive sin
+drift. Det er realiteten for de investeringene vi gjør gjennom oljefondet. </A>
+            <A Type="Minnrykk">Jeg vil også si at de retningslinjene som er
+vedtatt i denne sal, har båret vel av gårde. Vi har hatt en formidabel
+avkastning på oljefondet, på 12 000 mrd. kr. Det bringer meg tilbake igjen
+til det dette handler om: Dette er altså det norske folks verdier.
+Dette er det som skal bidra til å utvikle den norske stat videre
+og sørge for at vi kan gi de gode tjenestene som var gjennomgående
+i innlegg fra alle representantene her i trontaledebatten. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1002797">
+            <A>
+              <Navn personID="MAAH">
+Marian Hussein (SV) [11:36:55]:</Navn> Det er spesielt å komme etter
+foregående taler, som ikke med ett eneste ord tok for seg de etiske
+vurderingene som vi er nødt til å ha med oss. Det er også slik at
+gode tjenester i Norge uten respekt for folkeretten ikke gir et
+samfunn som våre barn kan vokse opp i, med de riktige verdiene. </A>
+            <A Type="Minnrykk">FNs generalsekretær, António Guterres, kalte
+det som har skjedd i Gaza mot palestinerne de siste årene, et svik
+mot menneskeheten. Det er absurd å høre debatten her uten å ta inn
+over oss: Hva er det egentlig som har skjedd når en mann i den posisjonen
+bruker så sterke ord? Vi vet at det som har skjedd mot palestinerne,
+har vært opprettholdt gjennom medvirkning fra tredjeland, medvirkning
+som har muliggjort Israels langvarige og systematiske brudd på folkeretten.
+Vi har normalisert Netanyahus regjering. </A>
+            <A Type="Minnrykk">Finansministeren pekte i sitt innlegg på amerikanske Lockheed
+Martin, som er et selskap også vi i Norge har samarbeidet med. Samtidig
+er vårt forhold til amerikanerne – og til andre europeiske land
+– kanskje også en del av de utfordringene. Da Trump holdt sitt innlegg
+til Knesset, sa han: </A>
+            <Sitat Type="Minnrykk">
+              <A>«We make the best weapons in the world,
+and we have given a lot to Israel (…) and you used them well.» </A>
+            </Sitat>
+            <A Type="Minnrykk">Hva er det israelerne har brukt våpnene til
+som de har fått av amerikanerne? De er blitt brukt til å lemleste
+barn, de er blitt brukt til å legge Gaza i grus, og de er blitt
+brukt til det som mest sannsynlig kommer til å bli en dom for folkemord –
+til å tilintetgjøre hele familier på Gazastripen.</A>
+            <A Type="Minnrykk">Israel er sterkt avhengig av internasjonal
+handel og økonomisk samarbeid. Deres statsfinanser og deres krigsøkonomi
+er avhengig av den normaliseringen europeere og amerikanere har
+gjort over tid, og Norge har et ansvar. </A>
+            <A Type="Minnrykk">Og kjære Abid: Tillit handler også om at man
+snakker sant. SV har sagt at vi tar med oss vårt krav for å fortsette
+å kjempe for palestinernes rettigheter. Vi har endret strategi. Det
+er litt viktig at vi også fortsetter å snakke sannferdig fra denne
+talerstolen. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1002799">
+            <A>
+              <Navn personID="BJMO">
+Bjørnar Moxnes (R) [11:40:18]:</Navn> Takk for redegjørelsen fra
+finansministeren. Det er veldig fint å høre at det vil bli en gjennomgang,
+i tråd med det også Rødt går inn for. </A>
+            <A Type="Minnrykk">Situasjonen i dag er at Norges Bank kan gjemme
+seg bak Etikkrådet, og så sier Etikkrådet selv at de ikke er rigget
+for ekstremtilfeller som Gaza. Da har vi ikke et velfungerende rammeverk.
+Dette vil fortsette å rote oss inn i skandaler og krisemøter helt
+til det forankres grundigere i Stortinget. Vi må ha et apparat som
+kan sikre at folkevalgte ikke ender med å gå inn i enkeltselskaper,
+som jeg skulle tro også Stoltenberg ser behovet for. </A>
+            <A Type="Minnrykk">Problemet her er delvis nettopp at regjeringen
+ikke har satt ned allmenngyldige føringer og ikke sikret nødvendige fullmakter
+til de ikke-politiske instansene for å respondere raskt på grove
+folkerettsbrudd. Vi risikerer at staten Norge og statsrådene trekkes
+inn i politiske og diplomatiske kattepiner, og at vi politikere
+får ryddejobben i fanget uansett. Det er risikabelt, ikke bare politisk,
+men også finansielt. For eksempel valgte Finansdepartementet å la
+oljefondet bli stående i Russland etter annekteringen av Krym og
+okkupasjonen av Donbas. Da invasjonen var i gang og man trakk seg
+ut av Russland, var det for sent. Moskva-børsen stengte samme dag,
+og nærmere milliarder av kroner gikk faktisk tapt. </A>
+            <A Type="Minnrykk">Derfor handler forslagene våre om å knesette
+allmenngyldige føringer i forkant, for å slippe vilkårlig kaos i
+etterkant og også unngå inntrykket av at Norge skiller mellom visse
+land og visse selskaper når vi anvender folkeretten og prinsippene
+våre, jamfør forskjellsbehandlingen av Russland på den ene siden
+og Israel på den andre siden. Man kan spørre om ikke retningslinjene
+nettopp er den type allmenngyldige føringer Rødt ønsker å få knesatt.
+Det er de, men de er for vagt formulert, de omfortolkes av Etikkrådet,
+og de vedtas av Finansdepartementet selv.</A>
+            <A Type="Minnrykk">Det har vært gjort uttrekk fra selskaper vedtatt
+eller lansert etter at finansministeren har kalt Norges Bank og
+Etikkrådet inn på teppet, da etter avsløringer av saker i mediene.
+Tror Stoltenberg det oppfattes som mindre politisert enn hvis de samme
+selskapene hadde blitt ekskludert fortløpende etter et tydeligere
+regelverk og uten behov for noe hastemøte, verken med banken eller
+med Etikkrådet? Det er noe av fordelen med det Rødt går inn for.
+Det gir tydeligere rammer og også bedre forvaltning underveis, framfor
+kaotisk håndtering i etterkant.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1002801">
+            <A>
+              <Navn personID="UAB">
+Une Bastholm (MDG) [11:43:33]:</Navn> Det var i juni, rett før sommeren,
+at finansminister Stoltenberg sa at han følte seg trygg på at Statens
+pensjonsfond utland ikke var investert i brudd på folkeretten. Det
+var etter gjentatte spørsmål fra Stortinget. Jeg har selv spurt
+både finansministeren, statsministeren og utenriksministeren om
+investeringer i selskaper som kan være involvert i okkupasjon, brudd
+på folkeretten eller krigsforbrytelser i Gaza. Det kom etter rapporter
+fra Amnesty og etter advarsler fra ICJ om at man kan være juridisk
+medskyldig i folkemord eller i hvert fall brudd på folkeretten dersom
+man ikke går gjennom investeringer. Det kom etter advarsler fra
+europeisk fagbevegelse, som har laget lister over selskaper som
+er investert i okkupasjon, og hvor Norge var den største investoren
+i disse selskapene. Finansministeren uttalte at han følte seg trygg.
+Det er etter redegjørelsen i dag fortsatt et stort spørsmål om han
+følte seg trygg fordi han ikke hadde sjekket, eller om han følte
+seg trygg med informasjon han ikke ga Stortinget på det tidspunktet. </A>
+            <A Type="Minnrykk">Det har vært en veldig høflig debatt, og det
+er bra når vi klarer å være høflige i Stortinget, men jeg mener
+dette har vært en veldig kritikkverdig prosess. Redegjørelsen som
+kom fra finansministeren i dag, inkluderte ikke ett ord av selvkritikk
+eller innrømmelser av at regjeringen i over to år ikke har klart
+å ha kontroll på hvor Statens pensjonsfond utland har vært investert.
+Det var da Aftenposten gjennom et nettsøk fant ut at et av selskapene
+vi er investert i, skryter av at de leverer både vedlikehold og
+våpendeler til israelske kampfly, at dette eksploderte i starten
+av valgkampen. Da fikk vi en prosess der finansministeren ba Statens
+pensjonsfond utland om å gjøre en ny gjennomgang av investeringene
+i israelske selskaper og i selskaper som har investert i okkupasjon
+eller folkerettsbrudd i Gaza og på Vestbredden.</A>
+            <A Type="Minnrykk">Ikke bare har vi vært investert, oljefondet
+har også økt investeringene utenfor referanseindeksen i selskaper
+som har vært involvert i både folkerettsbrudd og okkupasjon, mens Stortinget
+har hatt debatter om å trekke seg ut. Man har vært helt fullstendig
+blind for den politiske debatten og uroen i verden over hvordan
+mange vestlige land har vært investert i folkerettsbrudd. Jeg mener
+dette viser at Etikkrådet har vært brukt som en unnskyldning. Etikkrådet
+bør bli et etikktilsyn, sånn at vi sørger for at de miljøene som
+jobber med å skaffe Norge penger, også får hjelp til å tenke etikk
+i det arbeidet.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1002803">
+            <A>
+              <Navn personID="JOEYST">
+Joel Ystebø (KrF) [11:46:57]:</Navn> I en krevende debatt som dette
+tror jeg alle vi representanter i denne salen kan enes om én ting,
+og det er at de sivile lidelsene i Gaza er grufulle. De gjør sterkt
+inntrykk på oss alle. Samtidig er det to punkter ved denne krigen,
+konflikten og uroen i regionen som jeg er grunnleggende uenig med
+venstresiden om. Det første handler om hva det er som har forårsaket
+denne krigen, og det andre handler om hva som er løsningen på både krigen
+og uroen i regionen. </A>
+            <A Type="Minnrykk">Jeg er veldig sikker på at det å trekke oljefondet
+ut av Israel på den måten som blir foreslått, langt ifra er en god
+løsning. Det er ikke en god løsning av flere grunner. Den første handler
+om at det er et grep som ville gitt Israel en helt annen behandling
+enn andre land i krig og andre land generelt, og det er en forskjellsbehandling
+av Israel som jeg mener at Norge skal være veldig forsiktig med.
+Den andre grunnen – som flere har vært inne på – er at det svekker
+oljefondets uavhengighet og mandat og den rollen det har. Derfor
+mener jeg at et forslag som dette er grunnleggende uklokt med tanke
+på den rollen Stortinget har gitt oljefondet.</A>
+            <A Type="Minnrykk">Det tredje som uroer meg, handler ikke bare
+om det som gjelder oljefondet og politikken rundt det i seg selv,
+men om at det bidrar til en ensidig fordømmelse av Israel. Denne
+fordømmelsen av Israel på autopilot ser vi primært fra venstresiden.
+Jeg mener heller ikke at regjeringens tilnærming til denne krigen
+har vært særlig god. Jeg tror det er et uheldig signal med ulike
+grep som ligner på f.eks. boikott av Israel, og også med den typen
+grep som foreslås i en sammenheng som dette. </A>
+            <A Type="Minnrykk">Jeg mener også at det er flere eksempler på
+norske myndigheters håndtering av denne krigen som har vært uheldig.
+Som en respons på at vi nå heldigvis har sett en våpenhvile – en
+avtale flere har vært inne på at er skjør, men som allikevel er
+et lyspunkt og viser at man kan få en slutt på disse forferdelige
+lidelsene – reiste statsministeren og utenriksministeren til Egypt
+for å forsøke å bidra til en fredsløsning. Israels fungerende ambassadør
+til Norge har likevel ikke hørt et eneste ord fra regjeringen etter
+våpenhvilen. Jeg mener at vårt land og vår regjering bør vise en
+mye bedre balanse i møte med krigen enn det man har gjort til nå,
+og jeg frykter for denne typen forslag når det gjelder Norges helhetlige håndtering
+av uroen i regionen.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1002805">
+            <A>
+              <Navn personID="MARVEA">
+Marit Vea (V) [11:50:01]:</Navn> For meg er det et før og et etter
+7. oktober 2023. Før 7. oktober hadde jeg ikke sett unge etter unge
+etter unge trekke sin siste pust på skitne sykehusgulv live på min
+egen mobiltelefon. Før 7. oktober hadde jeg ikke sett myke babykropper
+dekket av støv ligge altfor stille på hvite bomullslerret, og før
+7. oktober kunne det ikke falle meg inn at en moderne militærmakt
+med vitende og vilje og stor systematikk ville drepe hundre uskyldige
+sivile for å ta livet av én høytstående leder hos fienden. Det har
+vært Israels militære doktrine – en doktrine som i praksis betyr
+at palestinske liv er ingenting verdt. </A>
+            <A Type="Minnrykk">I 24 måneder har vi vært vitner – vitner til
+umenneskelige lidelser og vitner til et ekstremt høyreorientert
+israelsk regime som valser over alt som er av internasjonale regler
+og institusjoner. Som en del av menneskeheten skammer jeg meg. Jeg skammer
+meg over at vi ikke klarte å stoppe dette. Jeg skammer meg over
+alle dem vi sviktet, og dem vi fremdeles svikter. </A>
+            <A Type="Minnrykk">Jeg vil likevel anerkjenne at Norge og regjeringen
+har brukt stemmen og innflytelsen sin til å forsøke å stoppe Israel og
+holde både israelske ledere og Hamas ansvarlige for sine ugjerninger.
+Nettopp derfor er det rett og slett helt ubegripelig for meg at
+det tok regjeringen og oljefondet nesten to år å komme seg ut av
+selskaper som har bidratt til å muliggjøre Israels vedvarende militære
+overhøvling av Gaza. Ingen kan si at de ikke ble advart. Sivilsamfunn,
+FN-eksperter og aksjonister sto bokstavelig talt og hamret på døren
+hos Finansdepartementet. </A>
+            <A Type="Minnrykk">Nå må et nytt storting sørge for at dette ikke
+kan skje igjen. Oljefondet er eid av det norske folk, og vi, det
+nye stortinget, må ta ansvar på vegne av befolkningen. Dette handler om
+at våre felles sparepenger ikke skal bidra til ulovlig okkupasjon
+eller ulovlig krigføring. Folkeretten må gå foran profitt. Det handler
+også om at vi må forvalte nordmenns tillit til oljefondet vårt.
+Den tilliten har fått en alvorlig knekk, og det har vi ansvar for
+å rette opp. </A>
+            <A Type="Minnrykk">Derfor sier Venstre i dag at vi må trekke oljefondets
+investeringer ut av Israel. Vi kan ikke være investert i et land som
+etter all sannsynlighet har begått folkemord, som bedriver ulovlig
+okkupasjon, og som nekter å forholde seg til internasjonal rett.
+Dette burde ikke være kontroversielt. Å fortsette som vi har gjort,
+er det som både er og burde være kontroversielt, både rettslig,
+politisk og etisk. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1002807">
+            <A>
+              <Navn personID="KIB">
+Kirsti Bergstø (SV) [11:53:01]:</Navn> Redegjørelsen og debatten
+i dag viser at det var viktig og nødvendig for SV og andre parti
+å ta initiativ til finansministerens redegjørelse. Jeg vil si at
+jeg ønsker initiativet om en ordentlig gjennomgang velkommen. Det
+er nødvendig og viser at rammeverket i dag ikke er godt nok. Samtidig
+må det være et arbeid som skjer parallelt med det arbeidet som er
+i gang med å gjennomgå de investeringene som er i dag, for vårt
+mål står fast: Oljefondet skal ikke være investert i selskap som
+bidrar til grove folkerettsbrudd, okkupasjon og risiko for folkemord. </A>
+            <A Type="Minnrykk">Når jeg hører finansministerens innlegg i dag,
+er mitt inntrykk at dilemmaene rundt en del selskap og lister som
+det pekes på, er spesialrapportør Albaneses lister. Da vil jeg bare klargjøre
+at det SV har pekt på, er FNs høykommissær for menneskerettigheters
+lister over selskap som bidrar til okkupasjon, og også FNs ekspertgruppes
+liste over selskap som lager våpen levert til IDF. Det hadde vært
+interessant å høre om de samme dilemmaene er like åpenbare hvis
+man tar utgangspunkt i disse listene. </A>
+            <A Type="Minnrykk">Jeg vil også avlegge representanten Raja en
+liten visitt, for det er veldig harde ord og veldig harde utfall
+mot SV, som jo har stått sammen med Venstre – etter hvert har Venstre kommet
+med – i hard kamp for å få oljefondet ut av okkupasjon, ut av folkemord.
+Det har vi gjort før valget, og det gjør vi etter valget. Det vi
+gjør nå, er å si at vi løfter kravet inn i budsjettforhandlinger
+og tar det med inn der. Flere har ytret ønske om at SV skal gjøre
+nettopp det, for de stoler på at vi er de som drar den kampen videre.
+Det skal vi også fortsette med. </A>
+            <A Type="Minnrykk">Jeg må også si at etter 7. oktober opplevde
+jeg at et samlet storting fordømte Hamas’ alvorlige terrorangrep.
+Jeg opplever ikke at et samlet storting fordømmer de ekstreme handlingene
+som har påført det palestinske folk enorme lidelser, som har slaktet
+unger, som har lemlestet svært mange og drevet dem på flukt, og
+som driver en menneskeskapt sultkatastrofe fram ved å nekte mat
+å komme inn. Det er så alvorlig at i min levetid har vi ikke sett
+lignende, og jeg skulle ønske representantene fra KrF og det partiet
+også kunne erkjenne det, og at vi sto samlet i denne salen for menneskerettigheter
+og menneskeverd når det gjelder. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1002809">
+            <A>
+              <Navn personID="UAB">
+Une Bastholm (MDG) [11:56:19]:</Navn> Når oljefondet har vært såpass
+tungt investert de siste to årene både i okkupasjon og i folkerettsbrudd
+på Gaza, er det ikke bare brudd med de etiske retningslinjene, det
+er også brudd med mandatet som oljefondet har. Der står det at man
+skal følge internasjonale standarder for aktsomhetsvurderinger,
+noe vi har i UNGP og i OECD. Jeg mener det er utrolig viktig – når
+man så ofte snakker om hvordan det er viktig at oljefondet ikke skal
+brukes som et politisk verktøy – å ta inn over seg at det ikke er
+oljefondet som tilfeldigvis har et land. Vi er et land som eier
+et pensjonsfond. Den norske demokratiske stemmen i hvordan det fondet
+er investert, vil alltid være der. Det er derfor vi har et tungt
+ansvar.</A>
+            <A Type="Minnrykk">SPU er verdens største pensjonsfond, og de
+har altså hatt dårligere rutiner for å gjøre aktsomhetsvurderinger
+enn andre store finansinstitusjoner, som KLP og Storebrand. Etikkrådet har
+i seg selv selvfølgelig gjort en veldig god jobb i de sakene de
+har jobbet med. De er fem mennesker som gjør dette på fritiden,
+de har et bitte lite sekretariat, og én av de fem har for øvrig
+faglig bakgrunn fra folkerett og er folkerettsekspert. De har blitt
+en unnskyldning for at fondet ikke selv har gjort aktsomhetsvurderingene
+en så stor bank er nødt til å gjøre for å sikre seg mot at man er
+investert i krigsforbrytelser og folkerettsstridig aktivitet i en
+farlig og urolig verden hvor ting plutselig kan endre seg.</A>
+            <A Type="Minnrykk">Min mening er derfor at jeg håper statsråden
+vil vurdere å se på hvordan Etikkrådet fungerer, og hvordan Etikkrådet
+– gjennom å bli mer et tilsynsorgan med mer makt som på eget initiativ
+vil kunne gå inn i saker og både rådgi, som tilsynsmyndigheter ofte
+gjør, og gi anbefalinger om uttrekk – kan hjelpe en bank med rundt
+700 ansatte, som egentlig har som hovedmål å øke inntjeningen til
+Norge. Det er ikke deres kjerneoppgave å se på etikk, og det kommer
+vi aldri utenom. Det er derfor det er så viktig at de som har det
+som sin kjerneoppgave, har nok ressurser, men også nok makt til
+å kunne gå inn og gjøre vurderinger på egen hånd.</A>
+            <A Type="Minnrykk">Etikkrådet ble en unnskyldning, og grunnen
+til at vi i Miljøpartiet De Grønne mener det, er at det ble veldig
+tydelig etter at skandalen kom i starten av august, hvor både finansministeren
+og oljefondssjefen viste til Etikkrådet og hvordan Etikkrådet ikke
+hadde anbefalt uttrekk. Det skulle vært unødvendig for Etikkrådet
+å måtte gjøre det – i det eksemplet og den situasjonen vi hadde
+da, hvor det var et selskap som var direkte investert i israelske
+kampfly.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1002811">
+            <A>
+              <Navn personID="ABIR">
+Abid Raja (V) [11:59:45]:</Navn> Selv om dette er litt på siden av
+det debatten egentlig dreier seg om, tenker jeg det er greit at
+det blir sagt, siden det ble tatt opp her.</A>
+            <A Type="Minnrykk">Først til representanten Ystebø, som sier at
+han tar avstand fra venstresiden og deres retorikk. Jeg vil bare
+si at vi i Venstre ikke står på venstresiden, men vi er allikevel
+helt uenige med KrF i denne saken. Jeg og Venstre har ment og vil fortsatt
+mene at Hamas' angrep var totalt uforsvarlig. Det var et angrep
+vi har fordømt og vil fortsette å fordømme. Det jeg ikke har sett,
+er at KrF på sin side har fordømt Israels brutale angrep tilbake,
+hvor de har drept minst 20 000 barn. Jeg har fordømt Hamas' angrep
+og fordømmer Israels brutale krigføring. Jeg vil gjerne se at KrF
+gjør akkurat det samme og fordømmer begge delene.</A>
+            <A Type="Minnrykk">Til representanten Bergstø: Jeg har ikke funnet
+på dette om ultimatum. Det var å lese i VG 19. august, og jeg siterer fra
+nettsaken:</A>
+            <Sitat Type="Minnrykk">
+              <A>«SV stiller ultimatum til Støre».</A>
+            </Sitat>
+            <A Type="Minnrykk">Hvis man fortsetter å lese nedover i saken,
+er SV-lederen sitert på følgende:</A>
+            <Sitat Type="Minnrykk">
+              <A>«En forutsetning for at SV skal forhandle
+om en eventuell regjeringsplattform eller statsbudsjett med Arbeiderpartiet
+i høst er at Oljefondet trekker alle investeringer som støtter opp
+om Israels krigsforbrytelser, okkupasjon og folkemord»</A>
+            </Sitat>
+            <A Type="Minnrykk">Fortsetter man å lese saken, ser man at VG-journalisten fortsetter
+å stille det samme spørsmålet om ultimatum:</A>
+            <Sitat Type="Minnrykk">
+              <A>«Det er ikke ofte dere stiller slike
+ultimatum, men her mener dere at det er på sin plass?</A>
+              <A>– Ja, her setter vi makt bak kravet.»</A>
+            </Sitat>
+            <A Type="Minnrykk">Dette fortsetter nok en gang, journalisten
+sier:</A>
+            <Sitat Type="Minnrykk">
+              <A>«Nå sier du at det ikke er aktuelt i
+høst, hvis regjeringen ikke handler slik dere krever?</A>
+              <A>– Ja, det er et tydelig krav.»</A>
+            </Sitat>
+            <A Type="Minnrykk">Så dette med ultimatum er ikke noe jeg har
+funnet på i mitt innlegg. Dette er noe Bergstø selv sa til VG, Norges
+største avis, før valget. Hun fikk flere spørsmål om det og fortsatte
+å gjenta det. Etter valget har hun gjort full retrett.</A>
+            <A Type="Minnrykk">Jeg mener det er med på å svekke tilliten til
+det politiske systemet: at vi sier noe før valget, og når valget
+er over, snur vi oss rundt og sier at det vi sa før valget, ikke
+gjelder lenger. Det gjelder SV, og så har vi jo sett de siste dagene
+hvordan Arbeiderpartiet har blitt drevet fra skanse til skanse med
+valgløftene de ga til Senterpartiet og til velgerne, hvordan de
+løp fra dem. Det og mer er med på å svekke tilliten til oss politikere, og
+vi politikere her i denne sal og regjering har et felles ansvar for
+å bidra til at folk har tillit til politikerne. Da må vi si det
+vi sier og holde det vi sier.</A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [12:02:32]:</Navn> Representanten
+Kirsti Bergstø har hatt ordet to ganger tidligere og får ordet til
+en kort merknad, begrenset til 1 minutt.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1002813">
+            <A>
+              <Navn personID="KIB">
+Kirsti Bergstø (SV) [12:02:45]:</Navn> Det er riktig at SV sa at det
+var en forutsetning for å forhandle om budsjett. Siden da har det
+skjedd to ting. </A>
+            <A Type="Minnrykk">Det ene er at det er en våpenhvile. Den er
+skjør, vi vet ikke hvordan går det går, men det er en våpenhvile
+som faktisk endrer noe. </A>
+            <A Type="Minnrykk">Det andre er Stortingets vedtak sist uke, som
+SV inviterte Venstre med på å foreslå, og som rett og slett handler
+om at Stortinget ber regjeringen følge opp sine forpliktelser knyttet til
+folkemordkonvensjonen og også mulig medvirkning til okkupasjon gjennom
+investeringer i oljefondet – tolker vi det som – til Vestbredden. </A>
+            <A Type="Minnrykk">Det er flere ting som har endret seg her, og
+vi ser også at vi kan forandre mest når vi går inn der makten er,
+nemlig i forhandlinger om statsbudsjett. Der har vi fått til store
+ting før, bl.a. at det skal bli ulovlig å handle med selskap som
+bidrar til okkupasjon og drive næringsvirksomhet med selskap som
+bidrar til okkupasjon. </A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [12:03:50]:</Navn> Flere har ikke
+bedt om ordet til sak nr. 1.</A>
+            <A Type="Minnrykk">Forslagene i saken vil tas opp til votering
+i et senere møte i Stortinget.</A>
+            <A Type="Minnrykk">Det vil nå bli ringt inn til votering over
+Referat.</A>
+          </Presinnlegg>
+        </Sak>
+        <Sakreferat Id="i1002815">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak
+nr. 2</Uth> [12:10:49]</Saknr>
+            <Saktittel Id="i1002817">
+              <A>Referat</A>
+            </Saktittel>
+          </Sakshode>
+          <Liste Type="Fri">
+            <Pkt>
+              <A>1.	(48) Endringer i lov om pensjonstrygd
+for fiskere (lukking av pensjonstrygden) (Prop. 133 L (2024–2025))</A>
+            </Pkt>
+            <Pkt>
+              <A>2.	(49) Representantforslag fra stortingsrepresentantene Anna
+Molberg, Amalie Gunnufsen, Margret Hagerup og Aleksander Stokkebø
+om å la ansatte med VTA-plass jobbe ut over pensjonsalder (Dokument
+8:17 S (2025–2026))</A>
+              <A>Enst.: Nr. 1 og 2 sendes arbeids- og sosialkomiteen.</A>
+            </Pkt>
+            <Pkt>
+              <A>3.	(50) Endringer i naturmangfoldloven (forbud mot næringsmessig
+uttak av myr) (Prop. 2 L (2025–2026))</A>
+              <A>Enst.: Sendes energi- og miljøkomiteen.</A>
+            </Pkt>
+            <Pkt>
+              <A>4.	(51) Tro på framtida – uansett bakgrunn (Meld. St. 28 (2024–2025))</A>
+            </Pkt>
+            <Pkt>
+              <A>5.	(52) Trygg oppvekst i et digitalt samfunn (Meld. St.
+32 (2024–2025))</A>
+            </Pkt>
+            <Pkt>
+              <A>6.	(53) Lov om undersøkelser av offentlige virksomheters arbeid
+i saker om drap, vold, overgrep og omsorgssvikt mot barn (barnevoldsundersøkelsesloven)
+(Prop. 141 L (2024–2025))</A>
+              <A>Enst.: Nr. 4–6 sendes familie- og kulturkomiteen.</A>
+            </Pkt>
+            <Pkt>
+              <A>7.	(54) Endringer i finansforetaksloven (utvidelse av garantiordningen
+for skadeforsikring) (Prop. 164 L (2024–2025))</A>
+              <A>Enst.: Sendes finanskomiteen.</A>
+            </Pkt>
+            <Pkt>
+              <A>8.	(55) Endringer i verdipapirhandelloven mv. (kapitalkrav for
+verdipapirforetak) og samtykke til godkjenning av EØS-komiteens
+beslutning nr. 70/2025 om innlemmelse i EØS-avtalen av direktiv
+(EU) 2019/2034 og forordning (EU) 2019/2033 (Prop. 156 LS (2024–2025))</A>
+            </Pkt>
+            <Pkt>
+              <A>9.	(56) Endringer i AIF-loven og samtykke til godkjenning av
+EØS-komiteens beslutning nr. 118/2025 av 8. mai 2025 om innlemmelse
+i EØS-avtalen av forordning (EU) 2023/606 (ELTIF 2) (Prop. 157 LS
+(2024–2025))</A>
+            </Pkt>
+            <Pkt>
+              <A>10.	(57) Lov om folkefinansiering av næringsvirksomhet (folkefinansieringsloven)
+og samtykke til godkjenning av EØS-komiteens beslutning nr. 30/2024
+om innlemmelse i EØS-avtalen av forordning (EU) 2020/1503 (Prop.
+167 LS (2024–2025))</A>
+              <A>Enst.: Nr. 8–10 sendes finanskomiteen, unntatt B, som sendes
+finanskomiteen, som forelegger sitt utkast til innstilling for utenriks-
+og forsvarskomiteen til uttalelse før innstilling avgis.</A>
+            </Pkt>
+            <Pkt>
+              <A>11.	(58) Endringer i helselovgivningen (tilgjengeliggjøring av
+helsedata og krav til tekniske og organisatoriske sikkerhetstiltak)
+(Prop. 152 L (2024–2025))</A>
+            </Pkt>
+            <Pkt>
+              <A>12.	(59) Endringer i helsepersonelloven og pasientjournalloven
+mv. (taushetsplikt og tilgjengeliggjøring av pasientopplysninger)
+(Prop. 154 L (2024–2025))</A>
+            </Pkt>
+            <Pkt>
+              <A>13.	(60) Representantforslag frå stortingsrepresentant Kjersti Toppe
+om ein konkret og tidfesta opptrappingsplan for utvikling av distriktspsykiatriske
+senter (DPS) (Dokument 8:18 S (2025–2026))</A>
+              <A>Enst.: Nr. 11–13 sendes helse- og omsorgskomiteen.</A>
+            </Pkt>
+            <Pkt>
+              <A>14.	(61) Endringer i barnevernsloven, straffeloven, passloven
+og ID-kortloven (utreiseforbud ved fare for skadelig utenlandsopphold
+mv.) (Prop. 159 L (2024–2025))</A>
+            </Pkt>
+            <Pkt>
+              <A>15.	(62) Endringer i menneskerettsloven mv. (inkorporering av
+FN-konvensjonen om rettighetene til mennesker med nedsatt funksjonsevne)
+(Prop. 162 L (2024–2025))</A>
+            </Pkt>
+            <Pkt>
+              <A>16.	(63) Endringer i domstolloven mv. (saksfordeling m.m.) (Prop.
+163 L (2024–2025))</A>
+            </Pkt>
+            <Pkt>
+              <A>17.	(64) Endringer i straffegjennomføringsloven mv. (isolasjon
+i fengsel) (Prop. 165 L (2024–2025))</A>
+            </Pkt>
+            <Pkt>
+              <A>18.	(65) Endringer i vergemålsloven (dekningsansvaret for vergeutgifter
+og kompetansen til å ta imot søksmål) (Prop. 166 L (2024–2025))</A>
+            </Pkt>
+            <Pkt>
+              <A>19.	(66) Straff som virker - straffegjennomføring for et
+tryggere Norge (Meld. St. 31 (2024–2025))</A>
+            </Pkt>
+            <Pkt>
+              <A>20.	(67) Lov om inkassovirksomhet og inndriving av forfalte pengekrav
+(inkassoloven) (Prop. 3 L (2025–2026))</A>
+            </Pkt>
+            <Pkt>
+              <A>21.	(68) Representantforslag fra stortingsrepresentantene Mahmoud
+Farahmand, Henrik Gottfries Kierulf, Anna Molberg og Tone Wilhelmsen
+Trøen om økt maksstraff for voldtekt og utvidet unntak fra foreldelsesfrist
+(Dokument 8:16 L (2025–2026))</A>
+              <A>Enst.: Nr. 14–21 sendes justiskomiteen.</A>
+            </Pkt>
+            <Pkt>
+              <A>22.	(69) Endringer i burettslagslova og eierseksjonsloven (tilrettelegging
+for boligkjøpsmodeller) (Prop. 158 L (2024–2025))</A>
+            </Pkt>
+            <Pkt>
+              <A>23.	(70) Endringer i plan- og bygningsloven (planbestemmelser
+om borettslag) (Prop. 161 L (2024–2025))</A>
+            </Pkt>
+            <Pkt>
+              <A>24.	(71) Endringer i husleieloven (omorganisering av Husleietvistutvalget)
+(Prop. 168 L (2024–2025))</A>
+            </Pkt>
+            <Pkt>
+              <A>25.	(72) Datatilsynets og Personvernnemndas årsrapportar for
+2024 (Meld. St. 34 (2024–2025))</A>
+              <A>Enst.: Nr. 22–25 sendes kommunal- og forvaltningskomiteen.</A>
+            </Pkt>
+            <Pkt>
+              <A>26.	(73) Norges arbeid med bærekraftsmålene. Status, utfordringer
+og veien videre (Meld. St. 35 (2024–2025))</A>
+              <A>Enst.: Sendes kommunal- og forvaltningskomiteen, som forelegger
+sitt utkast til innstilling for utenriks- og forsvarskomiteen til
+uttalelse før innstilling avgis.</A>
+            </Pkt>
+            <Pkt>
+              <A>27.	(74) Anmodnings- og utredningsvedtak i stortingssesjonen
+2024–2025 (Meld. St. 4 (2025–2026))</A>
+              <A>Enst.: Sendes kontroll- og konstitusjonskomiteen.</A>
+            </Pkt>
+            <Pkt>
+              <A>28.	(75) Lov om endringer i anskaffelsesloven (samfunnshensyn
+mv.) (Prop. 147 L (2024–2025))</A>
+            </Pkt>
+            <Pkt>
+              <A>29.	(76) Lov om aktiviteter i verdensrommet (romloven) (Prop.
+155 L (2024–2025))</A>
+            </Pkt>
+            <Pkt>
+              <A>30.	(77) Endringer i lov om god handelsskikk i dagligvarekjeden
+(tilsynsmyndighet) (Prop. 4 L (2025–2026))</A>
+              <A>Enst.: Nr. 28–30 sendes næringskomiteen.</A>
+            </Pkt>
+            <Pkt>
+              <A>31.	(78) Utbygging og finansiering av Bypakke Grenland fase
+2 i Telemark (Prop. 153 S (2024–2025))</A>
+              <A>Enst.: Sendes transport- og kommunikasjonskomiteen.</A>
+            </Pkt>
+            <Pkt>
+              <A>32.	(79) Endringer i opplæringslova (rett til 12 timer gratis skolefritidsordning
+i uken for elever på 1. til 3. trinn) (Prop. 160 L (2024–2025))</A>
+              <A>Enst.: Sendes utdannings- og forskningskomiteen.</A>
+            </Pkt>
+            <Pkt>
+              <A>33.	(80) Eksport av forsvarsmateriell fra Norge i 2024, eksportkontroll
+og internasjonalt ikke-spredningssamarbeid (Meld. St. 29 (2024–2025))</A>
+            </Pkt>
+            <Pkt>
+              <A>34.	(81) Norges innsats for fred og konfliktløsning i en
+urolig verden (Meld. St. 30 (2024–2025))</A>
+            </Pkt>
+            <Pkt>
+              <A>35.	(82) Status, fremdrift, utfordringer og risiko i gjennomføring
+av langtidsplanen for forsvarssektoren 2025–2036 (Meld. St. 33 (2024–2025))</A>
+              <A>Enst.: Nr. 33–35 sendes utenriks- og forsvarskomiteen.</A>
+            </Pkt>
+          </Liste>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [12:12:05]:</Navn> Dermed er dagens
+kart ferdigbehandlet. Forlanger noen ordet før møtet heves? – Så
+synes ikke. Møtet er hevet.</A>
+          </Presinnlegg>
+        </Sakreferat>
+      </Saker>
+    </Hovedseksjon>
+    <Sluttseksjon>
+      <Hevet>
+        <A>Møtet hevet kl. 12.13.</A>
+      </Hevet>
+    </Sluttseksjon>
+  </Mote>
+</Forhandlinger>

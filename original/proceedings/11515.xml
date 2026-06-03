@@ -1,0 +1,308 @@
+<Forhandlinger Status="Komplett">
+  <Mote moteID="11515">
+    <Startseksjon>
+      <Motestart>
+        <Tittel>Møte fredag den 10. oktober 2025 kl. 13</Tittel>
+        <President Id="i999467" personID="MASG">
+          <A>President: <Uth Type="Sperret">Masud
+Gharahkhani</Uth></A>
+        </President>
+        <Dagsorden>
+          <Tittel>Dagsorden <DagsordenNR>(nr. 3):</DagsordenNR></Tittel>
+          <DagsordenSak Id="i999469">
+            <Liste Type="Dagsorden">
+              <Pkt>
+                <A> 1.	Valg
+av presidenter og sekretærer</A>
+              </Pkt>
+              <Pkt>
+                <A> 2.	Valg av medlemmer til valgkomiteen</A>
+              </Pkt>
+            </Liste>
+          </DagsordenSak>
+        </Dagsorden>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten:</Navn> Følgende innkalte vararepresentanter tar
+nå sete:</A>
+          <A Type="Minnrykk">For Akershus: Marie Østensen</A>
+          <A Type="Minnrykk">For Buskerud: Sandra Bruflot</A>
+        </Presinnlegg>
+      </Motestart>
+    </Startseksjon>
+    <Hovedseksjon Id="i999471">
+      <Saker>
+        <Sak saksKartNr="1" sakID="104571">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak nr. 1</Uth> [13:00:19]</Saknr>
+            <Saktittel Id="i999475">
+              <A>Valg av presidenter og sekretærer</A>
+            </Saktittel>
+          </Sakshode>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten:</Navn> Den vanlige framgangsmåten
+ved Stortingets konstituering er at etter at fullmaktene er godkjent,
+foretas valg av presidenter og sekretærer. Fungerende president
+refererer forretningsordenens § 6 andre og tredje ledd, som lyder:</A>
+            <Sitat Type="Minnrykk">
+              <A>«Ved det første valget av Stortingets
+president og visepresidenter i valgperioden foregår avstemningene
+ved sedler uten underskrift. Ved senere valg i samme valgperiode
+foregår avstemningene etter § 60 første ledd bokstav a, med mindre
+vilkårene for avstemning ved sedler uten underskrift i § 60 første
+ledd bokstav d er oppfylt.</A>
+              <A>Ved valg av presidenter og sekretærer kreves vanlig flertall,
+dvs. over halvparten av de avgitte stemmene. Oppnår ingen av kandidatene
+slikt flertall ved første valg eller ved fritt omvalg, foretas bundet
+omvalg mellom de to kandidatene som har fått størst stemmetall,
+jf. § 61 annet ledd.»</A>
+            </Sitat>
+            <A Type="Minnrykk">Folkelig forklart betyr det: Det skal først
+velges president i Stortinget. Valget foregår altså ved skriftlig
+votering. Det foregår ved at representantene skriver ett navn på
+de utlagte stemmesedlene og går fram og legger disse i en av de
+to stemmeurnene som er plassert foran presidentens bord.</A>
+            <A Type="Minnrykk">Fungerende president ber om forslag på Stortingets <Uth Type="Kursiv">president</Uth>.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i999477">
+            <A>
+              <Navn personID="TONB">
+Tonje Brenna (A):</Navn> Jeg har den ære å foreslå Masud Gharahkhani.</A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten:</Navn> Masud Gharahkhani er foreslått
+valgt til Stortingets president. – Andre forslag foreligger ikke.</A>
+            <A Type="Minnrykk">Det vil da bli foretatt skriftlig avstemning.</A>
+            <A Type="Blanklinje">Valget hadde dette resultat:</A>
+            <A Type="Minnrykk">Det ble avgitt totalt 165 stemmer.</A>
+            <A Type="Minnrykk">Til Stortingets <Uth Type="Kursiv">president</Uth> ble
+valgt Masud Gharahkhani med 150 stemmer. 15 stemmesedler var blanke.</A>
+          </Presinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten:</Navn> Presidenten ber så om
+forslag på Stortingets <Uth Type="Kursiv">første visepresident</Uth>.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i999479">
+            <A>
+              <Navn personID="SYL">
+Sylvi Listhaug (FrP):</Navn> Jeg har æren av å foreslå Morten Wold.</A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten:</Navn> Morten Wold er foreslått
+valgt til Stortingets første visepresident. – Andre forslag foreligger ikke.</A>
+            <A Type="Minnrykk">Det vil bli foretatt skriftlig avstemning.</A>
+            <A Type="Blanklinje">Valget hadde dette resultat:</A>
+            <A Type="Minnrykk">Det ble avgitt totalt 165 stemmer.</A>
+            <A Type="Minnrykk">Til Stortingets <Uth Type="Kursiv">første
+visepresident</Uth> ble valgt Morten Wold med 162 stemmer. 3 stemmesedler
+var blanke.</A>
+          </Presinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten:</Navn> Presidenten ber så om
+forslag på Stortingets <Uth Type="Kursiv">andre visepresident</Uth>.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i999481">
+            <A>
+              <Navn personID="TONB">
+Tonje Brenna (A):</Navn> Jeg har den ære å foreslå Lise Selnes.</A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten:</Navn> Lise Selnes er foreslått
+valgt til Stortingets andre visepresident. – Andre forslag foreligger
+ikke.</A>
+            <A Type="Minnrykk">Det vil bli foretatt skriftlig avstemning.</A>
+            <A Type="Blanklinje">Valget hadde dette resultat:</A>
+            <A Type="Minnrykk">Det ble avgitt totalt 165 stemmer.</A>
+            <A Type="Minnrykk">Til Stortingets <Uth Type="Kursiv">andre
+visepresident</Uth> ble valgt Lise Selnes med 163 stemmer. 2 stemmesedler
+var blanke.</A>
+          </Presinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten:</Navn> Presidenten ber så om
+forslag på Stortingets <Uth Type="Kursiv">tredje visepresident</Uth>.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i999483">
+            <A>
+              <Navn personID="ES">
+Erna Solberg (H):</Navn> Da har jeg æren av å foreslå Ove Trellevik.</A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten:</Navn> Ove Trellevik er foreslått
+valgt til Stortingets tredje visepresident. – Andre forslag foreligger ikke.</A>
+            <A Type="Minnrykk">Det vil bli foretatt skriftlig avstemning.</A>
+            <A Type="Blanklinje">Valget hadde dette resultat:</A>
+            <A Type="Minnrykk">Det ble avgitt totalt 164 stemmer.</A>
+            <A Type="Minnrykk">Til Stortingets <Uth Type="Kursiv">tredje
+visepresident</Uth> ble valgt Ove Trellevik med 161 stemmer. 3 stemte
+på ikke foreslått kandidat. (Munterhet i salen.)</A>
+          </Presinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten:</Navn> Presidenten ber så om
+forslag på Stortingets <Uth Type="Kursiv">fjerde visepresident</Uth>.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i999485">
+            <A>
+              <Navn personID="SYL">
+Sylvi Listhaug (FrP):</Navn> Da har jeg æren av å foreslå Morten
+Stordalen.</A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten:</Navn> Morten Stordalen er foreslått
+valgt til Stortingets fjerde visepresident. – Andre forslag foreligger
+ikke.</A>
+            <A Type="Minnrykk">Det vil bli foretatt skriftlig avstemning.</A>
+            <A Type="Blanklinje">Valget hadde følgende resultat:</A>
+            <A Type="Minnrykk">Det ble avgitt totalt 165 stemmer.</A>
+            <A Type="Minnrykk">Til Stortingets <Uth Type="Kursiv">fjerde
+visepresident</Uth> ble valgt Morten Stordalen med 164 stemmer.
+1 stemmeseddel var blank.</A>
+          </Presinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten:</Navn> Presidenten ber så om
+forslag på Stortingets <Uth Type="Kursiv">femte visepresident</Uth>.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i999487">
+            <A>
+              <Navn personID="KIB">
+Kirsti Bergstø (SV):</Navn> Det er en ære å foreslå Ingrid Fiskaa.</A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten:</Navn> Ingrid Fiskaa er foreslått
+valgt til Stortingets femte visepresident. – Andre forslag foreligger ikke.</A>
+            <A Type="Minnrykk">Det vil bli foretatt skriftlig avstemning.</A>
+            <A Type="Blanklinje">Valget hadde følgende resultat:</A>
+            <A Type="Minnrykk">Det ble avgitt totalt 165 stemmer.</A>
+            <A Type="Minnrykk">Til Stortingets <Uth Type="Kursiv">femte
+visepresident</Uth> ble valgt Ingrid Fiskaa med 157 stemmer. 8 stemmesedler
+var blanke.</A>
+          </Presinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten:</Navn> Det skal så velges sekretær
+og visesekretær i Stortinget.</A>
+            <A Type="Minnrykk">Dersom det framsettes bare ett forslag ved
+hvert av disse valgene, vil presidenten foreslå at avstemningen foregår
+på vanlig måte. Framsettes det derimot flere forslag, vil det måtte
+benyttes skriftlig avstemning.</A>
+            <A Type="Minnrykk">Presidenten ber om forslag på <Uth Type="Kursiv">sekretær</Uth>.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i999489">
+            <A>
+              <Navn personID="TONB">
+Tonje Brenna (A):</Navn> Det er en ære å foreslå Julia Eikeland.</A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten:</Navn> Julia Eikeland er foreslått.
+– Andre forslag foreligger ikke.</A>
+            <A Type="Minnrykk">Det voteres på vanlig måte.</A>
+          </Presinnlegg>
+          <Votering>
+            <Tittel>Votering:</Tittel>
+            <A Type="Minnrykk">Forslaget fra Tonje Brenna ble enstemmig vedtatt.</A>
+          </Votering>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten:</Navn> Julia Eikeland er enstemmig
+valgt som Stortingets sekretær.</A>
+            <A Type="Minnrykk">Presidenten ber til slutt om forslag på <Uth Type="Kursiv">visesekretær</Uth>.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i999491">
+            <A>
+              <Navn personID="SYL">
+Sylvi Listhaug (FrP):</Navn> Jeg har æren av å foreslå May Helen
+Hetland Ervik.</A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten:</Navn> May Helen Hetland Ervik
+er foreslått. – Andre forslag foreligger ikke.</A>
+            <A Type="Minnrykk">Det voteres på vanlig måte.</A>
+          </Presinnlegg>
+          <Votering>
+            <Tittel>Votering:</Tittel>
+            <A Type="Minnrykk">Forslaget fra Sylvi Listhaug ble enstemmig
+vedtatt.</A>
+          </Votering>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten:</Navn> May Helen Hetland Ervik
+er enstemmig valgt som Stortingets visesekretær.</A>
+            <A Type="Minnrykk">Kjære medrepresentanter! Presidenten vil på
+vegne av presidentskapet takke for den store tilliten vi har fått. Vi
+ser fram til tett samarbeid med våre kolleger til beste for landet
+vårt og demokratiets hjerte Stortinget.</A>
+            <A Type="Minnrykk">Norges 170. storting erklæres herved for lovlig
+konstituert.</A>
+            <A Type="Minnrykk">Presidenten foreslår at underretning om dette
+sendes Hans Majestet Kongen gjennom regjeringens sjef. – Det anses
+vedtatt.</A>
+            <A Type="Minnrykk">Presidenten ber om bemyndigelse til, etter
+at Stortinget er erklært åpnet, og etter at trontalen og beretningen
+om rikets tilstand er overlevert, å utbringe det sedvanlige ønsket
+for Kongen og fedrelandet – og anser denne bemyndigelse for gitt.</A>
+            <A Type="Minnrykk">Presidenten ber videre om Stortingets bemyndigelse
+til å oppnevne en deputasjon på sju representanter til å motta Hans
+Majestet Kongen ved Stortingets åpning – og anser også denne bemyndigelse
+for gitt.</A>
+            <A Type="Minnrykk">Som deputasjon oppnevnes Sunniva Holmås Eidsvoll,
+leder, Ingrid Liland, Aina Stenersen, Farukh Qureshi, Mathilde Tybring-Gjedde,
+Grunde Almeland og Kristoffer Sivertsen.</A>
+          </Presinnlegg>
+        </Sak>
+        <Sak Id="i999493" saksKartNr="2">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak nr.
+2</Uth> [13:44:59]</Saknr>
+            <Saktittel>
+              <A>Valg av medlemmer til valgkomiteen</A>
+            </Saktittel>
+          </Sakshode>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten:</Navn> Det er omdelt på representantenes plasser
+i salen en fortegnelse over de foreslåtte medlemmer og varamedlemmer
+til valgkomiteen, og presidenten ber representantene om å benytte
+denne fortegnelsen som stemmeseddel og legge den i den store kassen foran
+podiet.</A>
+          </Presinnlegg>
+          <Merknad>
+            <Handling>
+              <A>Stortinget gikk så til votering.</A>
+            </Handling>
+          </Merknad>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten:</Navn> Stemmesedlene vil etter
+vanlig praksis bli opptalt etter møtet, og resultatet av valget
+blir referert i et senere stortingsmøte.</A>
+            <A Type="Minnrykk">I anledning av Stortingets høytidelige åpning
+har Stortingets representanter blitt innbudt til gudstjeneste i
+Oslo domkirke lørdag 11. oktober kl. 17.</A>
+            <A Type="Minnrykk">Ønsker noen ordet før møtet heves? – Så synes
+ikke, og møtet er hevet.</A>
+          </Presinnlegg>
+        </Sak>
+      </Saker>
+    </Hovedseksjon>
+    <Sluttseksjon>
+      <Hevet>
+        <A>Møtet hevet kl. 13.49.</A>
+      </Hevet>
+    </Sluttseksjon>
+  </Mote>
+</Forhandlinger>

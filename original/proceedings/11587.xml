@@ -1,0 +1,2114 @@
+<Forhandlinger Status="Komplett">
+  <Mote moteID="11587">
+    <Startseksjon>
+      <Motestart>
+        <Tittel>Møte tirsdag den 27. januar 2026 kl. 10</Tittel>
+        <President Id="i1002427" personID="MOW">
+          <A>President: <Uth Type="Sperret">Morten
+Wold</Uth></A>
+        </President>
+        <Dagsorden>
+          <Tittel>Dagsorden <DagsordenNR>(nr. 38):</DagsordenNR></Tittel>
+          <DagsordenSak Id="i1002429">
+            <Liste Type="Dagsorden">
+              <Pkt>
+                <A> 1.	Stortingets
+vedtak til lov om endringer i NIM-loven (nye overvåkings- og rapporteringsfunksjoner)</A>
+                <A>(Lovvedtak 21 (2025–2026), jf. Innst. 77 L (2025–2026))</A>
+              </Pkt>
+              <Pkt>
+                <A> 2.	Stortingets vedtak til lov om endringer i verdipapirhandelloven
+mv. (kapitalkrav for verdipapirforetak)</A>
+                <A>(Lovvedtak 22 (2025–2026), jf. Innst. 59 L (2025–2026) og Prop.
+156 LS (2024–2025))</A>
+              </Pkt>
+              <Pkt>
+                <A> 3.	Stortingets vedtak til lov om endringer i AIF-loven</A>
+                <A>(Lovvedtak 23 (2025–2026), jf. Innst. 63 L (2025–2026) og Prop.
+157 LS (2024–2025))</A>
+              </Pkt>
+              <Pkt>
+                <A> 4.	Stortingets vedtak til lov om folkefinansiering av næringsvirksomhet
+(folkefinansieringsloven)</A>
+                <A>(Lovvedtak 24 (2025–2026), jf. Innst. 61 L (2025–2026) og Prop.
+167 LS (2024–2025))</A>
+              </Pkt>
+              <Pkt>
+                <A> 5.	Stortingets vedtak til lov om endringer i opplæringslova (rett
+til 12 timer gratis skolefritidsordning i uken for elever på 1.
+til 3. trinn)</A>
+                <A>(Lovvedtak 25 (2025–2026), jf. Innst. 78 L (2025–2026) og Prop.
+160 L (2024–2025))</A>
+              </Pkt>
+              <Pkt>
+                <A> 6.	Innstilling fra utenriks- og forsvarskomiteen om Anskaffelse
+av ytterligere ubåter og langtrekkende presisjonsild</A>
+                <A>(Innst. 86 S (2025–2026), jf. Prop. 29 S (2025–2026))</A>
+              </Pkt>
+              <Pkt>
+                <A> 7.	Næringsministerens handelspolitiske redegjørelse</A>
+              </Pkt>
+              <Pkt>
+                <A> 8.	Redegjørelse av fiskeri- og havministeren om ivaretakelse
+av fiskere i Oslofjorden</A>
+              </Pkt>
+              <Pkt>
+                <A> 9.	Referat</A>
+              </Pkt>
+            </Liste>
+          </DagsordenSak>
+        </Dagsorden>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:01:52]:</Navn> Representanten
+Erling Sande, som har vært permittert, har igjen tatt sete.</A>
+          <A Type="Minnrykk">Følgende innkalte vararepresentanter tar nå
+sete: </A>
+          <A Type="Minnrykk">For Hedmark: Erik Hager</A>
+          <A Type="Minnrykk">For Møre og Romsdal: Berit Tønnesen</A>
+          <A Type="Minnrykk">For Telemark: Bengt Halvard Odden</A>
+          <A Type="Minnrykk">Fra Statsministerens kontor foreligger følgende
+brev til Stortinget, datert 23. januar 2026: </A>
+          <Sitat Type="Minnrykk">
+            <A>«I dag klokken 11.00 ble det avholdt
+statsråd på Det kongelige slott under ledelse av Hans Majestet Kongen. </A>
+            <A>Det ble truffet følgende vedtak om endringer i regjeringen mv.:</A>
+            <A>Statsministerens kontor</A>
+            <A>Statssekretær Hanne-Berit Brekken gis avskjed i nåde med virkning
+fra og med 23. januar 2026 kl. 12.00 som statssekretær for statsråd
+Nils Kristen Sandtrøen i Landbruks- og matdepartementet.</A>
+            <A>Advokat Anette Stegegjerdet Norberg utnevnes til statssekretær
+for statsråd Nils Kristen Sandtrøen i Landbruks- og matdepartementet.
+Hun tiltrer med virkning fra og med 2. februar 2026.»</A>
+          </Sitat>
+          <A Type="Minnrykk">Det refererte brevet foreslås vedlagt protokollen.
+– Det anses vedtatt.</A>
+          <A Type="Minnrykk">Det foreligger en rekke permisjonssøknader:</A>
+          <Liste Type="Strek">
+            <Pkt>
+              <A>fra representantene Jørgen H. Kristiansen,
+Amalie Gunnufsen, Geir Jørgensen og Nikolai Astrup om permisjon
+i dagene 27. og 28. januar – alle for å delta i møter i den felles
+parlamentarikerdelegasjonen til EFTA og EØS i Genève, Sveits</A>
+            </Pkt>
+            <Pkt>
+              <A>fra Høyres stortingsgruppe om permisjon for representanten
+Tone Wilhelmsen Trøen i tiden fra og med 27. til og med 29. januar
+og fra Arbeiderpartiets stortingsgruppe om permisjon for representanten
+Solveig Vik i dagene 28. og 29. januar – begge for å delta i Europarådets
+parlamentariske forsamlings første delsesjon i Strasbourg, Frankrike</A>
+            </Pkt>
+            <Pkt>
+              <A>fra Sosialistisk Venstrepartis stortingsgruppe om permisjon
+etter Stortingets forretningsordens § 5 annet punktum for representanten
+Sunniva Holmås Eidsvoll fra og med 27. januar og inntil videre</A>
+            </Pkt>
+          </Liste>
+          <A Type="Minnrykk">Disse søknader foreslås behandlet straks og
+innvilget. – Det anses vedtatt.</A>
+          <A Type="Minnrykk">Fra første vararepresentant for Oslo, Andreas
+Sjalg Unneland, foreligger søknad om fritak fra å møte i Stortinget
+under representanten Sunniva Holmås Eidsvolls permisjon, av velferdsgrunner.</A>
+          <A Type="Blanklinjeminnrykk">Etter forslag fra presidenten ble
+enstemmig besluttet:</A>
+          <Liste Type="Num">
+            <Pkt>
+              <A>Søknaden behandles straks og innvilges.</A>
+            </Pkt>
+            <Pkt>
+              <A>Følgende vararepresentanter innkalles for å møte i permisjonstiden:</A>
+              <A>For Aust-Agder: Georg Gulli</A>
+              <A>For Vest-Agder: Hannah Teigland</A>
+              <A>For Akershus: Håkon Snortheim</A>
+              <A>For Nordland: Synne Høyforsslett Bjørbæk</A>
+              <A>For Oslo: Ola Svenneby og Cato Brunvand Ellingsen</A>
+              <A>For Rogaland: Christoffer Emberland Håland</A>
+            </Pkt>
+          </Liste>
+        </Presinnlegg>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:04:15]:</Navn> Georg Gulli,
+Hannah Teigland, Håkon Snortheim, Synne Høyforsslett Bjørbæk, Ola
+Svenneby og Cato Brunvand Ellingsen er til stede og vil ta sete.</A>
+          <A Type="Minnrykk">Statsråd Tore Onshuus Sandvik vil overbringe
+en kongelig proposisjon.</A>
+        </Presinnlegg>
+        <Hovedinnlegg Id="i1002431">
+          <A>
+            <Navn personID="TORSAN">
+Statsråd Tore Onshuus Sandvik [10:04:37]:</Navn> På vegne av regjeringen
+vil jeg overbringe en proposisjon til Stortinget om endringer i
+statsbudsjettet 2026 under Justis- og beredskapsdepartementet –
+operatør av redningshelikopterbasen i Tromsø mv.</A>
+        </Hovedinnlegg>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:04:46]:</Navn> Proposisjonen
+vil bli behandlet på reglementsmessig måte.</A>
+          <A Type="Minnrykk">Representanten Haagen Poppe vil fremsette et
+representantforslag.</A>
+        </Presinnlegg>
+        <Hovedinnlegg Id="i1002433">
+          <A>
+            <Navn personID="HSP">
+Haagen Poppe (H) [10:05:01]:</Navn> På vegne av representantene
+Tone Wilhelmsen Trøen, Anna Molberg og meg selv har jeg den store
+glede å framsette et representantforslag om mer åpenhet og demokrati
+i kultursektoren.</A>
+        </Hovedinnlegg>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:05:16]:</Navn> Representanten
+Mímir Kristjánsson vil fremsette tre representantforslag.</A>
+        </Presinnlegg>
+        <Hovedinnlegg Id="i1002435">
+          <A>
+            <Navn personID="MMIKRI">
+Mímir Kristjánsson (R) [10:05:35]:</Navn> På vegne av representantene
+Geir Jørgensen, Marie Sneve Martinussen og meg selv har jeg æren
+av å legge fram et representantforslag om å åpne grossistleddet
+og gjøre prisutviklingen mer oversiktlig i norsk dagligvare.</A>
+          <A Type="Minnrykk">På vegne av representantene Sofie Marhaug,
+Geir Jørgensen og meg selv har jeg gleden av å legge fram et representantforslag
+om å avvikle Nysnø.</A>
+          <A Type="Minnrykk">På vegne av representanten Seher Aydar og meg
+selv har jeg gleden av å legge fram et representantforslag om å
+redde sykehusdriften i Egersund.</A>
+        </Hovedinnlegg>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:06:12]:</Navn> Representanten
+Tage Pettersen vil fremsette et representantforslag.</A>
+        </Presinnlegg>
+        <Hovedinnlegg Id="i1002437">
+          <A>
+            <Navn personID="TAGP">
+Tage Pettersen (H) [10:06:29]:</Navn> På vegne av representantene
+Mudassar Kapur, Anna Molberg, Mathilde Tybring-Gjedde og meg selv
+har jeg gleden av å legge fram et representantforslag om en borgerkontrakt.</A>
+        </Hovedinnlegg>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:06:40]:</Navn> Representanten
+Marit Vea vil fremsette et representantforslag.</A>
+        </Presinnlegg>
+        <Hovedinnlegg Id="i1002439">
+          <A>
+            <Navn personID="MARVEA">
+Marit Vea (V) [10:06:56]:</Navn> På vegne av representantene Lars
+Haltbrekken, Siren Julianne Jensen, Sofie Marhaug, Frøya Skjold
+Sjursæther og meg selv er jeg glad for å legge fram et forslag om
+tilbaketrekning av utslippstillatelsen for gruveavfall i Repparfjorden.</A>
+        </Hovedinnlegg>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:07:13]:</Navn> Representanten
+Georg Gulli vil fremsette et representantforslag.</A>
+        </Presinnlegg>
+        <Hovedinnlegg Id="i1002441">
+          <A>
+            <Navn personID="GEOGUL">
+Georg Gulli (KrF) [10:07:26]:</Navn> På vegne av stortingsrepresentantene
+Ida Lindtveit Røse, Jonas Andersen Sayed og meg selv fremmer jeg
+et representantforslag om et nasjonalt røykesluttprogram – uten
+kostnad for staten.</A>
+        </Hovedinnlegg>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:07:37]:</Navn> Representanten
+Henrik Asheim vil fremsette et representantforslag.</A>
+        </Presinnlegg>
+        <Hovedinnlegg Id="i1002443">
+          <A>
+            <Navn personID="HEA">
+Henrik Asheim (H) [10:07:49]:</Navn> På vegne av representanten
+Nikolai Astrup og meg selv har jeg æren av å fremsette et representantforslag
+om lavere og mer forutsigbar skatt på folks bolig.</A>
+        </Hovedinnlegg>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:07:59]:</Navn> Forslagene
+vil bli behandlet på reglementsmessig måte.</A>
+          <A Type="Minnrykk">Sakene nr. 1–5 vil bli behandlet under ett.</A>
+        </Presinnlegg>
+      </Motestart>
+    </Startseksjon>
+    <Hovedseksjon Id="i1002445">
+      <Saker>
+        <Sak saksKartNr="1" sakID="106030">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak nr. 1</Uth> [10:08:11]</Saknr>
+            <Saktittel Id="i1002449">
+              <A>Stortingets vedtak til lov om endringer
+i NIM-loven (nye overvåkings- og rapporteringsfunksjoner) <Uth Type="RETT">(Lovvedtak 21 (2025–2026), jf. Innst. 77 L (2025–2026))</Uth></A>
+            </Saktittel>
+          </Sakshode>
+        </Sak>
+        <Sak Id="i1002451" saksKartNr="2" sakID="103997">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak
+nr. 2</Uth> [10:08:11]</Saknr>
+            <Saktittel Id="i1002455">
+              <A>Stortingets vedtak til lov om endringer
+i verdipapirhandelloven mv. (kapitalkrav for verdipapirforetak) <Uth Type="RETT">(Lovvedtak 22 (2025–2026), jf. Innst. 59 L (2025–2026)
+og Prop. 156 LS (2024–2025))</Uth></A>
+            </Saktittel>
+          </Sakshode>
+        </Sak>
+        <Sak Id="i1002457" saksKartNr="3" sakID="104000">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak
+nr. 3</Uth> [10:08:11]</Saknr>
+            <Saktittel Id="i1002461">
+              <A>Stortingets vedtak til lov om endringer
+i AIF-loven <Uth Type="RETT">(Lovvedtak 23 (2025–2026), jf. Innst.
+63 L (2025–2026) og Prop. 157 LS (2024–2025))</Uth></A>
+            </Saktittel>
+          </Sakshode>
+        </Sak>
+        <Sak Id="i1002463" saksKartNr="4" sakID="104643">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak
+nr. 4</Uth> [10:08:11]</Saknr>
+            <Saktittel Id="i1002467">
+              <A>Stortingets vedtak til lov om folkefinansiering
+av næringsvirksomhet (folkefinansieringsloven) <Uth Type="RETT">(Lovvedtak
+24 (2025–2026), jf. Innst. 61 L (2025–2026) og Prop. 167 LS (2024–2025))</Uth></A>
+            </Saktittel>
+          </Sakshode>
+        </Sak>
+        <Sak Id="i1002469" saksKartNr="5" sakID="104001">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak
+nr. 5</Uth> [10:08:11]</Saknr>
+            <Saktittel Id="i1002473">
+              <A>Stortingets vedtak til lov om endringer
+i opplæringslova (rett til 12 timer gratis skolefritidsordning i
+uken for elever på 1. til 3. Trinn) <Uth Type="RETT">(Lovvedtak
+25 (2025–2026), jf. Innst. 78 L (2025–2026) og Prop. 160 L (2024–2025))</Uth></A>
+            </Saktittel>
+          </Sakshode>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [10:08:16]:</Navn> Ingen har bedt
+om ordet.</A>
+          </Presinnlegg>
+        </Sak>
+        <Sak Id="i1002475" saksKartNr="6" sakID="105845">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak
+nr. 6</Uth> [10:08:26]</Saknr>
+            <Saktittel Id="i1002479">
+              <A>Innstilling fra utenriks- og forsvarskomiteen
+om Anskaffelse av ytterligere ubåter og langtrekkende presisjonsild <Uth Type="RETT">(Innst. 86 S (2025–2026), jf. Prop. 29 S (2025–2026))</Uth></A>
+            </Saktittel>
+          </Sakshode>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [10:08:39]:</Navn> Etter ønske
+fra utenriks- og forsvarskomiteen vil presidenten ordne debatten
+slik: 5 minutter til hver partigruppe og 5 minutter til medlemmer
+av regjeringen.</A>
+            <A Type="Minnrykk">Videre vil det – innenfor den fordelte taletid
+– bli gitt anledning til inntil ti replikker med svar etter innlegg
+fra medlemmer av regjeringen, og de som måtte tegne seg på talerlisten
+utover den fordelte taletid, får en taletid på inntil 3 minutter.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1002481">
+            <A>
+              <Navn personID="PCF">
+Peter Frølich (H) [10:09:17]</Navn> (ordfører for saken): Alle i
+Norge ønsker å leve i fred, men om noen angriper oss eller våre
+allierte, skal vi slå knallhardt tilbake. Derfor er det helt avgjørende
+at vi nå anskaffer langtrekkende presisjonsild, med flere hundre
+kilometers rekkevidde, og ytterligere to nye ubåter, noe som gir
+seks ubåter totalt. </A>
+            <A Type="Minnrykk">Langtrekkende presisjonsild vil gi en helt
+tydelig avskrekkende effekt. Dette er våpen som kan nå langt inn
+bak fiendens linjer, treffe kommandoplasser, baser, materiell, kritisk
+infrastruktur, forsyningslinjer, troppeansamlinger osv. I en moderne
+krig er dette helt avgjørende. Man kan bare se til Ukraina, som
+fikk denne typen våpen introdusert sommeren 2022, og hvordan det
+endret krigens gang og stoppet russernes momentum i deres invasjon. </A>
+            <A Type="Minnrykk">Når det gjelder ubåter, vil økningen fra fire
+til seks gjøre at Sjøforsvaret kan operere flere ubåter samtidig
+og til enhver tid. Det vil være en markant forbedring av vår evne
+til avskrekking, overvåkning og suverenitetshevdelse. Ingen fiende
+skal kunne være trygg på å bevege seg inn i våre havområder. </A>
+            <A Type="Minnrykk">I Norge finner vi heldigvis sammen i de store
+og viktige spørsmålene. Langtidsplanen er ofte framhevet som et
+godt og viktig bevis på dette. Den evnen til å samarbeide er veldig viktig
+og en av våre nasjonale styrker. Den kommer fra en grunnleggende
+politisk tillit som vi har til hverandre, og den skal vi aldri ta
+for gitt. Prosessen bak innstillingen vi behandler i dag, gir kanskje
+en bitte liten grunn til bekymring rundt nettopp dette. Vi ser at
+flere partier setter spørsmålstegn ved regjeringens vurderinger
+rundt mulige leverandører av langtrekkende presisjonsild, og de
+stemmer derfor mot bevilgningen. Bare la meg si veldig tydelig at
+det mener Høyre er uheldig. Jeg forstår at dette skyldes innvendinger
+mot anskaffelsesprosessen, men dersom flere partier hadde fulgt
+denne logikken og stemt mot innstillingen, ville denne helt nødvendige
+anskaffelsen blitt unødvendig forsinket og fordyret. Det har vi
+ikke råd til, slik som verden ser ut i dag. </A>
+            <A Type="Minnrykk">Høyre er veldig, veldig klar på at det ikke
+er Stortingets rolle å velge leverandører av ulike forsvarssystemer.
+Man bør heller ikke bruke saker som dette til indirekte å intervenere
+i de anskaffelsesprosessene. Vårt ansvar er enkelt og greit å vedta
+en struktur og vedta budsjettrammene for den strukturen. </A>
+            <A Type="Minnrykk">Jeg vet at ansvaret for en korrekt og opplyst
+anskaffelse med riktig informasjonsflyt til Stortinget ligger tindrende klart
+hos regjeringen. Om det har skjedd noen feil i denne prosessen,
+har Stortinget og også andre myndigheter kontrollmekanismer som
+kan undersøke og ettergå prosessen og eventuelt ansvarliggjøre regjeringen
+dersom det blir oppdaget feil. Spørsmålet om anskaffelsen bør altså
+holdes separat fra spørsmålet om struktur og budsjettrammer. </A>
+            <A Type="Minnrykk">Motstanden fra partiene bør likevel være noe
+som regjeringen noterer seg. Vi er avhengig av at Stortinget skal
+knytte tillit til Forsvarsdepartementets militærfaglige vurderinger. Hvis
+man ser på merknadene om langtrekkende ild i innstillingen, ser
+vi at regjeringen denne gangen kanskje kom litt til kort hos flere
+partier. Til tross for det får innstillingen et solid flertall,
+heldigvis, og med dette vedtaket får Norge et markant sterkere forsvar.
+Vår klare forventning er at rammene holdes, og at anskaffelsen gjøres
+med tilstrekkelig handlekraft og gjennomføringsevne fra regjeringens
+side. Summen på nesten 120 mrd. kr er enorm, men vi vet alle smertelig
+og inderlig godt at alternativet, passivitet, fort blir dyrere.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1002483">
+            <A>
+              <Navn personID="NF">
+Nils-Ole Foshaug (A) [10:14:19]:</Navn> Prop. 29 S for 2025–2026
+handler om noe av det mest grunnleggende staten har ansvaret for,
+nemlig å sikre landet vårt i en tid med økende uro og en sikkerhetspolitisk
+situasjon som er alvorligere enn på flere tiår. Proposisjonen omhandler
+to sentrale kapasiteter: flere ubåter til Sjøforsvaret og etablering
+av landbasert langtrekkende presisjonsild i Hæren. Dette er ikke
+enkeltstående investeringer. Det er helt nødvendige byggesteiner
+i et sterkere og mer moderne forsvar. </A>
+            <A Type="Minnrykk">Det haster med å bygge forsvarsevne. Russlands
+brutale angrepskrig mot Ukraina har vist oss hvor raskt sikkerhetssituasjonen
+kan endres, og hvor avgjørende det er å ha militære kapasiteter
+på plass før krisen rammer. Det er nettopp dette Prop. 29 S følger
+opp: prioriteringer i langtidsplanen for Forsvaret vedtatt av et
+samlet storting. Verden har blitt farligere og mer uforutsigbar,
+og vi må ta et større ansvar for egen sikkerhet. Vi er derfor i
+full gang med å styrke alle grener i Forsvaret. Investering i ubåter
+og langtrekkende presisjonsild er en viktig del av dette og vil
+ha en vesentlig avskrekkende effekt overfor enhver motstand. </A>
+            <A Type="Minnrykk">Når det gjelder langtrekkende presisjonsild,
+er dette en kapasitet Norge ikke har i dag. Det er en kapasitet
+som har vært nevnt i samtlige fagmilitære råd siden 2015, og det
+har vært en sentral anbefaling i forsvarssjefens fagmilitære råd
+i både 2019 og 2023. Kort fortalt er dette avgjørende for en moderne
+landmakt. Hæren trenger evne til å nå mål på lange avstander, bidra
+til avskrekking og styrke samvirket med allierte styrker. Derfor
+er det lagt til grunn at systemet skal ha en rekkevidde på om lag
+500 km, og det skal inngå i en egen rakettartilleribataljon i Indre
+Troms med planlagt innfasing fra 2029. </A>
+            <A Type="Minnrykk">Forsvarsmateriell har gjennomført en ryddig
+og profesjonell anskaffelsesprosess i markedet. Det er stilt tydelige
+krav fra Forsvaret, bl.a. til rekkevidde, leveranser og volum. Etter grundige
+konkurranser er enkelte leverandører blitt avvist fordi de ikke
+leverte det Forsvaret faktisk etterspurte. Dette er ikke politikk,
+det er fagmilitære vurderinger. Likevel foreslår nå enkelte partier
+å avbryte den pågående prosessen for å gå tilbake til et alternativ
+som allerede er vurdert og avvist. Det er for å vurdere et alternativ
+som fortsatt ikke leverer det Hæren trenger. I realiteten ville
+det bety å lyse ut en ny konkurranse med ny kvalitetssikring, noe
+som vil føre til mer usikkerhet og økte kostnader. Det vil svekke
+Norges tillit som anskaffelsespartner, men aller viktigst: Å starte
+prosessen på nytt vil føre til betydelige forsinkelser, og det i
+en tid hvor Forsvaret mangler denne kapasiteten, og hvor behovet
+er akutt. Det har vi rett og slett ikke råd til å utsette. </A>
+            <A Type="Minnrykk">Vi må kjøpe hyllevare som kan leveres raskt,
+som oppfyller kravene, og som gir Forsvaret reell operativ evne.
+Å velge utviklingsprosjekter uten ferdige løsninger, og uten kontraktfestet
+produksjon, innebærer betydelig risiko både teknisk, økonomisk og
+tidsmessig. Samtidig er Arbeiderpartiet tydelig på at dette ikke
+står i motsetning til industribygging i Norge og Europa. Industrisamarbeid
+og gjenkjøpsavtaler ligger fast, uavhengig av leverandørvalg. Målet
+er økt produksjonskapasitet, bedre forsyningssikkerhet og tettere
+samarbeid med våre allierte. Likevel kan ikke industripolitikk gå framfor
+operativ evne når sikkerhetssituasjonen er som den er nå.</A>
+            <A Type="Minnrykk">Ubåter er en av de viktigste kapasitetene vi
+har for å ivareta norsk og alliert sikkerhet i nordområdene. Samarbeidet med
+Tyskland har gitt oss lavere risiko, bedre kostnadskontroll og sterk
+norsk industriell deltakelse gjennom Kongsberg og det felles kampsystemet.
+Å øke antallet ubåter fra fire til seks styrker utholdenheten, sikrer
+bedre operativ tilgjengelighet og gjør oss bedre i stand til å møte
+forventningene fra NATO, særlig i en tid der aktiviteten i nordområdene
+økes.</A>
+            <A Type="Minnrykk">Prop. 29 S handler i bunn og grunn om ansvar
+– ansvar for å lytte til fagmilitære råd, ansvar for å handle i
+tide, ikke når det er for sent, og ansvar for å sørge for at Forsvaret
+får det materiellet de trenger, når de trenger det. Trygghet bygges ikke
+med utsettelser, det bygges med beslutninger.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1002485">
+            <A>
+              <Navn personID="HGU">
+Himanshu Gulati (FrP) [10:19:23]:</Navn> Som flere har vært innom,
+står Norge og Europa i den mest krevende sikkerhetspolitiske situasjonen
+siden andre verdenskrig. De kjøpene og rammene vi tar stilling til
+her i dag, er av særdeles stor betydning, når det gjelder både å
+øke antall nye ubåter, som er et av Norges strategisk sett viktigste
+virkemidler, og innkjøp av langtrekkende presisjonsild til Hæren.
+Dette er av avgjørende betydning for å oppnå ønsket effekt overfor
+en motstander når det gjelder landmilitær avskrekking, og er derfor
+av stor strategisk interesse. </A>
+            <A Type="Minnrykk">Vi vil også vise til at når regjeringen har
+søkt sikkerhetsgarantier fra nære allierte ved kjøp av ubåter og
+stridsvogner fra Tyskland og fregatter fra Storbritannia, mener
+Fremskrittspartiet at regjeringen også burde ha gjort større bestrebelser
+for å få en eller flere norske og europeiske leverandører med i
+hele anbudsprosessen, også her. Når det er sagt, støtter vi det
+som er sagt tidligere fra talerstolen i dag om at vi på Stortinget
+ikke tar stilling til hvem man kjøper fra. Vi forholder oss til
+rammen, vi vedtar rammen, og vi framhever selvsagt viktigheten av
+disse kjøpene for norske kapasiteter og kapabiliteter. </A>
+            <A Type="Minnrykk">Vi vil derfor støtte innstillingen om innkjøp
+av langtrekkende presisjonsild, LLPI, og om økning av antall ubåter, men
+vil anmode regjeringen i det videre arbeidet med å realisere planen
+om å gjennomføre mer helhetlige og ikke minst raskere prosesser
+ved kjøp av strategisk viktig forsvarsmateriell. Disse prosessene
+tar fortsatt for lang tid, noe vi ikke kan være fornøyd med i den
+sikkerhetspolitisk krevende situasjonen som vi står i. </A>
+            <A Type="Minnrykk">Vi går for øvrig imot mindretallsforslagene.
+Selv om vi deler noen av bekymringene som andre partier har kommet med,
+mener vi det er viktig at vi foretar disse kjøpene, og at vi foretar
+dem nå og ruster opp det norske forsvaret så raskt som mulig. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1002487">
+            <A>
+              <Navn personID="INF">
+Ingrid Fiskaa (SV) [10:21:37]:</Navn> Det er ei spesiell tid me lever
+i. Sidan sist det blei diskutert sikkerheitspolitikk i denne salen,
+har presidenten i USA på nytt trua med å ta alliert land og utfordra
+heile NATO-samarbeidet. Mange pusta letta ut då Trump i Davos snudde
+og sa at han ikkje skulle ta Grønland med makt, men me veit at Trump
+fort kan snu igjen. </A>
+            <A Type="Minnrykk">SV støttar det grønlandske folket. Grønland
+tilhøyrer grønlendarane, og me er glade for at regjeringa har vore
+tydeleg i forsvaret av Kongeriket Danmarks suverenitet. Som eit relativt
+lite land i eit strategisk nordområde er Noreg avhengig av ein internasjonal
+rettsorden. Ei verd der stormakter tek seg til rette og behandlar
+andre nasjonar som sine interessesfærar i staden for å respektera
+folkeretten og FN-pakta, er ei farleg verd for oss. </A>
+            <A Type="Minnrykk">SV har i lang tid åtvara mot å gjera Noreg
+avhengig av USA. Me har lenge peikt på behovet for sterkare samarbeid med
+Norden og europeiske land, som i større grad deler våre interesser.
+Innkjøp av ytterlegare to tyske ubåtar styrkjer det strategiske
+samarbeidet med Tyskland. Tysk og norsk industri utviklar saman
+det kampsystemet som utgjer det sentrale styringssystemet i ubåtane,
+og integrerer alle sensorar, våpensystem og navigasjon. Leveransen
+utgjer ein betydeleg del av den samla kontraktsverdien. Dette samarbeidet
+styrkjer det norsk-tyske samarbeidet og skapar arbeidsplassar i
+Noreg. </A>
+            <A Type="Minnrykk">Når det gjeld langtrekkjande presisjonsild,
+meiner SV at dei same overordna sikkerheitspolitiske og strategiske
+vurderingane må gjelda òg her. Produksjon i Noreg, eller i eit land nær
+oss, vil i tillegg vera god beredskap og god industripolitikk. Å
+vera avhengige av leveransar frå andre sida av jorda, både i fredstid
+og ikkje minst i krigstid, gjer oss sårbare. </A>
+            <A Type="Minnrykk">SV meiner at korte forsyningskjeder er eit
+langt betre alternativ enn det langreiste alternativet som no ser
+ut til å bli valt. Det er framleis mogleg å velja eit norsk-europeisk
+alternativ der norsk industri vil ta ein aktiv del i eit strategisk
+samarbeid, og der heile produksjonen kan skje i Noreg. </A>
+            <A Type="Minnrykk">Noreg kan og bør bruka dei moglegheitene me
+har til å styrkja strategisk samarbeid med land me deler interesser med.
+Investeringar i langtrekkjande presisjonsild er eit omfattande og
+forsvarspolitisk strategisk prosjekt og utgjer langt meir enn eit
+enkelt våpenkjøp. Ved så store investeringar som det me snakkar
+om her, bør den sikkerheitspolitiske dimensjonen tilleggjast stor
+vekt. Me meiner difor at det norsk-europeiske alternativet må vurderast
+skikkeleg, og at me ikkje må basera oss berre på dei snevre og til
+dels utdaterte kriteria som er lagde til grunn så langt. </A>
+            <A Type="Minnrykk">Dette er òg ei løysing som fleire nære allierte
+allereie har valt. SV fremjar difor, saman med Senterpartiet og
+Kristeleg Folkeparti, forslag om å vurdera det norsk-europeiske
+alternativet fullt ut i tråd med Nasjonal sikkerheitsstrategi, og koma
+tilbake til Stortinget på eigna måte.</A>
+            <A Type="Minnrykk">I tider der kommunekassene er skrapa, velferda
+forvitrar og folk slit med å betale rekningane sine, skal Stortinget
+ta ansvaret sitt for landets budsjett med tungt alvor. Me er alle
+i denne salen einige om å styrkja den nasjonale forsvarsevna. Det
+er ikkje det same som at me skal kjøpa alt det forsvarsutstyret
+som skulle vera ønskjeleg, kosta kva det kosta vil. Det er heller
+ikkje sånn at me oppnår maksimal forsvarsevne berre med å kjøpa
+materiell. Den faktiske forsvarsevna består av folk som kan bruka
+og vedlikehalda materiellet, av fungerande forsyningskjeder, av
+samvirke med det sivile samfunnet og ikkje minst av folk sin forsvarsvilje. </A>
+            <A Type="Minnrykk">Når SV i dag støttar kjøp av to nye ubåtar
+og langtrekkjande presisjonsild, sjølv om kostnadsrammene har gått
+vesentleg opp, er det fordi nettopp desse kapasitetane står på toppen
+av lista over det forsvarssjefen meiner er mest nødvendig. </A>
+            <A Type="Minnrykk">Med det tek eg opp forslaget som SV er med
+på. </A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [10:26:20]:</Navn> Representanten
+Ingrid Fiskaa har tatt opp det forslaget hun refererte til.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1002489">
+            <A>
+              <Navn personID="BFA">
+Bengt Fasteraune (Sp) [10:26:41]:</Navn> Vi lever i en svært usikker
+verden, og nettopp av den grunn er det avgjørende at de investeringene
+vi gjør i det norske forsvaret, er gjennomtenkte og ikke minst langsiktige.
+Med krig i Ukraina og en amerikansk president som er krevende å
+forholde seg til, er det viktig at vi velger partnere som står oss
+nær, der vi kan bygge opp et tett strategisk partnerskap.</A>
+            <A Type="Minnrykk">Det pekes nå i retning av et sørkoreansk alternativ
+for langtrekkende presisjonsild. Når vi nå står overfor en investering
+som vil prege Hæren i flere tiår, mener vi i Senterpartiet at det
+tysk-norske Mars 3-systemet bør vurderes fullt ut før en endelig
+beslutning tas.</A>
+            <A Type="Minnrykk">Langtrekkende presisjonsild vil gi en helt
+ny kapasitet for Hæren. Våpen som kan treffe mål med høy presisjon
+over svært lange avstander, opptil 500 km, styrker vår avskrekkingsevne,
+vår forsvarsevne og ikke minst vår evne til å manøvrere.</A>
+            <A Type="Minnrykk">Jeg er enig med tidligere forsvarssjef Harald
+Sunde når han understreker viktigheten av felles våpenplattformer
+og standardisering med nære allierte. Regjeringen har ikke klart å
+berolige oss i Senterpartiet om at alle sider ved det sørkoreanske
+alternativet er godt nok vurdert, og at det er det beste valget
+for framtiden. Derfor ber vi regjeringen om å ta en runde til.</A>
+            <A Type="Minnrykk">Senterpartiet er opptatt av at vi må ta kloke
+og langsiktige valg når vi investerer i Forsvaret. Derfor bør vi
+vurdere norsk-europeiske alternativer grundig før vi tar en endelig
+beslutning. Dette er politikk. Tidligere investeringer har vist
+at det er mulig å kombinere militær styrke, sikkerhetspolitikk og
+industriutvikling. Da må vi ikke ta forhastede valg. Selv om debatten
+ofte handler om de store, nye innkjøpene, må vi prioritere å få
+det vi allerede har i Forsvaret, til å virke. Det har vi prioritert
+tidlig i langtidsplanen, og det må følges opp. Anskaffelse av langtrekkende
+presisjonsild vil være en ny og helt avgjørende dimensjon for norsk
+forsvarsevne. Det er en kapasitet Hæren mangler i dag, og derfor
+– nok en gang – må vi være helt sikre på at vi gjør det rette strategiske
+valget.</A>
+            <A Type="Minnrykk">Dersom vi allerede nå velger bort Mars 3-systemet,
+vil vi gjøre vår egen våpenprodusent Kongsberg en bjørnetjeneste. Jeg
+registrerer at flere er særdeles utålmodige og ikke har tid til
+å vente med milliardkjøp av missiler. Senterpartiet mener vi må
+stoppe opp og tenke oss om.</A>
+            <A Type="Minnrykk">Dette er en strategisk kapasitet og en ny evne
+til avskrekking og til å ramme motstanderen på avstander man tidligere ikke
+har vært i nærheten av. Krigen i Ukraina har gitt oss helt nye lærdommer
+om teknologisk sårbarhet. Det tysk-norske alternativet Mars 3 fantes
+ikke da Forsvaret startet prosessen. Anbudsprosessen har blitt innhentet
+av utviklingen, og vi må vurdere en løsning som fanger opp de siste
+årenes teknologiske endringer. Våre forsvarsbedrifter er i verdenseliten
+på missilteknologi, spesielt gjennom Kongsberg-systemene NSM og
+JSM. Det vil være særdeles oppsiktsvekkende dersom vi ikke kobler
+vår ledende rolle innen missilteknologi med anskaffelsen av langtrekkende
+presisjonsild. Et samarbeid med Tyskland om nye lynraske missiler
+vil være mer framtidsrettet enn å kjøpe eldre systemer fra andre
+land.</A>
+            <A Type="Minnrykk">Stortinget kan vanskelig vurdere alle konkrete
+detaljer, som pris, ytelse og leveringstidspunkt, men det handler
+om å bygge et strategisk samarbeid med våre nærmeste allierte, samtidig
+som vi sikrer norske arbeidsplasser og videre utvikling av norsk
+teknologi. Når regjeringen har søkt sikkerhetsgarantier fra nære
+allierte ved kjøpet av ubåter – som vi støtter fullt ut, også utvidelsene
+i denne rammen – og stridsvogner fra Tyskland og fregatter fra Storbritannia,
+er jeg forundret over at Forsvarsdepartementet ikke har gjort større
+bestrebelser for å få en eller flere norske og europeiske leverandører med
+i hele anbudsprosessen.</A>
+            <A Type="Minnrykk">Jeg er enig i at Stortinget skal være forsiktig
+med å peke ut en leverandør. Industrielle muligheter må likevel
+være en del av vurderingen hver gang vi skal gjøre denne typen beslutninger.
+Vi må velge løsninger som gjør at norsk industri får utvikle seg
+sammen med Forsvaret.</A>
+            <A Type="Minnrykk">Vi er vant til at man skal ha gjenkjøpsavtaler,
+og det er særdeles viktig. I denne saken dreier det seg altså om
+kapasiteter som kan gå langt utover gjenkjøpsavtaler vi ser i forsvarsmateriellmarkedet.
+Kongsberg er en industri som vil være betydningsfull langt inn i
+framtiden, og de må støttes opp av våre egne kjøp.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1002491">
+            <A>
+              <Navn personID="BJMO">
+Bjørnar Moxnes (R) [10:31:55]:</Navn> Spørsmålet om å kunne forsvare
+territoriet og landet sitt mot stormakter med ambisjoner har blitt
+satt på dagsordenen i mye større grad de siste ukene. Jeg tror stadig
+flere ser at det er viktig at man har både evnen og viljen til å
+forsvare seg, ikke minst for å dempe de imperialistiske ambisjonene,
+om de kommer fra Moskva eller fra Washington D.C.</A>
+            <A Type="Minnrykk">Et land som ikke er i stand til og ikke vil
+forsvare seg, blir mer utsatt for imperialistiske røvertokter. Det
+å ha en viss forsvarsevne og -vilje er avgjørende for å hindre utbrudd
+av krig, for å hindre militær konflikt og for å bevare fred.</A>
+            <A Type="Minnrykk">Det er noe av bakgrunnen for at Rødt var veldig
+kritiske til nedbyggingen av Norges forsvarsevne i flere tiår. Det skjedde
+til fordel for deltakelse i amerikanskledede militære eventyr, om
+det så var i Libya, Afghanistan eller Irak. Vi må hente Forsvaret
+hjem og styrke forsvaret av Norge. Det vil også være et bidrag til
+å dempe spenningen i nord, noe som er i Norges nasjonale interesse,
+og som også er slått fast i forsvarsforliket fra samtlige partier
+på Stortinget.</A>
+            <A Type="Minnrykk">I alle de rådene vi har fått, altså fagmilitære
+råd fra forsvarssjefen, nevnes ubåter som helt avgjørende, og det
+gjelder også langtrekkende presisjonsvåpen – naturligvis i tillegg
+til å utbedre svakhetene ved dagens struktur, øke volumet i Forsvaret
+og ikke minst anskaffe luftvern.</A>
+            <A Type="Minnrykk">Dette er bakgrunnen for at Rødt støtter det
+som ligger i proposisjonen. Det er i tråd med det som er vedtatt
+i forsvarsforliket, og i tråd med det som handler om å styrke Norges forsvarsevne.
+Langtrekkende presisjonsild vil utvide Hærens både rekkevidde og
+slagkraft og vil kunne ha en viktig avskrekkende effekt overfor
+dem som måtte ønske å prøve seg på deler av norsk territorium. Det
+er derfor viktig for å styrke forsvarsevnen.</A>
+            <A Type="Minnrykk">Det er blitt stilt krav om at man skal kunne
+ha en rekkevidde på systemet på omkring 500 km og ikke minst få
+levert det på tid og pris. Det er én produsent som oppfyller de
+kravene, nemlig den sørkoreanske produsenten. Det er bekymringer
+rundt avstanden til Sør-Korea, og det skjønner vi jo veldig godt,
+men det er viktig å få med seg at også et nytt produksjonsanlegg
+for missilene og rampene skal etableres i Polen, som er litt nærmere
+Norge enn Sør-Korea er.</A>
+            <A Type="Minnrykk">Det andre poenget er at det ikke er noen industrier
+som per dags dato lager disse missilene i Europa, og det stiller egentlig
+forslaget om en europeisk løsning i et litt underlig lys. For det
+første: Den europeiske løsningen finnes ennå ikke. Den er ikke ferdig
+utviklet, og ingen har bestilt den, heller ikke Tyskland. Norge
+ville blitt den første brukeren hvis vi gikk inn for dette, og det
+er en grunn til at man går inn for mer bruk av hyllevare. Vi har
+hatt visse fregattinnkjøp tidligere, og det har gått så som så.
+Det å gå inn for hyllevare, ting som er utprøvd og velprøvd, kan
+være lurt, også for å hindre en ekstrem vekst i kostnadene til Forsvaret.</A>
+            <A Type="Minnrykk">Det andre problemet er at den europeiske løsningen
+også er israelsk. Mars 3 er et israelsk system fra Elbit som heter PULS,
+«battle-proven» mot palestinerne. Det finnes ikke europeiske missiler.
+Alle missiler som brukes til PULS, kommer fra Elbit. Ingen europeiske
+land har ennå kjøpt Mars 3. Tyskerne har kjøpt PULS, danskene har
+kjøpt PULS, og nederlenderne har kjøpt PULS, alle fra selskapet
+Elbit, som er Israels største våpenselskap og blinket ut som en
+versting av BDS-kampanjen når det gjelder bidrag til den israelske
+krigsmaskinen.</A>
+            <A Type="Minnrykk">Til slutt: Vår støtte til kjøpet av ubåter
+og langtrekkende presisjonsild betyr ikke at vi stiller oss bak
+å øke forsvarsforlikets ramme med tilsvarende sum. Det er viktig.
+Øvrige ambisjoner i forsvarsforliket må vurderes i lys av Stortingets
+prioritering av ubåter og også innkjøp av langtrekkende presisjonsild,
+som vedtas i Stortinget i dag.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1002493">
+            <A>
+              <Navn personID="ARIHER">
+Arild Hermstad (MDG) [10:37:07]:</Navn> Norge står i en svært krevende
+sikkerhetspolitisk situasjon, og verden slik vi kjenner den, er
+i ferd med å gå av hengslene. Mens Putins imperialisthær rykker
+fram i Ukraina, er USA under Trump en alliert som det blir stadig
+vanskeligere å stole på. Hans krav om å overta Grønland setter i
+verste fall hele NATO-samarbeidet i fare. USAs såkalte sikkerhetsstrategi,
+med uttalt vilje til å blande seg inn i europeiske lands anliggender ved
+å støtte ytre høyre-krefter, bekrefter at USA er på vei inn i et
+bekmørkt terreng. Det er og blir likevel Russland som truer den
+dype freden vi har følt på i 80 år. Trusselen fra Putin er den bakenforliggende
+årsaken til at Europa og Norge nå ruster opp. </A>
+            <A Type="Minnrykk">I langtidsplanen for Forsvaret ble hele Stortinget
+enige om en kraftig opprustning, som er anslått til å koste ca. 1 600 mrd. kr.
+Dette var ikke noe MDG støttet med lett hjerte. Vi er et parti som
+er tuftet på ikke-vold og på fredsarbeid, men når verden styres
+av bøller, må vi stå opp for våre verdier. Når autoritære regimer
+ruster opp, bryter folkeretten og bomber andre land for å utvide
+territoriet sitt, er evnen til å forsvare seg selv en forutsetning
+for å bevare freden. </A>
+            <A Type="Minnrykk">Vi skal gjøre det motsatte av det Putin og
+Trump vil. Europeiske land skal samarbeide mer, ikke mindre. Vi
+skal slåss for demokrati, folkeretten og alles rett til å bestemme
+over sitt eget land. Vi skal stå opp mot autokrati, den sterkestes
+rett og stengte grenser, vi skal aldri akseptere trusler, og vi
+skal stille opp når våre naboland trues. </A>
+            <A Type="Minnrykk">MDG støtter regjeringens forslag om å øke rammen
+for ubåtprosjektet og forslaget om innkjøp av langtrekkende presisjonsild.
+Samtidig er vi bekymret når kostnadsrammen for ubåt-innkjøpet skyter
+i været. MDGs støtte er ikke en blankofullmakt til kjøpefest i Forsvaret.
+Når vi bruker mer penger på ubåter og raketter, kan det hende vi
+må bruke mindre penger på noe annet. </A>
+            <A Type="Minnrykk">Den offentlige debatten om denne proposisjonen
+har handlet om langtrekkende presisjonsild og om Stortinget skal overkjøre
+regjeringens leverandørvalg. Det kommer ikke MDG til å gjøre. Skal
+vi ha noen som helst sjanse til å gjennomføre langtidsplanen for
+Forsvaret, må vi holde på et grunnleggende hovedprinsipp: at Stortinget
+bevilger midler, og at regjeringen velger leverandører, basert på
+forsvarsfaglige vurderinger og Stortingets vedtatte føringer. Så
+jeg blir overrasket når vi ser at partier som også ønsker mindre
+samarbeid med demokratiske nabostater om felles sikkerhet og beredskap,
+samtidig ikke har noen betenkeligheter med å skape usikkerhet om
+oppfølgingen av forsvarsforliket. Utsettelse og omkamp skaper usikkerhet
+om Norges vilje til raskt å styrke vår forsvarsevne. Forsvarsforliket
+kan bli et forsvarsforlis dersom mindretallet vinner fram. </A>
+            <A Type="Minnrykk">MDG mener at Norge som hovedregel gjør lurt
+i å velge europeiske leverandører. Det går jeg ut fra at regjeringen
+også mener. Men når forsvarsfaglige vurderinger så tydelig peker på
+at Hanwha er rett leverandør, aksepterer vi det. Sør-Korea er dessuten
+en viktig alliert, som også vil bygge noen av disse installasjonene
+på europeisk jord. De kan levere en ferdig løsning raskt, noe som
+er mindre sannsynlig dersom man velger mindretallets løsning. Derfor
+stemmer vi imot forslaget fra SV, Senterpartiet og KrF. </A>
+            <A Type="Minnrykk">For vår del er det også negativt at KNDS, som
+har lobbet hardt for å få Stortinget til å overkjøre regjeringen,
+gir stor involvering av USA-materiell i sin leveranse, men også
+at de inntil videre er avhengige av missiler fra israelske Elbit
+for å levere sin løsning. Elbit har også levert droner, artilleri,
+granater og andre våpensystemer som er blitt brukt i Israels folkemord
+i Gaza. </A>
+            <A Type="Minnrykk">Et grønt parti må også være et sikkerhetspolitisk
+ansvarlig parti. MDG støtter et sterkt forsvar fordi vi vil sikre
+at nordmenn kan nyte fred, demokrati og respekt for folkeretten. Derfor
+støtter vi hovedinnholdet i regjeringens proposisjon. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1002495">
+            <A>
+              <Navn personID="JONSAY">
+Jonas Andersen Sayed (KrF) [10:42:09]:</Navn> I dagens sikkerhetspolitiske
+bilde er det avgjørende for både vår egen og europeisk sikkerhet
+at vi tar et større ansvar for den konvensjonelle avskrekkingen
+på kontinentet vårt. KrF var med på forliket om langtidsplanen for
+Forsvaret sommeren 2024 og vil være konstruktive i samtalene om
+en reprioritering av planen denne våren. </A>
+            <A Type="Minnrykk">Anskaffelsen av ytterligere to ubåter og langtrekkende presisjonsild
+er to sentrale kapasiteter i langtidsplanen, og vi oppfatter at
+forsvarssjefen har vært svært tydelig på at dette er kapasiteter
+som uansett må prioriteres i en revidert plan. Økningen fra fire
+til seks ubåter vil gjøre at både den operative tilgjengeligheten
+og robustheten kan opprettholdes over tid. Evnen til sjønektelse
+og avskrekking vil bli betydelig styrket, og det samme vil evnen
+til overvåkning og suverenitetshevdelse. Derfor kommer Kristelig
+Folkeparti til å støtte denne anskaffelsen slik den foreligger i
+proposisjonen fra regjeringen. </A>
+            <A Type="Minnrykk">Langtrekkende presisjonsild er en strategisk
+kapasitet på linje med F-35, ubåter og fregatter. Med en prislapp
+på 19 mrd. kr og en levetid på flere tiår er dette blant de største og
+viktigste sakene Stortinget vil ta stilling til i denne perioden.
+For første gang vil Norge få landbaserte våpen med rekkevidde langt
+inn i fiendtlig territorium. Dette er en kapasitet som krigen i
+Ukraina har vist er helt avgjørende for et moderne forsvar og avskrekking. </A>
+            <A Type="Minnrykk">Når Stortinget nå skal ta stilling til en så
+sentral kapasitet i vårt framtidige forsvar, er det rimelig å stille
+krav til samsvar mellom ord og handling. Da regjeringen i fjor la
+fram Norges første nasjonale sikkerhetsstrategi, var et av svarene
+på den alvorlige sikkerhetspolitiske situasjonen et tettere alliert
+samarbeid i Europa. Dette hensynet er blitt vektlagt svært tungt
+i valg av leverandør og strategisk partner i anskaffelsen av ubåter
+og fregatter. </A>
+            <A Type="Minnrykk">Med dette bakteppet er det vanskelig å forstå
+at regjeringen i denne saken har valgt å utelukke det norsk-europeiske alternativet
+fra konkurransen. Her har Norge en reell mulighet til å styrke europeisk
+og norsk forsvarsindustri, sikre norske arbeidsplasser og bygge
+europeisk kapasitet innen en kritisk militær evne. Denne muligheten
+velger regjeringen vekk. I samarbeid med Tyskland, Nederland og
+Danmark kunne Norge vært med på å utvikle og produsere neste generasjons
+system, basert på norsk missilteknologi i verdensklasse. Det er ikke,
+som det er blitt sagt fra denne talerstolen så langt i debatten,
+uprøvd teknologi. Tyskland skal motta de første utskytingsenhetene
+i tredje kvartal i 2027 og ha systemet operativt i januar 2028. </A>
+            <A Type="Minnrykk">Det norsk-europeiske systemet ville også gitt
+nettopp den fleksibiliteten som Forsvaret trenger, gjennom evnen
+til å integrere nye raketter og missiler, også dem som ennå ikke
+er ferdig utviklet, og dermed sikre at kapasiteten blir holdt i
+tiden framover. Som krigen i Ukraina tydelig viser, går utviklingen
+innen militær teknologi ekstremt fort. Det som i dag anses å være
+den fremste og beste teknologien, mister raskt operativ evne, hvis
+den ikke kontinuerlig blir forbedret og oppdatert, i møte med mottiltak
+som luftvern og GPS-jamming. Når vi vet at forsvarsanskaffelser
+i økende grad også er sikkerhetspolitikk, mener KrF at det er avgjørende
+at vi sørger for at mest mulig kontroll over produksjon, teknologi
+og beslutninger ligger hos nære allierte med tilsvarende sikkerhetspolitiske
+interesser som oss. </A>
+            <A Type="Minnrykk">Regjeringen har sagt at det nå er alvor. KrF
+forventer derfor at regjeringen handler deretter. Det betyr at store
+strategiske anskaffelser som skal bygge norsk forsvarsevne, ikke
+må gjøre oss mer avhengige eller sårbare, og at de også må bidra til
+å styrke europeisk autonomi og kritisk industrikapasitet. Vår oppfatning
+er at det norsk-europeiske og det sørkoreanske alternativet kan
+bli levert og være operativt innen fristen som er satt i anbudet.
+Derfor fremmer vi i denne saken, sammen med Senterpartiet og SV,
+et forslag om at det norsk-europeiske alternativet blir vurdert
+fullt ut, i tråd med den nasjonale sikkerhetsstrategien. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1002497">
+            <A>
+              <Navn personID="TORSAN">
+Statsråd Tore Onshuus Sandvik [10:46:50]:</Navn> Vi står i en alvorlig
+sikkerhetspolitisk situasjon. Russlands angrepskrig mot Ukraina
+er den største sikkerhetspolitiske utfordringen Norge og Europa
+står overfor. Norge må ta mer ansvar for egen og alliert sikkerhet
+i en stadig mer urolig verden. Derfor er det viktig at vi raskt
+styrker Norges forsvarsevne, slik at vi kan møte de utfordringene
+vi står overfor.</A>
+            <A Type="Minnrykk">I Prop. 29 S for 2025–2026, som er til behandling
+i dag, foreslår regjeringen at Stortinget tar stilling til to sentrale
+investeringer som samlet beløper seg til mer enn 65 mrd. 2025-kroner.
+De to investeringssakene vil bidra til at vi tidlig styrker norsk
+og alliert avskrekkingsevne.</A>
+            <A Type="Minnrykk">Vi er godt i gang med å styrke forsvarsevnen
+og realisere ambisjonene i langtidsplanen. Før sommeren i fjor la
+regjeringen fram en stortingsmelding om gjennomføringen av langtidsplanen.
+Der varslet vi flere endringer som gir behov for å videreutvikle
+planen. I tillegg til at den sikkerhetspolitiske situasjonen har
+forverret seg betydelig, påvirker prisvekst og lange ledetider budsjettene
+og framdriften i opptrappingen. Dette medfører behov for å videreutvikle
+og rebalansere langtidsplanen slik den ble vedtatt i 2024. Dette
+arbeidet pågår nå i Forsvarsdepartementet, og som et ledd i dette
+har regjeringen også dialog med Stortinget.</A>
+            <A Type="Minnrykk">Ubåter er en høyt prioritert kapasitet i forsvaret
+av Norge og NATOs nordlige flanke. Russland opprettholder betydelige
+sjømilitære styrker og strategiske kapasiteter på Kolahalvøya, og
+ubåtstyrker og langtrekkende våpen i nordområdene er fortsatt høyt
+prioritert.</A>
+            <A Type="Minnrykk">Stortinget besluttet gjennom behandlingen av
+langtidsplanen i 2024 at antallet ubåter skulle økes fra fire til
+seks. Proposisjonen inneholder derfor et forslag om at kostnadsrammen
+for ubåt-prosjektet økes til ca. 100 mrd. 2026-kroner.</A>
+            <A Type="Minnrykk">Hærens eksisterende feltartilleri har en maksimal
+rekkevidde på 40 km. Dette gir ikke en tilstrekkelig avskrekkende effekt.
+Fra Ukraina-krigen har vi sett hvor viktig lang rekkevidde er for
+krigføringen, og av den grunn er en rask anskaffelse av langtrekkende
+presisjonsild viktig for tidlig å styrke norsk og alliert evne til
+avskrekking.</A>
+            <A Type="Minnrykk">Det planlegges anskaffet 16 systemer med et
+større antall missiler innenfor en kostnadsramme på ca. 19,5 mrd.
+2026-kroner. Forsvarsmateriell har gjennomført en prosess for anskaffelse
+av langtrekkende ild gjennom konkurranse i markedet. Det ble mottatt
+tre kommersielle tilbud og et FMS-tilbud, Foreign Military Sales-tilbud,
+fra USA. Den koreanske tilbyderen, Hanwha, tilfredsstilte alle kravene
+og ble invitert til kontraktsforhandlinger.</A>
+            <A Type="Minnrykk">Valget av leverandør av langtrekkende ild står
+mellom en koreansk og en amerikansk leverandør. Stortingets beslutning her
+i dag avgjør om en kontrakt med én av de to leverandørene kan signeres
+i løpet av få dager, eller om en helt ny anskaffelsesprosess må
+iverksettes.</A>
+            <A Type="Minnrykk">Et mindretall i komiteen fremmer forslag om
+at regjeringen må sørge for at det norsk-europeiske alternativet
+vurderes fullt ut i tråd med Nasjonal sikkerhetsstrategi, og at
+regjeringen må komme tilbake til Stortinget på egnet måte. Dette
+alternativet er allerede fullt ut vurdert, men det tilfredsstilte ikke
+sentrale krav til anskaffelsen. Dersom en ny leverandørkonstellasjon
+skal tas inn igjen i konkurransen, må en helt ny anskaffelsesprosess
+startes opp. Dette alternativet innebærer usikkerhet om både kostnad,
+ytelse og ikke minst tid. Forsvarsdepartementet vurderer at en oppstart
+av en ny konkurranse innebærer at en kontrakt ikke kan signeres
+før sent i 2027.</A>
+            <A Type="Minnrykk">Gjennom komiteens behandling av innstillingen
+har et mindretall pekt på at forsyningslinjer som strekker seg helt over
+til den andre siden av jordkloden, ikke er tilfredsstillende. Dette
+er et godt moment. I den forbindelse vil jeg nevne at Polen har
+signert kontrakt for leveranse av nesten 300 systemer fra Sør-Korea.
+Til sammenligning skal vi kjøpe 16 systemer i tilbudet. Polen tenkte
+også på forsyningssikkerheten da de inngikk sin kontrakt, og har
+signert avtale med Sør-Korea om lokal produksjon av missiler i Polen.
+Dette vil også vi kunne benytte oss av.</A>
+            <A Type="Minnrykk">Jeg er glad for at et flertall i komiteen slutter
+seg til regjeringens forslag om anskaffelse av ubåter og langtrekkende presisjonsild.
+De to prosjektene er viktige for å opprettholde og videreutvikle
+et troverdig og relevant forsvar i en krevende sikkerhetspolitisk
+tid.</A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [10:51:15]:</Navn> Det blir replikkordskifte.</A>
+          </Presinnlegg>
+          <Replikk Id="i1002499">
+            <A>
+              <Navn personID="BFA">
+Bengt Fasteraune (Sp) [10:51:52]:</Navn> Spørsmålet dreier seg overraskende
+nok om langsiktig presisjonsild. Jeg sier både «langsiktig» og «langtrekkende»,
+for det er litt av dilemmaet vårt i denne saken. Jeg ønsker å få
+et svar på følgende spørsmål: Hvilke forutsetninger om forpliktende
+avtaler om industrisamarbeid ligger til grunn i dette prosjektet?</A>
+          </Replikk>
+          <Replikk Id="i1002501">
+            <A>
+              <Navn personID="TORSAN">
+Statsråd Tore Onshuus Sandvik [10:52:18]:</Navn> I samtalene og
+forhandlingene med det koreanske alternativet ligger det inne en
+konkret forpliktelse om 100 pst. gjenkjøp, men koreanske myndigheter
+har økt det til 120 pst. Det er også pekt på store industrimuligheter
+i Norge knyttet til denne avtalen. Det ligger også industrimuligheter
+i andre tilbud, men det er viktig å huske at den samme gjenkjøpsforpliktelsen gjelder
+uansett hvilket tilbud vi velger, med unntak av det amerikanske,
+som ikke opererer med gjenkjøpsforpliktelser.</A>
+          </Replikk>
+          <Replikk Id="i1002503">
+            <A>
+              <Navn personID="BFA">
+Bengt Fasteraune (Sp) [10:52:59]:</Navn> Et slikt kjøp gir en helt
+ny dimensjon i det norske forsvaret, spesielt for Hæren, som flere
+har påpekt. Når vi snakker om en ny dimensjon, er dette også strategisk
+på alle mulige måter. </A>
+            <A Type="Minnrykk">Er det lagt opp til forpliktelser på myndighetsnivå
+i denne typen anskaffelse, og sikrer industrisamarbeidet gjensidig
+tilgang til både Norges og leverandørens forsvarsmarkeder?</A>
+          </Replikk>
+          <Replikk Id="i1002505">
+            <A>
+              <Navn personID="TORSAN">
+Statsråd Tore Onshuus Sandvik [10:53:30]:</Navn> Gjenkjøpet er jo
+knyttet til at vi kjøper landbasert langtrekkende presisjonsild
+fra Sør-Korea, og så forplikter leverandøren seg til å bidra til
+gjenkjøpet i Norge. Det legges opp til 120 pst. gjenkjøp på ulike
+områder, og det legges også opp til at integrasjon av andre typer
+missiler kan inngå i gjenkjøpet. Det er lagt opp til en bred gjenkjøpsprosess
+også knyttet til det koreanske alternativet.</A>
+          </Replikk>
+          <Replikk Id="i1002507">
+            <A>
+              <Navn personID="BFA">
+Bengt Fasteraune (Sp) [10:54:07]:</Navn> Jeg stilte også spørsmål
+om en slik avtale sikrer at vi får tilgang til det koreanske markedet.
+Det har vel vært en utfordring når vi tidligere har kjøpt koreansk
+materiell. Har dette vært en del av forhandlingene?</A>
+          </Replikk>
+          <Replikk Id="i1002509">
+            <A>
+              <Navn personID="TORSAN">
+Statsråd Tore Onshuus Sandvik [10:54:29]:</Navn> Det har ikke jeg
+detaljer om. Vi er i løpende dialog for å få tilgang til det koreanske
+markedet. Flere statsråder jobber opp mot Sør-Korea for å få gode
+vilkår for både eksport til og import fra Sør-Korea. Sør-Korea er
+en viktig alliert, og det er alltid drøftelser om ytterligere samarbeid
+med allierte, også i Stillehavsregionen, når vi er i slik dialog.
+Jeg hadde besøk av min koreanske kollega, og vi tok opp spørsmålet
+om tilgang til det koreanske markedet på flere områder, men i dette
+konkrete tilfellet snakker vi om gjenkjøp i Norge og eksportmulighetene
+for norsk materiell. Norsk forsvarsmateriell, som vi vet har godt
+gjennomslag internasjonalt, er alltid på bordet i slike samtaler.</A>
+          </Replikk>
+          <Replikk Id="i1002511">
+            <A>
+              <Navn personID="JONSAY">
+Jonas Andersen Sayed (KrF) [10:55:29]:</Navn> Jeg vil sitere fra
+regjeringens pressemelding om anskaffelse av ytterligere to ubåter:</A>
+            <Sitat Type="Minnrykk">
+              <A>«Tyskland er en av Norges viktigste
+samarbeidspartnere, en nær alliert og et land vi har mange felles
+interesser med. Det tysk-norske forsvarssamarbeidet understreker
+viktigheten av langsiktige, strategiske relasjoner for å møte et
+mer uforutsigbart sikkerhetsbilde. Det strategiske partnerskapet
+samler ressursene til to nære allierte om felles sikkerhetsutfordringer.
+Felles investeringer og prosjekter innenfor ubåtteknologi, stridsvogner
+og luftvern gir begge land bedre operative kapasiteter.»</A>
+            </Sitat>
+            <A Type="Minnrykk">Når regjeringen selv løfter fram strategiske
+partnerskap med nære europeiske allierte som avgjørende for å møte
+et mer uforutsigbart sikkerhetsbilde, blir det vanskelig å forstå at
+dette hensynet ikke er blitt tillagt vekt i anskaffelsen av langtrekkende
+presisjonsild. Mitt spørsmål til forsvarsministeren er: Hvorfor
+mener han og regjeringen at muligheten for strategiske partnerskap
+om langtrekkende ild ikke skal bli tillagt vekt i denne saken?</A>
+          </Replikk>
+          <Replikk Id="i1002513">
+            <A>
+              <Navn personID="TORSAN">
+Statsråd Tore Onshuus Sandvik [10:56:34]:</Navn> Aller først vil
+jeg takke representanten Sayed for et glitrende godt sitat. Det
+er veldig godt skrevet, og det er helt riktig: Vi samarbeider veldig
+tett med Tyskland. Vi kjøper nye ubåter sammen med Tyskland, vi
+kjøper sjømissiler sammen med Tyskland, vi har bestilt 54 nye stridsvogner
+– og de første er allerede vist fram for offentligheten – og vi
+kjøper omkring 500 nye lastebiler fra en tysk produsent. Våre soldater
+bruker tyske håndvåpen – der er flere titusen allerede innkjøpt
+– og vi kjøper også mange titalls pansrede beltekjøretøy og et tjuetall
+Leopard støttevogner. Listen med tysk materiell er veldig lang,
+og det strategiske samarbeidet med Tyskland er veldig nært.</A>
+            <A Type="Minnrykk">Samtidig er også Sør-Korea en viktig vestlig
+alliert med stor industrikapasitet og med veldig stor konvensjonell
+avskrekkingsevne. De er nabo til et atomland som er nokså ustabilt,
+så med den konvensjonelle industrikapasiteten gir også samarbeidet
+med Sør-Korea en viktig gardering for Norge.</A>
+          </Replikk>
+          <Replikk Id="i1002515">
+            <A>
+              <Navn personID="JONSAY">
+Jonas Andersen Sayed (KrF) [10:57:38]:</Navn> I mediene har forsvarsministeren
+kommentert at det norsk-tyske alternativet er utelatt fra konkurransen
+fordi det ikke oppfyller kriteriet om en rekkevidde på 500 kilometer.
+Senest i debatten i dag bekrefter han at det er to alternativer
+som ligger til behandling om denne proposisjonen skal bli vedtatt
+med forslaget fra regjeringen.</A>
+            <A Type="Minnrykk">Samtidig er det på det rene at det opprinnelige
+tilbudet fra USA, som var grunnlaget for hele anbudsprosessen, kun
+inneholdt raketter med 300 kilometers rekkevidde. Skjønner statsråden
+da at det kan framstå som om det reelt sett ikke har vært en konkurranse
+i denne saken?</A>
+          </Replikk>
+          <Replikk Id="i1002517">
+            <A>
+              <Navn personID="TORSAN">
+Statsråd Tore Onshuus Sandvik [10:58:19]:</Navn> Regjeringen er
+opptatt av å levere på det som er kriterier stilt av Forsvaret for
+å styrke norsk forsvarsevne og sikre tilstrekkelig avskrekking.
+Der er Forsvaret klare på at man ønsker langtrekkende ild med mulighet
+for å skyte 500 kilometer presist. Det er det mest avskrekkende.
+Leveransen må også inneholde både «launchere» og missiler. Det er
+ikke så avskrekkende bare å ha «launchere», man må også ha missiler
+for at det skal virke avskrekkende. Derfor vil regjeringen vektlegge
+det når beslutningen om endelig leverandør tas, og da vil også det
+være grunnlaget for den endelige beslutningen i denne saken.</A>
+          </Replikk>
+          <Replikk Id="i1002519">
+            <A>
+              <Navn personID="JONSAY">
+Jonas Andersen Sayed (KrF) [10:58:58]:</Navn> Litt i forlengelsen
+av det: Et poeng som jeg synes har vært litt underkommunisert i
+debatten den siste måneden, er hvordan Norge ikke bare går glipp
+av en stor mulighet når den norsk-europeiske løsningen blir vraket,
+men at regjeringen også aktivt motvirker vår egen forsvarsindustri.
+Som forsvarsministeren var inne på i et av sine svar nå, bidrar
+jo Norge og Kongsberg sammen med Tyskland inn i utviklingen av missilet
+3SM, med en rekkevidde på over 1 000 kilometer. Dette missilet er tett
+knyttet sammen med anskaffelsen av ubåter, men blir utviklet for
+både ubåt og landbasert utskytning. For utviklingen bidrar Norge
+og Tyskland sammen med 6,5 mrd. kr hver.</A>
+            <A Type="Minnrykk">Det er kjent at det norsk-europeiske systemet
+vil være fullt kompatibelt med Kongsbergs missiler, mens det blir
+oss fortalt at det foreligger store fysiske begrensninger i både
+det sørkoreanske og det amerikanske alternativet. Kan statsråden garantere
+at Norge ikke vil ende med et system der Kongsbergs missiler, som
+vi allerede investerer tungt i, i praksis ikke vil kunne bli benyttet?</A>
+          </Replikk>
+          <Replikk Id="i1002521">
+            <A>
+              <Navn personID="TORSAN">
+Statsråd Tore Onshuus Sandvik [11:00:10]:</Navn> Ulike tilbud til
+Norge i dette samarbeidet sier at man kan integrere og inkludere
+ulike missiltyper. Det er også åpnet for at det koreanske skal kunne
+inkludere NSM, men det vi anskaffer nå, er ikke NSM – det vi anskaffer
+nå, er langtrekkende presisjonsild. NSM er et annet målmissil og
+ligger senere i anskaffelsen fra Forsvaret, men det legges også
+opp til å kunne integrere det.</A>
+            <A Type="Minnrykk">Ved forsvarsanskaffelser stilles det ofte krav
+til industrisamarbeid, og for anskaffelsen av langtrekkende ild
+er kravet minimum 100 pst. industrisamarbeid tilsvarende verdien
+i kontrakten, noe som skal gjelde uansett hvilken leverandør som
+velges. Koreanske myndigheter har tilbudt 120 pst.</A>
+            <A Type="Minnrykk">Det er også viktig at norsk industri gis markedsadgang gjennom
+et sånt prosjekt, og at Forsvaret derfor forhandler egne avtaler
+om det. Det inkluderer også ytterligere bredde på norske missilsystemer,
+og 3SM-samarbeidet med Tyskland vil selvsagt fortsatt gå framover
+og styrke norsk forsvarsevne og tysk-norsk samarbeid også på sikt.</A>
+          </Replikk>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:01:12]:</Navn> Replikkordskiftet
+er omme.</A>
+            <A Type="Minnrykk">De talere som heretter får ordet, har en taletid
+på inntil 3 minutter.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1002523">
+            <A>
+              <Navn personID="GEOGUL">
+Georg Gulli (KrF) [11:01:29]:</Navn> Det er en urolig verden vi
+lever i i dag. Forsvaret skal styrkes og få nye kapabiliteter til
+å utøve norsk suverenitet. Likevel må vi se større på norsk forsvarspolitikk.
+Forsvaret av Norge vil ikke bare handle om antall soldater på bakken,
+men også om hvorvidt vi har en robust økonomi og verdikjeder som
+står seg i både krise og krig. Koronapandemien, krigen i Ukraina
+og blokkeringen av Suezkanalen viser hvor sårbare internasjonale
+verdikjeder faktisk kan være. Derfor blir det helt feil å kjøpe
+langtrekkende presisjonsild fra et land på andre siden av jordkloden. </A>
+            <A Type="Minnrykk">Det er litt over ett år siden jeg selv dimitterte
+fra min egen førstegangstjeneste i Hæren. Det jeg lærte der, var
+at det er viktig med nytt og flott utstyr, men det kan aldri erstatte
+menneskene. I det moderne forsvaret av Norge vil vi fortsatt trenge
+menn og kvinner som setter noe større foran seg selv. Det gjelder
+vel så mye i forskning og utvikling som i det operative feltet.
+Vi har et ansvar for å løfte ikke bare norsk forsvarsindustri, men
+også europeisk forsvarsindustri, i rammen av NATO. Vi har gjennom
+flere år med krig i Ukraina sett hvor viktig det er å kunne treffe
+fienden bak deres egne linjer.</A>
+            <A Type="Minnrykk">Dette er ikke en enkel anskaffelse, men en
+helt nødvendig kapasitet for det norske Forsvaret. Derfor har det
+noe å si hvor anskaffelsene Forsvaret skal gjøre, kommer fra. Regjeringen
+legger stor vekt på det norsk-tyske sikkerhetssamarbeidet i anskaffelsen
+av ubåter, og vi i KrF støtter innkjøpet av to ekstra ubåter, nettopp
+fordi dette samarbeidet er så viktig.</A>
+            <A Type="Minnrykk">Jeg undrer meg når regjeringen ikke vektlegger
+det samme strategiske samarbeidet med Tyskland når det kommer til presisjonsild,
+for hva er forskjellen? De logistiske utfordringene er de samme,
+og viktigheten av europeisk samarbeid er også like viktig. Innkjøpene
+vi står overfor, må være tettere innvevd i egen økonomi, så vi kan
+sikre norske arbeidsplasser og være med og forme utviklingen, samtidig
+som vi styrker båndene med våre egne allierte på eget kontinent. </A>
+            <A Type="Minnrykk">Norge har en mulighet til å være med og kjøpe
+europeisk langtrekkende presisjonsild, en anskaffelse som ville
+styrket det europeiske samarbeidet og gitt nasjonal kunnskap til
+en strategisk viktig industri. Derfor håper jeg at denne salen står sammen
+med KrF og andre partier i å velge europeiske partnere i anskaffelsen
+av presisjonsild. </A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:03:42]:</Navn> Flere har ikke
+bedt om ordet til sak nr. 6.</A>
+          </Presinnlegg>
+          <Referanse Id="i1002525" voteringsDato="2026-01-27" debattDato="2026-01-27" saksKartNr="6" />
+        </Sak>
+        <Sak Id="i1002527" saksKartNr="7" sakID="105878">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak
+nr. </Uth>7 [11:03:46]</Saknr>
+            <Saktittel Id="i1002531">
+              <A>Næringsministerens handelspolitiske
+redegjørelse</A>
+            </Saktittel>
+          </Sakshode>
+          <Hovedinnlegg Id="i1002533">
+            <A>
+              <Navn personID="CTM">
+Statsråd Cecilie Myrseth [11:04:14]:</Navn> Først vil jeg takke
+Stortinget for å sette av tid til en gjennomgang av den handelspolitiske
+situasjonen på vegne av regjeringen. Ansvaret for handelspolitikken
+er delt mellom utenriksministeren og meg, og påvirker flere departementer. </A>
+            <A Type="Minnrykk">Det er urolige tider. Sikkerhetspolitikk, energipolitikk
+og handelspolitikk veves stadig tettere sammen, noe vi også har sett
+tydelig de siste ukene. Prinsippene for internasjonal handel er
+i rask og uforutsigbar utvikling. Dette er krevende for mange norske
+bedrifter. Det gjør det viktigere enn noen gang å stå opp for norsk
+næringslivs interesser og styrke samarbeidet med våre handelspartnere. </A>
+            <A Type="Minnrykk">Norge har en åpen økonomi, og vi er avhengig
+av internasjonal handel for å sikre vår velferd, verdiskaping og
+økonomiske utvikling. Handel er viktig for norsk næringsliv, norske
+arbeidsplasser, små og store lokalsamfunn – ja, for norsk økonomi
+i sin helhet. Om lag 640 000 norske arbeidsplasser er knyttet til
+eksport. Det er om lag hver femte jobb i Norge, og 30 000 flere
+enn for bare to år siden. I fjor tilsvarte verdien av utenrikshandelen
+80 pst. av norsk verdiskaping. Andelen har vokst betydelig de siste
+årene. For bare ti år siden lå utenrikshandelen på under 70 pst.
+av verdiskapingen. Utviklingen gjenspeiler at norsk eksport har
+utviklet seg de siste årene, på tross av uro internasjonalt. </A>
+            <A Type="Minnrykk">Norske bedrifter bidrar med produkter og løsninger
+som verden etterspør, ikke minst til teknologi og løsninger som
+er viktige i et lavutslippssamfunn. En rekke kjente norske industrivirksomheter,
+som Hydro, Yara og Kongsberg Gruppen, eksporterer nesten alt de
+produserer, f.eks. aluminium til bilindustrien i Tyskland og kunstgjødsel
+til bønder over hele verden. </A>
+            <A Type="Minnrykk">På en liten landevei på Sørlandet går lastebillass
+inn til fabrikken til GE HealthCare på Lindesnes, med jod fra Chile, og
+kjører ut igjen med svært avansert røntgenkontrastmiddel. GE HealthCare
+produserer innsatsfaktorer til kontrastvæske som brukes i behandling
+av millioner av pasienter over hele verden hver eneste dag, faktisk
+til fire pasienter hvert sekund. Så har vi Jotun, som i dag er en
+av verdens ledende produsenter av maling og pulverlakk. Fra Jotuns
+hovedkontor i Sandefjord ledes omkring 40 produksjonsanlegg i forskjellige
+land og forhandlere i mer enn 100 land. Jotun blir faktisk hundre år
+i år. Gratulerer til en vital, global jubilant! </A>
+            <A Type="Minnrykk">Det er imidlertid ikke bare varer vi eksporterer.
+Reiseliv er Norges femte største eksportnæring, noe vi har lett
+for å glemme fordi omsetningen skjer her på hjemmebane. I 2025 ble
+det satt overnattingsrekorder måned etter måned, og veksten er først
+og fremst drevet av gjester fra utlandet. Hurtigruten er kanskje
+det mest kjente reiselivsproduktet internasjonalt, men jeg har selv
+nylig møtt både Northern Norway Travel i Tromsø, Trasti og Trine
+i Alta og SkiStar i Trysil. De leverer også reiselivsprodukter som
+er etterspurt i utlandet. </A>
+            <A Type="Minnrykk">Eksportarbeidsplasser finnes over hele verden,
+fra små industrikommuner på Vestlandet, til kystsamfunn som lever av
+sjømathandel, og ikke minst i reiselivsnæringen, hvor små og store
+bedrifter bidrar til verdiskaping og aktivitet i hele landet. Flere
+av de mest eksportintensive kommunene er også noen av de minst sentrale
+i Norge, som Årdal, Leka, Flatanger og Eidfjord. De har hjørnesteinsbedrifter
+som er helt avhengig av å kunne selge produkter og importere viktige
+innsatsfaktorer fra utlandet. </A>
+            <A Type="Minnrykk">Samtidig vet vi også at eksport er viktig for
+de største byene. Oslo, Bergen, Stavanger og Bærum var kommunene
+med høyest eksport i 2024. Med andre ord: Når den handelspolitiske
+situasjonen endres, påvirker det bedrifter og ansatte over hele
+landet – ja, det påvirker oss alle sammen. </A>
+            <A Type="Minnrykk">For regjeringen er det en hovedoppgave å ivareta
+Norge og norsk næringslivs interesser i et nytt handelspolitisk
+landskap, og vi arbeider langs flere ulike spor:</A>
+            <Liste Type="Num">
+              <Pkt>
+                <A>ivareta norske interesser i møte med
+økte tollsatser og handelshinder </A>
+              </Pkt>
+              <Pkt>
+                <A>stå opp for det regelbaserte handelssystemet, styrke samarbeidet
+med våre nærmeste handelspartnere og jobbe fram nye avtaler </A>
+              </Pkt>
+              <Pkt>
+                <A>redusere importavhengigheter og styrke vår økonomiske sikkerhet </A>
+              </Pkt>
+              <Pkt>
+                <A>arbeide for å styrke norsk næringslivs konkurranseevne og
+økonomiske sikkerhet i en urolig tid </A>
+              </Pkt>
+            </Liste>
+            <A Type="Minnrykk">Jeg vil i det videre redegjøre nærmere for
+hvordan vi jobber på disse områdene. </A>
+            <A Type="Minnrykk">Konkurransekraften må styrkes samtidig som
+innovasjonstakten økes og grønn omstilling gjennomføres. Vi står overfor
+store og økende klima- og miljøutfordringer. Klima- og miljøutfordringene
+utgjør en sikkerhetsrisiko som påvirker ressurstilgang, velferd
+og regimestabilitet globalt. Handelspolitikken må derfor også ivareta
+klima- og miljøhensyn og bidra til omstilling. </A>
+            <A Type="Minnrykk">La meg si litt mer om utfordringsbildet. Norge
+har en markedsbasert økonomi som i alle år har fulgt spillereglene for
+internasjonal handel. Samtidig anerkjenner vi at disse spillereglene
+ikke alltid har vært tilstrekkelig for å sikre rettferdig konkurranse
+globalt. Kina har bygd opp produksjonskapasitet som på flere områder
+overgår etterspørselen på verdensmarkedet. Det har gitt Kina markedsdominans
+og har over tid bidratt til fallende globale priser som utfordrer
+den markedsbaserte industrien i Europa og USA. Kinas handelsoverskudd nådde
+i desember i fjor over 1 000 mrd. dollar – det høyeste noen gang.
+En sånn ubalanse i verdenshandelen er utfordrende og har skapt reaksjoner
+blant flere av verdens ledere. </A>
+            <A Type="Minnrykk">Når USA treffer tiltak mot kinesisk import
+for å redusere utfordringene for sin egen industri, må Kina finne
+avsetning på andre markeder. Som vi har sett, har det ført til betydelig press
+på Europa. I løpet av de senere årene er det mange eksempler på
+at land har utnyttet importavhengigheter for å presse fram fordeler
+for seg selv.</A>
+            <A Type="Minnrykk">I 2025 varslet Kina nye restriksjoner på eksport
+av enkelte sjeldne jordarter og materialer til framstilling av elektronikk,
+magneter og batterier. Kina står for over 90 pst. av verdens produksjon
+av bearbeidede sjeldne jordarter og magneter laget av dem. Disse
+grunnstoffene er avgjørende i alt fra elbiler og vindturbiner til
+flymotorer og radarer. Tiltakene ble delvis ansett som respons på
+USAs utvidelse av eksportrestriksjonene og toll mot Kina, men må
+også ses i lys av en voksende global handelskonflikt. Etter toppmøtet
+mellom president Xi og president Trump i oktober 2025 utsatte Kina sine
+tiltak, og Trump nedskalerte de amerikanske handelsrestriksjonene
+mot Kina. </A>
+            <A Type="Minnrykk">Dette er et eksempel på at sårbarheter i globale
+verdikjeder utnyttes i rivaliseringen mellom stormaktene. De annonserte
+kinesiske eksportrestriksjonene i fjor hadde ikke bare vært negative
+for industrien i USA, men også for industrien i Europa, f.eks. bilindustrien. </A>
+            <A Type="Minnrykk">Veldig mange norske industribedrifter har europeisk
+industri som viktigste kunde. Sånne tiltak fører derfor til negative
+ringvirkninger i Norge. Forstyrrelsene i globale forsyningskjeder
+kan slå spesielt negativt ut for et land med en åpen økonomi, som
+Norge. På samme måte som resten av verden vil norske virksomheter
+være avhengig av varer fra Kina, som har skaffet seg en dominerende
+posisjon innen elektronikk, sjeldne jordarter og kritiske mineraler.
+Det skaper sårbarheter for norsk økonomi. </A>
+            <A Type="Minnrykk">Endringene i handelspolitikken skjer i høyt
+tempo. Det skaper stor usikkerhet. De siste årene har USA innført
+økte tollsatser på import av varer, også fra Norge. Vi har fått
+en tilleggstoll på 15 pst. USA har også innført såkalt sektortoll
+på enkelte varegrupper, som stål, aluminium, biler og trevarer, for
+å nevne noe. Det meste av sektortollen som er innført så langt,
+er i størrelsesordenen 25–50 pst. USA har også varslet en tollsats
+på 100 pst. på importerte varemerkebeskyttede eller patenterte legemidler.
+Unntak skal gjelde for legemiddelprodusenter som bygger fabrikker
+i USA. Om denne sektortollen faktisk blir innført, vet vi ikke sikkert. </A>
+            <A Type="Minnrykk">Forrige uke var det også trusler om økt toll
+som følge av situasjonen på Grønland. Her er vi ved noe av kjernen:
+uforutsigbarhet. Dette skaper usikkerhet. USA gjør stadig endringer
+eller truer med endringer. </A>
+            <A Type="Minnrykk">Enkelte land har fått en lavere tollsats fra
+USA enn det som først var besluttet. Det kommer som resultat av
+inngåtte rammeavtaler. Rammeavtalene USA har inngått med EU og Japan,
+medfører f.eks. at USA setter et tak på 15 pst. toll for de fleste
+produkter. Vi ser eksempler på at rammeavtaler kommer på plass etter
+at det ble gitt betydelige innrømmelser, f.eks. løfter om investeringer
+i USA. Rammeavtalene følges opp med forhandlinger om mer detaljerte
+avtaler om handel, men de ser ut til å trekke ut i tid. </A>
+            <A Type="Minnrykk">Norge har hatt dialog med amerikanerne om en
+felleserklæring for handel. I denne dialogen har vi strukket oss
+langt innenfor våre forpliktelser etter WTO og EØS. En felleserklæring
+ble forhandlet fram med amerikanske handelsrepresentanter sommeren
+2025, men det er ikke tatt noen endelig beslutning i den amerikanske
+administrasjonen. </A>
+            <A Type="Minnrykk">Regjeringen ønsker at norsk næringsliv har
+så gode rammebetingelser som mulig. Vi inngår ikke en avtale med
+USA for enhver pris, men vi vil opprettholde dialogen med USA. </A>
+            <A Type="Minnrykk">For Norge er det kun en relativt liten prosentandel
+av eksporten som rammes direkte. Om lag 4 pst. av norsk vareeksport
+går direkte til USA. Av dette er det rundt 60 pst. som har fått
+økt toll. Selv om andelen er lav, er det likevel sånn at enkelte
+selskaper er hardt rammet. Det gjelder enkelte selskaper i sjømatnæringen,
+men også bedrifter i andre næringer, som tekstilnæringen og eksportører
+av teknisk utstyr, maskiner og kjemikalier. </A>
+            <A Type="Minnrykk">For noen varegrupper som er viktige for Norge,
+er det fortsatt nulltoll inn til USA. Eksempler på det er petroleum, enkelte
+mineraler og noen andre varer. Andre sektorer har fått høyere satser.
+For metaller som stål og aluminium er tollen 50 pst. Eksporten fra
+Norge til USA for disse varene er lav. </A>
+            <A Type="Minnrykk">Til tross for økt toll på norske varer til
+USA økte vareeksporten til USA med 10 pst. i fjor. Samtidig ser
+vi at den største delen av økningen skjedde i første kvartal av
+2025, altså før mange av tolløkningene ble innført. Det er altså
+for tidlig å trekke klare konklusjoner om effektene av den økte
+tollen på eksporten til USA. I tillegg kommer de indirekte effektene. </A>
+            <A Type="Minnrykk">EU har betydelig mer handel med USA enn Norge.
+Samtidig er EU Norges desidert største eksportmarked. En negativ økonomisk
+utvikling i EU vil ha negative ringvirkninger i Norge. Da EU og
+USA i sommer kom fram til en rammeavtale, avverget det en større
+handelskonflikt. En rammeavtale og en mulig framtidig handelsavtale
+mellom EU og USA kan få betydning for norsk eksport. Dersom norske
+innsatsfaktorer fortsatt kan benyttes i europeiske produkter som
+skal eksporteres til USA, er det positivt for norsk eksport. </A>
+            <A Type="Minnrykk">Selv om norsk eksport så langt har utviklet
+seg sterkt, blir hele næringslivet preget av usikkerheten og uforutsigbarheten vi
+nå står overfor. Norges viktigste handelspolitiske interesse er
+forutsigbare rammebetingelser basert på omforente spilleregler for
+internasjonal handel. Hovedsporene i norsk handelspolitikk ligger
+derfor fast: </A>
+            <Liste Type="Strek">
+              <Pkt>
+                <A>det multilaterale og regelbaserte
+handelssystemet forankret i WTO </A>
+              </Pkt>
+              <Pkt>
+                <A>EØS-avtalen, som har vært viktig for norsk økonomi og velferd
+i over 30 år</A>
+              </Pkt>
+              <Pkt>
+                <A>handelsavtaler og næringsfremme som sikrer tilgang til viktige
+markeder </A>
+              </Pkt>
+            </Liste>
+            <A Type="Minnrykk">Norge står ikke alene i forsvaret av et regelbasert
+handelssystem. Sammen med det store flertallet av WTOs medlemmer
+arbeider Norge for å bevare og styrke det regelbaserte handelssystemet
+gjennom meningsfull reform av Verdens handelsorganisasjon. Målsettingen
+på kort sikt er å oppnå enighet om veien videre for reformarbeidet
+under WTOs 14. ministerkonferanse i Kamerun i slutten av mars, hvor
+utenriksministeren vil være til stede. </A>
+            <A Type="Minnrykk">Innsatsen for å sikre forutsigbare rammebetingelser
+for internasjonalt økonomisk samkvem ligger også til grunn for Norges
+deltakelse i andre fora, som OECD og G20, der Norge har deltatt
+som gjesteland de siste to årene. </A>
+            <A Type="Minnrykk">EØS-avtalen er Norges mest omfattende internasjonale handelsavtale.
+Avtalen bidrar til å trygge våre interesser, rettigheter og økonomi,
+og EØS-avtalen og det indre markedet utvider det norske hjemmemarkedet
+til å omfatte alle 30 EØS-land og mer enn 450 millioner mennesker.
+Hele to tredjedeler av norsk vareeksport går til EU. Vi har tall
+som viser at EØS-avtalen har økt handelen mellom Norge og EU i størrelsesordenen
+35–65 pst., og gitt en økning i realinntekter i Norge på 2–6 pst. </A>
+            <A Type="Minnrykk">At Norge gjennom EØS-avtalen er en integrert
+del av EUs indre marked, er avgjørende for norsk konkurranseevne og
+verdiskaping. Det er også viktig for Norge at det indre markedet
+er velfungerende og sikrer rettferdighet og like konkurransevilkår
+også for norsk næringsliv. EUs strategiske fokus har lenge vært
+bygget på et velfungerende indre marked med fri bevegelse av varer,
+tjenester, kapital og personer. Det indre markedet utvikles nå som
+verktøy for oppnåelse av andre viktige samfunnsmål, som grønn og
+digital omstilling og strategisk autonomi. </A>
+            <A Type="Minnrykk">I dagens pressede handelspolitiske situasjon
+legger EU vekt på å beskytte egen industri og sin økonomiske sikkerhet. De
+jobber for et sikkert, motstandsdyktig og selvforsynt Europa. Vi
+ser at EU utvikler sin handelspolitiske verktøykasse og bruker den
+mer aktivt. Et eksempel på det er den mye omtalte saken om EUs beskyttelsestiltak
+mot import av ferrolegeringer i form av kvoter og minstepris. Sånne
+tiltak skaper usikkerhet og uforutsigbarhet, både for vår økonomiske
+integrasjon og for felleseuropeiske verdikjeder som vi er en del av.
+Det er altså ikke tiltak som er spesielt rettet mot Norge og Island,
+selv om vi treffes av dem. </A>
+            <A Type="Minnrykk">Vi vet også at EU arbeider med forslag om eksportrestriksjoner
+for skrapmetall. Det er en annen type sak enn spørsmålet om beskyttelsestiltak
+på ferrolegeringer. Det er for tidlig å si noe om hvordan eventuelle
+tiltak kan bli utformet, og dermed om og hvordan det kan påvirke
+norske aktører. </A>
+            <A Type="Minnrykk">Vi deler mange av EUs bekymringer knyttet til
+konsekvensene av global overkapasitet for europeisk industri, men vår
+tilnærming er at tiltak må utformes sånn at de også ivaretar felleseuropeiske
+verdikjeder, for det indre markedet består av 30 land, ikke bare
+EUs 27. Som utenriksministeren understreket i EU/EØS-redegjørelsen
+i november, blir vår viktigste oppgave i europapolitikken i tiden
+framover å jobbe sammen med våre EØS/EFTA-partnere opp mot EU for
+å ivareta integriteten til det indre markedet og dermed sikre norsk
+næringsliv forutsigbarhet for markedsadgang også i en ny tid. </A>
+            <A Type="Minnrykk">For regjeringen er det en viktig prioritet
+å verne om prinsippene om fri bevegelse av varer, tjenester, arbeidskraft
+og kapital i EØS og sikre et velfungerende indre marked med EU.
+Dette er en avgjørende faktor for vekstevnen til norsk økonomi.
+Når vi skal sikre norsk deltakelse i europeiske initiativer som
+ligger utenfor EØS-avtalen, men som vi har en interesse av å delta
+i, kreves det økt politisk innsats og en proaktiv tilnærming overfor
+EU, men også direkte overfor EUs egne medlemsland. Jeg har nylig
+vært i både Tyskland og Frankrike for å følge opp og konkretisere
+de strategiske partnerskapene som statsministeren har inngått. Flere
+reiser og besøk planlegges i tiden framover. </A>
+            <A Type="Minnrykk">Industripartnerskapene inngått med bl.a. EU,
+Tyskland og Frankrike er konkrete verktøy for å styrke verdikjedene som
+er strategisk viktige for Norge og våre partnere. Disse partnerskapene
+åpner for økt verdiskaping, teknologisamarbeid og nye markedsmuligheter
+for norsk næringsliv. La meg nevne romfart som et konkret eksempel.
+Norge posisjonerer seg godt i det internasjonale markedet for romvirksomhet
+og har styrket sin posisjon, ikke minst gjennom industripartnerskapet
+med Tyskland, som jeg er sikker på at næringskomiteen fikk god innsikt
+i på sin viktige tur til Tyskland nylig. Tyske Isar Aerospace har
+inngått langsiktig samarbeidsavtale med Andøya Space og ventes i
+løpet av kort tid å skyte opp sine første satellitter i bane fra
+Andøya Spaceport. </A>
+            <A Type="Minnrykk">Kongsberg Defence &amp; Aerospace har inngått
+samarbeidsavtaler med de tyske industriselskapene Helsing og Hensoldt,
+som kan bli kjernen i et stort og gjensidig lønnsomt norsk-tysk
+industrisamarbeid. Det handler om å styrke og videreutvikle kritiske
+verdikjeder som vi er avhengig av at vi jobber sammen om i Europa,
+når vi presses fra både øst og vest. </A>
+            <A Type="Minnrykk">Vi sier at den bilaterale dialogen som industripartnerskapene
+har lagt til rette for, har stor betydning når det gjelder å navigere
+i dagens krevende geopolitiske situasjon. Møtene med mine europeiske
+kollegaer tilrettelegger for politisk dialog, næringsfremme og synliggjøring
+av Norge som fullverdig partner i det indre markedet gjennom EØS-avtalen,
+og sånn jobber også mange av mine kollegaer i regjeringen. Framstøtene
+skjer i samarbeid med arbeidslivets parter, næringslivet og selvfølgelig
+virkemiddelaktørene. </A>
+            <A Type="Minnrykk">Økonomisk sikkerhet er et tema som er høyt
+på dagsordenen hos både oss og våre nærmeste allierte. Europeiske
+interesser og utfordringer er i svært stor grad også norske interesser
+og utfordringer. Som deltaker i det indre markedet ønsker vi å videreutvikle
+samarbeidet med EU og knytte oss tett til EUs agenda for økonomisk
+sikkerhet. Det gjør vi sammen med våre EØS/EFTA-partnere Island
+og Liechtenstein. </A>
+            <A Type="Minnrykk">Sammen med utenriksministeren følger jeg nå
+opp dialogen om økonomisk sikkerhet med Europakommisjonen. Norge
+må være synlig. EU må kjenne oss godt, og vi må utveksle informasjon
+og erfaringer. På den måten sikrer vi våre interesser best. </A>
+            <A Type="Minnrykk">Den geopolitiske situasjonen og det sikkerhetspolitiske bildet
+er alvorlig. Det påvirker også vår økonomiske politikk. Regjeringen
+tar økonomisk sikkerhet på alvor. Vi har løftet det til én av tre
+hovedprioriteringer i Nasjonal sikkerhetsstrategi, og det er en
+del av regjeringens plan for Norge. </A>
+            <A Type="Minnrykk">Regjeringen har de siste årene jobbet på mange
+områder for å håndtere de økende sikkerhetsrisikoene som følger
+med å være et lite land med en åpen økonomi. Arbeidet med økonomisk
+sikkerhet er ikke nytt, men for første gang jobber vi systematisk
+med det innenfor en helhetlig tilnærming til nasjonal sikkerhet.
+I en verden der geopolitikk, sikkerhet og økonomi i større grad
+henger sammen, er det et viktig grep for å trygge Norge. </A>
+            <A Type="Minnrykk">Målet har hele tiden vært, og er fortsatt,
+å ha en økonomi som er så åpen som mulig, samtidig som vi ivaretar
+våre nasjonale sikkerhetsinteresser. Et eksempel er Bergen Engines-saken,
+der en russisk aktør med koblinger til Kreml forsøkte å kjøpe opp
+en strategisk viktig norsk bedrift. Det viste behovet for et bedre
+system for å fange opp potensielt sikkerhetstruende økonomisk aktivitet. </A>
+            <A Type="Minnrykk">Vi jobber nå med å ferdigstille en ny lov om
+investeringskontroll. Den vil bidra til forutsigbarhet for investorer
+og balanserer godt at Norge skal forbli et attraktivt land for utenlandske
+investeringer samtidig som hensyn til nasjonal sikkerhet er ivaretatt.
+Vi har også styrket sikkerhetsloven og opprettet en ny etat for
+eksportkontroll og sanksjoner. </A>
+            <A Type="Minnrykk">Hendelser i høst, bl.a. varslede kinesiske
+restriksjoner på eksport av sjeldne jordarter og magneter til bruk
+i industrien, har illustrert hvordan tilsiktede handlinger i andre
+land kan skape problemer for europeisk industri. Framover vil vi
+jobbe for å få en bedre oversikt over importavhengigheter i næringer
+som er av særlig betydning for norsk sikkerhet og verdiskaping.
+Det arbeidet vil gi et viktig grunnlag for å avgjøre hvordan vi
+kan redusere sårbarheter og styrke våre handelsforbindelser framover. </A>
+            <A Type="Minnrykk">La meg samtidig minne om at Norge også er en
+viktig partner for andre land som har importavhengigheter mot Norge.
+Norge er eksempelvis Europas største produsent av naturlig grafitt,
+som utvinnes på Senja i Troms. Grafitt står på EUs liste over kritiske
+råmaterialer og er viktig i produksjonen av metaller, batterier,
+elbiler og grønn teknologi i Europa. Norge har også industriell
+kapasitet for separasjon av sjeldne jordarter. </A>
+            <A Type="Minnrykk">Det jobbes også med å sikre at Norge vil motta
+kritiske varer, ut fra beredskapshensyn. Dette følger opp viktige
+lærdommer fra koronapandemien, og vi følger nøye med på EUs arbeid
+på feltet. </A>
+            <A Type="Minnrykk">Når regjeringen sier at vi skal videreutvikle
+samarbeidet med EU og knytte oss tett til EUs agenda for økonomisk
+sikkerhet, innebærer dette fremdeles at hver enkelt sak må vurderes
+nøye. De siste ukers hendelser har satt søkelys på særlig EUs forordning
+mot økonomisk tvang, ACI, ofte omtalt som handelsbazookaen. Dette
+er et av EUs nye handelspolitiske verktøy, som EU har utviklet for
+å kunne forsvare seg dersom unionen blir utsatt for økonomisk press
+eller tvang. Spørsmålet om bruk av ACI pågår fremdeles i EU, og
+dette verktøyet er heller aldri brukt. </A>
+            <A Type="Minnrykk">Vi er opptatt av å være en del av en mest mulig
+samlet respons på de utfordringene vi nå ser. Ikke minst er vi en
+integrert del av EUs indre marked. Norge er imidlertid ikke en del av
+EUs handelspolitikk, og det er derfor ikke gitt at det er mulig
+å bli med på alle de tiltakene som EU nå vurderer, om disse tas
+i bruk. Vi må ha kontakt med EU framover om hvordan vi på best mulig
+måte kan være en del av en samlet europeisk respons. </A>
+            <A Type="Minnrykk">Gjennom nasjonal sikkerhetsstrategi kommer
+vi også med et tydelig signal til næringslivet og andre aktører
+om at økonomisk sikkerhet må tas på alvor. Vi skal styrke dialogen med
+næringslivet også om disse spørsmålene. </A>
+            <A Type="Minnrykk">Den handelspolitiske utviklingen i USA og den
+globale usikkerheten som vi har sett det siste året, understreker
+behovet for flere bein å stå på. Regjeringen har derfor styrket
+satsingen på bilaterale handelsavtaler og næringsfremme. Vi diversifiserer
+våre handelsforbindelser og styrker økonomisk sikkerhet ved å ha
+inngått flere handelsavtaler. Norges bilaterale handelsavtaler,
+inkludert EØS, dekker nå nærmere 90 pst. av norsk eksport. Siden
+2023 har Norge inngått seks nye viktige handelsavtaler – med Moldova,
+Kosovo, India, Thailand, Malaysia og Mercosur-landene Brasil, Argentina, Uruguay
+og Paraguay. Disse avtalene gir markedsadgang for norsk næringsliv
+til markeder på om lag to milliarder mennesker. Det er med andre
+ord mange muligheter for norske bedrifter med internasjonale ambisjoner. </A>
+            <A Type="Minnrykk">Vi har også oppdatert tre av de eldre handelsavtalene, med
+Chile og Ukraina, og avtalen med Singapore, som har fått nytt kapittel
+om digital økonomi. </A>
+            <A Type="Minnrykk">Avtalen med Mercosur fjerner toll på nesten
+all norsk eksport til de fire sør-amerikanske landene og gir store
+muligheter i et vekstmarked med over 250 millioner mennesker. Avtalen
+gir tollettelser og økt forutsigbarhet for norsk eksport av mineralgjødsel
+og for norske selskaper som leverer utstyr og tjenester til offshorenæringen.
+I tillegg legger avtalen til rette for norske investeringer i grønn
+teknologi, som det særlig i Brasil er økende interesse for. </A>
+            <A Type="Minnrykk">Avtalen med India trådte i kraft 1. oktober
+i fjor. India er verdens femte største økonomi og vokser raskt.
+Med handelsavtalen har norske bedrifter fått mye bedre og forutsigbar
+tilgang til det store indiske markedet. Avtalen sikrer nulltoll
+for ca. 42 pst. av norsk eksport fra dag én, dvs. fra 1. oktober 2025.
+Etter fem år vil ca. 85 pst. av norsk eksport importeres tollfritt
+til India. Allerede fra 1. januar i år var tollen på fersk laks
+redusert med to femtedeler, med andre ord 40 pst., og fra 1. januar
+2029 kan norsk fersk laks importeres tollfritt i India. </A>
+            <A Type="Minnrykk">I morges fikk vi beskjeden om at EU og India
+nå har inngått sin avtale. EU forhandler også fremdeles om avtaler
+med land som Indonesia, Malaysia, Filippinene og De forente arabiske
+emirater. Dette er alle land som Norge allerede har handelsavtaler
+med.</A>
+            <A Type="Minnrykk">Av resterende eksportland vi ikke har avtale
+med, er Japan, Kina og USA de viktigste. Vi skal også følge nøye
+med på i hvilken grad næringslivet faktisk bruker disse avtalene. Fjorårets
+EFTA-rapport om utnyttelsesgraden av EFTAs handelsavtaler beregnet
+at avtaler Norge hadde i 2023, ga en besparelse i tollutgifter for
+norsk eksport på godt over 2 mrd. kr. Regjeringen har selvfølgelig
+som mål å sikre størst mulig utnyttelse av avtalene som inngås.
+De er ikke inngått for å være til pynt. Jeg oppfordrer næringslivet
+til å utnytte konkurransefortrinnene som handelsavtalene gir. </A>
+            <A Type="Minnrykk">Regjeringen vil fortsette å jobbe strategisk
+med å fremme norske næringsinteresser i de viktigste eksportmarkedene
+våre, EU, Storbritannia og USA. Vi jobber også aktivt opp mot en
+rekke andre land, bl.a. India, Japan, Sør-Korea og Brasil. I lys
+av økt geopolitisk usikkerhet vil det kreve enda mer av norsk næringsliv
+for å kunne hevde seg i konkurransen i internasjonale markeder. </A>
+            <A Type="Minnrykk">Regjeringen jobber for at næringslivet vårt
+skal ha best mulige vilkår når de satser ute, men det er også sånn
+at bedriftene selv må ha vilje og evne til å satse internasjonalt.
+Framover vil det bli enda viktigere med tett dialog mellom myndighetene
+og næringslivet om mulighetene og utfordringene i verdensmarkedene.
+Vi vil derfor nå opprette et topplederforum for strategisk dialog
+med næringslivsledere om rammebetingelser for handel og eksport. </A>
+            <A Type="Minnrykk">Å styrke konkurransekraften er en av prioriteringene
+under regjeringens plan for Norge, og i 2026 tar vi flere grep for å
+styrke konkurransekraften. Blant annet skal regelverksbyrden reduseres
+for å muliggjøre raskere utbygging av samfunnskritisk infrastruktur
+og redusere administrative kostnader for næringslivet. Vi vil effektivisere
+virkemiddelapparatet og, som sagt, legge enda bedre til rette for
+tett samarbeid og god dialog med næringslivet. </A>
+            <A Type="Minnrykk">Jeg går snart inn for landing.</A>
+            <A Type="Minnrykk">Sikkerhetssituasjonen i Europa truer europeisk
+og norsk velstand. Situasjonen i Ukraina er kritisk. Landets forsvarsevne
+avhenger av kontinuerlig gjenoppbygging og hjelp til å holde økonomien
+i gang. Innovasjon Norge har fått i oppdrag å legge til rette for
+at norsk næringsliv kan delta i gjenoppbyggingen av Ukraina, og
+har nå etablert tilstedeværelse i Kyiv. Som del av oppdraget koordinerer
+Innovasjon Norge Team Norway-arbeidet med Ukraina og tilbyr rådgivning
+og kompetansetjenester til norske selskaper som ønsker å delta i
+gjenoppbyggingen. En egen risikoavlastningsordning for Ukraina har
+vært operativ fra januar 2025. Den forvaltes av Eksfin og har en
+ramme på 630 mill. kr. Formålet med ordningen er å tilrettelegge
+for norsk eksport ved å gi Eksfin muligheten til å avlaste noe av
+risikoen og usikkerheten for næringslivet. </A>
+            <A Type="Minnrykk">I den situasjonen som Ukraina nå står i, må
+det forventes at det tar tid å etablere nye prosjekter, men jeg
+vil berømme norsk næringsliv og norske bedrifter, som har et stort
+engasjement og gjør mye viktig allerede. Jeg undertegnet selv en oppdatert
+handelsavtale mellom EFTA-statene og Ukraina i Kyiv i april 2025.
+En proposisjon om denne avtalen vil fremmes for Stortinget nå til
+våren, og vi ser fram til at den moderniserte avtalen ratifiseres,
+så den kan tre i kraft så raskt som mulig. Avtalen vil åpne nye
+muligheter og skape enda tettere økonomiske bånd mellom Norge og
+Ukraina. </A>
+            <A Type="Minnrykk">Vi ser tydeligere enn på lenge at handelspolitikk
+og sikkerhetspolitikk henger sammen. Mange norske eksportbedrifter
+er verdensledende i det de driver med, og vi har tilgang på råvarer
+som verden etterspør. Det gir oss sterke kort på hånden. Jeg har
+stor tro på at selv om det geopolitiske bakteppet er utfordrende,
+skal vi komme oss godt gjennom dette. </A>
+            <A Type="Minnrykk">Å styrke norsk konkurransekraft er en av regjeringens viktigste
+prioriteringer framover. Det krever at vi jobber godt sammen, både
+med norsk næringsliv og med våre internasjonale handelspartnere
+og mellom regjering og storting. Da vil jeg helt på tampen særlig
+takke partene i arbeidslivet, LO og NHO, og næringslivet for dialog
+og felles arbeid på vegne av norske interesser i en uforutsigbar
+tid. Det er til stor støtte og hjelp også for oss i regjeringen. </A>
+            <A Type="Minnrykk">Med det ser jeg fram til en god handelspolitisk
+debatt på torsdag.</A>
+          </Hovedinnlegg>
+          <Merknad>
+            <Handling>
+              <A>
+                <Uth Type="Sperret">Ove Trellevik</Uth> hadde
+her teke over presidentplassen.</A>
+            </Handling>
+          </Merknad>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:37:26]:</Navn> Presidenten
+vil føreslå at den handelspolitiske utgreiinga til næringsministeren
+vert sett opp til behandling i eit seinare møte i Stortinget – og
+ser det som vedteke.</A>
+          </Presinnlegg>
+        </Sak>
+        <Sak Id="i1002535" saksKartNr="8" sakID="106384">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak
+nr. 8</Uth> [11:37:36]</Saknr>
+            <Saktittel Id="i1002539">
+              <A>Redegjørelse av fiskeri- og havministeren
+om ivaretakelse av fiskere i Oslofjorden</A>
+            </Saktittel>
+          </Sakshode>
+          <Hovedinnlegg Id="i1002541">
+            <A>
+              <Navn personID="NSSMAR">
+Statsråd Marianne Sivertsen Næss [11:38:00]:</Navn> Jeg har bedt
+om å få redegjøre for regjeringens arbeid for å ivareta fiskerne
+i Oslofjorden i lys av innføringen av nullfiskeområder fra 1. januar
+2026. Dette er et alvorlig og krevende tema som berører både miljøhensyn,
+næringsinteresser og lokalsamfunn langs fjorden.</A>
+            <A Type="Minnrykk">Fra 1. januar innførte regjeringen tre store
+nullfiskeområder. Disse områdene ligger i indre Oslofjord, Færder
+og ytre Hvaler, og de dekker samlet sett en betydelig del av Oslofjorden.
+I nullfiskeområdene er alt fiske forbudt, både yrkesfiske og fritidsfiske
+– med kun noen svært få og strengt avgrensede unntak. Det innebærer
+bl.a. at det fortsatt for barn er tillatt med krabbefiske med snøre,
+samt at det vil være mulig å søke dispensasjon fra forbudet for
+enkelte aktiviteter, som forskning og undervisning.</A>
+            <A Type="Minnrykk">I tillegg til nullfiskeområdene er det innført
+en rekke begrensninger for hva slags redskaper man kan bruke i yrkesfisket.
+Disse begrensningene har som formål å bidra til å forhindre bifangst
+av sårbare arter som torsk og annen bunnfisk. Det er også innført
+strengere begrensninger i fritidsfisket.</A>
+            <A Type="Minnrykk">Bakgrunnen for de nye fiskeritiltakene er godt
+kjent. Oslofjorden er blant landets mest brukte og verdsatte naturområder
+og har stor betydning for befolkningen i regionen. Det finnes ikke
+noe annet marint økosystem i Norge som opplever en sammenlignbar
+påvirkning fra menneskelig aktivitet.</A>
+            <A Type="Minnrykk">I fjorden foregår det omfattende fritidsfiske
+av både saltvanns- og ferskvannsarter, båtliv, bading og ikke minst
+viktig matproduksjon. Områdene langs fjorden er også leveområdet til
+store deler av landets befolkning, og Oslofjordens nedbørsfelt dekker
+det meste av det sentrale Østlandet. Det betyr at påvirkningen fra
+landbaserte aktiviteter også er betydelig. Den samlede belastningen
+på fjorden er rett og slett for høy og har over tid gått ut over
+både økosystemet og det biologiske mangfoldet. Fjorden har over
+tid vært under betydelig press fra mange hold, og tilstanden i fjorden
+er alvorlig og sammensatt.</A>
+            <A Type="Minnrykk">Blant de største kildene til påvirkning er
+avløp, jordbruk og fiskeri. Ingen av disse er alene ansvarlig for
+tilstanden i fjorden, men samtidig er det helt avgjørende at alle
+sektorer som bidrar til belastningen, også tar sin del av ansvaret
+for løsningen. Skal vi lykkes med å forbedre tilstanden i Oslofjorden
+og ha en sunn fjord, må det iverksettes målrettede og effektive
+tiltak på alle områder som har størst påvirkning.</A>
+            <A Type="Minnrykk">Regjeringen følger opp dette arbeidet gjennom
+en helhetlig tiltaksplan for Oslofjorden, og det arbeides bredt
+for å koordinere innsatsen i alle de sentrale sektorene. På fiskeriområdet
+ble det i 2019 innført en rekke tiltak for å verne om den svekkede
+kysttorskbestanden i Oslofjorden, herunder stenging av gytefelt,
+tekniske krav til yrkesfiskere for å redusere bifangst og forbud
+mot å fiske torsk. Tiltakene hadde etter fem år ikke oppnådd ønsket
+effekt. Det var bakgrunnen for at regjeringen i 2025 trappet opp
+innsatsen for å styrke fiskebestandene og hele det økologiske systemet
+og sendte på høring forslag til nye og strengere fiskeritiltak for
+både yrkesfiske og fritidsfiske. Det er disse tiltakene vi etter
+en grundig prosess nå har innført.</A>
+            <A Type="Minnrykk">Bakteppet er altså en ekstraordinær situasjon,
+og det er derfor vi har valgt å ta i bruk så drastiske tiltak som
+vi har gjort. Dette er et stort og ambisiøst restaureringsprosjekt
+og markerer et viktig bidrag fra fiskerisektoren i arbeidet med
+å forbedre forholdene i fjorden.</A>
+            <A Type="Minnrykk">De nye fiskeritiltakene er forankret i faglige
+råd fra Fiskeridirektoratet og Miljødirektoratet. Før beslutningen
+ble tatt, har tiltakene vært gjenstand for en omfattende og bred høringsprosess.
+Det kom inn over 250 høringsinnspill, og det var bred enighet om
+at det var nødvendig med strenge tiltak. Fagmiljøet pekte spesielt
+på at tiltak rettet mot enkeltarter alene, ikke er tilstrekkelig
+for å oppnå god effekt i et sterkt presset fjordsystem.</A>
+            <A Type="Minnrykk">Oslofjorden er et komplekst økosystem der samspillet mellom
+arter, leveområder og menneskelig aktivitet er avgjørende for den
+økologiske balansen, og det er derfor nødvendig med tiltak som retter
+seg mot hele økosystemet. Når bestandene allerede er lave, må den
+samlede belastningen og det samlede uttaket av bestandene reduseres
+kraftig over større geografiske områder og over lengre tid for å
+gi naturen forutsetninger til å hente seg inn. Nullfiskeområdene
+legger til rette for at man kan oppnå bredere effekter i økosystemet
+i de områdene som stenges, enn man ville ha oppnådd med mer tradisjonelle
+fiskeritiltak alene. Nullfiskeområdene er derfor et nødvendig, men
+også krevende virkemiddel for å sikre at fjorden kan forvaltes bærekraftig
+for framtiden.</A>
+            <A Type="Minnrykk">Den lokale fiskerinæringen i Oslofjorden har
+stått i mye usikkerhet over lengre tid. Jeg har stor forståelse
+for at de som lever av å høste av fjorden, opplever at de nå tar
+en stor del av byrden i arbeidet for Oslofjorden. Vi vet at dette
+treffer familier, lokalsamfunn og tradisjoner som har gått i arv
+gjennom generasjoner.</A>
+            <A Type="Minnrykk">Som fiskeri- og havminister har jeg hatt gleden
+av å møte mange av fiskerne i Oslofjorden, bl.a. på besøk til Utgårdskilen
+i Hvaler. Det har gjort sterkt inntrykk å se det engasjementet som
+finnes, og den innsatsen som allerede er lagt ned for å gjøre fisket
+så skånsomt og bærekraftig som mulig. Hensynet til fiskerne og deres
+levebrød har stått sentralt gjennom hele arbeidet med å utforme
+og innføre de nye fiskeritiltakene.</A>
+            <A Type="Minnrykk">Det er svært tungt som fiskeriminister å skulle
+fortelle folk at de ikke lenger kan drive fisket sitt sånn som de
+har gjort tidligere. Gjennom prosessen har vi gjennomført en rekke
+møter med fiskeriorganisasjonene og berørte fiskere. Det varierer
+fra fartøy til fartøy i hvor stor grad de berøres av innføringen
+av nullfiskeområdene. Noen fiskere vil miste alle eller store deler
+av sine tradisjonelle fangstområder, samtidig som mulighetene for
+å flytte fisket til andre områder er svært begrensede. Andre fisker
+i dag i større grad i de områdene som forblir åpne, og vil kunne
+fortsette fisket med mindre justeringer.</A>
+            <A Type="Minnrykk">Vi har vært opptatt av å legge til rette for
+at fisket skal kunne fortsette i områdene i Oslofjorden som fortsatt
+holdes åpne. Jeg har forsøkt så langt det lar seg gjøre, å legge
+til rette for at den kystkulturen og næringsstrukturen vi har rundt
+Oslofjorden, skal kunne bestå, selv om vi nå må stramme inn betraktelig.</A>
+            <A Type="Minnrykk">Et viktig eksempel er beslutningen om å holde
+Hvalerrenna åpen for fiske. Den er et viktig fangstfelt som er mye brukt
+av mindre fartøyer i Hvaler som hører hjemme i Utgårdskilen, som
+er Oslofjordens egen fiskerihavn. Et annet eksempel er at regjeringen
+har valgt å videreføre adgangen til bruk av krepsespalte, som er
+viktig for å opprettholde lønnsomheten i fisket for reketrålerne.
+Disse justeringene ble gjort nettopp på bakgrunn av tydelige og
+konstruktive innspill fra fiskeriorganisasjonene.</A>
+            <A Type="Minnrykk">Videre har regjeringen valgt å ikke innføre
+begrensninger i fiske etter brisling og sild som foregår i områdene
+utenfor nullfiskeområdene, noe som tidligere har blitt foreslått. Dette
+er på bakgrunn av faglige vurderinger som tilsier at dette er et
+fiske med lite bifangst av andre arter enn målartene, og at det
+med dagens bestandssituasjon har svært begrenset effekt på resten
+av økosystemet.</A>
+            <A Type="Minnrykk">Det er viktig at de berørte blir hørt, og regjeringen
+vil fortsette å arbeide tett med fiskeriorganisasjonene for å finne løsninger
+som ivaretar den unike kunnskapen og tradisjonene fiskeriene har
+bygget opp. Samtidig må vi tilpasse oss naturens rammer.</A>
+            <A Type="Minnrykk">Det er bevilget 15 mill. kr over statsbudsjettet
+for 2026 til en egen tilskuddsordning for de berørte fiskerne i
+Oslofjorden. Regjeringen arbeider nå i tett dialog med næringsorganisasjonene
+for å ferdigstille regelverket for ordningen. Målsettingen er at
+midlene skal fordeles mellom dem som er hardest rammet av nullfiskeområdene,
+og formålet er å gjøre omstillingsprosessen enklere for dem som
+har mistet tilgangen til viktige fiskefelt.</A>
+            <A Type="Minnrykk">Tilskuddsordningen skal administreres av Garantikassen for
+fiskere, som har lang erfaring med å forvalte tilskuddsordninger
+for fiskerne. Regelverket for en sånn ordning må være treffsikkert.
+Vi må nå den gruppen ordningen er ment for, midlene må forvaltes
+på en praktisk måte, og ordningen må utformes sånn at de berørte
+opplever den som hensiktsmessig. Derfor er jeg svært opptatt av
+å lytte. Det er fiskerne som best vet hvordan situasjonen oppleves
+i praksis, og hva som faktisk kan hjelpe.</A>
+            <A Type="Minnrykk">Nærings- og fiskeridepartementet gjennomførte
+for om lag to uker siden et dialogmøte med fiskeriorganisasjonene, der
+vi hadde en svært konstruktiv dialog om utformingen av regelverket.
+Jeg har mottatt en rekke innspill til akkurat hvordan ordningen
+bør innrettes. Arbeidet med regelverket ferdigstilles nå i lys av
+disse innspillene før det vil sendes på høring med kort frist av
+hensyn til fortgang i prosessen.</A>
+            <A Type="Minnrykk">Vi holder tett dialog med organisasjonene om
+prosessen videre og vil arbeide for at midlene skal tildeles og
+utbetales til mottakerne så raskt som mulig. Jeg opplever at dialogen med
+organisasjonene er svært konstruktiv.</A>
+            <A Type="Minnrykk">Det er krevende tider for mange i næringen,
+men jeg er samtidig imponert over innsatsen, viljen til omstilling
+og det nytenkende arbeidet som nå vises. Yrkesfiskerne er blant
+dem som kjenner fjorden aller best, og mange legger nå ned en enorm
+innsats for å finne nye måter å leve av fjorden på – fra opprenskning
+av tapte redskaper til bruk av tidligere uutnyttede marine ressurser.</A>
+            <A Type="Minnrykk">I tillegg til tilskuddsordningen for å omstille
+fiskerinæringen i Oslofjorden er det over statsbudsjettet også bevilget nærmere
+100 mill. kr til en tilskuddsordning for restaureringstiltak i Oslofjorden.
+Ordningen skal legge til rette for at bl.a. fiskere i Oslofjorden
+kan bidra med sin kompetanse og sitt utstyr i arbeidet med å bedre
+fjordens tilstand.</A>
+            <A Type="Minnrykk">Regjeringen har oppfordret berørte fiskere
+til å søke om tilskudd til gode prosjekter. Prosjektene kan omhandle
+restaurering og opprydding, men arbeidsinnsats og nødvendig utstyr,
+som nytt utstyr til båt, kan også få støtte over ordningen. Søknadsfristen
+er nå ute, og Miljødirektoratet har som mål å behandle søknadene
+innen 1. mars. Fiskeridirektoratet skal bistå i prosessen.</A>
+            <A Type="Minnrykk">Regjeringen har tatt et nødvendig politisk
+ansvar ved å innføre kraftfulle og inngripende tiltak for å stanse
+den negative utviklingen i Oslofjorden. Når situasjonen er så alvorlig som
+den er, kan vi ikke utsette handling. Hensynet til naturen og framtidige
+generasjoner må veie tungt i våre beslutninger. Dessverre får dette
+konsekvenser for dem som har levd av å fiske i områdene det gjelder.</A>
+            <A Type="Minnrykk">Regjeringen jobber for å ivareta de berørte
+fiskerne på best mulig måte innenfor de rammene situasjonen gir.
+Vi vil fortsette dialogen med organisasjonene og de berørte i tiden framover.
+Vi ønsker et tett samarbeid med næringen for å finne gode løsninger.
+Målet er å finne løsninger som både tar vare på den unike kunnskapen,
+kompetansen og kystkulturen fiskerne representerer, og som samtidig
+bidrar til at Oslofjorden på lang sikt kan bygges opp igjen og støtte
+et bærekraftig og livskraftig fiskeri.</A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:52:02]:</Navn> Presidenten
+vil føreslå at utgreiinga til fiskeri- og havministeren om ivaretaking
+av fiskarar i Oslofjorden vert sett opp til behandling i et seinare
+møte i Stortinget – og ser det som vedteke.</A>
+            <A Type="Minnrykk">Dermed er dagens kart ferdig debattert. Stortinget
+tek no pause, og i samsvar med den annonserte dagsordenen vert det votering
+kl. 15.</A>
+          </Presinnlegg>
+          <Merknad>
+            <Avbrutt>
+              <A align="center">Stortinget tok pause i forhandlingane kl.
+11.53. </A>
+            </Avbrutt>
+            <Handling>
+              <A align="center">-----</A>
+              <A align="center">Stortinget tok opp att forhandlingane kl. 15.</A>
+              <A align="center">President: <Uth Type="Sperret">Ove Trellevik</Uth></A>
+            </Handling>
+          </Merknad>
+        </Sak>
+        <VoteringerStart>
+          <Tittel>Votering</Tittel>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [15:01:51]:</Navn> Då er Stortinget
+klar til å gå til votering. </A>
+          </Presinnlegg>
+          <Voteringer>
+            <Sakdel>
+              <Tittel>Votering i sakene nr. 1–5, debattert
+27. januar 2026</Tittel>
+              <Presinnlegg>
+                <A>
+                  <Navn>Presidenten:</Navn> Sakene nr. 1–5 er andre
+gongs behandling av lovsaker og gjeld lovvedtaka 21–25. Det ligg
+ikkje føre nokon forslag til merknad. Stortingets lovvedtak er dermed
+godtekne ved andre gongs behandling og vert å senda Kongen i samsvar
+med Grunnlova.</A>
+              </Presinnlegg>
+            </Sakdel>
+          </Voteringer>
+          <Voteringer Id="i1002543" saksKartNr="6" debattDato="2026-01-27" tidspunkt="1502" sakID="105845">
+            <Sakdel>
+              <Tittel>Votering i sak nr. 6,
+debattert 27. januar 2026</Tittel>
+              <A Id="i1002545">Innstilling fra utenriks- og forsvarskomiteen
+om Anskaffelse av ytterligere ubåter og langtrekkende presisjonsild (Innst.
+86 S (2025–2026), jf. Prop. 29 S (2025–2026))</A>
+              <Referanse Id="i1002547" debattDato="2026-01-27" saksKartNr="6" />
+              <Presinnlegg>
+                <A>
+                  <Navn>Presidenten:</Navn> Under debatten har Ingrid
+Fiskaa sett fram eit forslag på vegner av Sosialistisk Venstreparti,
+Senterpartiet og Kristeleg Folkeparti. Forslaget lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen i anskaffelsen
+av langtrekkende presisjonsild sørge for at det norsk-europeiske alternativet
+vurderes fullt ut i tråd med Nasjonal sikkerhetsstrategi, og komme
+tilbake til Stortinget på egnet måte.»</A>
+                </Sitat>
+              </Presinnlegg>
+              <Votering>
+                <Tittel>Votering: </Tittel>
+                <A Type="Minnrykk">Forslaget frå Sosialistisk Venstreparti, Senterpartiet
+og Kristeleg Folkeparti vart med 87 mot 14 røyster ikkje vedteke.</A>
+                <A Type="Minnrykk">(Voteringsutskrift kl. 15.02.55)</A>
+              </Votering>
+              <A Type="Blanklinjeminnrykk">Komiteen hadde tilrådd Stortinget
+å gjera følgjande</A>
+            </Sakdel>
+            <VedtakS>
+              <Tittel>vedtak:</Tittel>
+              <RomertallSeksjon>
+                <Tittel>I</Tittel>
+                <Undertittel>Investeringsfullmakt</Undertittel>
+                <A Type="Minnrykk">Stortinget samtykker i at Forsvarsdepartementet
+i 2026 kan:</A>
+                <Liste Type="Fri">
+                  <Pkt>
+                    <A>1. Starte opp følgende nye investeringsprosjekter:</A>
+                    <Tbl Tabletag="Tabell-A" Kol="2">
+                      <table frame="topbot" colsep="0" rowsep="0" tabstyle="Tabell-A">
+                        <tgroup cols="2" colsep="0">
+                          <colspec colnum="1" colname="1" colwidth="3.811in" colsep="0" />
+                          <colspec colnum="2" colname="2" colwidth="2.851in" colsep="0" />
+                          <thead>
+                            <row rowsep="1">
+                              <entry colname="1">
+                                <A Type="Head" align="left">
+                                  <Uth Type="Halvfet">Prosjekt</Uth>
+                                </A>
+                              </entry>
+                              <entry colname="2">
+                                <A Type="Head" align="right">
+                                  <Uth Type="Halvfet">Kostnadsramme</Uth>
+                                </A>
+                              </entry>
+                            </row>
+                          </thead>
+                          <tbody>
+                            <row rowsep="0">
+                              <entry colname="1" align="left">
+                                <A align="left">Prosjekt 1095
+Landbasert, langtrekkende presisjonsild til Forsvaret</A>
+                              </entry>
+                              <entry colname="2" align="left">
+                                <A align="right">19 098 mill.
+kroner</A>
+                              </entry>
+                            </row>
+                          </tbody>
+                        </tgroup>
+                      </table>
+                    </Tbl>
+                  </Pkt>
+                </Liste>
+                <Votering>
+                  <Tittel>Votering: </Tittel>
+                  <A Type="Minnrykk">Tilrådinga frå komiteen vart vedteken med 86
+mot 14 røyster.</A>
+                  <A Type="Minnrykk">(Voteringsutskrift kl. 15.03.24)</A>
+                </Votering>
+                <A Type="Blanklinjeminnrykk">Vidare var tilrådd:</A>
+                <Liste Type="Fri">
+                  <Pkt>
+                    <A>2. Endre følgende investeringsprosjekter:</A>
+                    <Tbl Tabletag="Tabell-A" Kol="2">
+                      <table frame="topbot" colsep="0" rowsep="0" tabstyle="Tabell-A">
+                        <tgroup cols="2" colsep="0">
+                          <colspec colnum="1" colname="1" colwidth="3.794in" colsep="0" />
+                          <colspec colnum="2" colname="2" colwidth="2.867in" colsep="0" />
+                          <thead>
+                            <row rowsep="1">
+                              <entry colname="1">
+                                <A Type="Head" align="left">
+                                  <Uth Type="Halvfet">Prosjekt</Uth>
+                                </A>
+                              </entry>
+                              <entry colname="2">
+                                <A>
+                                  <Uth Type="Halvfet">Kostnadsramme</Uth>
+                                </A>
+                              </entry>
+                            </row>
+                          </thead>
+                          <tbody>
+                            <row rowsep="0">
+                              <entry colname="1" align="left">
+                                <A align="left">P6346 Nye
+Ubåter</A>
+                              </entry>
+                              <entry colname="2" align="left">
+                                <A align="right">98 464 mill.
+kroner</A>
+                              </entry>
+                            </row>
+                          </tbody>
+                        </tgroup>
+                      </table>
+                    </Tbl>
+                  </Pkt>
+                </Liste>
+                <Votering>
+                  <Tittel>Votering: </Tittel>
+                  <A Type="Minnrykk">Tilrådinga frå komiteen vart samrøystes vedteken.</A>
+                </Votering>
+                <A Type="Blanklinjeminnrykk">Vidare var tilrådd:</A>
+              </RomertallSeksjon>
+              <RomertallSeksjon>
+                <Tittel>II</Tittel>
+                <A Type="Minnrykk">Forsvarsdepartementet får fullmakt til å justere
+kostnadsrammene i takt med prisstigningen og som følge av endringer i
+valutakursene. </A>
+                <Votering>
+                  <Tittel>Votering: </Tittel>
+                  <A Type="Minnrykk">Tilrådinga frå komiteen vart samrøystes vedteken.</A>
+                </Votering>
+                <Presinnlegg>
+                  <A>
+                    <Navn>Presidenten:</Navn> Sakene nr. 7 og 8 var
+utgreiingar.</A>
+                </Presinnlegg>
+              </RomertallSeksjon>
+            </VedtakS>
+          </Voteringer>
+        </VoteringerStart>
+        <Sakreferat Id="i1003147">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak
+nr. 9</Uth> [15:04:10]</Saknr>
+            <Saktittel Id="i1003149">
+              <A>Referat</A>
+            </Saktittel>
+          </Sakshode>
+          <Liste Type="Fri">
+            <Pkt>
+              <A>1.	(184) Statsministerens kontor melder
+at </A>
+              <A>lov om endringer i helsepersonelloven og pasientjournalloven
+mv. (taushetsplikt og tilgjengeliggjøring av pasientopplysninger)
+(Lovvedtak 20 (2025–2026))</A>
+              <A>– er sanksjonert under 23. januar 2026</A>
+              <A>Samr.: Vert lagd ved protokollen.</A>
+            </Pkt>
+            <Pkt>
+              <A>2.	(185) Representantforslag fra stortingsrepresentantene Kristian
+August Eilertsen, Julia Brännström Nordtug, Stig Atle Abrahamsen
+og Anne Grethe Hauan om tiltak for bedre behandling av personer
+med alvorlige psykiske lidelser og styrket vern av samfunnet (Dokument
+8:85 S (2025–2026))</A>
+            </Pkt>
+            <Pkt>
+              <A>3.	(186) Representantforslag fra stortingsrepresentantene Sylvi
+Listhaug, Kristian August Eilertsen, Julia Brännström Nordtug, Stig
+Atle Abrahamsen, Bård Hoksrud, Anne Grethe Hauan og Kristoffer Sivertsen
+om å sikre pasienter med ALS en reell tilgang til ordningen med godkjenningsfritak
+for legemidler i tidlig fase (Dokument 8:86 S (2025–2026))</A>
+              <A>Samr.: Nr. 2 og 3 vert sende helse- og omsorgskomiteen.</A>
+            </Pkt>
+            <Pkt>
+              <A>4.	(187) Endringer i statsbudsjettet 2026 under Justis-
+og beredskapsdepartementet (operatør av redningshelikopterbasen
+i Tromsø mv.) (Prop. 32 S (2025–2026))</A>
+            </Pkt>
+            <Pkt>
+              <A>5.	(188) Representantforslag fra stortingsrepresentantene Per-Willy
+Amundsen, Hans Andreas Limi, Jon Engen-Helgheim, Hilde Grande og
+Bengt Rune Strifeldt om videreføring av pilotordning for politiutdanning
+i Alta (Dokument 8:84 S (2025–2026))</A>
+              <A>Samr.: Nr. 4 og 5 vert sende justiskomiteen.</A>
+            </Pkt>
+            <Pkt>
+              <A>6.	(189) Representantforslag fra stortingsrepresentanten Sunniva
+Holmås Eidsvoll og Mirell Høyer-Berntsen om en tryggere digital
+skolehverdag (Dokument 8:82 S (2025–2026))</A>
+              <A>Samr.: Vert sendt utdannings- og forskingskomiteen.</A>
+            </Pkt>
+            <Pkt>
+              <A>7.	(190) Representantforslag fra stortingsrepresentantene Bjørnar
+Moxnes, Geir Jørgensen og Sofie Marhaug om å innføre nabosjekk av
+EU-regelverk (Dokument 8:83 S (2025–2026))</A>
+              <A>Samr.: Vert sendt utanriks- og forsvarskomiteen.</A>
+            </Pkt>
+          </Liste>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [15:04:42]:</Navn> Dermed er dagens
+kart behandla ferdig. Ber nokon om ordet før møtet vert heva? –
+Møtet er heva.</A>
+          </Presinnlegg>
+        </Sakreferat>
+      </Saker>
+    </Hovedseksjon>
+    <Sluttseksjon>
+      <Hevet>
+        <A>Møtet slutt kl. 15.05.</A>
+      </Hevet>
+    </Sluttseksjon>
+  </Mote>
+</Forhandlinger>

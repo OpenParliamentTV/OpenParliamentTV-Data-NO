@@ -1,0 +1,41 @@
+{
+  "moteid": 11596,
+  "parts": [
+    {
+      "moteid": 11596,
+      "delnr": 1,
+      "qbvid": "d6koiglv8r1s73cbi26g",
+      "mp4_url": "https://httpcache0-90415-cachedown0.dna.ip-only.net/90415-cachedown0/assets/d6/d6koiklv8r1s73cbi270/d6ko49dv8r1s73cbi260_1080p.mp4",
+      "audio_mp4_url": "https://httpcache0-90415-cachedown0.dna.ip-only.net/90415-cachedown0/assets/d6/d6koiklv8r1s73cbi270/d6ko49dv8r1s73cbi260_240p.mp4",
+      "hls_url": "https://httpcache0-90415-cacheod0.dna.ip-only.net/90415-cacheod0/_definst_/smil:assets/d6/d6koiklv8r1s73cbi270/d6ko49dv8r1s73cbi260_240p/playlist.m3u8",
+      "tc_in_utc": "2026-03-05T08:58:09+00:00",
+      "tc_out_utc": "2026-03-05T12:55:11+00:00",
+      "duration_seconds": 14222.0,
+      "thumbnail_url": "https://httpcache0-90415-cachedown0.dna.ip-only.net/90415-cachedown0/assets/d6/d6koiklv8r1s73cbi270/d6ko49dv8r1s73cbi260_1080p_5.jpeg"
+    },
+    {
+      "moteid": 11596,
+      "delnr": 2,
+      "qbvid": "d6l8ru5v8r1s73cbi2ig",
+      "mp4_url": "https://httpcache0-90415-cachedown0.dna.ip-only.net/90415-cachedown0/assets/d6/d6l8sbtv8r1s73cbi2j0/d6l8cjdv8r1s73cbi2i0_1080p.mp4",
+      "audio_mp4_url": "https://httpcache0-90415-cachedown0.dna.ip-only.net/90415-cachedown0/assets/d6/d6l8sbtv8r1s73cbi2j0/d6l8cjdv8r1s73cbi2i0_240p.mp4",
+      "hls_url": "https://httpcache0-90415-cacheod0.dna.ip-only.net/90415-cacheod0/_definst_/smil:assets/d6/d6l8sbtv8r1s73cbi2j0/d6l8cjdv8r1s73cbi2i0_240p/playlist.m3u8",
+      "tc_in_utc": "2026-03-05T12:58:00+00:00",
+      "tc_out_utc": "2026-03-05T19:00:04+00:00",
+      "duration_seconds": 21724.0,
+      "thumbnail_url": "https://httpcache0-90415-cachedown0.dna.ip-only.net/90415-cachedown0/assets/d6/d6l8sbtv8r1s73cbi2j0/d6l8cjdv8r1s73cbi2i0_1080p_5.jpeg"
+    },
+    {
+      "moteid": 11596,
+      "delnr": 3,
+      "qbvid": "d72jrtbnqs4c73dh3gag",
+      "mp4_url": "https://httpcache0-90415-cachedown0.dna.ip-only.net/90415-cachedown0/assets/d7/d72jtbbnqs4c73dh3gb0/d72jrmrnqs4c73dh3ga0_1080p.mp4",
+      "audio_mp4_url": "https://httpcache0-90415-cachedown0.dna.ip-only.net/90415-cachedown0/assets/d7/d72jtbbnqs4c73dh3gb0/d72jrmrnqs4c73dh3ga0_240p.mp4",
+      "hls_url": "https://httpcache0-90415-cacheod0.dna.ip-only.net/90415-cacheod0/_definst_/smil:assets/d7/d72jtbbnqs4c73dh3gb0/d72jrmrnqs4c73dh3ga0_240p/playlist.m3u8",
+      "tc_in_utc": "2026-03-05T19:00:00+00:00",
+      "tc_out_utc": "2026-03-05T19:42:11+00:00",
+      "duration_seconds": 2531.0,
+      "thumbnail_url": "https://httpcache0-90415-cachedown0.dna.ip-only.net/90415-cachedown0/assets/d7/d72jtbbnqs4c73dh3gb0/d72jrmrnqs4c73dh3ga0_1080p_5.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "moteid": 11514,
+  "parts": [
+    {
+      "moteid": 11514,
+      "delnr": 1,
+      "qbvid": "d3jr1v75ki6c73eomcb0",
+      "mp4_url": "https://httpcache0-90415-cachedown0.dna.ip-only.net/90415-cachedown0/assets/d3/d3jr20f5ki6c73eomcbg/d3jr17f5ki6c73eomcag_1080p.mp4",
+      "audio_mp4_url": "https://httpcache0-90415-cachedown0.dna.ip-only.net/90415-cachedown0/assets/d3/d3jr20f5ki6c73eomcbg/d3jr17f5ki6c73eomcag_240p.mp4",
+      "hls_url": "https://httpcache0-90415-cacheod0.dna.ip-only.net/90415-cacheod0/_definst_/smil:assets/d3/d3jr20f5ki6c73eomcbg/d3jr17f5ki6c73eomcag_240p/playlist.m3u8",
+      "tc_in_utc": "2025-10-09T10:58:00+00:00",
+      "tc_out_utc": "2025-10-09T11:20:37+00:00",
+      "duration_seconds": 1357.0,
+      "thumbnail_url": "https://httpcache0-90415-cachedown0.dna.ip-only.net/90415-cachedown0/assets/d3/d3jr20f5ki6c73eomcbg/d3jr17f5ki6c73eomcag_1080p_5.jpeg"
+    }
+  ]
+}

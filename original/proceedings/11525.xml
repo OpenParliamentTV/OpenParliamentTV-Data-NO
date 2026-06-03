@@ -1,0 +1,3303 @@
+<Forhandlinger Status="Komplett">
+  <Mote moteID="11525">
+    <Startseksjon>
+      <Motestart>
+        <Tittel>Møte onsdag den 5. november 2025 kl. 10</Tittel>
+        <President Id="i1004106" personID="MASG">
+          <A>President: <Uth Type="Sperret">Masud
+Gharahkhani</Uth></A>
+        </President>
+        <Dagsorden>
+          <Tittel>Dagsorden <DagsordenNR>(nr. 11):</DagsordenNR></Tittel>
+          <DagsordenSak Id="i1004108">
+            <Liste Type="Dagsorden">
+              <Pkt>
+                <A> 1.	Muntlig
+spørretime</A>
+              </Pkt>
+              <Pkt>
+                <A> 2.	Ordinær spørretime</A>
+              </Pkt>
+              <Pkt>
+                <A> 3.	Referat</A>
+              </Pkt>
+            </Liste>
+          </DagsordenSak>
+        </Dagsorden>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:00:04]:</Navn> Representanten
+Grunde Almeland vil framsette et representantforslag.</A>
+        </Presinnlegg>
+        <Hovedinnlegg Id="i1004110">
+          <A>
+            <Navn personID="GKAL">
+Grunde Almeland (V) [10:00:20]:</Navn> På vegne av Guri Melby, Abid
+Raja og meg selv ønsker jeg å fremme et representantforslag om å
+gjennomføre forenklingstiltak for næringslivet på minst 12 mrd. kr
+de neste fire årene.</A>
+        </Hovedinnlegg>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:00:32]:</Navn> Representanten
+Kjersti Toppe vil framsette et representantforslag.</A>
+        </Presinnlegg>
+        <Hovedinnlegg Id="i1004112">
+          <A>
+            <Navn personID="KJT">
+Kjersti Toppe (Sp) [10:00:48]:</Navn> På vegner av stortingsrepresentanten
+Bengt Fasteraune og meg sjølv fremjar eg eit forslag om ei ny og
+offensiv satsing på arbeidsretta rehabilitering.</A>
+        </Hovedinnlegg>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:01:01]:</Navn> Forslagene
+vil bli behandlet på reglementsmessig måte.</A>
+        </Presinnlegg>
+      </Motestart>
+    </Startseksjon>
+    <Hovedseksjon Id="i1004114">
+      <Saker>
+        <Sporretime saksKartNr="1">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak nr. 1</Uth> [10:01:06]</Saknr>
+            <Saktittel Id="i1004116">
+              <A>Muntlig spørretime</A>
+            </Saktittel>
+          </Sakshode>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [10:01:09]:</Navn> Stortinget
+mottok mandag meddelelse fra Statsministerens kontor om at statsrådene
+Jens Stoltenberg og Nils Kristen Sandtrøen vil møte til muntlig
+spørretime.</A>
+            <A Type="Minnrykk">De annonserte regjeringsmedlemmene er til stede, og
+vi er klare til å starte den muntlige spørretimen.</A>
+            <A Type="Minnrykk">Vi starter da med første hovedspørsmål, fra
+representanten Sylvi Listhaug.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1004118">
+            <A>
+              <Navn personID="SYL">
+Sylvi Listhaug (FrP) [10:01:34]:</Navn> Mitt spørsmål går til finansministeren.</A>
+            <A Type="Minnrykk">Arbeiderpartiet gikk til valg på trygghet for
+framtiden. Etter valget, der Arbeiderpartiet brukte åpenbare usannheter
+for å vinne, har det stort sett vært løftebrudd og kaos. Fremskrittspartiet
+advarte i valgkampen mot femmerbanden, og jeg tror at alle i dag
+ser hvorfor vi gjorde det. Det krangles om avgifter på gjødsel,
+ferje, studiegjeld, kutt i velferdsordninger – og ikke minst om
+oljefondet. På det siste området er det imidlertid all grunn til
+å gi regjeringen honnør – for å beskytte oljefondet, i hvert fall
+så langt. I går gjorde Stortinget et av de desidert viktigste vedtakene
+som vi kommer til å fatte i denne perioden. Men det som hele Norge
+også fikk se i går, var at Arbeiderpartiet i denne perioden gir
+makt og innflytelse til tre partier som er mer opptatt av å gamble
+med folks sparepenger for å drive moralsk symbolpolitikk, enn av å
+ivareta folkets sparepenger. Det er uansvarlig. </A>
+            <A Type="Minnrykk">I går fikk finansministeren spørsmål om han
+kunne garantere at vedtakene som Fremskrittspartiet bidro til i
+går, står seg også etter budsjettforhandlingene – at det ikke blir
+gitt etter i budsjettforhandlingene. Grunnen er at vi har erfaring
+fra forrige periode bl.a. med havbunnsmineraler, der vi inngikk
+et forlik for å åpne opp for mulighetene for det, som ble forhandlet
+vekk av SV ved første anledning. Derfor vil Fremskrittspartiet ha
+en tydelig garanti fra finansministeren om at det ikke blir gitt
+etter, og at oljefondet ikke på noen måte skal inn i budsjettforhandlingene
+med kaoskameratene. Jeg lurer på om finansministeren kan garantere
+at oljefondet ikke blir gjenstand for budsjettforhandlinger.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1004120">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [10:03:43]:</Navn> Høyresiden har alltid
+advart mot Arbeiderpartiet og at Arbeiderpartiet har samarbeidet
+med andre partier. Nå heter det kaos. Den gangen jeg var statsministerkandidat,
+het det «den røde fare», og jeg sto her i salen og forsvarte «den
+røde fare», som var SV, Arbeiderpartiet og Senterpartiet. Det var
+år hvor Norge ble styrt på en god måte, akkurat som Norge ble styrt
+på en god måte i forrige stortingsperiode, da Arbeiderpartiet samarbeidet
+med partier til venstre for seg. Jeg er helt trygg på at vi kommer
+til å gjøre det på en god måte også i denne perioden og samarbeide
+med både Senterpartiet og partier til venstre for oss. </A>
+            <A Type="Minnrykk">Så er jeg enig i at det vedtaket Stortinget
+gjorde i går, med støtte fra et stort flertall, er et viktig vedtak,
+fordi det gir regjeringen det grunnlaget regjeringen trenger bl.a.
+for å sette i gang en gjennomgang av hele det etiske rammeverket
+rundt pensjonsfondet, som har vist seg ikke å være godt nok tilpasset
+den tiden vi nå lever i, og derfor trenger endring. I tillegg ga
+man sin tilslutning til og ga regjeringen grunnlag for å iverksette
+midlertidige tiltak, slik at vi ikke gjør beslutninger som undergraver selve
+ideen om fondet som et globalt investeringsfond. Jeg vil også understreke
+at Stortinget ga sin tilslutning til at vi også kan gjøre ting som
+øker aktsomheten, og som gjør at vi raskere kommer oss ut av f.eks.
+krigs- og konfliktsoner, som vi har opplevd i Gaza- og Palestina-konflikten. </A>
+            <A Type="Minnrykk">Det jeg sa i Stortinget i går, og som jeg gjerne
+gjentar i dag, er at vi ikke kommer til å inngå noen forlik eller
+avtaler som er i strid med det vedtaket vi gjorde i går, både fordi
+vi står ved avtaler, og også fordi dette er viktig for Norge, viktig
+for landet, og helt i tråd med det budskapet som jeg hadde i min
+redegjørelse til Stortinget for et par uker siden.</A>
+          </Hovedinnlegg>
+          <Replikk Id="i1004122">
+            <A>
+              <Navn personID="SYL">
+Sylvi Listhaug (FrP) [10:05:43]:</Navn> Da tar vi den garantien
+med oss videre og håper virkelig at når vi står her og budsjettet
+er vedtatt, så holder det vann. </A>
+            <A Type="Minnrykk">Politisering av oljefondet er helt uansvarlig
+og det motsatte av trygg styring. Statsråden henviste til partnerne
+sine fra da han var statsminister, men jeg tror nok at hans erfaring
+allerede så langt må være at det er noe litt annet han skal inn
+i nå. MDG har tatt til orde for at fondet skal være et politisk
+verktøy som må brukes i klimapolitikken. I tillegg til MDG virker
+Rødt og SV å være mer opptatt av å bruke oljefondet til symbolpolitikk
+for egne kjepphester enn av å ivareta folkets sparepenger. AUF er
+på samme linje. Men de er ikke de eneste som har sagt dette.</A>
+            <A Type="Minnrykk">Statsminister Støre sa tilbake i 2019 at vi
+må venne oss til å si at vårt pensjonsfond er et politisk redskap.
+I 2021 sa han at oljefondet er politisk, et politisk verktøy. </A>
+            <A Type="Minnrykk">Hva tenker finansministeren om at hans egen
+statsminister har omtalt oljefondet som et politisk verktøy og redskap?</A>
+          </Replikk>
+          <Replikk Id="i1004124">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [10:06:50]:</Navn> Jeg tror man må skille
+mellom to ting. Det er klart at det er politikerne som bestemmer
+over oljefondet – det er politikerne som har bestemt at det skulle
+opprettes, det er politikerne som har bestemt hvor mye penger som
+skal puttes inn, hvor mye som skal tas ut, gjennom handlingsregelen,
+og hva vi skal investere i aksjer. Det er også politikerne som bestemmer
+rammeverket. Men innenfor det politisk bestemte rammeverket skal
+ikke politikerne gå inn og bestemme over enkeltinvesteringer. Begrepet «politisering»
+kan skape litt forvirring, for det er selvsagt et politisk ansvar
+å styre pensjonsfondet, men det er ikke et politisk ansvar å ta
+stilling til enkeltinvesteringer. Når de retningslinjene vi har
+laget, viser seg ikke å fungere, har man også et politisk ansvar.
+Min største bekymring nå er at de reglene vi har laget – de siste
+revisjonene kom våren 2021, faktisk etter forslag fra Solberg-regjeringen,
+med støtte fra Fremskrittspartiet, Arbeiderpartiet, alle partier
+– viser seg å ha utilsiktede konsekvenser. Vi må regne med at det
+kan innebære uttrekk av ganske store selskaper, noe som gjør at
+dette ikke lenger er et globalt fond. Da er det et politisk ansvar
+å endre de retningslinjene.</A>
+          </Replikk>
+          <Replikk Id="i1004126">
+            <A>
+              <Navn personID="SYL">
+Sylvi Listhaug (FrP) [10:07:57]:</Navn> Nå ble jeg litt usikker
+på om finansministeren er enig i statsministerens tidligere uttalelser
+om at oljefondet er et politisk verktøy eller redskap for Norge
+ute i den store verden, eller om finansministeren mener at det som
+er vår oppgave, er å ivareta og forvalte folkets penger på en ansvarlig måte,
+og at det dermed ikke skal være et politisk redskap og verktøy for
+norske politikere ute i den store verden. Dette er ganske viktig,
+og jeg registrerer at i den diskusjonen som nå pågår, er statsministeren
+ingen steder å se. Det ser ut til at han er parkert på sidelinjen,
+og med tanke på de gamle uttalelsene er det kanskje like greit.
+Jeg synes det er viktig å få en tydelig oppklaring av dette, og
+det svaret som finansministeren nettopp ga, var litt ullent i så
+henseende. Jeg vil gjerne ha en oppklaring av dette.</A>
+          </Replikk>
+          <Replikk Id="i1004128">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [10:08:53]:</Navn> Jeg er enig med statsministeren
+–vi er enige, han og jeg. Vi er enige om at det skal være politiske
+retningslinjer for pensjonsfondet, at det er politikerne som har
+det overordnede ansvaret for fondet, at det er vi som, til tross
+for innbitt motstand fra Fremskrittspartiet gjennom mange år, har
+bestemt at vi skulle spare penger i fondet, slik at det nå har blitt
+veldig stort, og at det er vi som, til tross for innbitt motstand
+fra Fremskrittspartiet, fikk på plass handlingsregelen, som gjorde
+at vi ikke bare puttet inn mye penger, men også var varsomme med
+å ta ut for mye penger. Alt dette har bidratt til at vi nå har et
+veldig stort fond. Det er politisk bestemt, det er politiske rammer,
+og det er politiske føringer. Vi, statsministeren og jeg, er også
+enige om at politikerne – Stortinget og regjeringen – ikke skal
+mene noe om enkeltinvesteringer. Hvis vi ser en utvikling som går
+i gal retning når det gjelder enkeltbeslutninger i fondet, må vi
+ikke gripe inn i de enkeltbeslutningene, men endre retningslinjene.
+Det er nettopp det regjeringen, med statsministeren i spissen, har
+invitert til.</A>
+          </Replikk>
+          <Replikk Id="i1004130">
+            <A>
+              <Navn personID="SYL">
+Sylvi Listhaug (FrP) [10:09:58]:</Navn> Det Fremskrittspartiet alltid
+har ønsket, er at vi skal investere noe mer av disse pengene i vårt
+eget land – i infrastruktur, i skatteletter som kan gi vekst og
+utvikling, og det som fondet var tenkt til.</A>
+            <A Type="Minnrykk">Arbeiderpartiet lovde trygg styring i valgkampen, men
+det er det motsatte vi ser nå. Nedbyggingen i eldreomsorgen, skolen
+og helsevesenet fortsetter. Arbeiderpartiet lovde trygg styring,
+helseministeren sa at Norge skal ha verdens beste helsevesen, men
+mens han sier det, står massevis av tilbud rundt omkring i fare.
+I Oslo, i Lærdal, i Nordfjordeid, i Møre og Romsdal og i Nord-Norge
+– ja, over hele landet – legges det ned tilbud. Det skjer til tross
+for at statsbudsjettet inneholder 580 mrd. oljekroner.</A>
+            <A Type="Minnrykk">Det jeg tror folk ikke kan forstå, er hvordan
+det er mulig å bruke så mye penger samtidig som det kuttes i de
+grunnleggende kjerneoppgavene. Jeg lurer på hvordan finansministeren
+kan forsvare å legge fram et budsjett hvor det kuttes i grunnleggende
+velferdstjenester i både Kommune-Norge og staten.</A>
+          </Replikk>
+          <Replikk Id="i1004132">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [10:11:04]:</Navn> Dette er et budsjett
+der det satses mer, der bevilgningene øker til helse, over 3 mrd. kr,
+til kommunene, over 4 mrd. kr, og til veldig mange andre grunnleggende
+velferdsoppgaver. Så det blir mer penger. Men det er også riktig
+at det er prioriteringer. Vi gjennomfører noen kutt fordi vi mener
+det er viktigere å bruke penger på andre områder. Det mener jeg
+er politisk ledelse og politiske valg som denne regjeringen står
+for. </A>
+            <A Type="Minnrykk">For øvrig vil jeg si at Fremskrittspartiet
+ikke bare har stått for litt nyanser når det gjelder pensjonsfondet. Fremskrittspartiet
+har vært imot de viktige veivalgene for pensjonsfondet. Først ønsket
+de å selge unna, på rot, olje og gass på norsk sokkel. Så var de
+imot det som sikret staten inntekter – en egen oljeskatt, en grunnrenteskatt.
+Så vi hadde ikke hatt disse inntektene til staten hvis Fremskrittspartiets
+politikk hadde vært fulgt. De var også imot den viktigste regelen,
+den som har sikret en ansvarlig forvaltning, nemlig handlingsregelen.
+Det var møte etter møte her i salen hvor daværende leder i Fremskrittspartiet,
+Carl I. Hagen, hadde handlingsregelen på lomma, leste opp og gjorde
+narr av hele greia. Så det hadde ikke vært noe oljefond som i dag
+hvis Fremskrittspartiet hadde fått det som de ville.</A>
+          </Replikk>
+          <Replikk Id="i1004134">
+            <A>
+              <Navn personID="SYL">
+Sylvi Listhaug (FrP) [10:12:09]:</Navn> Det hadde nok vært mer investeringer
+i veier, mer investeringer i landet vårt og kanskje et litt mindre
+oljefond, men jeg tror folk hadde hatt stor glede av også det. Det
+ville vært et stort oljefond uansett hvordan en snur og vender på
+det. Når det gjelder eierskapet, var det jo Arbeiderpartiet som var
+villig til å bytte med den svenske stat og gi eierandeler på norsk
+sokkel i bytte mot eierskap i Volvo. La meg si det sånn: Det norske
+folk skal være veldig glad for at det aldri skjedde.</A>
+            <A Type="Minnrykk">Men tilbake til budsjettet: Det er et uomtvistelig
+faktum at det kuttes. Vi ser nå en kriminalitetsutvikling som går
+i helt gal retning. Politiet advarer. Befolkningen er bekymret over
+utviklingen. Det dette budsjettet gir, er i realiteten ingen økning
+i bevilgningene. Tvert imot, sier Politiets Fellesforbund – det
+vil ikke engang dekke lønns- og prisveksten. </A>
+            <A Type="Minnrykk">Mitt spørsmål er: Er ikke finansministeren
+bekymret for utviklingen i kriminalitet? Og hvis han er det, hvorfor
+gjør ikke regjeringen noe med det?</A>
+          </Replikk>
+          <Replikk Id="i1004136">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [10:13:17]:</Navn> Regjeringen er veldig
+opptatt av å bekjempe kriminalitet, både med politi og med forebygging.
+Begge deler er viktig. Det er ikke noen motsetning. Det bevilges
+mer penger til politiet i dette budsjettet. Det har vært en opptrapping
+over flere år, og det er blitt flere ansatte i politiet på veldig mange
+forskjellige nivåer og oppgaver. Det er også slik at ikke bare har
+vi bevilget mer penger til politiet, men vi har også gitt politiet
+og justisetatene økt frihet til å bruke pengene på en bedre måte,
+slik at vi får en mer effektiv ressursbruk innenfor politi- og justissektoren. Det
+er simpelthen ikke riktig at det kuttes. Det økes, og det har vært
+økt over flere år.</A>
+          </Replikk>
+          <Replikk Id="i1004138">
+            <A>
+              <Navn personID="SYL">
+Sylvi Listhaug (FrP) [10:14:01]:</Navn> Det må jeg nesten følge
+opp, for man må sitte oppe i et tårn i et departement for å kunne
+komme med sånne uttalelser. Da ber jeg finansministeren reise ut
+og møte de som jobber på gata, de som jobber i politiet, de som
+står i denne virkeligheten. Det er en virkelighet som er blitt dramatisk forverret
+de siste fire årene, på Arbeiderpartiets vakt – med svenske kriminelle
+nettverk, med en ungdomskriminalitet som øker kraftig, med organisert
+kriminalitet. Det siste var at politiet nå var ute og sa at vi er
+i ferd med å bli svindlet for store beløp i offentlig sektor, at
+dette er en like stor som eller større fare enn narkotikakriminaliteten,
+fordi man henter ut momsinntekter og velferdsordninger som man svindler
+den norske staten med. Det er på toppen av alt det andre norsk politi
+skal holde på med. Jeg lurer på hvor finansministeren får sin informasjon
+fra, når han hevder at politiet har fått mer ressurser de siste
+fire årene.</A>
+          </Replikk>
+          <Replikk Id="i1004140">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [10:15:07]:</Navn> Det er offentlig tilgjengelig
+statistikk som alle kan lese, som viser at det har blitt økte bevilgninger,
+mer innsats fra politiets side, også f.eks. når det gjelder økonomisk
+kriminalitet, som vi tar på det største alvor. Alle forsøk på å
+svindle og lure de norske velferdstjenestene er svært alvorlig, og
+spesielt når det foregår i regi av organiserte og profesjonelle
+kriminelle nettverk. Det er derfor det kom en ytterligere styrking
+nå, men også derfor vi mener det er viktig at vi gir politisektoren
+økt frihet til selv å disponere midlene der de ønsker.</A>
+            <A Type="Minnrykk">Heller ikke da Fremskrittspartiet hadde syv
+justisministre, tror jeg det var, de årene de satt i regjering,
+var det slik at det ikke var mangler og ikke var utfordringer i justissektoren,
+eller for den saks skyld i andre sektorer, men det har vært trappet
+opp, det skal fortsette å trappes opp, og vi skal samarbeide med
+andre land for å bekjempe kriminalitet. Vi skal gjøre det med politi,
+men vi skal også gjøre det med barnevern og forebyggende sektor,
+noe også politiet er opptatt av, fordi de ser at det er en viktig
+oppgave i kampen mot kriminalitet.</A>
+          </Replikk>
+          <Replikk Id="i1004142">
+            <A>
+              <Navn personID="HLI">
+Hans Andreas Limi (FrP) [10:16:30]:</Navn> I forlengelsen av det
+fremlagte statsbudsjettet for 2026 sendte regjeringen også ut på
+høring et forslag om å innføre grunnrenteskatt for såkalte småkraftverk,
+ved å senke grensen fra 10 MW til 1,5 MW, med virkning fra 2027.
+Dette er altså i direkte motstrid med det Arbeiderpartiet lovet i
+valgkampen. Småkraftforeninga har kommet på banen, og de omtaler
+regjeringens forslag som «ikke noe annet enn å lyve», for på direkte
+spørsmål i valgkampen til Arbeiderpartiet bekreftet Arbeiderpartiet
+at det ikke skulle gjøres endringer i rammebetingelsene eller skatte-
+og avgiftsnivået for kraftnæringen de neste fire årene. Rett etter
+valget opplever vi da at det motsatte skjer.</A>
+            <A Type="Minnrykk">Hvordan kan finansministeren forsvare forslag
+om skjerpet grunnrenteskatt i lys av Arbeiderpartiets løfte om stabile
+og forutsigbare rammevilkår for denne bransjen?</A>
+          </Replikk>
+          <Replikk Id="i1004144">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [10:17:39]:</Navn> Grunnrenteskatt er
+en veldig viktig del av det norske skattesystemet. Vi har det innen
+olje og gass, vi har det på vannkraft for de større prosjektene
+– eller over den minstegrensen – vi har det på vind, og vi har det
+på annen bruk av naturressurser. Det gir fellesskapet viktige inntekter,
+og det gir dem på en måte som ikke reduserer insentivene til å investere.
+En grunnrenteskatt gjør at det som er lønnsomt før skatt, også er
+lønnsomt etter skatt. Vi har hatt et fritak for mindre kraftverk,
+og så har vi gjennom årene sett at den grensen har veldig mange utbyggere
+tilpasset seg. De bygger akkurat opp til grensen og ikke over. Det
+betyr at Norge går glipp av mye fornybar kraft, og problemet med
+det er både at det er et samfunnsøkonomisk tap, og at vi får mindre
+kraft inn på nettet. Det kunne ha bidratt til å dempe kraftprisene,
+og det er en dårlig forvaltning av våre vannkraftressurser når skatteregler
+gjør at man ikke bygger ut slik man bør.</A>
+          </Replikk>
+          <Replikk Id="i1004146">
+            <A>
+              <Navn personID="HLI">
+Hans Andreas Limi (FrP) [10:18:46]:</Navn> Finansministeren velger
+å ikke svare på spørsmålet mitt, som handlet om brutte løfter –
+igjen. Man lover altså én ting i valgkampen, og så gjør man noe
+helt annet så snart valget er over. Det er det som er det grunnleggende
+i spørsmålet. Det skaper en uforutsigbarhet, og det vi ser nå, er
+at investeringer legges på is. Resultatet blir sannsynligvis at
+det blir lavere produksjon av kraft fra de småkraftverkene som berøres
+av denne skatteendringen. Så igjen: Hvordan kan finansministeren
+forsvare enda et løftebrudd og bidra til uforutsigbarhet for enda
+en bransje?</A>
+          </Replikk>
+          <Replikk Id="i1004148">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [10:19:24]:</Navn> Representanten snakker
+som om vi har fremmet et forslag i budsjettet. Det har vi ikke.
+Det vi har varslet, er et høringsnotat som skal sendes ut, og så
+skal vi høre, lytte, og eventuelt på grunnlag av det utforme et
+konkret forslag som kommer i et senere budsjett. Det er den måten
+vi gjør det på i Norge. Det gir forutsigbarhet, det gir ryddighet
+i saksbehandlingen, og så skal vi etter høringen eventuelt da fremme
+et forslag som skal behandles i Stortinget. Det er forutsigbarhet,
+det er ikke noe brudd på noe valgløfte.</A>
+            <A Type="Minnrykk">Så er det igjen disse eksemplene: Vel, jeg
+kjenner ikke alle, men det minner litt om de eksemplene som kom
+om formuesskatt i valgkampen, som gang på gang viste seg å være
+feil. Det er ti eksempler som er oppe i mediene nå, ti prosjekter
+som stanses umiddelbart. Det er altså prosjekter som har fått tillatelse
+i perioden 2014–2018 og fortsatt ikke er bygget ut. Det kan jo kanskje
+være en indikasjon på at det ikke er en grunnrenteskatt de aldri
+har sett, som er problemet, men helt andre ting. Det viser bare
+hvordan høyresiden gang på gang bruker gale eksempler i kampen mot
+rettferdige skatter.</A>
+          </Replikk>
+          <Replikk Id="i1004150">
+            <A>
+              <Navn personID="HLI">
+Hans Andreas Limi (FrP) [10:20:31]:</Navn> Vi har ikke behov for
+å bruke gale eksempler, og jeg skal la formuesskatten være. Det
+som er et faktum, er at Arbeiderpartiet, på direkte spørsmål fra
+Småkraftforeninga i valgkampen, i juli, faktisk bekreftet at det
+ikke lå an til endringer i rammebetingelsene for denne viktige næringen
+– og så gjør man altså noe helt annet rett etter valget. Finansministeren
+kan gjerne dekke seg bak at dette er ute på høring, men det er jo
+en grunn til at det sendes på høring. Jeg vil vel tro at finansministeren
+ikke mener at det som er tradisjonen i norsk politikk, er at man
+sier én ting, og så gjør man noe helt annet straks man får muligheten
+til det.</A>
+          </Replikk>
+          <Replikk Id="i1004152">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [10:21:18]:</Navn> Vi er for forutsigbarhet,
+og vi har gitt et skatteløfte om at det samlede skatte- og avgiftsnivået
+skal være uendret, så hvis en skatt eller avgift går opp, skal en
+annen skatt eller avgift ned. Det har vi lagt fram i dette budsjettet.
+For småkraftverk har vi ikke lagt fram noe forslag, men vi har varslet
+og sendt ut et høringsforslag, som så skal høres, og så skal jeg
+på det grunnlaget eventuelt komme med et forslag. Det er forutsigbarhet,
+det er en ryddig saksbehandling av det forslaget.</A>
+            <A Type="Minnrykk">Substansen handler om at vi ser at det regelverket
+vi har i dag, gjør at veldig mye kraft som kunne ha vært utnyttet,
+ikke blir utnyttet på grunn av en tilpasning i skattesystemet. Vi
+trenger kraft, vi trenger lavere kraftpriser, og det er synd om
+Fremskrittspartiet motsetter seg tiltak som kan gjøre at vi får
+mer kraft og får redusert kraftprisen i Norge ved å bygge ut mer
+kraft på en lønnsom måte. Grunnrenteskatt er altså slik at man får
+fradrag mot grunnrenteskatten, og det betyr at lønnsomheten er den
+samme før skatt.</A>
+          </Replikk>
+          <Replikk Id="i1004154">
+            <A>
+              <Navn personID="MARGRT">
+Maren Grøthe (Sp) [10:22:41]:</Navn> Senterpartiet reagerer kraftig
+på forslaget om grunnrenteskatt på småkraft. Det er et bygderan
+og nok et alvorlig løftebrudd fra Arbeiderpartiet. Den 28. august,
+seks dager etter at regjeringen landet sitt budsjett, var energiminister
+Terje Aasland på besøk hos kraftselskapet Ren Røros. Avisen Fjell-Ljom
+skrev følgende: </A>
+            <Sitat Type="Minnrykk">
+              <A>«Skal en tro energiminister Terje Aasland,
+må Ren Røros se langt etter endringer i grunnrenteskatten.»<Fotnote> Sitatet
+fra Fjell-Ljom er ikke fra i år, men fra 5. september 2024.</Fotnote></A>
+            </Sitat>
+            <A Type="Minnrykk">Nok en gang blir det tydelig at en ikke skal
+tro på Arbeiderpartiets statsråder når de sier noe en uke før et valg.
+Hvorfor snakket Arbeiderpartiet så mye usant om budsjettet i valgkampen? </A>
+          </Replikk>
+          <Replikk Id="i1004156">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [10:23:30]:</Navn> Som jeg allerede har
+redegjort for, er det slik at det vi nå gjør, er å sende ut på høring
+et forslag om en skatt som skal bidra til at vi får mer kraft til
+landet vårt, og at vi bygger ut lønnsomme kraftressurser. Vi sender
+forslaget på høring og skal ha en normal saksbehandling av det,
+nettopp fordi vi skal gi den forutsigbarheten til kraftbransjen
+som vi har lovet. Det er slik vi sikrer forutsigbarhet, det er slik
+vi sikrer at det ikke skjer brå endringer i et skatteregime, men
+det er også slik vi sikrer at vi får gjennomført fornuftige endringer
+i skattesystemet. Det er knapt noen annen skatt som er mer rettferdig,
+og som bidrar mer til å legge til rette for investeringer ved at
+det er et nøytralt prosjekt, altså at man får fradrag for akkurat
+den samme skatten mot utgifter som man skattlegger på inntekter. </A>
+          </Replikk>
+          <Replikk Id="i1004158">
+            <A>
+              <Navn personID="MMIKRI">
+Mímir Kristjánsson (R) [10:24:44]:</Navn> Her kommer den røde fare
+(munterhet i salen) – eller den røde fanfare, får vi kanskje si!</A>
+            <A Type="Minnrykk">Folk må lure litt når de følger stortingsmøtene
+dag for dag. I går hadde vi en stor diskusjon her om den enorme,
+nærmest uoverskuelige rikdommen som den norske staten besitter i
+oljefondet. I dag er vi så tilbake til hverdagen, og da er plutselig
+den norske staten igjen veldig fattig – så fattig at man i regjeringens
+forslag til statsbudsjett har valgt å gjøre flere smålige og usosiale
+kutt i velferdsordninger til fattige mødre: kutt i engangsstønaden
+til dem som får barn uten å ha noe særlig inntekt, og et kutt som
+går på tvers av Arbeiderpartiets egne løfter i valgkampen, ved igjen
+å ta inn barnetrygden i beregningen av sosialhjelp, som vil innebære
+at de som går på sosialhjelp, vil få mindre barnetrygd enn det f.eks.
+jeg får. </A>
+            <A Type="Minnrykk">Hva er det som er grunnlaget for at man gjør
+disse smålige og usosiale kuttene, for det kan i alle fall ikke være
+at den norske staten trenger pengene?</A>
+          </Replikk>
+          <Replikk Id="i1004160">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [10:25:46]:</Navn> Først litt til det
+overordnede: Det er riktig at den norske stat er en stat med sterke
+statsfinanser, sterkere statsfinanser enn så godt som alle andre
+land. Det er vi fordi vi har vært gode i forvaltningen av de store
+olje- og gassinntektene, vi har spart absolutt alle inntektene,
+og så har vi bare brukt avkastningen fra et voksende pensjonsfond.
+Vi har også fått de sterke statsfinansene fordi vi ser at vi i framtiden
+vil få økende utgifter til pensjon og pleie og omsorg, og derfor
+må vi bruke de pengene fornuftig. </A>
+            <A Type="Minnrykk">Når det gjelder det konkrete forslaget, om
+å ta hensyn til barnetrygd i utmåling av sosialhjelp, er ikke det
+et kutt – det er null kroner å spare for staten – men det er en omlegging
+for å få en bedre beregning av sosialhjelp. Vi øker de normerte
+satsene og legger inn barnetrygden, slik at de som skal vurdere
+hvor mye penger den enkelte skal få, skal ta hensyn til den reelle
+inntekten. Med to–tre barn og nesten 2 000 kr per barn i barnetrygd
+per måned, er det en ganske stor del. Men det er ikke et kutt; det
+er en annen måte å beregne på, slik at beregningen blir riktigere.</A>
+          </Replikk>
+          <Replikk Id="i1004162">
+            <A>
+              <Navn personID="MMIKRI">
+Mímir Kristjánsson (R) [10:26:57]:</Navn> Her opplever jeg at statsråden
+prøver å tilsløre det regjeringen har gjort. Det er ingen garanti
+for at veiledende sosialhjelpssatser gitt av regjeringen resulterer
+i at det er den sosialhjelpen som blir utbetalt til den enkelte
+barnefamilie i kommunen. Tvert imot er det allerede i dag stor forskjell
+på kommunenes utbetaling av sosialhjelp, og med den kommuneøkonomien
+vi har i dag, er det ingen grunn til å tro at det er enda flere
+kommuner som vil legge på noe på toppen av sosialhjelpen. Å holde barnetrygden
+utenfor sosialhjelpen ble i sin tid feiret som en stor seier av
+hele det rød-grønne flertallet. Det var en sak der mange Arbeiderparti-ledede
+kommuner gikk foran, og der Stortinget fulgte etter – en sak som Arbeiderpartiet
+skrøt av på sine egne nettsider så sent som fram til et par uker
+etter valget. </A>
+            <A Type="Minnrykk">Det handler om helheten i dette, for det gjelder
+jo ikke bare dette forslaget. Det er også kutt i engangsstønaden,
+kutt i overgangsstønaden og ingen prisregulering av barnetrygden.
+Hvorfor er det akkurat mødre med dårlig råd som er blitt den store
+innsparingskilden i dette statsbudsjettet?</A>
+          </Replikk>
+          <Replikk Id="i1004164">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [10:28:01]:</Navn> Når Arbeiderpartiet
+tidligere har kritisert det å legge barnetrygden inn i beregningen
+av sosialhjelp, er det fordi det da har vært et reelt kutt. Da har
+man gjort det uten å øke satsene. Nå øker vi satsene. Så det er
+to helt forskjellige ting. Det har alltid vært kommunene som til
+slutt må gjøre den enkelte vurderingen, men våre veiledende satser går
+opp, og vi tar ingen penger ut av kommuneøkonomien på grunn av at
+vi legger barnetrygden inn. Så det er ikke noe kutt. Det er poenget
+her.</A>
+            <A Type="Minnrykk">Det andre poenget er at når det gjelder barnefamilier,
+er det en betydelig satsing i dette budsjettet – og i tidligere
+budsjetter. Vi har nå fått barnehageprisen ned i 1 200 kr. Det betyr
+at nå er barnetrygden per måned høyere enn barnehageprisen. Det
+var ikke tilfellet før. Da var gjerne barnehageprisen omtrent dobbelt
+så høy som barnetrygden. Det at vi har foretatt en kraftig reduksjon
+i barnehageprisen og en økning i barnetrygden over flere år, er
+ikke minst et tiltak som kommer barnefamiliene til gode.</A>
+          </Replikk>
+          <Replikk Id="i1004166">
+            <A>
+              <Navn personID="MMIKRI">
+Mímir Kristjánsson (R) [10:29:04]:</Navn> Det er riktig at denne
+regjeringen og forrige regjering og forrige stortingsflertall har
+gjort mye bra for barnefamiliene. Derfor er det så underlig at man
+kommer med alle disse målrettede, nærmest kirurgiske kuttene til
+de aller fattigste barnefamiliene.</A>
+            <A Type="Minnrykk">Jeg har lyst til å spørre finansministeren
+om han har lest en bok som heter «The Game». Det er en bok om hvordan
+man skal sjekke opp folk på byen. Der beskrives det en strategi
+som heter «push and pull» – altså at man først må dytte folk vekk
+for å holde på interessen, og så må man «pull them back». Jeg føler
+meg utsatt for, og jeg tror at mange av samarbeidspartiene til Arbeiderpartiet
+føler seg utsatt for, «push and pull» for tiden, føler seg utsatt
+for at man plutselig får reversering av ting man har blitt lovt,
+ting Arbeiderpartiet har lovt, framganger, for så å bli invitert
+inn i varmen for å rette opp akkurat disse kuttene. </A>
+            <A Type="Minnrykk">«The Game» fungerer godt hvis målet er å få
+mange tilfeldige bekjentskaper på byen, men hvis man skal ha et
+mer fast og stabilt forhold, er det andre regler som gjelder. Tror
+ikke finansministeren at det er bedre å ikke reversere disse kuttene
+i hvert budsjett for så å forvente at vi skal forhandle dem opp
+igjen?</A>
+          </Replikk>
+          <Replikk Id="i1004168">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [10:30:10]:</Navn> For det første er det
+ikke noe kutt for barnefamilier, det er mer penger til barnefamilier.
+Den aller viktigste satsingen er at vi over år har økt barnetrygden
+kraftig og redusert barnehageprisene vesentlig. Det er punkt én.</A>
+            <A Type="Minnrykk">Punkt to er at det er riktig at vi på noen
+områder må holde igjen, og det gjør vi jo fordi vi må prioritere
+i vårt budsjett. Vi øker pengebruken kraftig fordi vi skal ha mer
+penger til helse, vi skal ha mer penger til kommunene, vi skal ha
+mer penger til forsvar, vi skal ha mer penger til Ukraina, og vi
+skal betale svært mange milliarder kroner bare for å opprettholde
+folketrygden med de rettigheter folk har. Da må vi altså gjøre noen
+valg, noen prioriteringer, og da må vi holde igjen på noen områder. At
+det er noe kutt til barnefamilier i sin alminnelighet og til dem
+med lave inntekter, er feil, men det er riktig at vi ikke legger
+på overalt, og at det også er noen nominelle videreføringer av beløp
+som har kommet opp på høye nivåer.</A>
+          </Replikk>
+          <Replikk Id="i1004170">
+            <A>
+              <Navn personID="MMIKRI">
+Mímir Kristjánsson (R) [10:31:06]:</Navn> Nok en gang mener jeg
+at finansministeren tilslører realitetene. Det er et kutt til dem
+som får overgangsstønad, det er et kutt til dem som får engangsstønad,
+og det er mindre penger til dem som har barnetrygd og sosialhjelp,
+enn hvis man hadde holdt barnetrygden utenfor beregningen av sosialhjelp.
+Jeg er helt enig i at på noen områder må man holde igjen, men skal
+det være for de aller fattigste enslige mødrene? Kunne man ikke
+holdt igjen på prosjekteringen av de to siste byggene i regjeringskvartalet eller
+på dette skattelotteriet man har? Kunne man ikke holdt igjen på
+lederlønningene i helsevesenet? Må man holde igjen på de aller fattigste
+aleneforsørgerne? Finansministeren nevnte jo kommunene og at man
+må satse på dem. Jeg tror ikke det er mange kommuner i Norge som
+er fornøyd med det regjeringen har lagt fram i sitt statsbudsjett.
+Tvert imot ser man over hele Norge at hverdagsvelferden til folk
+i kommunene er truet. Synes finansministeren egentlig at det er
+rimelig at vi har en så rik stat som vi har, når vi har så fattige kommuner
+som vi har fått?</A>
+          </Replikk>
+          <Replikk Id="i1004172">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [10:32:09]:</Navn> Kommunene får vesentlig
+mer, men la meg først snakke om disse kuttene. For det første er
+barnetrygd inn i sosialhjelp ikke et kutt. Det er ingen innsparing
+på budsjettet. Så det er feil. </A>
+            <A Type="Minnrykk">Når det gjelder engangsstønad, er det en reduksjon, det
+er riktig, men det er en reduksjon ned til det nivået som det er
+beregnet at det koster å få et barn. Her er det også dimensjoner
+som handler om integreringspolitikk, når det gjelder hvem som mottar
+dette. Det er en stor andel innvandrerkvinner, og vi er redd for
+at det kan bidra til å hemme integreringen hvis den engangsstønaden blir
+for høy. </A>
+            <A Type="Minnrykk">Når det gjelder overgangsstønaden, er det en
+omlegging jeg mener er helt riktig. Det er ikke store penger på årets
+budsjett – men bare tenkningen om at enslige forsørgere ikke kan
+forsørge seg selv, tilhører annen tid da det ikke var barnehageplass,
+da det ikke var SFO, og da det var vanskelig for kvinner å forsørge
+seg selv. Det samfunnet lever vi ikke i lenger. Vi lever heldigvis
+i et helt annet samfunn, der de aller fleste kvinner, også de som
+er enslige, kan forsørge seg selv. Da skal vi ikke ha en stønad
+som oppfordrer til å ikke være i aktivitet.</A>
+          </Replikk>
+          <Replikk Id="i1004174">
+            <A>
+              <Navn personID="MMIKRI">
+Mímir Kristjánsson (R) [10:33:15]:</Navn> Det er litt utrolig å
+høre finansministeren her prøve å snakke seg bort fra at man gjør
+kutt i flere veldig målrettede ordninger. Det kan godt hende at
+når man kutter i disse ordningene, forventer man at folk skal begynne
+å oppføre seg annerledes, komme i arbeid, osv. Det første som skjer,
+er at disse foreldrene, som har veldig dårlig råd, får mindre penger.
+Det første som skjer, er at barna deres – som jo ikke skal bli utsatt
+for noen arbeidslinje, for de skal ikke ut i jobb – blir utsatt
+for å få dårligere økonomi hjemme når de vokser opp. Jeg er ikke
+gift med overgangsstønaden, med engangsstønaden eller med det eller
+det tiltaket, men summen i dette budsjettet er en rekke målrettede
+kutt mot de aller fattigste aleneforsørgerne, i all hovedsak alenemødre.
+Da synes jeg finansministeren burde åpne for andre muligheter til
+å styrke økonomien til disse familiene, f.eks. gjennom å øke noe
+som har stått stille veldig lenge, nemlig den utvidede barnetrygden
+som aleneforsørgere får. Den har stått stille, mens barnetrygden
+vi alle får, har økt ganske kraftig de siste årene.</A>
+          </Replikk>
+          <Replikk Id="i1004176">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [10:34:18]:</Navn> Både aleneforsørgere
+og de som ikke er aleneforsørgere, har fått vesentlig økt barnetrygd
+og gleden av lavere barnehagepriser, og vi viderefører det i årets
+budsjett. </A>
+            <A Type="Minnrykk">Poenget er at noe av dette, f.eks. det med
+overgangsstønaden, ikke er noe vi gjør primært for å spare 129 mill. kr
+i budsjettet, som jeg tror det er. Det gjør vi primært fordi vi
+tror det fremmer arbeidslinjen, at det er lettere å komme i jobb.
+Det aller, aller viktigste for å bekjempe fattigdom er å bidra til
+at flere mennesker kan komme i arbeid. Derfor er vi opptatt av både
+et skattesystem som bidrar til det, og også et trygdesystem som bidrar
+til det. Vi har gjort endringer og gjør endringer nettopp for å
+bidra til at det skjer. </A>
+            <A Type="Minnrykk">Det andre er å holde orden i økonomien. At
+prisstigningen nå kommer ned, at lønnsveksten går opp, og at kjøpekraften
+øker – den økte i fjor, økte i år og øker mest sannsynlig også neste
+år – handler om ansvarlig økonomisk politikk, og det handler om
+ansvarlig budsjettpolitikk. Alle, enten de er enslige forsørgere
+eller ikke, får stor glede av at kjøpekraften øker.</A>
+          </Replikk>
+          <Replikk Id="i1004178">
+            <A>
+              <Navn personID="TMV">
+Trygve Slagsvold Vedum (Sp) [10:35:32]:</Navn> Statsråden valgte
+å ikke svare på spørsmålet til representanten Grøthe i stad, så
+jeg kan gjenta det. </A>
+            <A Type="Minnrykk">Den 22. august møter regjeringen til budsjettkonferanse.
+Der konkluderer man med at man skal innføre grunnrenteskatt på mindre
+kraftverk. Uken etter drar Terje Aasland, energiminister i regjeringen,
+som garantert vet om at det vedtaket er fattet, til Røros. Han møter der
+energiselskapet Ren Røros og gir intervju med flere aviser, bl.a.
+avisen Fjell-Ljom. Og hva er det som står der? Jo: </A>
+            <Sitat Type="Minnrykk">
+              <A>«Skal en tro energiminister Terje Aasland,
+må Ren Røros se langt etter endringer i grunnrenteskatten.» </A>
+            </Sitat>
+            <A Type="Minnrykk">Konsernsjefen blir også intervjuet: </A>
+            <Sitat Type="Minnrykk">
+              <A>«Jeg oppfatta at han var kategorisk
+når det gjelder synet på grunnrenteskatten.»<Fotnote> Sitatet fra
+Fjell-Ljom er ikke fra i år, men fra 5. september 2024.</Fotnote></A>
+            </Sitat>
+            <A Type="Minnrykk">Det velger da Terje Aasland å reise rundt og
+si uken etter at han vet at det blir endringer. Hva skal vi kalle
+den type snakk, statsråd?</A>
+          </Replikk>
+          <Replikk Id="i1004180">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [10:36:34]:</Navn> Jeg er helt sikker
+på at energiministeren kan svare for det intervjuet, og hva direktøren
+i dette selskapet har oppfattet og ikke oppfattet. </A>
+            <A Type="Minnrykk">Det jeg kan forholde meg til, er det vi svarer
+på spørsmål fra Småkraftforeninga om hvorvidt vi vil ha stabile
+rammevilkår. Da svarer Arbeiderpartiet ja, og jeg mener at det er
+et stabilt rammevilkår å sende ut på høring et forslag, ha en ryddig
+saksbehandling av det, og så eventuelt fremme et forslag senere
+om en grunnrenteskatt. </A>
+            <A Type="Minnrykk">Jeg mener også det er et problem at vi i denne
+debatten igjen har sett at man prøver å skape et inntrykk av at skatten
+har mye større negative konsekvenser enn den sannsynligvis vil ha.
+Vi skal høre, vi skal lytte, og selvfølgelig justere forslaget hvis
+vi blir overbevist om det, men det tjener ingen å lage et inntrykk
+av at dette er en uforutsigbarhet. Det å gjennomføre grunnrenteskatt
+uten høring ville jeg erkjent kanskje hadde vært litt uforutsigbart,
+men det gjør ikke denne regjeringen. </A>
+          </Replikk>
+          <Replikk Id="i1004182">
+            <A>
+              <Navn personID="INGLIL">
+Ingrid Liland (MDG) [10:37:58]:</Navn> Ved framleggelsen av statsbudsjettforslaget
+skrøt Stoltenberg av at CO<Sub>2</Sub>-avgiften trappes opp, og
+det mener MDG er et steg i riktig retning, men samtidig fritas da
+oljenæringen for opptrapping av CO<Sub>2</Sub>-avgift. Denne skjermingen
+skjer bare noen år etter at den samme næringen fikk en historisk
+lukrativ oljeskattepakke. Resten av norsk økonomi, som f.eks. byggenæringen,
+bærer fortsatt byrden av den pakken – som bl.a. FrP og Arbeiderpartiet
+forhandlet fram – i form av inflasjon og mangel på folk. </A>
+            <A Type="Minnrykk">Arbeiderpartiet har selv sagt at omstillingen
+skal skje på skuldrene av olje- og gassnæringen, noe MDGs forslag
+til utfasingsplan nettopp realiserer, gjennom å sikre forutsigbarhet
+og trygghet for norsk økonomi gjennom en omstilling. </A>
+            <A Type="Minnrykk">Hvorfor mener statsråden at den rikeste, mektigste og
+soleklart mest forurensende næringen skal skjermes fra opptrapping
+av CO<Sub>2</Sub>-avgiften, mens de øvrige næringene og folk flest
+må betale mer?</A>
+          </Replikk>
+          <Replikk Id="i1004184">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [10:38:59]:</Navn> Jeg mener at det å
+prise klimagassutslipp er det absolutt viktigste tiltaket for å
+få ned utslippene. Det er ikke fellesskapet som skal betale for
+å få ned utslippene, det er forurenser, og det er derfor veldig
+bra at vi i Norge nå har sørget for at 85 pst. av utslippene ilegges
+enten CO<Sub>2</Sub>-avgift eller klimakvote. </A>
+            <A Type="Minnrykk">Et viktig prinsipp som vi ikke etterlever i
+samme grad, er at de avgiftene helst bør være like, slik at man gjennomfører
+de billigste tiltakene først. Hvis avgiftene varierer veldig, er
+man ikke sikker på det. En utfordring når det gjelder oljeindustrien
+– og jeg har vært med på å innføre CO<Sub>2</Sub>-avgifter der i
+sin tid – er at de har både CO<Sub>2</Sub>-avgift og kvote, og det
+betyr at for dem blir det lønnsomt å gjennomføre svært dyre tiltak,
+f.eks. disse elektrifiseringsprosjektene fra land. Det er grunnen
+til at vi nå har foreslått det vi har foreslått i budsjettet, men
+fortsatt er det vel ingen annen olje- og gassindustri noe sted i
+verden som betaler en høyere CO<Sub>2</Sub>-avgift enn den norske olje-
+og gassindustrien.</A>
+          </Replikk>
+          <Replikk Id="i1004186">
+            <A>
+              <Navn personID="INGLIL">
+Ingrid Liland (MDG) [10:40:08]:</Navn> I Dagens Næringsliv 3. november
+skriver Iselin Fjeld i ZERO at Energidepartementet frykter at enkelte
+felt kan bli stengt tidlig fordi selskapene både må betale CO<Sub>2</Sub>-avgift
+og kjøpe klimakvoter. Jeg hører statsråden er opptatt av å unngå dobbel
+virkemiddelbruk, men det er jo helt ubegripelig at den næringen
+som aller mest av alle deler av norsk økonomi nettopp har muskler
+til å bære den omstillingen og ta dugnaden på vegne av fellesskapet,
+på vegne av resten av norsk økonomi, skal slippe å betale det som
+minimum er rettmessig når man ser de forurensningene som den næringen
+eksporterer. </A>
+            <A Type="Minnrykk">Det ser nøytralt ut på papiret, men la meg
+bare legge til at fellesskapet allerede er med og bærer dugnaden
+for olje- og gassnæringen gjennom at staten dekker rundt 78 pst.
+av utslippskostnadene også for klimatiltak som elektrifisering.
+Fellesskapet er altså allerede med på en slik dugnad for olje- og
+gassnæringen. Det skulle bare mangle at de i langt større grad var
+med på den dugnaden tilbake. </A>
+          </Replikk>
+          <Replikk Id="i1004188">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [10:41:08]:</Navn> Det er noe med begrepsbruken
+her som er litt spesiell. Altså: Staten er med på dugnaden ved at
+den dekker 78 pst. av utgiftene. Ja, det gjør den, fordi vi skattlegger
+dem med 78 pst.; de har fradrag mot den skatten. Jeg mener det er en
+styrke, det er noe jeg er stolt av. Det er veldig bra at oljeselskapene
+er statlig eid, at vi har direkte statlige eierandeler så pengene
+går rett inn til staten, og det som er privat, skattlegger vi med
+78 pst. Da vil jeg også si at hadde det blitt noe av Volvo-avtalen,
+hadde vi i hvert fall sørget for at 78 pst. av det Volvo fikk, hadde
+kommet tilbake i den norske statskassen – men det er en annen sak. </A>
+            <A Type="Minnrykk">Vi skal skattlegge dem, og det bør fortsatt
+være høy skatt, og da tar vi selvfølgelig også investeringskostnadene
+i henhold til skattesatsen.</A>
+          </Replikk>
+          <Replikk Id="i1004190">
+            <A>
+              <Navn personID="GME">
+Guri Melby (V) [10:42:06]:</Navn> Jeg vil tilbake til sporet fra
+Mímir Kristjánsson om usosiale kutt. Det er mulig at dette er en
+slags push-and-pull-strategi fra regjeringen for å flørte med tuttifruttikameratene,
+men i så fall er konsekvensene alvorlige: både at velgerne føres
+bak lyset, og at det er de fattigste barnefamiliene som nedprioriteres.</A>
+            <A Type="Minnrykk">I valgkampen advarte Arbeiderpartiet gang etter gang
+om at det ville komme en rekke usosiale kutt dersom andre partier
+fikk flertall og det ble et regjeringsskifte. Da skulle man jo tro
+at dette budsjettforslaget, som allerede var ferdig, ikke inneholdt
+spor av såkalte usosiale kutt. Likevel: I dette budsjettforslaget
+er det kutt i engangsstønad, kutt i støtten til enslige foreldre,
+kutt i barnetrygd – som ikke indeksreguleres – kutt i studiestøtte
+for folkehøyskoleelever, kutt i norskopplæring for ukrainere, kutt
+i tilbud til tiggere, kutt i integreringstilskudd, kutt i tannhelse
+og kutt i antall kvoteflyktninger.</A>
+            <A Type="Minnrykk">Spørsmålet mitt er: Hvorfor er det sånn at
+Arbeiderpartiet mener at denne typen kutt gjennomført av en borgerlig
+regjering er usosiale, men når de samme kuttene gjøres av Arbeiderpartiet,
+er de fornuftige og nødvendige?</A>
+          </Replikk>
+          <Replikk Id="i1004192">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [10:43:14]:</Navn> Det var mange eksempler,
+og de er mer eller mindre riktig gjengitt. For det første: Det med
+barnetrygd og at det skal tas hensyn til når sosialhjelpen skal
+utmåles, er ikke et kutt. Det er en omlegging der vi øker satsen
+og legger inn barnetrygden slik at den skal utmåles eller fastsettes
+på en riktig måte, fordi man tar hensyn til den faktiske økonomiske
+situasjonen til den familien som søker om sosialhjelp.</A>
+            <A Type="Minnrykk">Når det gjelder overgangsstønaden, prøvde jeg
+i et tidligere innlegg i dag å forklare at det handler om å legge
+til rette for at flere enslige forsørgere, hvorav 40 pst. har innvandrerbakgrunn,
+kommer i jobb. Hele ideen om at man skal ha en særskilt stønad hvis
+man er enslig forsørger, kommer fra en tid der man tenkte seg at
+hvis man var enslig forsørger, kunne man ikke jobbe. De aller fleste
+enslige forsørgere er enten i jobb eller i utdanning, og det er
+viktig at vi ikke har et system som legger til rette for at man
+ikke er i jobb eller utdanning fordi man får en særskilt stønad
+for å være enslig.</A>
+          </Replikk>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [10:44:15]:</Navn> Da går vi videre
+til neste hovedspørsmål.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1004194">
+            <A>
+              <Navn personID="HEA">
+Henrik Asheim (H) [10:44:29]:</Navn> Jeg må nesten beklage til landbruks-
+og matministeren, men også dette spørsmålet går til finansministeren.</A>
+            <A Type="Minnrykk">Det var helt riktig, det som vi i fellesskap
+i Stortinget gjorde i går, både å vedta en større gjennomgang av
+forvaltningen av oljefondet og å sørge for at forvaltningen er i
+tråd med det som er Stortingets intensjon. Samtidig er det veldig
+viktig i en trygg styring av oljefondet at det styres forutsigbart,
+og at vi har kontroll. Vi er bekymret over den prosessen som har
+ledet opp til dette, og hvilken presedens det legger for styringen
+av fondet i framtiden. Klokken 8.30 i går morges foreslo Arbeiderpartiet et
+hastevedtak i Stortinget om midlertidig å suspendere oljefondets
+etiske regler. Klokken 15 var det altså vedtatt. </A>
+            <A Type="Minnrykk">Et av verdens største pensjonsfond bør ikke
+styres gjennom hasteløsninger i Stortinget. Det tror jeg finansministeren
+er enig i at man burde ha unngått. Mange har spurt hvorfor dette
+ble så akutt. Litt av bakgrunnen kjenner vi: Ifølge finansministeren
+var Etikkrådets håndheving av reglene i ferd med å bli et alvorlig
+problem for fondet. Finansministeren sa bl.a. i sin redegjørelse:</A>
+            <Sitat Type="Minnrykk">
+              <A>«Tidligere i år skrev Etikkrådet at
+de hadde flere teknologiselskaper under utredning knyttet til kriteriene
+for menneskerettigheter og krig og konflikt.»</A>
+            </Sitat>
+            <A Type="Minnrykk">At Etikkrådet undersøkte store teknologiselskaper, var
+imidlertid ikke ny informasjon. Dette sto allerede i årsrapporten
+deres, som kom i mars. I juni behandlet Stortinget fondets etikkregler
+i fondsmeldingen. Da sa finansministeren at systemet rundt oljefondet
+fungerte godt, og at han hadde «tillit til at Etikkrådet og Norges Bank
+følger opp retningslinjene på en god måte». Mitt spørsmål blir derfor:
+Når finansministeren allerede i mars visste at Etikkrådet undersøkte
+flere av verdens største selskaper, hvorfor tok han da ikke tak
+i dette problemet tidligere?</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1004196">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [10:46:20]:</Navn> For det første har
+regjeringen arbeidet med disse spørsmålene nå over noe tid på en
+grundig og ordentlig måte, og vi kommer selvfølgelig ikke til å
+iverksette noen tiltak uten at det er grundig behandlet. Stortinget
+ga oss grunnlag for to ting i går. Det ene var en omfattende utredning.
+Den skal ta sin tid, den skal gjøres av et utvalg, den skal på høring,
+og det skal komme en stortingsmelding. Da er det vanskelig å se
+for seg at det kan være mer grundig, og det går i hvert fall ikke
+for fort. Det andre var altså en fullmakt til og et grunnlag for
+å gjennomføre midlertidige tiltak. Det kommer vi også til å gjøre
+på en grundig måte og komme med de midlertidige tiltakene når vi
+er klare for å iverksette dem. </A>
+            <A Type="Minnrykk">For det tredje: Det som jeg har prøvd å formidle
+i Stortinget og i offentlige sammenhenger, eller i medier, er at
+det er kombinasjonen av mange ting som gjør at vi i løpet av høsten
+ser at det her er nødvendig å gjøre noe, for de retningslinjene
+Stortinget har sluttet seg til, og regjeringen har fastsatt, fører
+et sted som jeg tror et flertall på Stortinget ikke ønsker at vi
+skal havne, nemlig at vi trekker oss ut av verdens største selskaper.
+Det ble klart ikke minst etter at Etikkrådet trakk seg ut av Caterpillar, og
+det gjorde de i august.</A>
+          </Hovedinnlegg>
+          <Replikk Id="i1004198">
+            <A>
+              <Navn personID="HEA">
+Henrik Asheim (H) [10:47:30]:</Navn> Finansministeren sa selv at
+det var en kombinasjon av mange ting, og da er vi nødt til å finne
+ut: Hva var kombinasjonen av alle de tingene? Det er naturligvis
+veldig viktig for måten vi forvalter oljefondet på, at det også
+er forutsigbart og stabilt. Det er regjeringen som fastsetter de
+etiske retningslinjene, og som har myndighet til å endre dem etter
+å ha informert Stortinget. Det er regjeringens ansvar å sikre at
+regelverket fungerer godt, og at vi ikke havner i den situasjonen
+som vi havnet i i går, med brå endringer fremmet og vedtatt på samme
+dag. Hva er det da som har endret seg fra juni, da finansministeren sa
+at etikkreglene fungerte godt, til oktober, da det plutselig ble
+behov for et hastevedtak i Stortinget?</A>
+          </Replikk>
+          <Replikk Id="i1004200">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [10:48:12]:</Navn> August er en måned
+mellom juni og oktober. Det er i august det blir helt klart hvordan
+Etikkrådet og Norges Bank tolker de retningslinjene de har vedtatt.
+Det gjør de på den måten at når et stort selskap som leverer anleggsmaskiner til
+Norge og mange andre land, men som også leverer et lite antall til
+USA, som så leverer til Israel, som så bygger dem om, da er det
+nok til at de mener retningslinjene skal tolkes slik at vi skal
+ut av det selskapet. Det setter en mal. Hvis man også legger den
+malen til grunn for store teknologiselskaper, som de allerede hadde
+varslet at de var i gang med å arbeide med, sier ikke jeg at jeg vet
+hva konklusjonen blir, for det er det ingen som vet når det er et
+uavhengig etikkråd. Det jeg sier, er at sannsynligheten for at den
+konklusjonen kan bli at man trekker seg ut av store selskaper, er
+så stor at jeg for det første mener at man i hvert fall skal varsle
+Stortinget. Det gjorde jeg i redegjørelsen. For det andre mener
+jeg det er riktig at vi tar en fot i bakken, får summet oss som regjering
+og storting, før vi eventuelt lar det skje uten at vi iverksetter
+tiltak. Jeg er glad for at regjeringen har fått fullmakt til å iverksette
+tiltak.</A>
+          </Replikk>
+          <Replikk Id="i1004202">
+            <A>
+              <Navn personID="HEA">
+Henrik Asheim (H) [10:49:15]:</Navn> Det er august som da blir interessant,
+for i august ba finansministeren Etikkrådet om å starte en ny gjennomgang
+av de etiske retningslinjene. Derfor svarte Etikkrådet i et brev
+til finansministeren av 18. august at de varslet «egne gjennomganger
+av offentlige lister over ikke-israelske selskaper». Dette er jo
+slike selskaper og lister som finansministeren har advart mot, selskaper
+som Microsoft, Alphabet og Amazon. Rådet varslet altså nye, systematiske,
+jevnlige gjennomganger av selskaper i et brev av 18. august, som
+svar på en henvendelse fra finansministeren om å gå gjennom det
+på nytt. Da blir mitt spørsmål til finansministeren: Er det endringer
+etter gjennomgangen finansministeren selv ba Etikkrådet om å gjøre,
+som førte til at det nå ble hastverk om midlertidig å suspendere
+etikkreglene?</A>
+          </Replikk>
+          <Replikk Id="i1004204">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [10:50:09]:</Navn> Det jeg er opptatt
+av å si, er at vi ser behov for to ting. Det ene er denne gjennomgangen
+og utredningen, og regjeringen vil raskt ta initiativ til at den
+blir igangsatt. Det kommer til å ta noe tid. Det andre er at forutsigbarhet
+klart er viktig for et så stort og viktig fond, men det er også
+viktig at vi handler i tide dersom vi ser at det er fare for at det
+kan tas beslutninger som undergraver hele ideen ved fondet. Den
+faren, den muligheten, ser vi foreligge. Da mener jeg det er viktig
+at vi ikke kan vente på en utredning som tar lang tid, for å endre
+retningslinjer. Vi må også ha noen midlertidige tiltak, og jeg er
+glad for at et flertall på Stortinget har gitt regjeringen et grunnlag for
+å iverksette det. Jeg ser ikke noen motsetning mellom å utrede og
+å bruke tid på å lage nye retningslinjer – for vi ser at dagens
+retningslinjer kan ha utilsiktede effekter – og samtidig å gi oss
+en mulighet til å unngå at det i mellomtiden fattes beslutninger
+som er i strid med det et stort flertall her på Stortinget ønsker,
+nemlig at det skal være et stort, globalt indeksfond.</A>
+          </Replikk>
+          <Replikk Id="i1004206">
+            <A>
+              <Navn personID="HEA">
+Henrik Asheim (H) [10:51:06]:</Navn> Det er ingen som er uenig i
+noe av det finansministeren sa nå – at det er viktig å ha midlertidige
+regler mens vi gjør en grundig utredning. Dette har 140 av 169 representanter
+stemt for. Det som imidlertid har fremkommet i svarene, og for så
+vidt i mediene og i Stortinget i går, er at dette var varsler som
+kom til finansministeren i august, som svar på en henvendelse han
+hadde sendt til dem. Det ble ny uro med Caterpillar i september
+og oktober. Hvorfor har ikke da finansministeren – som altså har
+ansvaret for etikkreglene, for at dette skal være skikkelig styrt,
+og egentlig også et ansvar for å informere Stortinget – foretatt
+seg noe? Hvorfor endte det da, to–tre måneder etter at dette varselet
+kom, med at det i går kom løse forslag i salen som ble vedtatt samme
+dag? Det er jo en veldig uryddig måte å styre oljefondet på. Er
+finansministeren enig, i etterpåklokskapens lys, i at han burde
+foretatt seg mer og vært mer forutsigbar overfor Stortinget, og kanskje
+kommet med en egen sak i Stortinget da han så disse problemene bygge
+seg opp?</A>
+          </Replikk>
+          <Replikk Id="i1004208">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [10:52:09]:</Navn> Jeg tror vi må skjønne
+hvordan dette fondet styres. Det er ikke slik at Stortinget vedtar
+retningslinjene. Det Stortinget gjør, er å sikre regjeringen politisk
+forankring for at regjeringen og Finansdepartementet vedtar retningslinjene.
+Vi har vært opptatt av å finne måter å forankre det på politisk. Det
+gjorde vi dels gjennom min redegjørelse for en 14 dagers tid siden,
+der jeg la stor vekt på dette og forklarte dette grundig, og dels
+gjennom å snakke med partiene. Vi startet ikke i går morges – vi
+startet for noen dager siden med et vedtak som ikke er så veldig
+komplisert, som er at regjeringen får det politiske grunnlaget vi trenger
+for å gjøre vårt arbeid for å vedta de retningslinjene vi skal vedta.</A>
+            <A Type="Minnrykk">Dette skal gjøres på en ordentlig, ryddig og
+ansvarlig måte. Det er ikke slik at vi har sittet stille i departementet
+i mellomtiden. Vi har kommet ganske langt i tenkningen rundt både
+ny instruks og hvordan vi skal igangsette utredningen, men vi trengte
+den politiske avklaringen – at Stortinget faktisk også mente det
+Stortinget hadde gitt uttrykk for muntlig, gjennom et vedtak, og det
+vedtaket er jeg glad for at Stortinget gjorde.</A>
+          </Replikk>
+          <Replikk Id="i1004210">
+            <A>
+              <Navn personID="HEA">
+Henrik Asheim (H) [10:53:13]:</Navn> Jeg er glad for, og tror for
+så vidt også på, at man ikke har sittet stille i Finansdepartementet
+og ikke gjort noe, men det har jo ikke kommet noen informasjon til
+Stortinget. Tvert imot har diskusjonene handlet om helt andre ting.
+Finansministeren forsøkte nå å forklare Stortinget hvordan dette
+fungerte – dette har jo vært grunnlaget for alle mine spørsmål –
+det er finansministeren og Finansdepartementet som fastsetter etikkreglene,
+og det må forankres i Stortinget, informeres om i Stortinget. Men
+det som har skjedd her, er at finansministeren selv har uttalt at
+han fikk beskjed om dette i august. Han visste at dette var i ferd
+med å bli et problem. Han har ikke laget en kort stortingsmelding
+til Stortinget for å informere om dette. Han har ikke gjort noe
+annet enn, som det ble sagt nå, på fredag å begynne å jobbe med
+forslag som skulle fremmes og vedtas på tirsdag. </A>
+            <A Type="Minnrykk">Den redegjørelsen finansministeren holdt, var
+jo en bestilling fra Stortinget. Det var ikke noe som finansministeren
+selv initierte overfor Stortinget. Derfor er mitt siste spørsmål:
+Når man ser tilbake på dette nå, er finansministeren enig i at man
+her har vært bakpå med å håndtere disse problemene, og at man kunne
+gjort dette på en bedre og mer forutsigbar måte enn vi endte med
+å gjøre i går?</A>
+          </Replikk>
+          <Replikk Id="i1004212">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [10:54:17]:</Navn> For det første: Det
+er ikke riktig at Stortinget ikke har fått noen informasjon. Stortinget
+fikk en veldig omfattende redegjørelse ganske kort tid etter at
+Stortinget igjen var samlet – da hadde jeg en grundig redegjørelse
+der alt dette ble beskrevet og disse problemstillingene reist. Etter
+det har vi – ikke jeg, men våre folk i finanskomiteen – hatt kontakt
+med partiene her på Stortinget, og så er det formulert et vedtak
+som gir oss den politiske ryggdekningen vi trenger. Igjen: Det er
+regjeringen som skal fastsette retningslinjer, det er vi som skal
+ta ansvaret for utformingen av dette. Det er vi godt i gang med,
+og vi kommer til å komme med konkrete forslag ganske snart. </A>
+            <A Type="Minnrykk">Til det at vi ikke har handlet: Vel, jeg mener
+vi faktisk har handlet ganske raskt i en situasjon der vi så at
+noe utviklet seg i en retning som vi ikke ønsket, og i stedet for å
+vente på fondsmelding og utredning har vi handlet i tide, slik at
+vi unngår utilsiktede virkninger. Egentlig er jeg ganske fornøyd
+med denne prosessen. </A>
+          </Replikk>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [10:55:20]:</Navn> Vi går til
+neste hovedspørsmål.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1004214">
+            <A>
+              <Navn personID="TMV">
+Trygve Slagsvold Vedum (Sp) [10:55:28]:</Navn> I fjor høst, da vi
+hadde statsbudsjettet til behandling, foreslo Høyre å kutte i ordningen
+med gratis ferje. Det har vært en del framme i mediene allerede.
+Høyre foreslo å stoppe innføring av nedskriving av studielån. Høyre
+foreslo å kutte kraftig i bredbåndssatsingen. Høyre foreslo å legge
+ned de 14 passkontorene som har blitt opprettet. Sånn kunne jeg
+fortsatt. Så skulle statsråden legge fram sitt budsjett på vegne
+av Arbeiderpartiet, og der lå alle Høyres kutt fra i fjor. Sånn
+var det der.</A>
+            <A Type="Minnrykk">Vi gikk så inn i avgiftskapittelet og så på
+Høyres forslag fra i fjor. Høyre foreslo at man skulle innføre gjødselavgift.
+Arbeiderpartiet var en del av en regjering som argumenterte med
+at det kom til å føre til høyere kostnader for folk. Det ville øke
+matprisene, det var ikke effektivt, og det ville ikke få ned norske
+klimagassutslipp på noen god måte. Nå har det blitt Arbeiderpartiets
+politikk etter valget.</A>
+            <A Type="Minnrykk">Høyre har kritisert Arbeiderpartiet og Senterpartiet gang
+etter gang, hele stortingsperioden, for at man ikke har økt avgiftene
+på drivstoff, men i fjor foreslo de også det. Bjørnar Skjæran, som
+statsråden kjenner godt, var en veldig aktiv talsperson for at det
+rammer sosialt skjevt hvis man øker avgiftene på drivstoff – det
+er vanskeligere for dem som ikke har mulighet til å ta trikk eller
+buss, det er vanskeligere for dem som bor rundt omkring i hele Norge.
+Derfor valgte Senterpartiet og Arbeiderpartiet sammen å holde avgiftene
+på drivstoff nede. Vi så at det ikke er alle i Norge som kan kjøpe
+seg ny bil, det er ikke alle i Norge som kan kutte ut å bruke bilen, men
+heller ta bussen. Likevel var det nå, da statsbudsjettet ble lagt
+fram, plutselig Arbeiderpartiets politikk.</A>
+            <A Type="Minnrykk">Mitt spørsmål til statsråden er: Hvorfor har
+Arbeiderpartiet i dette budsjettet på veldig mange områder kopiert
+det som var Høyres budsjettforslag i fjor?</A>
+          </Hovedinnlegg>
+          <Merknad>
+            <Handling>
+              <A>
+                <Uth Type="Sperret">Morten Stordalen</Uth> hadde
+her overtatt presidentplassen.</A>
+            </Handling>
+          </Merknad>
+          <Hovedinnlegg Id="i1004216">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [10:57:25]:</Navn> Vi har lagt fram det
+budsjettet vi mener er best for Norge for å trygge landet, for å
+trygge økonomien og for å trygge velferden. I det budsjettet har
+vi også lagt fram en del omlegginger, f.eks. på skatteområdet, som
+jeg mener er helt i tråd med sosialdemokratisk tenking.</A>
+            <A Type="Minnrykk">Det er riktig at drivstoffavgiftene har økt
+noe. For en gjennomsnittlig dieselbil som kjører en gjennomsnittlig
+lengde i året, er det 600 kr. Jeg sier ikke at det er et ubetydelig
+beløp i året, men det er 600 kr. Til gjengjeld har vi redusert elavgiften
+for en gjennomsnittlig bolig med 900 kr, og bor man i et rekkehus,
+er det 1 100 kr, så da går man allerede i overskudd. Hvis man har
+en inntekt på inntil 700 000 kr, får man 1 000 kr oppå det i redusert
+inntektsskatt. Vanlige folk med vanlige inntekter og vanlig dieselbil
+går i overskudd med vårt skatteopplegg, men det er en omlegging
+der man altså reduserer skatt på arbeid og reduserer skatten på
+strøm, og så er det noe økning på forurensende aktiviteter. Det
+er helt i tråd med det Arbeiderpartiet alltid har ment.</A>
+            <A Type="Minnrykk">Når det gjelder gjødselavgiften, er det – igjen
+– ikke et forslag, det er en høring. Det er fordi vi har sett gode resultater
+av å sørge for at forurenser betaler, at det har en pris. Det gjør
+at man ser på andre måter å innrette aktiviteten på. 85 pst. av
+norske utslipp er enten skattlagt eller kvote. Landbruket er nå
+en av de få sektorene som ikke har noen som helst pris på sine utslipp.
+Vi har både et økende problem med utslipp av lystgass, som er en veldig
+kraftfull klimagass, og vi har problemer med overgjødsling i bl.a.
+Oslofjorden og andre steder. Da vil vi sende på høring et forslag
+som har virket veldig bra i resten av økonomien, og se om det kanskje
+også kan virke bra innenfor denne sektoren av økonomien. Vi vil
+se på høringssvarene, se på resultatene og så fremme et forslag
+på en ryddig måte, dersom vi etter høringen mener at det fortsatt
+er en god idé. Det er vanskelig å skjønne at et tiltak som virker
+veldig bra alle andre steder, ikke skal kunne virke bra også i denne
+sektoren.</A>
+          </Hovedinnlegg>
+          <Replikk Id="i1004218">
+            <A>
+              <Navn personID="TMV">
+Trygve Slagsvold Vedum (Sp) [10:59:33]:</Navn> Jeg er ikke sikker
+på hvor mange timer statsråden har brukt på å sette seg inn i gjødselpolitikken.
+Det er viktig at man ikke sier noe feil til Stortinget, for at det
+er et veldig stort problem med overgjødsling i Norge, tror jeg ikke statsråden
+har faglig belegg for – men jeg skal være litt romslig på det og
+gå tilbake til bilavgiftene.</A>
+            <A Type="Minnrykk">I proposisjonen nå foreslår Arbeiderpartiet
+at man skal mer enn doble avgiftene på diesel. Det er det som ligger
+der, for det er en opptrappingsplan. Én ting er de avgiftene man
+skal øke i år, men man sier også at man skal trappe dem videre opp.
+Når man regner det ut – og regjeringen har også svart det til interesseorganisasjoner
+– er planen å øke det jevnt og trutt hvert eneste år, og at avgiftene
+skal øke med ca. 7 kr. I dag er dieselavgiften på ca. 6 kroner og
+50 øre. Det er klart at det teoretisk sikkert ikke er noe problem
+å øke med 7 kr, men i det virkelige liv er det et problem hvis man
+skal doble avgiftene på diesel. Det er et problem for dem som har
+den gamle dieselbilen.</A>
+            <A Type="Minnrykk">Ser Arbeiderparti-statsråden at det er en utfordring at
+det store flertallet som har de eldste bilene, er dem som har minst
+penger, eller bekymrer det ikke Arbeiderparti-statsråden i det hele
+tatt at man bare skrur avgiftene opp for dem som tar vare på den
+gamle bilen sin, og så skal man gi skatteletter på andre områder?</A>
+          </Replikk>
+          <Replikk Id="i1004220">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [11:00:44]:</Navn> Det hadde bekymret
+meg hvis det var det eneste vi gjorde, men det er ikke det eneste
+vi gjør. Det er riktig at vi øker avgiftene på diesel noe – altså
+600 kr for en gjennomsnittlig bruk – og så reduserer vi skatten
+for en med vanlig inntekt med 1 000 kr, så da har man allerede gått
+i overskudd på det. Hvis man i tillegg har strømutgifter, får man
+redusert elavgift. Vi driver ikke og øker skattene for vanlige folk,
+vi reduserer faktisk de samlede skattene og avgiftene for vanlige
+folk, men vi vrir dem om, slik at de både er mer rettferdige og
+fremmer mer miljøvennlig adferd. </A>
+            <A Type="Minnrykk">Jeg skal være forsiktig med å diskutere gjødseldetaljer
+med representanten Slagsvold Vedum, men det som i hvert fall er
+redegjort for i høringsnotatet, er at det er et problem at det kommer
+mye næringssalter ut i havet og vannet, bl.a. fordi det gjødsles,
+og at man kan få det ned med mer presisjonsgjødsling. Presisjonsgjødsling
+blir mer lønnsomt dersom det er en avgift på denne mineralgjødselen.
+I tillegg er det klart at økte kostnader vil kompenseres gjennom
+landbruksoppgjøret, så dette vil vri innsatsen i landbruket, ikke
+øke de samlede kostnadene eller redusere inntektene til bøndene.</A>
+          </Replikk>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:02:02]:</Navn> Vi går videre
+til neste hovedspørsmål.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1004222">
+            <A>
+              <Navn personID="STILIL">
+Stig Even Lillestøl (FrP) [11:02:19]:</Navn> Mitt spørsmål går også
+til finansministeren.</A>
+            <A Type="Minnrykk">Regjeringen har i statsbudsjettet sitt foreslått
+å heve kompensasjonsordningen for fiskeflåten med 140 mill. kr og
+utvide ordningen for å dekke fiske i fjerne farvann. Det gjør man
+i stedet for å fjerne en særnorsk CO<Sub>2</Sub>-avgift for næringen
+som har flere negative konsekvenser. </A>
+            <A Type="Minnrykk">I dag er det opptil flere millioner kroner
+å spare i året for norske sjøfarere ved å reise til Danmark eller Shetland
+for å fylle drivstoff, for i utlandet slipper de å betale denne
+avgiften. Klimapolitikken, som altså har til hensikt å redusere
+brenning av diesel, fungerer i praksis på en måte som gjør at man
+reiser lenger og slipper ut mer CO<Sub>2</Sub> totalt. Avgiften
+medfører også økte kostnader for bedrifter som må bruke tid, penger
+og mannskap på unødvendige omveier. I tillegg mister drivstoffleverandører
+i Norge omsetning, noe som i verste fall kan gå ut over beredskapen
+vår, om de må legge ned driften. Jeg mener det er viktig for sikkerheten
+vår at vi lagrer og omsetter drivstoff i Norge.</A>
+            <A Type="Minnrykk">Jeg skal også presisere at kompensasjonsordningen som
+gir penger tilbake til fiskeriflåten, kun dekker en liten andel
+av det de må betale inn i avgifter. Diesel som fylles i utlandet,
+er gjerne uten tilsatt biodrivstoff. For rederier virker avgiftene
+som et anker lenket til foten i møte med konkurranse fra utlendinger
+og landbasert transport. Når nærskipsfarten samtidig rammes av EUs kvotesystem,
+oppstår en dobbeltbeskatning på de samme CO<Sub>2</Sub>-utslippene.
+Det er denne typen politikk som har gjort at over 65 pst. av skipene
+som opererer i norske farvann, nå har utenlandsk flagg.</A>
+            <A Type="Minnrykk">Derfor lurer jeg på om finansministeren opplever
+at den særnorske avgiften virker etter sin hensikt, som er å øke
+velstanden for mennesker globalt ved å redusere CO<Sub>2</Sub>-utslipp
+fra norske fartøy.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1004224">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [11:04:10]:</Navn> Representanten peker
+på et dilemma. Det er ingen tvil om at det at man betaler CO<Sub>2</Sub>-avgift,
+bidrar til å redusere utslippene. De inntektene vi får ved å øke
+CO<Sub>2</Sub>-avgiftene, har vi brukt til å redusere andre skatter
+og avgifter. Slik er det ikke samlet sett noen skatte- og avgiftsøkning,
+men en omlegging der det er mer skatt på forurensing og mindre skatt
+på f.eks. arbeid, og redusert elavgift. Så er det et problem, eller
+i hvert fall en utfordring, når det gjelder de virksomhetene som
+lett kan tanke og skaffe seg drivstoff i andre land, eller for den
+saks skyld flytte virksomheten til andre land. Der er det et reelt
+problem med karbonlekkasje. Det er også grunnen til at vi for de fiskeflåtene
+som opererer i fjerne farvann, nå har gått bort fra det opprinnelige
+forslaget, dempet utslagene veldig og laget et nytt system, nettopp
+for å redusere risikoen for karbonlekkasje. Det er et reelt problem,
+en vanskelig avveining, som jeg mener vi har tatt høyde for i det
+budsjettforslaget som nå er lagt fram.</A>
+          </Hovedinnlegg>
+          <Replikk Id="i1004226">
+            <A>
+              <Navn personID="STILIL">
+Stig Even Lillestøl (FrP) [11:05:14]:</Navn> Jeg registrerer at før
+valget kunne Arbeiderpartiet i flere fylker langs kysten skryte
+av at de nettopp hadde utsatt sitt eget forslag om å ta CO<Sub>2</Sub>-avgift
+fra norske fiskebåter i såkalt utenriksfart. Det er riktig at regjeringen
+i statsbudsjettet for 2026 erkjenner problemet med karbonlekkasje
+som oppstår på grunn av avgiften. Da lurer jeg på om finansministeren
+tror at den beskjedne økningen i kompensasjonsordningen som er foreslått,
+vil stanse dette fenomenet med bunkring i utlandet.</A>
+          </Replikk>
+          <Replikk Id="i1004228">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [11:05:45]:</Navn> Jeg er helt sikker
+på at det hjelper, og at det er viktig. Det er jo den kompensasjonsordningen
+som har vært det viktigste virkemiddelet. Så jeg mener både lavere
+satser og kompensasjonsordning er effektive og treffsikre virkemidler.
+Så får vi følge utviklingen nøye. Men som jeg sier: Det er en avveining,
+for nå er det slik at 85 pst. av norske utslipp har en avgift. Det
+er det mest effektive virkemiddelet for å få ned utslippene.</A>
+            <A Type="Minnrykk">Denne regjeringen og Arbeiderpartiet er i hvert
+fall bekymret for klimagassutslipp. Det er mulig det er mindre uro
+for det i Fremskrittspartiet, men vi er nødt til å ta det på alvor.
+Vi har en avtale – som også Fremskrittspartiet sluttet seg til da
+de var i regjering; de sluttet seg til Parisavtalen – som gjør at
+vi må få ned våre utslipp, og vi må redusere dem på billigst mulig
+måte. Det oppnår vi gjennom CO<Sub>2</Sub>-prising. Så må vi ta
+hensyn til faren for karbonlekkasje, og det gjør vi gjennom dette
+budsjettforslaget.</A>
+          </Replikk>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:06:34]:</Navn> Vi går videre
+til neste hovedspørsmål.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1004230">
+            <A>
+              <Navn personID="MARHAM">
+Marthe Hammer (SV) [11:06:58]:</Navn> Mitt spørsmål går også til
+finansministeren.</A>
+            <A Type="Minnrykk">Det går godt her i Noreg, men det går ikkje
+godt for alle. Det har vore ein eventyrleg vekst i formuane i dette landet
+dei siste åra. Formuane til personlege eigarar av unoterte selskap
+har vakse langt meir enn norsk økonomi, og mens medianinntekta til
+vanlege folk har auka med knappe 3,8 pst., har likningsverdien for
+personleg eigde unoterte selskap auka med 156 pst. sidan 2011 – og
+endå meir om vi legg marknadsverdien til grunn.</A>
+            <A Type="Minnrykk">Samtidig veks nesten 10 pst. av barna i Noreg
+opp i ein fattig familie. Det betyr at i gjennomsnitt to til tre elevar
+i kvart klasserom veks opp i ein familie med dårleg råd. Det gjeld
+derimot ikkje dei 300 barna av Noregs aller rikaste som Kapital
+for nokre veker sidan kunne informere om at sat på ein verdi på
+ikkje mindre enn 672 mrd. kr. I dag fekk vi tal frå Statistisk sentralbyrå som
+seier at endå fleire unge aleinebuande og einslege forsørgjarar
+enn før slit med å få endane til å møtast i Noreg. Det skjer altså
+samtidig med at dei rikaste i landet er blitt fleire.</A>
+            <A Type="Minnrykk">Det er eit problem i Noreg i dag at forskjellane
+aukar – at dei aller, aller rikaste stikk frå. Dei superrike i Noreg har
+blitt så rike at det er vanskeleg å fatte. NRK kunne i vår melde
+at salet av Ferrari- og Lamborghini-bilar har auka parallelt med
+formuen til dei rikaste nordmennene. Dei tre rikaste har ein formue
+på 490 mrd. kr.</A>
+            <A Type="Minnrykk">I ein slik situasjon, når denne ulikskapen
+eksisterer i Noreg, er det vårt ansvar som folkevalde å dele ressursane
+i samfunnet betre. Finansministeren har invitert til eit arbeid
+med ein skattekommisjon og til eit skatteforlik. Då er mitt spørsmål:
+Korleis tenkjer finansministeren at eit skatteforlik med høgresida
+vil sikre at ulikskapen i Noreg går ned og ikkje opp?</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1004232">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [11:09:04]:</Navn> Først vil jeg bare
+si at jeg deler veldig bekymringen for økt ulikhet, og det er veldig
+sterke krefter i økonomien – både i Norge og globalt – som trekker
+i retning av at de som har mye, får mer, at de som har mye kapital,
+får stor avkastning, og at forskjeller øker. Derfor trenger vi politikk
+for å motvirke forskjeller. Det viktigste virkemiddelet er egentlig
+en sterk offentlig sektor som omfordeler mye, gjennom at vi trekker
+inn skatter og omfordeler dem gjennom både offentlige tjenester
+og ulike overføringsordninger, og vi trenger et progressivt skattesystem.</A>
+            <A Type="Minnrykk">Regjeringen legger faktisk fram noen forslag
+i dette budsjettet der vi tetter skattehull, noe som helt klart
+har en omfordelende effekt, og de pengene vi får ved å øke den effektive
+beskatningen av noen av de mest velstående menneskene i Norge, deler
+vi ut i form av f.eks. lavere inntektsskatt og lavere elavgift for
+alle, og ikke minst er det til stor fordel for dem som har lavest
+inntekt.</A>
+            <A Type="Minnrykk">Vi har invitert til et skatteforlik, og det
+er fordi jeg mener at det er lettere å få til store reformer dersom
+det er bred forankring for dem, spesielt i et oppsplittet politisk
+landskap. Jeg mener det er en fordel at det kan stå seg over tid.
+Hvor lett det blir å få til et skatteforlik, er det ikke mulig å
+si noe sikkert om i dag, men jeg mener at det er verdt et forsøk
+og viktig å prøve, og at vi alle har et ansvar for det.</A>
+            <A Type="Minnrykk">Jeg vil også si – selv om man alltid bør være
+forsiktig med å trekke for mange historiske paralleller – at i det siste
+skatteforliket jeg var med på, i 2005, fikk vi innført utbytteskatt.
+Det var en viktig omfordelende skatt som da kom på plass. Det skatteforliket
+jeg så vidt var borti, var i 1992, og da fikk vi tettet veldig mange
+skattehull og økt den effektive beskatningen av inntekter. Vi har
+altså før fått til skatteforlik med høyresiden som har bidratt til
+et mer effektivt og mer rettferdig skattesystem. Om vi får det til
+igjen, vet jeg ikke, men jeg er i hvert fall villig til å forsøke.</A>
+          </Hovedinnlegg>
+          <Replikk Id="i1004234">
+            <A>
+              <Navn personID="MARHAM">
+Marthe Hammer (SV) [11:11:04]:</Navn> Eg er glad for å høyre at
+finansministeren langt på veg deler vår verkelegheitsforståing om
+ulikskap, men det er samtidig urovekkjande at eit sosialdemokratisk
+parti er så lite oppteke av å gjere noko med det. Det er eit faktum
+at når store formuar blir samla på færre hender, blir velferda stramma
+inn. Eg ser ikkje noko anna enn at det blir varsla kutt i svært
+mange kommunar med det statsbudsjettet som Arbeidarpartiet nettopp
+har lagt fram, og at det blir varsla at det må prioriterast stramt. </A>
+            <A Type="Minnrykk">Denne hausten har vi sett at foreldre med barn
+i barnehage organiserer seg i foreldreopprøret for betre bemanning
+i barnehagen, fordi dei opplever at barna går klissvåte ute om vinteren
+fordi det ikkje er nok folk på jobb. Dette er ei bemanningskrise
+som norsk velferd står i, og det trengst meir pengar.</A>
+            <A Type="Minnrykk">Difor lurer eg på korleis finansministeren
+ser for seg at det i eit skatteforlik med Høgre og Framstegspartiet
+er mogleg å få til meir pengar til velferd og omfordeling.</A>
+          </Replikk>
+          <Replikk Id="i1004236">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [11:12:10]:</Navn> Et skatteforlik kan
+ha veldig mange ulike former, og jeg synes det er litt tidlig å
+si hva slags skatteforlik det skal bli. Det kan være et forlik om
+systemendringer, slik vi på mange måter hadde i 2005, da vi avskaffet
+det som het delingsmodellen, som var et komplisert system for hvordan man
+skulle skattlegge næringsinntekt og personinntekt, og innførte det
+som kalles fritak og aksjonærmodellen, og altså utbytteskatt. Det
+var et forlik som handlet mindre om skattenivå og mer om skattesystem,
+og jeg mener at hovedtrekkene i det har virket godt siden 2005.
+I 1992 var det en annen type forlik. Det var egentlig å bredde grunnlagene
+og redusere satsene, og det er faktisk hovedelementer derfra som
+fortsatt gjelder i det norske skattesystemet. </A>
+            <A Type="Minnrykk">Om det skal være en systemendring eller en
+skatteskiftereform, er for tidlig å si, men jeg mener det er en fordel
+dersom vi kan få med oss høyrepartiene på noe som kan stå seg over
+flere stortingsperioder. Vi kan fortsatt være uenige om f.eks. skattenivå,
+og helt sikkert også om noen satser, avhengig av hvor bredt dette
+forliket blir, men jeg mener det er et forsøk verdt, og det er det som
+er hovedbudskapet mitt i dag.</A>
+          </Replikk>
+          <Replikk Id="i1004238">
+            <A>
+              <Navn personID="MARHAM">
+Marthe Hammer (SV) [11:13:18]:</Navn> Dei siste dagane har det handla
+mykje om oljefondet og teknologiselskap, men det er ikkje berre
+innanfor oljefondet debatten rundt store verdiar i teknologiselskap
+er viktig å ta. Det gjeld like mykje innanfor skatt. Vi har i dag
+teknologiselskap som er verdsmeistrar i å ikkje betale skatt til samfunna
+dei hentar ressursane frå eller verkar i. Vi har i tillegg bankane
+i Noreg, som for berre eit par veker sidan kunne vise til rekordoverskot,
+og som har skodd seg svært godt på at folk har slite med auka renter.
+I tillegg har vi vårt eige vesle skatteparadis av ei reiarnæring
+her i Noreg som ikkje skattar. Samtidig slit Kommune-Noreg med å
+få budsjetta sine til å gå opp. Kommune-Noreg gjekk 4 mrd. kr i
+minus i fjor, og kommunepolitikarane har store problem no om dagen. </A>
+            <A Type="Minnrykk">Mitt spørsmål til finansministeren og Arbeidarpartiet
+er: Korleis skal eit skatteforlik med eit frose skattenivå sikre
+at dei sektorane som i dag ikkje blir skattlagde, eller ikkje blir
+skattlagde så mykje, bidreg meir, slik som bankar, teknologigigantane
+og reiarnæringa?</A>
+          </Replikk>
+          <Replikk Id="i1004240">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [11:14:22]:</Navn> For det første mener
+jeg det er mulig å få til forlik som også bidrar til en mer rettferdig
+fordeling, men igjen: Det gjenstår å se om vi kan få til det. I
+mellomtiden kommer denne regjeringen til å fremme forslag som bidrar
+til et mer rettferdig skattesystem. Det har vi gjort i det forslaget
+som ligger i Stortinget nå. Der har vi bl.a. foreslått å avskaffe det
+som heter flertrinnsmodellen i eiendomssektoren, som har vært et
+svært skattehull. Noen av de mest velstående menneskene i Norge
+har kommet unna med ingen gevinstbeskatning av gevinster i eiendomssektoren.
+Det foreslår vi nå å få tettet. For det andre har vi foreslått å
+fjerne en adgang banker har hatt til å ha doble rentefradrag, både
+i Norge og i utlandet. Det foreslår vi å få tettet. Det er også
+et par andre skattehull vi vil gjøre noe med. Dette er store og
+viktige endringer som gjør at vi får mer penger fra banker og fra
+noen av dem som har de største inntektene i landet vårt, og så bruker vi
+de pengene på rettferdig fordeling – reduserte skatter for dem med
+vanlige inntekter. Dette gjør vi, og vi kan gjøre mer av det i framtiden
+– helst med brede forlik, men alternativt kan vi gjøre det med mindre
+flertall her i Stortinget.</A>
+          </Replikk>
+          <Replikk Id="i1004242">
+            <A>
+              <Navn personID="MARHAM">
+Marthe Hammer (SV) [11:15:38]:</Navn> Eg trur ikkje finansministeren
+forstår alvoret i situasjonen, og at vi ikkje har noko anna val
+enn å skaffe meir pengar for å sikre folka som jobbar i barnehage,
+skule og sjukehus, i åra framover. Eg er bekymra for at skatteløftet
+til Arbeidarpartiet i realiteten er eit løfte om sakte å leggje
+ned velferdsstaten og å ikkje gjere nok for å få ned ulikskapen. </A>
+            <A Type="Minnrykk">Finansministeren svarte tidlegare i denne ordvekslinga
+at ein ønskjer seg ein sterk offentleg sektor, men likevel er ein
+mest oppteken av å gå til val på eit skattenivå som er på same nivå,
+og å inngå eit skatteforlik. Eg meiner at i den historieforteljinga
+om tidlegare skatteforlik som finansministeren snakka om, er det
+primært eitt parti som har vore lojal til dei skatteforlika – det
+er Arbeidarpartiet, ikkje høgresida. Idet høgresida kjem til makta,
+ser vi at dei ikkje held seg til skatteforlik i det heile. Det første
+Erna Solberg og Siv Jensen gjorde då dei fekk makta i 2013, var
+å ikkje halde seg til det skatteforliket. </A>
+            <A Type="Minnrykk">Kva er det som gjer at finansministeren denne
+gongen – med eit rekordstort Framstegspartiet – trur at høgresida
+vil vere lojale til eit skatteforlik?</A>
+          </Replikk>
+          <Replikk Id="i1004244">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [11:16:50]:</Navn> Helt sikker er man
+jo aldri i livet, men man bygger sine beslutninger på erfaringer.
+Jeg har vært med på å inngå forlik med høyrepartier før, bl.a. to
+forlik når det gjelder pensjon, og de står seg som bare det, alle
+er lojale mot dem. Jeg har observert og deltatt i tre skatteforlik.
+To av dem står seg som bare det – de fra 1992 og 2005. Det fra 2015 kjenner
+jeg ikke så godt til, men jeg forstår at man ikke har fulgt det
+opp slik man skulle. Det blir fem forlik til sammen, og fire av
+dem står seg. Da er det verdt å prøve en gang til og satse på at
+det kommer til å gå strålende denne gangen også.</A>
+          </Replikk>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:17:30]:</Navn> Vi går videre
+til neste hovedspørsmål.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1004246">
+            <A>
+              <Navn personID="JLO">
+Jorunn Gleditsch Lossius (KrF) [11:17:46]:</Navn> En av de største
+utfordringene vi står overfor, er nettopp de lave fødselstallene.
+Det skal virkelig ikke være sånn at vi som politikere skal løpe
+rundt og nøde folk til å få flere barn, det må de strengt tatt få
+finne ut av selv. Samtidig viser det seg at mange ønsker seg flere
+barn enn det de faktisk får, og da må det jo være vår oppgave som
+politikere å gjøre alt vi kan for å fjerne de økonomiske og strukturelle
+barrierene som hindrer folk i å realisere sine familiedrømmer. </A>
+            <A Type="Minnrykk">Denne regjeringen gjør jo det stikk motsatte.
+Da snakker vi om dypt usosiale kutt i foreldrefradraget, i sosialhjelpen
+og i støtten til enslige forsørgere. Regjeringens kutt i engangsstønaden
+på over 30 000 kr vil ramme familier, mødre – ja, unge mødre, som
+ofte har sårbar økonomi. Samtidig har halvparten av barnefamiliene fått
+dårligere råd, ifølge Frelsesarmeens fattigdomsbarometer, og da
+hjelper det veldig lite med 320 kr ekstra i studiestøtte. Lavere
+priser for SFO og barnehage hjelper jo heller ikke dem med dårligst
+økonomi, for de har allerede krav på gratis kjernetid. </A>
+            <A Type="Minnrykk">Hvorfor kuttes det i økonomien for mor i barnets første
+leveår, når trygg økonomi er så avgjørende med tanke på å gi barnet
+en bedre start på livet? Det forstår jeg virkelig ikke. Vi vet også
+at dårlig økonomi fortsatt er en av grunnene til at mange unge kvinner
+velger abort. Mener finansministeren at det er riktig å kutte i
+støtteordninger for småbarnsfamilier, samtidig som fødselstallene
+faller og stadig flere unge oppgir økonomi som grunn til å utsette
+å få barn?</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1004248">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [11:19:39]:</Navn> Jeg mener at det er
+viktig å bedre de økonomiske vilkårene for barnefamilier, og derfor
+er jeg veldig stolt av at jeg er med i en regjering, og et flertall
+på Stortinget, som har gjort det over flere år. Det er altså ikke
+mange år siden maksprisen i barnehagen var dobbelt så høy som barnetrygden.
+Nå er barnetrygden nesten dobbelt så høy som maksprisen, og det
+er et formidabelt løft som sier noe om hvor mye det satses på barnefamilier,
+både ved å redusere maksprisen og ved å øke barnetrygden. Det er billigere
+SFO, og det er mange andre satsinger som kommer barnefamilier til
+gode. </A>
+            <A Type="Minnrykk">Jeg tror vi alle skal være litt ydmyke med
+hensyn til følgende: Fra rundt slutten av 1980-tallet og fram til 2010
+var trenden i Norge at vi hadde høye og til dels økende fødselsrater,
+i takt med at det også da ble bedringer for barnefamilier. Etter
+2010 har trenden vært nedadgående, på tross av at det også siden
+2010 har vært økte og bedrede økonomiske støtteordninger for barnefamilier.
+Så det er helt åpenbart at det er et mye mer komplisert spørsmål
+enn bare størrelsen på barnetrygden, eller størrelsen på barnehageprisen,
+som avgjør hvor mange barn folk får. </A>
+            <A Type="Minnrykk">Jeg mener det er riktig at vi har en diskusjon
+og er åpne for å tenke på hvordan vi skal gjøre noe med det, men
+hadde det vært så enkelt som bare å styrke barnefamilienes økonomi,
+skulle jo barnefødslene ha fortsatt oppover etter 2010. Det har
+de altså ikke gjort, så det er åpenbart et mer komplisert spørsmål
+enn som så. </A>
+            <A Type="Minnrykk">Igjen: En del av det som omtales som kutt,
+er ikke kutt. Det som gjøres med sosialhjelpen, er ikke et kutt. Man
+øker de veiledende satsene for å ta hensyn til at barnetrygden legges
+inn, så det er ingen kutt der. Når det gjelder overgangsstønaden,
+mener vi altså at det er riktig, ikke minst fordi det kan være et
+hinder for integrering. 40 pst. av dem som får dette, har innvandrerbakgrunn.
+Vi mener at det ikke skal være en egen ordning som bygger på ideen
+om at enslige forsørgere ikke kan være i jobb eller i utdanning.
+Så dette er ordninger vi nå foreslår endret.</A>
+          </Hovedinnlegg>
+          <Replikk Id="i1004250">
+            <A>
+              <Navn personID="JLO">
+Jorunn Gleditsch Lossius (KrF) [11:21:55]:</Navn> Om finansministeren
+kaller dette kutt eller reduksjon, eller hvilket annet ord han velger,
+oppleves det helt likt av dem som rammes av det, og det oppleves
+dramatisk for dem det gjelder.</A>
+            <A Type="Minnrykk">Når regjeringen foreslår et sånt kutt i engangsstønaden,
+får det dramatiske konsekvenser for nybakte familier, og da må det
+i alle fall bygge på korrekt bruk av fakta. Regjeringen viser til
+SIFOs referansebudsjett, som sier at familiene trenger 57 000 kr
+i etableringskostnader, men ifølge prosjektlederen i SIFO forutsetter
+dette budsjettet god helse, en etablert husholdning og at man allerede
+har mye utstyr fra før av. Forskerne bak tallene mener selv at regjeringen
+bruker beregningene feil, for én ting er utstyr til barnet – vogn,
+bleier osv. – men hva med bolig, strøm og felles husholdningsutgifter?
+De er holdt helt utenfor regnestykket som statsråden baserer kuttet
+på.</A>
+            <A Type="Minnrykk">Kan statsråden klargjøre hvorfor regjeringen
+foreslår et kutt i engangsstønaden på et grunnlag som SIFO selv
+advarer mot å bruke som fasit?</A>
+          </Replikk>
+          <Replikk Id="i1004252">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [11:23:05]:</Navn> Det er egentlig to
+grunner til at vi gjør det. Den ene er det som er det overordnede
+i dette budsjettet, at vi er nødt til å gjøre noen prioriteringer.
+Det er noen områder som får mindre fordi det er ekstremt viktig
+for oss å ha penger til å øke kommuneøkonomien, mer penger til helse,
+mer penger til Forsvaret og mer penger til Ukraina og andre viktige
+formål. Da er det en del områder som enten ikke får mer, eller som
+faktisk også får mindre.</A>
+            <A Type="Minnrykk">Det andre er at vi mener engangsstønaden bør
+ligge på et nivå som speiler merutgiftene ved å få et barn. Basert
+på den informasjonen vi har, og det som står i budsjettforslaget,
+er det ikke 93 000 kr, som jeg tror det er i dag, men i underkant
+av 60 000 kr, og derfor setter vi den ned nå. Jeg mener det er til
+60 000 kr – det er i hvert fall litt i overkant av SIFOs anslag
+for merkostnader ved å ha barn.</A>
+          </Replikk>
+          <Replikk Id="i1004254">
+            <A>
+              <Navn personID="JLO">
+Jorunn Gleditsch Lossius (KrF) [11:23:54]:</Navn> Det er tydelig
+at vi har nokså ulik forståelse av hva engangsstønaden er, og hva
+den betyr for dem som faktisk trenger den. Selv om engangsstønadens
+opprinnelige funksjon var å dekke engangsutgifter ved å få barn,
+er den i dag i praksis en erstatning for bortfallet av foreldrepenger.</A>
+            <A Type="Minnrykk">Unge som ikke har rukket å etablere seg i arbeidslivet,
+skal nå kun få 60 000 kr, mens etablerte foreldre kan få opptil
+700 000 kr i foreldrepenger – 60 000 kr mot 700 000 kr. Det er jo
+dypt urettferdig og direkte usosialt å la foreldre og barn få så
+ulike utgangspunkt for familielivet. Så vidt jeg vet, er det lenge
+siden statsråden selv fikk barn, men å få en baby i dag koster mer
+enn 60 000 kr.</A>
+            <A Type="Minnrykk">Mitt spørsmål er: Hvorfor vil denne regjeringen
+gjøre det vanskeligere å få barn når man er ung, og hva vil egentlig
+regjeringen gjøre med de lave fødselstallene?</A>
+          </Replikk>
+          <Replikk Id="i1004256">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [11:24:56]:</Navn> Jeg tror at det å skape
+enda mer trygghet for barnefamilier er det viktigste vi kan gjøre
+for å gjøre det lettere for flere unge å få flere barn. Det handler
+om alt vi har gjort på barnehager, på barnetrygd og på SFO, og det
+handler også om det som går langt utover det som normalt forbindes med
+familiepolitikk, f.eks. arbeid, det at folk kan være trygge på at
+de har jobb, og at de har en trygg jobb og et velorganisert arbeidsliv.
+Også bolig er helt avgjørende for at unge skal ha den tryggheten
+de burde ha.</A>
+            <A Type="Minnrykk">Jeg mener at det denne regjeringen gjør for
+både å holde orden i økonomien, holde arbeidsløsheten lav og bidra
+til at folk får økt kjøpekraft og at lønningene vokser mer enn prisene,
+har betydning for familier, som da får mer å rutte med, selv om
+det ikke er et familiepolitisk virkemiddel. Så mener jeg det er
+en kjempeutfordring, som vi også har tiltak for i dette budsjettet,
+å få opp boligbyggingen. Det er gjerne slik at når man får barn
+– og det er riktig at det er en stund siden jeg fikk det, heldigvis,
+vil jeg si – er man ofte i etableringsfasen, når man også trenger
+å etablere seg med bolig, og derfor er økt boligbygging en del av
+tiltakene for barnefamilier.</A>
+          </Replikk>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:26:10]:</Navn> Da er den muntlige
+spørretimen over, og vi går videre til den ordinære spørretimen.</A>
+          </Presinnlegg>
+        </Sporretime>
+        <Sporretime Id="i1004258" saksKartNr="2">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak
+nr. 2</Uth> [11:26:16]</Saknr>
+            <Saktittel Id="i1004260">
+              <A>Ordinær spørretime</A>
+            </Saktittel>
+          </Sakshode>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:26:17]:</Navn> Det blir en
+rekke endringer i den oppsatte spørsmålslisten, og presidenten viser
+i den sammenheng til den elektroniske spørsmålslisten i salappen.</A>
+            <A Type="Blanklinjeminnrykk">Endringene var som følger:</A>
+            <A Type="Minnrykk">Spørsmålene 1, 2, 3, 4, 5, 6, 7 og 8, fra henholdsvis
+representantene Frank Edvard Sve, Kristian August Eilertsen, Margret
+Hagerup, Julia Brännström Nordtug, Kjersti Toppe, Bjørn Larsen,
+Erlend Svardal Bøe og Stig Atle Abrahamsen til helse- og omsorgsministeren,
+må utsettes til neste spørretime, da statsråden er bortreist.</A>
+            <A Type="Minnrykk">Spørsmål 9, fra representanten Bård Hoksrud
+til samferdselsministeren, er overført til fiskeri- og havministeren
+som rette vedkommende.</A>
+            <A Type="Minnrykk">Spørsmål 13, fra representanten Hanne Beate
+Stenvaag til kommunal- og distriktsministeren, må utsettes til neste
+spørretime, da statsråden er bortreist.</A>
+            <A Type="Minnrykk">Spørsmål 14, fra representanten Geir Jørgensen
+til digitaliserings- og forvaltningsministeren, vil bli besvart av
+energiministeren på vegne av digitaliserings- og forvaltningsministeren,
+som er bortreist.</A>
+            <A Type="Minnrykk">Spørsmål 17, fra representanten Mahmoud Farahmand
+til justis- og beredskapsministeren, er trukket.</A>
+          </Presinnlegg>
+          <Spm>
+            <Tittel>Spørsmål 1</Tittel>
+            <A Type="Minnrykk">Fra representanten Frank Edvard Sve til helse-
+og omsorgsministeren: </A>
+            <A Type="Minnrykk">«Den økonomiske situasjonen for Helse Møre
+og Romsdal er mildt sagt vanskeleg og framstår totalt ute av kontroll.
+Dette er svært alvorleg for helse- og sjukehustenestene til befolkninga
+i heile Møre og Romsdal, dersom utbyggingskostnadene og underskotet
+i drifta skal dekkast inn gjennom å kutte i legar, sjukepleiarar
+og andre sjukehustilsette.</A>
+            <A Type="Minnrykk">Kva har statsråden tenkt å gjere for å sikre
+forsvarlege helse- og sjukehustenester i fylket vårt, utan at dette skal
+gå ut over dei tilsette ved sjukehusa?»</A>
+          </Spm>
+          <Spm>
+            <Tittel>Spørsmål 2</Tittel>
+            <A Type="Minnrykk">Fra representanten Kristian August Eilertsen
+til helse- og omsorgsministeren: </A>
+            <A Type="Minnrykk">«En kartlegging fra NTB viser at 18 av 53 akuttsykehus
+mangler leger med spesialisert kompetanse innen sykdommer og helseproblemer
+hos eldre (geriatri). Flere distriktssykehus har ingen eller kun
+én geriater, til tross for Stortingets vedtak i 2018 om at alle
+akuttsykehus skal ha geriatrisk kompetanse. Samtidig øker antallet
+eldre kraftig, og fagmiljøene advarer om at dagens mangel går ut
+over kvaliteten på behandlingen. Tidvis drives mange avdelinger
+ved sykehusene som et sykehjem, uten at sykehuset har kompetanse
+innenfor eldreomsorg og demens. Regjeringen har varslet planer for
+helsepersonell, men resultatene lar vente på seg. Mangelen på planer
+er ikke problemet, men mangelen på tiltak og handlekraft.</A>
+            <A Type="Minnrykk">Hvordan vil statsråden sikre geriatrisk kompetanse ved
+alle akuttsykehus i Norge, særlig i distriktene, og sørge for at
+eldre pasienter får et likeverdig behandlingstilbud i hele landet?»</A>
+          </Spm>
+          <Spm>
+            <Tittel>Spørsmål 3</Tittel>
+            <A Type="Minnrykk">Fra representanten Margret Hagerup til helse-
+og omsorgsministeren: </A>
+            <A Type="Minnrykk">«Før valget lovet helse- og omsorgsministeren
+i VG et krafttak for kvinnehelse, med løfter om økt forskning, kortere
+ventetider for kvinner med endometriose, utvidet kreftscreening
+og bedre tilbud ved overgangsplager. Mange kvinner opplevde dette
+som et viktig og lenge etterlengtet løfte om at deres helseutfordringer
+endelig skulle tas på alvor.</A>
+            <A Type="Minnrykk">Kan statsråden redegjøre for hvilke konkrete
+tiltak som nå er satt i gang for å oppfylle disse løftene?»</A>
+          </Spm>
+          <Spm>
+            <Tittel>Spørsmål 4</Tittel>
+            <A Type="Minnrykk">Fra representanten Julia Brännström Nordtug
+til helse- og omsorgsministeren: </A>
+            <A Type="Minnrykk">«Over 800 000 personer har helseforsikring
+i Norge, og under Arbeiderparti-regjeringen har antallet økt med
+hele 200 000 personer, ifølge Finans Norge. Dette kan tolkes som
+et uttrykk for den tillit folk har til å få helsehjelp fra det offentlige
+når behovet oppstår.</A>
+            <A Type="Minnrykk">Hva tror statsråden at budsjettforslaget Arbeiderparti-regjeringen
+har fremlagt for sykehusene, vil medføre flere eller færre personer
+med privat helseforsikring?»</A>
+          </Spm>
+          <Spm>
+            <Tittel>Spørsmål 5</Tittel>
+            <A Type="Minnrykk">Fra representanten Kjersti Toppe til helse-
+og omsorgsministeren: </A>
+            <A Type="Minnrykk">«Statsråden har vore og besøkt sjukehusa i
+Helse Førde. Til Nationen ber statsråden folket om å puste med magen,
+og seier at han ikkje vil vera nokon museumsvoktar over lokalsjukehusa.
+Statsråden uttalar også at det er betre at beslutninga om lokalsjukehusa
+si framtid vert tatt i Sogn og Fjordane enn av folk i Oslo.</A>
+            <A Type="Minnrykk">Meiner statsråden at lokalsjukehusa er som
+museum, ser ikkje statsråden at det i denne saka er betre at statsråden
+i Oslo parkerer forslaga no, og meiner statsråden at å miste ortopedi
+og barsel er utvikling?»</A>
+          </Spm>
+          <Spm>
+            <Tittel>Spørsmål 6</Tittel>
+            <A Type="Minnrykk">Fra representanten Bjørn Larsen til helse-
+og omsorgsministeren: </A>
+            <A Type="Minnrykk">«I foretaksmøte 4. juli 2025 følte statsråden
+et behov for å være tydelig overfor Helse Nord med hensyn til funksjonsfordelingen
+ved Helgelandssykehuset. Statsråden presiserte opprettelse av en
+intermediær sengepost i Mosjøen, og at denne burde være på plass
+i løpet av året. Dette bekreftet også statsråden i Mosjøen 19. juni.
+Jeg forstår nå at dette er utsatt til 1. kvartal 2026. De ansatte
+er ivrige og ønsker å snarest komme i gang for å oppfylle statsrådens
+løfter.</A>
+            <A Type="Minnrykk">Hvordan følges dette opp, slik at dette er
+på plass senest 31. mars?»</A>
+          </Spm>
+          <Spm>
+            <Tittel>Spørsmål 7</Tittel>
+            <A Type="Minnrykk">Fra representanten Erlend Svardal Bøe til helse-
+og omsorgsministeren: </A>
+            <A Type="Minnrykk">«Høyre innførte pakkeforløpene for kreft for
+å sikre at pasientene skulle få rask og helhetlig hjelp. Det er
+et mål om at 70 pst. av pakkeforløpene for kreft skal gjennomføres
+innen standard forløpstid. Oppnåelsen for pakkeforløpene er for
+første gang nede i 60 pst. Det betyr at stadig flere kreftsyke ikke
+får nødvendig helsehjelp, når de skal ha det. Pakkeforløpene for
+kreft skal gi forutsigbarhet og trygghet, ikke usikkerhet.</A>
+            <A Type="Minnrykk">Hva mener statsråden er grunnen til at tallene
+er historisk lave under Arbeiderparti-regjeringen?»</A>
+          </Spm>
+          <Spm>
+            <Tittel>Spørsmål 8</Tittel>
+            <A Type="Minnrykk">Fra representanten Stig Atle Abrahamsen til
+helse- og omsorgsministeren: </A>
+            <A Type="Minnrykk">«Siden regjeringen Støre tiltrådte, har man
+brukt 1,4 mrd. kr mer av offentlige midler på tannhelse, samtidig
+har etterslepet på behandling innen tannhelse økt med over 42 000
+personer, og mange eldre og pleietrengende får ikke behandling innen
+rimelig tid.</A>
+            <A Type="Minnrykk">Mener statsråden at man har prioritert rett
+innenfor tannhelse?»</A>
+            <Presinnlegg>
+              <A>
+                <Navn>Presidenten [11:26:43]:</Navn> Disse spørsmålene
+er utsatt til neste spørretime.</A>
+            </Presinnlegg>
+          </Spm>
+          <Spm>
+            <Tittel>Spørsmål 9</Tittel>
+            <Presinnlegg>
+              <A>
+                <Navn>Presidenten [11:27:32]:</Navn> Dette spørsmålet,
+fra representanten Bård Hoksrud til samferdselsministeren, er overført
+til fiskeri- og havministeren som rette vedkommende.</A>
+            </Presinnlegg>
+            <Hovedinnlegg Id="i1004262">
+              <A>
+                <Navn personID="BÅH">
+Bård Hoksrud (FrP) [11:27:46]:</Navn> «Kan statsråden redegjøre
+for hvorfor regjeringen har holdt tilbake informasjon om at prosjektet
+Stad skipstunnel var stoppet og Kystverket instruert om å stanse
+videre forhandlinger med tilbyderne i prosjektet om mulige kostnadsreduksjoner,
+samtidig som Arbeiderpartiets representanter reiste langs kysten
+og lovet bygging av tunnelen i valgkampen?»</A>
+            </Hovedinnlegg>
+            <Hovedinnlegg Id="i1004264">
+              <A>
+                <Navn personID="NSSMAR">
+Statsråd Marianne Sivertsen Næss [11:28:11]:</Navn> Regjeringen
+valgte å ikke igangsette forhandlinger med tilbyderne om Stad skipstunnel
+fordi tilbudene lå langt over kostnadsrammen som Stortinget har
+fastsatt. Kystverket vurderte at det ikke var mulig å forhandle ned
+prisen til et nivå i nærheten av den vedtatte kostnadsrammen. Den
+vurderingen mener jeg fortsatt er riktig. De store kostnadsøkningene
+betydde at saken måtte tilbake til Stortinget for ny behandling.
+Første mulighet for det var i forbindelse med statsbudsjettet for
+2026.</A>
+              <A Type="Minnrykk">Regjeringen har fulgt opp prosjektet Stad skipstunnel
+i tråd med hva som tidligere er varslet til Stortinget. I statsbudsjettet
+for 2025 viste vi til at regjeringen ville komme tilbake til Stortinget
+dersom det ikke kom inn pristilbud innenfor den vedtatte kostnadsrammen.
+Det ble også opplyst om at Stortingets kostnadsramme var lavere
+enn tallene som kom fram fra den siste kostnads- og usikkerhetsanalysen
+til Kystverket.</A>
+              <A Type="Minnrykk">I statsbudsjettet for 2026 er det vist til
+at Kystverket vurderer at kostnadsrammen må økes til 9 400 mill. kr dersom
+prosjektet skal videreføres med realistiske budsjettrammer. Dette
+innebærer nesten en fordobling av Stortingets kostnadsramme. Regjeringen
+har på denne bakgrunnen vurdert at det ikke er realistisk å gjennomføre
+prosjektet innenfor den vedtatte kostnadsrammen. Vi kan heller ikke
+se at nytten av prosjektet kan forsvare de høye kostnadene.</A>
+              <A Type="Minnrykk">Regjeringen følger nå opp stortingsvedtaket
+fra trontaledebatten om å ferdigstille forhandlingene med tilbyderne
+samt arbeide for å finne kostnadsreduserende tiltak. Jeg tar sikte
+på å legge fram resultatet av dette arbeidet for Stortinget så snart
+som mulig, men tidligst i forbindelse med revidert nasjonalbudsjett
+for 2026.</A>
+            </Hovedinnlegg>
+            <Replikk Id="i1004266">
+              <A>
+                <Navn personID="BÅH">
+Bård Hoksrud (FrP) [11:30:00]:</Navn> Jeg hører bortforklaringene
+fra statsråden, og jeg har lyst til å utfordre statsråden på hvordan
+man kan forklare at Arbeiderpartiets representanter reiste rundt
+og lovet bygging av Stad skipstunnel samtidig som regjeringen allerede hadde
+besluttet å stoppe prosjektet. Jeg skjønner at regjeringen ikke
+forteller hva som kommer i budsjettet, før det kommer, men med alle
+de positive lekkasjene som kom før valget, ser ikke statsråden at
+mange velgere på Vestlandet opplever at statsråden og regjeringen
+i beste fall framstår som uredelige, og i verste fall kanskje som
+noen som ikke farer med sannheter? Det er faktisk sånn at kanskje
+10 000–20 000 stemmer i noen fylker kunne betydd at vi hadde hatt
+et helt annet flertall – hvis Arbeiderpartiet hadde vært redelig
+og fortalt at man altså ikke ville sørge for å gå videre med Stad
+skipstunnel.</A>
+            </Replikk>
+            <Replikk Id="i1004268">
+              <A>
+                <Navn personID="NSSMAR">
+Statsråd Marianne Sivertsen Næss [11:30:53]:</Navn> Det er helt
+vanlig og tradisjon for at det som tilhører statsbudsjettet, som
+oftest kommuniseres i forbindelse med framleggelse av statsbudsjettet.
+Vi mener bestemt at dette er en sak som hører hjemme innenfor de
+ordinære budsjettprosessene. På samme måte som med andre budsjettsaker
+har vi lagt fram vårt forslag til Stortinget i forbindelse med statsbudsjettet
+for 2026. </A>
+              <A Type="Minnrykk">Jeg vil også poengtere at vi jo har varslet
+at regjeringen vil komme tilbake til Stortinget dersom pristilbudet ville
+overstige Stortingets kostnadsramme, og det ble også gjort kjent
+at tilbudene som kom inn 10. juni, lå over den vedtatte kostnadsrammen. </A>
+              <A Type="Minnrykk">Så dette er helt i henhold til vanlige budsjettprosesser
+– at man legger fram helheten i budsjettet i forbindelse med budsjettframleggelsen. </A>
+            </Replikk>
+            <Replikk Id="i1004270">
+              <A>
+                <Navn personID="BÅH">
+Bård Hoksrud (FrP) [11:31:41]:</Navn> Sånn jeg oppfatter det, var
+det deler av dokumentene fra Kystverket som man valgte å ikke legge
+fram da det ble etterspurt fra aktører osv. Det hadde vært interessant
+om statsråden kunne si noe om det. </A>
+              <A Type="Minnrykk">Så skjønner jeg hvordan budsjettarbeidet fungerer, men
+det er jo påfallende at man gjennom hele valgkampen har kommet med
+den ene lekkasjen etter den andre om alle de gode sakene, mens man
+her plutselig har valgt stikk motsatt strategi, selvfølgelig, fordi
+det sannsynligvis ville betydd noe med tanke på velgerne som stemte
+på Arbeiderpartiet ved valget. De ville kanskje ikke stemt på Arbeiderpartiet
+hvis man hadde visst hva Arbeiderpartiet gjorde.</A>
+              <A Type="Minnrykk">Dette er et prosjekt som har bred støtte. Stortinget har
+allerede gitt tydelige føringer gjennom anmodningsvedtak nå, og
+da må statsråden forsikre oss om at hun skal følge opp i tråd med
+de vedtakene som Stortinget har fattet. Hun sier at man skal komme
+tilbake i revidert nasjonalbudsjett, men det kunne vel være mulig
+å gjøre dette enda raskere, sånn at Stortinget enda raskere kunne
+tatt stilling til det og sett på alle konsekvensene av dette prosjektet
+og hvordan man kan få ned kostnadene.</A>
+            </Replikk>
+            <Replikk Id="i1004272">
+              <A>
+                <Navn personID="NSSMAR">
+Statsråd Marianne Sivertsen Næss [11:32:46]:</Navn> Jeg vil gjenta
+at jeg tror det er helt vanlig – og vi kan også gå tilbake til da
+representantens parti var i regjering – at man legger fram helheten,
+og at flere av sakene kom i forbindelse med framleggelse av statsbudsjett.
+Så har man noen lekkasjer, og det hører også med og er veldig vanlig
+i en valgkamp at man har noen positive saker man tar ut. </A>
+              <A Type="Minnrykk">Når det er sagt, er dette et prosjekt som har
+doblet seg i pris – 9,4 mrd. kr er det siste. Det er helt riktig
+at vi skal følge opp Stortingets vedtak, men det å gjøre det kjappere
+og raskere og samtidig klare å få det ned på den kostnadsrammen
+som Stortinget opprinnelig har satt, på 5,3 mrd. kr, vurderer vi
+som svært vanskelig. Kystverket var også veldig tydelig på at det
+å klare å få det ned og innenfor den kostnadsrammen som Stortinget
+har gjort vedtak om, er omtrent umulig. </A>
+              <A Type="Minnrykk">Så får vi se hva forhandlingene viser. Jeg
+skal ikke stå her og forskuttere utfallet av det. Det kan jo være
+mulig å håpe på det, men som sagt: De vurderingene som ligger til
+grunn, er at det ikke er mulig å komme innenfor den kostnadsrammen
+som lå i Stortingets vedtak.</A>
+            </Replikk>
+          </Spm>
+          <Spm>
+            <Tittel>Spørsmål 10</Tittel>
+            <Hovedinnlegg Id="i1004274">
+              <A>
+                <Navn personID="TSTA">
+Tom Staahle (FrP) [11:33:55]:</Navn> «Hovedbanen er Norges eldste
+jernbanestrekning, den er 67,8 km lang og ble åpnet i 1854. I dag
+omtales strekningen som R13/R13X. I perioden 2019–2025 har punktligheten
+på strekningen ifølge Bane NOR falt fra 93,5 til 88,3 pst. Et tog
+er punktlig hvis det er mindre enn 4 minutter forsinket ved ankomst
+endestasjon. Pendlere har i flere år etterlyst dobbeltspor og tiltak
+for å bedre situasjonen på strekningen.</A>
+              <A Type="Minnrykk">Når kan reisende på R13 forvente at kapasiteten øker
+og punktligheten blir bedre?»</A>
+            </Hovedinnlegg>
+            <Hovedinnlegg Id="i1004276">
+              <A>
+                <Navn personID="JONN">
+Statsråd Jon-Ivar Nygård [11:34:36]:</Navn> Hovedbanen er en viktig
+strekning på jernbanenettet, og det gjøres mye for å bedre punktlighet
+og kapasitet. Regjeringens viktigste prioriteringer for jernbane
+ser man i Nasjonal transportplan 2025–2036, og det er å øke bevilgningene til
+drift, vedlikehold og fornying for å redusere antallet innstillinger,
+øke punktligheten og gi et bedre tilbud til dem som bruker toget. </A>
+              <A Type="Minnrykk">I NTP la regjeringen også enkelte prinsipper
+til grunn for innsatsen til vedlikehold og fornying, bl.a. at innsatsen
+skal prioriteres tydeligere mot de strekningene hvor trafikken er
+størst, og hvor konsekvensene av feil er størst. Regjeringen har
+foreslått en bevilgning på 7,5 mrd. kr til drift og vedlikehold
+og 7,9 mrd. kr til fornying og mindre investeringer i statsbudsjettet
+for 2026. </A>
+              <A Type="Minnrykk">På bakgrunn av dette har Bane NOR gjennomført
+en rekke vedlikeholds- og fornyingstiltak på Hovedbanen i 2025,
+og det er planlagt flere viktige arbeid i høst, bl.a. fornyelse
+av kontaktledning, spor og sporveksler. Dette arbeidet vil bidra
+til færre stoppende feil og bedre punktlighet. </A>
+              <A Type="Minnrykk">Integrering av tilbringertjenesten, populært
+kalt Flytoget, i 2028 vil gi flere avganger og vesentlig økt transportkapasitet
+på strekningen Oslo S–Lillestrøm. Videre er det planlagt flere større
+investeringer, såkalte effektpakker, for å gi tilbudsforbedringer
+som også vil komme togtrafikken på Hovedbanen til gode, herunder det
+som er omtalt som effektpakken Bedre lokal- og regiontilbud på Østlandet,
+som skal gi flere avganger og kortere reisetid for mange reiserelasjoner
+på hele Østlandet. </A>
+              <A Type="Minnrykk">På lengre sikt er også effektpakken Utvikling
+av Hovedbanen Nord prioritert for oppstart i andre seksårsperiode
+i NTP, som innebærer flere investeringer, og som i sum vil gi plass
+til flere gods- og persontog. </A>
+            </Hovedinnlegg>
+            <Replikk Id="i1004278">
+              <A>
+                <Navn personID="TSTA">
+Tom Staahle (FrP) [11:36:43]:</Navn> Jeg er glad for at samferdselsministeren
+mener at Hovedbanen er viktig. For dem som reiser på Hovedbanen,
+er det spøkefullt sagt at det ikke er gravd på Hovedbanen siden
+1854. Det er i hvert fall den opplevelsen mange som reiser med Hovedbanen,
+har. </A>
+              <A Type="Minnrykk">Så er det dette med å få høyere punktlighet.
+Jeg håper statsråden deler min oppfatning om at når folk stiller
+seg opp på en perrong og venter på et tog, er det med en forventning
+om at toget kommer. Da jeg sjekket forholdene for R13, spurte jeg
+Bane NOR om kansellering og innstilte tog var med i statistikken
+for punktlighet. Stor var overraskelsen da svaret var nei. Et par
+dager etterpå kommer det en sak på NTB, hvor vi kan lese at Vy så
+langt i år har innstilt over 32 000 tog på grunn av planlagt arbeid,
+uten at det har påvirket statistikken for punktlighet og regularitet. </A>
+              <A Type="Minnrykk">Det er vel egentlig slik at det er tog som
+opprinnelig er satt opp i rutetabellen, folk forholder seg til når
+de stiller seg opp på perrongen og venter. Da lurer jeg på om statsråden
+er enig i at dette rett og slett er triksing med tall, og om statsråden
+mener at det inngir tillit til jernbanen og Bane NORs håndtering
+av punktlighetsstatistikken.</A>
+            </Replikk>
+            <Replikk Id="i1004280">
+              <A>
+                <Navn personID="JONN">
+Statsråd Jon-Ivar Nygård [11:38:00]:</Navn> Det aller, aller viktigste
+vi jobber med i min sektor med tanke på jernbane, er å få toget
+til å komme og gå når det skal. Vi er enig i at vi har et stykke
+arbeid å gjøre for å komme opp på et akseptabelt nivå. Punktligheten
+for 2024 var et godt stykke unna punktlighetsmålet på 90 pst. Hittil
+i år ser det noe bedre ut, men vi er fortsatt et lite stykke unna
+det som er punktlighetsmålet, som jeg oppfatter at et samlet storting
+har sluttet seg til. Vi mener at den oppskriften som skal til for
+å løse dette, er å bruke penger på drift, vedlikehold og fornying
+og få eksisterende infrastruktur til å levere bedre. </A>
+              <A Type="Minnrykk">Den måten vi måler dette på, er ikke noe nytt.
+Slik har det vært målt over tid, også under foregående regjering
+og foregående statsråd fra Fremskrittspartiet. Vi trikser ikke med
+tall, men det som selvfølgelig er viktig å si, er at det ikke er
+oppsiktsvekkende at vi må bruke tid i sporet for å få jernbanen
+til å fungere bedre. Det er en del av oppskriften.</A>
+            </Replikk>
+            <Replikk Id="i1004282">
+              <A>
+                <Navn personID="TSTA">
+Tom Staahle (FrP) [11:39:01]:</Navn> Ambisjonen fra regjeringen
+og partiene på venstresiden er at folk skal bruke kollektivtransport.
+I det ligger det en målsetting om å redusere bilbruk og at folk
+skal bruke buss og tog. I Oslo og Akershus er det mer enn 1,5 million
+mennesker, og antallet trafikkbevegelser over fylkesgrensene er mange,
+og mange går med tog. Om ambisjonen er at folk skal bruke tog, er
+det ikke da slik at dette også må følges opp med konkrete investeringer?
+Det er jo mangelen på investeringer over tid som har resultert i
+at vi mangler punktlighet i dag, og at folk opplever at togene ikke
+går. Er det ikke et tankekors for statsråden at det fortsatt er
+sporveksler og teknologi fra en helt annen tidsalder, og utstyrsmangel,
+som håndterer togtrafikken på det sentrale Østlandet, og som gjør
+at folk står som kveg i de togvognene som kanskje – eller kanskje ikke
+– dukker opp på en perrong nær deg?</A>
+            </Replikk>
+            <Replikk Id="i1004284">
+              <A>
+                <Navn personID="JONN">
+Statsråd Jon-Ivar Nygård [11:39:52]:</Navn> Jeg vil advare mot å
+fortegne bildet av norsk jernbane. Det er utfordringer, det er helt
+åpenbart. Det er ikke oppsiktsvekkende for meg, for det er nettopp
+det som er bakgrunnen for at vi nå bevilger betydelig mer penger
+til drifts-, vedlikeholds- og fornyingsarbeid. Det er nettopp det som
+skal til for å bytte ut gamle sporveksler, gamle kontaktledningsanlegg
+og alt det representanten beskriver. Det er vi helt innforstått
+med at må til. </A>
+              <A Type="Minnrykk">Så har vi gjort helt konkrete tiltak, som Fremskrittspartiet
+har vært imot, nemlig å integrere flytogtilbudet slik at vi får
+tatt ut kapasiteten for langt flere togpassasjerer og pendlere i
+denne regionen, istedenfor å opprettholde det som kan omtales som
+et mer eksklusivt tilbud for færre passasjerer. Man må gjøre konkret
+handling for å få resultater, og der er i hvert fall vi på plass.</A>
+            </Replikk>
+          </Spm>
+          <Spm>
+            <Tittel>Spørsmål 11</Tittel>
+            <Hovedinnlegg Id="i1004286">
+              <A>
+                <Navn personID="GEL">
+Geir Inge Lien (Sp) [11:40:50]:</Navn> Steinberg stasjon i Drammen
+kommune vil etter nyttår få eit sterkt svekt tilbod samanlikna med
+i dag. Dei siste åra er det gjort vesentlege investeringar på stasjonen,
+og han er no ein viktig del av nerven i lokaltrafikken i regionen,
+og eg spør:</A>
+              <A Type="Minnrykk">«Vil statsråden sikre fremtiden til Steinberg
+stasjon ved at dagens togtilbud ikke reduseres slik som Bane Nor
+har foreslått, og videre ved utbygging av økt parkeringskapasitet
+for de reisende?»</A>
+            </Hovedinnlegg>
+            <Presinnlegg>
+              <A>
+                <Navn>Presidenten [11:41:33]:</Navn> Presidenten
+vil minne om at spørsmålet er det som står skrevet ned.</A>
+            </Presinnlegg>
+            <Hovedinnlegg Id="i1004288">
+              <A>
+                <Navn personID="JONN">
+Statsråd Jon-Ivar Nygård [11:41:39]:</Navn> Bane NOR er etter jernbaneregelverket
+ansvarlig for å tildele infrastrukturkapasitet på det norske jernbanenettet.
+Bane NOR har verken mandat til eller planer om å legge ned stasjoner,
+men Bane NOR har ansvaret for ruteplanene, og at de faktisk er realistiske,
+slik at togene holder ruten og at de reisende kan stole på toget.
+Bane NOR har i den forbindelse anledning til å justere stoppmønsteret
+når den årlige ruteplanen skal fastsettes.</A>
+              <A Type="Minnrykk">De siste årene har ruteplanene blitt stadig
+mindre realistiske fordi det kjøres langt flere tog på svært presset infrastruktur,
+og flere reisende gir lengre stopp på mange stasjoner. Jernbanesystemet
+i Norge er – som vi også har vært inne på tidligere her – sårbart
+for feil, og særlig på strekninger med enkeltspor vil forsinkelser
+forplante seg raskt når det er tett trafikk, og det er selvfølgelig
+også få omkjøringsmuligheter. Små forsinkelser eller avvik fra oppsatt
+rute kan gi store ringvirkninger for trafikkavviklingen, selv langt
+unna der forsinkelsen oppstår.</A>
+              <A Type="Minnrykk">Bane NOR opplyser at deres beregninger viser
+at det ikke er tilstrekkelig kjøretid til å stoppe enkelte tog på linje
+R12 Kongsberg–Eidsvoll for passasjerutveksling på Steinberg. Noen
+tog må kjøre forbi. Bane NOR har derfor besluttet å redusere antallet
+stopp ved Steinberg stasjon fra desember 2025, fra 43 stopp i døgnet
+til 30. Bane NOR opplyser at endringene er vurdert å gi færre forsinkede
+tog og en vesentlig bedre punktlighet for linjen mellom Kongsberg
+og Eidsvoll. Bane NOR forventer også reduksjon i følgeforsinkelser
+for annen region-, fjern- og godstrafikk på Sørlandsbanen. Her har
+punktligheten vært lav og fallende de siste årene.</A>
+              <A Type="Minnrykk">Bane NOR har samtidig forsøkt å minimere konsekvensene
+for de reisende gjennom at man forsøker å opprettholde en tilnærmet
+30-minutters frekvens i medstrøms rushtid. Syv av ti tog vil fremdeles
+stoppe på Steinberg, og flertallet av de reisende vil ha et rimelig godt
+togtilbud. Det vil også være halvtimesintervall med buss mellom
+Steinberg og Mjøndalen og Drammen.</A>
+              <A Type="Minnrykk">Ifølge Jernbanedirektoratet er det i overkant
+av 80 000 reisende til og fra Steinberg stasjon i året, eller et snitt
+på i overkant av 350 personer per arbeidsdag. Årlig reiser det 6,6
+millioner passasjerer til og fra øvrige stasjoner mellom Kongsberg
+og Eidsvoll, tilsvarende om lag 28 700 personer per arbeidsdag.
+Det indikerer at det er en stor gevinst for svært mange, sammenlignet
+med hvor mange som får et togtilbud med færre avganger i døgnet.</A>
+              <A Type="Minnrykk">Det er også sånn at parkeringen på Steinberg
+er full på enkelte dager, men Bane NOR opplyser at det er ledig kapasitet
+også på Hokksund stasjon, som ligger ca. tre kilometer fra Steinberg.</A>
+            </Hovedinnlegg>
+            <Replikk Id="i1004290">
+              <A>
+                <Navn personID="GEL">
+Geir Inge Lien (Sp) [11:44:34]:</Navn> Ei av utfordringane på stasjonen
+er nettopp mangelen på parkeringsplassar. Bane NOR Eiendom eig areal
+rundt stasjonen som kunne ha vore brukte til pendlarparkering, men
+Bane NOR meiner at alle eigentleg skal sykle eller gå til stasjonen
+– det har vorte ein slags politikk. Det er ein fin tanke, men realiteten
+er at dei fleste ikkje vil ha råd eller kanskje moglegheit til å
+bu akkurat i det området, og at dei då ønskjer å ha moglegheita
+til å køyre bil, og må gjere det. Meiner statsråden at det er realistisk
+at vanlege folk som ønskjer å bruke toget, eine og åleine skal bruke
+sykkel eller gå til stasjonen?</A>
+            </Replikk>
+            <Replikk Id="i1004292">
+              <A>
+                <Navn personID="JONN">
+Statsråd Jon-Ivar Nygård [11:45:27]:</Navn> Nei, det mener jeg ikke,
+og derfor er det tilrettelagt for parkering på de fleste av våre
+stasjoner. Selv om vi har samfunnsmål om at vi skal få flere til
+å bruke gange, sykkel og kollektiv, er det åpenbart sånn at mange
+må bruke bilen til og fra stasjonene. Parkeringen på Steinberg er
+full på enkelte dager, men Bane NOR opplyser at det er ledig kapasitet
+på Hokksund stasjon, som ligger ca. tre kilometer fra Steinberg.
+Bane NORs registreringer viser at 25 pst. av dem som parkerer på
+Steinberg, kjører kortere enn en kilometer. Mange kjører også forbi
+Hokksund til Steinberg, fordi Steinberg ikke er avgiftsbelagt.</A>
+            </Replikk>
+            <Replikk Id="i1004294">
+              <A>
+                <Navn personID="GEL">
+Geir Inge Lien (Sp) [11:46:03]:</Navn> Det er, etter det eg kjenner
+til, kapasitet til å kunne gjere noko med parkeringstilhøva der.</A>
+              <A Type="Minnrykk">Stortinget har vedteke at stasjonen der skal
+ha den opninga som han har i dag. Vi som faktisk køyrer med toga,
+vil oppretthalde stoppmønsteret som gjeld i dag, og ikkje minst
+er det eit sterkt folkeleg ønske om å behalde togtilbodet som i
+dag. Der Bane NORs byråkratar vil redusere togtilbodet, vil Senterpartiet
+lytte til dei som bruker stasjonen og dei som køyrer med toga der dagleg.
+Kva side er den ansvarlege statsråden på i denne saka?</A>
+            </Replikk>
+            <Replikk Id="i1004296">
+              <A>
+                <Navn personID="JONN">
+Statsråd Jon-Ivar Nygård [11:46:40]:</Navn> Jeg er alltid på passasjerens
+side, men i mitt svar har jeg redegjort for at dette angår veldig
+mange passasjerer. Det er selvfølgelig ikke sånn at det sitter noen
+byråkrater og lager vanskelige rutetabeller for å straffe passasjerene,
+det er et helt motsatt utgangspunkt. Her har man sett på hvordan man
+kan få bedre driftsstabilitet og større punktlighet, og det vil
+gagne flere passasjerer.</A>
+              <A Type="Minnrykk">Det er selvfølgelig for meg fullt mulig å forstå
+at de som da får et dårligere tilbud, ikke er fornøyd med det – det
+er jo helt naturlig. Samtidig er det naturlig at det også gjøres
+avveininger av hvordan man skaffer et best mulig togtilbud til flest
+mulig passasjerer, og det er det Bane NOR har gjort her.</A>
+            </Replikk>
+          </Spm>
+          <Spm>
+            <Tittel>Spørsmål 12</Tittel>
+            <Hovedinnlegg Id="i1004298">
+              <A>
+                <Navn personID="ALI">
+Anne Kristine Linnestad (H) [11:47:28]:</Navn> Det er togets dag
+i dag, forstår jeg.</A>
+              <A Type="Minnrykk">«Flytogets BM71 var planlagt oppgradert og
+skulle kjøres til 2040. Etter sammenslåingen med VY er oppgraderingen
+skrotet, og nye togsett skal settes inn.</A>
+              <A Type="Minnrykk">Hva ville staten spart på å oppgradere eksisterende materiell
+og benytte dette til 2040, fremfor å kjøpe nytt fra 2032?»</A>
+            </Hovedinnlegg>
+            <Hovedinnlegg Id="i1004300">
+              <A>
+                <Navn personID="JONN">
+Statsråd Jon-Ivar Nygård [11:47:54]:</Navn> De eldste flytogene
+ble bygget sent på 1990-tallet og når forventet teknisk levetid
+i 2030. Norske tog og Jernbanedirektoratet vurderer at det som gir
+det beste togtilbudet til passasjerene, og som er mest lønnsomt
+for staten, er å styre mot en planlagt utfasing på 2030-tallet. </A>
+              <A Type="Minnrykk">Flytogene er ikke tilpasset det høyfrekvente
+regiontogtilbudet som regjeringen ønsker å innføre fra desember
+2027. I tillegg må man forvente at eldre tog har større vedlikeholdsbehov
+og flere stoppende feil. Det påvirker negativt både togtilbudets
+driftsstabilitet og hvor mange tog som til enhver tid står klare
+for drift. </A>
+              <A Type="Minnrykk">Norske tog har gjennomført beregninger av kostnadene
+som påløper staten ved å oppgradere og bruke flytogene fram til
+2042, sammenlignet med en styrt utfasing av togene tidlig på 2030-tallet.
+Anslagene konkluderer med at oppgradering og bruk til 2042 koster
+mindre i kroner og øre enn om man erstatter togene tidlig på 2030-tallet. </A>
+              <A Type="Minnrykk">Den økonomiske analysen setter imidlertid ikke
+en pris på fordelene for de reisende ved at nye tog erstatter de
+eldre flytogene, som vil gi positive effekter i form av bedre komfort,
+økt driftsstabilitet og langt høyere transportkapasitet. </A>
+              <A Type="Minnrykk">Totalen tilsier etter Norske togs og Jernbanedirektoratets
+vurdering at det er til beste for passasjerene at togene ikke oppgraderes
+for bruk fram til 2040.</A>
+            </Hovedinnlegg>
+            <Replikk Id="i1004302">
+              <A>
+                <Navn personID="ALI">
+Anne Kristine Linnestad (H) [11:49:34]:</Navn> Dette er andre gangen
+jeg spør, og jeg får et akkurat like dårlig svar. Jeg hadde et skriftlig
+spørsmål for et par uker siden, og så får jeg akkurat like dårlig
+svar nå. </A>
+              <A Type="Minnrykk">Når Flytoget selv har en oppgraderingsplan
+hvert tiende år og sier at dette kunne de fint klare, blir det i
+mitt hode noe spesielt at fordi de går inn i Vy-tilbudet, er ikke det
+lenger realistisk. Og for å være helt ærlig: Som togpendler – eller
+arbeidsreisende – på Østfoldbanen vil jeg dog si at komfort ikke
+er det som er viktigst. Om man sitter og ikke rekker ned med beina
+på grunn av at det er gammelt togsett med for høye seter, eller
+om man står som sild i tønne, er ikke det som er det viktigste for
+oss. Det viktigste er at toget går, og at det kommer seg av gårde.
+Da synes jeg det er spesielt at man ikke kan komme med et tall på
+hva det skal koste norske skattebetalere å kjøpe nye tog på midten
+av 2030-tallet, framfor å oppgradere dem vi har. Har statsråden
+egentlig en forklaring på hva skattebetalerne vil bli belastet med?</A>
+            </Replikk>
+            <Replikk Id="i1004304">
+              <A>
+                <Navn personID="JONN">
+Statsråd Jon-Ivar Nygård [11:50:45]:</Navn> Om det er et dårlig
+svar, eller om det er representanten som ikke liker svaret, kan
+vi jo diskutere etterpå. Poenget er at det er helt ulik tilnærming
+til hva Flytoget skulle bruke disse togene til, og hva vi nå skal
+bruke disse togsettene til. Flytogets business case tok utgangspunkt
+i en annen bruk enn det å innlemme Flytogets ruteleie i det ordinære
+regiontogtilbudet fra 2028. Den nye grunnrutemodellen med integrert
+tilbringertjeneste kommer alle de reisende på Østlandet til gode,
+noe som også gir andre forutsetninger for kost–nytte-vurderinger. </A>
+              <A Type="Minnrykk">Så kan vi bruke noen eksempler her. Hvis man
+tenker at man alltid skal holde liv i det gamle togmateriellet,
+for enhver pris, er det jo det man har gjort i Norge. Nå kjører
+vi 69-sett, som er om lag 50 år gamle. Det er ikke så veldig vellykket
+for passasjerene, heller ikke for driftsstabiliteten, så jeg er
+ganske trygg på at dette er en riktig vurdering.</A>
+            </Replikk>
+            <Replikk Id="i1004306">
+              <A>
+                <Navn personID="ALI">
+Anne Kristine Linnestad (H) [11:51:33]:</Navn> Det er ikke det at
+jeg ikke liker svaret, det er bare at det ikke er et svar på det
+jeg spør om. </A>
+              <A Type="Minnrykk">Noe helt annet: ESA har åpnet formell sak mot
+Norge på bakgrunn av regjeringens valg om å direktetildele flere
+jernbanestrekninger til Vy uten konkurranse. LO-forbundet Norsk
+Lokomotivførerforbund sier i etterkant av ESAs beslutning at dersom
+direktetildeling ikke er mulig, må EØS-avtalen sies opp. </A>
+              <A Type="Minnrykk">Vil statsråden virkelig fortsette å direktetildele
+jernbanestrekninger til Vy, eller er regjeringen villig til å si opp
+EØS-avtalen for å få dette til?</A>
+            </Replikk>
+            <Replikk Id="i1004308">
+              <A>
+                <Navn personID="JONN">
+Statsråd Jon-Ivar Nygård [11:52:10]:</Navn> Svaret på det siste
+er nei, og det er ingenting av det vi har gjort innenfor norsk jernbanepolitikk,
+som vi mener ikke forholder seg til EØS-avtalen og de direktivene
+som ligger der. Det kan godt være at det er juridisk uenighet om
+hvordan paragrafer skal forstås og fortolkes – det er jo ganske
+åpenbart, siden ESA har sendt oss et brev om det – men vi mener
+at vi er på trygg grunn, og at vi er innenfor det handlingsrommet
+som vi har, når vi har brukt direktetildeling. Det er denne regjeringens
+prefererte politikk å bruke direktetildeling, men det er også en
+juridisk innramming som vi må forholde oss til.</A>
+            </Replikk>
+          </Spm>
+          <Spm>
+            <Tittel>Spørsmål 13</Tittel>
+            <A Type="Minnrykk">Fra representanten Hanne Beate Stenvaag til
+kommunal- og distriktsministeren:</A>
+            <A Type="Minnrykk">«Daglige medieoppslag i Tromsø viser hvordan
+folk som trenger bolig, fortrenges fra leiemarkedet på grunn av
+en massiv vekst i korttidsutleie. Sårt tiltrengt arbeidskraft må
+flytte, og det har vært en stor økning i personer som trenger midlertidig
+bolig, inkludert barnefamilier. Det kalles Airbnb-eksplosjonen.
+Tromsø kommune har laget en utredning som viser at kommunen i dag
+ikke har noen reell måte å påvirke situasjonen på.</A>
+            <A Type="Minnrykk">Hvor lenge skal Tromsø og andre kommuner med turisttrykk
+vente på å få redskaper for å regulere korttidsleie?»</A>
+            <Presinnlegg>
+              <A>
+                <Navn>Presidenten [11:52:46]:</Navn> Dette spørsmålet,
+fra representanten Hanne Beate Stenvaag til kommunal- og distriktsministeren,
+er utsatt til neste spørretime.</A>
+            </Presinnlegg>
+          </Spm>
+          <Spm>
+            <Tittel>Spørsmål 14</Tittel>
+            <Presinnlegg>
+              <A>
+                <Navn>Presidenten [11:52:40]:</Navn> Dette spørsmålet,
+fra representanten Geir Jørgensen til digitaliserings- og forvaltningsministeren,
+vil bli besvart av energiministeren på vegne av digitaliserings-
+og forvaltningsministeren.</A>
+            </Presinnlegg>
+            <Hovedinnlegg Id="i1004310">
+              <A>
+                <Navn personID="GEIRAJ">
+Geir Jørgensen (R) [11:52:52]:</Navn> «Vi har de siste årene sett
+en stor etablering av kraftkrevende kryptosentre i Nord-Norge. I
+Kirkenes opererer nå fem kryptosenter, og NVE advarer om at det
+er snakk om et titalls kryptosentre bare i Øst-Finnmark.</A>
+              <A Type="Minnrykk">Vil regjeringen følge intensjonen om et midlertidig forbud
+mot kraftsløsende kryptoutvinning, slik som statsråden sa til E24
+11. oktober, eller ser regjeringen på andre måter å sikre at norsk
+vannkraft ikke sløses bort på å utvinne kryptovaluta for å berike
+kryptomilliardærer i andre land?»</A>
+            </Hovedinnlegg>
+            <Hovedinnlegg Id="i1004312">
+              <A>
+                <Navn personID="TELA">
+Statsråd Terje Aasland [11:53:30]:</Navn> Jeg vil takke representanten
+for spørsmålet, for da kan vi få presisert det vi har av tiltak,
+og det vi jobber med. Representantens spørsmål berører både mitt
+og digitaliserings- og forvaltningsministerens ansvarsområde, og
+jeg svarer selvfølgelig på vegne av oss begge.</A>
+              <A Type="Minnrykk">Et egnet klima, tilgang på kraft og stabile
+rammevilkår gjør Norge til et attraktivt land for datasenterbygging.
+Dette er i utgangspunktet bra, med tanke på både vår nasjonale sikkerhet
+og beredskap og verdiskaping, og det går jeg ut fra at representanten
+er enig i i det store. Dette innebærer imidlertid også at Norge
+peker seg ut som en arena hvor det er lett å utvinne krypto. Utvinning
+av kryptovaluta kaster lite av seg i form av arbeidsplasser og inntekter,
+og regjeringen har en klar intensjon om å begrense utvinning av
+kryptovaluta i Norge mest mulig.</A>
+              <A Type="Minnrykk">Dette er bakgrunnen for at vi allerede nå utreder
+et midlertidig forbud mot slike etableringer i form av en statlig
+planbestemmelse. Vi mener tiltaket vil kunne bidra til sterkt å
+ramme mulighetene for at nye datasentre skal kunne utvinne krypto
+i Norge, men det er for tidlig å si noe eksakt om hvordan dette
+forbudet skal innrettes.</A>
+              <A Type="Minnrykk">Kommunal- og distriktsdepartementet har invitert flere
+aktører til å gi tilbud om å utrede og utarbeide en statlig planbestemmelse
+med et midlertidig og avgrenset forbud mot etablering av datasentre
+som hovedsakelig driver med kraftkrevende utvinning av kryptovaluta. Det
+tas sikte på at utredningen og utarbeidingen av en slik statlig
+planbestemmelse foreligger i slutten av januar 2026.</A>
+              <A Type="Minnrykk">Tanken er å innføre et midlertidig forbud,
+og jeg deler representanten Jørgensens oppfatning av behovet for
+det. En statlig planbestemmelse som forbyr nye datasentre for kryptoutvinning,
+betyr at slike datasentre enten må få tillatelse fra Kommunal- og
+distriktsdepartementet, eller at de bare kan bygges hvis de står
+i en godkjent kommunal plan. Kommunene driver den konkrete arealplanleggingen
+og må følge de bestemmelsene som regjeringen fastsetter når de utarbeider
+sine arealplaner. Jeg tror det er et godt spor for å få løst den
+utfordringen som vi ser at etablering av kryptosentre gir.</A>
+            </Hovedinnlegg>
+            <Replikk Id="i1004314">
+              <A>
+                <Navn personID="GEIRAJ">
+Geir Jørgensen (R) [11:55:55]:</Navn> Da takker jeg for svaret,
+og så undres jeg fortsatt videre på: Hvor blir det av handlekraften?
+Hvor blir det av tempoet? Dette er på ingen måte nytt. Vi har stått
+her mange ganger – både undertegnede og flere andre representanter
+– og etterlyst handling når det gjelder kryptosentrene.</A>
+              <A Type="Minnrykk">Vi i Rødt er også på lag med industrien, og
+vi er på lag med fagbevegelsen, som i lang tid nå har krevd handling.
+Senest i går kom Harald Solberg, direktør i Norsk Industri, og sa
+følgende til E24: «Vi trenger ikke kryptosentre. De gir ingen vesentlig
+verdiskapning for Norge.»</A>
+              <A Type="Minnrykk">Dette haster det altså å komme i inngrep med.
+Kan statsråden anslå når man er ferdig med utredninger og omveier
+her og kommer i gang med et regelverk som setter en stopper for
+denne kraftsløsende virksomheten?</A>
+            </Replikk>
+            <Replikk Id="i1004316">
+              <A>
+                <Navn personID="TELA">
+Statsråd Terje Aasland [11:56:53]:</Navn> Som jeg redegjorde for
+i svaret mitt, tar vi sikte på at denne utredningen kan foreligge
+i januar, og at vi kan iverksette tiltak så raskt som mulig etter
+det.</A>
+              <A Type="Minnrykk">Jeg er også opptatt av at vi skal kunne hindre
+etablering av krypto, spesielt der man på en måte tilsniker seg en
+plass for å drive med det. Vi ser at det gis avslag på tilknytning
+til krypto på grunn av kapasiteter osv. i nettet. Reguleringsmyndigheten
+for energi, RME, har innhentet nærmere informasjon fra Statnett
+som viser at det har kommet inn forespørsler knyttet til elleve
+datasentre som oppgir at de skal utvinne krypto. Da kan jeg understreke:
+Ingen av disse har fått reservere kapasitet, og de står heller ikke
+i kapasitetskøen. Så kan det selvfølgelig være gjort reservasjoner
+som Statnett ikke kjenner til, men det er et arbeid vi følger opp.
+RME kommer også i nær framtid til å ha møter og dialog med de nordlige nettselskapene,
+i både Finnmark, Troms og nordlige Nordland, for å få bedre innsikt
+i den faktiske situasjonen. Vi har til hensikt å iverksette et midlertidig
+forbud mot etablering av krypto.</A>
+            </Replikk>
+            <Replikk Id="i1004318">
+              <A>
+                <Navn personID="GEIRAJ">
+Geir Jørgensen (R) [11:58:02]:</Navn> Det vi vel åpenbart ser her,
+når dette er varslet som et tiltak, er en betydelig strategisk posisjonering
+nå framover – nettopp for å få kommet i gang før et eventuelt midlertidig
+forbud er på plass, sånn som statsråden annonserer her.</A>
+              <A Type="Minnrykk">Kan statsråden si noe om hvorvidt et slikt
+midlertidig forbud – eller et totalforbud, som vi i Rødt ønsker
+og skal jobbe for – kan gis noen form for tilbakevirkende kraft,
+sånn at vi framover kan ta litt bedre kontroll over de verdifulle
+vannkraftressursene vi har i Norge, sånn som vi har klart å gjøre
+det i dag?</A>
+            </Replikk>
+            <Replikk Id="i1004320">
+              <A>
+                <Navn personID="TELA">
+Statsråd Terje Aasland [11:58:48]:</Navn> Jeg tror representanten
+også erkjenner at det er krevende å gjøre tiltak med tilbakevirkende
+kraft som får direkte innvirkninger, men vi skal selvfølgelig vurdere
+også den situasjonen.</A>
+              <A Type="Minnrykk">Så er det slik, som jeg sier, at RME, altså
+reguleringsmyndigheten, nå gjør et arbeid i dialog med nettselskapene
+for å få oversikt over i hvilket omfang dette nå er til stede, og
+hva vi kan forvente at vil komme den nærmeste tiden. Det er viktig
+å få den oversikten, sånn at vi raskt kan iverksette tiltak som
+sørger for at verdifull kraft ikke blir utnyttet til kryptoutvinning.
+Det gjelder spesielt mindre datasentre som utvinner krypto, noe
+vi har sett tendenser til. Der er det også viktig at de som eventuelt gir
+tilknytning, er oppmerksomme på regjeringens arbeid, sånn at vi
+ikke får flere tilknytninger enn det som strengt tatt er helt, helt
+nødvendig nå.</A>
+            </Replikk>
+          </Spm>
+          <Spm>
+            <Tittel>Spørsmål 15</Tittel>
+            <Hovedinnlegg Id="i1004322">
+              <A>
+                <Navn personID="LINHAU">
+Line Marlene Haugen (FrP) [12:00:01]:</Navn> «Kunnskapsministeren
+svarte nylig på mitt skriftlige spørsmål om hvordan skolene skal
+håndtere situasjoner der lærere må følge en elev ut av klasserommet
+etter fysisk inngripen. Statsråden svarte at dette må «avgjøres
+lokalt» – altså at skolene selv må finne ut hvordan både den urolige
+eleven og resten av klassen skal ivaretas.</A>
+              <A Type="Minnrykk">Når regjeringen samtidig er imot spesialskoler
+og alternative opplæringsarenaer – hva mener statsråden egentlig
+skal skje når problemet fortsetter og læreren står alene?»</A>
+            </Hovedinnlegg>
+            <Hovedinnlegg Id="i1004324">
+              <A>
+                <Navn personID="KARNOR">
+Statsråd Kari Nessa Nordtun [12:00:33]:</Navn> Aller først: Regjeringen
+er ikke imot spesialskoler eller alternative opplæringsarenaer,
+slik representanten hevder. Bruk av andre arenaer for læring kan
+være nyttig for den enkelte, både som del av tilpasset opplæring
+og som tiltak i individuell tilrettelegging. Derfor har vi mange
+slike tilbud i dag rundt omkring i landet vårt.</A>
+              <A Type="Minnrykk">Arbeiderpartiet mener at de aller fleste elever
+i norsk skole skal få opplæringen sin i det store fellesskapet.
+Vi ønsker ingen sorteringsskole. Vi kjemper for fellesskolen, og
+den er etter min mening Norges fremste konkurransefordel som samfunn.
+Derfor har det vært så viktig for regjeringen å sikre at lærerne
+og andre ansatte har den nødvendige støtten i lovverket for å kunne
+gjøre jobben sin best mulig for klassefellesskapet.</A>
+              <A Type="Minnrykk">De nye reglene som trådte i kraft dette skoleåret,
+gir ansatte i skolen en mulighet, på visse vilkår, til å gripe inn
+fysisk for å avverge at elever krenker andre psykisk eller vesentlig
+forstyrrer opplæringen til andre elever. Lovendringen innebærer
+en utvidelse av i hvilke tilfeller ansatte har muligheten til å
+bruke fysisk makt.</A>
+              <A Type="Minnrykk">Hvordan, og hva slags inngrep som kan benyttes, må
+vurderes konkret i hvert enkelt tilfelle. I noen tilfeller kan det
+være et alternativ å ta eleven ut av klasserommet. Det er selvfølgelig
+opp til læreren og eventuelt annet personell å avgjøre hvordan man
+skal ivareta både eleven som blir tatt ut av klassen, og resten
+av klassen. Denne vurderingen gjøres, og må gjøres, lokalt i det
+enkelte tilfellet.</A>
+              <A Type="Minnrykk">Jeg har forståelse for at slike situasjoner
+kan være krevende. Regjeringen har varslet at det vil bli utarbeidet
+veiledning til reglene om fysisk inngripen, og det ligger nå bl.a.
+informasjonsvideoer på udir.no om fysisk inngripen.</A>
+              <A Type="Minnrykk">Regjeringen bruker i 2025 nærmere 2,9 mrd. kr
+på kompetansetiltak rettet mot lærere og andre ansatte i barnehage
+og skole. Gjennom tilskuddsordning for lokal kompetanseutvikling
+er det tilrettelagt for at kommuner kan iverksette nødvendige kompetansetiltak
+basert på lokale behov. </A>
+              <A Type="Minnrykk">La meg understreke: Selv om det er et grunnleggende
+prinsipp at alle skal kunne få et tilbud i ordinær klasse, er det
+viktig at elever med behov får tilrettelegging, gjerne i mindre
+grupper, når det er fornuftig, og det gjøres allerede i dag.</A>
+              <A Type="Minnrykk">Jeg er dessuten åpen for at vi kan ha behov
+for flere verktøy i opplæringsloven. Jeg har derfor satt i gang
+et arbeid for å se om det er noe vi kan endre i regelverket for
+at lærerne skal få et enda bedre arbeidsmiljø, og at klassen skal
+få oppleve et enda bedre skole- og læringsmiljø.</A>
+            </Hovedinnlegg>
+            <Replikk Id="i1004326">
+              <A>
+                <Navn personID="LINHAU">
+Line Marlene Haugen (FrP) [12:03:07]:</Navn> Det er nettopp dette
+som er problemet, den lokale vurderingen. Det er et stort problem,
+for i praksis vil en lærer stå alene selv om det er blitt en utvidelse
+ved lovendringen. I en klasse på 30 står en ofte alene med elever
+som har krav på individuell tilrettelagt opplæring, og alle elever skal
+ha tilpasset opplæring. Så har en dem som lager uro. Det en opplever
+at statsråden gjør, er å legge ansvaret tilbake på skolene og kommunene
+uten at de får mer ressurser gjennom utvidelsen ved lovendringen. Det
+synes jeg er skremmende. </A>
+              <A Type="Minnrykk">Da må jeg nesten spørre igjen: Hvordan mener
+statsråden én lærer alene med 30 elever skal kunne klare å følge
+opp hele klassen og samtidig håndtere de utfordrende elevene? Det
+er det jeg føler jeg ikke har fått svar på.</A>
+            </Replikk>
+            <Replikk Id="i1004328">
+              <A>
+                <Navn personID="KARNOR">
+Statsråd Kari Nessa Nordtun [12:04:05]:</Navn> Det er viktig for
+meg å understreke at det ikke er noen plikt til fysisk inngripen,
+men for oss i Arbeiderpartiet har det vært viktig å legge til rette
+for at man kan gripe inn, når denne lovendringen nå kommer på plass.
+Da vi tok over etter at FrP og Høyre hadde styrt i flere år, fikk
+ikke lærerne engang la sin side av saken bli hørt dersom de ble
+anklaget for å gå over streken. Der har vi endret lovverket og i
+tillegg tatt flere konkrete grep.</A>
+              <A Type="Minnrykk">Det som er utrolig viktig, er at det er de
+lokale som vet hvor skoen trykker mest. Da jeg selv var lokalpolitiker
+gjennom 12 år, klarte vi nesten å doble antall ansatte i helsestasjonene
+og skolehelsetjenesten, nettopp for å gi lærerne de verktøyene som
+de rapporterte til oss at de trengte. Et godt partssamarbeid er
+helt nødvendig for å kunne sette inn målrettede tiltak som i størst
+mulig grad treffer de lokale behovene.</A>
+            </Replikk>
+            <Replikk Id="i1004330">
+              <A>
+                <Navn personID="LINHAU">
+Line Marlene Haugen (FrP) [12:04:58]:</Navn> Ja, det lokale behovet
+kjennes best på skolene, men igjen: Det er ikke blitt tilført noen
+øremerkede midler. Ressursene som er i skolen, er allerede ribbet
+til beinet. Her endres en lov uten at regjeringen tar høyde for
+at det også krever en god del mer ressurser å ivareta et godt og
+trygt læringsmiljø i klasserommet. Da må jeg nesten bare stille
+spørsmålet: Hvor mange elever tenker en må falle utenfor, og hvor
+mange lærere må egentlig gi opp før regjeringen innser at det ikke
+bare er å endre en lov? Her må det ressurser til, og det må være
+en plan for bruk av pengene som blir tildelt skolene og kommunene.</A>
+            </Replikk>
+            <Replikk Id="i1004332">
+              <A>
+                <Navn personID="KARNOR">
+Statsråd Kari Nessa Nordtun [12:05:45]:</Navn> Vi er helt tydelige
+på at vi skal gjøre alt vi kan for at våre elever og unger skal
+få det best mulige læringsmiljøet de kan få. Det skal være et trygt
+og godt læringsmiljø, og hvordan man skaper det, kan variere ut
+fra den enkelte kommune. Vi har i tillegg øremerkede penger, 80 mill. kr,
+til f.eks. beredskapsteam, som er helt nytt av i år, for å hjelpe
+kommunene i arbeidet med kriminalitetsforebygging og innsats der
+man ser at behovet er størst. </A>
+              <A Type="Minnrykk">Det samme har vi gjort med skolemiljøteam,
+hvor vi ser at man har behov for mer målrettet innsats der behovene
+er størst, og der man kan sette sammen flere faggrupper for å bistå
+skolene hvis de har utfordringer knyttet til skolemiljø eller kriminalitet. </A>
+              <A Type="Minnrykk">Vi tar enkelte grep – mer enn det som er blitt
+gjort tidligere, vil jeg understreke – og vi er absolutt med på
+å videreutvikle dette. Jeg er også veldig opptatt av å støtte partene
+og lærerne og de ansatte i deres kontakt med skoleeiere. </A>
+            </Replikk>
+          </Spm>
+          <Spm>
+            <Tittel>Spørsmål 16</Tittel>
+            <Hovedinnlegg Id="i1004334">
+              <A>
+                <Navn personID="HNJ">
+Helge André Njåstad (FrP) [12:07:03]:</Navn> «I NRK Vestland 15. oktober
+kan me lesa at Kystverket meiner rapporten frå Forsvarsmateriell
+ikkje bidrar med ny kunnskap om u-båten med kvikksølv og ammunisjon
+utanfor Fedje i Vestland.</A>
+              <A Type="Minnrykk">Er statsråden einig med Kystverket i at rapporten ikkje
+bidrar med ny kunnskap?»</A>
+            </Hovedinnlegg>
+            <Hovedinnlegg Id="i1004336">
+              <A>
+                <Navn personID="NSSMAR">
+Statsråd Marianne Sivertsen Næss [12:07:24]:</Navn> La meg være
+tydelig på at Kystverket verken har sagt eller ment at rapporten
+fra Forsvarsmateriell ikke bidrar med ny kunnskap om U-864. Det
+Kystverket og jeg har sagt, og som også går fram av artikkelen i
+NRK som representanten viser til i sitt spørsmål, er at rapporten
+er en del av et større utredningsarbeid. I dette arbeidet bidrar
+flere etater fra forsvarssektoren med innspill. </A>
+              <A Type="Minnrykk">I tillegg har Kystverket gjennomført ett tokt
+for å undersøke vraket, og de skal gjennomføre et nytt tokt på nyåret.
+De har også bedt om ytterligere utredninger fra Forsvarets forskningsinstitutt.
+På bakgrunn av funnene fra disse toktene og innspill fra etatene
+i forsvarssektoren vil Kystverket legge fram en rapport med anbefalinger
+om videre håndtering. Denne vil bli klar våren 2026.</A>
+              <A Type="Minnrykk">Jeg vet at dette er en sak der mange kjenner
+på en bekymring fordi det ligger store mengder kvikksølv på sjøbunnen.
+Jeg deler denne bekymringen og vil være tydelig på at det som er
+viktig for regjeringen i denne saken, er å håndtere vraket og kvikksølvforurensningen på
+en måte som gir lavest mulig risiko for spredning av kvikksølv. </A>
+              <A Type="Minnrykk">Alle tiltakene vil innebære en viss risiko
+for spredning. De fleste utredninger som har vært gjennomført, viser
+at tildekking av vraket og sjøbunnen gir lavest risiko, men vi ser
+nå at de ulike etatene i forsvarssektoren har ulike vurderinger. </A>
+              <A Type="Minnrykk">I 2022 leverte et ekspertutvalg en rapport
+der de anbefalte å avklare usikkerhetene knyttet til bl.a. hvor
+mye kvikksølv som er mulig å hente opp, og så hente opp så mye som
+mulig før vraket og den forurensede sjøbunnen dekkes til med rene
+masser. Dette er vi nå i gang med å gjøre.</A>
+              <A Type="Minnrykk">Vi vil nå la Kystverket fullføre oppdraget
+de har fått. De skal levere sin endelige rapport våren 2026, og
+her vil Forsvarsmateriells rapport inngå i kunnskapsgrunnlaget.
+Dersom de faglige rådene her viser at det er betydelig risiko for
+detonasjon av torpedoer, som igjen kan føre til høy risiko for spredning
+av kvikksølv, skal vi selvsagt lytte til det.</A>
+            </Hovedinnlegg>
+            <Replikk Id="i1004338">
+              <A>
+                <Navn personID="HNJ">
+Helge André Njåstad (FrP) [12:09:47]:</Navn> Eg blir tryggja av
+at då er Kystverket feilsitert og feiloppfatta, men det er mange
+som oppfattar at Kystverket har vore skeptisk til den nye rapporten,
+som peikar på at det er stor risiko for at torpedoane kan bli detonerte
+ved ei slik løysing. Ei av utfordringane ein har hatt lokalt, er
+at det er eit mandat frå regjeringa som berre handlar om heving
+av kvikksølv og så tildekking, og at ein utelukkar å heva heile
+ubåten og dermed eliminera risikoen for detonering. Viss dei faglege
+råda som kjem til statsråden neste vår, peikar på at ei heving av
+heile ubåten vil vera det beste, er det noko ved mandatet som utelukkar
+at den løysinga kan veljast?</A>
+            </Replikk>
+            <Replikk Id="i1004340">
+              <A>
+                <Navn personID="NSSMAR">
+Statsråd Marianne Sivertsen Næss [12:10:31]:</Navn> Regjeringen
+er opptatt av og vil sørge for en håndtering som gir lavest mulig
+risiko for spredning av kvikksølvforurensningen. Forsvarsmateriells
+vurdering tar vi på største alvor, og vi vil ikke gjennomføre tiltak
+som vil innebære høy risiko for detonasjon av eksplosiver og spredning
+av kvikksølv. Det er motstridende risikovurderinger fra de ulike
+etatene i forsvarssektoren, og det er jo det som Kystverket nå har
+fått i oppdrag å gjennomføre en ytterligere risikovurdering av.
+Dersom risikovurderingen tilsier at tiltaket ekspertutvalget anbefalte,
+og som regjeringen har gått inn for, likevel ikke bør gjennomføres,
+vil vi selvsagt vurdere andre tiltak for å sørge for lavest mulig
+risiko for spredning av kvikksølvforurensning.</A>
+            </Replikk>
+            <Replikk Id="i1004342">
+              <A>
+                <Navn personID="HNJ">
+Helge André Njåstad (FrP) [12:11:20]:</Navn> Det var eit langt svar
+på eit eigentleg enkelt spørsmål, så eg kan formulera det som eit
+ja/nei-spørsmål. Viss det er fagleg best og det er minst risiko
+ved å heva heile ubåten og ikkje berre heva lasten og dekkja til,
+er regjeringa open for det? Kan statsråden bekrefta at viss det
+er fagleg best og har minst risiko å heva heile ubåten, er ein villig
+til å vurdera det?</A>
+            </Replikk>
+            <Replikk Id="i1004344">
+              <A>
+                <Navn personID="NSSMAR">
+Statsråd Marianne Sivertsen Næss [12:11:44]:</Navn> Jeg er veldig
+tydelig på at jeg ønsker at Kystverket skal fortsette sitt arbeid
+med det oppdraget de har fått, og også vurdere de nye elementene
+som har kommet med uenigheten fra de ulike forsvarsetatene. Når
+vi får den helhetlige vurderingen på bordet, skal jeg svare på hvordan
+vi velger å håndtere dette videre. </A>
+              <A Type="Minnrykk">Det viktigste er at vi skal sørge for lavest
+mulig risiko for spredning av kvikksølvforurensning, og det er målsettingen.
+Det tenker jeg er det vi jobber etter, og så skal jeg komme tilbake
+til anbefalt løsning når vi har fått den vurderingen fra Kystverket
+på bordet.</A>
+            </Replikk>
+          </Spm>
+          <Spm>
+            <Tittel>Spørsmål 17</Tittel>
+            <A Type="Minnrykk">Fra representanten Mahmoud Farahmand til justis- og
+beredskapsministeren:</A>
+            <A Type="Minnrykk">«Sikkerhetsklareringer har de siste årene vært
+mye omtalt, ikke minst etter at ansatte i politiet, Forsvaret og andre
+etater har mistet sine klareringer etter mange års tjeneste. Det
+er en selvfølge at nasjonens sikkerhet må veie tyngst, men det er
+også avgjørende at alle får en rettferdig og individuell behandling
+basert på klare og forståelige kriterier.</A>
+            <A Type="Minnrykk">Hvilke konkrete grep vil regjeringen ta for
+å sikre at klareringsprosessen både bidrar til å trygge nasjonen
+og gir en rettferdig og individuell vurdering?»</A>
+            <Presinnlegg>
+              <A>
+                <Navn>Presidenten [12:12:20]:</Navn> Dette spørsmålet
+er trukket.</A>
+            </Presinnlegg>
+          </Spm>
+          <Spm>
+            <Tittel>Spørsmål 18</Tittel>
+            <Hovedinnlegg Id="i1004346">
+              <A>
+                <Navn personID="ALES">
+Aleksander Stokkebø (H) [12:12:33]:</Navn> «Trusler med våpen i
+Egersund. En ung mann i 20-årene som må hentes av ambulanse etter
+knivstikking på en buss i Sandnes. En kvinne som blir offer for
+tilfeldig knivstikking på gaten i Haugesund. Dette er hendelser
+fra bare de siste ukene. Volden blir grovere – og antall og andel
+hendelser i Sør-Vest politidistrikt har økt markant. Distriktet
+har store utfordringer med å håndtere den økende kriminaliteten,
+samtidig som politidekningen er lav.</A>
+              <A Type="Minnrykk">Hva vil statsråden gjøre for å bedre situasjonen
+i Sør-Vest politidistrikt?»</A>
+            </Hovedinnlegg>
+            <Hovedinnlegg Id="i1004348">
+              <A>
+                <Navn personID="ASTAAS">
+Statsråd Astri Aas-Hansen [12:13:14]:</Navn> Uten å karakterisere
+disse konkrete hendelsene som representanten trekker fram, vil jeg
+være tydelig på at trusler med våpen og knivstikking er alvorlige
+straffbare handlinger som sprer utrygghet og frykt, og som kan gi alvorlige
+konsekvenser for liv og helse. I Norge skal folk være trygge, kriminalitet
+skal bekjempes.</A>
+              <A Type="Minnrykk">Arbeiderpartiregjeringen har prioritert dette
+over tid og har prioritert politiet over tid. I inneværende år fikk
+politiet over 2,4 mrd. kr i økt bevilgning, bl.a. for å sikre en
+stabil grunnfinansiering av politiet og for å styrke arbeidet mot
+de kriminelle nettverkene. Dette har satt politiet bedre i stand
+til å øke sitt forebyggende arbeid, til å øke tilstedeværelsen og
+til å gi en bedre beredskap i prioriterte områder.</A>
+              <A Type="Minnrykk">I forslag til statsbudsjett for neste år prioriterer
+regjeringen en ytterligere økning av bevilgningen til politiet på
+196 mill. kr. Totalt foreslår vi grep som skal øke inntekter og
+effektivisere politiet, sånn at det i sum vil gi et økt handlingsrom
+på 404 mill. kr for politiet i 2026-budsjettet, dersom Stortinget
+slutter seg til det. Dette er midler som kan benyttes til andre
+og viktigere politioppgaver.</A>
+              <A Type="Minnrykk">Vi forventer resultater av pengene som prioriteres. Økningen
+vil bidra til at politiet får mest mulig effekt av tidligere satsinger
+mot bl.a. kriminelle nettverk og barne- og ungdomskriminalitet.
+Med forslaget for 2026 er politiets budsjett økt med 31 pst. siden
+Støre-regjeringen overtok etter Solberg-regjeringen i 2021, og bemanningen
+i politiet og PST er styrket med over 300 årsverk. Jeg forventer
+at det bidrar godt inn i politiets arbeid med bl.a. å inndra verdier
+fra kriminelle, å sørge for at flere saker oppklares, og at det
+bidrar til Norges beredskap.</A>
+              <A Type="Minnrykk">Det er Politidirektoratet som har ansvaret
+for å fordele midlene mellom politidistriktene og andre enheter i
+etaten, i tråd med føringer som er gitt av Stortinget og departementet.
+Politidekningen i det enkelte politidistrikt avhenger av flere komponenter
+som inngår i denne fordelingsnøkkelen, som en kan kalle det, og
+det er politimesterne i hvert distrikt som så har ansvaret for å
+fordele midlene innenfor politidistriktets budsjett og prioritere
+etter lokale forhold og behov. Jeg har tillit til at det skjer på
+en god måte.</A>
+            </Hovedinnlegg>
+            <Replikk Id="i1004350">
+              <A>
+                <Navn personID="ALES">
+Aleksander Stokkebø (H) [12:16:16]:</Navn> Jeg lurer litt på hvor
+pengene har gått, for det har ikke blitt flere politifolk i Sørvest
+politidistrikt, snarere et lavere antall årsverk, mens kriminaliteten
+øker. Det er behov for å satse på flere politifolk nasjonalt, men
+det er også nødvendig å stille spørsmål ved hvordan ressursene fordeles.
+Evalueringer har pekt på at dagens modell ikke fanger opp de særskilte
+utfordringene i storbyene og befolkningstunge politidistrikter.</A>
+              <A Type="Minnrykk">Som politimester Vik så godt har sagt det:
+Det er folk som er ofre for kriminalitet, det er folk som begår
+lovbrudd, det er folk som skal ha pass, og det er folk som har behov
+for beredskap og trygghet. Ser statsråden utfordringene med dagens
+budsjettmodell – utfordringene den skaper for storbyene og Sørvest
+politidistrikt – og burde ikke befolkning vært en større driver
+for ressursfordelingen?</A>
+            </Replikk>
+            <Replikk Id="i1004352">
+              <A>
+                <Navn personID="ASTAAS">
+Statsråd Astri Aas-Hansen [12:17:13]:</Navn> Jeg kan slutte meg
+til politimester Viks beskrivelse av hvorfor vi har et politi. Det
+er selvfølgelig på grunn av alle oss som bor i dette landet, og
+som har krav på både trygghet, kriminalitetsforebygging, kriminalitetsbekjempelse
+og også god beredskap. Når det gjelder hvor mange politipersoner
+det skal være på jobb i Sørvest politidistrikt, hvor i distriktet
+de skal jobbe, hva de skal jobbe med, og hvilken bakgrunn de skal
+ha, mener jeg det er politimesteren som må disponere det. Jeg stoler
+også på politimester Vik og er enig i at det er han som er nærmest
+denne prioriteringen.</A>
+              <A Type="Minnrykk">Når det gjelder hvordan fordelingsnøkkelen
+er, er det noe politidirektøren, sammen med politimesterne, må se
+på om er riktig – om det er riktige komponenter inn i denne fordelingsnøkkelen,
+som, som sagt, går på både befolkningstetthet, kriminalitetsbildet,
+geografiske forskjeller og annet.</A>
+            </Replikk>
+            <Replikk Id="i1004354">
+              <A>
+                <Navn personID="ALES">
+Aleksander Stokkebø (H) [12:18:19]:</Navn> Det er viktig at politiet
+har nok ressurser til å forebygge og håndtere kriminaliteten. Jeg
+pekte på en av utfordringene med den vanlige budsjettfordelingsmodellen,
+og nå har vi også en budsjettfordelingsmodell for påtaleenhetene
+i politiet på gang, noe som er enormt viktig. Også i fordelingen
+av ressurser der er befolkning knapt tatt inn som en faktor. I stedet
+legger man opp til en modell hvor det sentrale er hvordan man som
+politidistrikt koder og kategoriserer straffesakene. Man får en
+situasjon der ulik praksis og ulik tolkning av hvordan man skal
+kode en straffesak, avgjør fordelingen av store deler av politibudsjettet. </A>
+              <A Type="Minnrykk">Man skal ha tillit til fagfolk, men det er
+også et politisk ansvar å sørge for at det er nok politikraft der
+det trengs. Tilbakemeldingene er tydelige, både fra politijurister
+og fra mange politidistrikt, på at befolkning bør være en større
+faktor.</A>
+              <A Type="Minnrykk">Ser statsråden de uheldige utslagene noen av
+modellene i dag gir, og hvordan vil hun bidra til at de blir mer
+treffsikre?</A>
+            </Replikk>
+            <Replikk Id="i1004356">
+              <A>
+                <Navn personID="ASTAAS">
+Statsråd Astri Aas-Hansen [12:19:26]:</Navn> Jeg er enig i at vi
+alltid skal være åpne for å se på om en har modeller som speiler
+realitetene der ute. Det som er viktig for meg og for representanten
+og for alle som er politikere og som også er opptatt av justispolitikk,
+er nettopp at vi får best mulig trygghet og kriminalitetsbekjempelse
+ut av alle de pengene som bevilges til politiet. Bevilgende myndighet
+legger først og fremst føringer for hva det er vi skal oppnå med
+politiet: Hvilke mål er det vi mener politiet skal nå med de bevilgningene
+og de lovhjemlene en har? Så må vi som er rundt om i hele landet,
+kunne gi tilbakemeldinger på om en opplever at en treffer de målene
+og de prioriteringene som gis fra Stortinget. Den lydhørheten vil
+jeg ha, og den er jeg trygg på at også politidirektøren og politimesterne
+har med seg inn i sitt arbeid.</A>
+            </Replikk>
+          </Spm>
+          <Spm>
+            <Tittel>Spørsmål 19</Tittel>
+            <Hovedinnlegg Id="i1004358">
+              <A>
+                <Navn personID="MARGRT">
+Maren Grøthe (Sp) [12:20:53]:</Navn> «Arbeiderparti–Senterparti-regjeringa
+lanserte Bevaringsstrategi for kulturhistorisk verdifulle kirkebygg
+21. februar 2024, referert til i Prop. 1 S (2024–2025) og (2025–2026).
+På side 42 i strategien står det: «Sekretariatet for Kirkebevaringsfondet
+legges til Trondheim og lokaliseres i Waisenhuset.» Nidaros domkirkes
+sokn har på bakgrunn av Statsbyggs forventning om restaurering av
+bygget startet prosjektet til en kostnad på 20 mill. kr så langt.</A>
+              <A Type="Minnrykk">Mener statsråden regjeringen har overholdt lovnaden
+overfor Nidaros domkirkes sokn og Waisenhuset?»</A>
+            </Hovedinnlegg>
+            <Hovedinnlegg Id="i1004360">
+              <A>
+                <Navn personID="LVA">
+Statsråd Lene Vågslid [12:21:39]:</Navn> Når ei statleg verksemd
+skal forplikte seg til ei husleigeavtale, er dette å binde opp store
+budsjettmidlar i mange år framover. Ved anskaffingar i staten av
+denne typen er det pålagt å vurdere dei økonomiske konsekvensane
+av avtala. Spørsmålet om bruk av Waisenhuset i Trondheim var ikkje
+tilstrekkeleg utgreidd før strategien for bevaring av kulturhistorisk
+verdifulle kyrkjebygg blei lansert. Difor melde Arbeidarparti–Senterparti-regjeringa
+i Stortinget i revidert nasjonalbudsjett for 2024 at ein tok sikte
+på å leige lokale for kyrkjebevaringsfondets administrasjon i Waisenhuset.</A>
+              <A Type="Minnrykk">Med bakgrunn i strategien og intensjonen om
+å leige Waisenhuset blei ikkje anskaffinga av kontorlokale lagd
+ut på den opne marknaden i Trondheim. Riksantikvaren, i samråd med
+Statsbygg, utarbeidde ein kravspesifikasjon med rom- og funksjonsprogram,
+og det blei bedt om eit tilbod frå Nidaros domkyrkjes sokn, som
+eigar av Waisenhuset og difor einaste tilbydar.</A>
+              <A Type="Minnrykk">Våren 2025 blei det lagt fram eit tilbod frå
+Nidaros domkyrkjes sokn, og tilbodet er evaluert av Statsbygg. Departementet
+har gått grundig gjennom dokumentasjonen. Det er der tilbode ein
+leigepris på 5 200 kr kvadratmeteren. I Trondheim sentrum ligg prisen
+for god kontorstandard på mellom 2 400 kr og 3 500 kr per kvadratmeter.</A>
+              <A Type="Minnrykk">Tilbodet som staten fekk, er svært kostbart,
+særleg i forhold til standarden på lokala, men òg samanlikna med
+kontorleigemarknaden elles i Trondheim. Difor meiner eg at me ikkje
+kan forsvare å inngå ei så langsiktig og dyr leigeavtale, òg med
+tanke på at det kviler på regjeringa og Stortinget å vise økonomisk
+ansvar. Om ein i tillegg inngår ei slik avtale utan konkurranse,
+kan ein kome i ein situasjon som kan dreie seg om ulovleg statsstøtte.</A>
+              <A Type="Minnrykk">For å svare representanten direkte på spørsmålet, meiner
+eg at lovnaden – med den presiseringa som forgjengaren min, Kjersti
+Toppe, tok inn i revidert nasjonalbudsjett for 2024 – er følgt opp.
+Regjeringa har, slik ein alltid skal gjere, gjennomført ein grundig
+prosess med intensjon om å leige lokale, som har leidd fram til eit
+tilbod me ikkje kan gå vidare med, når me veg det opp mot kostnader
+og risiko for staten. Det vil no bli invitert til ein open anbodskonkurranse
+om kontorlokale for sekretariatet, som skal liggje i Trondheim.
+Der er òg Nidaros domkyrkjes sokn velkome til å delta.</A>
+            </Hovedinnlegg>
+            <Replikk Id="i1004362">
+              <A>
+                <Navn personID="MARGRT">
+Maren Grøthe (Sp) [12:24:28]:</Navn> Det var en politisk beslutning
+at administrasjonen av kirkebevaringsfondet skulle legges til Trondheim,
+men også til Waisenhuset. Det var et tydelig ønske at man skulle
+styrke Trondheim som kirkehovedstad, men også kirkekvartalet rundt
+Nidarosdomen, og ikke minst ta vare på og utnytte det historiske
+bygget som Waisenhuset er. Derfor var jo regjeringen – i februar
+2024, da man var så tydelig på at man skulle inn i Waisenhuset –
+fullt klar over at dette var et bygg med et betydelig behov for
+oppgradering og restaurering. Jeg mener det er viktig at staten skal
+følge opp de forpliktelsene den har gitt. Det er avgjørende for
+at vi i framtiden har høy tillit, også som en forutsigbar samarbeidspartner.
+Resultatet nå er at vi har en litt uskyldig menighet som sitter
+igjen med en betydelig kostnad som følge av dette bruddet. Nidaros domkirkes
+sokn har også vært i dialog med Statsbygg, men kanskje opplevd manglende
+vilje til faktisk å sette seg ved forhandlingsbordet. </A>
+              <A Type="Minnrykk">Vil statsråden likevel sikre at kirkebevaringsfondet nå
+flytter inn i Waisenhuset, fordi det er et politisk ønske om det,
+og hvis ikke, hva vil statsråden gjøre for å rette opp overfor menigheten,
+som sitter igjen med store kostnader?</A>
+            </Replikk>
+            <Replikk Id="i1004364">
+              <A>
+                <Navn personID="LVA">
+Statsråd Lene Vågslid [12:25:44]:</Navn> Det første spørsmålet har
+eg nok allereie svart på. Me meiner det blir for dyrt, og difor
+kjem me til å lyse ut ein open anbodskonkurranse som òg Nidaros
+sokn kan delta i. </A>
+              <A Type="Minnrykk">Når det gjeld kostnader, har Nidaros domkyrkjes sokn
+– ifølgje dei opplysningane eg har – sidan 2022 investert om lag
+20 mill. kr i dette bygget. Det er bl.a. til totalrehabilitering
+av tak og fasade. Grovkalkylen for prosjektet knytt til sjølve kontorlokala
+gav ein berekna prosjektkostnad på vel 22 mill. kr. Etter det eg
+er kjent med, er ikkje dei pengane soknet har brukt til tak og fasade, ein
+del av prosjektkostnadene knytte til kontordelen. Eg vil likevel
+understreke at om soknet har hatt utgifter direkte knytte til formuleringane
+i bevaringsstrategien, vil eg gjerne ha dialog med dei om det.</A>
+            </Replikk>
+            <Replikk Id="i1004366">
+              <A>
+                <Navn personID="MARGRT">
+Maren Grøthe (Sp) [12:26:45]:</Navn> Regjeringen var tydelig i strategien
+på at målet var at man skulle inn i Waisenhuset. Deretter fulgte
+både Statsbygg og Riksantikvaren opp med å gjennomføre møter, befaringer
+osv. Nidaros domkirkes sokn trodde, forståelig nok, på de lovnadene
+som ble gitt fra regjeringen den gangen. Waisenhuset har derfor
+bl.a. blitt holdt tomt, fra februar 2024 til oktober 2025, siden
+det var avsatt og reservert til kirkebevaringsfondets sekretariat.
+Nidaros domkirkes sokn mente bl.a. at det ville være illojalt å
+gå til andre leietakere i den perioden. Det har åpenbart store kostnader
+for et lite sokn. Det kommer på toppen av kostnader for arkitekt,
+rådgivere, befaringer og prosjektledelse for innflyttingen. </A>
+              <A Type="Minnrykk">Jeg vil også spørre om statsråden vil beklage
+til Nidaros domkirkes sokn for at man opplever at man ikke har hatt
+god nok dialog på veien, og ikke minst at resultatet nå blir at
+de sitter igjen med store kostnader som går ut over det øvrige menighetsarbeidet.</A>
+            </Replikk>
+            <Replikk Id="i1004368">
+              <A>
+                <Navn personID="LVA">
+Statsråd Lene Vågslid [12:27:43]:</Navn> Eg viser til mitt førre
+svar. Viss det viser seg at Nidaros sokn har hatt kostnader knytte
+til formuleringane i bevaringsstrategien, går eg gjerne i dialog
+med dei om det. Det har vore ein jamn dialog, og han har vore krevjande.
+Eg meiner det var klokt av forgjengaren min å leggje inn ei presisering
+i revidert budsjett for 2024, der ein tek høgde for kva dette kjem
+til å koste. Når kvadratmeterprisen er så forskjellig frå den som
+er for god kontorstandard i Trondheim, ville det vore uansvarleg
+av meg og regjeringa å ikkje gjere dei kostnadsvurderingane.</A>
+            </Replikk>
+          </Spm>
+          <Spm>
+            <Tittel>Spørsmål 20</Tittel>
+            <Hovedinnlegg Id="i1004370">
+              <A>
+                <Navn personID="TWT">
+Tone Wilhelmsen Trøen (H) [12:28:38]:</Navn> «Norsk Fosterhjemsforening
+uttaler at det er fosterhjemskrise i Norge. Over 400 barn lever
+under omsorgssvikt og venter på et trygt hjem å bo i. Dette er barn
+som staten har en plikt til å finne trygghet for og bolig til.</A>
+              <A Type="Minnrykk">Hva vil statsråden gjøre for å sikre fosterhjem
+for de hundrevis av barna som venter på et trygt sted å bo, og hvordan
+vil statsråden sørge for at fosterhjemsforeldre får mer spesialisert
+veiledning og bedre støtte til å gjøre sitt viktige samfunnsoppdrag?»</A>
+            </Hovedinnlegg>
+            <Merknad>
+              <Handling>
+                <A>
+                  <Uth Type="Sperret">Ove Trellevik</Uth> hadde
+her teke over presidentplassen.</A>
+              </Handling>
+            </Merknad>
+            <Hovedinnlegg Id="i1004372">
+              <A>
+                <Navn personID="LVA">
+Statsråd Lene Vågslid [12:29:19]:</Navn> Takk for spørsmålet. Eg
+deler bekymringane til representanten – me har altfor mange barn
+i Noreg som ventar på ein fosterheim. Ved utgangen av andre tertial
+i inneverande år var det 374 barn som venta på fosterheim i Bufetats
+regionar. Det har vore ein betydeleg auke dei siste åra, og det
+skyldast bl.a. at det har blitt meir krevjande å rekruttere nye
+fosterheimar. </A>
+              <A Type="Minnrykk">Det er ikkje heilt rett å seie at desse ungane
+lever under omsorgssvikt. Eg legg til grunn at barna har eit forsvarleg
+tilbod mens dei ventar på ein fosterheim, men det er likevel veldig
+alvorleg at dei blir gåande lenge i ein uavklart situasjon. Dei
+fleste av barna som ventar på ein fosterheim, bur allereie i ein
+beredskapsheim. Nokre av ungane bur i ein fosterheim og skal ut
+av han. Nokre av ungane kan bu i ein institusjon og skal ut til
+ein fosterheim. Bufdir har sagt at éin av ti av ungane som ventar på
+fosterheim, bur med foreldra mens kommunane prøver ut hjelpetiltak
+i heimen.</A>
+              <A Type="Minnrykk">Med tiltaka frå fosterheimsmeldinga – som er
+vedteken i Stortinget, med brei støtte – og kvalitetsløftet for barnevernet
+får fosterforeldra betre økonomiske rammevilkår og meir makt til
+å ta avgjerder i kvardagen. Tiltaka skal òg forbetre samarbeidet
+mellom kommunane og staten og fosterheimane. Det er veldig viktig
+at kommunane stiller opp med det dei kan for fosterheimane sine. </A>
+              <A Type="Minnrykk">Det er òg viktig at andrelinjetenesta bidreg
+til å spille kommunane gode i arbeidet med å lage gode rammer rundt
+fosterheimane. Kompetansestøtteteamet, som no er under etablering
+i regionane til Bufetat, blir veldig viktig. Dei skal understøtte
+fosterheimsarbeidet til kommunane, ut frå dei konkrete behovet dei
+har i kvar sak, men dei skal ikkje minst òg – som representanten
+etterspør – bidra med rettleiing direkte til fosterforeldra, noko
+som har vore veldig sterkt etterspurt, bl.a. frå Fosterheimsforeininga.
+Det nye tilbodet til kommunane skal vere i drift frå 1. januar,
+og det ser eg fram til.</A>
+              <A Type="Minnrykk">La meg gjenta: Fosterheimskøen er alvorleg.
+Det er ikkje ein enkel kvikkfiks for dette, men no har me mange
+tiltak som er under utrulling, og som vil bidra til å avhjelpe situasjonen
+– men me veit veldig godt at me ikkje er i mål.</A>
+            </Hovedinnlegg>
+            <Replikk Id="i1004374">
+              <A>
+                <Navn personID="TWT">
+Tone Wilhelmsen Trøen (H) [12:32:04]:</Navn> Jeg setter pris på
+at statsråden gir så tydelig uttrykk for at hun også er bekymret.
+For meg er det oppsiktsvekkende at så mange barn venter på å komme
+i en situasjon hvor de kan legge seg om kvelden og være trygge,
+og hvor de har omsorgspersoner rundt seg, slik barn skal oppleve
+å ha i en familie. Dette er barn og unge som kan være i en veldig
+sårbar fase, og som, hvis vi ikke klarer å gi et godt nok tilbud,
+kan ha større utfordringer med sin vekst og utvikling som mennesker.</A>
+              <A Type="Minnrykk">Familiene som stiller opp som fosterforeldre,
+tar på seg et veldig stort ansvar. Fosterhjemsforeningen sier at nesten
+syv av ti fosterforeldre sier at de ikke kan, eller er usikre på
+om de kan, anbefale andre å bli fosterhjem. Det er veldig alvorlig.</A>
+              <A Type="Minnrykk">Høyre ønsker å gi fosterforeldre bedre rettigheter. Vil
+statsråden utdype hvordan hun vil sikre rammevilkårene for fosterforeldrene
+bedre i årene fremover?</A>
+            </Replikk>
+            <Replikk Id="i1004376">
+              <A>
+                <Navn personID="LVA">
+Statsråd Lene Vågslid [12:33:06]:</Navn> Eg er glad for at òg representanten
+har god dialog med Fosterheimsforeininga. Dei er det viktig at me
+både lyttar til og har god dialog med. Det er fleire av dei tiltaka
+som blei vedtekne i samband med behandlinga av fosterheimsmeldinga,
+som eg meiner at òg Høgre støtta, som no blir viktige for fosterforeldra
+sjølve. </A>
+              <A Type="Minnrykk">Det eine er det openberre: Me må bli betre
+på rettleiing. Kompetansestøtteteamet, som kjem på plass over nyttår,
+har eg difor stor tru på. </A>
+              <A Type="Minnrykk">Eg meiner òg at det å gje fosterforeldre auka
+makt til å ta avgjerder i kvardagen betyr mykje. Det eg trur at
+eg og representanten er heilt einige om, er at desse ungane skal
+ha det som andre ungar. Når barn bur i ein fosterheim, skal det
+vere heimen deira. Då er f.eks. det at me no arbeider med å få til
+auka makt til å ta avgjerder i digitale tenester for barn, kjempeviktig.</A>
+              <A Type="Minnrykk">I tillegg vil me ha auka bruk av spesialiserte
+hjelpetiltak i fosterheimane. Me vil ha auka bruk av familieråd. Samla
+sett trur eg at mange av dei tiltaka som no er på veg, vil både
+auke rekrutteringa av fosterheimar og gjere dette meir stabilt.</A>
+            </Replikk>
+            <Replikk Id="i1004378">
+              <A>
+                <Navn personID="TWT">
+Tone Wilhelmsen Trøen (H) [12:34:21]:</Navn> Da Stortinget behandlet
+fosterhjemsmeldingen, var nok Høyre enda tydeligere på at vi ønsker
+å gi fosterforeldre partsrettigheter og rett til pensjon og sykepenger
+fra første dag. Det er noe vi har vært opptatt av lenge. </A>
+              <A Type="Minnrykk">Vi har sett en eksplosiv økning i antallet
+brudd på bistandsplikten. Det betyr at veldig mange barn og unge venter
+på plass i institusjon. Vi har som sagt hundrevis av barn som venter
+på plass i fosterhjem. Det er også tilfeller av at utsatte barn
+må sove på ledig glattcelle eller på sofaen hos barnevernsvakten
+fordi det ikke finnes trygge plasser å oppdrive. </A>
+              <A Type="Minnrykk">I statsbudsjettet står det at regjeringen er
+opptatt av og vet at det er behov for private aktører i det statlige barnevernet.
+Hvorfor vil ikke regjeringen gjøre det samme når det gjelder fosterhjemskapasitet,
+og la private få bidra med å skape trygge hjem for de hundrevis
+av barn som nå står i kø og venter på en trygg seng å legge seg
+i og et trygt hjem å vokse opp i?</A>
+            </Replikk>
+            <Replikk Id="i1004380">
+              <A>
+                <Navn personID="LVA">
+Statsråd Lene Vågslid [12:35:28]:</Navn> Private kan òg levere enkelttenester
+til fosterheimsomsorga, men Arbeidarpartiet meiner at det er viktig
+for rettstryggleiken at det er barnevernstenesta som har avtalen
+med fosterheimane. </A>
+              <A Type="Minnrykk">Brot på bistandsplikt er noko av det eg har
+brukt mest tid på sidan eg blei statsråd i februar, og fleire gode spørsmål
+har kome frå kollegaer i Høgre om akkurat dette temaet. Det eg er
+glad for, er at me no ser ein ganske stor nedgang når det gjeld
+desse brota. For oss handlar dette om det me er einige om – det
+handlar om sårbare ungar som treng ein stabil livssituasjon. Dei
+kjem med ein ryggsekk som er tyngre enn kva veldig mange andre har.
+Difor var det viktig at me fekk igjennom kvalitetsløftet for barnevernet
+i Stortinget, som no set ei ny retning for institusjonstilbodet,
+i tillegg til at me skal styrkje rekrutteringa av fosterheimar. </A>
+            </Replikk>
+          </Spm>
+          <Spm>
+            <Tittel>Spørsmål 21</Tittel>
+            <Hovedinnlegg Id="i1004382">
+              <A>
+                <Navn personID="GP">
+Geir Pollestad (Sp) [12:36:41]:</Navn> «Vil klimatiltak som aukar
+kostnadene for bonden og som gjev dyrare mat, bidra til auka sjølvforsyning,
+auka etterspørsel etter norsk mat og reduserte utslepp av klimagassar?»</A>
+            </Hovedinnlegg>
+            <Hovedinnlegg Id="i1004384">
+              <A>
+                <Navn personID="NKS">
+Statsråd Nils Kristen Sandtrøen [12:37:03]:</Navn> Jeg er trygg
+på at representanten Pollestad, som også er tidligere landbruks-
+og matminister, er kjent med at landbrukspolitikken har flere mål.
+Jordbruket skal, som alle andre sektorer i samfunnet vårt, redusere
+sine utslipp. Så langt viser statistikken at det er langt igjen
+til å nå det målet som er satt for jordbruket, og det har Riksrevisjonen
+også påpekt i sin gjennomgang.</A>
+              <A Type="Minnrykk">Gjennomgående er hovedvirkemiddelet i klimapolitikken
+å prise utslippene. Jordbrukets utslipp er i liten grad priset.
+Dette er altså et klima- og miljøvirkemiddel. Samtidig er Pollestad
+her inne på at konsekvensene også må vurderes opp mot virkningen
+for de andre målene for landbrukspolitikken. Vi tar derfor sikte
+på å sende på høring innføring av en avgift som skal bidra til reduserte utslipp
+til vann og luft. Jeg er trygg på at effekter og konsekvenser vil
+bli tydelig belyst av høringsinstansene, og at det vil bidra til
+å gi et godt grunnlag for det videre arbeidet. </A>
+              <A Type="Minnrykk">En avgift vil jo gi økte produksjonskostnader
+og skal stimulere til mer effektiv bruk av gjødsel, men på grunn av
+totalkalkylen og det inntektsmålet vi har for jordbruket, vil en
+kostnadsøkning bli kompensert for jordbruket som sektor.</A>
+            </Hovedinnlegg>
+            <Replikk Id="i1004386">
+              <A>
+                <Navn personID="GP">
+Geir Pollestad (Sp) [12:38:42]:</Navn> Her vart det sagt at prising
+av utslepp er hovudverkemiddelet. Ja, men i jordbruket er det klimaavtalen
+for jordbruket – altså klimaavtalen mellom regjeringa og jordbruket
+– som er hovudverkemiddelet. Det er jo dette regjeringa no legg opp
+til å gå vekk frå.</A>
+              <A Type="Minnrykk">Under ei høyring i næringskomiteen heldt Norsk Landbruksrådgiving
+eit glitrande innlegg som viste kvifor innføring av avgift på mineralgjødsel
+er ein dårleg idé. Tidlegare i dag har me høyrt finansminister Jens Stoltenberg
+snakka om at det er ein god idé å innføra ei slik avgift. Han viste
+bl.a. til at norske bønder driv med betydeleg overgjødsling. Då
+er mitt spørsmål til landbruksministeren: Kven tenkjer ein har mest
+greie på agronomi og jordbruk av Norsk Landbruksrådgiving og økonomane
+i Finansdepartementet?</A>
+            </Replikk>
+            <Replikk Id="i1004388">
+              <A>
+                <Navn personID="NKS">
+Statsråd Nils Kristen Sandtrøen [12:39:38]:</Navn> Jeg synes finansminister
+Stoltenberg svarte både godt, ydmykt og til og med med et glimt
+i øyet på spørsmålet fra Vedum om gjødsling. </A>
+              <A Type="Minnrykk">Den faglige sammenhengen er i hvert fall at
+vi ønsker å redusere utslipp til luft gjennom lystgass, men også
+innholdet av fosfor i vassdragene våre er et tema som denne avgiften
+skal forsøke å gjøre noe med. Det er sånn at vannkvaliteten i bekker
+og elver rundt om i landet vårt varierer. Det handler ikke bare
+om jordbruket, men utslipp fra jordbruket er en av flere faktorer
+som kan føre til at det blir for lite oksygen i vassdragene våre, og
+at en dermed får fiskedød og det at andre organismer som er avhengig
+av et høyere oksygeninnhold, ikke klarer seg. Det er en tematikk
+som vi tar på alvor, og så jobber vi godt sammen med jordbruket
+for å ha målrettede klima- og miljøtiltak over jordbruksavtalen.</A>
+            </Replikk>
+            <Replikk Id="i1004390">
+              <A>
+                <Navn personID="GP">
+Geir Pollestad (Sp) [12:40:38]:</Navn> Det kan godt vera at finansministeren
+sa dette med glimt i auget, men for bøndene i landet og for sjølvforsyninga
+i Noreg er dette alvor. Eg kunne vel skimta at landbruksministeren
+hadde stjerner i auga då han såg på finansministeren sin.</A>
+              <A Type="Minnrykk">Noko må jo openbert ha skjedd, for i eit oppslag
+i Bondebladet frå 5. februar 2025 kan ein lesa at Sandtrøen vil
+ha klimagulrot føre pisk for å nå klimamåla for jordbruket. Viss
+ein les saka, vil ein sjå at Sandtrøen er tydeleg på at klimaavgift
+er ein dårleg idé i norsk jordbruk. No har altså landbruksministeren
+lagt seg på linja til Finansdepartementet, og no er det pisk som
+gjeld. Klimaavtalen for jordbruket er sett til sides, norske bønder
+skal piskast, her skal prisane skruast opp. Korleis kan ein foreina
+det med auka sjølvforsyning av norsk mat?</A>
+            </Replikk>
+            <Replikk Id="i1004392">
+              <A>
+                <Navn personID="NKS">
+Statsråd Nils Kristen Sandtrøen [12:41:39]:</Navn> En kan være trygg
+på at det er mange gulrøtter, også økonomisk, for klima og miljøtiltak
+i jordbruksavtalen som er inngått sammen med Norges Bondelag, hvor
+nettopp de målrettede tiltakene på klimasiden øker med så mye som
+100 mill. kr for å stimulere bonden til å ta valg som faglagene
+også er enig i. Dette inngår i en større helhet. Som Pollestad vet
+selv, som tidligere statsråd, er man ett kollegium i regjering som
+gjør valg sammen.</A>
+              <A Type="Minnrykk">Jeg er sikker på at det kommer til å bli en
+demokratisk og god høring, og målet om økt selvforsyning står selvfølgelig
+fast, i tråd med både det Stortinget har vedtatt, det regjeringen
+har levert i Meld. St. 11 for 2023–2024, og Arbeiderpartiets partiprogram.</A>
+            </Replikk>
+            <Presinnlegg>
+              <A>
+                <Navn>Presidenten [12:42:31]:</Navn> Den ordinære
+spørjetimen er omme.</A>
+            </Presinnlegg>
+          </Spm>
+        </Sporretime>
+        <Sakreferat Id="i1004394">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak
+nr. 3</Uth> [12:42:34]</Saknr>
+            <Saktittel Id="i1004396">
+              <A>Referat</A>
+            </Saktittel>
+          </Sakshode>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [12:42:35]:</Navn> Det ligg ikkje
+føre noko referat. Dermed er dagens kart behandla ferdig. Ber nokon om
+ordet før møtet vert heva? – Møtet er heva.</A>
+          </Presinnlegg>
+        </Sakreferat>
+      </Saker>
+    </Hovedseksjon>
+    <Sluttseksjon>
+      <Hevet>
+        <A>Møtet slutt kl. 12.43.</A>
+      </Hevet>
+    </Sluttseksjon>
+  </Mote>
+</Forhandlinger>
