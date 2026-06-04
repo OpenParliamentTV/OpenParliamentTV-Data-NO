@@ -41,7 +41,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-15?all=true",
           "creator": "Stortinget",
@@ -178,7 +178,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-15?all=true",
           "creator": "Stortinget",
@@ -249,7 +249,6 @@
         "type": "procedural"
       },
       "speechIndex": 3,
-      "originID": "i1001591",
       "isReply": false,
       "people": [
         {
@@ -261,7 +260,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1001591",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-15?all=true",
           "creator": "Stortinget",
@@ -340,7 +339,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-15?all=true",
           "creator": "Stortinget",
@@ -406,7 +405,6 @@
         "nativeType": "NO-budsjett"
       },
       "speechIndex": 5,
-      "originID": "i1001597",
       "isReply": false,
       "people": [
         {
@@ -418,7 +416,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1001597",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-15?all=true",
           "creator": "Stortinget",
@@ -1989,7 +1987,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-15?all=true",
           "creator": "Stortinget",
@@ -2075,7 +2073,6 @@
         "nativeType": "NO-budsjett"
       },
       "speechIndex": 7,
-      "originID": "i1001599",
       "isReply": false,
       "people": [
         {
@@ -2093,7 +2090,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1001599",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-15?all=true",
           "creator": "Stortinget",
@@ -2376,7 +2373,6 @@
         "nativeType": "NO-budsjett"
       },
       "speechIndex": 8,
-      "originID": "i1001601",
       "isReply": false,
       "people": [
         {
@@ -2394,7 +2390,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1001601",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-15?all=true",
           "creator": "Stortinget",
@@ -2611,7 +2607,6 @@
         "nativeType": "NO-budsjett"
       },
       "speechIndex": 9,
-      "originID": "i1001603",
       "isReply": false,
       "people": [
         {
@@ -2623,7 +2618,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1001603",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-15?all=true",
           "creator": "Stortinget",
@@ -2814,7 +2809,6 @@
         "nativeType": "NO-budsjett"
       },
       "speechIndex": 10,
-      "originID": "i1001605",
       "isReply": false,
       "people": [
         {
@@ -2832,7 +2826,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1001605",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-15?all=true",
           "creator": "Stortinget",
@@ -2976,7 +2970,6 @@
         "nativeType": "NO-budsjett"
       },
       "speechIndex": 11,
-      "originID": "i1001607",
       "isReply": false,
       "people": [
         {
@@ -2994,7 +2987,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1001607",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-15?all=true",
           "creator": "Stortinget",
@@ -3211,7 +3204,6 @@
         "nativeType": "NO-budsjett"
       },
       "speechIndex": 12,
-      "originID": "i1001609",
       "isReply": false,
       "people": [
         {
@@ -3223,7 +3215,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1001609",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-15?all=true",
           "creator": "Stortinget",
@@ -3407,7 +3399,6 @@
         "nativeType": "NO-budsjett"
       },
       "speechIndex": 13,
-      "originID": "i1001611",
       "isReply": false,
       "people": [
         {
@@ -3425,7 +3416,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1001611",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-15?all=true",
           "creator": "Stortinget",
@@ -3632,7 +3623,6 @@
         "nativeType": "NO-budsjett"
       },
       "speechIndex": 14,
-      "originID": "i1001613",
       "isReply": false,
       "people": [
         {
@@ -3650,7 +3640,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1001613",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-15?all=true",
           "creator": "Stortinget",
@@ -3816,7 +3806,6 @@
         "nativeType": "NO-budsjett"
       },
       "speechIndex": 15,
-      "originID": "i1001615",
       "isReply": false,
       "people": [
         {
@@ -3828,7 +3817,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1001615",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-15?all=true",
           "creator": "Stortinget",
@@ -4038,7 +4027,6 @@
         "nativeType": "NO-budsjett"
       },
       "speechIndex": 16,
-      "originID": "i1001617",
       "isReply": false,
       "people": [
         {
@@ -4056,7 +4044,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1001617",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-15?all=true",
           "creator": "Stortinget",
@@ -4173,7 +4161,6 @@
         "nativeType": "NO-budsjett"
       },
       "speechIndex": 17,
-      "originID": "i1001619",
       "isReply": false,
       "people": [
         {
@@ -4191,7 +4178,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1001619",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-15?all=true",
           "creator": "Stortinget",
@@ -4435,7 +4422,6 @@
         "nativeType": "NO-budsjett"
       },
       "speechIndex": 18,
-      "originID": "i1001621",
       "isReply": false,
       "people": [
         {
@@ -4447,7 +4433,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1001621",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-15?all=true",
           "creator": "Stortinget",
@@ -4614,7 +4600,6 @@
         "nativeType": "NO-budsjett"
       },
       "speechIndex": 19,
-      "originID": "i1001623",
       "isReply": false,
       "people": [
         {
@@ -4632,7 +4617,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1001623",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-15?all=true",
           "creator": "Stortinget",
@@ -4787,7 +4772,6 @@
         "nativeType": "NO-budsjett"
       },
       "speechIndex": 20,
-      "originID": "i1001625",
       "isReply": false,
       "people": [
         {
@@ -4805,7 +4789,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1001625",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-15?all=true",
           "creator": "Stortinget",
@@ -5059,7 +5043,6 @@
         "nativeType": "NO-budsjett"
       },
       "speechIndex": 21,
-      "originID": "i1001627",
       "isReply": false,
       "people": [
         {
@@ -5071,7 +5054,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1001627",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-15?all=true",
           "creator": "Stortinget",
@@ -5269,7 +5252,6 @@
         "nativeType": "NO-budsjett"
       },
       "speechIndex": 22,
-      "originID": "i1001629",
       "isReply": false,
       "people": [
         {
@@ -5287,7 +5269,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1001629",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-15?all=true",
           "creator": "Stortinget",
@@ -5418,7 +5400,6 @@
         "nativeType": "NO-budsjett"
       },
       "speechIndex": 23,
-      "originID": "i1001631",
       "isReply": false,
       "people": [
         {
@@ -5436,7 +5417,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1001631",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-15?all=true",
           "creator": "Stortinget",
@@ -5648,7 +5629,6 @@
         "nativeType": "NO-budsjett"
       },
       "speechIndex": 24,
-      "originID": "i1001633",
       "isReply": false,
       "people": [
         {
@@ -5660,7 +5640,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1001633",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-15?all=true",
           "creator": "Stortinget",
@@ -5833,7 +5813,6 @@
         "nativeType": "NO-budsjett"
       },
       "speechIndex": 25,
-      "originID": "i1001635",
       "isReply": false,
       "people": [
         {
@@ -5851,7 +5830,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1001635",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-15?all=true",
           "creator": "Stortinget",
@@ -5982,7 +5961,6 @@
         "nativeType": "NO-budsjett"
       },
       "speechIndex": 26,
-      "originID": "i1001637",
       "isReply": false,
       "people": [
         {
@@ -5997,7 +5975,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1001637",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-15?all=true",
           "creator": "Stortinget",
@@ -6202,7 +6180,6 @@
         "nativeType": "NO-budsjett"
       },
       "speechIndex": 27,
-      "originID": "i1001639",
       "isReply": false,
       "people": [
         {
@@ -6214,7 +6191,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1001639",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-15?all=true",
           "creator": "Stortinget",
@@ -6436,7 +6413,6 @@
         "nativeType": "NO-budsjett"
       },
       "speechIndex": 28,
-      "originID": "i1001641",
       "isReply": false,
       "people": [
         {
@@ -6451,7 +6427,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1001641",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-15?all=true",
           "creator": "Stortinget",
@@ -6638,7 +6614,6 @@
         "nativeType": "NO-budsjett"
       },
       "speechIndex": 29,
-      "originID": "i1001643",
       "isReply": false,
       "people": [
         {
@@ -6656,7 +6631,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1001643",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-15?all=true",
           "creator": "Stortinget",
@@ -6955,7 +6930,6 @@
         "nativeType": "NO-budsjett"
       },
       "speechIndex": 30,
-      "originID": "i1001645",
       "isReply": false,
       "people": [
         {
@@ -6967,7 +6941,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1001645",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-15?all=true",
           "creator": "Stortinget",
@@ -7103,7 +7077,6 @@
         "nativeType": "NO-budsjett"
       },
       "speechIndex": 31,
-      "originID": "i1001647",
       "isReply": false,
       "people": [
         {
@@ -7121,7 +7094,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1001647",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-15?all=true",
           "creator": "Stortinget",
@@ -7300,7 +7273,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-15?all=true",
           "creator": "Stortinget",
@@ -7366,7 +7339,6 @@
         "nativeType": "NO-budsjett"
       },
       "speechIndex": 33,
-      "originID": "i1001649",
       "isReply": false,
       "people": [
         {
@@ -7378,7 +7350,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1001649",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-15?all=true",
           "creator": "Stortinget",
@@ -7643,7 +7615,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-15?all=true",
           "creator": "Stortinget",

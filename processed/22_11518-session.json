@@ -41,7 +41,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -116,7 +116,6 @@
         "type": "procedural"
       },
       "speechIndex": 2,
-      "originID": "i1017959",
       "isReply": false,
       "people": [
         {
@@ -134,7 +133,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1017959",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -226,7 +225,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -297,7 +296,6 @@
         "type": "procedural"
       },
       "speechIndex": 4,
-      "originID": "i1017961",
       "isReply": false,
       "people": [
         {
@@ -315,7 +313,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1017961",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -394,7 +392,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -458,7 +456,6 @@
         "type": "procedural"
       },
       "speechIndex": 6,
-      "originID": "i1017963",
       "isReply": false,
       "people": [
         {
@@ -476,7 +473,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1017963",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -555,7 +552,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -633,7 +630,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -714,7 +711,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 9,
-      "originID": "i1017969",
       "isReply": false,
       "people": [
         {
@@ -729,7 +725,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1017969",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -1709,7 +1705,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -1775,7 +1771,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 11,
-      "originID": "i1017971",
       "isReply": true,
       "people": [
         {
@@ -1793,7 +1788,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1017971",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -1936,7 +1931,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 12,
-      "originID": "i1017973",
       "isReply": true,
       "people": [
         {
@@ -1951,7 +1945,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1017973",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -2101,7 +2095,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 13,
-      "originID": "i1017975",
       "isReply": true,
       "people": [
         {
@@ -2119,7 +2112,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1017975",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -2296,7 +2289,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 14,
-      "originID": "i1017977",
       "isReply": true,
       "people": [
         {
@@ -2311,7 +2303,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1017977",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -2518,7 +2510,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 15,
-      "originID": "i1017979",
       "isReply": true,
       "people": [
         {
@@ -2536,7 +2527,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1017979",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -2731,7 +2722,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 16,
-      "originID": "i1017981",
       "isReply": true,
       "people": [
         {
@@ -2746,7 +2736,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1017981",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -2899,7 +2889,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 17,
-      "originID": "i1017983",
       "isReply": true,
       "people": [
         {
@@ -2917,7 +2906,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1017983",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -3030,7 +3019,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 18,
-      "originID": "i1017985",
       "isReply": true,
       "people": [
         {
@@ -3045,7 +3033,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1017985",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -3188,7 +3176,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 19,
-      "originID": "i1017987",
       "isReply": true,
       "people": [
         {
@@ -3206,7 +3193,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1017987",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -3323,7 +3310,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 20,
-      "originID": "i1017989",
       "isReply": true,
       "people": [
         {
@@ -3338,7 +3324,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1017989",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -3469,7 +3455,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 21,
-      "originID": "i1017991",
       "isReply": true,
       "people": [
         {
@@ -3487,7 +3472,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1017991",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -3607,7 +3592,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 22,
-      "originID": "i1017993",
       "isReply": true,
       "people": [
         {
@@ -3622,7 +3606,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1017993",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -3722,7 +3706,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 23,
-      "originID": "i1017995",
       "isReply": true,
       "people": [
         {
@@ -3740,7 +3723,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1017995",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -3897,7 +3880,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 24,
-      "originID": "i1017997",
       "isReply": true,
       "people": [
         {
@@ -3912,7 +3894,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1017997",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -4056,7 +4038,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 25,
-      "originID": "i1017999",
       "isReply": true,
       "people": [
         {
@@ -4074,7 +4055,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1017999",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -4210,7 +4191,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 26,
-      "originID": "i1018001",
       "isReply": true,
       "people": [
         {
@@ -4225,7 +4205,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018001",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -4371,7 +4351,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 27,
-      "originID": "i1018003",
       "isReply": true,
       "people": [
         {
@@ -4389,7 +4368,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018003",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -4551,7 +4530,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 28,
-      "originID": "i1018005",
       "isReply": true,
       "people": [
         {
@@ -4566,7 +4544,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018005",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -4743,7 +4721,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 29,
-      "originID": "i1018007",
       "isReply": true,
       "people": [
         {
@@ -4761,7 +4738,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018007",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -4944,7 +4921,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 30,
-      "originID": "i1018009",
       "isReply": true,
       "people": [
         {
@@ -4959,7 +4935,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018009",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -5084,7 +5060,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 31,
-      "originID": "i1018011",
       "isReply": true,
       "people": [
         {
@@ -5102,7 +5077,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018011",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -5220,7 +5195,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 32,
-      "originID": "i1018013",
       "isReply": true,
       "people": [
         {
@@ -5235,7 +5209,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018013",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -5404,7 +5378,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 33,
-      "originID": "i1018015",
       "isReply": true,
       "people": [
         {
@@ -5422,7 +5395,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018015",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -5534,7 +5507,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 34,
-      "originID": "i1018017",
       "isReply": true,
       "people": [
         {
@@ -5549,7 +5521,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018017",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -5697,7 +5669,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 35,
-      "originID": "i1018019",
       "isReply": true,
       "people": [
         {
@@ -5715,7 +5686,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018019",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -5864,7 +5835,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 36,
-      "originID": "i1018021",
       "isReply": true,
       "people": [
         {
@@ -5879,7 +5849,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018021",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -6003,7 +5973,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 37,
-      "originID": "i1018023",
       "isReply": true,
       "people": [
         {
@@ -6021,7 +5990,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018023",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -6182,7 +6151,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 38,
-      "originID": "i1018025",
       "isReply": true,
       "people": [
         {
@@ -6197,7 +6165,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018025",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -6322,7 +6290,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 39,
-      "originID": "i1018027",
       "isReply": true,
       "people": [
         {
@@ -6340,7 +6307,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018027",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -6464,7 +6431,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 40,
-      "originID": "i1018029",
       "isReply": true,
       "people": [
         {
@@ -6479,7 +6445,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018029",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -6616,7 +6582,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 41,
-      "originID": "i1018031",
       "isReply": true,
       "people": [
         {
@@ -6634,7 +6599,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018031",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -6772,7 +6737,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 42,
-      "originID": "i1018033",
       "isReply": true,
       "people": [
         {
@@ -6787,7 +6751,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018033",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -6917,7 +6881,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 43,
-      "originID": "i1018035",
       "isReply": true,
       "people": [
         {
@@ -6935,7 +6898,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018035",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -7042,7 +7005,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 44,
-      "originID": "i1018037",
       "isReply": true,
       "people": [
         {
@@ -7057,7 +7019,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018037",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -7200,7 +7162,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 45,
-      "originID": "i1018039",
       "isReply": true,
       "people": [
         {
@@ -7218,7 +7179,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018039",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -7343,7 +7304,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 46,
-      "originID": "i1018041",
       "isReply": true,
       "people": [
         {
@@ -7358,7 +7318,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018041",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -7488,7 +7448,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 47,
-      "originID": "i1018043",
       "isReply": true,
       "people": [
         {
@@ -7506,7 +7465,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018043",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -7624,7 +7583,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 48,
-      "originID": "i1018045",
       "isReply": true,
       "people": [
         {
@@ -7639,7 +7597,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018045",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -7780,7 +7738,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 49,
-      "originID": "i1018047",
       "isReply": true,
       "people": [
         {
@@ -7798,7 +7755,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018047",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -7936,7 +7893,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 50,
-      "originID": "i1018049",
       "isReply": true,
       "people": [
         {
@@ -7951,7 +7907,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018049",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -8114,7 +8070,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -8184,7 +8140,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 52,
-      "originID": "i1018051",
       "isReply": false,
       "people": [
         {
@@ -8202,7 +8157,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018051",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -8450,7 +8405,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 53,
-      "originID": "i1018053",
       "isReply": false,
       "people": [
         {
@@ -8468,7 +8422,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018053",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -8777,7 +8731,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 54,
-      "originID": "i1018055",
       "isReply": false,
       "people": [
         {
@@ -8795,7 +8748,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018055",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -9055,7 +9008,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 55,
-      "originID": "i1018057",
       "isReply": false,
       "people": [
         {
@@ -9073,7 +9025,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018057",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -9366,7 +9318,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 56,
-      "originID": "i1018059",
       "isReply": false,
       "people": [
         {
@@ -9381,7 +9332,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018059",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -9560,7 +9511,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 57,
-      "originID": "i1018061",
       "isReply": false,
       "people": [
         {
@@ -9578,7 +9528,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018061",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -9821,7 +9771,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 58,
-      "originID": "i1018063",
       "isReply": false,
       "people": [
         {
@@ -9839,7 +9788,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018063",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -10092,7 +10041,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 59,
-      "originID": "i1018065",
       "isReply": false,
       "people": [
         {
@@ -10110,7 +10058,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018065",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -10375,7 +10323,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 60,
-      "originID": "i1018067",
       "isReply": false,
       "people": [
         {
@@ -10390,7 +10337,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018067",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -10683,7 +10630,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 61,
-      "originID": "i1018069",
       "isReply": false,
       "people": [
         {
@@ -10701,7 +10647,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018069",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -10951,7 +10897,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 62,
-      "originID": "i1018071",
       "isReply": false,
       "people": [
         {
@@ -10969,7 +10914,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018071",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -11250,7 +11195,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 63,
-      "originID": "i1018073",
       "isReply": false,
       "people": [
         {
@@ -11268,7 +11212,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018073",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -11478,7 +11422,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 64,
-      "originID": "i1018075",
       "isReply": false,
       "people": [
         {
@@ -11496,7 +11439,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018075",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -11739,7 +11682,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 65,
-      "originID": "i1018077",
       "isReply": false,
       "people": [
         {
@@ -11757,7 +11699,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018077",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -12050,7 +11992,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 66,
-      "originID": "i1018079",
       "isReply": false,
       "people": [
         {
@@ -12068,7 +12009,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018079",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -12296,7 +12237,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 67,
-      "originID": "i1018081",
       "isReply": false,
       "people": [
         {
@@ -12314,7 +12254,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018081",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -12514,7 +12454,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 68,
-      "originID": "i1018083",
       "isReply": false,
       "people": [
         {
@@ -12532,7 +12471,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018083",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -12743,7 +12682,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 69,
-      "originID": "i1018085",
       "isReply": false,
       "people": [
         {
@@ -12761,7 +12699,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018085",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -12970,7 +12908,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 70,
-      "originID": "i1018087",
       "isReply": false,
       "people": [
         {
@@ -12988,7 +12925,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018087",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -13246,7 +13183,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 71,
-      "originID": "i1018089",
       "isReply": false,
       "people": [
         {
@@ -13264,7 +13200,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018089",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -13512,7 +13448,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 72,
-      "originID": "i1018091",
       "isReply": false,
       "people": [
         {
@@ -13530,7 +13465,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018091",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -13802,7 +13737,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 73,
-      "originID": "i1018093",
       "isReply": false,
       "people": [
         {
@@ -13820,7 +13754,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018093",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -14068,7 +14002,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 74,
-      "originID": "i1018095",
       "isReply": false,
       "people": [
         {
@@ -14086,7 +14019,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018095",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -14357,7 +14290,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 75,
-      "originID": "i1018097",
       "isReply": false,
       "people": [
         {
@@ -14375,7 +14307,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018097",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -14724,7 +14656,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 76,
-      "originID": "i1018099",
       "isReply": false,
       "people": [
         {
@@ -14742,7 +14673,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018099",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -14978,7 +14909,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 77,
-      "originID": "i1018101",
       "isReply": false,
       "people": [
         {
@@ -14996,7 +14926,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018101",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -15300,7 +15230,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 78,
-      "originID": "i1018103",
       "isReply": false,
       "people": [
         {
@@ -15318,7 +15247,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018103",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -15651,7 +15580,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 79,
-      "originID": "i1018105",
       "isReply": false,
       "people": [
         {
@@ -15669,7 +15597,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018105",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -15995,7 +15923,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 80,
-      "originID": "i1018107",
       "isReply": false,
       "people": [
         {
@@ -16013,7 +15940,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018107",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -16236,7 +16163,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 81,
-      "originID": "i1018109",
       "isReply": false,
       "people": [
         {
@@ -16254,7 +16180,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018109",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -16477,7 +16403,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 82,
-      "originID": "i1018111",
       "isReply": false,
       "people": [
         {
@@ -16495,7 +16420,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018111",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -16759,7 +16684,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 83,
-      "originID": "i1018113",
       "isReply": false,
       "people": [
         {
@@ -16777,7 +16701,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018113",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -17045,7 +16969,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 84,
-      "originID": "i1018115",
       "isReply": false,
       "people": [
         {
@@ -17063,7 +16986,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018115",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -17339,7 +17262,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 85,
-      "originID": "i1018117",
       "isReply": false,
       "people": [
         {
@@ -17357,7 +17279,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018117",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -17592,7 +17514,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 86,
-      "originID": "i1018119",
       "isReply": false,
       "people": [
         {
@@ -17610,7 +17531,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018119",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -17883,7 +17804,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 87,
-      "originID": "i1018121",
       "isReply": false,
       "people": [
         {
@@ -17901,7 +17821,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018121",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -18135,7 +18055,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 88,
-      "originID": "i1018123",
       "isReply": false,
       "people": [
         {
@@ -18153,7 +18072,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018123",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -18400,7 +18319,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 89,
-      "originID": "i1018125",
       "isReply": false,
       "people": [
         {
@@ -18418,7 +18336,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018125",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -18645,7 +18563,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 90,
-      "originID": "i1018127",
       "isReply": false,
       "people": [
         {
@@ -18663,7 +18580,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018127",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -18869,7 +18786,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 91,
-      "originID": "i1018129",
       "isReply": false,
       "people": [
         {
@@ -18887,7 +18803,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018129",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -19096,7 +19012,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 92,
-      "originID": "i1018131",
       "isReply": false,
       "people": [
         {
@@ -19114,7 +19029,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018131",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -19344,7 +19259,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 93,
-      "originID": "i1018133",
       "isReply": false,
       "people": [
         {
@@ -19362,7 +19276,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018133",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -19628,7 +19542,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 94,
-      "originID": "i1018135",
       "isReply": false,
       "people": [
         {
@@ -19646,7 +19559,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018135",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -19874,7 +19787,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 95,
-      "originID": "i1018137",
       "isReply": false,
       "people": [
         {
@@ -19892,7 +19804,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018137",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -20179,7 +20091,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 96,
-      "originID": "i1018139",
       "isReply": false,
       "people": [
         {
@@ -20197,7 +20108,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018139",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -20437,7 +20348,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 97,
-      "originID": "i1018141",
       "isReply": false,
       "people": [
         {
@@ -20455,7 +20365,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018141",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -20750,7 +20660,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 98,
-      "originID": "i1018143",
       "isReply": false,
       "people": [
         {
@@ -20768,7 +20677,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018143",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -20964,7 +20873,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 99,
-      "originID": "i1018145",
       "isReply": false,
       "people": [
         {
@@ -20982,7 +20890,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018145",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -21283,7 +21191,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 100,
-      "originID": "i1018147",
       "isReply": false,
       "people": [
         {
@@ -21301,7 +21208,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018147",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -21623,7 +21530,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 101,
-      "originID": "i1018149",
       "isReply": false,
       "people": [
         {
@@ -21641,7 +21547,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018149",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -21874,7 +21780,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 102,
-      "originID": "i1018151",
       "isReply": false,
       "people": [
         {
@@ -21892,7 +21797,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018151",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -22092,7 +21997,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 103,
-      "originID": "i1018153",
       "isReply": false,
       "people": [
         {
@@ -22107,7 +22011,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018153",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -22393,7 +22297,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 104,
-      "originID": "i1018155",
       "isReply": false,
       "people": [
         {
@@ -22411,7 +22314,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018155",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -22690,7 +22593,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 105,
-      "originID": "i1018157",
       "isReply": false,
       "people": [
         {
@@ -22708,7 +22610,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018157",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -22917,7 +22819,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 106,
-      "originID": "i1018159",
       "isReply": false,
       "people": [
         {
@@ -22932,7 +22833,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018159",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -23148,7 +23049,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -23214,7 +23115,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 108,
-      "originID": "i1018161",
       "isReply": false,
       "people": [
         {
@@ -23232,7 +23132,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018161",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -23456,7 +23356,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 109,
-      "originID": "i1018163",
       "isReply": false,
       "people": [
         {
@@ -23474,7 +23373,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018163",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -23720,7 +23619,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 110,
-      "originID": "i1018165",
       "isReply": false,
       "people": [
         {
@@ -23738,7 +23636,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018165",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -24019,7 +23917,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 111,
-      "originID": "i1018167",
       "isReply": false,
       "people": [
         {
@@ -24037,7 +23934,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018167",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -24387,7 +24284,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 112,
-      "originID": "i1018169",
       "isReply": false,
       "people": [
         {
@@ -24405,7 +24301,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018169",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -24621,7 +24517,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 113,
-      "originID": "i1018171",
       "isReply": false,
       "people": [
         {
@@ -24639,7 +24534,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018171",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -24950,7 +24845,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 114,
-      "originID": "i1018173",
       "isReply": false,
       "people": [
         {
@@ -24965,7 +24859,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018173",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -25157,7 +25051,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 115,
-      "originID": "i1018175",
       "isReply": false,
       "people": [
         {
@@ -25175,7 +25068,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018175",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -25470,7 +25363,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 116,
-      "originID": "i1018177",
       "isReply": false,
       "people": [
         {
@@ -25488,7 +25380,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018177",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -25672,7 +25564,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 117,
-      "originID": "i1018179",
       "isReply": false,
       "people": [
         {
@@ -25690,7 +25581,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018179",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -25906,7 +25797,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 118,
-      "originID": "i1018181",
       "isReply": false,
       "people": [
         {
@@ -25924,7 +25814,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018181",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -26172,7 +26062,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 119,
-      "originID": "i1018183",
       "isReply": false,
       "people": [
         {
@@ -26187,7 +26076,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018183",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -26461,7 +26350,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 120,
-      "originID": "i1018185",
       "isReply": false,
       "people": [
         {
@@ -26479,7 +26367,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018185",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -26779,7 +26667,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 121,
-      "originID": "i1018187",
       "isReply": false,
       "people": [
         {
@@ -26794,7 +26681,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018187",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -27147,7 +27034,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 122,
-      "originID": "i1018189",
       "isReply": false,
       "people": [
         {
@@ -27165,7 +27051,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018189",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -27359,7 +27245,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 123,
-      "originID": "i1018191",
       "isReply": false,
       "people": [
         {
@@ -27377,7 +27262,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018191",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -27643,7 +27528,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 124,
-      "originID": "i1018193",
       "isReply": false,
       "people": [
         {
@@ -27661,7 +27545,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018193",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -27914,7 +27798,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 125,
-      "originID": "i1018195",
       "isReply": false,
       "people": [
         {
@@ -27932,7 +27815,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018195",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -28100,7 +27983,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 126,
-      "originID": "i1018197",
       "isReply": false,
       "people": [
         {
@@ -28118,7 +28000,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018197",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -28347,7 +28229,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -28413,7 +28295,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 128,
-      "originID": "i1018199",
       "isReply": false,
       "people": [
         {
@@ -28431,7 +28312,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018199",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -28519,7 +28400,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -28585,7 +28466,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 130,
-      "originID": "i1018201",
       "isReply": false,
       "people": [
         {
@@ -28603,7 +28483,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018201",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -28819,7 +28699,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 131,
-      "originID": "i1018203",
       "isReply": false,
       "people": [
         {
@@ -28837,7 +28716,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018203",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -29134,7 +29013,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 132,
-      "originID": "i1018205",
       "isReply": false,
       "people": [
         {
@@ -29152,7 +29030,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018205",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -29368,7 +29246,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 133,
-      "originID": "i1018207",
       "isReply": false,
       "people": [
         {
@@ -29383,7 +29260,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018207",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -29586,7 +29463,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 134,
-      "originID": "i1018209",
       "isReply": false,
       "people": [
         {
@@ -29604,7 +29480,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018209",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -29866,7 +29742,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 135,
-      "originID": "i1018211",
       "isReply": false,
       "people": [
         {
@@ -29884,7 +29759,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018211",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -30189,7 +30064,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 136,
-      "originID": "i1018213",
       "isReply": false,
       "people": [
         {
@@ -30204,7 +30078,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018213",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -30417,7 +30291,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 137,
-      "originID": "i1018215",
       "isReply": false,
       "people": [
         {
@@ -30435,7 +30308,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018215",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -30703,7 +30576,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 138,
-      "originID": "i1018217",
       "isReply": false,
       "people": [
         {
@@ -30721,7 +30593,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018217",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -30942,7 +30814,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 139,
-      "originID": "i1018219",
       "isReply": false,
       "people": [
         {
@@ -30960,7 +30831,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018219",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -31212,7 +31083,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 140,
-      "originID": "i1018221",
       "isReply": false,
       "people": [
         {
@@ -31230,7 +31100,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018221",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -31411,7 +31281,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 141,
-      "originID": "i1018223",
       "isReply": false,
       "people": [
         {
@@ -31429,7 +31298,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018223",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -31688,7 +31557,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 142,
-      "originID": "i1018225",
       "isReply": false,
       "people": [
         {
@@ -31706,7 +31574,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018225",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -32018,7 +31886,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 143,
-      "originID": "i1018227",
       "isReply": false,
       "people": [
         {
@@ -32033,7 +31900,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018227",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -32374,7 +32241,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 144,
-      "originID": "i1018229",
       "isReply": false,
       "people": [
         {
@@ -32392,7 +32258,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018229",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -32618,7 +32484,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 145,
-      "originID": "i1018231",
       "isReply": false,
       "people": [
         {
@@ -32636,7 +32501,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018231",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -32885,7 +32750,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 146,
-      "originID": "i1018233",
       "isReply": false,
       "people": [
         {
@@ -32903,7 +32767,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018233",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -33243,7 +33107,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 147,
-      "originID": "i1018235",
       "isReply": false,
       "people": [
         {
@@ -33261,7 +33124,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018235",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -33563,7 +33426,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 148,
-      "originID": "i1018237",
       "isReply": false,
       "people": [
         {
@@ -33581,7 +33443,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018237",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -33931,7 +33793,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 149,
-      "originID": "i1018239",
       "isReply": false,
       "people": [
         {
@@ -33949,7 +33810,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018239",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -34248,7 +34109,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 150,
-      "originID": "i1018241",
       "isReply": false,
       "people": [
         {
@@ -34266,7 +34126,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018241",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -34521,7 +34381,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 151,
-      "originID": "i1018243",
       "isReply": false,
       "people": [
         {
@@ -34539,7 +34398,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018243",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -34791,7 +34650,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 152,
-      "originID": "i1018245",
       "isReply": false,
       "people": [
         {
@@ -34809,7 +34667,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018245",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -35179,7 +35037,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 153,
-      "originID": "i1018247",
       "isReply": false,
       "people": [
         {
@@ -35197,7 +35054,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018247",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -35439,7 +35296,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 154,
-      "originID": "i1018249",
       "isReply": false,
       "people": [
         {
@@ -35457,7 +35313,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018249",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -35736,7 +35592,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 155,
-      "originID": "i1018251",
       "isReply": false,
       "people": [
         {
@@ -35754,7 +35609,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018251",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -36082,7 +35937,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 156,
-      "originID": "i1018253",
       "isReply": false,
       "people": [
         {
@@ -36100,7 +35954,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018253",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -36367,7 +36221,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 157,
-      "originID": "i1018255",
       "isReply": false,
       "people": [
         {
@@ -36385,7 +36238,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018255",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -36611,7 +36464,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 158,
-      "originID": "i1018257",
       "isReply": false,
       "people": [
         {
@@ -36629,7 +36481,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018257",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -36957,7 +36809,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 159,
-      "originID": "i1018259",
       "isReply": false,
       "people": [
         {
@@ -36975,7 +36826,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018259",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -37270,7 +37121,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 160,
-      "originID": "i1018261",
       "isReply": false,
       "people": [
         {
@@ -37288,7 +37138,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018261",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -37654,7 +37504,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -37720,7 +37570,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 162,
-      "originID": "i1018263",
       "isReply": false,
       "people": [
         {
@@ -37738,7 +37587,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018263",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -37863,7 +37712,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 163,
-      "originID": "i1018265",
       "isReply": false,
       "people": [
         {
@@ -37881,7 +37729,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018265",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -38139,7 +37987,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 164,
-      "originID": "i1018267",
       "isReply": false,
       "people": [
         {
@@ -38154,7 +38001,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018267",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -38504,7 +38351,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 165,
-      "originID": "i1018269",
       "isReply": false,
       "people": [
         {
@@ -38522,7 +38368,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018269",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -38806,7 +38652,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -38872,7 +38718,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 167,
-      "originID": "i1018271",
       "isReply": false,
       "people": [
         {
@@ -38890,7 +38735,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018271",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -38998,7 +38843,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 168,
-      "originID": "i1018273",
       "isReply": false,
       "people": [
         {
@@ -39016,7 +38860,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018273",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -39220,7 +39064,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 169,
-      "originID": "i1018275",
       "isReply": false,
       "people": [
         {
@@ -39238,7 +39081,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018275",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -39542,7 +39385,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 170,
-      "originID": "i1018277",
       "isReply": false,
       "people": [
         {
@@ -39560,7 +39402,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018277",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -39848,7 +39690,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 171,
-      "originID": "i1018279",
       "isReply": false,
       "people": [
         {
@@ -39866,7 +39707,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018279",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -40150,7 +39991,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 172,
-      "originID": "i1018281",
       "isReply": false,
       "people": [
         {
@@ -40168,7 +40008,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018281",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -40448,7 +40288,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 173,
-      "originID": "i1018283",
       "isReply": false,
       "people": [
         {
@@ -40466,7 +40305,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018283",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -40716,7 +40555,6 @@
         "nativeType": "NO-trontaledebatt"
       },
       "speechIndex": 174,
-      "originID": "i1018285",
       "isReply": false,
       "people": [
         {
@@ -40731,7 +40569,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "i1018285",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
@@ -40973,7 +40811,7 @@
       "textContents": [
         {
           "type": "proceedings",
-          "language": "nb-NO",
+          "language": "nb",
           "originTextID": "",
           "sourceURI": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2025-2026/refs-202526-10-14?all=true",
           "creator": "Stortinget",
