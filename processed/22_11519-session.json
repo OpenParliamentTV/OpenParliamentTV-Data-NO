@@ -1,11 +1,11 @@
 {
   "meta": {
-    "session": "22_11519",
     "schemaVersion": "1.0",
+    "session": "22_11519",
     "dateStart": "2025-10-15T00:00:00",
     "dateEnd": "2025-10-15T23:59:59",
-    "lastUpdate": "2026-06-07T08:07:04",
     "lastProcessing": "align",
+    "lastUpdate": "2026-06-07T08:07:04",
     "processing": {
       "parse_proceedings": "2026-06-07T07:55:45",
       "parse_media": "2026-06-07T07:55:45",
@@ -123,10 +123,10 @@
         }
       ],
       "debug": {
-        "sak_nummer": null,
-        "speech_type": "Presinnlegg",
-        "clock_time": "10:00:05",
-        "ner-duration": 0.15861797332763672
+        "nerDuration": 0.15861797332763672,
+        "sakNummer": null,
+        "speechType": "Presinnlegg",
+        "clockTime": "10:00:05"
       },
       "dateStart": "2025-10-15T10:00:05",
       "media": {
@@ -150,7 +150,8 @@
         "thumbnailLicense": "https://www.stortinget.no/no/Stottemeny/Hjelp/Nett-TV/",
         "audioFileURI": "/Users/joscha/Projects/OpenParliamentTV/_SERVER/OpenParliamentTV-Data-NO/cache/audio/22115191.mp3"
       },
-      "dateEnd": "2025-10-15T10:01:02"
+      "dateEnd": "2025-10-15T10:01:02",
+      "originalLanguage": "nb"
     },
     {
       "parliament": "NO",
@@ -206,10 +207,10 @@
         }
       ],
       "debug": {
-        "sak_nummer": null,
-        "speech_type": "Presinnlegg",
-        "clock_time": "10:01:02",
-        "ner-duration": 0.009321928024291992
+        "nerDuration": 0.009321928024291992,
+        "sakNummer": null,
+        "speechType": "Presinnlegg",
+        "clockTime": "10:01:02"
       },
       "dateStart": "2025-10-15T10:01:02",
       "media": {
@@ -233,7 +234,8 @@
         "thumbnailLicense": "https://www.stortinget.no/no/Stottemeny/Hjelp/Nett-TV/",
         "audioFileURI": "/Users/joscha/Projects/OpenParliamentTV/_SERVER/OpenParliamentTV-Data-NO/cache/audio/22115192.mp3"
       },
-      "dateEnd": "2025-10-15T10:01:18"
+      "dateEnd": "2025-10-15T10:01:18",
+      "originalLanguage": "nb"
     },
     {
       "parliament": "NO",
@@ -283,11 +285,11 @@
         }
       ],
       "debug": {
-        "sak_nummer": null,
-        "speech_type": "Hovedinnlegg",
-        "clock_time": "10:01:18",
-        "align-duration": 0.2973976135253906,
-        "ner-duration": 0.008869171142578125
+        "alignDuration": 0.2973976135253906,
+        "nerDuration": 0.008869171142578125,
+        "sakNummer": null,
+        "speechType": "Hovedinnlegg",
+        "clockTime": "10:01:18"
       },
       "dateStart": "2025-10-15T10:01:18",
       "media": {
@@ -311,7 +313,8 @@
         "thumbnailLicense": "https://www.stortinget.no/no/Stottemeny/Hjelp/Nett-TV/",
         "audioFileURI": "/Users/joscha/Projects/OpenParliamentTV/_SERVER/OpenParliamentTV-Data-NO/cache/audio/22115193.mp3"
       },
-      "dateEnd": "2025-10-15T10:01:35"
+      "dateEnd": "2025-10-15T10:01:35",
+      "originalLanguage": "nb"
     },
     {
       "parliament": "NO",
@@ -360,10 +363,10 @@
         }
       ],
       "debug": {
-        "sak_nummer": null,
-        "speech_type": "Presinnlegg",
-        "clock_time": "10:01:35",
-        "ner-duration": 0.007150888442993164
+        "nerDuration": 0.007150888442993164,
+        "sakNummer": null,
+        "speechType": "Presinnlegg",
+        "clockTime": "10:01:35"
       },
       "dateStart": "2025-10-15T10:01:35",
       "media": {
@@ -387,7 +390,8 @@
         "thumbnailLicense": "https://www.stortinget.no/no/Stottemeny/Hjelp/Nett-TV/",
         "audioFileURI": "/Users/joscha/Projects/OpenParliamentTV/_SERVER/OpenParliamentTV-Data-NO/cache/audio/22115194.mp3"
       },
-      "dateEnd": "2025-10-15T10:02:12"
+      "dateEnd": "2025-10-15T10:02:12",
+      "originalLanguage": "nb"
     },
     {
       "parliament": "NO",
@@ -1929,11 +1933,11 @@
         }
       ],
       "debug": {
-        "sak_nummer": 1,
-        "speech_type": "Hovedinnlegg",
-        "clock_time": "10:02:12",
-        "align-duration": 3.9515199661254883,
-        "ner-duration": 1.961400032043457
+        "alignDuration": 3.9515199661254883,
+        "nerDuration": 1.961400032043457,
+        "sakNummer": 1,
+        "speechType": "Hovedinnlegg",
+        "clockTime": "10:02:12"
       },
       "dateStart": "2025-10-15T10:02:12",
       "media": {
@@ -1957,7 +1961,8 @@
         "thumbnailLicense": "https://www.stortinget.no/no/Stottemeny/Hjelp/Nett-TV/",
         "audioFileURI": "/Users/joscha/Projects/OpenParliamentTV/_SERVER/OpenParliamentTV-Data-NO/cache/audio/22115195.mp3"
       },
-      "dateEnd": "2025-10-15T10:33:25"
+      "dateEnd": "2025-10-15T10:33:25",
+      "originalLanguage": "nb"
     },
     {
       "parliament": "NO",
@@ -2028,10 +2033,10 @@
         }
       ],
       "debug": {
-        "sak_nummer": 1,
-        "speech_type": "Presinnlegg",
-        "clock_time": "10:33:25",
-        "ner-duration": 0.045479774475097656
+        "nerDuration": 0.045479774475097656,
+        "sakNummer": 1,
+        "speechType": "Presinnlegg",
+        "clockTime": "10:33:25"
       },
       "dateStart": "2025-10-15T10:33:25",
       "media": {
@@ -2055,7 +2060,8 @@
         "thumbnailLicense": "https://www.stortinget.no/no/Stottemeny/Hjelp/Nett-TV/",
         "audioFileURI": "/Users/joscha/Projects/OpenParliamentTV/_SERVER/OpenParliamentTV-Data-NO/cache/audio/22115196.mp3"
       },
-      "dateEnd": "2025-10-15T10:34:04"
+      "dateEnd": "2025-10-15T10:34:04",
+      "originalLanguage": "nb"
     },
     {
       "parliament": "NO",
@@ -2327,11 +2333,11 @@
         }
       ],
       "debug": {
-        "sak_nummer": 1,
-        "speech_type": "Hovedinnlegg",
-        "clock_time": "10:34:04",
-        "align-duration": 0.7456252574920654,
-        "ner-duration": 0.2635493278503418
+        "alignDuration": 0.7456252574920654,
+        "nerDuration": 0.2635493278503418,
+        "sakNummer": 1,
+        "speechType": "Hovedinnlegg",
+        "clockTime": "10:34:04"
       },
       "dateStart": "2025-10-15T10:34:04",
       "media": {
@@ -2355,7 +2361,8 @@
         "thumbnailLicense": "https://www.stortinget.no/no/Stottemeny/Hjelp/Nett-TV/",
         "audioFileURI": "/Users/joscha/Projects/OpenParliamentTV/_SERVER/OpenParliamentTV-Data-NO/cache/audio/22115197.mp3"
       },
-      "dateEnd": "2025-10-15T10:37:20"
+      "dateEnd": "2025-10-15T10:37:20",
+      "originalLanguage": "nb"
     },
     {
       "parliament": "NO",
@@ -2561,11 +2568,11 @@
         }
       ],
       "debug": {
-        "sak_nummer": 1,
-        "speech_type": "Hovedinnlegg",
-        "clock_time": "10:37:20",
-        "align-duration": 0.6741318702697754,
-        "ner-duration": 0.21664071083068848
+        "alignDuration": 0.6741318702697754,
+        "nerDuration": 0.21664071083068848,
+        "sakNummer": 1,
+        "speechType": "Hovedinnlegg",
+        "clockTime": "10:37:20"
       },
       "dateStart": "2025-10-15T10:37:20",
       "media": {
@@ -2589,7 +2596,8 @@
         "thumbnailLicense": "https://www.stortinget.no/no/Stottemeny/Hjelp/Nett-TV/",
         "audioFileURI": "/Users/joscha/Projects/OpenParliamentTV/_SERVER/OpenParliamentTV-Data-NO/cache/audio/22115198.mp3"
       },
-      "dateEnd": "2025-10-15T10:40:35"
+      "dateEnd": "2025-10-15T10:40:35",
+      "originalLanguage": "nb"
     },
     {
       "parliament": "NO",
@@ -2763,11 +2771,11 @@
         }
       ],
       "debug": {
-        "sak_nummer": 1,
-        "speech_type": "Hovedinnlegg",
-        "clock_time": "10:40:35",
-        "align-duration": 0.5786378383636475,
-        "ner-duration": 0.15422892570495605
+        "alignDuration": 0.5786378383636475,
+        "nerDuration": 0.15422892570495605,
+        "sakNummer": 1,
+        "speechType": "Hovedinnlegg",
+        "clockTime": "10:40:35"
       },
       "dateStart": "2025-10-15T10:40:35",
       "media": {
@@ -2791,7 +2799,8 @@
         "thumbnailLicense": "https://www.stortinget.no/no/Stottemeny/Hjelp/Nett-TV/",
         "audioFileURI": "/Users/joscha/Projects/OpenParliamentTV/_SERVER/OpenParliamentTV-Data-NO/cache/audio/22115199.mp3"
       },
-      "dateEnd": "2025-10-15T10:42:42"
+      "dateEnd": "2025-10-15T10:42:42",
+      "originalLanguage": "nb"
     },
     {
       "parliament": "NO",
@@ -2924,11 +2933,11 @@
         }
       ],
       "debug": {
-        "sak_nummer": 1,
-        "speech_type": "Hovedinnlegg",
-        "clock_time": "10:42:42",
-        "align-duration": 0.5499327182769775,
-        "ner-duration": 0.09865236282348633
+        "alignDuration": 0.5499327182769775,
+        "nerDuration": 0.09865236282348633,
+        "sakNummer": 1,
+        "speechType": "Hovedinnlegg",
+        "clockTime": "10:42:42"
       },
       "dateStart": "2025-10-15T10:42:42",
       "media": {
@@ -2952,7 +2961,8 @@
         "thumbnailLicense": "https://www.stortinget.no/no/Stottemeny/Hjelp/Nett-TV/",
         "audioFileURI": "/Users/joscha/Projects/OpenParliamentTV/_SERVER/OpenParliamentTV-Data-NO/cache/audio/221151910.mp3"
       },
-      "dateEnd": "2025-10-15T10:44:53"
+      "dateEnd": "2025-10-15T10:44:53",
+      "originalLanguage": "nb"
     },
     {
       "parliament": "NO",
@@ -3158,11 +3168,11 @@
         }
       ],
       "debug": {
-        "sak_nummer": 1,
-        "speech_type": "Hovedinnlegg",
-        "clock_time": "10:44:53",
-        "align-duration": 0.6965889930725098,
-        "ner-duration": 0.22041869163513184
+        "alignDuration": 0.6965889930725098,
+        "nerDuration": 0.22041869163513184,
+        "sakNummer": 1,
+        "speechType": "Hovedinnlegg",
+        "clockTime": "10:44:53"
       },
       "dateStart": "2025-10-15T10:44:53",
       "media": {
@@ -3186,7 +3196,8 @@
         "thumbnailLicense": "https://www.stortinget.no/no/Stottemeny/Hjelp/Nett-TV/",
         "audioFileURI": "/Users/joscha/Projects/OpenParliamentTV/_SERVER/OpenParliamentTV-Data-NO/cache/audio/221151911.mp3"
       },
-      "dateEnd": "2025-10-15T10:47:56"
+      "dateEnd": "2025-10-15T10:47:56",
+      "originalLanguage": "nb"
     },
     {
       "parliament": "NO",
@@ -3353,11 +3364,11 @@
         }
       ],
       "debug": {
-        "sak_nummer": 1,
-        "speech_type": "Hovedinnlegg",
-        "clock_time": "10:47:56",
-        "align-duration": 0.5863339900970459,
-        "ner-duration": 0.16626310348510742
+        "alignDuration": 0.5863339900970459,
+        "nerDuration": 0.16626310348510742,
+        "sakNummer": 1,
+        "speechType": "Hovedinnlegg",
+        "clockTime": "10:47:56"
       },
       "dateStart": "2025-10-15T10:47:56",
       "media": {
@@ -3381,7 +3392,8 @@
         "thumbnailLicense": "https://www.stortinget.no/no/Stottemeny/Hjelp/Nett-TV/",
         "audioFileURI": "/Users/joscha/Projects/OpenParliamentTV/_SERVER/OpenParliamentTV-Data-NO/cache/audio/221151912.mp3"
       },
-      "dateEnd": "2025-10-15T10:50:00"
+      "dateEnd": "2025-10-15T10:50:00",
+      "originalLanguage": "nb"
     },
     {
       "parliament": "NO",
@@ -3577,11 +3589,11 @@
         }
       ],
       "debug": {
-        "sak_nummer": 1,
-        "speech_type": "Hovedinnlegg",
-        "clock_time": "10:50:00",
-        "align-duration": 0.5622408390045166,
-        "ner-duration": 0.1824190616607666
+        "alignDuration": 0.5622408390045166,
+        "nerDuration": 0.1824190616607666,
+        "sakNummer": 1,
+        "speechType": "Hovedinnlegg",
+        "clockTime": "10:50:00"
       },
       "dateStart": "2025-10-15T10:50:00",
       "media": {
@@ -3605,7 +3617,8 @@
         "thumbnailLicense": "https://www.stortinget.no/no/Stottemeny/Hjelp/Nett-TV/",
         "audioFileURI": "/Users/joscha/Projects/OpenParliamentTV/_SERVER/OpenParliamentTV-Data-NO/cache/audio/221151913.mp3"
       },
-      "dateEnd": "2025-10-15T10:52:12"
+      "dateEnd": "2025-10-15T10:52:12",
+      "originalLanguage": "nb"
     },
     {
       "parliament": "NO",
@@ -3760,11 +3773,11 @@
         }
       ],
       "debug": {
-        "sak_nummer": 1,
-        "speech_type": "Hovedinnlegg",
-        "clock_time": "10:52:12",
-        "align-duration": 0.632620096206665,
-        "ner-duration": 0.14658403396606445
+        "alignDuration": 0.632620096206665,
+        "nerDuration": 0.14658403396606445,
+        "sakNummer": 1,
+        "speechType": "Hovedinnlegg",
+        "clockTime": "10:52:12"
       },
       "dateStart": "2025-10-15T10:52:12",
       "media": {
@@ -3788,7 +3801,8 @@
         "thumbnailLicense": "https://www.stortinget.no/no/Stottemeny/Hjelp/Nett-TV/",
         "audioFileURI": "/Users/joscha/Projects/OpenParliamentTV/_SERVER/OpenParliamentTV-Data-NO/cache/audio/221151914.mp3"
       },
-      "dateEnd": "2025-10-15T10:55:09"
+      "dateEnd": "2025-10-15T10:55:09",
+      "originalLanguage": "nb"
     },
     {
       "parliament": "NO",
@@ -3981,11 +3995,11 @@
         }
       ],
       "debug": {
-        "sak_nummer": 1,
-        "speech_type": "Hovedinnlegg",
-        "clock_time": "10:55:09",
-        "align-duration": 0.5720579624176025,
-        "ner-duration": 0.16247081756591797
+        "alignDuration": 0.5720579624176025,
+        "nerDuration": 0.16247081756591797,
+        "sakNummer": 1,
+        "speechType": "Hovedinnlegg",
+        "clockTime": "10:55:09"
       },
       "dateStart": "2025-10-15T10:55:09",
       "media": {
@@ -4009,7 +4023,8 @@
         "thumbnailLicense": "https://www.stortinget.no/no/Stottemeny/Hjelp/Nett-TV/",
         "audioFileURI": "/Users/joscha/Projects/OpenParliamentTV/_SERVER/OpenParliamentTV-Data-NO/cache/audio/221151915.mp3"
       },
-      "dateEnd": "2025-10-15T10:57:13"
+      "dateEnd": "2025-10-15T10:57:13",
+      "originalLanguage": "nb"
     },
     {
       "parliament": "NO",
@@ -4115,11 +4130,11 @@
         }
       ],
       "debug": {
-        "sak_nummer": 1,
-        "speech_type": "Hovedinnlegg",
-        "clock_time": "10:57:13",
-        "align-duration": 0.539384126663208,
-        "ner-duration": 0.09161901473999023
+        "alignDuration": 0.539384126663208,
+        "nerDuration": 0.09161901473999023,
+        "sakNummer": 1,
+        "speechType": "Hovedinnlegg",
+        "clockTime": "10:57:13"
       },
       "dateStart": "2025-10-15T10:57:13",
       "media": {
@@ -4143,7 +4158,8 @@
         "thumbnailLicense": "https://www.stortinget.no/no/Stottemeny/Hjelp/Nett-TV/",
         "audioFileURI": "/Users/joscha/Projects/OpenParliamentTV/_SERVER/OpenParliamentTV-Data-NO/cache/audio/221151916.mp3"
       },
-      "dateEnd": "2025-10-15T10:59:24"
+      "dateEnd": "2025-10-15T10:59:24",
+      "originalLanguage": "nb"
     },
     {
       "parliament": "NO",
@@ -4376,11 +4392,11 @@
         }
       ],
       "debug": {
-        "sak_nummer": 1,
-        "speech_type": "Hovedinnlegg",
-        "clock_time": "10:59:24",
-        "align-duration": 0.708064079284668,
-        "ner-duration": 0.19766926765441895
+        "alignDuration": 0.708064079284668,
+        "nerDuration": 0.19766926765441895,
+        "sakNummer": 1,
+        "speechType": "Hovedinnlegg",
+        "clockTime": "10:59:24"
       },
       "dateStart": "2025-10-15T10:59:24",
       "media": {
@@ -4404,7 +4420,8 @@
         "thumbnailLicense": "https://www.stortinget.no/no/Stottemeny/Hjelp/Nett-TV/",
         "audioFileURI": "/Users/joscha/Projects/OpenParliamentTV/_SERVER/OpenParliamentTV-Data-NO/cache/audio/221151917.mp3"
       },
-      "dateEnd": "2025-10-15T11:02:10"
+      "dateEnd": "2025-10-15T11:02:10",
+      "originalLanguage": "nb"
     },
     {
       "parliament": "NO",
@@ -4554,11 +4571,11 @@
         }
       ],
       "debug": {
-        "sak_nummer": 1,
-        "speech_type": "Hovedinnlegg",
-        "clock_time": "11:02:10",
-        "align-duration": 0.5493769645690918,
-        "ner-duration": 0.13817691802978516
+        "alignDuration": 0.5493769645690918,
+        "nerDuration": 0.13817691802978516,
+        "sakNummer": 1,
+        "speechType": "Hovedinnlegg",
+        "clockTime": "11:02:10"
       },
       "dateStart": "2025-10-15T11:02:10",
       "media": {
@@ -4582,7 +4599,8 @@
         "thumbnailLicense": "https://www.stortinget.no/no/Stottemeny/Hjelp/Nett-TV/",
         "audioFileURI": "/Users/joscha/Projects/OpenParliamentTV/_SERVER/OpenParliamentTV-Data-NO/cache/audio/221151918.mp3"
       },
-      "dateEnd": "2025-10-15T11:04:14"
+      "dateEnd": "2025-10-15T11:04:14",
+      "originalLanguage": "nb"
     },
     {
       "parliament": "NO",
@@ -4726,11 +4744,11 @@
         }
       ],
       "debug": {
-        "sak_nummer": 1,
-        "speech_type": "Hovedinnlegg",
-        "clock_time": "11:04:14",
-        "align-duration": 0.48995089530944824,
-        "ner-duration": 0.12849116325378418
+        "alignDuration": 0.48995089530944824,
+        "nerDuration": 0.12849116325378418,
+        "sakNummer": 1,
+        "speechType": "Hovedinnlegg",
+        "clockTime": "11:04:14"
       },
       "dateStart": "2025-10-15T11:04:14",
       "media": {
@@ -4754,7 +4772,8 @@
         "thumbnailLicense": "https://www.stortinget.no/no/Stottemeny/Hjelp/Nett-TV/",
         "audioFileURI": "/Users/joscha/Projects/OpenParliamentTV/_SERVER/OpenParliamentTV-Data-NO/cache/audio/221151919.mp3"
       },
-      "dateEnd": "2025-10-15T11:05:58"
+      "dateEnd": "2025-10-15T11:05:58",
+      "originalLanguage": "nb"
     },
     {
       "parliament": "NO",
@@ -4997,11 +5016,11 @@
         }
       ],
       "debug": {
-        "sak_nummer": 1,
-        "speech_type": "Hovedinnlegg",
-        "clock_time": "11:05:58",
-        "align-duration": 0.6212179660797119,
-        "ner-duration": 0.21683812141418457
+        "alignDuration": 0.6212179660797119,
+        "nerDuration": 0.21683812141418457,
+        "sakNummer": 1,
+        "speechType": "Hovedinnlegg",
+        "clockTime": "11:05:58"
       },
       "dateStart": "2025-10-15T11:05:58",
       "media": {
@@ -5025,7 +5044,8 @@
         "thumbnailLicense": "https://www.stortinget.no/no/Stottemeny/Hjelp/Nett-TV/",
         "audioFileURI": "/Users/joscha/Projects/OpenParliamentTV/_SERVER/OpenParliamentTV-Data-NO/cache/audio/221151920.mp3"
       },
-      "dateEnd": "2025-10-15T11:08:32"
+      "dateEnd": "2025-10-15T11:08:32",
+      "originalLanguage": "nb"
     },
     {
       "parliament": "NO",
@@ -5206,11 +5226,11 @@
         }
       ],
       "debug": {
-        "sak_nummer": 1,
-        "speech_type": "Hovedinnlegg",
-        "clock_time": "11:08:32",
-        "align-duration": 0.5977399349212646,
-        "ner-duration": 0.1456000804901123
+        "alignDuration": 0.5977399349212646,
+        "nerDuration": 0.1456000804901123,
+        "sakNummer": 1,
+        "speechType": "Hovedinnlegg",
+        "clockTime": "11:08:32"
       },
       "dateStart": "2025-10-15T11:08:32",
       "media": {
@@ -5234,7 +5254,8 @@
         "thumbnailLicense": "https://www.stortinget.no/no/Stottemeny/Hjelp/Nett-TV/",
         "audioFileURI": "/Users/joscha/Projects/OpenParliamentTV/_SERVER/OpenParliamentTV-Data-NO/cache/audio/221151921.mp3"
       },
-      "dateEnd": "2025-10-15T11:10:32"
+      "dateEnd": "2025-10-15T11:10:32",
+      "originalLanguage": "nb"
     },
     {
       "parliament": "NO",
@@ -5354,11 +5375,11 @@
         }
       ],
       "debug": {
-        "sak_nummer": 1,
-        "speech_type": "Hovedinnlegg",
-        "clock_time": "11:10:32",
-        "align-duration": 0.5312049388885498,
-        "ner-duration": 0.09073781967163086
+        "alignDuration": 0.5312049388885498,
+        "nerDuration": 0.09073781967163086,
+        "sakNummer": 1,
+        "speechType": "Hovedinnlegg",
+        "clockTime": "11:10:32"
       },
       "dateStart": "2025-10-15T11:10:32",
       "media": {
@@ -5382,7 +5403,8 @@
         "thumbnailLicense": "https://www.stortinget.no/no/Stottemeny/Hjelp/Nett-TV/",
         "audioFileURI": "/Users/joscha/Projects/OpenParliamentTV/_SERVER/OpenParliamentTV-Data-NO/cache/audio/221151922.mp3"
       },
-      "dateEnd": "2025-10-15T11:12:41"
+      "dateEnd": "2025-10-15T11:12:41",
+      "originalLanguage": "nb"
     },
     {
       "parliament": "NO",
@@ -5583,11 +5605,11 @@
         }
       ],
       "debug": {
-        "sak_nummer": 1,
-        "speech_type": "Hovedinnlegg",
-        "clock_time": "11:12:41",
-        "align-duration": 0.6928400993347168,
-        "ner-duration": 0.19620180130004883
+        "alignDuration": 0.6928400993347168,
+        "nerDuration": 0.19620180130004883,
+        "sakNummer": 1,
+        "speechType": "Hovedinnlegg",
+        "clockTime": "11:12:41"
       },
       "dateStart": "2025-10-15T11:12:41",
       "media": {
@@ -5611,7 +5633,8 @@
         "thumbnailLicense": "https://www.stortinget.no/no/Stottemeny/Hjelp/Nett-TV/",
         "audioFileURI": "/Users/joscha/Projects/OpenParliamentTV/_SERVER/OpenParliamentTV-Data-NO/cache/audio/221151923.mp3"
       },
-      "dateEnd": "2025-10-15T11:15:43"
+      "dateEnd": "2025-10-15T11:15:43",
+      "originalLanguage": "nb"
     },
     {
       "parliament": "NO",
@@ -5767,11 +5790,11 @@
         }
       ],
       "debug": {
-        "sak_nummer": 1,
-        "speech_type": "Hovedinnlegg",
-        "clock_time": "11:15:43",
-        "align-duration": 0.5876181125640869,
-        "ner-duration": 0.14456725120544434
+        "alignDuration": 0.5876181125640869,
+        "nerDuration": 0.14456725120544434,
+        "sakNummer": 1,
+        "speechType": "Hovedinnlegg",
+        "clockTime": "11:15:43"
       },
       "dateStart": "2025-10-15T11:15:43",
       "media": {
@@ -5795,7 +5818,8 @@
         "thumbnailLicense": "https://www.stortinget.no/no/Stottemeny/Hjelp/Nett-TV/",
         "audioFileURI": "/Users/joscha/Projects/OpenParliamentTV/_SERVER/OpenParliamentTV-Data-NO/cache/audio/221151924.mp3"
       },
-      "dateEnd": "2025-10-15T11:17:47"
+      "dateEnd": "2025-10-15T11:17:47",
+      "originalLanguage": "nb"
     },
     {
       "parliament": "NO",
@@ -5915,11 +5939,11 @@
         }
       ],
       "debug": {
-        "sak_nummer": 1,
-        "speech_type": "Hovedinnlegg",
-        "clock_time": "11:17:47",
-        "align-duration": 0.4981038570404053,
-        "ner-duration": 0.09952092170715332
+        "alignDuration": 0.4981038570404053,
+        "nerDuration": 0.09952092170715332,
+        "sakNummer": 1,
+        "speechType": "Hovedinnlegg",
+        "clockTime": "11:17:47"
       },
       "dateStart": "2025-10-15T11:17:47",
       "media": {
@@ -5943,7 +5967,8 @@
         "thumbnailLicense": "https://www.stortinget.no/no/Stottemeny/Hjelp/Nett-TV/",
         "audioFileURI": "/Users/joscha/Projects/OpenParliamentTV/_SERVER/OpenParliamentTV-Data-NO/cache/audio/221151925.mp3"
       },
-      "dateEnd": "2025-10-15T11:19:30"
+      "dateEnd": "2025-10-15T11:19:30",
+      "originalLanguage": "nb"
     },
     {
       "parliament": "NO",
@@ -6134,11 +6159,11 @@
         }
       ],
       "debug": {
-        "sak_nummer": 1,
-        "speech_type": "Hovedinnlegg",
-        "clock_time": "11:19:30",
-        "align-duration": 0.6163167953491211,
-        "ner-duration": 0.16496586799621582
+        "alignDuration": 0.6163167953491211,
+        "nerDuration": 0.16496586799621582,
+        "sakNummer": 1,
+        "speechType": "Hovedinnlegg",
+        "clockTime": "11:19:30"
       },
       "dateStart": "2025-10-15T11:19:30",
       "media": {
@@ -6162,7 +6187,8 @@
         "thumbnailLicense": "https://www.stortinget.no/no/Stottemeny/Hjelp/Nett-TV/",
         "audioFileURI": "/Users/joscha/Projects/OpenParliamentTV/_SERVER/OpenParliamentTV-Data-NO/cache/audio/221151926.mp3"
       },
-      "dateEnd": "2025-10-15T11:21:56"
+      "dateEnd": "2025-10-15T11:21:56",
+      "originalLanguage": "nb"
     },
     {
       "parliament": "NO",
@@ -6367,11 +6393,11 @@
         }
       ],
       "debug": {
-        "sak_nummer": 1,
-        "speech_type": "Hovedinnlegg",
-        "clock_time": "11:21:56",
-        "align-duration": 0.5688560009002686,
-        "ner-duration": 0.17951679229736328
+        "alignDuration": 0.5688560009002686,
+        "nerDuration": 0.17951679229736328,
+        "sakNummer": 1,
+        "speechType": "Hovedinnlegg",
+        "clockTime": "11:21:56"
       },
       "dateStart": "2025-10-15T11:21:56",
       "media": {
@@ -6395,7 +6421,8 @@
         "thumbnailLicense": "https://www.stortinget.no/no/Stottemeny/Hjelp/Nett-TV/",
         "audioFileURI": "/Users/joscha/Projects/OpenParliamentTV/_SERVER/OpenParliamentTV-Data-NO/cache/audio/221151927.mp3"
       },
-      "dateEnd": "2025-10-15T11:24:02"
+      "dateEnd": "2025-10-15T11:24:02",
+      "originalLanguage": "nb"
     },
     {
       "parliament": "NO",
@@ -6568,11 +6595,11 @@
         }
       ],
       "debug": {
-        "sak_nummer": 1,
-        "speech_type": "Hovedinnlegg",
-        "clock_time": "11:24:02",
-        "align-duration": 0.4298689365386963,
-        "ner-duration": 0.11757779121398926
+        "alignDuration": 0.4298689365386963,
+        "nerDuration": 0.11757779121398926,
+        "sakNummer": 1,
+        "speechType": "Hovedinnlegg",
+        "clockTime": "11:24:02"
       },
       "dateStart": "2025-10-15T11:24:02",
       "media": {
@@ -6596,7 +6623,8 @@
         "thumbnailLicense": "https://www.stortinget.no/no/Stottemeny/Hjelp/Nett-TV/",
         "audioFileURI": "/Users/joscha/Projects/OpenParliamentTV/_SERVER/OpenParliamentTV-Data-NO/cache/audio/221151928.mp3"
       },
-      "dateEnd": "2025-10-15T11:25:18"
+      "dateEnd": "2025-10-15T11:25:18",
+      "originalLanguage": "nb"
     },
     {
       "parliament": "NO",
@@ -6884,11 +6912,11 @@
         }
       ],
       "debug": {
-        "sak_nummer": 1,
-        "speech_type": "Hovedinnlegg",
-        "clock_time": "11:25:18",
-        "align-duration": 0.720952033996582,
-        "ner-duration": 0.3645470142364502
+        "alignDuration": 0.720952033996582,
+        "nerDuration": 0.3645470142364502,
+        "sakNummer": 1,
+        "speechType": "Hovedinnlegg",
+        "clockTime": "11:25:18"
       },
       "dateStart": "2025-10-15T11:25:18",
       "media": {
@@ -6912,7 +6940,8 @@
         "thumbnailLicense": "https://www.stortinget.no/no/Stottemeny/Hjelp/Nett-TV/",
         "audioFileURI": "/Users/joscha/Projects/OpenParliamentTV/_SERVER/OpenParliamentTV-Data-NO/cache/audio/221151929.mp3"
       },
-      "dateEnd": "2025-10-15T11:28:25"
+      "dateEnd": "2025-10-15T11:28:25",
+      "originalLanguage": "nb"
     },
     {
       "parliament": "NO",
@@ -7031,11 +7060,11 @@
         }
       ],
       "debug": {
-        "sak_nummer": 1,
-        "speech_type": "Hovedinnlegg",
-        "clock_time": "11:28:25",
-        "align-duration": 0.5193758010864258,
-        "ner-duration": 0.11853504180908203
+        "alignDuration": 0.5193758010864258,
+        "nerDuration": 0.11853504180908203,
+        "sakNummer": 1,
+        "speechType": "Hovedinnlegg",
+        "clockTime": "11:28:25"
       },
       "dateStart": "2025-10-15T11:28:25",
       "media": {
@@ -7059,7 +7088,8 @@
         "thumbnailLicense": "https://www.stortinget.no/no/Stottemeny/Hjelp/Nett-TV/",
         "audioFileURI": "/Users/joscha/Projects/OpenParliamentTV/_SERVER/OpenParliamentTV-Data-NO/cache/audio/221151930.mp3"
       },
-      "dateEnd": "2025-10-15T11:30:15"
+      "dateEnd": "2025-10-15T11:30:15",
+      "originalLanguage": "nb"
     },
     {
       "parliament": "NO",
@@ -7215,11 +7245,11 @@
         }
       ],
       "debug": {
-        "sak_nummer": 1,
-        "speech_type": "Hovedinnlegg",
-        "clock_time": "11:30:15",
-        "align-duration": 0.5700299739837646,
-        "ner-duration": 0.15369391441345215
+        "alignDuration": 0.5700299739837646,
+        "nerDuration": 0.15369391441345215,
+        "sakNummer": 1,
+        "speechType": "Hovedinnlegg",
+        "clockTime": "11:30:15"
       },
       "dateStart": "2025-10-15T11:30:15",
       "media": {
@@ -7243,7 +7273,8 @@
         "thumbnailLicense": "https://www.stortinget.no/no/Stottemeny/Hjelp/Nett-TV/",
         "audioFileURI": "/Users/joscha/Projects/OpenParliamentTV/_SERVER/OpenParliamentTV-Data-NO/cache/audio/221151931.mp3"
       },
-      "dateEnd": "2025-10-15T11:32:18"
+      "dateEnd": "2025-10-15T11:32:18",
+      "originalLanguage": "nb"
     },
     {
       "parliament": "NO",
@@ -7294,10 +7325,10 @@
         }
       ],
       "debug": {
-        "sak_nummer": 1,
-        "speech_type": "Presinnlegg",
-        "clock_time": "11:32:18",
-        "ner-duration": 0.007709980010986328
+        "nerDuration": 0.007709980010986328,
+        "sakNummer": 1,
+        "speechType": "Presinnlegg",
+        "clockTime": "11:32:18"
       },
       "dateStart": "2025-10-15T11:32:18",
       "media": {
@@ -7321,7 +7352,8 @@
         "thumbnailLicense": "https://www.stortinget.no/no/Stottemeny/Hjelp/Nett-TV/",
         "audioFileURI": "/Users/joscha/Projects/OpenParliamentTV/_SERVER/OpenParliamentTV-Data-NO/cache/audio/221151932.mp3"
       },
-      "dateEnd": "2025-10-15T11:32:22"
+      "dateEnd": "2025-10-15T11:32:22",
+      "originalLanguage": "nb"
     },
     {
       "parliament": "NO",
@@ -7557,11 +7589,11 @@
         }
       ],
       "debug": {
-        "sak_nummer": 1,
-        "speech_type": "Hovedinnlegg",
-        "clock_time": "11:32:22",
-        "align-duration": 0.7256648540496826,
-        "ner-duration": 0.24165701866149902
+        "alignDuration": 0.7256648540496826,
+        "nerDuration": 0.24165701866149902,
+        "sakNummer": 1,
+        "speechType": "Hovedinnlegg",
+        "clockTime": "11:32:22"
       },
       "dateStart": "2025-10-15T11:32:22",
       "media": {
@@ -7585,7 +7617,8 @@
         "thumbnailLicense": "https://www.stortinget.no/no/Stottemeny/Hjelp/Nett-TV/",
         "audioFileURI": "/Users/joscha/Projects/OpenParliamentTV/_SERVER/OpenParliamentTV-Data-NO/cache/audio/221151933.mp3"
       },
-      "dateEnd": "2025-10-15T11:35:33"
+      "dateEnd": "2025-10-15T11:35:33",
+      "originalLanguage": "nb"
     },
     {
       "parliament": "NO",
@@ -7644,10 +7677,10 @@
         }
       ],
       "debug": {
-        "sak_nummer": 1,
-        "speech_type": "Presinnlegg",
-        "clock_time": "11:35:33",
-        "ner-duration": 0.023842811584472656
+        "nerDuration": 0.023842811584472656,
+        "sakNummer": 1,
+        "speechType": "Presinnlegg",
+        "clockTime": "11:35:33"
       },
       "dateStart": "2025-10-15T11:35:33",
       "media": {
@@ -7671,7 +7704,8 @@
         "thumbnailLicense": "https://www.stortinget.no/no/Stottemeny/Hjelp/Nett-TV/",
         "audioFileURI": "/Users/joscha/Projects/OpenParliamentTV/_SERVER/OpenParliamentTV-Data-NO/cache/audio/221151934.mp3"
       },
-      "dateEnd": "2025-10-15T11:37:00"
+      "dateEnd": "2025-10-15T11:37:00",
+      "originalLanguage": "nb"
     }
   ]
 }
