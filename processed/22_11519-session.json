@@ -271,7 +271,7 @@
             {
               "type": "speech",
               "speaker": "Statsråd Jens Stoltenberg",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "På vegne av regjeringen har jeg den ære å overbringe to kongelige proposisjoner:",
@@ -429,7 +429,7 @@
             {
               "type": "speech",
               "speaker": "Statsråd Jens Stoltenberg",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Det er en glede å få legge fram statsbudsjettet for 2026 og igjen å holde finanstalen.",
@@ -2105,7 +2105,7 @@
             {
               "type": "speech",
               "speaker": "Tuva Moflag",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Dette statsbudsjettet viser tydelig at vi lever i en helt annen tid enn forrige gang Jens Stoltenberg la fram et statsbudsjett.",
@@ -2406,7 +2406,7 @@
             {
               "type": "speech",
               "speaker": "Hans Andreas Limi",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Det som blir mest spennende med dette budsjettet, er egentlig det som gjenstår, altså forhandlingene i Stortinget.",
@@ -2635,7 +2635,7 @@
             {
               "type": "speech",
               "speaker": "Statsråd Jens Stoltenberg",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Det er ikke bare i Finansdepartementet man tror at det går godt i norsk økonomi, det tror også de andre makroøkonomiske analysemiljøene i Norge, og våre anslag er på linje med deres, f.eks. på linje med anslagene til Statistisk sentralbyrå, som også har god vekst i sine anslag.",
@@ -2844,7 +2844,7 @@
             {
               "type": "speech",
               "speaker": "Hans Andreas Limi",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Det kunne nesten være fristende å si at svenske tilstander hører vel hjemme i den svenske riksdagen, men når det gjelder svensk økonomi, er det mye som ikke er sammenlignbart, og det er vi fullstendig klar over.",
@@ -3006,7 +3006,7 @@
             {
               "type": "speech",
               "speaker": "Nikolai Astrup",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "La meg først få lov til å gratulere finansministeren med hans første ordinære statsbudsjett siden 1997.",
@@ -3235,7 +3235,7 @@
             {
               "type": "speech",
               "speaker": "Statsråd Jens Stoltenberg",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Svaret er nei.",
@@ -3437,7 +3437,7 @@
             {
               "type": "speech",
               "speaker": "Nikolai Astrup",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Det er hyggelig at finansministeren har tenkt å ha samvær med oss i politikken fremover også.",
@@ -3662,7 +3662,7 @@
             {
               "type": "speech",
               "speaker": "Marthe Hammer",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Finansministeren beskriv ei rekkje positive utviklingstrekk ved norsk økonomi og vektlegg trygg styring, men mange kjenner på utryggleik no. Finansministeren unnlèt å snakke om realiteten mange familiar står i, der éin av fem ikkje klarar å betale ei uføresett utgift, der folk lèt vere å gå til tannlegen, der barnefamiliar manglar eit stabilt tak over hovudet, og der foreldre kuttar i klede og utstyr til ungane sine.",
@@ -3840,7 +3840,7 @@
             {
               "type": "speech",
               "speaker": "Statsråd Jens Stoltenberg",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "For det første er jeg enig i at klimaproblemet er ekstremt alvorlig, og at det er viktig at Norge gjør sitt for å bidra til å få ned utslippene.",
@@ -4068,7 +4068,7 @@
             {
               "type": "speech",
               "speaker": "Marthe Hammer",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Dette budsjettet gjer at vi ikkje eingong er halvveges i å nå klimamåla våre innan 2030.",
@@ -4203,7 +4203,7 @@
             {
               "type": "speech",
               "speaker": "Bjørn Arild Gram",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "I regjeringssamarbeidet med Arbeiderpartiet opplevde vi i Senterpartiet at noe av kjernen i vårt felles prosjekt var å utjevne sosiale og geografiske forskjeller, inkludere alle i fellesskapet, hindre marginalisering og bidra til at alle blir sett og har likeverdige muligheter.",
@@ -4459,7 +4459,7 @@
             {
               "type": "speech",
               "speaker": "Statsråd Jens Stoltenberg",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Arbeiderpartiet er et parti for by og land.",
@@ -4644,7 +4644,7 @@
             {
               "type": "speech",
               "speaker": "Bjørn Arild Gram",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Vi er forskjellige partier, og det er naturlig å ha dragkamper om ulike spørsmål i politikken, men her har regjeringen nokså systematisk gått til angrep på sentrale saker for Senterpartiet, som var grunnlaget for at vi kunne stå sammen i ulike og helhetlige budsjettopplegg.",
@@ -4817,7 +4817,7 @@
             {
               "type": "speech",
               "speaker": "Mímir Kristjánsson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "De siste årene har prisene i Norge økt voldsomt, og mens bankene og dagligvarekjedene sitter igjen med mer, har uføre, minstepensjonister og folk med helt vanlige jobber slitt med å få endene til å møtes.",
@@ -5083,7 +5083,7 @@
             {
               "type": "speech",
               "speaker": "Statsråd Jens Stoltenberg",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Svaret er ja.",
@@ -5299,7 +5299,7 @@
             {
               "type": "speech",
               "speaker": "Mímir Kristjánsson",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Jeg vil takke statsråden for svaret og bekreftelsen på at vi deler oppfatningen om at politikken først og fremst skal være til for å ta utgangspunkt i dem som trenger hjelp, og ikke dem som har mer enn nok fra før til at de greier seg.",
@@ -5448,7 +5448,7 @@
             {
               "type": "speech",
               "speaker": "Ingrid Liland",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "I dette valget fikk Miljøpartiet De Grønne et historisk mandat til å ta Norge i en grønnere og mer solidarisk retning.",
@@ -5672,7 +5672,7 @@
             {
               "type": "speech",
               "speaker": "Statsråd Jens Stoltenberg",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Arbeiderpartiet er også klare til å sette seg ned med Miljøpartiet De Grønne og finne felles løsninger her i Stortinget om et budsjett som skal ta opp nettopp de temaene som representanten tok opp i sitt innlegg, som handler om klima, som handler om natur og miljø, og som handler om kollektivtransport.",
@@ -5863,7 +5863,7 @@
             {
               "type": "speech",
               "speaker": "Ingrid Liland",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "For å ta tak i dette med ressurseffektivitet:",
@@ -6009,7 +6009,7 @@
             {
               "type": "speech",
               "speaker": "Jørgen H. Kristiansen",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Dette budsjettet er en katastrofe for mange norske familier.",
@@ -6226,7 +6226,7 @@
             {
               "type": "speech",
               "speaker": "Statsråd Jens Stoltenberg",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Dette er et budsjett som satser på barnefamilier, og det er en regjering som har satset på barnefamiliene over flere år.",
@@ -6463,7 +6463,7 @@
             {
               "type": "speech",
               "speaker": "Jørgen H. Kristiansen",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Takk for svaret fra finansministeren.",
@@ -6668,7 +6668,7 @@
             {
               "type": "speech",
               "speaker": "Abid Raja",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "I gangavstand herfra vokser noen av de fattigste barna i vårt land opp, lavest på rangstigen og bortglemt.",
@@ -6979,7 +6979,7 @@
             {
               "type": "speech",
               "speaker": "Statsråd Jens Stoltenberg",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Dette er et budsjett for trygghet, også for trygghet i storbyene, og ikke minst en trygghet som handler om sosial rettferdighet.",
@@ -7133,7 +7133,7 @@
             {
               "type": "speech",
               "speaker": "Abid Raja",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Takk for svaret, finansminister.",
@@ -7391,7 +7391,7 @@
             {
               "type": "speech",
               "speaker": "Statsråd Jens Stoltenberg",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "La meg takke for gode kommentarer og viktige spørsmål.",

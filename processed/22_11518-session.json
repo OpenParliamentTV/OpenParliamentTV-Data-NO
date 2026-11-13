@@ -143,7 +143,7 @@
             {
               "type": "speech",
               "speaker": "Erlend Wiborg",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Det er en glede på vegne av stortingsrepresentantene Bengt Rune Strifeldt, Jon Engen-Helgheim, Bård Hoksrud, Morten Stordalen, Liv Gustavsen, Himanshu Gulati og meg selv å fremsette et representantforslag om fortsatt fiske i Oslofjorden.",
@@ -325,7 +325,7 @@
             {
               "type": "speech",
               "speaker": "Trygve Slagsvold Vedum",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Det er en glede på vegne av stortingsrepresentantene Maren Grøthe, Erling Sande og meg selv å framsette et representantforslag om «avdirektørifisering».",
@@ -487,7 +487,7 @@
             {
               "type": "speech",
               "speaker": "Lars Haltbrekken",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Jeg vil på vegne av meg selv fremme et representantforslag om å pålegge oljeselskapene å kutte CO2-utslippene ved å bruke flytende havvind og gasskraft som fanger og lagrer CO2.",
@@ -742,7 +742,7 @@
             {
               "type": "speech",
               "speaker": "Jonas Gahr Støre",
-              "speakerstatus": "statsminister",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Arbeiderparti-regjeringen ser fram til et godt og nært samarbeid med Stortinget.",
@@ -1785,7 +1785,7 @@
       "people": [
         {
           "label": "Sylvi Listhaug",
-          "context": "speaker",
+          "context": "main-speaker",
           "faction": {
             "label": "FrP",
             "wid": "Q193665"
@@ -1807,7 +1807,7 @@
             {
               "type": "speech",
               "speaker": "Sylvi Listhaug",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Først vil jeg gratulere statsministeren med valget, og jeg takker for invitasjonen til samarbeid.",
@@ -1946,7 +1946,7 @@
       "people": [
         {
           "label": "Jonas Gahr Støre",
-          "context": "speaker",
+          "context": "main-speaker",
           "role": "statsminister",
           "originPersonID": "JGS",
           "wid": "Q467948",
@@ -1965,7 +1965,7 @@
             {
               "type": "speech",
               "speaker": "Jonas Gahr Støre",
-              "speakerstatus": "statsminister",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "I går var jeg sammen med 30 ledere fra ulike land, og jeg tenker på spørsmålet til representanten Listhaug om hva det er å ha visjoner for framtiden.",
@@ -2111,7 +2111,7 @@
       "people": [
         {
           "label": "Sylvi Listhaug",
-          "context": "speaker",
+          "context": "main-speaker",
           "faction": {
             "label": "FrP",
             "wid": "Q193665"
@@ -2133,7 +2133,7 @@
             {
               "type": "speech",
               "speaker": "Sylvi Listhaug",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Det kom ingen garanti.",
@@ -2306,7 +2306,7 @@
       "people": [
         {
           "label": "Jonas Gahr Støre",
-          "context": "speaker",
+          "context": "main-speaker",
           "role": "statsminister",
           "originPersonID": "JGS",
           "wid": "Q467948",
@@ -2325,7 +2325,7 @@
             {
               "type": "speech",
               "speaker": "Jonas Gahr Støre",
-              "speakerstatus": "statsminister",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Først:",
@@ -2528,7 +2528,7 @@
       "people": [
         {
           "label": "Sylvi Listhaug",
-          "context": "speaker",
+          "context": "main-speaker",
           "faction": {
             "label": "FrP",
             "wid": "Q193665"
@@ -2550,7 +2550,7 @@
             {
               "type": "speech",
               "speaker": "Sylvi Listhaug",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Jeg kan bekrefte at hadde Fremskrittspartiet fått hånden på rattet, hadde det vært slutt på midler til batterifabrikker og havvind og å pøse ut milliarder av kroner.",
@@ -2741,7 +2741,7 @@
       "people": [
         {
           "label": "Jonas Gahr Støre",
-          "context": "speaker",
+          "context": "main-speaker",
           "role": "statsminister",
           "originPersonID": "JGS",
           "wid": "Q467948",
@@ -2760,7 +2760,7 @@
             {
               "type": "speech",
               "speaker": "Jonas Gahr Støre",
-              "speakerstatus": "statsminister",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Mitt mantra er å se framover og ikke bakover, men det er verdt å tenke på at her står justismakten i sju av åtte år i forrige regjeringsperiode, med sju justisministre, eller hva det var.",
@@ -2909,7 +2909,7 @@
       "people": [
         {
           "label": "Sylvi Listhaug",
-          "context": "speaker",
+          "context": "main-speaker",
           "faction": {
             "label": "FrP",
             "wid": "Q193665"
@@ -2931,7 +2931,7 @@
             {
               "type": "speech",
               "speaker": "Sylvi Listhaug",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Jeg tror det er bedre med sju justisministere som faktisk bygger opp politiet, får på plass beredskapssenter, får på plass politihelikopter og gjennomfører noe, enn med to som ikke har gjort annet enn å sitte og se på at Norge nå går helt i gal retning, at håndgranater sprenges i gatene, og at knivstikking er blitt et vanlig fenomen.",
@@ -3040,7 +3040,7 @@
       "people": [
         {
           "label": "Jonas Gahr Støre",
-          "context": "speaker",
+          "context": "main-speaker",
           "role": "statsminister",
           "originPersonID": "JGS",
           "wid": "Q467948",
@@ -3059,7 +3059,7 @@
             {
               "type": "speech",
               "speaker": "Jonas Gahr Støre",
-              "speakerstatus": "statsminister",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Barns beste er et utrolig viktig prinsipp som et moderne, sivilisert samfunn skal styres etter.",
@@ -3198,7 +3198,7 @@
       "people": [
         {
           "label": "Jon Engen-Helgheim",
-          "context": "speaker",
+          "context": "main-speaker",
           "faction": {
             "label": "FrP",
             "wid": "Q193665"
@@ -3220,7 +3220,7 @@
             {
               "type": "speech",
               "speaker": "Jon Engen-Helgheim",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Statsministeren snakket i sitt innlegg nå om bl.a. én-til-én-oppfølging av kriminelle ungdommer, og det er vel og bra.",
@@ -3333,7 +3333,7 @@
       "people": [
         {
           "label": "Jonas Gahr Støre",
-          "context": "speaker",
+          "context": "main-speaker",
           "role": "statsminister",
           "originPersonID": "JGS",
           "wid": "Q467948",
@@ -3352,7 +3352,7 @@
             {
               "type": "speech",
               "speaker": "Jonas Gahr Støre",
-              "speakerstatus": "statsminister",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Det er slik at det som fungerte før, ikke alltid fungerer like bra nå.",
@@ -3479,7 +3479,7 @@
       "people": [
         {
           "label": "Jon Engen-Helgheim",
-          "context": "speaker",
+          "context": "main-speaker",
           "faction": {
             "label": "FrP",
             "wid": "Q193665"
@@ -3501,7 +3501,7 @@
             {
               "type": "speech",
               "speaker": "Jon Engen-Helgheim",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Jeg har aldri hørt noen fra politiet si at det ikke vil fungere å fotfølge de kriminelle mer.",
@@ -3617,7 +3617,7 @@
       "people": [
         {
           "label": "Jonas Gahr Støre",
-          "context": "speaker",
+          "context": "main-speaker",
           "role": "statsminister",
           "originPersonID": "JGS",
           "wid": "Q467948",
@@ -3636,7 +3636,7 @@
             {
               "type": "speech",
               "speaker": "Jonas Gahr Støre",
-              "speakerstatus": "statsminister",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Reelt er politibudsjettene styrket med 3,5 mrd. kr i vår periode.",
@@ -3732,7 +3732,7 @@
       "people": [
         {
           "label": "Erna Solberg",
-          "context": "speaker",
+          "context": "main-speaker",
           "faction": {
             "label": "H",
             "wid": "Q261541"
@@ -3754,7 +3754,7 @@
             {
               "type": "speech",
               "speaker": "Erna Solberg",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Jeg vil få benytte anledningen, som jeg også gjorde i går, til å gratulere Arbeiderpartiet og statsministeren med å fortsette som regjering.",
@@ -3907,7 +3907,7 @@
       "people": [
         {
           "label": "Jonas Gahr Støre",
-          "context": "speaker",
+          "context": "main-speaker",
           "role": "statsminister",
           "originPersonID": "JGS",
           "wid": "Q467948",
@@ -3926,7 +3926,7 @@
             {
               "type": "speech",
               "speaker": "Jonas Gahr Støre",
-              "speakerstatus": "statsminister",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "La meg først takke for gode hilsener og lykkeønskninger.",
@@ -4066,7 +4066,7 @@
       "people": [
         {
           "label": "Erna Solberg",
-          "context": "speaker",
+          "context": "main-speaker",
           "faction": {
             "label": "H",
             "wid": "Q261541"
@@ -4088,7 +4088,7 @@
             {
               "type": "speech",
               "speaker": "Erna Solberg",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Grunnen til at jeg stiller dette spørsmålet, er at det av og til synes som om disse reformene mer har blitt snakkepunkter enn reelle ønsker om å gjøre noen endringer, og for å skyve vekk noen av de utfordringene som er.",
@@ -4220,7 +4220,7 @@
       "people": [
         {
           "label": "Jonas Gahr Støre",
-          "context": "speaker",
+          "context": "main-speaker",
           "role": "statsminister",
           "originPersonID": "JGS",
           "wid": "Q467948",
@@ -4239,7 +4239,7 @@
             {
               "type": "speech",
               "speaker": "Jonas Gahr Støre",
-              "speakerstatus": "statsminister",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Jeg har besøkt mye av humankapitalen i Forsvaret, og jeg kan bekrefte at den er sterk – gode rekrutter, kvinner og menn, som bidrar – og vi skal ha rundt 4 000 flere vernepliktige og rundt 4 000 flere ansatte.",
@@ -4381,7 +4381,7 @@
       "people": [
         {
           "label": "Erna Solberg",
-          "context": "speaker",
+          "context": "main-speaker",
           "faction": {
             "label": "H",
             "wid": "Q261541"
@@ -4403,7 +4403,7 @@
             {
               "type": "speech",
               "speaker": "Erna Solberg",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Jeg har da lyst til å minne statsministeren om at han har en tapt mulighet, for akkurat dette sa opposisjonen til statsministeren i vår.",
@@ -4561,7 +4561,7 @@
       "people": [
         {
           "label": "Jonas Gahr Støre",
-          "context": "speaker",
+          "context": "main-speaker",
           "role": "statsminister",
           "originPersonID": "JGS",
           "wid": "Q467948",
@@ -4580,7 +4580,7 @@
             {
               "type": "speech",
               "speaker": "Jonas Gahr Støre",
-              "speakerstatus": "statsminister",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "La meg si at en av grunnene til at jeg tror vi gjør klokt i å komme i gang med dette arbeidet med det nye stortinget, er at vi har hatt et NATO-toppmøte som har satt et nytt mål, på 5 pst: 3,5 pst. pluss 1,5 pst.",
@@ -4753,7 +4753,7 @@
       "people": [
         {
           "label": "Erna Solberg",
-          "context": "speaker",
+          "context": "main-speaker",
           "faction": {
             "label": "H",
             "wid": "Q261541"
@@ -4775,7 +4775,7 @@
             {
               "type": "speech",
               "speaker": "Erna Solberg",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Vår forsvarsevne økes ikke av forsvarsprat fra statsministeren, men av forsvarshandling fra statsministeren.",
@@ -4954,7 +4954,7 @@
       "people": [
         {
           "label": "Jonas Gahr Støre",
-          "context": "speaker",
+          "context": "main-speaker",
           "role": "statsminister",
           "originPersonID": "JGS",
           "wid": "Q467948",
@@ -4973,7 +4973,7 @@
             {
               "type": "speech",
               "speaker": "Jonas Gahr Støre",
-              "speakerstatus": "statsminister",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Jeg synes det er en interessant vinkel fra Høyres leder, som nå egentlig snakker ned den norske forsvarsevnen, hvor vi altså bevilger rekordmye penger og gjennomfører en plan som virkelig treffer alle grener.",
@@ -5094,7 +5094,7 @@
       "people": [
         {
           "label": "Kirsti Bergstø",
-          "context": "speaker",
+          "context": "main-speaker",
           "faction": {
             "label": "SV",
             "wid": "Q261545"
@@ -5116,7 +5116,7 @@
             {
               "type": "speech",
               "speaker": "Kirsti Bergstø",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Det palestinske folk trenger en verden som ser dem og ikke svikter.",
@@ -5230,7 +5230,7 @@
       "people": [
         {
           "label": "Jonas Gahr Støre",
-          "context": "speaker",
+          "context": "main-speaker",
           "role": "statsminister",
           "originPersonID": "JGS",
           "wid": "Q467948",
@@ -5249,7 +5249,7 @@
             {
               "type": "speech",
               "speaker": "Jonas Gahr Støre",
-              "speakerstatus": "statsminister",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Midt oppi dramatikken som har vært i denne toårsperioden siden 7. oktober og fram til gislene kom tilbake i går og fangeutveksling, ligger jo det store temaet om at det pågår en okkupasjon.",
@@ -5414,7 +5414,7 @@
       "people": [
         {
           "label": "Kirsti Bergstø",
-          "context": "speaker",
+          "context": "main-speaker",
           "faction": {
             "label": "SV",
             "wid": "Q261545"
@@ -5436,7 +5436,7 @@
             {
               "type": "speech",
               "speaker": "Kirsti Bergstø",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "SV lover å fortsette presset for at Norge både kan og skal gjøre mer.",
@@ -5544,7 +5544,7 @@
       "people": [
         {
           "label": "Jonas Gahr Støre",
-          "context": "speaker",
+          "context": "main-speaker",
           "role": "statsminister",
           "originPersonID": "JGS",
           "wid": "Q467948",
@@ -5563,7 +5563,7 @@
             {
               "type": "speech",
               "speaker": "Jonas Gahr Støre",
-              "speakerstatus": "statsminister",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "La meg si at jeg synes de punktene som representanten nevnte her, er veldig gode spor.",
@@ -5707,7 +5707,7 @@
       "people": [
         {
           "label": "Trygve Slagsvold Vedum",
-          "context": "speaker",
+          "context": "main-speaker",
           "faction": {
             "label": "Sp",
             "wid": "Q511311"
@@ -5729,7 +5729,7 @@
             {
               "type": "speech",
               "speaker": "Trygve Slagsvold Vedum",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Statsministeren fra Arbeiderpartiet snakker om forskjeller, at han er bekymret for økte forskjeller.",
@@ -5874,7 +5874,7 @@
       "people": [
         {
           "label": "Jonas Gahr Støre",
-          "context": "speaker",
+          "context": "main-speaker",
           "role": "statsminister",
           "originPersonID": "JGS",
           "wid": "Q467948",
@@ -5893,7 +5893,7 @@
             {
               "type": "speech",
               "speaker": "Jonas Gahr Støre",
-              "speakerstatus": "statsminister",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Jeg vil ta et litt annet perspektiv når jeg skal gi et første svar på dette, og det er at jeg tror vår organisering av sykehusene egentlig har gitt veldig gode resultater.",
@@ -6013,7 +6013,7 @@
       "people": [
         {
           "label": "Trygve Slagsvold Vedum",
-          "context": "speaker",
+          "context": "main-speaker",
           "faction": {
             "label": "Sp",
             "wid": "Q511311"
@@ -6035,7 +6035,7 @@
             {
               "type": "speech",
               "speaker": "Trygve Slagsvold Vedum",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Det er noe forunderlig med at økonomene og juristene i norsk helsevesen skal tjene bedre enn kirurgene, for de ordentlige fagfolkene i norsk helsevesen er jo de som faktisk gjør jobben.",
@@ -6192,7 +6192,7 @@
       "people": [
         {
           "label": "Jonas Gahr Støre",
-          "context": "speaker",
+          "context": "main-speaker",
           "role": "statsminister",
           "originPersonID": "JGS",
           "wid": "Q467948",
@@ -6211,7 +6211,7 @@
             {
               "type": "speech",
               "speaker": "Jonas Gahr Støre",
-              "speakerstatus": "statsminister",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Dette tror jeg vi kan snakke godt om med Senterpartiet.",
@@ -6332,7 +6332,7 @@
       "people": [
         {
           "label": "Marie Sneve Martinussen",
-          "context": "speaker",
+          "context": "main-speaker",
           "faction": {
             "label": "R",
             "wid": "Q353207"
@@ -6354,7 +6354,7 @@
             {
               "type": "speech",
               "speaker": "Marie Sneve Martinussen",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Ord er viktige, og i trontalen skriver regjeringen at man ønsker «å ta vare på små forskjeller».",
@@ -6474,7 +6474,7 @@
       "people": [
         {
           "label": "Jonas Gahr Støre",
-          "context": "speaker",
+          "context": "main-speaker",
           "role": "statsminister",
           "originPersonID": "JGS",
           "wid": "Q467948",
@@ -6493,7 +6493,7 @@
             {
               "type": "speech",
               "speaker": "Jonas Gahr Støre",
-              "speakerstatus": "statsminister",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Ja – men det ville være dårlig bruk av 1 minutt å si bare det.",
@@ -6626,7 +6626,7 @@
       "people": [
         {
           "label": "Marie Sneve Martinussen",
-          "context": "speaker",
+          "context": "main-speaker",
           "faction": {
             "label": "R",
             "wid": "Q353207"
@@ -6648,7 +6648,7 @@
             {
               "type": "speech",
               "speaker": "Marie Sneve Martinussen",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Jeg tar gjerne imot en invitasjon til Arbeiderpartiets landsmøte.",
@@ -6782,7 +6782,7 @@
       "people": [
         {
           "label": "Jonas Gahr Støre",
-          "context": "speaker",
+          "context": "main-speaker",
           "role": "statsminister",
           "originPersonID": "JGS",
           "wid": "Q467948",
@@ -6801,7 +6801,7 @@
             {
               "type": "speech",
               "speaker": "Jonas Gahr Støre",
-              "speakerstatus": "statsminister",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Ja.",
@@ -6927,7 +6927,7 @@
       "people": [
         {
           "label": "Arild Hermstad",
-          "context": "speaker",
+          "context": "main-speaker",
           "faction": {
             "label": "MDG",
             "wid": "Q1605437"
@@ -6949,7 +6949,7 @@
             {
               "type": "speech",
               "speaker": "Arild Hermstad",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Jeg vil gjerne også begynne med å gratulere statsministeren med valget og med et grønnere, bredere og bedre flertall enn noen gang i Stortinget.",
@@ -7052,7 +7052,7 @@
       "people": [
         {
           "label": "Jonas Gahr Støre",
-          "context": "speaker",
+          "context": "main-speaker",
           "role": "statsminister",
           "originPersonID": "JGS",
           "wid": "Q467948",
@@ -7071,7 +7071,7 @@
             {
               "type": "speech",
               "speaker": "Jonas Gahr Støre",
-              "speakerstatus": "statsminister",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Dette er et veldig godt og viktig spørsmål.",
@@ -7210,7 +7210,7 @@
       "people": [
         {
           "label": "Arild Hermstad",
-          "context": "speaker",
+          "context": "main-speaker",
           "faction": {
             "label": "MDG",
             "wid": "Q1605437"
@@ -7232,7 +7232,7 @@
             {
               "type": "speech",
               "speaker": "Arild Hermstad",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "I Arbeiderpartiets program står det at vi må forberede oss på at olje- og gassetterspørselen må gå ned.",
@@ -7353,7 +7353,7 @@
       "people": [
         {
           "label": "Jonas Gahr Støre",
-          "context": "speaker",
+          "context": "main-speaker",
           "role": "statsminister",
           "originPersonID": "JGS",
           "wid": "Q467948",
@@ -7372,7 +7372,7 @@
             {
               "type": "speech",
               "speaker": "Jonas Gahr Støre",
-              "speakerstatus": "statsminister",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Vi setter mål i internasjonale klimaforhandlinger, vi inngår avtaler med de ulike delene av vår økonomi, vår industri, om å kutte på de ulike områdene, og vi støtter opp om det.",
@@ -7498,7 +7498,7 @@
       "people": [
         {
           "label": "Ida Lindtveit Røse",
-          "context": "speaker",
+          "context": "main-speaker",
           "faction": {
             "label": "KrF",
             "wid": "Q511323"
@@ -7520,7 +7520,7 @@
             {
               "type": "speech",
               "speaker": "Ida Lindtveit Røse",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Jeg vil begynne med å gratulere så mye med et godt valg og fortsatt regjeringsmakt.",
@@ -7634,7 +7634,7 @@
       "people": [
         {
           "label": "Jonas Gahr Støre",
-          "context": "speaker",
+          "context": "main-speaker",
           "role": "statsminister",
           "originPersonID": "JGS",
           "wid": "Q467948",
@@ -7653,7 +7653,7 @@
             {
               "type": "speech",
               "speaker": "Jonas Gahr Støre",
-              "speakerstatus": "statsminister",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Jeg må også gratulere representanten med å bli valgt og å ha gjort et godt valg.",
@@ -7790,7 +7790,7 @@
       "people": [
         {
           "label": "Guri Melby",
-          "context": "speaker",
+          "context": "main-speaker",
           "faction": {
             "label": "V",
             "wid": "Q259954"
@@ -7812,7 +7812,7 @@
             {
               "type": "speech",
               "speaker": "Guri Melby",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Elektrifisering av sokkelen ser ut til å bli en av de store konfliktsakene i denne stortingsperioden, og allerede i dag får vi den første testen.",
@@ -7946,7 +7946,7 @@
       "people": [
         {
           "label": "Jonas Gahr Støre",
-          "context": "speaker",
+          "context": "main-speaker",
           "role": "statsminister",
           "originPersonID": "JGS",
           "wid": "Q467948",
@@ -7965,7 +7965,7 @@
             {
               "type": "speech",
               "speaker": "Jonas Gahr Støre",
-              "speakerstatus": "statsminister",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Den slutningen skal jeg ikke trekke her og nå, men jeg synes representanten holder et godt innlegg og peker på noe som er interessant etter en valgkamp.",
@@ -8217,7 +8217,7 @@
             {
               "type": "speech",
               "speaker": "Mudassar Kapur",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Norske kommuner er ryggraden i vårt velferdssamfunn.",
@@ -8483,7 +8483,7 @@
             {
               "type": "speech",
               "speaker": "Tom Staahle",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "All makt ligger i denne sal – Johan Sverdrups ord er sterke i sitt innhold og refereres ofte, men reflekterer vi over hva det faktisk betyr?",
@@ -8810,7 +8810,7 @@
             {
               "type": "speech",
               "speaker": "Kari Sofie Bjørnsen",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Høyres mål er at de som kommer etter oss, skal arve et velferdssamfunn som er bedre, sterkere og tryggere.",
@@ -9088,7 +9088,7 @@
             {
               "type": "speech",
               "speaker": "Mats Henriksen",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Regjeringens trontale vitner om en regjering uten tydelige ambisjoner for Norge.",
@@ -9396,7 +9396,7 @@
             {
               "type": "speech",
               "speaker": "Henrik Gottfries Kierulf",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "En av de viktigste oppgavene vi som folkevalgte har, er å sikre trygghet for innbyggerne i landet vårt.",
@@ -9593,7 +9593,7 @@
             {
               "type": "speech",
               "speaker": "Martin Virkesdal Jonsterhaug",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Som ung politiker har jeg alltid sett opp til mer erfarne politikere som sier at vår viktigste oppgave som folkevalgte er å overlate landet i bedre stand til neste generasjon.",
@@ -9854,7 +9854,7 @@
             {
               "type": "speech",
               "speaker": "Line Marlene Haugen",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Norske klasserom preges av uro, utenforskap og mobbing.",
@@ -10125,7 +10125,7 @@
             {
               "type": "speech",
               "speaker": "Farukh Qureshi",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Jeg har selv stått midt i det – på gata, i fengselet, på fotballbanen – i møte med ungdom som står i fare for å bli rekruttert til kriminalitet, med dem som begår kriminalitet, med dem som er ofre for deres kriminalitet, og med pårørende.",
@@ -10405,7 +10405,7 @@
             {
               "type": "speech",
               "speaker": "Jørgen H. Kristiansen",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Norge er et fantastisk land bygd på rike naturressurser, frihet, menneskeverd og nestekjærlighet, men vi har også noen utfordringer.",
@@ -10716,7 +10716,7 @@
             {
               "type": "speech",
               "speaker": "Per-Willy Amundsen",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Den 19. juni 2008 rundt kl. 22.30 fattet Stortinget et svært uklokt vedtak.",
@@ -10984,7 +10984,7 @@
             {
               "type": "speech",
               "speaker": "Anne Kristine Linnestad",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Høyres ambisjon for samferdselspolitikken er raskt og trygt fram, i hele landet, men sist helg skjedde dessverre det utenkelige igjen:",
@@ -11283,7 +11283,7 @@
             {
               "type": "speech",
               "speaker": "Hege Bae Nyholt",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Etter en intens og arbeidsom valgkamp er det igjen på tide å ta fatt på arbeidet i denne sal.",
@@ -11511,7 +11511,7 @@
             {
               "type": "speech",
               "speaker": "Julia Eikeland",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Snuoperasjonen i den norske skolen er i gang, og Arbeiderpartiet leder an.",
@@ -11772,7 +11772,7 @@
             {
               "type": "speech",
               "speaker": "Tellef Inge Mørland",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Stortingsvalget har gitt Arbeiderpartiet styrket oppslutning og mandat til å styre videre.",
@@ -12083,7 +12083,7 @@
             {
               "type": "speech",
               "speaker": "Bjørn-Kristian Svendsrud",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Vi lever i en tid da det nærmest forventes at alle skal fullføre videregående opplæring etterfulgt av fagbrev, bachelor eller mastergrad før man trer inn i arbeidslivet, men virkeligheten er ikke alltid så enkel.",
@@ -12329,7 +12329,7 @@
             {
               "type": "speech",
               "speaker": "Konstanse Marie Alvær",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Språket vårt er noe av det viktigste vi har.",
@@ -12547,7 +12547,7 @@
             {
               "type": "speech",
               "speaker": "Haagen Poppe",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Det lokale selvstyret er under press.",
@@ -12776,7 +12776,7 @@
             {
               "type": "speech",
               "speaker": "Amalie Gunnufsen",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Unge som vokser opp i dag, er den første generasjonen siden krigen som kan få det verre enn tidligere generasjoner.",
@@ -13003,7 +13003,7 @@
             {
               "type": "speech",
               "speaker": "Ingrid Liland",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Miljøpartiet De Grønne er for første gang en del av det styrende flertallet på Stortinget – et rød-grønt flertall som vi har hatt gleden av å samarbeide med lokalt flere steder med stor suksess, ikke minst for klima og natur.",
@@ -13279,7 +13279,7 @@
             {
               "type": "speech",
               "speaker": "Isak Veierud Busch",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Presidenten bor i Nord-Odal, i salen sitter representanter som bor i Oslo, i Trondheim, i Tromsø og på Senja, og jeg bor på Røros – ulike steder, men samtidig med mer til felles enn man skulle tro.",
@@ -13545,7 +13545,7 @@
             {
               "type": "speech",
               "speaker": "Julia Brännström Nordtug",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Når sykdom inntreffer – eller under gledelige omstendigheter som en fødsel – er vi prisgitt at de som går på jobb i Helse-Norge, har kunnskap og kompetanse, og at de har tid.",
@@ -13835,7 +13835,7 @@
             {
               "type": "speech",
               "speaker": "Anne Hagenborg",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Jeg er heldig.",
@@ -14101,7 +14101,7 @@
             {
               "type": "speech",
               "speaker": "Anne Kristine Linnestad",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "I sitt innlegg i debatten i går var representanten Vedum svært skeptisk til EUs direktiver og mente at internasjonale reguleringer fratar oss makt.",
@@ -14390,7 +14390,7 @@
             {
               "type": "speech",
               "speaker": "Anne Grethe Hauan",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Eg vil ta opp to saker som viser kor viktig det er at staten tek ansvar, både for offera etter urett og for dei eldre, som har bygd landet vårt.",
@@ -14757,7 +14757,7 @@
             {
               "type": "speech",
               "speaker": "Rune Bakervik",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Under høstens mange debatter var det én som særlig skilte seg ut:",
@@ -15011,7 +15011,7 @@
             {
               "type": "speech",
               "speaker": "Lill Harriet Sandaune",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Vi kan ikke fortsette som før i den norske skolen.",
@@ -15333,7 +15333,7 @@
             {
               "type": "speech",
               "speaker": "Monica Nielsen",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "For Arbeiderpartiet er sterke fellesskap, bærekraftig vekst og utvikling, trygghet og gode samfunn i hele landet viktig.",
@@ -15684,7 +15684,7 @@
             {
               "type": "speech",
               "speaker": "Tage Pettersen",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Flere har i denne debatten vært innom inn- og utflytting av offentlige arbeidsplasser, og da ofte fra større byer som Oslo til områder litt lenger unna maktsentrum.",
@@ -16028,7 +16028,7 @@
             {
               "type": "speech",
               "speaker": "Solveig Vitanza",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Arbeiderpartiet skal jobbe for trygghet og vekst i norsk næringsliv, over hele landet og for alle bransjer.",
@@ -16269,7 +16269,7 @@
             {
               "type": "speech",
               "speaker": "Vebjørn Gorseth",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "I altfor mange år har skolen blitt mer stillesittende, mer teoretisk og mer skjermbasert.",
@@ -16510,7 +16510,7 @@
             {
               "type": "speech",
               "speaker": "Rikard Spets",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Norge er et energiland.",
@@ -16792,7 +16792,7 @@
             {
               "type": "speech",
               "speaker": "Trond Giske",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "To dager etter min 23-årsdag falt Berlinmuren.",
@@ -17078,7 +17078,7 @@
             {
               "type": "speech",
               "speaker": "Kari Baadstrand Sandnes",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Jeg kommer fra vakre Lofoten – og i Lofoten er det mange som er opptatt av Veipakke Lofoten.",
@@ -17372,7 +17372,7 @@
             {
               "type": "speech",
               "speaker": "Mona Nilsen",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Barn og unge som bor i barnevernsinstitusjoner, har ofte med seg tunge erfaringer som vold, omsorgssvikt, rus eller psykisk sykdom.",
@@ -17625,7 +17625,7 @@
             {
               "type": "speech",
               "speaker": "Bent-Joacim Bentzen",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "«Det er langt dette landet.",
@@ -17916,7 +17916,7 @@
             {
               "type": "speech",
               "speaker": "Anniken Refseth",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Samferdsel ligger til grunn for det samfunnet vi skal bygge.",
@@ -18168,7 +18168,7 @@
             {
               "type": "speech",
               "speaker": "Benjamin Jakobsen",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Den 1. oktober trådte det",
@@ -18433,7 +18433,7 @@
             {
               "type": "speech",
               "speaker": "Farahnaz Bahrami",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "I dag har jeg æren av å stå her på Stortingets talerstol for første gang.",
@@ -18678,7 +18678,7 @@
             {
               "type": "speech",
               "speaker": "Rune Midtun",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Som nyvalgt medlem av kommunal- og forvaltningskomiteen og som representant for Fremskrittspartiet har jeg fått gleden av å jobbe med saker som berører folks hverdag direkte – særlig boligpolitikken.",
@@ -18902,7 +18902,7 @@
             {
               "type": "speech",
               "speaker": "Jone Blikra",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "I 1814, da mennene på Eidsvoll vedtok vår grunnlov, var det ingen fra Nordland, Troms og Finnmark til stede.",
@@ -19129,7 +19129,7 @@
             {
               "type": "speech",
               "speaker": "Kai Steffen Østensen",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "For en sørlending har denne valgkampen handlet om strømpriser for næringslivet, om lavere bompenger på ny E39, om hvordan vi utvikler lokalsykehusene våre i Flekkefjord, Kristiansand og Arendal, om kommuneøkonomi – en kommuneøkonomi som krever trygg økonomisk styring, sånn at renten fortsatt kan gå ned – og om en utenrikspolitikk som ikke rammer sørlandsk industri.",
@@ -19377,7 +19377,7 @@
             {
               "type": "speech",
               "speaker": "Alf Erik Andersen",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Jeg vil bruke dette innlegget til å varsle om to kommende representantforslag.",
@@ -19661,7 +19661,7 @@
             {
               "type": "speech",
               "speaker": "Hashim Abdi",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "I en utrygg tid der folk rundt om i hele verden ikke evner å bli enige om at himmelen er blå, er det viktigere enn noen gang at vi har noen felles virkelighetsbeskrivelser, noen grunnleggende sannheter vi kan bli enige om, og noen institusjoner vi kan stole på.",
@@ -19907,7 +19907,7 @@
             {
               "type": "speech",
               "speaker": "Liv Gustavsen",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "De siste årene har vi sett flere dypt tragiske hendelser i barnevernet.",
@@ -20212,7 +20212,7 @@
             {
               "type": "speech",
               "speaker": "Lars Rem",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Norge står overfor en stor utfordring i helsevesenet.",
@@ -20470,7 +20470,7 @@
             {
               "type": "speech",
               "speaker": "Jonas Andersen Sayed",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "I går ble endelig de gjenlevende israelske gislene løslatt av Hamas.",
@@ -20783,7 +20783,7 @@
             {
               "type": "speech",
               "speaker": "Joakim Myklebost Tangen",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Partiprogrammet til Framstegspartiet slår fast:",
@@ -20997,7 +20997,7 @@
             {
               "type": "speech",
               "speaker": "Solveig Vik",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Jeg kommer fra Haugesund, en by med en stolt industrihistorie.",
@@ -21316,7 +21316,7 @@
             {
               "type": "speech",
               "speaker": "Kari Sofie Bjørnsen",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Som representant for Akershus er det en sak jeg vet forener mange av våre innbyggere og politiske partier på tvers, nemlig kampen for å redde Oslofjorden, som dessverre befinner seg i en dyp krise.",
@@ -21656,7 +21656,7 @@
             {
               "type": "speech",
               "speaker": "Ingrid Fiskaa",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "SV har store ambisjonar for korleis me skal byggja landet, og det trengst.",
@@ -21907,7 +21907,7 @@
             {
               "type": "speech",
               "speaker": "Haagen Poppe",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Det er krig i Europa, fremmede makter truer oss og våre allierte med hybrid krigføring.",
@@ -22122,7 +22122,7 @@
             {
               "type": "speech",
               "speaker": "May Helen Hetland Ervik",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Over 80 pst. av all persontransport i Norge skjer med bil.",
@@ -22426,7 +22426,7 @@
             {
               "type": "speech",
               "speaker": "Monica Molvær",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "I ti år jobbet jeg som elev- og lærlingombud i Møre og Romsdal.",
@@ -22723,7 +22723,7 @@
             {
               "type": "speech",
               "speaker": "Erling Sande",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Mangelen på arbeidskraft kjem til å bli ei stor utfordring for oss framover, og då treng vi ein stor innsats for at ungane våre skal lykkast i skulen.",
@@ -22947,7 +22947,7 @@
             {
               "type": "speech",
               "speaker": "Frøya Skjold Sjursæther",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Elektrifisering av olje- og gassnæringen er grønnvasking og forlenger levetiden på felt som egentlig burde vært avviklet.",
@@ -23248,7 +23248,7 @@
             {
               "type": "speech",
               "speaker": "Bjørn Arild Gram",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Den sikkerhetspolitiske situasjonen er alvorlig, og vi møter en verden med stor uro og uforutsigbarhet.",
@@ -23490,7 +23490,7 @@
             {
               "type": "speech",
               "speaker": "Bengt Fasteraune",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Med Europas sikkerhet under press og krig i Ukraina blir det stadig tydeligere at Norge må ta et større ansvar for egen beredskap og forsvarsevne.",
@@ -23754,7 +23754,7 @@
             {
               "type": "speech",
               "speaker": "Finn Krokeide",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "De fire foregående årene har regjeringen konsekvent vært på etterskudd i kampen mot den eskalerende kriminalitetsspiralen.",
@@ -24053,7 +24053,7 @@
             {
               "type": "speech",
               "speaker": "Margret Hagerup",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Mange har aldri hørt om VTA og BPA, men for dem det gjelder, betyr det alt.",
@@ -24421,7 +24421,7 @@
             {
               "type": "speech",
               "speaker": "Tom Einar Karlsen",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "I lang tid har vi vært vant til at det år for år har blitt tryggere i trafikken.",
@@ -24655,7 +24655,7 @@
             {
               "type": "speech",
               "speaker": "Tor André Johnsen",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Norsk næringsliv trenger bedre og konkurransedyktige rammevilkår.",
@@ -24981,7 +24981,7 @@
             {
               "type": "speech",
               "speaker": "Henrik Gottfries Kierulf",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Landet er i praksis delt i to.",
@@ -25191,7 +25191,7 @@
             {
               "type": "speech",
               "speaker": "Frode Jacobsen",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Valg er en fin ting, særlig når velgerne bidrar med å delta og stemme ganske fornuftig, selv om det nok er noe ulike oppfatninger om akkurat det siste etter ethvert valg.",
@@ -25504,7 +25504,7 @@
             {
               "type": "speech",
               "speaker": "Dagfinn Henrik Olsen",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Regjeringens trontale var full av svulstige ord, som fellesskap, rettferdighet, klima og utredninger.",
@@ -25706,7 +25706,7 @@
             {
               "type": "speech",
               "speaker": "Bjørn Larsen",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Hele kommunesektoren står i en økonomisk skvis.",
@@ -25940,7 +25940,7 @@
             {
               "type": "speech",
               "speaker": "Marius Arion Nilsen",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Et nytt storting er samlet, nye politiske kamper skal utkjempes, nye forslag fremmes, forlik inngås og anmodningsvedtak leveres på.",
@@ -26203,7 +26203,7 @@
             {
               "type": "speech",
               "speaker": "Stig Even Lillestøl",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Regjeringens utspill om å skrinlegge Stad skipstunnel er et stort nederlag for hele kysten vår.",
@@ -26495,7 +26495,7 @@
             {
               "type": "speech",
               "speaker": "Bengt Rune Strifeldt",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Demografiutviklingen i Nord-Norge, og spesielt i Finnmark, er for nedadgående.",
@@ -26810,7 +26810,7 @@
             {
               "type": "speech",
               "speaker": "Even H. Eriksen",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "La meg aller først få gratulere presidenten med presidentvervet.",
@@ -27181,7 +27181,7 @@
             {
               "type": "speech",
               "speaker": "Mona Nilsen",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "I debatten i går kunne vi høre fra representanten Svardal Bøe at han ikke helt har skjønt innholdet i helseministerens Prosjekt X.",
@@ -27393,7 +27393,7 @@
             {
               "type": "speech",
               "speaker": "Even A. Røed",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Debatten har fram til nå vært preget av forsøk på enten å skjønnmale eller å svartmale situasjonen i samfunnet vårt, der posisjonen har hatt et ønske om å framstille både velferdstjenester og norsk økonomi best mulig, og der høyresiden har forsøkt å gjøre det motsatte.",
@@ -27677,7 +27677,7 @@
             {
               "type": "speech",
               "speaker": "Trine Lise Sundnes",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Gratulerer med valget.",
@@ -27948,7 +27948,7 @@
             {
               "type": "speech",
               "speaker": "Hilde Grande",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Europavei 10 er en norsk riksvei som går gjennom Lofoten.",
@@ -28134,7 +28134,7 @@
             {
               "type": "speech",
               "speaker": "Marius Langballe Dalin",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Det er med stor respekt og rett og slett ærefrykt eg står på denne talarstolen og begynner arbeidet mitt som stortingsrepresentant for Sogn og Fjordane.",
@@ -28448,7 +28448,7 @@
             {
               "type": "speech",
               "speaker": "Marius Langballe Dalin",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Ja, eg tek opp forslag nr. 40 på vegner av Miljøpartiet Dei Grøne.",
@@ -28621,7 +28621,7 @@
             {
               "type": "speech",
               "speaker": "Harry Valderhaug",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Norge er mulighetenes land bygd på rike naturressurser, frihet, menneskeverd og nestekjærlighet, men vi kan gjøre ting bedre på mange områder.",
@@ -28855,7 +28855,7 @@
             {
               "type": "speech",
               "speaker": "Trine Lise Sundnes",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "I en tid preget av uro og usikkerhet er det viktigere enn noensinne at Norge står tett sammen med våre europeiske venner og allierte.",
@@ -29170,7 +29170,7 @@
             {
               "type": "speech",
               "speaker": "Marius Langballe Dalin",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Eg har lyst til å snakke om takksemd og om tillit.",
@@ -29401,7 +29401,7 @@
             {
               "type": "speech",
               "speaker": "Jørgen H. Kristiansen",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Strømprisene i dette landet er dypt urettferdige.",
@@ -29622,7 +29622,7 @@
             {
               "type": "speech",
               "speaker": "Hans Edvard Askjer",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Som fotgjenger i Oslos gater registrerer jeg snublesteiner i fortauet mange steder.",
@@ -29902,7 +29902,7 @@
             {
               "type": "speech",
               "speaker": "Kristoffer Sivertsen",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Først til Kristelig Folkeparti:",
@@ -30222,7 +30222,7 @@
             {
               "type": "speech",
               "speaker": "Geir Jørgensen",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Det var interessant å høre trontalen på lørdag og de samme ordene som ble gjentatt av statsminister Jonas Gahr Støre i salen her i dag:",
@@ -30453,7 +30453,7 @@
             {
               "type": "speech",
               "speaker": "Lars Haltbrekken",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Unnskyldningen for mange hundre års undertrykkelse og fornorsking av vårt urfolk, samene, var noe av det aller viktigste det forrige stortinget gjorde.",
@@ -30739,7 +30739,7 @@
             {
               "type": "speech",
               "speaker": "Pål Morten Borgli",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Årets trontale var alt annet enn lystig og framtidsrettet.",
@@ -30978,7 +30978,7 @@
             {
               "type": "speech",
               "speaker": "Grunde Almeland",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Første klimavippepunkt er nådd.",
@@ -31248,7 +31248,7 @@
             {
               "type": "speech",
               "speaker": "Silje Hjemdal",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Som jeg varslet i mitt innlegg i går, skal jeg komme tilbake med en liten stemmeforklaring hva gjelder Fremskrittspartiets innstilling til de løse forslagene som har vært fremmet i salen på familie- og kulturfeltet.",
@@ -31447,7 +31447,7 @@
             {
               "type": "speech",
               "speaker": "Remi Sølvberg",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "La meg først gratulere med valget.",
@@ -31724,7 +31724,7 @@
             {
               "type": "speech",
               "speaker": "Erlend Wiborg",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Altfor mange politikere glemmer hvor de bor.",
@@ -32051,7 +32051,7 @@
             {
               "type": "speech",
               "speaker": "Tone Wilhelmsen Trøen",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Høyre støtter forslagene nr. 14 og 15, fra Venstre.",
@@ -32410,7 +32410,7 @@
             {
               "type": "speech",
               "speaker": "Bjørn-Kristian Svendsrud",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Det er tankevekkende at av Stortingets 169 representanter var litt under halvparten ennå ikke født da Alexander Kielland-plattformen kantret i Nordsjøen i 1980 – meg selv inkludert.",
@@ -32654,7 +32654,7 @@
             {
               "type": "speech",
               "speaker": "Morten Sandanger",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Da jeg for to år siden vasket bord, gulv og toaletter på McDonald’s i Sandnes, hadde jeg aldri trodd jeg skulle få æren av å innta denne talerstolen for å jobbe for arbeidstakeres rettigheter og for flere i jobb.",
@@ -32921,7 +32921,7 @@
             {
               "type": "speech",
               "speaker": "Erlend Svardal Bøe",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "For to år siden fattet Stortinget to tydelige vedtak.",
@@ -33279,7 +33279,7 @@
             {
               "type": "speech",
               "speaker": "Aina Stenersen",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "For Fremskrittspartiet er alle barn like mye verdt, uansett hvor de bor i landet.",
@@ -33599,7 +33599,7 @@
             {
               "type": "speech",
               "speaker": "Agnes Nærland Viljugrein",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Oppfattelsen",
@@ -33967,7 +33967,7 @@
             {
               "type": "speech",
               "speaker": "Frode Jacobsen",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Jeg håper presidenten, som alle oss andre her i salen og utenfor salen også, hadde en fin sommer.",
@@ -34284,7 +34284,7 @@
             {
               "type": "speech",
               "speaker": "Torbjørn Vereide",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "La det bli lys – og så temde vestlendingen krafta frå fossefallet og skapte lys.",
@@ -34557,7 +34557,7 @@
             {
               "type": "speech",
               "speaker": "Simen Velle",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Den forrige regjeringen med Arbeiderpartiet og Senterpartiet var usikker for mange.",
@@ -34827,7 +34827,7 @@
             {
               "type": "speech",
               "speaker": "Tonje Brenna",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Arbeiderpartiet vil stemme for forslagene nr. 5, 9, 19–23, 26 og for det justerte forslag nr. 40, fra Miljøpartiet De Grønne.",
@@ -35215,7 +35215,7 @@
             {
               "type": "speech",
               "speaker": "Jon Engen-Helgheim",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Debatten om Politihøgskolen på Majorstua har pågått i årevis.",
@@ -35475,7 +35475,7 @@
             {
               "type": "speech",
               "speaker": "Lill Harriet Sandaune",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "FrP valgte å trekke seg fra forhandlingene om et nytt barnehageforlik på Stortinget i oktober 2024, hovedsakelig på grunn av regjeringens kutt i pensjonstilskuddet til de private barnehagene.",
@@ -35772,7 +35772,7 @@
             {
               "type": "speech",
               "speaker": "Bård Hoksrud",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Fremskrittspartiet har i mange år kjempet for å få på plass",
@@ -36118,7 +36118,7 @@
             {
               "type": "speech",
               "speaker": "Geir Pollestad",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Kor mange gonger vart matberedskap nemnt i innlegget til Bård Hoksrud?",
@@ -36403,7 +36403,7 @@
             {
               "type": "speech",
               "speaker": "Geir Inge Lien",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Gjennom valkampen stod kandidatane til Arbeidarpartiet på kvar holme og kvart nes i dette landet og presenterte gladnyheiter og lovnader om pengar til både det eine, andre og tredje gode føremålet.",
@@ -36647,7 +36647,7 @@
             {
               "type": "speech",
               "speaker": "Kristian August Eilertsen",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Jeg vil redegjøre for hvordan Fremskrittspartiet stiller seg til noen av forslagene som er fremmet i debatten.",
@@ -36993,7 +36993,7 @@
             {
               "type": "speech",
               "speaker": "Ine Eriksen Søreide",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Det er både bra og viktig at vi fikk til en tverrpolitisk enighet i Stortinget om langtidsplanen for Forsvaret for halvannet år siden.",
@@ -37306,7 +37306,7 @@
             {
               "type": "speech",
               "speaker": "Trond Helleland",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Det er trivelig å kunne møtes igjen i et nytt storting, men det er en del ting som står fast.",
@@ -37757,7 +37757,7 @@
             {
               "type": "speech",
               "speaker": "Marius Langballe Dalin",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Først:",
@@ -37900,7 +37900,7 @@
             {
               "type": "speech",
               "speaker": "Kjersti Toppe",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Eg skal gjera greie for standpunkta til Senterpartiet i ein del helseforslag.",
@@ -38173,7 +38173,7 @@
             {
               "type": "speech",
               "speaker": "Frank Edvard Sve",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Det var ein representant frå Arbeidarpartiet litt tidlegare i dag som var veldig oppteken av å snakke sant, vere truverdig og ikkje minst sannferdig.",
@@ -38541,7 +38541,7 @@
             {
               "type": "speech",
               "speaker": "Erlend Larsen",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Vi har nettopp vært gjennom ekstremværet Amy, som sørget for store nedbørsmengder, oversvømmelser og kraftig vind.",
@@ -38910,7 +38910,7 @@
             {
               "type": "speech",
               "speaker": "Erlend Svardal Bøe",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Jeg skal bare gi en kort stemmeforklaring når det gjelder forslag nr. 40, der ordlyden er endret til følgende:",
@@ -39036,7 +39036,7 @@
             {
               "type": "speech",
               "speaker": "Kirsti Bergstø",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Jeg vil takke for to dager med debatt.",
@@ -39258,7 +39258,7 @@
             {
               "type": "speech",
               "speaker": "Arild Hermstad",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Takk for en god debatt og en god start på denne stortingssesjonen.",
@@ -39580,7 +39580,7 @@
             {
               "type": "speech",
               "speaker": "Sofie Marhaug",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Takk for to gode dager med debatt.",
@@ -39886,7 +39886,7 @@
             {
               "type": "speech",
               "speaker": "Geir Pollestad",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Eg vil takka for debatten.",
@@ -40188,7 +40188,7 @@
             {
               "type": "speech",
               "speaker": "Tonje Brenna",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Takk for en god og lang debatt om det store og om det lille, om det fjerne og om det helt nære.",
@@ -40486,7 +40486,7 @@
             {
               "type": "speech",
               "speaker": "Sylvi Listhaug",
-              "speakerstatus": null,
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Takk for en god debatt.",
@@ -40751,7 +40751,7 @@
             {
               "type": "speech",
               "speaker": "Jonas Gahr Støre",
-              "speakerstatus": "statsminister",
+              "speakerstatus": "main-speaker",
               "sentences": [
                 {
                   "text": "Det har vært årets første debatt, og regjeringen har vært bredt til stede og deltatt og lyttet til den.",
