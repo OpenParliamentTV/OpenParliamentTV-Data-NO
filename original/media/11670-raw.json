@@ -1,0 +1,219 @@
+{
+  "moteid": 11670,
+  "parts": [
+    {
+      "moteid": 11670,
+      "delnr": 1,
+      "qbvid": "dbctdcn5tutc73e71k50",
+      "mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/db/dbctddv5tutc73e71k5g/dbcta1v5tutc73e71k4g_1080p.mp4",
+      "audio_mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/db/dbctddv5tutc73e71k5g/dbcta1v5tutc73e71k4g_240p.mp4",
+      "hls_url": "https://httpcache0-90415-cacheod0.dna.contentdelivery.net/90415-cacheod0/_definst_/smil:assets/db/dbctddv5tutc73e71k5g/dbcta1v5tutc73e71k4g_240p/playlist.m3u8",
+      "tc_in_utc": "2026-10-22T07:58:01+00:00",
+      "tc_out_utc": "2026-10-22T09:12:05+00:00",
+      "duration_seconds": 4444.0,
+      "thumbnail_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/db/dbctddv5tutc73e71k5g/dbcta1v5tutc73e71k4g_1080p_5.jpeg",
+      "chapters": [
+        {
+          "start": 0.0,
+          "end": 124.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 124.0,
+          "end": 155.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 155.0,
+          "end": 184.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 184.0,
+          "end": 219.0,
+          "name": "Remi Sølvberg (R)"
+        },
+        {
+          "start": 219.0,
+          "end": 233.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 233.0,
+          "end": 247.0,
+          "name": "Tom Staahle (FrP)"
+        },
+        {
+          "start": 247.0,
+          "end": 263.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 263.0,
+          "end": 280.0,
+          "name": "Tone Wilhelmsen Trøen (H)"
+        },
+        {
+          "start": 280.0,
+          "end": 300.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 300.0,
+          "end": 336.0,
+          "name": "Terje Kollbotn (R)"
+        },
+        {
+          "start": 336.0,
+          "end": 352.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 352.0,
+          "end": 380.0,
+          "name": "Bård Ludvig Thorheim (H)"
+        },
+        {
+          "start": 380.0,
+          "end": 397.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 397.0,
+          "end": 410.0,
+          "name": "Ingrid Liland (MDG)"
+        },
+        {
+          "start": 410.0,
+          "end": 446.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 446.0,
+          "end": 492.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 492.0,
+          "end": 791.0,
+          "name": "Tom Einar Karlsen (A)"
+        },
+        {
+          "start": 791.0,
+          "end": 1102.0,
+          "name": "Helge André Njåstad (FrP)"
+        },
+        {
+          "start": 1102.0,
+          "end": 1415.0,
+          "name": "Tage Pettersen (H)"
+        },
+        {
+          "start": 1415.0,
+          "end": 1717.0,
+          "name": "Mirell Høyer-Berntsen (SV)"
+        },
+        {
+          "start": 1717.0,
+          "end": 1885.0,
+          "name": "Geir Inge Lien (Sp)"
+        },
+        {
+          "start": 1885.0,
+          "end": 2054.0,
+          "name": "Hans Edvard Askjer (KrF)"
+        },
+        {
+          "start": 2054.0,
+          "end": 2347.0,
+          "name": "Statsråd Åsmund Aukrust"
+        },
+        {
+          "start": 2347.0,
+          "end": 2360.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 2360.0,
+          "end": 2396.0,
+          "name": "Helge André Njåstad (FrP)"
+        },
+        {
+          "start": 2396.0,
+          "end": 2468.0,
+          "name": "Statsråd Åsmund Aukrust"
+        },
+        {
+          "start": 2468.0,
+          "end": 2531.0,
+          "name": "Tage Pettersen (H)"
+        },
+        {
+          "start": 2531.0,
+          "end": 2597.0,
+          "name": "Statsråd Åsmund Aukrust"
+        },
+        {
+          "start": 2597.0,
+          "end": 2647.0,
+          "name": "Tage Pettersen (H)"
+        },
+        {
+          "start": 2647.0,
+          "end": 2740.0,
+          "name": "Statsråd Åsmund Aukrust"
+        },
+        {
+          "start": 2740.0,
+          "end": 2794.0,
+          "name": "Hans Edvard Askjer (KrF)"
+        },
+        {
+          "start": 2794.0,
+          "end": 2860.0,
+          "name": "Statsråd Åsmund Aukrust"
+        },
+        {
+          "start": 2860.0,
+          "end": 2904.0,
+          "name": "Hans Edvard Askjer (KrF)"
+        },
+        {
+          "start": 2904.0,
+          "end": 2961.0,
+          "name": "Statsråd Åsmund Aukrust"
+        },
+        {
+          "start": 2961.0,
+          "end": 2988.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 2988.0,
+          "end": 3287.0,
+          "name": "Kristine Løfshus Solli (A)"
+        },
+        {
+          "start": 3287.0,
+          "end": 3557.0,
+          "name": "Kari Baadstrand Sandnes (A)"
+        },
+        {
+          "start": 3557.0,
+          "end": 3753.0,
+          "name": "Monica Molvær (H)"
+        },
+        {
+          "start": 3753.0,
+          "end": 4326.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 4326.0,
+          "end": 4444.0,
+          "name": "Presidenten"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,972 @@
+{
+  "moteid": 11642,
+  "parts": [
+    {
+      "moteid": 11642,
+      "delnr": 1,
+      "qbvid": "d8g02vf5tutc73eeqp00",
+      "mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/d8/d8g030f5tutc73eeqp0g/d8g00s75tutc73eeqovg_1080p.mp4",
+      "audio_mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/d8/d8g030f5tutc73eeqp0g/d8g00s75tutc73eeqovg_240p.mp4",
+      "hls_url": "https://httpcache0-90415-cacheod0.dna.contentdelivery.net/90415-cacheod0/_definst_/smil:assets/d8/d8g030f5tutc73eeqp0g/d8g00s75tutc73eeqovg_240p/playlist.m3u8",
+      "tc_in_utc": "2026-06-03T07:58:00+00:00",
+      "tc_out_utc": "2026-06-03T08:43:13+00:00",
+      "duration_seconds": 2713.0,
+      "thumbnail_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/d8/d8g030f5tutc73eeqp0g/d8g00s75tutc73eeqovg_1080p_5.jpeg",
+      "chapters": [
+        {
+          "start": 0.0,
+          "end": 125.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 125.0,
+          "end": 340.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 340.0,
+          "end": 373.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 373.0,
+          "end": 451.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 451.0,
+          "end": 478.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 478.0,
+          "end": 637.0,
+          "name": "Isak Veierud Busch (A)"
+        },
+        {
+          "start": 637.0,
+          "end": 827.0,
+          "name": "Erlend Wiborg (FrP)"
+        },
+        {
+          "start": 827.0,
+          "end": 1019.0,
+          "name": "Mudassar Kapur (H)"
+        },
+        {
+          "start": 1019.0,
+          "end": 1182.0,
+          "name": "Bengt Fasteraune (Sp)"
+        },
+        {
+          "start": 1182.0,
+          "end": 1359.0,
+          "name": "Anne Lise Gjerstad Fredlund (SV)"
+        },
+        {
+          "start": 1359.0,
+          "end": 1377.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 1377.0,
+          "end": 1527.0,
+          "name": "Hanne Beate Stenvaag (R)"
+        },
+        {
+          "start": 1527.0,
+          "end": 1707.0,
+          "name": "Jonas Andersen Sayed (KrF)"
+        },
+        {
+          "start": 1707.0,
+          "end": 1724.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 1724.0,
+          "end": 1886.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 1886.0,
+          "end": 1895.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 1895.0,
+          "end": 1930.0,
+          "name": "Erlend Wiborg (FrP)"
+        },
+        {
+          "start": 1930.0,
+          "end": 1965.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 1965.0,
+          "end": 1998.0,
+          "name": "Erlend Wiborg (FrP)"
+        },
+        {
+          "start": 1998.0,
+          "end": 2041.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 2041.0,
+          "end": 2084.0,
+          "name": "Erlend Wiborg (FrP)"
+        },
+        {
+          "start": 2084.0,
+          "end": 2129.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 2129.0,
+          "end": 2166.0,
+          "name": "Hanne Beate Stenvaag (R)"
+        },
+        {
+          "start": 2166.0,
+          "end": 2222.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 2222.0,
+          "end": 2236.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 2236.0,
+          "end": 2434.0,
+          "name": "Erlend Wiborg (FrP)"
+        },
+        {
+          "start": 2434.0,
+          "end": 2582.0,
+          "name": "Hanne Beate Stenvaag (R)"
+        },
+        {
+          "start": 2582.0,
+          "end": 2643.0,
+          "name": "Anne Lise Gjerstad Fredlund (SV)"
+        },
+        {
+          "start": 2643.0,
+          "end": 2653.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 2653.0,
+          "end": 2713.0,
+          "name": "Erlend Wiborg (FrP)"
+        }
+      ]
+    },
+    {
+      "moteid": 11642,
+      "delnr": 2,
+      "qbvid": "d8g2a1n5tutc73eeqpc0",
+      "mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/d8/d8g2a2n5tutc73eeqpcg/d8g20hf5tutc73eeqpbg_1080p.mp4",
+      "audio_mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/d8/d8g2a2n5tutc73eeqpcg/d8g20hf5tutc73eeqpbg_240p.mp4",
+      "hls_url": "https://httpcache0-90415-cacheod0.dna.contentdelivery.net/90415-cacheod0/_definst_/smil:assets/d8/d8g2a2n5tutc73eeqpcg/d8g20hf5tutc73eeqpbg_240p/playlist.m3u8",
+      "tc_in_utc": "2026-06-03T08:43:26+00:00",
+      "tc_out_utc": "2026-06-03T12:31:46+00:00",
+      "duration_seconds": 13700.0,
+      "thumbnail_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/d8/d8g2a2n5tutc73eeqpcg/d8g20hf5tutc73eeqpbg_1080p_5.jpeg",
+      "chapters": [
+        {
+          "start": 0.0,
+          "end": 31.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 31.0,
+          "end": 66.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 66.0,
+          "end": 220.0,
+          "name": "Kristine Løfshus Solli (A)"
+        },
+        {
+          "start": 220.0,
+          "end": 280.0,
+          "name": "Jon Engen-Helgheim (FrP)"
+        },
+        {
+          "start": 280.0,
+          "end": 362.0,
+          "name": "Mahmoud Farahmand (H)"
+        },
+        {
+          "start": 362.0,
+          "end": 492.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 492.0,
+          "end": 542.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 542.0,
+          "end": 576.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 576.0,
+          "end": 711.0,
+          "name": "Farukh Qureshi (A)"
+        },
+        {
+          "start": 711.0,
+          "end": 887.0,
+          "name": "Anette Carnarius Elseth (FrP)"
+        },
+        {
+          "start": 887.0,
+          "end": 1004.0,
+          "name": "Mahmoud Farahmand (H)"
+        },
+        {
+          "start": 1004.0,
+          "end": 1197.0,
+          "name": "Mirell Høyer-Berntsen (SV)"
+        },
+        {
+          "start": 1197.0,
+          "end": 1300.0,
+          "name": "Hans Edvard Askjer (KrF)"
+        },
+        {
+          "start": 1300.0,
+          "end": 1481.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 1481.0,
+          "end": 1493.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 1493.0,
+          "end": 1541.0,
+          "name": "Anette Carnarius Elseth (FrP)"
+        },
+        {
+          "start": 1541.0,
+          "end": 1603.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 1603.0,
+          "end": 1654.0,
+          "name": "Anette Carnarius Elseth (FrP)"
+        },
+        {
+          "start": 1654.0,
+          "end": 1701.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 1701.0,
+          "end": 1745.0,
+          "name": "Mahmoud Farahmand (H)"
+        },
+        {
+          "start": 1745.0,
+          "end": 1806.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 1806.0,
+          "end": 1853.0,
+          "name": "Mahmoud Farahmand (H)"
+        },
+        {
+          "start": 1853.0,
+          "end": 1926.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 1926.0,
+          "end": 1976.0,
+          "name": "Mirell Høyer-Berntsen (SV)"
+        },
+        {
+          "start": 1976.0,
+          "end": 2007.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 2007.0,
+          "end": 2037.0,
+          "name": "Mirell Høyer-Berntsen (SV)"
+        },
+        {
+          "start": 2037.0,
+          "end": 2084.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 2084.0,
+          "end": 2102.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 2102.0,
+          "end": 2131.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 2131.0,
+          "end": 2314.0,
+          "name": "Stian Storbukås (FrP)"
+        },
+        {
+          "start": 2314.0,
+          "end": 2335.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 2335.0,
+          "end": 2508.0,
+          "name": "Farukh Qureshi (A)"
+        },
+        {
+          "start": 2508.0,
+          "end": 2659.0,
+          "name": "Mari Holm Lønseth (H)"
+        },
+        {
+          "start": 2659.0,
+          "end": 2674.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 2674.0,
+          "end": 2857.0,
+          "name": "Mirell Høyer-Berntsen (SV)"
+        },
+        {
+          "start": 2857.0,
+          "end": 3046.0,
+          "name": "Bent-Joacim Bentzen (Sp)"
+        },
+        {
+          "start": 3046.0,
+          "end": 3206.0,
+          "name": "Hans Edvard Askjer (KrF)"
+        },
+        {
+          "start": 3206.0,
+          "end": 3333.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 3333.0,
+          "end": 3345.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 3345.0,
+          "end": 3460.0,
+          "name": "Erik Hager (A)"
+        },
+        {
+          "start": 3460.0,
+          "end": 3480.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 3480.0,
+          "end": 3512.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 3512.0,
+          "end": 3599.0,
+          "name": "June Trengereid Gruer (A)"
+        },
+        {
+          "start": 3599.0,
+          "end": 3692.0,
+          "name": "Finn Krokeide (FrP)"
+        },
+        {
+          "start": 3692.0,
+          "end": 3772.0,
+          "name": "Hans Edvard Askjer (KrF)"
+        },
+        {
+          "start": 3772.0,
+          "end": 3890.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 3890.0,
+          "end": 3915.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 3915.0,
+          "end": 3948.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 3948.0,
+          "end": 4144.0,
+          "name": "Jon Engen-Helgheim (FrP)"
+        },
+        {
+          "start": 4144.0,
+          "end": 4315.0,
+          "name": "June Trengereid Gruer (A)"
+        },
+        {
+          "start": 4315.0,
+          "end": 4470.0,
+          "name": "Mahmoud Farahmand (H)"
+        },
+        {
+          "start": 4470.0,
+          "end": 4653.0,
+          "name": "Mirell Høyer-Berntsen (SV)"
+        },
+        {
+          "start": 4653.0,
+          "end": 4772.0,
+          "name": "Bent-Joacim Bentzen (Sp)"
+        },
+        {
+          "start": 4772.0,
+          "end": 4959.0,
+          "name": "Julie E. Stuestøl (MDG)"
+        },
+        {
+          "start": 4959.0,
+          "end": 4976.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 4976.0,
+          "end": 5137.0,
+          "name": "Hans Edvard Askjer (KrF)"
+        },
+        {
+          "start": 5137.0,
+          "end": 5301.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 5301.0,
+          "end": 5313.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 5313.0,
+          "end": 5357.0,
+          "name": "Jon Engen-Helgheim (FrP)"
+        },
+        {
+          "start": 5357.0,
+          "end": 5423.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 5423.0,
+          "end": 5480.0,
+          "name": "Jon Engen-Helgheim (FrP)"
+        },
+        {
+          "start": 5480.0,
+          "end": 5544.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 5544.0,
+          "end": 5605.0,
+          "name": "Jon Engen-Helgheim (FrP)"
+        },
+        {
+          "start": 5605.0,
+          "end": 5668.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 5668.0,
+          "end": 5705.0,
+          "name": "Mirell Høyer-Berntsen (SV)"
+        },
+        {
+          "start": 5705.0,
+          "end": 5768.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 5768.0,
+          "end": 5807.0,
+          "name": "Mirell Høyer-Berntsen (SV)"
+        },
+        {
+          "start": 5807.0,
+          "end": 5884.0,
+          "name": "Astri Aas-Hansen (A)"
+        },
+        {
+          "start": 5884.0,
+          "end": 5938.0,
+          "name": "Julie E. Stuestøl (MDG)"
+        },
+        {
+          "start": 5938.0,
+          "end": 5989.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 5989.0,
+          "end": 6036.0,
+          "name": "Julie E. Stuestøl (MDG)"
+        },
+        {
+          "start": 6036.0,
+          "end": 6097.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 6097.0,
+          "end": 6158.0,
+          "name": "Julie E. Stuestøl (MDG)"
+        },
+        {
+          "start": 6158.0,
+          "end": 6200.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 6200.0,
+          "end": 6221.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 6221.0,
+          "end": 6395.0,
+          "name": "Finn Krokeide (FrP)"
+        },
+        {
+          "start": 6395.0,
+          "end": 6566.0,
+          "name": "Mahmoud Farahmand (H)"
+        },
+        {
+          "start": 6566.0,
+          "end": 6756.0,
+          "name": "Jon Engen-Helgheim (FrP)"
+        },
+        {
+          "start": 6756.0,
+          "end": 6915.0,
+          "name": "Anette Carnarius Elseth (FrP)"
+        },
+        {
+          "start": 6915.0,
+          "end": 7087.0,
+          "name": "Mirell Høyer-Berntsen (SV)"
+        },
+        {
+          "start": 7087.0,
+          "end": 7227.0,
+          "name": "Farukh Qureshi (A)"
+        },
+        {
+          "start": 7227.0,
+          "end": 7359.0,
+          "name": "Julie E. Stuestøl (MDG)"
+        },
+        {
+          "start": 7359.0,
+          "end": 7382.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 7382.0,
+          "end": 7418.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 7418.0,
+          "end": 7598.0,
+          "name": "Mona Nilsen (A)"
+        },
+        {
+          "start": 7598.0,
+          "end": 7769.0,
+          "name": "Stig Atle Abrahamsen (FrP)"
+        },
+        {
+          "start": 7769.0,
+          "end": 7792.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 7792.0,
+          "end": 7940.0,
+          "name": "Nina Dons-Hansen (H)"
+        },
+        {
+          "start": 7940.0,
+          "end": 8017.0,
+          "name": "Kathy Lie (SV)"
+        },
+        {
+          "start": 8017.0,
+          "end": 8188.0,
+          "name": "Kjersti Toppe (Sp)"
+        },
+        {
+          "start": 8188.0,
+          "end": 8351.0,
+          "name": "Seher Aydar (R)"
+        },
+        {
+          "start": 8351.0,
+          "end": 8476.0,
+          "name": "Marius Langballe Dalin (MDG)"
+        },
+        {
+          "start": 8476.0,
+          "end": 8620.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 8620.0,
+          "end": 8636.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 8636.0,
+          "end": 8656.0,
+          "name": "Stig Atle Abrahamsen (FrP)"
+        },
+        {
+          "start": 8656.0,
+          "end": 8719.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 8719.0,
+          "end": 8778.0,
+          "name": "Stig Atle Abrahamsen (FrP)"
+        },
+        {
+          "start": 8778.0,
+          "end": 8842.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 8842.0,
+          "end": 8899.0,
+          "name": "Stig Atle Abrahamsen (FrP)"
+        },
+        {
+          "start": 8899.0,
+          "end": 8964.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 8964.0,
+          "end": 9017.0,
+          "name": "Stig Atle Abrahamsen (FrP)"
+        },
+        {
+          "start": 9017.0,
+          "end": 9080.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 9080.0,
+          "end": 9101.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 9101.0,
+          "end": 9267.0,
+          "name": "Seher Aydar (R)"
+        },
+        {
+          "start": 9267.0,
+          "end": 9329.0,
+          "name": "Stig Atle Abrahamsen (FrP)"
+        },
+        {
+          "start": 9329.0,
+          "end": 9345.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 9345.0,
+          "end": 9375.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 9375.0,
+          "end": 9549.0,
+          "name": "Stig Atle Abrahamsen (FrP)"
+        },
+        {
+          "start": 9549.0,
+          "end": 9741.0,
+          "name": "Kai Steffen Østensen (A)"
+        },
+        {
+          "start": 9741.0,
+          "end": 9908.0,
+          "name": "Margret Hagerup (H)"
+        },
+        {
+          "start": 9908.0,
+          "end": 10096.0,
+          "name": "Kathy Lie (SV)"
+        },
+        {
+          "start": 10096.0,
+          "end": 10289.0,
+          "name": "Kjersti Toppe (Sp)"
+        },
+        {
+          "start": 10289.0,
+          "end": 10442.0,
+          "name": "Seher Aydar (R)"
+        },
+        {
+          "start": 10442.0,
+          "end": 10560.0,
+          "name": "Marius Langballe Dalin (MDG)"
+        },
+        {
+          "start": 10560.0,
+          "end": 10720.0,
+          "name": "Jorunn Gleditsch Lossius (KrF)"
+        },
+        {
+          "start": 10720.0,
+          "end": 10818.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 10818.0,
+          "end": 10858.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 10858.0,
+          "end": 10905.0,
+          "name": "Stig Atle Abrahamsen (FrP)"
+        },
+        {
+          "start": 10905.0,
+          "end": 10969.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 10969.0,
+          "end": 11035.0,
+          "name": "Stig Atle Abrahamsen (FrP)"
+        },
+        {
+          "start": 11035.0,
+          "end": 11089.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 11089.0,
+          "end": 11140.0,
+          "name": "Stig Atle Abrahamsen (FrP)"
+        },
+        {
+          "start": 11140.0,
+          "end": 11217.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 11217.0,
+          "end": 11278.0,
+          "name": "Kjersti Toppe (Sp)"
+        },
+        {
+          "start": 11278.0,
+          "end": 11343.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 11343.0,
+          "end": 11407.0,
+          "name": "Kjersti Toppe (Sp)"
+        },
+        {
+          "start": 11407.0,
+          "end": 11449.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 11449.0,
+          "end": 11506.0,
+          "name": "Kjersti Toppe (Sp)"
+        },
+        {
+          "start": 11506.0,
+          "end": 11569.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 11569.0,
+          "end": 11585.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 11585.0,
+          "end": 11787.0,
+          "name": "Farahnaz Bahrami (A)"
+        },
+        {
+          "start": 11787.0,
+          "end": 11967.0,
+          "name": "Alf Erik Andersen (FrP)"
+        },
+        {
+          "start": 11967.0,
+          "end": 12121.0,
+          "name": "Eivind Yrjan Stamnes (A)"
+        },
+        {
+          "start": 12121.0,
+          "end": 12128.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 12128.0,
+          "end": 12176.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 12176.0,
+          "end": 12210.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 12210.0,
+          "end": 12414.0,
+          "name": "Kjersti Toppe (Sp)"
+        },
+        {
+          "start": 12414.0,
+          "end": 12560.0,
+          "name": "Ragnhild Bergheim (A)"
+        },
+        {
+          "start": 12560.0,
+          "end": 12719.0,
+          "name": "Kristian August Eilertsen (FrP)"
+        },
+        {
+          "start": 12719.0,
+          "end": 12896.0,
+          "name": "Seher Aydar (R)"
+        },
+        {
+          "start": 12896.0,
+          "end": 13072.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 13072.0,
+          "end": 13087.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 13087.0,
+          "end": 13123.0,
+          "name": "Kristian August Eilertsen (FrP)"
+        },
+        {
+          "start": 13123.0,
+          "end": 13188.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 13188.0,
+          "end": 13236.0,
+          "name": "Kristian August Eilertsen (FrP)"
+        },
+        {
+          "start": 13236.0,
+          "end": 13301.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 13301.0,
+          "end": 13351.0,
+          "name": "Kristian August Eilertsen (FrP)"
+        },
+        {
+          "start": 13351.0,
+          "end": 13414.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 13414.0,
+          "end": 13422.0,
+          "name": "Kristian August Eilertsen (FrP)"
+        },
+        {
+          "start": 13422.0,
+          "end": 13495.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 13495.0,
+          "end": 13546.0,
+          "name": "Seher Aydar (R)"
+        },
+        {
+          "start": 13546.0,
+          "end": 13612.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 13612.0,
+          "end": 13700.0,
+          "name": "Presidenten"
+        }
+      ]
+    },
+    {
+      "moteid": 11642,
+      "delnr": 3,
+      "qbvid": "d8g2m175tutc73eeqpi0",
+      "mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/d8/d8g2m2f5tutc73eeqpig/d8g2l6n5tutc73eeqphg_1080p.mp4",
+      "audio_mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/d8/d8g2m2f5tutc73eeqpig/d8g2l6n5tutc73eeqphg_240p.mp4",
+      "hls_url": "https://httpcache0-90415-cacheod0.dna.contentdelivery.net/90415-cacheod0/_definst_/smil:assets/d8/d8g2m2f5tutc73eeqpig/d8g2l6n5tutc73eeqphg_240p/playlist.m3u8",
+      "tc_in_utc": "2026-06-03T12:58:02+00:00",
+      "tc_out_utc": "2026-06-03T13:20:24+00:00",
+      "duration_seconds": 1342.0,
+      "thumbnail_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/d8/d8g2m2f5tutc73eeqpig/d8g2l6n5tutc73eeqphg_1080p_5.jpeg",
+      "chapters": [
+        {
+          "start": 0.0,
+          "end": 279.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 279.0,
+          "end": 1342.0,
+          "name": "Presidenten"
+        }
+      ]
+    }
+  ]
+}

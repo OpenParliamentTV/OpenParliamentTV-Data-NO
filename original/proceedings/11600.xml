@@ -1,15 +1,15 @@
-<Forhandlinger Status="Kvalitetssikret">
+<Forhandlinger Status="Komplett">
   <Mote moteID="11600">
     <Startseksjon>
       <Motestart>
         <Tittel>Møte torsdag den 19. mars 2026 kl. 10</Tittel>
-        <President Id="i1003099" personID="LISSEL">
+        <President Id="i1003313" personID="LISSEL">
           <A>President: <Uth Type="Sperret">Lise
 Selnes</Uth></A>
         </President>
         <Dagsorden>
           <Tittel>Dagsorden <DagsordenNR>(nr. 57):</DagsordenNR></Tittel>
-          <DagsordenSak Id="i1003101">
+          <DagsordenSak Id="i1003315">
             <Liste Type="Dagsorden">
               <Pkt>
                 <A> 1.	Stortingets
@@ -56,12 +56,18 @@ tre permisjonssøknader:</A>
           <Liste Type="Strek">
             <Pkt>
               <A>fra Høyres stortingsgruppe om permisjon
-for representanten Erna Solberg i tiden fra og med 24. til og med 26. mars,
-fra Kristelig Folkepartis stortingsgruppe om permisjon for representanten
-Jonas Andersen Sayed i tiden fra og med 25. til og med 29. mars,
-og fra Arbeiderpartiets stortingsgruppe om permisjon for representanten Trond
-Giske i tiden fra og med 24. til og med 27. mars – alle for å delta
-i WTOs minister- og parlamentarikerkonferanse i Yaoundé, Kamerun</A>
+for representanten Erna Solberg i tiden fra og med 24. til og med 26. mars</A>
+            </Pkt>
+            <Pkt>
+              <A>fra Kristelig Folkepartis stortingsgruppe om permisjon for
+representanten Jonas Andersen Sayed i tiden fra og med 25. til og
+med 29. mars</A>
+            </Pkt>
+            <Pkt>
+              <A>fra Arbeiderpartiets stortingsgruppe om permisjon for representanten
+Trond Giske i tiden fra og med 24. til og med 27. mars 
+– alle for å delta i WTOs minister- og parlamentarikerkonferanse
+i Yaoundé, Kamerun</A>
             </Pkt>
           </Liste>
           <A Type="Blanklinjeminnrykk">Etter forslag fra presidenten ble
@@ -73,9 +79,9 @@ enstemmig besluttet:</A>
             <Pkt>
               <A>Følgende vararepresentanter innkalles for å møte i permisjonstiden
 slik:</A>
-              <A>For Hordaland: Liv Kari Eskeland 24.–26. mars</A>
-              <A>For Rogaland: Hadle Rasmus Bjuland 25.–26. mars</A>
-              <A>For Sør-Trøndelag: Kjell-Arve Aspaas 24.–26. mars</A>
+              <A>For Hordaland: Liv Kari Eskeland 24.–26. mars</A>
+              <A>For Rogaland: Hadle Rasmus Bjuland 25.–26. mars</A>
+              <A>For Sør-Trøndelag: Kjell-Arve Aspaas 24.–26. mars</A>
             </Pkt>
           </Liste>
         </Presinnlegg>
@@ -84,7 +90,7 @@ slik:</A>
             <Navn>Presidenten [10:00:49]:</Navn> Representanten
 Geir Pollestad vil framsette tre representantforslag.</A>
         </Presinnlegg>
-        <Hovedinnlegg Id="i1003103">
+        <Hovedinnlegg Id="i1003317">
           <A>
             <Navn personID="GP">
 Geir Pollestad (Sp) [10:01:16]:</Navn> På vegner av stortingsrepresentanten
@@ -102,7 +108,7 @@ av ny gjødselforskrift.</A>
             <Navn>Presidenten [10:01:48]:</Navn> Representanten
 Hans Andreas Limi vil framsette et representantforslag.</A>
         </Presinnlegg>
-        <Hovedinnlegg Id="i1003105">
+        <Hovedinnlegg Id="i1003319">
           <A>
             <Navn personID="HLI">
 Hans Andreas Limi (FrP) [10:02:07]:</Navn> På vegne av Fremskrittsparti-representantene
@@ -115,7 +121,7 @@ representantforslag om bostedsfritak for bompenger på Sollihøgda.</A>
             <Navn>Presidenten [10:02:24]:</Navn> Representanten
 Liv Gustavsen vil framsette et representantforslag.</A>
         </Presinnlegg>
-        <Hovedinnlegg Id="i1003107">
+        <Hovedinnlegg Id="i1003321">
           <A>
             <Navn personID="LIG">
 Liv Gustavsen (FrP) [10:02:42]:</Navn> På vegne av Fremskrittsparti-representantene
@@ -128,7 +134,7 @@ på det sentrale Østlandet. </A>
             <Navn>Presidenten [10:02:52]:</Navn> Representanten
 Jorunn Gleditsch Lossius vil framsette et representantforslag.</A>
         </Presinnlegg>
-        <Hovedinnlegg Id="i1003109">
+        <Hovedinnlegg Id="i1003323">
           <A>
             <Navn personID="JLO">
 Jorunn Gleditsch Lossius (KrF) [10:03:14]:</Navn> På vegne av representantene
@@ -141,7 +147,7 @@ porno på nettet.</A>
             <Navn>Presidenten [10:03:30]:</Navn> Representanten
 Jonas Andersen Sayed vil framsette to representantforslag.</A>
         </Presinnlegg>
-        <Hovedinnlegg Id="i1003111">
+        <Hovedinnlegg Id="i1003325">
           <A>
             <Navn personID="JONSAY">
 Jonas Andersen Sayed (KrF) [10:03:44]:</Navn> På vegne av representantene
@@ -150,14 +156,14 @@ et representantforslag om å bruke apotekenes kompetanse bedre for
 å styrke helse- og omsorgsvesenet.</A>
           <A Type="Minnrykk">På vegne av representantene Jørgen H. Kristiansen,
 Hans Edvard Askjer og meg selv vil jeg fremme et representantforslag
-om avgiftskutt i lys av de høye drivstoffutgiftene.</A>
+om avgiftskutt i lys av de høye drivstoffprisene.</A>
         </Hovedinnlegg>
         <Presinnlegg>
           <A>
             <Navn>Presidenten [10:04:10]:</Navn> Representanten
 Une Bastholm vil framsette to representantforslag.</A>
         </Presinnlegg>
-        <Hovedinnlegg Id="i1003113">
+        <Hovedinnlegg Id="i1003327">
           <A>
             <Navn personID="UAB">
 Une Bastholm (MDG) [10:04:23]:</Navn> På vegne av representantene
@@ -173,7 +179,7 @@ om strengere straff for dyrekriminalitet.</A>
             <Navn>Presidenten [10:04:49]:</Navn> Representanten
 Bård Ludvig Thorheim vil framsette to representantforslag.</A>
         </Presinnlegg>
-        <Hovedinnlegg Id="i1003115">
+        <Hovedinnlegg Id="i1003329">
           <A>
             <Navn personID="BRDTHO">
 Bård Ludvig Thorheim (H) [10:05:06]:</Navn> På vegne av representantene
@@ -189,7 +195,7 @@ Norge.</A>
             <Navn>Presidenten [10:05:30]:</Navn> Representanten
 Lars Haltbrekken vil framsette to representantforslag.</A>
         </Presinnlegg>
-        <Hovedinnlegg Id="i1003117">
+        <Hovedinnlegg Id="i1003331">
           <A>
             <Navn personID="LAHA">
 Lars Haltbrekken (SV) [10:05:48]:</Navn> På vegne av stortingsrepresentantene
@@ -205,20 +211,20 @@ framsette et representantforslag om nullutslippshurtigbåter.</A>
             <Navn>Presidenten [10:06:15]:</Navn> Representanten
 Erling Sande vil framsette et representantforslag.</A>
         </Presinnlegg>
-        <Hovedinnlegg Id="i1003119">
+        <Hovedinnlegg Id="i1003333">
           <A>
             <Navn personID="ESAN">
 Erling Sande (Sp) [10:06:29]:</Navn> På vegner av representantane
 Bengt Fasteraune, Ole Herman Sveian, Geir Inge Lien og meg sjølv
-har eg gleda å leggje fram eit representantforslag om meir ja og
-mindre nei i byggesaker.</A>
+har eg gleda av å leggje fram eit representantforslag om meir ja
+og mindre nei i byggjesaker.</A>
         </Hovedinnlegg>
         <Presinnlegg>
           <A>
             <Navn>Presidenten [10:06:43]:</Navn> Representanten
 Rikard Spets vil framsette et representantforslag.</A>
         </Presinnlegg>
-        <Hovedinnlegg Id="i1003121">
+        <Hovedinnlegg Id="i1003335">
           <A>
             <Navn personID="RIKSPE">
 Rikard Spets (FrP) [10:07:02]:</Navn> På vegne av «kjernekarene»
@@ -231,7 +237,7 @@ representantforslag om å tilrettelegge for kjernekraft i Norge.</A>
             <Navn>Presidenten [10:07:16]:</Navn> Representanten
 Ole Herman Sveian vil framsette et representantforslag.</A>
         </Presinnlegg>
-        <Hovedinnlegg Id="i1003123">
+        <Hovedinnlegg Id="i1003337">
           <A>
             <Navn personID="OHJ">
 Ole Herman Sveian (Sp) [10:07:34]:</Navn> På vegne av stortingsrepresentanten
@@ -243,7 +249,7 @@ en ekstern evaluering av sykehusplaner og sykehusbygging i Norge.</A>
             <Navn>Presidenten [10:07:47]:</Navn> Representanten
 Geir Inge Lien vil framsette et representantforslag.</A>
         </Presinnlegg>
-        <Hovedinnlegg Id="i1003125">
+        <Hovedinnlegg Id="i1003339">
           <A>
             <Navn personID="GEL">
 Geir Inge Lien (Sp) [10:08:04]:</Navn> På vegner av representantane
@@ -256,7 +262,7 @@ vegar.</A>
             <Navn>Presidenten [10:08:18]:</Navn> Representanten
 Ingrid Fiskaa vil framsette et representantforslag.</A>
         </Presinnlegg>
-        <Hovedinnlegg Id="i1003127">
+        <Hovedinnlegg Id="i1003341">
           <A>
             <Navn personID="INF">
 Ingrid Fiskaa (SV) [10:08:35]:</Navn> På vegner av stortingsrepresentantane
@@ -273,25 +279,25 @@ vil bli behandlet på reglementsmessig måte.</A>
         </Presinnlegg>
       </Motestart>
     </Startseksjon>
-    <Hovedseksjon Id="i1003129">
+    <Hovedseksjon Id="i1003343">
       <Saker>
-        <Sak saksKartNr="1" sakID="105848">
+        <Sak saksKartNr="1" sammenslatteSaker="1,2" sakID="105848">
           <Sakshode>
             <Saknr>
               <Uth Type="Sperret">Sak nr. 1</Uth> [10:09:12]</Saknr>
-            <Saktittel Id="i1003133">
+            <Saktittel Id="i1003349">
               <A>Stortingets vedtak til lov om endringer
 i skipsarbeidsloven og NIS-loven (tydelige og mer forutsigbare arbeidsvilkår) <Uth Type="RETT">(Lovvedtak 31 (2025–2026), jf. Innst. 161 L (2025–2026)
 og Prop. 28 LS (2025–2026))</Uth></A>
             </Saktittel>
           </Sakshode>
         </Sak>
-        <Sak Id="i1003135" saksKartNr="2" sakID="105468">
+        <Sak Id="i1003351" saksKartNr="2" sammenslatteSaker="1,2" sakID="105468">
           <Sakshode>
             <Saknr>
               <Uth Type="Sperret">Sak
 nr. 2</Uth> [10:09:12]</Saknr>
-            <Saktittel Id="i1003139">
+            <Saktittel Id="i1003357">
               <A>Stortingets vedtak til lov om endringer
 i sikkerhetsloven (opplysningsplikt ved autorisasjon <Uth Type="RETT">(Lovvedtak
 32) (2025–2026), jf. Innst. 142 L (2025–2026) og Prop. 10 L (2025–2026))</Uth></A>
@@ -303,12 +309,12 @@ i sikkerhetsloven (opplysningsplikt ved autorisasjon <Uth Type="RETT">(Lovvedtak
 om ordet.</A>
           </Presinnlegg>
         </Sak>
-        <Sak Id="i1003141" saksKartNr="3" sakID="106014">
+        <Sak Id="i1003359" saksKartNr="3" sakID="106014">
           <Sakshode>
             <Saknr>
               <Uth Type="Sperret">Sak
 nr. 3</Uth> [10:09:24]</Saknr>
-            <Saktittel Id="i1003145">
+            <Saktittel Id="i1003363">
               <A>Innstilling fra utdannings- og forskningskomiteen
 om Representantforslag fra stortingsrepresentantene Simen Velle
 og Anne Grethe Hauan om rettferdig utdanningsstøtte for studenter
@@ -327,7 +333,7 @@ av regjeringen.</A>
 fra medlemmer av regjeringen, og de som måtte tegne seg på talerlisten
 utover den fordelte taletid, får også en taletid på inntil 3 minutter.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1003147">
+          <Hovedinnlegg Id="i1003365">
             <A>
               <Navn personID="SANHOR">
 Sander Delp Horn (A) [10:10:30]</Navn> (ordfører for saken): Jeg
@@ -343,7 +349,7 @@ studenter som har fått pasientskadeerstatning, fått reduksjon i
 stipend på grunn av avkastningen som opparbeides som følge av erstatning.
 Selv om intensjonen er at avkastningen skal dekke framtidige behov,
 er den ikke unntatt fra behovsprøving.</A>
-            <A Type="Minnrykk"> For komiteen er det viktig at utdanning er
+            <A Type="Minnrykk">For komiteen er det viktig at utdanning er
 tilgjengelig for alle, og at økonomiske hindre for å ta utdanning
 reduseres. Statens lånekasse er et viktig virkemiddel for å sikre
 nettopp dette. Det skal være et system som er til hjelp og ikke
@@ -356,7 +362,7 @@ dobbeltbelastning som tar bort fokuset fra det som er viktigst for
 studenter. Det handler om å gi like muligheter til utdanning for
 alle. </A>
             <A Type="Minnrykk">Stortinget er på sitt beste når man ser utfordringer
-i folks hverdag og setter seg ned og løser utfordringene sammen, uavhengig
+i folks hverdag, setter seg ned og løser utfordringene sammen, uavhengig
 av om saken gjelder mange, eller om saken gjelder få. I dette tilfellet
 dreier det seg om å se realitetene i et system som ikke fungerer.
 Når folk ikke passer inn i systemet, er det Stortingets oppgave
@@ -371,28 +377,27 @@ bare bra for den enkelte, men det er bra for alle. Det kan ikke
 være slik at de som allerede har blitt sviktet av et system, skal
 sviktes én gang til. </A>
             <A Type="Minnrykk">Det forslaget som nå ligger på bordet, er godt.
-Vi er glad for at en samlet komité og et – forhåpentligvis – samlet
+Vi er glad for at en samlet komité og forhåpentligvis et samlet
 storting står bak forslaget. </A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003149">
+          <Hovedinnlegg Id="i1003367">
             <A>
               <Navn personID="SIMVEL">
-Simen Velle (FrP) [10:13:14]:</Navn> Jeg har bare et behov for å
-uttrykke min store støtte til komiteens arbeid. Jeg setter veldig
-pris på at vi klarte å finne en fornuftig enighet i denne saken.
-Det er noe utrolig kjipt med det å først bli feilbehandlet, så få
-pasientskadeerstatning, og så lide en gang til gjennom Lånekassen
-fordi man har blitt feilbehandlet.</A>
+Simen Velle (FrP) [10:13:14]:</Navn> Jeg har bare behov for å uttrykke
+min store støtte til komiteens arbeid. Jeg setter veldig pris på
+at vi klarte å finne en fornuftig enighet i denne saken. Det er
+noe utrolig kjipt med det å først bli feilbehandlet, så få pasientskadeerstatning
+og så lide en gang til fordi man har blitt feilbehandlet av Lånekassen.</A>
             <A Type="Minnrykk">Som saksordføreren helt riktig nevnte, er det
 ikke veldig mange mennesker dette gjelder, men for de menneskene
 det gjelder, er det grovt urettferdig. På vegne av forslagsstillerne er
 jeg veldig glad for å kunne si at det er en enstemmig komité som
 innstiller i denne saken, og jeg håper statsråden benytter sin taletid
-senere i dag til å understreke hvor fort det kommer til å gå med
-å forsøke å løse disse problemene. Det har en budsjettkonsekvens,
-men budsjettkonsekvensen er ikke veldig stor.</A>
-            <A Type="Minnrykk">På vegne av hvert fall forslagsstillerne har
-jeg lyst til å uttrykke klinkende klart at vi forventer at statsråden
+senere i dag til å understreke hvor fort man kommer til å forsøke
+å løse disse problemene. Det har en budsjettkonsekvens, men budsjettkonsekvensen
+er ikke veldig stor.</A>
+            <A Type="Minnrykk">På vegne av i hvert fall forslagsstillerne
+har jeg lyst til å uttrykke klinkende klart at vi forventer at statsråden
 er rask på labben og løser opp i denne saken. Jeg tar opp Fremskrittspartiets
 forslag.</A>
           </Hovedinnlegg>
@@ -401,26 +406,27 @@ forslag.</A>
               <Navn>Presidenten [10:14:20]:</Navn> Representanten
 Simen Velle har tatt opp det forslaget han refererte til.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1003151">
+          <Hovedinnlegg Id="i1003369">
             <A>
               <Navn personID="MMO">
 Monica Molvær (H) [10:14:37]:</Navn> Bak denne saken er det mennesker
 som har fått livet snudd på hodet av sykdom eller skade. De er mennesker
 som allikevel ønsker å bidra i samfunnet. Vi må sikre at alle får
-de samme mulighetene til å gjennomføre og fullføre utdanning, uten
-at man skal få økonomiske hindringer på veien fordi det har oppstått
-noe uforutsett i livet.</A>
+de samme mulighetene til å gjennomføre og fullføre utdanning uten
+å få økonomiske hindringer på veien fordi det har oppstått noe uforutsett
+i livet.</A>
             <A Type="Minnrykk">Utdanning er billetten inn i arbeidslivet.
 Det er kanskje den viktigste inngangsbilletten man noen gang kan
 få mulighet til å få tak i. Den gir mulighet til å skape et liv
-for seg selv, og delta og bidra. Vi vet hvor viktig det er, ikke
+for seg selv og delta og bidra. Vi vet hvor viktig det er, ikke
 bare for den enkelte, men også for samfunnet. Vi trenger alle gode
-krefter til å bruke ressursene sine, også de som har fått noen ekstra utfordringer.</A>
+krefter og at alle bruker ressursene sine, også de som har fått
+noen ekstra utfordringer.</A>
             <A Type="Minnrykk">Jeg har lyst å gi honnør til FrP, som har løftet
 saken i Stortinget. Dette er et veldig godt eksempel på hvordan
 enkeltsaker kan avdekke svakheter i systemet vårt. Det er veldig
 positivt at vi nå har en samlet komité som har lyst til å be om endringer
-i regelverket, og vi ser at det faktisk nytter å løfte fram ting
+i regelverket, og vi ser at det faktisk nytter å løfte fram saker
 i Stortinget. Det viser at politikk virker. Det betyr noe for de
 menneskene som er berørt, og ikke minst for familiene og de berørte
 som står rundt.</A>
@@ -430,7 +436,7 @@ muligheter for utdanning blir. Det viktigste av alt er at alle får
 samme muligheter, uavhengig av hva slags utfordringer man har møtt
 på veien.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003153">
+          <Hovedinnlegg Id="i1003371">
             <A>
               <Navn personID="AU">
 Andreas Sjalg Unneland (SV) [10:16:22]:</Navn> Jeg vil starte med
@@ -451,24 +457,24 @@ er ikke er en ekstrainntekt. Det er et forsøk på å gjøre livet levelig
 etter noe som ikke skulle skjedd. Når vi da i neste omgang sier
 at avkastningen av denne erstatningen skal behandles som inntekt
 og dermed reduserer stipendet, gjør vi noe grunnleggende urimelig.
-Dagens system sier i praksis at du både skal bruke erstatning til
-å dekke framtidige behov og samtidig straffes for at den eksisterer.
+Dagens system sier i praksis at du skal både bruke erstatningen
+til å dekke framtidige behov og samtidig straffes for at den eksisterer.
 Det er en dobbel belastning, og det bryter med selve hensikten bak
 erstatningsordningene.</A>
             <A Type="Minnrykk">Dette er ikke bare en teknisk justering i regelverket.
 Det handler om rettferdighet. Det handler om å sikre at mennesker som
 allerede har opplevd noe vanskelig, ikke møter nye barrierer når
 de prøver å ta utdanning og komme seg videre i livet. Derfor støtter
-SV komiteens forslag for å be regjeringen komme tilbake raskt med
+SV komiteens forslag om å be regjeringen komme raskt tilbake med
 en løsning. </A>
             <A Type="Minnrykk">Til sjuende og sist handler dette om hvilket
 samfunn vi skal være – et samfunn der uflaks i livet ikke skal avgjøre
 om du får utdanning, et samfunn der vi stiller opp for hverandre, et
 samfunn der ordningene våre henger sammen på en rettferdig og logisk
-måte. Det er det denne saken handler om. Derfor støtter SV forslaget
+måte. Det er det denne saken handler om. Derfor støtter SV forslaget,
 og jeg er glad for at et enstemmig storting gjør det samme.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003155">
+          <Hovedinnlegg Id="i1003373">
             <A>
               <Navn personID="SIGAAS">
 Statsråd Sigrun Aasland [10:19:01]:</Navn> Jeg vil takke for gode
@@ -481,10 +487,11 @@ skal ha samme muligheter til å gjennomføre utdanning som andre. Høyere
 utdanning er for mange i denne gruppen helt avgjørende for å få
 mulighet til å delta i arbeidslivet, og det er, som saksordfører
 og forslagsstiller sier, politikernes oppgave å endre systemet når
-det ikke virker. Det er viktig for regjeringen at denne gruppen
-studenter ikke er dårligere stilt enn andre til å ta høyere utdanning.
-Trygg økonomi er en sentral og avgjørende faktor for det, og derfor
-skal ikke pasientskadeerstatning påvirke hvor mye lån man får omgjort
+det ikke virker. </A>
+            <A Type="Minnrykk">Det er viktig for regjeringen at denne gruppen
+studenter ikke er dårligere stilt enn andre til å ta høyere utdanning. Trygg
+økonomi er en sentral og avgjørende faktor for det, og derfor skal
+ikke pasientskadeerstatning påvirke hvor mye lån man får omgjort
 til stipend i Lånekassen. </A>
             <A Type="Minnrykk">Jeg er veldig glad for at to av studentene
 som har fått avkortet stipend på grunn av sine erstatningssaker,
@@ -509,14 +516,14 @@ følger opp forslaget når det legges fram i budsjettet. </A>
               <Navn>Presidenten [10:21:13]:</Navn> Flere har ikke
 bedt om ordet i sak nr. 3.</A>
           </Presinnlegg>
-          <Referanse Id="i1003157" voteringsDato="2026-03-19" debattDato="2026-03-19" saksKartNr="3" />
+          <Referanse Id="i1003375" voteringsDato="2026-03-19" debattDato="2026-03-19" saksKartNr="3" />
         </Sak>
-        <Sak Id="i1003159" saksKartNr="4" sakID="106352">
+        <Sak Id="i1003377" saksKartNr="4" sakID="106352">
           <Sakshode>
             <Saknr>
               <Uth Type="Sperret">Sak
 nr. 4</Uth> [10:21:23]</Saknr>
-            <Saktittel Id="i1003163">
+            <Saktittel Id="i1003381">
               <A>Innstilling fra utdannings- og forskningskomiteen
 om Representantforslag fra stortingsrepresentantene Sunniva Holmås
 Eidsvoll og Mirell Høyer-Berntsen om en tryggere digital skolehverdag <Uth Type="RETT">(Innst. 158 S (2025–2026), jf. Dokument 8:82 S
@@ -534,7 +541,7 @@ av regjeringen.</A>
 fra medlemmer av regjeringen, og de som måtte tegne seg på talerlisten
 utover den fordelte taletid, får også en taletid på inntil 3 minutter.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1003165">
+          <Hovedinnlegg Id="i1003383">
             <A>
               <Navn personID="JOEYST">
 Joel Ystebø (KrF) [10:22:27]</Navn> (ordfører for saken): Jeg vil
@@ -542,32 +549,31 @@ først takke komiteen for en god prosess og et godt arbeid knyttet
 til dette representantforslaget om elevers digitale trygghet i skolen. </A>
             <A Type="Minnrykk">Denne tematikken vet vi er særdeles viktig.
 Vi har gjennom de siste årene sett større og større utfordringer
-knyttet til skadelig innhold, og på andre måter betydningen av å
+knyttet til skadelig innhold og på andre måter betydningen av å
 gjøre politiske grep for å sikre den digitale tryggheten for elever
 i norsk skole. Jeg er derfor både på vegne av KrF og som representant
-i komiteen glad for at man her har kommet sammen rundt flere gode
-forslag, og jeg vil også gi honnør til forslagsstillerne for dette.</A>
+i komiteen glad for at man har samlet seg rundt flere gode forslag,
+og jeg vil også gi honnør til forslagsstillerne for dette.</A>
             <A Type="Minnrykk">Når våre barn og unge, elever i norsk skole,
 opplever å bli utsatt for innhold som de ikke skal se, som de ikke
 skal bli utsatt for, er det et politisk ansvar å ta grep. Det er
 jeg glad for at en samlet komité gjennom disse forslagene nå gjør
 på en rekke områder. KrF tror at det trengs politisk handling rettet mot
 det som har vært en voksende utfordring. På mange måter har vi som
-politikere våknet sent, men likevel kan man her gjøre kraftfulle
-grep for å bidra til å håndtere denne utfordringen i norsk skole,
-og for å verne flest mulig barn og unge knyttet til utfordringen.
-Det handler både om gode filtre på disse enhetene og ikke minst
-om å være bevisst når det gjelder hvordan disse brukes i skolen,
-som vi også ser er en relevant tematikk i andre saker som har blitt
-behandlet i denne salen.</A>
-            <A Type="Minnrykk">Så kan jeg si på vegne av KrF at vi mener at
-her kan man gjøre enda flere grep knyttet til det som går på hjemsending av
-digitale enheter, osv. Jeg er likevel glad for at dette er et første
-steg for å håndtere en stor samfunnsutfordring, og jeg er derfor
-glad for at en samlet komité står bak viktige forslag for å håndtere
-og trygge skolehverdagen til våre barn og unge.</A>
+politikere våknet sent, men likevel kan man gjøre kraftfulle grep
+for å bidra til å håndtere denne utfordringen i norsk skole og for
+å verne flest mulig barn og unge mot denne utfordringen. Det handler
+både om gode filtre på disse enhetene og ikke minst om å være bevisst
+på hvordan disse brukes i skolen, som vi også ser er en relevant
+tematikk i andre saker som har blitt behandlet i denne salen.</A>
+            <A Type="Minnrykk">Så kan jeg si på vegne av KrF at vi mener man
+kan gjøre enda flere grep knyttet til det som går på hjemsending
+av digitale enheter, osv. Jeg er likevel glad for at dette er et
+første steg for å håndtere en stor samfunnsutfordring, og jeg er
+derfor glad for at en samlet komité står bak viktige forslag for
+å håndtere og trygge skolehverdagen til våre barn og unge.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003167">
+          <Hovedinnlegg Id="i1003385">
             <A>
               <Navn personID="VEBGOR">
 Vebjørn Gorseth (A) [10:24:50]:</Navn> I en verden der inntrykkene,
@@ -609,14 +615,13 @@ Det er vi glad for.</A>
                 <A>Et nesten samlet storting har nå også sørget for at barn skal
 slippe å stå alene i kampen mot gigantkonserns bevisst utarbeidede,
 oppmerksomhetsspisende algoritmer. FrP er det eneste partiet på
-Stortinget som ikke vil innføre 15- års aldersgrense på sosiale
-medier. </A>
+Stortinget som ikke vil innføre 15-års aldersgrense på sosiale medier. </A>
               </Pkt>
               <Pkt>
                 <A>Sist, men ikke minst: Vi forskriftsfester nå i læreplanene at
 bruken av skjerm skal være særlig varsom og ikke dominerende som
-arbeidsmåte de første fire årene i skolen. Det har vi også tro på
-kommer til å gi resultater. </A>
+arbeidsmetode de første fire årene i skolen. Det har vi også tro
+på kommer til å gi resultater. </A>
               </Pkt>
             </Liste>
             <A Type="Minnrykk">Å sikre barn og unges trygghet i en digital
@@ -624,10 +629,10 @@ verden har vært et av Arbeiderpartiets aller viktigste prosjekter
 de siste årene. Jeg er veldig glad for at vi har en statsråd som
 virkelig har tatt virkningsfulle grep. Med forslagene som ligger
 an til å få flertall i denne salen, styrker vi dette arbeidet enda
-mer videre. Det er bra for barna i skolene våre. De fortjener at
-vi har dette helt fremst i pannen, i alt vi gjør.</A>
+mer videre. Det er bra for barna i skolen vår. De fortjener at vi
+har dette helt fremst i pannebrasken i alt vi gjør.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003169">
+          <Hovedinnlegg Id="i1003387">
             <A>
               <Navn personID="SIMVEL">
 Simen Velle (FrP) [10:27:45]:</Navn> Opplæringsloven krever at elevene
@@ -635,9 +640,9 @@ skal sikres en trygg skolehverdag. Veldig lenge var en trygg skolehverdag
 at det var nok lærere ute i skolegården i friminuttene, og at det
 var voksne til stede på de arenaene hvor elevene ferdedes. Men så
 kom de mobile enhetene og de sosiale mediene, og etter hvert begynte
-også skolene å dele ut disse mobile enhetene til elevene. Verden
-har utviklet seg mye siden det var en refleksvest i skolegården
-som var det viktigste tiltaket for å sikre en trygg skolehverdag. </A>
+også skolene å dele ut mobile enheter til elevene. Verden har utviklet seg
+mye siden en refleksvest i skolegården var det viktigste tiltaket
+for å sikre en trygg skolehverdag. </A>
             <A Type="Minnrykk">Det minste vi bør kunne forvente, er et oppdatert
 regelverk som sikrer at elevene ikke utsettes for skadelig innhold på
 de enhetene skolene deler ut. Jeg vet at det er en pågående debatt
@@ -651,17 +656,17 @@ skal vokse opp i et trygt læringsmiljø, at vi skal ha minst mulig
 mobbing, og at vi skal sørge for at barna vokser opp til å bli den
 beste versjonen av seg selv. </A>
             <A Type="Minnrykk">Jeg vil varsle Fremskrittspartiets tydelige
-støtte til forslaget, men jeg har også lyst til å understreke at
-selv om det når det gjelder sosiale medier, er en pågående debatt
-hvem som skal være forelder – om det skal være foreldrene selv eller
-staten – er det stor enighet i denne salen med hensyn til skadelig innhold.
-Jeg mener det er nødvendig å sikre at de mobile enhetene som tas
-med hjem fra skolen, er trygge. Jeg mener det er nødvendig å sikre
-at kommunale og offentlige penger ikke brukes til å utsette barn
-for denne typen skadelig innhold, og jeg setter pris på at forslagsstillerne
+støtte til forslaget, men jeg har også lyst til å understreke, når
+det gjelder sosiale medier, at selv om det er en pågående debatt
+om hvem som skal være forelder – om det skal være foreldrene selv
+eller staten – er det stor enighet i denne salen med hensyn til skadelig
+innhold. Jeg mener det er nødvendig å sikre at de mobile enhetene
+som tas med hjem fra skolen, er trygge. Jeg mener det er nødvendig
+å sikre at kommunale og offentlige penger ikke brukes til å utsette
+barn for skadelig innhold, og jeg setter pris på at forslagsstillerne
 har vært så tydelige som de har vært i dette forslaget. </A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003171">
+          <Hovedinnlegg Id="i1003389">
             <A>
               <Navn personID="MTY">
 Mathilde Tybring-Gjedde (H) [10:30:03]</Navn> (komiteens leder):
@@ -673,10 +678,10 @@ og at nettsider som til og med har blitt brukt til nettovergrep
 mot barn, er tilgjengelig på nettbrettet. Dette er jo en systemsvikt.
 Deler vi ut nettbrett til barn, er det vårt ansvar å sikre trygg
 bruk. I dag opplever foreldre at barn har tilgang til alt fra algoritmestyrt
-innhold til YouTube uten grenser og vold – uten at det er regulert.
-Vi vet også at det er veldig store forskjeller mellom kommunene. </A>
+innhold til YouTube uten grenser og med vold – uten at det er regulert. Vi
+vet også at det er veldig store forskjeller mellom kommunene. </A>
             <A Type="Minnrykk">Det jeg kanskje er mest stolt over at vi i
-dag vedtar, er at man nå skal støtte kommunene i dette arbeidet.
+dag skal vedta, er at man nå skal støtte kommunene i dette arbeidet.
 Det er ikke slik at kommuner som kanskje har én IT-ansvarlig, nødvendigvis
 klarer å ha kompetansen eller ressursene til å være totalt oppdatert
 på de teknologiske løsningene som trengs på nettbrettet. Jeg er
@@ -694,21 +699,21 @@ prioriteres, og at kommunene skal støttes. </A>
 årene og månedene. Ett eksempel er Oslo. Der overtok Høyre en by hvor
 det nærmest var null reguleringer knyttet til skjermbruk i skolen.
 Det var pålegg om nettbrett 1:1 for de yngste elevene. Nå er det
-strammet kraftig til. </A>
+strammet kraftig inn. </A>
             <A Type="Minnrykk">Det kom nå en nyhetssak om at Osloskolen oppdaterer nettfilteret
 som brukes på alle elevers digitale enheter. Det nye nettfilteret
 man bruker, er bygget på en løsning som heter Netsweeper, som bruker
 kunstig intelligens til å analysere og kategorisere millioner av
 nettsider globalt. Den oppdateres kontinuerlig, og det er ikke mulig
 for elevene å skru den av. Filteret følger eleven uansett hvor enheten
-brukes. Dette er en mulighet teknologi gir oss, nemlig at man kan
-ha effektive filtre som beskytter barn og unge. </A>
+brukes. Dette er en mulighet teknologien gir oss, nemlig at man
+kan ha effektive filtre som beskytter barn og unge. </A>
             <A Type="Minnrykk">Det bør ikke være så store forskjeller mellom
 kommunene i å ta slike løsninger i bruk, og derfor er marsjordren
 til regjeringen i dag at vi skal løse dette sammen med kommunene. Elevene
 fortjener å være trygge.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003173">
+          <Hovedinnlegg Id="i1003391">
             <A>
               <Navn personID="AU">
 Andreas Sjalg Unneland (SV) [10:33:19]:</Navn> Se for dere et barn
@@ -737,7 +742,7 @@ har. Sånn kan vi rett og slett ikke ha det. Vi skal ha én fellesskole
 i Norge, og da må vi også ha et minimum av felles trygghet. </A>
             <A Type="Minnrykk">SV mener dette er et klassisk eksempel på at
 staten må ta et tydeligere ansvar – ikke for å detaljstyre alt,
-men for å sette noen helt grunnleggende krav: at skoleenheter skal
+men for å stille noen helt grunnleggende krav: at skoleenheter skal
 være reklamefrie, at skadelig innhold er blokkert, at personvernet
 til barna ivaretas, og at foreldre faktisk har kontroll når enhetene tas
 hjem. Det er ikke radikale forslag. Det er rett og slett sunn fornuft.
@@ -759,7 +764,7 @@ det opp SVs forslag i saken.</A>
               <Navn>Presidenten [10:36:13]:</Navn> Da har representanten
 Andreas Sjalg Unneland tatt opp det forslaget han refererte til.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1003175">
+          <Hovedinnlegg Id="i1003393">
             <A>
               <Navn personID="ESAN">
 Erling Sande (Sp) [10:36:21]:</Navn> For Senterpartiet er det grunnleggjande
@@ -794,7 +799,7 @@ er dei beste til å ivareta tryggleiken til ungane dersom dei får
 den nødvendige støtta frå statlege styresmakter. Eg tenkjer komiteen
 har funne ein god balanse mellom desse omsyna i denne saka. </A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003177">
+          <Hovedinnlegg Id="i1003395">
             <A>
               <Navn personID="HEGNYH">
 Hege Bae Nyholt (R) [10:38:38]:</Navn> I min tid, og kanskje også
@@ -814,13 +819,13 @@ og deres faglige grunnlag til å velge pedagogisk metode for akkurat
 sin klasse i sin time, men den valgfriheten uteblir om skjerm er det
 eneste mulige læremiddelet – og det kanskje uten programvarer som
 trengs, men med gratistjenester fordi skolen ikke hadde råd til
-å kjøpe de lisensierte produktene. Som vi vet: There's no such thing
-as a free lunch. Tjenestene er gratis fordi de er reklamefinansiert.
+å kjøpe de lisensierte produktene. Som vi vet: «There’s no such
+thing as a free lunch.» Tjenestene er gratis fordi de er reklamefinansiert.
 Vi har også hørt historier om ungdomsskoleelever som f.eks. får
 reklame for slankeprodukter når de skal benytte kalkulator i matteundervisningen. </A>
             <A Type="Minnrykk">Vi vet at dagens filtre og tiltak som er iverksatt,
 ikke er gode nok for å hindre at ungene våre bruker skoleenhetene
-til å gå inn på åpne nettlesere for tilgang på potensielt skadelig innhold,
+til å gå inn på åpne nettlesere og få tilgang på potensielt skadelig innhold,
 osv., og det er ikke godt nok. Vi må sikre at ungene våre ikke utsettes
 for påvirkning og skadelig innhold gjennom skjermene som deles ut
 på skolen. </A>
@@ -845,13 +850,13 @@ egne forslag. </A>
               <Navn>Presidenten [10:40:40]:</Navn> Representanten
 Hege Bae Nyholt har tatt opp de forslagene hun refererte til. </A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1003179">
+          <Hovedinnlegg Id="i1003397">
             <A>
               <Navn personID="KARNOR">
 Statsråd Kari Nessa Nordtun [10:41:39]:</Navn> Digitaliseringen
 av skolen har gått for langt og for fort, uten god nok kontroll.
 Det rydder Arbeiderparti-regjeringen opp i. La meg være tydelig:
-Skolen skal ivareta barn og unges personvern og elevene skal også
+Skolen skal ivareta barn og unges personvern, og elevene skal også
 være trygge på skolens digitale enheter.</A>
             <A Type="Minnrykk">Vi har over tid fått klare tilbakemeldinger
 fra foreldre, lærere og forskere om at ikke alt er slik vi ønsker
@@ -876,15 +881,15 @@ enhetene i grunnskolen ikke skal sendes hjem med elevene dersom
 skolen ikke klarer å beskytte elevene mot skadelig innhold.</A>
             <A Type="Minnrykk">Utdanningsdirektoratet har allerede veiledere,
 både om hvordan elevene skal beskyttes mot skadelig innhold på nett, og
-hvordan reklameforbudet i skolen skal overholdes. Direktoratet gir
-også veiledning til skolene om hvordan de kan overholde sine lovpålagte
-forpliktelser. I tillegg jobber direktoratet for fullt med å innføre
-sikker nettleser under eksamen, noe som innfases så raskt det er
-faglig og teknisk forsvarlig.</A>
+om hvordan reklameforbudet i skolen skal overholdes. Direktoratet
+gir også veiledning til skolene om hvordan de kan overholde sine
+lovpålagte forpliktelser. I tillegg jobber direktoratet for fullt
+med å innføre sikker nettleser under eksamen, noe som innfases så
+raskt det er faglig og teknisk forsvarlig.</A>
             <A Type="Minnrykk">Jeg er fullt enig i problembeskrivelsen, men
 jeg vil også peke på at det representantene foreslår som tiltak,
 ligger tett opp mot det vi allerede gjør.</A>
-            <A Type="Minnrykk">Reglene om trygt og godt skolemiljø, skal beskytte
+            <A Type="Minnrykk">Reglene om trygt og godt skolemiljø skal beskytte
 elevene mot skadelig innhold og gir elevene rett til et trygt og
 godt digitalt læringsmiljø – både på skolen og hjemme. Utdanningsdirektoratets
 veileder viser hvordan disse reglene kan overholdes konkret, men
@@ -901,18 +906,18 @@ dette arbeidet her i Stortinget.</A>
               <Navn>Presidenten [10:44:40]:</Navn> De talerne
 som heretter får ordet, har også en taletid på inntil 3 minutter.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1003181">
+          <Hovedinnlegg Id="i1003399">
             <A>
               <Navn personID="JULEIK">
 Julia Eikeland (A) [10:45:01]:</Navn> Først og fremst vil jeg berømme
 SV for å løfte en viktig sak: å sikre elevene våre en trygg digital
-skolehverdag og sørge for at skolebarn ikke sendes hjem med iPad-er
+skolehverdag og sørge for at skolebarn ikke sendes hjem med iPader
 og nettbrett som kan gi tilgang til skadelig innhold. Vi er nødt
 til å være handlekraftige i norsk skole og gjøre det som faktisk
 trengs for elevene våre. Det er uholdbart at barn kan få tilgang
 til innhold som vold og porno, og vi vet at mange elever i tillegg
 blir forstyrret i undervisningen av både spill, sosiale medier og
-annet digitalt støy.</A>
+annen digital støy.</A>
             <A Type="Minnrykk">For Arbeiderpartiet er det viktigste at elevene
 våre skal lære mer, og at elevene skal lære bedre. Da må elevene
 være trygge i klasserommet og få mulighet til å bygge grunnmuren sin.</A>
@@ -925,51 +930,50 @@ i Høyre, en endring i retning av større bevissthet, større vilje
 til å regulere og større forståelse for utfordringene vi står i.
 Det er jeg glad for.</A>
             <A Type="Minnrykk">Jo flere vi er som står sammen om disse store
-utfordringer, jo sterkere står vi i arbeidet med å finne de gode
+utfordringene, jo sterkere står vi i arbeidet med å finne de gode
 løsningene – og jo tydeligere signal sender vi til elever, foreldre
 og lærere om at politikerne tar dette på alvor. Det skylder vi elevene
 våre.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003183">
+          <Hovedinnlegg Id="i1003401">
             <A>
               <Navn personID="MTY">
 Mathilde Tybring-Gjedde (H) [10:47:14]:</Navn> Jeg ble fristet til
 å ta ordet etter den rørende omfavnelsen fra representanten Eikeland,
-som på en måte føyer seg i rekken i forsøket Arbeiderpartiet gjør
+som på en måte føyer seg i rekken av forsøkene Arbeiderpartiet gjør
 på å omskrive historien. Jeg tror vi er veldig mange partier i denne
-salen som skal ta selvkritikk på at digitaliseringen i skolen gikk
+salen som skal ta selvkritikk for at digitaliseringen i skolen gikk
 for fort, at man undervurderte digitale distraksjoner, og at man
 nå ser at det påvirker barns konsentrasjon, utholdenhet og også
 skoleresultater.</A>
-            <A Type="Minnrykk">Jeg vil minne om, når man først skal lage sånn
-historiefortelling, at i 2017 måtte Høyre argumentere mot Arbeiderpartiet
+            <A Type="Minnrykk">Jeg vil minne om, når man først skal lage en
+sånn historiefortelling, at i 2017 måtte Høyre argumentere mot Arbeiderpartiet
 og daværende utdanningspolitisk talsperson, Trond Giske, som hadde
 som hovedvalgkampsak at man skulle innføre nettbrett til alle, én-til-én.
 Det var hovedsaken til Arbeiderpartiet i skolepolitikken. I 2023
 sa daværende kunnskapsminister fra Arbeiderpartiet, Tonje Brenna,
-at skolen skulle omfavne all teknologi, særlig KI. Ifølge Tonje
-Brenna var bekymringen om KI-juks i norske klasserom feil. Hun	
-sammenlignet det med kalkulator og sa at man kan jukse selv i et
-rom uten noe som helst teknologi. Det er i et VG-oppslag fra 2023. Nettbrettdebatten
+at skolen skulle omfavne all teknologi, særlig KI. Ifølge Tonje Brenna
+var bekymringen om KI-juks i norske klasserom feil. Hun	 sammenlignet
+det med kalkulator og sa at man kan jukse selv i et rom uten noe
+som helst teknologi. Det er i et VG-oppslag fra 2023. Nettbrettdebatten
 kan vi gjerne ha her, men situasjonen i norsk skole er at KI har
 gjort et inntog helt ukritisk og uten at det har kommet tydelige
 retningslinjer fra en Arbeiderparti-ledet regjering.</A>
             <A Type="Minnrykk">Jeg synes vi skal være ærlig om situasjonen.
 Ja, skjerm er ulike ting. Det er forskjell på sosiale medier og
-det å ha et digitalt læremiddel – ha Cappelen Damm som et digitalt
-læremiddel, begrenset uten mulighet til å gå inn på andre apper
-eller andre funksjoner. Selvfølgelig er det det, men la oss ikke prøve
-å mistolke hverandre i helt ulike retninger. Jeg tror vi skal være
-så ærlige nå og si at ja, det er viktig med særlig varsomhet rundt
-nettbrett. Jeg tror veldig mange ser konsekvensen økt skjermbruk
-har hatt. Ja, det er store utfordringer, særlig med skjermbruk på
-fritiden, men det smitter også over i skolen. Hvis man har barn
-som har tilbrakt store deler av sin fritid stillesittende foran
-en skjerm, påvirker det selvfølgelig hva som blir skolens rolle,
-hvis vi skal sikre at elevene lærer utholdenhet, konsentrasjon og
+f.eks. det å ha Cappelen Damm som et digitalt læremiddel, begrenset
+uten mulighet til å gå inn på andre apper eller andre funksjoner. Selvfølgelig
+er det det, men la oss ikke prøve å mistolke hverandre i helt ulike
+retninger. Jeg tror vi nå skal være ærlige og si at det er viktig
+med særlig varsomhet rundt nettbrett. Jeg tror veldig mange ser
+konsekvensen økt skjermbruk har hatt. Ja, det er store utfordringer,
+særlig med skjermbruk på fritiden, men det smitter også over i skolen.
+Hvis man har barn som har tilbrakt store deler av sin fritid stillesittende
+foran en skjerm, påvirker det selvfølgelig hva som blir skolens
+rolle, hvis vi skal sikre at elevene lærer utholdenhet, konsentrasjon og
 ikke minst det å lese, skrive og regne.</A>
-            <A Type="Minnrykk">Jeg håper Arbeiderpartiet tar det litt innover
-seg, og kanskje er litt ydmyke i denne debatten, og at vi heller
+            <A Type="Minnrykk">Jeg håper Arbeiderpartiet tar det litt inn
+over seg og kanskje er litt ydmyke i denne debatten, og at vi heller
 nå står sammen om å ta en del kraftige grep for å sikre at det er
 trygghet digitalt for norske elever, og at vi får en skole der elevene lærer
 utholdenhet og konsentrasjon, for det er forutsetningen for all
@@ -980,14 +984,14 @@ annen læring, og ikke minst for å utjevne sosiale forskjeller.</A>
               <Navn>Presidenten [10:49:46]:</Navn> Flere har ikke
 bedt om ordet til sak nr. 4.</A>
           </Presinnlegg>
-          <Referanse Id="i1003185" voteringsDato="2026-03-19" debattDato="2026-03-19" saksKartNr="4" />
+          <Referanse Id="i1003403" voteringsDato="2026-03-19" debattDato="2026-03-19" saksKartNr="4" />
         </Sak>
-        <Sak Id="i1003187" saksKartNr="5" sakID="200014">
+        <Sak Id="i1003405" saksKartNr="5" sakID="200014">
           <Sakshode>
             <Saknr>
               <Uth Type="Sperret">Sak
 nr. 5</Uth> [10:49:54]</Saknr>
-            <Saktittel Id="i1003191">
+            <Saktittel Id="i1003409">
               <A>Innstilling fra næringskomiteen om
 Representantforslag fra stortingsrepresentantene Geir Pollestad,
 Trygve Slagsvold Vedum og Bengt Fasteraune om kompensasjonsordning for
@@ -1005,7 +1009,7 @@ til hver partigruppe og 3 minutter til medlemmer av regjeringen.</A>
 fra medlemmer av regjeringen, og de som måtte tegne seg på talerlisten
 utover den fordelte taletid, får også en taletid på inntil 3 minutter.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1003193">
+          <Hovedinnlegg Id="i1003411">
             <A>
               <Navn personID="GEIRAJ">
 Geir Jørgensen (R) [10:50:52]</Navn> (ordfører for saken): Jeg vil
@@ -1014,12 +1018,12 @@ om denne saken, som altså har sitt utgangspunkt i et representantforslag
 fra stortingsrepresentantene Geir Pollestad, Trygve Slagsvold Vedum
 og Bengt Fasteraune om en kompensasjonsordning for grønnsaksprodusenter
 som rammes av nye grenseverdier for kadmium.</A>
-            <A Type="Minnrykk">Det er fremmet et mindretallsforslag i denne
-saken, og jeg regner med at forslagsstillerne selv kommer opp og
-redegjør for det.</A>
-            <A Type="Minnrykk">Komiteen åpnet for en skriftlig høring i denne
-saken. Det har kommet to innspill. Komiteen har også fått flere
-brev fra statsråden, som er landbruks- og matminister Nils Kristen Sandtrøen,
+            <A Type="Minnrykk">Det settes fram to forslag i denne saken, og
+jeg regner med at forslagsstillerne selv kommer opp og redegjør
+for det.</A>
+            <A Type="Minnrykk">Komiteen har åpnet for en skriftlig høring.
+Det har kommet to innspill. Komiteen har også fått flere brev fra
+statsråden, som er landbruks- og matminister Nils Kristen Sandtrøen,
 som har uttalt seg i saken.</A>
             <A Type="Minnrykk">Komiteen merker seg EU-direktiv 2021/1323,
 hvor det er vedtatt nye og lavere grenseverdier for tungmetaller
@@ -1030,25 +1034,24 @@ av løk, medfører direktivet en betydelig usikkerhet foran vekstsesongen
 som blir rammet av dette direktivet.</A>
             <A Type="Minnrykk">Jeg vil på vegne av Rødt si noen ord om saken.
 Vi er veldig glade for at vi endelig får laget et flertall for en
-anstendig kompensasjonsordning for de produsentene som har blitt rammet
-av dette, men det politiske arbeidet som er gjort i forkant, får
-strykkarakter.</A>
+anstendig kompensasjonsordning for de produsentene som har blitt rammet,
+men det politiske arbeidet som er gjort i forkant, får strykkarakter.</A>
             <A Type="Minnrykk">Først sitter regjeringen i år etter år på et
 EU-direktiv, som de så tar opp av skuffen og innfører uten at denne
 næringen, som produserer mat – løk – har fått nødvendig tid til
 å omstille seg. I Stortinget klarte vi så å gi disse produsentene
 ett års utsettelse, slik at de skulle få rimelig med tid til å kunne
-jobbe med sin produksjon. Men så, to måneder etter det flertallsvedtaket,
-snur Høyre, og Arbeiderpartiet hopper på et løst forslag – og dette
-direktivet blir da likevel tvangsinnført, hasteinnført, egentlig
-uten den politiske behandlingen det skulle hatt. Vi har et mål om
-økt nasjonal selvforsyning av mat, spesielt av plantevekster. Det
-som har skjedd i denne saken, har vært helt i strid med vedtatt
-politikk på området. Jeg må ærlig talt si at Stortinget, spesielt
-partiene Høyre og Arbeiderpartiet, ikke tar seg bra ut overfor denne
-næringen, som de selv mente skulle ha forutsigbarhet.</A>
+jobbe med sin produksjon. To måneder etter dette flertallsvedtaket skjer
+det at partiet Høyre snur, og Arbeiderpartiet hopper på et løst
+forslag. Likevel blir dette direktivet tvangsinnført, hasteinnført,
+egentlig uten den politiske behandlingen det skulle hatt. Vi har
+et mål om økt nasjonal selvforsyning av mat, spesielt av plantevekster.
+Det som har skjedd, har vært helt i motstrid med vedtatt politikk
+på området. Jeg må ærlig talt si at Stortinget, spesielt partiene
+Høyre og Arbeiderpartiet, ikke tar seg bra ut overfor denne næringen,
+som de selv mener burde ha forutsigbarhet.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003195">
+          <Hovedinnlegg Id="i1003413">
             <A>
               <Navn personID="RUTHOP">
 Ruth Mariann Hop (A) [10:54:07]:</Navn> Stortinget vedtok den 29. januar
@@ -1062,25 +1065,25 @@ allerede 18. februar at de i RNB, revidert nasjonalbudsjett, vil
 komme med en kompensasjonsordning. For Arbeiderpartiet er det viktig
 å gi løkbøndene denne sikringen, dersom de til høsten opplever at
 løken ikke kan selges på grunn av for høye verdier av tungmetaller.
-Vi håper jo alle at ordningen blir overflødig og at produksjonen
-i disse områdene går bra, og at det derfor ikke blir behov for kompensasjon. </A>
-            <A Type="Minnrykk">Næringskomiteen er enig om mye her. Blant annet
-slutter alle opp om behovet for denne midlertidige kompensasjonen. Uenigheten
-ligger i hvor stor den skal være. Arbeiderpartiet går inn for en
-dekningsgrad på 70 pst., for vi er opptatt av å balansere behovet
-for økonomisk trygghet for bonden med prinsippet om at bonden, som
-selvstendig næringsdrivende, må bære en del av risikoen selv. For
-det er flere tiltak som kan innføres av bonden for å redusere risiko
-både på kort og lengre sikt, f.eks. kalking.</A>
+Vi håper jo alle at ordningen blir overflødig, og at produksjonen
+i disse områdene går bra, og at det derfor ikke blir behov for kompensasjonen. </A>
+            <A Type="Minnrykk">En samlet næringskomité er enig om mye her.
+Blant annet slutter alle opp om behovet for denne midlertidige kompensasjonen.
+Uenigheten ligger i hvor stor den skal være. Arbeiderpartiet går
+inn for en dekningsgrad på 70 pst., for vi er opptatt av å balansere
+behovet for økonomisk trygghet for bonden med prinsippet om at bonden,
+som selvstendig næringsdrivende, må bære en del av risikoen selv.
+For det er flere tiltak som kan innføres av bonden for å redusere
+risiko på både kort og lengre sikt, f.eks. kalking.</A>
             <A Type="Minnrykk">Det er heller ikke sånn at dette nye regelverket
-plutselig dukket opp. Næringen vet, som ble presisert av forrige
-taler, at EU varslet innstrammingen av grenseverdien for kadmium i
-2021, og høsten 2025 ble det kjent at de nye reglene skulle tre
-i kraft i Norge fra 1. juli 2026, noe som allerede da var en utsettelse
+plutselig dukket opp. Næringen vet, som den forrige representanten presiserte,
+at EU varslet innstrammingen av grenseverdien for kadmium i 2021,
+og høsten 2025 ble det kjent at de nye reglene skulle tre i kraft
+i Norge fra 1. juli 2026, noe som allerede da var en utsettelse
 på ett år. Dette var også et tema i budsjetthøringen i næringskomiteen
 i oktober.</A>
             <A Type="Minnrykk">Selv om vi er uenige om dekningsgraden for
-kompensasjonen for løk, som faller mellom den nye og den gamle grenseverdien,
+kompensasjonen for løk som faller mellom den nye og den gamle grenseverdien,
 er vi alle enige om at vi tar den usikkerheten løkprodusentene har,
 på høyeste alvor. Produsentene skal ikke måtte bære kostnadene helt
 selv. Her skal staten stille opp.</A>
@@ -1089,50 +1092,50 @@ med RNB vil bevilge penger til mer kartlegging, noe som også vil
 gi kunnskap som kan påvirke mulighetene for å tilpasse produksjonen,
 for å unngå at løken som produseres, inneholder høyere verdier av
 kadmium enn det som er anbefalt.</A>
-            <A Type="Minnrykk">Vi vet at tungmetaller ikke er bra for helsa
+            <A Type="Minnrykk">Vi vet at tungmetaller ikke er bra for helsen
 vår. Derfor mener Arbeiderpartiet at det er helt riktig å sette
 strenge grenseverdier for giftige tungmetaller i matvarer. Det er
 også verdt å minne om at regelverket ikke bare gjelder grenseverdier
 for løk, men også for ulike næringsmidler som barnemat og frokostblandinger.
-Vi mener at hverken norske forbrukere eller norsk landbruk vil være
+Vi mener at verken norske forbrukere eller norsk landbruk vil være
 tjent med at vi skulle tillate et høyere nivå av kadmium i norske
 matvarer enn det som er anbefalt. Det kan til sjuende og sist også
 skade tilliten til norsk mat.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003197">
+          <Hovedinnlegg Id="i1003415">
             <A>
               <Navn personID="STILIL">
 Stig Even Lillestøl (FrP) [10:57:26]:</Navn> Meir enn 40 pst. av
 norsk løkproduksjon blir ramma av det nye, strenge EU-kravet om
-å senke grenseverdien for kadmiuminnhold i løk, som trer i kraft
-frå 1. juli i år, etter at ei utsetting av kravet til 2027, som
+å senke grenseverdien for kadmiuminnhald i løk. Det trer i kraft
+frå 1. juli i år, etter at ei utsetjing av kravet til 2027, som
 Stortinget først gjekk inn for, likevel ikkje skal gjelde. All den
 tid det er politisk bestemt at innstramminga ikkje kan vente eitt
-år, og bønder som slit med å oppfylle det nye EU-kravet, blir utsett
+år, og bønder som slit med å oppfylle det nye EU-kravet, blir utsette
 for potensielt store økonomiske tap, er det på sin plass at Stortinget
 ber regjeringa kome tilbake til oss med forslag til ei god og rettferdig
 kompensasjonsordning.</A>
-            <A Type="Minnrykk">Norske løkbønder er sette i en svært vanskeleg
+            <A Type="Minnrykk">Norske løkbønder er sette i ein svært vanskeleg
 situasjon på grunn av eit firkanta og unødvendig politisk inngrep.
 Når Stortinget først går inn for å utsetje kravet med eitt år, er
-det useriøst å snu igjen med ein gang, berre for å skape utryggleik ved
+det useriøst å snu igjen med ein gong, berre for å skape utryggleik ved
 å sende blanda signal til bøndene.</A>
-            <A Type="Minnrykk">Norske løkprodusentar klarer seg i stor grad
+            <A Type="Minnrykk">Norske løkprodusentar klarar seg i stor grad
 utan omfattande statlege overføringar. Difor er det svært uheldig
 at staten skaper unødvendige politiske svingingar som undergrev grunnlaget
 for ordinær drift. Matproduksjon krev langsiktig planlegging, og
 det blir det vanskeleg å gjennomføre når politikarane på Stortinget
-endrar mening frå uke til uke.</A>
+endrar meining frå veke til veke.</A>
             <A Type="Minnrykk">No ber vi staten ta økonomisk ansvar, etter
 sjølv å ha skapt eit økonomisk tapspotensial for næringa. Det skal
 skje i form av ei midlertidig kompensasjonsordning, og utan å skape
 nye, langvarige subsidie- eller kompensasjonsordningar i landbruket.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003199">
+          <Hovedinnlegg Id="i1003417">
             <A>
               <Navn personID="MWH">
 Mathias Willassen Hanssen (H) [10:59:03]:</Navn> Høyre har hele
-veien ønsket at direktivet skulle innføres. Det er bra for folkehelsen
+veien ønsket at direktivet skulle innføres. Det er bra for folkehelsen,
 og det er bra for norske forbrukere at vi får strengere grenseverdier,
 ikke bare for kadmium i løk, men også i barnemat, i frokostblandinger
 og i en rekke andre næringsmidler.</A>
@@ -1174,27 +1177,27 @@ og Høyre.</A>
 Mathias Willassen Hanssen har tatt opp det forslaget han refererte
 til. </A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1003201">
+          <Hovedinnlegg Id="i1003419">
             <A>
               <Navn personID="INF">
 Ingrid Fiskaa (SV) [11:01:47]:</Navn> Denne saka skulle me eigentleg
-ha sloppe å behandla her i dag. Det enklaste og beste var om Stortinget
-stod fast på det gode vedtaket frå desember i fjor, der me altså
-vedtok å utsetja innføring av dei nye grenseverdiane for kadmium
-i løk med eitt år, noko som ville ha gjeve løkprodusentane tid til
-å områ seg. </A>
+ha sloppe å behandla her i dag. Det enklaste og beste hadde vore
+om Stortinget stod fast på det gode vedtaket frå desember i fjor,
+der me altså vedtok å utsetja innføring av dei nye grenseverdiane
+for kadmium i løk med eitt år, noko som ville ha gjeve løkprodusentane
+tid til å områ seg. </A>
             <A Type="Minnrykk">Sånn gjekk det dessverre ikkje, for stortingsfleirtalet snudde
 og ville innføra dette EU-regelverket i år likevel. Det skapte stor
 usikkerheit, ikkje berre for løkbøndene rundt Mjøsa, som jo risikerer
 å vera uheldige med kadmiuminnhaldet, men for alle norske matprodusentar.
-For det signalet Arbeidarpartiet, Høgre, Venstre og MDG då sendte,
+For det signalet Arbeidarpartiet, Høgre, Venstre og MDG då sende,
 var at Stortinget utan forvarsel kan koma til å endra rammevilkåra
 for matprodusentar og dytta risikoen over på bøndene. Det er ikkje haldbart,
-særleg ikkje i ei tid då me må produsera meir mat på norske ressursar
-og gjere Noreg meir sjølvforsynt.</A>
+særleg ikkje i ei tid der me må produsera meir mat på norske ressursar
+og gjera Noreg meir sjølvforsynt.</A>
             <A Type="Minnrykk">Regjeringas forslag til kompensasjonsordning
-var på ingen måte god nok den heller, og eg er glad for at stortingsfleirtalet
-no ordnar opp og sørgjer for at staten stiller opp med den nødvendige
+var heller på ingen måte god nok, og eg er glad for at stortingsfleirtalet no
+ordnar opp og sørgjer for at staten stiller opp med den nødvendige
 risikoavlastinga. Me har jobba godt i lag for å stilla opp med ein
 høgare kompensasjonsgrad – og samtidig ramma inn i ordninga sånn
 at det er den faktiske produsentprisen som skal leggjast til grunn,
@@ -1205,7 +1208,7 @@ skal tillatast store mengder tungmetall i norsk mat eller ikkje.
 Me snakkar her om eitt års utsetjing, fordi regjeringa i lang tid
 har late vera å arbeida for nødvendige tilpassingar som kunne ha løyst
 denne saka i utgangspunktet. Det er altså ikkje mogleg for løkprodusentane
-å berre snu seg rundt rett før løken skal setjast i jorda, og motverka
+berre å snu seg rundt rett før løken skal setjast i jorda, og motverka
 det som kan vera tilfeldige og uføreseielege utslag av at grunnen
 inneheld alunskifer. </A>
             <A Type="Minnrykk">Så ja, me er veldig for kalking og alt det
@@ -1214,13 +1217,13 @@ uføreseielege utslaga som dette kan gje, på så kort varsel. Her
 er det regjeringa og stortingsfleirtalet som må ta ansvar, og heldigvis
 har me eit stortingsfleirtal som gjer akkurat det. </A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003203">
+          <Hovedinnlegg Id="i1003421">
             <A>
               <Navn personID="GP">
 Geir Pollestad (Sp) [11:05:03]:</Navn> Dette er ingen gladsak. Det
 er eit krevjande direktiv som norske bønder må forhalda seg til. </A>
-            <A Type="Minnrykk">Det gjekk jo galt då regjeringa føreslo å gjennomføra
-dette nokså hastig – iallfall plutseleg – utan å leggje fram noko som
+            <A Type="Minnrykk">Det gjekk jo gale då regjeringa føreslo å gjennomføra dette
+nokså hastig – iallfall plutseleg – utan å leggja fram noka som
 helst form for risikoavlasting eller kompensasjon. Då tok Stortinget
 ansvar og utsette gjennomføringa med eitt år, fordi me ønskte å
 gje bøndene tid til å omstilla seg. Det fekk me eit ganske stort
@@ -1233,91 +1236,91 @@ berre fordi det er viktig for bøndene, men fordi det er viktig for
 den norske sjølvforsyninga at løkbøndene vel å setja løk òg dette
 året.</A>
             <A Type="Minnrykk">I mellomtida har statsråden lagt fram og presentert
-sitt forslag. Det er det eit dårleg forslag, for det har ein for
-låg kompensasjon, og det gjer at bøndene må bera ein for stor del av
-risikoen. Men det som eg er glad for i det forslaget, er at statsråden
-sender eit klart signal om at dette skal finansierast i revidert
-nasjonalbudsjett, og at det òg kjem eit arbeid med kartlegging i
-revidert nasjonalbudsjett. Då er me iallfall trygge for at me ikkje
-skal bruke energi i mai og juni med å forhandla inn ei ordning på
-dette.</A>
+sitt forslag. Det er eit dårleg forslag, for det har ein for låg
+kompensasjon, og det gjer at bøndene må bera ein for stor del av risikoen.
+Men det som eg er glad for i det forslaget, er at statsråden sender
+eit klart signal om at dette skal finansierast i revidert nasjonalbudsjett,
+og at det òg kjem eit arbeid med kartlegging i revidert nasjonalbudsjett.
+Då er me iallfall trygge på at me ikkje skal bruka energi i mai
+og juni på å forhandla inn ei ordning på dette.</A>
             <A Type="Minnrykk">I dette forslaget har eit fleirtal på Stortinget
-sett skapet på plass, gjort eit veldig detaljert forslag som er
-lett for statsråden å følgja opp, fordi dei spørsmåla som er, er
-langt på veg fullført. </A>
-            <A Type="Minnrykk">Så har eg lyst til å kommentera noko som òg
-er sagt i debatten i dag, at ein må gje bøndene eit insentiv til
-å få ned kadmiumnivået. Det er sagt både frå Arbeidarpartiet og
-Høgre. Eg meiner det er å ha ein grunnleggjande mistillit til norske bønder,
-for viss norske bønder kan velja om dei vil produsera mat for søppelplassen,
-eller mat til norske forbrukarar, er eg heilt trygg på at norske
-bønder ønskjer å produsera mat, dei ønskjer å få betalt for varene
-sine, ikkje erstatning for det som er søppel. Dei ønskjer sjølvsagt
-å gjera det, og no håpar me – og forventar – at landbruksministeren
-raskt følgjer opp med eit vedtak og ei ordning i tråd med det Stortinget
-legg opp til. </A>
+sett skapet på plass og laga eit veldig detaljert forslag som er
+lett for statsråden å følgja opp. Dei spørsmåla som ligg føre, er
+langt på veg fullførte. </A>
+            <A Type="Minnrykk">Så har eg lyst til å kommentera noko som er
+sagt i debatten i dag: at ein må gje bøndene eit insentiv til å
+få ned kadmiumnivået. Det er sagt både frå Arbeidarpartiet og frå
+Høgre. Eg meiner det er å ha ein grunnleggjande mistillit til norske
+bønder, for viss norske bønder kan velja om dei vil produsera mat
+for søppelplassen, eller mat til norske forbrukarar, er eg heilt
+trygg på at norske bønder ønskjer å produsera mat. Dei ønskjer å
+få betalt for varene sine, ikkje erstatning for det som er søppel.
+Dei ønskjer sjølvsagt å gjera det, og no håpar me – og forventar
+– at landbruksministeren raskt følgjer opp med eit vedtak og ei
+ordning i tråd med det Stortinget legg opp til. </A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003205">
+          <Hovedinnlegg Id="i1003423">
             <A>
               <Navn personID="UAB">
 Une Bastholm (MDG) [11:08:19]:</Navn> I dag gir vi en viktig avklaring
 for løkbøndene og deres familier, og vi viser at Stortinget er dedikert
-til å gi norsk matproduksjon og våre bønder forutsigbarhet når det
+til å gi norsk matproduksjon og våre bønder forutsigbarhet når de
 blir pålagt nye krav til maten de produserer i Norge. Vi gjør det
 i grevens tid – i fjor ble det satt løk på Stange i slutten av mars
-– så jeg vil begynne med å takke kolleger i komiteen og statsråden
+– så jeg vil begynne med å takke kollegaer i komiteen og statsråden
 for samarbeid, diskusjoner og raske avklaringer. Jeg vil også takke
 representanter fra næringen i Stange, Gartnerhallen, Innlandet Bondelag
 og andre i faglagene for informasjon, dialog, diskusjoner og tålmodighet. </A>
             <A Type="Minnrykk">Grøntnæringen er vant til risiko, men det bør
 ikke brukes mot dem. Siden setteløken allerede er kjøpt inn for
-i år og en mangler en del vesentlig kunnskap om jordsmonnet og hvordan
-man kan tilpasse, har ikke bøndene noen reell mulighet nå til å
-tilpasse seg og redusere risikoen for inneværende produksjonssesong.
+i år og en mangler vesentlig og presis nok kunnskap om jordsmonnet
+og hvordan man kan tilpasse seg, har ikke bøndene noen reell mulighet
+nå til å tilpasse seg og redusere risikoen for inneværende produksjonssesong.
 Da blir det urimelig av regjeringen kun å tilby 70 pst. kompensasjon.
 Dette har en klar menneskelig side, men det er også feil matpolitikk.
 Miljøpartiet De Grønne vil øke norsk selvforsyning, og grønnsaker
 er der Norge er minst selvforsynt. Grøntnæringen bør ha mer forutsigbarhet,
-ikke mindre, slik at vi beholder de erfarne bøndene vi har, og kan få
-flere store og små produsenter inn for å bidra til ren, lokal mat
-og nasjonal matberedskap. Vi har derfor valgt å bruke vår vippeposisjon
-i saken til å denne et flertall for prinsippet om full kompensasjon,
+ikke mindre, slik at vi beholder de erfarne bøndene vi har, og kan
+få flere store og små produsenter inn for å bidra til ren, lokal
+mat og nasjonal matberedskap. Vi har derfor valgt å bruke vår vippeposisjon
+i saken til å danne et flertall for prinsippet om full kompensasjon,
 minst 95 pst., uten et øvre tak, som en midlertidig ordning i årets
 sesong. </A>
             <A Type="Minnrykk">Denne saken har mildt sagt hatt en humpete
 behandling i Stortinget og før det i regjering, og det håper jeg
 vi alle lærer av. En EU-forordning forsvinner ikke selv om en legger
 den i en skuff, så for framtiden bør en være tidlig ute med å gå
-i dialog med næringer som berøres, og bidra til kunnskapsinnhenting,
-hjelpe dem med omstilling og gi riktige og nødvendige avklaringer.
-Ved at Miljøpartiet De Grønne snudde i saken i Stortinget, ble ikke
-nye grenser for tungmetaller i løk og annen mat utsatt. Det mener
-jeg er bra. Vi fikk også en forpliktelse fra regjeringen, som ikke
-var der fra før, til å bidra med penger og innsats for bedre kartlegging
-og forskning på tilpassing for de bøndene som dyrker i områdene
-med høy risiko, noe som også NIBIO har uttalt tydelig at trengs,
-en rekke ganger. Dette er viktig, for bøndene har egentlig ikke
-manglet tid, dette har vært varslet i flere år, men de har manglet
-at myndighetene stiller opp og forplikter seg til å bidra med kunnskapsinnhenting,
-med måleinstrumenter og med forskere som kan hjelpe dem med å tilpasse.</A>
+i dialog med næringer som berøres, bidra til kunnskapsinnhenting,
+hjelpe dem med omstilling og gi riktige og nødvendige avklaringer. </A>
+            <A Type="Minnrykk">Ved at Miljøpartiet De Grønne snudde i saken
+i Stortinget, ble ikke nye grenser for tungmetaller i løk og annen
+mat utsatt. Det mener jeg er bra. Vi fikk også en forpliktelse fra regjeringen,
+som ikke var der fra før, til å bidra med penger og innsats for
+bedre kartlegging og forskning på tilpassing for de bøndene som
+dyrker i områder med høy risiko, noe som også NIBIO en rekke ganger
+har uttalt tydelig at trengs. Dette er viktig, for bøndene har egentlig
+ikke manglet tid, dette har vært varslet i flere år, men de har
+manglet at myndighetene stiller opp og forplikter seg til å bidra
+med kunnskapsinnhenting, med måleinstrumenter og med forskere som
+kan hjelpe dem med å tilpasse seg.</A>
             <A Type="Minnrykk">Nå får vi på plass en viktig risikoavlastning
 for i år, men det er fortsatt like viktig at pengene til kartlegging
 og forskning kommer som lovet. Målet må være fortsatt å kunne produsere
 like mye norsk kvalitetsløk på Stange. </A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003207">
+          <Hovedinnlegg Id="i1003425">
             <A>
               <Navn personID="NKS">
 Statsråd Nils Kristen Sandtrøen [11:11:33]:</Navn> Et flertall på
-Stortinget vedtok 29. januar å innføre kommisjonsforordningen fra
+Stortinget vedtok 29. januar å innføre kommisjonsforordningen fra
 EU som innebærer lavere tillatte grenseverdier for flere næringsmidler,
 bl.a. for kadmium i løk. Som det har vært sagt fra talerstolen her,
 handler denne regelverkspakken også om regler for frokostblandinger
 og hvor mye klorert alkohol det bl.a. kan være i prosessert barnemat
-som en rest.</A>
-            <A Type="Minnrykk">Den nye grenseverdien for løk innføres 1. juli
+som en rest fra prosesseringen.</A>
+            <A Type="Minnrykk">Den nye grenseverdien for løk innføres 1. juli
 2026. Den innebærer at tillatt nivå for kadmium i løk senkes fra
-0,05 mg/kg til 0,03 mg/kg. Det er viktig å påpeke og presisere,
+0,05 mg/kg til 0,03 mg/kg. Det er viktig å påpeke og presisere,
 for det er i det intervallet at den nye kompensasjonsordningen vil være
 gjeldende. </A>
             <A Type="Minnrykk">Kadmium er et tungmetall som finnes naturlig
@@ -1336,10 +1339,10 @@ for de produsentene som blir berørt. I vedtaket som et flertall
 på Stortinget da stilte seg bak, ble det bestemt at regjeringen
 skulle komme tilbake til Stortinget med en vurdering av en kompensasjonsordning
 senest innen revidert nasjonalbudsjett. Det har vi gjort. Allerede
-den 18. februar varslet vi at vi hadde vurdert saken, ikke bare
-vurdert det, men vi foreslår å finansiere både kartlegging i jorda
-og kompensasjon, slik det ble riktig referert. Det er veldig bra
-at det ser ut til å være støtte til kompensasjonsordning. </A>
+den 18. februar varslet vi at vi hadde vurdert saken – og vi har
+ikke bare vurdert det, men vi foreslår å finansiere både kartlegging
+i jorda og kompensasjon, slik det ble riktig referert. Det er veldig
+bra at det ser ut til å være støtte til kompensasjonsordning. </A>
             <A Type="Minnrykk">Det er viktig å påpeke at i utkastet til ordning
 er det ikke lagt opp til at det er Mattilsynet som må ta prøver
 av løken, men at prøvetaking og analyse må gjennomføres etter reglene som
@@ -1350,7 +1353,7 @@ alle produsenter.</A>
             <A>
               <Navn>Presidenten [11:14:37]:</Navn> Det blir replikkordskifte.</A>
           </Presinnlegg>
-          <Replikk Id="i1003209">
+          <Replikk Id="i1003427">
             <A>
               <Navn personID="GP">
 Geir Pollestad (Sp) [11:14:57]:</Navn> La meg starta med å slå fast
@@ -1362,7 +1365,7 @@ vera, og korleis ordninga skal vera innretta. Kor raskt tenkjer
 statsråden det er mogleg å ha på plass ei ordning i tråd med det
 vedtaket Stortinget skal gjera seinare i dag? </A>
           </Replikk>
-          <Replikk Id="i1003211">
+          <Replikk Id="i1003429">
             <A>
               <Navn personID="NKS">
 Statsråd Nils Kristen Sandtrøen [11:15:30]:</Navn> Det er et veldig
@@ -1376,7 +1379,7 @@ har kommunisert til Stortinget, vil det at ordningen formelt sett
 begynner å virke, være avhengig av at Stortinget gjør et vedtak
 om denne finansieringen ved behandling av revidert nasjonalbudsjett. </A>
           </Replikk>
-          <Replikk Id="i1003213">
+          <Replikk Id="i1003431">
             <A>
               <Navn personID="GP">
 Geir Pollestad (Sp) [11:16:18]:</Navn> Eg trur ein kan vera trygg
@@ -1386,12 +1389,12 @@ som er gjort allereie, men det er òg viktig at det er slik det vert,
 og at det vert lagt inn i revidert budsjett. Ein kan vera trygg
 på at det vil få fleirtal då. </A>
             <A Type="Minnrykk">Eg har lyst til å utfordra litt meir på dette
-med prøvetaking, for det er jo litt stammespråk og viser til eit
-EU-direktiv. Er det rett oppfatta at det er staten som ifølgje dette
-direktivet skal peika på dei ein meiner skal ta desse prøvene, eller
-er det ein annan måte det er tenkt organisert på?</A>
+med prøvetaking, for det er jo litt stammespråk å visa til eit EU-direktiv. Er
+det rett oppfatta at det er staten som ifølgje dette direktivet skal
+peika på dei ein meiner skal ta desse prøvene, eller er det ein
+annan måte det er tenkt organisert på?</A>
           </Replikk>
-          <Replikk Id="i1003215">
+          <Replikk Id="i1003433">
             <A>
               <Navn personID="NKS">
 Statsråd Nils Kristen Sandtrøen [11:17:09]:</Navn> Det er, som jeg
@@ -1408,7 +1411,7 @@ en liten forskjell, der flertallets forslag faktisk kan innebære
 en marginalt lavere utbetaling over ordningen gjennom notifiseringsprisen.
 Det skyldes trekk i forskningsavgift. </A>
           </Replikk>
-          <Replikk Id="i1003217">
+          <Replikk Id="i1003435">
             <A>
               <Navn personID="GP">
 Geir Pollestad (Sp) [11:18:10]:</Navn> Eg kan ta ein replikk til,
@@ -1424,12 +1427,12 @@ bakgrunnen for det valet som er gjort i forslag til vedtak. Eg trur
 intensjonen frå fleirtalet er veldig klar, og slik eg høyrer signala
 her, vil det verta følgt opp på ein god måte. </A>
           </Replikk>
-          <Replikk Id="i1003219">
+          <Replikk Id="i1003437">
             <A>
               <Navn personID="NKS">
 Statsråd Nils Kristen Sandtrøen [11:19:07]:</Navn> Bakgrunnen for
-direktoratets opprinnelige forslag, var å finne en pris slik at
-de kunne behandle det veldig raskt, at det ble mindre tid til saksbehandling,
+direktoratets opprinnelige forslag var å finne en pris slik at de
+kunne behandle det veldig raskt, at det ble mindre tid til saksbehandling,
 og at bonden dermed kunne få en raskere utbetaling. Som jeg nå orienterte
 Stortinget om, er det altså en marginal forskjell hvor innstillingen
 fra flertallet kan gi en noe lavere utbetaling, men vi følger opp
@@ -1437,7 +1440,7 @@ sammen med direktoratet for å finne gode måter å forskriftsfeste
 ordningen på, sånn at den kan fungere så raskt som mulig og være
 mest mulig forutsigbar for bonden. </A>
           </Replikk>
-          <Replikk Id="i1003221">
+          <Replikk Id="i1003439">
             <A>
               <Navn personID="GP">
 Geir Pollestad (Sp) [11:19:50]:</Navn> Til slutt skal eg berre nytta
@@ -1448,15 +1451,15 @@ kompensasjonsgrad» frå fleirtalet si side. Om ein har behov for
 å gå høgare enn det for å få ei ordentleg ordning, trur eg at partia
 som står bak fleirtalet, er opne for det.</A>
           </Replikk>
-          <Replikk Id="i1003223">
+          <Replikk Id="i1003441">
             <A>
               <Navn personID="NKS">
 Statsråd Nils Kristen Sandtrøen [11:20:15]:</Navn> Min kommentar
 gjaldt ikke en kompensasjonsgrad, men hvilke pristyper som legges
-til grunn – bare for å presiseres det. Det tror jeg egentlig representanten
+til grunn – bare for å presisere det. Det tror jeg egentlig representanten
 var veldig innforstått med. </A>
           </Replikk>
-          <Replikk Id="i1003225">
+          <Replikk Id="i1003443">
             <A>
               <Navn personID="UAB">
 Une Bastholm (MDG) [11:20:37]:</Navn> Da kan jeg begynne med å si
@@ -1475,7 +1478,7 @@ noe oppdrag, og er det noen dialog på gang som gjør at de er påkoblet
 og vi får en sterkere innsats for å innhente kunnskap for årets
 sesong?</A>
           </Replikk>
-          <Replikk Id="i1003227">
+          <Replikk Id="i1003445">
             <A>
               <Navn personID="NKS">
 Statsråd Nils Kristen Sandtrøen [11:21:32]:</Navn> Igjen er det
@@ -1490,7 +1493,7 @@ så det må vi kunne komme tilbake til, for det har gått veldig fort
 fra vedtaket den 29. januar og til vi står her i dag og skal utforme videre
 detaljer sammen med underliggende etater.</A>
           </Replikk>
-          <Replikk Id="i1003229">
+          <Replikk Id="i1003447">
             <A>
               <Navn personID="UAB">
 Une Bastholm (MDG) [11:22:25]:</Navn> Det er ett flertall som har
@@ -1501,14 +1504,14 @@ som i dag ber om nær full kompensasjon for tapt løk eller løk som
 har for høye grenseverdier. Jeg tror statsråden kan føle seg fullt
 trygg på at det å igangsette dialog om et oppdrag for å få til følgeforskning
 i tide for årets sesong vil ha flertall i Stortinget. Det finnes
-en del kunnskap. Det finnes særlig en del foto som har gjort beregninger,
-men de er ikke presise nok til at bøndene kan bruke dem til å tilpasse
-produksjonen. Hvis vi legger til grunn at det er løk de skal fortsette
-å produsere på sine arealer, og det er jo et mål her, er det også
-et mål for statsråden at det er løk som fortsatt skal produseres
-på disse arealene på Stange?</A>
+en del kunnskap. Det finnes særlig en del foto en har gjort beregninger
+ut fra, men de er ikke presise nok til at bøndene kan bruke dem
+til å tilpasse produksjonen. Hvis vi legger til grunn at det er
+løk de skal fortsette å produsere på sine arealer – og det er jo
+et mål her – er det også et mål for statsråden at det er løk som
+fortsatt skal produseres på disse arealene på Stange?</A>
           </Replikk>
-          <Replikk Id="i1003231">
+          <Replikk Id="i1003449">
             <A>
               <Navn personID="NKS">
 Statsråd Nils Kristen Sandtrøen [11:23:23]:</Navn> Ja, det er et
@@ -1522,7 +1525,7 @@ til at man blir trygg på hvor det er trygt å produsere løk, ikke
 at vi får gråsonetilfeller. Det vil jeg også anta at stortingsrepresentanten fra
 Miljøpartiet De Grønne er enig i. Det håper jeg i hvert fall.</A>
           </Replikk>
-          <Referanse Id="i1003233" voteringsDato="2026-03-19" debattDato="2026-03-19" saksKartNr="5" />
+          <Referanse Id="i1003451" voteringsDato="2026-03-19" debattDato="2026-03-19" saksKartNr="5" />
           <Presinnlegg>
             <A>
               <Navn>Presidenten [11:24:06]:</Navn> Replikkordskiftet
@@ -1550,7 +1553,7 @@ kl. 11.25.</A>
               <Navn>Presidenten [14:02:43]:</Navn> Stortinget
 går til votering over sakene på dagens kart.</A>
           </Presinnlegg>
-          <Voteringer Id="i1003235" saksKartNr="1" debattDato="2026-03-19" tidspunkt="1403">
+          <Voteringer Id="i1003453" saksKartNr="1" debattDato="2026-03-19" tidspunkt="1403">
             <Sakdel>
               <Tittel>Votering i sakene nr.
 1 og 2, debattert 19. mars 2026</Tittel>
@@ -1564,16 +1567,16 @@ og blir å sende Kongen i overenstemmelse med Grunnloven.</A>
               </Presinnlegg>
             </Sakdel>
           </Voteringer>
-          <Voteringer Id="i1003237" saksKartNr="3" debattDato="2026-03-19" tidspunkt="1403" sakID="106014">
+          <Voteringer Id="i1003455" saksKartNr="3" debattDato="2026-03-19" tidspunkt="1403" sakID="106014">
             <Sakdel>
               <Tittel>Votering i sak nr. 3,
 debattert 19. mars 2026</Tittel>
-              <A Id="i1003239">Innstilling fra utdannings- og forskningskomiteen
+              <A Id="i1003457">Innstilling fra utdannings- og forskningskomiteen
 om Representantforslag fra stortingsrepresentantene Simen Velle og
 Anne Grethe Hauan om rettferdig utdanningsstøtte for studenter med
 pasientskadeerstatning (Innst. 157 S (2025–2026), jf. Dokument 8:70
 S (2025–2026))</A>
-              <Referanse Id="i1003241" debattDato="2026-03-19" saksKartNr="3" />
+              <Referanse Id="i1003459" debattDato="2026-03-19" saksKartNr="3" />
               <Presinnlegg>
                 <A>
                   <Navn>Presidenten:</Navn> Under debatten har Simen
@@ -1609,15 +1612,15 @@ studenter med pasientskadeerstatning.</A>
               </Votering>
             </VedtakS>
           </Voteringer>
-          <Voteringer Id="i1003243" saksKartNr="4" debattDato="2026-03-19" tidspunkt="1404" sakID="106352">
+          <Voteringer Id="i1003461" saksKartNr="4" debattDato="2026-03-19" tidspunkt="1404" sakID="106352">
             <Sakdel>
               <Tittel>Votering i sak nr. 4,
 debattert 19. mars 2026</Tittel>
-              <A Id="i1003245">Innstilling fra utdannings- og forskningskomiteen
+              <A Id="i1003463">Innstilling fra utdannings- og forskningskomiteen
 om Representantforslag fra stortingsrepresentantene Sunniva Holmås
 Eidsvoll og Mirell Høyer-Berntsen om en tryggere digital skolehverdag
 (Innst. 158 S (2025–2026), jf. Dokument 8:82 S (2025–2026))</A>
-              <Referanse Id="i1003247" debattDato="2026-03-19" saksKartNr="4" />
+              <Referanse Id="i1003465" debattDato="2026-03-19" saksKartNr="4" />
               <Presinnlegg>
                 <A>
                   <Navn>Presidenten:</Navn> Under debatten er det
@@ -1749,16 +1752,16 @@ verktøy og hvordan disse skal etterfølges.</A>
               </RomertallSeksjon>
             </VedtakS>
           </Voteringer>
-          <Voteringer Id="i1003249" saksKartNr="5" debattDato="2026-03-19" tidspunkt="1407" sakID="200014">
+          <Voteringer Id="i1003467" saksKartNr="5" debattDato="2026-03-19" tidspunkt="1407" sakID="200014">
             <Sakdel>
               <Tittel>Votering i sak nr. 5,
 debattert 19. mars 2026</Tittel>
-              <A Id="i1003251">Innstilling fra næringskomiteen om Representantforslag fra
+              <A Id="i1003469">Innstilling fra næringskomiteen om Representantforslag fra
 stortingsrepresentantene Geir Pollestad, Trygve Slagsvold Vedum
 og Bengt Fasteraune om kompensasjonsordning for grønnsaksprodusenter
 som rammes av nye grenseverdier for kadmium (Innst. 163 S (2025–2026),
 jf. Dokument 8:99 S (2025–2026))</A>
-              <Referanse Id="i1003253" debattDato="2026-03-19" saksKartNr="5" />
+              <Referanse Id="i1003471" debattDato="2026-03-19" saksKartNr="5" />
               <Presinnlegg>
                 <A>
                   <Navn>Presidenten:</Navn> Under debatten har Mathias
@@ -1795,12 +1798,12 @@ med 52 mot 48 stemmer.</A>
             </VedtakS>
           </Voteringer>
         </VoteringerStart>
-        <Sakreferat Id="i1003255">
+        <Sakreferat Id="i1003473">
           <Sakshode>
             <Saknr>
               <Uth Type="Sperret">Sak
 nr. 6</Uth> [14:07:29]</Saknr>
-            <Saktittel Id="i1003257">
+            <Saktittel Id="i1003475">
               <A>Referat</A>
             </Saktittel>
           </Sakshode>

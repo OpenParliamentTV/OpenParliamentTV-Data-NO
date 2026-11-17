@@ -1,0 +1,213 @@
+{
+  "moteid": 11668,
+  "parts": [
+    {
+      "moteid": 11668,
+      "delnr": 1,
+      "qbvid": "dbbkdsf5tutc73eo7020",
+      "mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/db/dbbkduv5tutc73eo702g/dbbk7fv5tutc73eo701g_1080p.mp4",
+      "audio_mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/db/dbbkduv5tutc73eo702g/dbbk7fv5tutc73eo701g_240p.mp4",
+      "hls_url": "https://httpcache0-90415-cacheod0.dna.contentdelivery.net/90415-cacheod0/_definst_/smil:assets/db/dbbkduv5tutc73eo702g/dbbk7fv5tutc73eo701g_240p/playlist.m3u8",
+      "tc_in_utc": "2026-10-20T07:58:03+00:00",
+      "tc_out_utc": "2026-10-20T10:26:03+00:00",
+      "duration_seconds": 8880.0,
+      "thumbnail_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/db/dbbkduv5tutc73eo702g/dbbk7fv5tutc73eo701g_1080p_5.jpeg",
+      "chapters": [
+        {
+          "start": 0.0,
+          "end": 123.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 123.0,
+          "end": 147.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 147.0,
+          "end": 159.0,
+          "name": "Statsråd Kari Nessa Nordtun"
+        },
+        {
+          "start": 159.0,
+          "end": 181.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 181.0,
+          "end": 198.0,
+          "name": "Hege Bae Nyholt (R)"
+        },
+        {
+          "start": 198.0,
+          "end": 211.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 211.0,
+          "end": 227.0,
+          "name": "Erlend Svardal Bøe (H)"
+        },
+        {
+          "start": 227.0,
+          "end": 240.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 240.0,
+          "end": 253.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 253.0,
+          "end": 1828.0,
+          "name": "Statsminister Jonas Gahr Støre"
+        },
+        {
+          "start": 1828.0,
+          "end": 1852.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 1852.0,
+          "end": 2168.0,
+          "name": "Sylvi Listhaug (FrP)"
+        },
+        {
+          "start": 2168.0,
+          "end": 2487.0,
+          "name": "Tonje Brenna (A)"
+        },
+        {
+          "start": 2487.0,
+          "end": 2806.0,
+          "name": "Ine Eriksen Søreide (H)"
+        },
+        {
+          "start": 2806.0,
+          "end": 3122.0,
+          "name": "Sunniva Holmås Eidsvoll (SV)"
+        },
+        {
+          "start": 3122.0,
+          "end": 3416.0,
+          "name": "Erling Sande (Sp)"
+        },
+        {
+          "start": 3416.0,
+          "end": 3718.0,
+          "name": "Hege Bae Nyholt (R)"
+        },
+        {
+          "start": 3718.0,
+          "end": 3937.0,
+          "name": "Siren Julianne Jensen (MDG)"
+        },
+        {
+          "start": 3937.0,
+          "end": 4250.0,
+          "name": "Joel Ystebø (KrF)"
+        },
+        {
+          "start": 4250.0,
+          "end": 4556.0,
+          "name": "Guri Melby (V)"
+        },
+        {
+          "start": 4556.0,
+          "end": 4843.0,
+          "name": "Statsminister Jonas Gahr Støre"
+        },
+        {
+          "start": 4843.0,
+          "end": 4886.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 4886.0,
+          "end": 6629.0,
+          "name": "Statsråd Åsmund Aukrust"
+        },
+        {
+          "start": 6629.0,
+          "end": 6723.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 6723.0,
+          "end": 6993.0,
+          "name": "Haagen Poppe (H)"
+        },
+        {
+          "start": 6993.0,
+          "end": 7275.0,
+          "name": "Statsråd Lene Vågslid"
+        },
+        {
+          "start": 7275.0,
+          "end": 7411.0,
+          "name": "Haagen Poppe (H)"
+        },
+        {
+          "start": 7411.0,
+          "end": 7604.0,
+          "name": "Statsråd Lene Vågslid"
+        },
+        {
+          "start": 7604.0,
+          "end": 7759.0,
+          "name": "Bente Estil (A)"
+        },
+        {
+          "start": 7759.0,
+          "end": 7976.0,
+          "name": "Mats Henriksen (FrP)"
+        },
+        {
+          "start": 7976.0,
+          "end": 8260.0,
+          "name": "Mahmoud Farahmand (H)"
+        },
+        {
+          "start": 8260.0,
+          "end": 8422.0,
+          "name": "Jørgen H. Kristiansen (KrF)"
+        },
+        {
+          "start": 8422.0,
+          "end": 8592.0,
+          "name": "Haagen Poppe (H)"
+        },
+        {
+          "start": 8592.0,
+          "end": 8747.0,
+          "name": "Statsråd Lene Vågslid"
+        },
+        {
+          "start": 8747.0,
+          "end": 8880.0,
+          "name": "Presidenten"
+        }
+      ]
+    },
+    {
+      "moteid": 11668,
+      "delnr": 2,
+      "qbvid": "dbbmegf5tutc73e71ei0",
+      "mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/db/dbbmekf5tutc73e71eig/dbbmeb75tutc73e71ehg_1080p.mp4",
+      "audio_mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/db/dbbmekf5tutc73e71eig/dbbmeb75tutc73e71ehg_240p.mp4",
+      "hls_url": "https://httpcache0-90415-cacheod0.dna.contentdelivery.net/90415-cacheod0/_definst_/smil:assets/db/dbbmekf5tutc73e71eig/dbbmeb75tutc73e71ehg_240p/playlist.m3u8",
+      "tc_in_utc": "2026-10-20T12:58:03+00:00",
+      "tc_out_utc": "2026-10-20T13:02:03+00:00",
+      "duration_seconds": 240.0,
+      "thumbnail_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/db/dbbmekf5tutc73e71eig/dbbmeb75tutc73e71ehg_1080p_5.jpeg",
+      "chapters": [
+        {
+          "start": 0.0,
+          "end": 240.0,
+          "name": "Presidenten"
+        }
+      ]
+    }
+  ]
+}

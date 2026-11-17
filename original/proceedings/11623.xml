@@ -1,15 +1,15 @@
-<Forhandlinger Status="Kvalitetssikret">
+<Forhandlinger Status="Komplett">
   <Mote moteID="11623">
     <Startseksjon>
       <Motestart>
         <Tittel>Møte onsdag den 6. mai 2026 kl. 10</Tittel>
-        <President Id="i1002309" personID="MASG">
+        <President Id="i1002971" personID="MASG">
           <A>President: <Uth Type="Sperret">Masud
 Gharahkhani</Uth></A>
         </President>
         <Dagsorden>
           <Tittel>Dagsorden <DagsordenNR>(nr. 72):</DagsordenNR></Tittel>
-          <DagsordenSak Id="i1002311">
+          <DagsordenSak Id="i1002973">
             <Liste Type="Dagsorden">
               <Pkt>
                 <A> 1.	Muntlig
@@ -32,13 +32,13 @@ sete.</A>
         </Presinnlegg>
       </Motestart>
     </Startseksjon>
-    <Hovedseksjon Id="i1002313">
+    <Hovedseksjon Id="i1002975">
       <Saker>
         <Sporretime saksKartNr="1">
           <Sakshode>
             <Saknr>
               <Uth Type="Sperret">Sak nr. 1</Uth> [10:00:24]</Saknr>
-            <Saktittel Id="i1002315">
+            <Saktittel Id="i1002977">
               <A>Muntlig spørretime</A>
             </Saktittel>
           </Sakshode>
@@ -53,7 +53,7 @@ og vi er klare til å starte den muntlige spørretimen. </A>
             <A Type="Minnrykk">Vi starter da med første hovedspørsmål, fra
 representanten Himanshu Gulati.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1002317">
+          <Hovedinnlegg Id="i1002979">
             <A>
               <Navn personID="HGU">
 Himanshu Gulati (FrP) [10:00:50]:</Navn> Mitt spørsmål går til utenriksministeren.</A>
@@ -70,11 +70,11 @@ mye at i en undersøkelse som NRK gjorde i november 2023, svarte
 over 80 pst. av norske jøder at de nå vurderer om Norge er et trygt land
 for dem. </A>
             <A Type="Minnrykk">Vi har altså en religiøs minoritet som ikke
-føler seg trygg i Norge. Mange føler nå at om de vil leve som jøder,
-må de flytte vekk fra Norge. Over halvparten av norske jøder sier
-at dette har vært et samtaletema i familien. Flertallet sier også, dessverre,
-at de ikke har tillit til den norske regjeringen i den vanskelige
-situasjonen de befinner seg i.</A>
+føler seg trygg i Norge. Mange føler nå at de må flytte vekk fra
+Norge om de vil leve som jøder. Over halvparten av norske jøder
+sier at dette har vært et samtaletema i familien. Flertallet sier
+også, dessverre, at de ikke har tillit til den norske regjeringen
+i den vanskelige situasjonen de befinner seg i.</A>
             <A Type="Minnrykk">Under et debattmøte arrangert av Sosialistisk
 Forum i Trondheim den 21. april kalte NTNU-professor Bassam Hussein
 Hamas’ terrorangrep den 7. oktober for «den vakreste ting som har
@@ -90,7 +90,7 @@ har tatt avstand fra disse uttalelsene, og hvorfor både utenriksministeren
 og resten av regjeringen er så fraværende i møte med slike antisemittiske
 holdninger.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1002319">
+          <Hovedinnlegg Id="i1002981">
             <A>
               <Navn personID="EBE">
 Utenriksminister Espen Barth Eide [10:03:03]:</Navn> Representanten
@@ -121,18 +121,18 @@ også må klare å skille tydelig mellom hva som er ansvaret til den
 mest ytterliggående regjeringen noensinne i Israel, og det jødiske
 folk i verden generelt, ikke minst her i Norge.</A>
           </Hovedinnlegg>
-          <Replikk Id="i1002321">
+          <Replikk Id="i1002983">
             <A>
               <Navn personID="HGU">
-Himanshu Gulati (FrP) [10:04:59]:</Navn> Jeg glad for det utenriksministeren
-sier, men gang på gang opplever norske jøder denne type behandling,
+Himanshu Gulati (FrP) [10:04:59]:</Navn> Jeg er glad for det utenriksministeren
+sier, men gang på gang opplever norske jøder denne typen behandling,
 og det er heller ikke første gang regjeringen har vært tause. Under
 markeringer og demonstrasjoner ropes ofte slagord som «global intifada»
 eller «ingen sionister i våre gater», og ingen må være i tvil om
 hva «global intifada» betyr. Det betyr terroraksjoner mot sivile jøder,
 både i og utenfor Israel, både voksne og barn. </A>
             <A Type="Minnrykk">I mars ble tre menn pågrepet ved synagogen
-i Oslo, siktet for befatning med våpen og eksplosiver. I desember
+i Oslo siktet for befatning med våpen og eksplosiver. I desember
 ble tolv personer skutt og drept i et målrettet angrep mot jøder
 og en hanukka-feiring i Sydney, og i forrige uke ble to jødiske
 menn knivstukket i London. Jøder angripes fordi de er jøder. Dessverre
@@ -143,14 +143,14 @@ ulike demonstrasjoner. Jeg vil derfor spørre om hvorfor utenriksministeren
 og regjeringen ikke viser tydeligere handling mot disse ropene som
 vi stadig vekk ser og opplever. </A>
           </Replikk>
-          <Replikk Id="i1002323">
+          <Replikk Id="i1002985">
             <A>
               <Navn personID="EBE">
 Utenriksminister Espen Barth Eide [10:06:06]:</Navn> Det aller viktigste
-vi gjør, er jo å forebygge handlinger. Disse tre mennene som det
-ble vist til, ble jo pågrepet nettopp fordi de hadde våpen og sånn
-sett kunne mistenkes for å planlegge handlinger, voldelige handlinger
-som er ulovlige og uakseptable. </A>
+vi gjør, er å forebygge handlinger. Disse tre mennene som det ble
+vist til, ble pågrepet nettopp fordi de hadde våpen og sånn sett
+kunne mistenkes for å planlegge voldelige handlinger som er ulovlige
+og uakseptable. </A>
             <A Type="Minnrykk">Det er også viktig å være tydelig på hva slags
 standpunkter som framføres, men dette skal jo gjøres innen rammen
 av et land som legger stor vekt på ytringsfrihet, og det er altså ikke
@@ -164,11 +164,11 @@ er på veldig ville veier. Særlig de som er mest engasjert i palestinernes
 situasjon, bør ha et spesielt ansvar for å passe på at man skiller
 kritikk av Israel fra kritikk av jøder generelt.</A>
           </Replikk>
-          <Replikk Id="i1002325">
+          <Replikk Id="i1002987">
             <A>
               <Navn personID="HGU">
 Himanshu Gulati (FrP) [10:07:11]:</Navn> Jeg har nevnt to eksempler
-på ytringer gjort i full offentlighet, der vi mener at regjeringen
+på ytringer gjort i full offentlighet der vi mener at regjeringen
 burde vært tydelige istedenfor tause. Jeg vil likevel ta opp et
 eksempel til: Under kvinnedagen, 8. mars, i 2024 ønsket flere jødiske
 kvinner å delta i markeringen i Oslo for å vise støtte til de kvinnene
@@ -176,37 +176,37 @@ som ble seksuelt utsatt og voldtatt i forbindelse med 7. oktober-angrepet.
 Mange ble den dagen voldtatt på bestialsk vis før de ble drept,
 og vi vet også at mange av dem som var i fangenskap hos Hamas, ble seksuelt
 utnyttet. Kvinnene i Norge ble fysisk hindret fra å delta i markeringen
-og måtte beskyttes av politiet. Også den gang registrerte vi ikke
-at regjeringen tok avstand fra dette, eller ga klar beskjed om at
-det å utestenge jøder fra offentlige arrangementer på den måten,
+og måtte beskyttes av politiet. Heller ikke den gangen registrerte
+vi at regjeringen tok avstand fra dette eller ga klar beskjed om
+at det å utestenge jøder fra offentlige arrangementer på den måten
 er uakseptabelt.</A>
             <A Type="Minnrykk">Jeg vil derfor spørre hvorfor man ikke gjorde
 det. Vi føler at regjeringen ofte er altfor tause i disse sakene.</A>
           </Replikk>
-          <Replikk Id="i1002327">
+          <Replikk Id="i1002989">
             <A>
               <Navn personID="EBE">
 Utenriksminister Espen Barth Eide [10:08:07]:</Navn> Jeg tror det
 er viktig å tenke litt prinsipielt om dette, se hva vi mener generelt,
 f.eks. om regjeringens syn på sammensetning av demonstrasjoner,
-som jo for øvrig veldig ofte har brodd mot regjeringen selv eller
-mot offentlige myndigheter. Jeg tror man skal være litt forsiktig
-med å si at regjeringen skal si hvem som skal få gå, og hvem som
-ikke skal få gå i demonstrasjoner. Men vi har en veldig generell
-holdning i dette landet som skal gjelde alle som bor her, alle som
-oppholder seg i Norge, at det skal være ytringsfrihet, forsamlingsfrihet
-og rett til å ytre seg. </A>
+som for øvrig veldig ofte har brodd mot regjeringen selv eller mot
+offentlige myndigheter. Jeg tror man skal være litt forsiktig med
+å si at regjeringen skal si hvem som skal få gå og hvem som ikke
+skal få gå i demonstrasjoner. Men vi har en veldig generell holdning
+i dette landet som skal gjelde alle som bor her, alle som oppholder
+seg i Norge, at det skal være ytringsfrihet, forsamlingsfrihet og rett
+til å ytre seg. </A>
             <A Type="Minnrykk">Jeg personlig mener det er veldig synd at folk
-som har lyst til å ytre seg, f.eks. i en demonstrasjon, ikke får
+som har lyst til å ytre seg f.eks. i en demonstrasjon, ikke får
 adgang, men det er ikke noe jeg synes regjeringen skal regulere.
 Jeg tror egentlig ikke Fremskrittspartiets generelle syn er at det bør
-være offentlige myndigheter som på en måte skal organisere demonstrasjoner,
+være offentlige myndigheter som på en måte skal organisere demonstrasjoner
 og sørge for at riktige holdninger blir framført i de demonstrasjonene.
 Det tror jeg er standpunkter som først og fremst framkommer når
 spørsmålet er Israel og jøder, og ikke noe som er deres normale
 tilnærming til hvordan ytringsfrihet skal organiseres.</A>
           </Replikk>
-          <Replikk Id="i1002329">
+          <Replikk Id="i1002991">
             <A>
               <Navn personID="HGU">
 Himanshu Gulati (FrP) [10:09:06]:</Navn> Det er svært sterke følelser
@@ -216,7 +216,7 @@ om Israel og hvordan det påvirker jøder her i Norge. HL-senterets
 holdningsundersøkelse viser at en tredjedel av respondentene sier
 at Israels krigføring i Gaza har gjort dem mer negativt innstilt
 til jøder generelt. Deres forskning viser også at antisemittiske
-holdninger er vanligere hos dem med en sterk anti-israelske holdning.
+holdninger er vanligere hos dem med en sterk anti-israelsk holdning.
 Dette gjør det ekstra viktig å påpeke, særlig overfor Israels sterkeste
 kritikere, at jøder i Norge ikke har noe med krigen eller Israels regjering
 å gjøre, som vi også nettopp var inne på. Jeg vil derfor igjen spørre
@@ -227,27 +227,27 @@ holdningene og disse ropene, når uttalelser og tilrop som nører
 opp under hat og fiendtlighet mot jøder og israelere, stadig vekk
 forekommer i Norge?</A>
           </Replikk>
-          <Replikk Id="i1002331">
+          <Replikk Id="i1002993">
             <A>
               <Navn personID="EBE">
-Utenriksminister Espen Barth Eide [10:10:06]:</Navn> Jeg tar sterk
-avstand fra antisemittiske holdninger. Jeg vil også si at jeg tror
-nok at en del av dem som blir berørt av dette, ofte leser antisemittiske
+Utenriksminister Espen Barth Eide [10:10:06]:</Navn> Jeg tar sterkt
+avstand fra antisemittiske holdninger. Jeg vil også si at jeg nok
+tror at en del av dem som blir berørt av dette, ofte leser antisemittiske
 holdninger inn i kritikk av staten Israels oppførsel. Jeg mener
 det både finnes eksempler på reelle antisemittiske holdninger, som
-man skal slå ned på, og noen ganger hvor man tolker det man fra
+man skal slå ned på, og noen ganger på at man tolker det man fra
 enkelte hold mener er en sterk kritikk av Israel, som antisemittisme.
 Da er det viktig at man skiller. </A>
-            <A Type="Minnrykk">Jeg har ganske hyppig dialog med sentrale med
-muslimske miljøer, bl.a. en veldig god dialog med Muslimsk Dialognettverk.
-Jeg opplever at vi veldig ofte snakker om ansvaret for dem som er
-aller mest berørt av grusomhetene, som det palestinske folk har
-vært igjennom, og at de er med på å minne om dette skillet mellom
-et folk – mange av dem bor i Israel, mange bor her og i andre land
-– og en valgt israelsk regjeringen. Jeg føler at det stort sett
-er forstått i viktige miljøer, men jeg gjentar det gjerne.</A>
+            <A Type="Minnrykk">Jeg har ganske hyppig dialog med sentrale muslimske miljøer,
+bl.a. en veldig god dialog med Muslimsk Dialognettverk. Jeg opplever
+at vi veldig ofte snakker om ansvaret for dem som er aller mest
+berørt av grusomhetene, som det palestinske folk har vært igjennom,
+og at de er med på å minne om dette skillet mellom et folk – mange
+av dem bor i Israel, mange bor her og i andre land – og en valgt
+israelsk regjering. Jeg føler at det stort sett er forstått i viktige
+miljøer, men jeg gjentar det gjerne.</A>
           </Replikk>
-          <Replikk Id="i1002333">
+          <Replikk Id="i1002995">
             <A>
               <Navn personID="HGU">
 Himanshu Gulati (FrP) [10:11:11]:</Navn> I forbindelse med terrorangrepet
@@ -259,7 +259,7 @@ og det kan vi ikke være bekjent av, sa Kravik. Jeg vil be utenriksministeren
 utdype disse uttalelsene ytterligere. Hvorfor ønsket ikke regjeringen
 at Kongen den gangen skulle sende kondolanser?</A>
           </Replikk>
-          <Replikk Id="i1002335">
+          <Replikk Id="i1002997">
             <A>
               <Navn personID="EBE">
 Utenriksminister Espen Barth Eide [10:11:39]:</Navn> Jeg vil først
@@ -268,19 +268,19 @@ utenriksminister en uke etterpå, men det var samme regjering. </A>
             <A Type="Minnrykk">Den opprinnelige beslutningen ble tatt rett
 og slett basert på en tradisjonell oppdeling i hva slags saker som
 kondoleres av statsminister og regjering, og hva som representeres
-av konge, hvor hovedskillet er mellom det man kan kalle naturkatastrofe-typen
-hendelser, som går fra Kongen, og hendelser som har et politisk
+av konge. Hovedskillet er mellom det man kan kalle naturkatastrofe-typen
+hendelser, som går fra kongen, og hendelser som har et politisk
 tilsnitt av en eller annen art. Men jeg er enig med min statssekretær
 i at i lys av den debatten som har vært ført, og hvor sentral denne
 diskusjonen har blitt, vil man i etterpåklokskapens lys kunne si
 at man i dette tilfellet godt kunne ha gjort et unntak fra hovedregelen,
-og at også Kongen kunne kondolert, slik statsministeren selvfølgelig
+og at også kongen kunne kondolert, slik statsministeren selvfølgelig
 gjorde. Det var uansett ingen tvil om at den norske staten både
 kondolerte og uttrykte forferdelse og avstandtagen fra dette. Det
 mener jeg er det viktigste i dette tilfellet, også med hensyn til
 det første spørsmålet.</A>
           </Replikk>
-          <Replikk Id="i1002337">
+          <Replikk Id="i1002999">
             <A>
               <Navn personID="HGU">
 Himanshu Gulati (FrP) [10:12:41]:</Navn> I et intervju med den israelske
@@ -290,16 +290,16 @@ den palestinske selvstyremyndigheten – er avsluttet, og at det har
 blitt en type velferdsprogram. Ifølge en ny rapport fra det amerikanske
 utenriksdepartementet til Kongressen fortsetter imidlertid selvstyremyndighetene
 med å utbetale ytelser til palestinske terrorister og deres familier,
-men under nye mekanismer og under et annet navn. Jeg ønsker derfor
+men gjennom nye mekanismer og under et annet navn. Jeg ønsker derfor
 å spørre utenriksministeren på hvilket grunnlag han kan hevde at
 «pay-for-slay»-ordningen har blitt avviklet.</A>
           </Replikk>
-          <Replikk Id="i1002339">
+          <Replikk Id="i1003001">
             <A>
               <Navn personID="EBE">
 Utenriksminister Espen Barth Eide [10:13:16]:</Navn> For det første
 har det aldri vært en ordning som heter «pay-for-slay». Det er israelsk
-høyreside, støttet av noen av sine venner i USA, som har funnet
+høyreside, støttet av noen av deres venner i USA, som har funnet
 opp det navnet på en bestemt ordning. Det er imidlertid riktig at
 ordningen gjorde at også fanger som var dømt i Israel for terrorvirksomhet,
 eller deres familie, fikk noe hjelp av palestinske myndigheter.
@@ -315,7 +315,7 @@ har blitt så viktig, har den kloke statsministeren i Palestina sørget
 for at ordningen er endret, og jeg mener at det reformprogrammet
 de står i spissen for nå, er kommet ganske langt.</A>
           </Replikk>
-          <Replikk Id="i1002341">
+          <Replikk Id="i1003003">
             <A>
               <Navn personID="HGU">
 Himanshu Gulati (FrP) [10:14:21]:</Navn> Uansett hva ordningen kalles,
@@ -325,7 +325,7 @@ europeiske land og også andre land som har reagert på at palestinske
 selvstyremyndigheter har brukt penger på den typen ordninger. Fremskrittspartiet
 mener det er helt feil at norske skattebetaleres penger – bistandspenger –
 kan havne som lønn for terrorister. </A>
-            <A Type="Minnrykk">Videre påtaler det amerikanske utenriksdepartementet
+            <A Type="Minnrykk">Videre påtaler det amerikanske utenriksdepartementet,
 i samme rapport som jeg viste til, at forherligelse av terrorisme og
 opplæring i hat lever i beste velgående i bl.a. skolebøker og offisielle
 kilder i Det palestinske området. Ifølge NGO-er som har undersøkt
@@ -335,7 +335,7 @@ selvstyremyndighetene. Jeg ønsker derfor å spørre utenriksministeren
 om han kan garantere at ikke våre penger går til å finansiere slike
 hatbudskap.</A>
           </Replikk>
-          <Replikk Id="i1002343">
+          <Replikk Id="i1003005">
             <A>
               <Navn personID="EBE">
 Utenriksminister Espen Barth Eide [10:15:21]:</Navn> Dette kan også
@@ -358,31 +358,31 @@ Norske lønninger skal ikke gå til å belønne terrorisme. Det mener
 jeg heller ikke de har gjort, men det er i hvert fall ikke noen
 tvil om at det er et godt prinsipp.</A>
           </Replikk>
-          <Replikk Id="i1002345">
+          <Replikk Id="i1003007">
             <A>
               <Navn personID="JOEYST">
 Joel Ystebø (KrF) [10:16:40]:</Navn> Bare på to uker i vår så vi
-en rekke antisemittisk angrep – eksplosjon ved en synagoge i Belgia,
+en rekke antisemittiske angrep – eksplosjon ved en synagoge i Belgia,
 politiaksjon ved synagogen i Oslo, skyting ved en synagoge i Michigan
 og eksplosjon ved en jødisk skole i Amsterdam. Samtidig ser vi en
 urovekkende økning i antisemittiske hendelser i eget land. For kort
 tid siden ble en fredelig markering av Israels nasjonaldag utenfor
 Stortinget møtt med antisemittiske tilrop fra demonstranter. Sjokkerende
 nok brøt aldri politiet inn, og det var en vurdering som justisministeren
-har stilt seg bak. Denne uken er det blitt kjent flere grove antisemittiske
-påstander fra en NTNU-professor i forbindelse med et foredrag på
-Litteraturhuset i Trondheim.</A>
+har stilt seg bak. Denne uken er flere grove antisemittiske påstander
+fra en NTNU-professor i forbindelse med et foredrag på Litteraturhuset
+i Trondheim, blitt kjent.</A>
             <A Type="Minnrykk">Norske jøder oppgir at denne regjeringens ubalanserte Midtøsten-politikk
 og statsrådens egen retorikk legger ytterligere sten til byrden.
 Hva tenker utenriksministeren om at vi får slike rapporter fra norske
 jøder på Arbeiderpartiets vakt?</A>
           </Replikk>
-          <Replikk Id="i1002347">
+          <Replikk Id="i1003009">
             <A>
               <Navn personID="EBE">
 Utenriksminister Espen Barth Eide [10:17:41]:</Navn> Når det gjelder
 denne NTNU-professorens uttalelser, svarte jeg på det i et spørsmål
-fra Gulati, og jeg mener det samme som jeg mente for 5 minutter
+fra Gulati, og jeg mener det samme som jeg mente for fem minutter
 siden der.</A>
             <A Type="Minnrykk">Når det gjelder norske jøders opplevelse av
 det å være jøde i Norge, tar jeg det på største alvor. Jeg vet at
@@ -391,7 +391,7 @@ sitter i en situasjon der man følger et norsk mediebilde og et israelsk
 mediebilde samtidig, så ser man en stor diskrepans mellom dem. Det
 er ikke bare regjeringens holdning. Jeg mener hele Norge har et
 veldig annerledes syn på Midtøsten-konflikten i dag enn det man
-har f.eks. i israelsk og pro-israelske medier i andre land. Jeg
+har f.eks. i israelske og pro-israelske medier i andre land. Jeg
 skjønner at denne diskrepansen føles sterk.</A>
             <A Type="Minnrykk">Jeg mener jo at vår politikk er riktig. Jeg
 mener Norge er en venn av staten Israel. Vi er dypt bekymret for
@@ -401,50 +401,49 @@ ser at stadig flere land nå inntar standpunkter vi var mer alene
 om for tre år siden, rett og slett fordi vår politikk begynner å
 få oppslutning.</A>
           </Replikk>
-          <Replikk Id="i1002349">
+          <Replikk Id="i1003011">
             <A>
               <Navn personID="JOEYST">
 Joel Ystebø (KrF) [10:18:48]:</Navn> Jeg synes det er absurd å høre
 hvordan utenriksministeren kun skylder på en kontrast mellom norsk
 mediedekning og israelsk mediedekning istedenfor å se hvordan egen
 politikk kan føre til en verre situasjon for norske jøder. Regjeringen
-brukte som nevnt to et halvt år på å erkjenne at man burde kondolert
+brukte som nevnt to og et halvt år på å erkjenne at man burde kondolert
 Israel etter 7. oktober. Statsråden sendte dessuten sin statssekretær
 ut for å komme med en sånn type omtale, dette uten å komme med en
 klar og tydelig beklagelse til miljøet.</A>
             <A Type="Minnrykk">Vi har også sett at en våpenhvile i Libanon,
-framforhandlet med tung involvering fra både Israel og USA, i statsrådens egen
-sosiale medier-post ble omtalt som om disse aktørene knapt var til
-stede eller involvert på noen som helst måte. Dette mener jeg ikke
-bare er en forglemmelse; det er et mønster – en politisk refleks
-– der Israel fordømmes på autopilot, og når de da bidrar til en
-våpenhvile, blir de helt utelatt. Hva slags troverdig utenrikspolitikk
+framforhandlet med tung involvering fra både Israel og USA, i utenriksministerens
+egen sosiale medier-post ble omtalt som om disse aktørene knapt
+var til stede eller involvert på noen som helst måte. Dette mener
+jeg ikke bare er en forglemmelse; det er et mønster – en politisk
+refleks – der Israel fordømmes på autopilot, og når de da bidrar
+til en våpenhvile, blir de helt utelatt. Hva slags troverdig utenrikspolitikk
 er det når man ikke engang klarer å erkjenne realitetene i en sånn
 sak?</A>
           </Replikk>
-          <Replikk Id="i1002351">
+          <Replikk Id="i1003013">
             <A>
               <Navn personID="EBE">
 Utenriksminister Espen Barth Eide [10:19:49]:</Navn> Dette siste
-er litt underlig, for det var altså Israel som gikk til angrep i
-Libanon, altså ikke mot den libanesiske regjeringen, men mot Hizbollah,
-etter at det var blitt fred der tidligere. Dette skjedde altså i
-lys av den nye Iran-krigen, og jeg var veldig tydelig på at jeg
-var glad for at president Trump klarte å tvinge fram en fredsavtale,
-og gjorde det tydelig for Netanyahu at også han måtte være med på
-en fredsavtale. Dette skjedde i form av møter i Washington, det
-helt riktig. Men her må vi bare erkjenne at akkurat som Trump faktisk
-bidro til at Israel stoppet angrepene på Gaza, bidro han også til
-at det ble en våpenhvile i Israel.</A>
-            <A Type="Minnrykk">Det var Israel som startet akkurat den krigen,
+er litt underlig, for det var Israel som gikk til angrep i Libanon,
+altså ikke mot den libanesiske regjeringen, men mot Hizbollah, etter
+at det var blitt fred der tidligere. Dette skjedde altså i lys av
+den nye Iran-krigen, og jeg var veldig tydelig på at jeg var glad
+for at president Trump klarte å tvinge fram en fredsavtale, og gjorde
+det tydelig for Netanyahu at også han måtte være med på en fredsavtale.
+Dette skjedde i form av møter i Washington, det er helt riktig.
+Men her må vi bare erkjenne at akkurat som Trump faktisk bidro til
+at Israel stoppet angrepene på Gaza, bidro han også til at det ble en
+våpenhvile i Israel. Det var Israel som startet akkurat den krigen,
 så spesielt mye ros følte jeg ikke at de trengte der, men jeg er
 glad for at det nå foreligger en våpenhvile også i Libanon. Jeg
 håper den holder, for det er viktig for menneskene i Libanon, hvor
-veldig mange mennesker ble drept. Særlig den dagen president Trump
-først hadde sagt at det skulle bli våpenhvile, kom det største angrepet,
+veldig mange mennesker ble drept. Den dagen president Trump først
+hadde sagt at det skulle bli våpenhvile, kom det største angrepet,
 men det er nå i en litt bedre fase, og det er jeg glad for.</A>
           </Replikk>
-          <Replikk Id="i1002353">
+          <Replikk Id="i1003015">
             <A>
               <Navn personID="JOEYST">
 Joel Ystebø (KrF) [10:20:51]:</Navn> Israel befinner seg i en – vedvarende
@@ -462,7 +461,7 @@ at Israel lever under en eksistensiell trussel? Og hvis ja: Hvorfor
 kommer ikke den erkjennelsen tydeligere til uttrykk i Arbeiderpartiets
 politikk og retorikk?</A>
           </Replikk>
-          <Replikk Id="i1002355">
+          <Replikk Id="i1003017">
             <A>
               <Navn personID="EBE">
 Utenriksminister Espen Barth Eide [10:21:44]:</Navn> Det har vært
@@ -481,7 +480,7 @@ grenser som nabo av Palestina. Det er den eneste veien til fred,
 og det har vært vår motivasjon hele tiden for både israelere og
 palestinere.</A>
           </Replikk>
-          <Replikk Id="i1002357">
+          <Replikk Id="i1003019">
             <A>
               <Navn personID="JOEYST">
 Joel Ystebø (KrF) [10:22:48]:</Navn> For få måneder siden var Mahmoud
@@ -490,7 +489,7 @@ har møtt velgerne på nær to tiår, som styrer uten demokratisk mandat,
 og som gjentatte ganger har fremmet antisemittiske uttalelser, rett
 og slett en ekte antisemitt på besøk i hjertet av det norske demokratiet.
 Norge finansierer det palestinske utdanningssystemet. Samtidig dokumenterer
-bl.a. IMPACT-se at skolebøker fortsatt sprer jødehat,  glorifiserer
+bl.a. IMPACT-se at skolebøker fortsatt sprer jødehat, glorifiserer
 jihad og oppfordrer barn til vold. Dette er ikke enkeltavvik, det
 er systematisk, og mens Europaparlamentet og andre internasjonale
 aktører tydelig krever opprydning, opplever vi at den norske regjeringen
@@ -501,7 +500,7 @@ vi finansierer et system som dokumentert sprer hat og vold. Mitt spørsmål
 er derfor: Hvordan kan regjeringen forsvare å gi politisk legitimitet
 til Mahmoud Abbas?</A>
           </Replikk>
-          <Replikk Id="i1002359">
+          <Replikk Id="i1003021">
             <A>
               <Navn personID="EBE">
 Utenriksminister Espen Barth Eide [10:23:51]:</Navn> Den politiske
@@ -517,14 +516,14 @@ gledelig. Vi tror også at det er viktig at det nå snart stunder
 mot nasjonale valg. Men det er også viktig å være klar over at den palestinske
 myndigheten vi snakker om, har stadig mindre handlingsrom, for de
 presses av den mest ytterliggående israelske regjeringen vi noen
-gang har sett, også i Vestbredden, bl.a. fysisk, der ekstreme israelere,
+gang har sett, også på Vestbredden, bl.a. fysisk, der ekstreme israelere,
 noen av dem terrorister, rett og slett dreper for fote palestinere
 som bor der, men også undergraver myndighetene gjennom økonomisk
 og andre typer press hver eneste dag. Så det er ikke så veldig lett
 å være palestinsk myndighet, men vi jobber alltid for demokrati
 og reformer.</A>
           </Replikk>
-          <Replikk Id="i1002361">
+          <Replikk Id="i1003023">
             <A>
               <Navn personID="JOEYST">
 Joel Ystebø (KrF) [10:24:58]:</Navn> Jeg synes det er spesielt å
@@ -532,8 +531,8 @@ høre utenriksministeren snakke om hvor vanskelig det er å være de
 palestinske myndighetene. Det spørsmålet mitt handler om, er hvordan
 man kan forsvare å gi legitimitet til en statsleder som sprer så
 grov antisemittisk retorikk i egne skolebøker. Samtidig bygger dette
-på at Norge har anerkjent Palestina som stat. Vi snakker  om et
-område uten avklarte grenser, uten et fungerende demokratisk styresett.
+på at Norge har anerkjent Palestina som stat. Vi snakker om et område
+uten avklarte grenser, uten et fungerende demokratisk styresett.
 Store deler styres av aktører som verken anerkjenner Israel eller
 tar tydelig avstand fra vold og terror. Likevel velger Norge å gi
 diplomatisk anerkjennelse, uten at grunnleggende krav til ansvarlig
@@ -545,7 +544,7 @@ stilt i forkant av beslutningen? Jeg mener at utenriksministeren
 ikke bare kan stille seg bak FNs håndtering, men må svare på hvordan
 regjeringen selv tenker om disse spørsmålene.</A>
           </Replikk>
-          <Replikk Id="i1002363">
+          <Replikk Id="i1003025">
             <A>
               <Navn personID="EBE">
 Utenriksminister Espen Barth Eide [10:25:59]:</Navn> Det gjør jeg
@@ -563,39 +562,38 @@ Israel. </A>
             <A Type="Minnrykk">Jeg kjenner meg ikke igjen i at president Abbas
 er en antisemitt – jeg kjenner ham godt. Jeg opplever at han vet
 at en del av hans prosjekt er å bygge en stat som skal leve i fred, side
-ved side, med Israel. Han har jo vært utsatt for drapsforsøk fra
-Hamas, akkurat som mange israelere har blitt, nettopp fordi han
-har stått opp for at vi skal ha en tostatsløsning og tillate Israel
-å eksistere. Så det manuset KrF her bruker, mener jeg godt kan oppdateres
-nå.</A>
+om side med Israel. Han har jo vært utsatt for drapsforsøk fra Hamas,
+akkurat som mange israelere har blitt, nettopp fordi han har stått
+opp for at vi skal ha en tostatsløsning og tillate Israel å eksistere.
+Så det manuset KrF her bruker, mener jeg godt kan oppdateres nå.</A>
           </Replikk>
           <Presinnlegg>
             <A>
               <Navn>Presidenten [10:27:06]:</Navn> Vi går videre
 til neste hovedspørsmål.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1002365">
+          <Hovedinnlegg Id="i1003027">
             <A>
               <Navn personID="IME">
 Ine Eriksen Søreide (H) [10:27:20]:</Navn> USA og Israel valgte
-28. februar å starte en krig mot Iran som ingen i Europa hadde bedt
-om, men det iranske folket fortjener mye bedre enn det brutale regimet
-som styrer nå. Irans atom- og missilprogram er en trussel mot både
-Midtøsten og Europa, men krigen strider mot folkeretten, og islamistregimet
-sitter fortsatt ved makten. USA og Israel manglet åpenbart både
-en strategi og en exit-strategi. Situasjonen endrer seg nå nærmest
-fra time til time, og veldig mye er usikkert. </A>
+28. februar å starte en krig som ingen i Europa hadde bedt om, mot
+Iran, men det iranske folket fortjener mye bedre enn det brutale
+regimet som styrer nå. Irans atom- og missilprogram er en trussel
+mot både Midtøsten og Europa, men krigen strider mot folkeretten,
+og islamistregimet sitter fortsatt ved makten. USA og Israel manglet
+åpenbart både en strategi og en exit-strategi. Situasjonen endrer
+seg nå nærmest fra time til time, og veldig mye er usikkert. </A>
             <A Type="Minnrykk">Fri ferdsel på verdenshavene er en helt sentral
 norsk utenrikspolitisk interesse. I strid med havretten har Iran
-blokkert ferdsel gjennom Hormuzstredet, og dermed også brakt verden
+blokkert ferdsel gjennom Hormuzstredet og dermed også brakt verden
 på randen av en energikrise. Regimet har også fått bekreftet at
 et ess de har hatt liggende i ermet, men så langt ikke har brukt,
 nemlig å stenge Hormuzstredet, faktisk virker. Det har både gitt
 ny selvtillit og selvfølgelig gitt USA færre muligheter til å avslutte
 det som nå skjer. </A>
             <A Type="Minnrykk">Ifølge Rederiforbundet er det fortsatt mellom
-25 og 30 norskeide skip i regionen, flesteparten av dem da på innsiden av
-Hormuzstredet. Stredet er trolig minelagt, og det er forbundet med
+25 og 30 norskeide skip i regionen, flesteparten av dem på innsiden
+av Hormuzstredet. Stredet er trolig minelagt, og det er forbundet med
 betydelig risiko å passere gjennom. Etter to måneder har nå ett
 norskeid skip kommet seg ut gjennom den amerikanske konvoien «Project
 Freedom», som i morgentimene i dag ble avsluttet like raskt som
@@ -606,7 +604,7 @@ opphører. Mitt spørsmål til utenriksministeren er: Hvordan vurderes
 nå statusen på dette initiativet, og hva er det aktuelt for Norge
 å bidra med? </A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1002367">
+          <Hovedinnlegg Id="i1003029">
             <A>
               <Navn personID="EBE">
 Utenriksminister Espen Barth Eide [10:29:08]:</Navn> Jeg er hundre
@@ -638,75 +636,75 @@ at Pakistan i går sterkt anbefalte USA å avslutte eller sette på
 vent denne eskorteringsoperasjonen, har å gjøre med en viss optimisme
 for framgang i forhandlingene.</A>
           </Hovedinnlegg>
-          <Replikk Id="i1002369">
+          <Replikk Id="i1003031">
             <A>
               <Navn personID="IME">
 Ine Eriksen Søreide (H) [10:30:56]:</Navn> Det er åpenbart viktig
 at Norge støtter dette initiativet. Vi er, målt i verdi, verdens
 fjerde største skipsfartsnasjon. Vi har klare nasjonale interesser
-i at det er fri ferdsel på havet. </A>
-            <A Type="Minnrykk">Jeg syns likevel ikke jeg får svar på hva som
-er aktuelt for Norge å kunne bidra med. Jeg forstår fullt ut, og
-det er premisset for hele operasjonen, at det skal være fredelig,
-og at fiendtlighetene har opphørt. Men likevel vil det være interessant
-å høre hva Norge tenkes å kunne bidra med den dagen det skjer. Det
-er mange muligheter man kan se for seg, og Norge har bidratt på
-ulike måter tidligere. Det er også etter min oppfatning ganske avgjørende
-å få en nærmere beskrivelse av hva som kan være aktuelt for Norge
-å gjøre.</A>
+i at det er fri ferdsel på havene. </A>
+            <A Type="Minnrykk">Jeg synes allikevel ikke jeg får svar på hva
+som er aktuelt for Norge å kunne bidra med. Jeg forstår fullt ut,
+og det er premisset for hele operasjonen, at det skal være fredelig,
+og at fiendtlighetene har opphørt. Det vil likevel være interessant
+å høre hva Norge tenkes å kunne bidra med, den dagen det skjer.
+Det er mange muligheter man kan se for seg, og Norge har bidratt
+på ulike måter i dette tidligere. Det er etter min oppfatning ganske
+avgjørende å få en nærmere beskrivelse av hva som kan være aktuelt
+for Norge å gjøre.</A>
             <A Type="Minnrykk">Jeg vil også gjerne høre hva utenriksministerens
-konkrete tiltak for å styrke havretten nå er, både i dialog med
-andre land selvfølgelig, og også fordi havretten er en helt sentral
-del av folkeretten for Norges del.</A>
+konkrete tiltak for å styrke havretten nå er, selvfølgelig i dialog
+med andre land, for havretten er en helt sentral del av folkeretten for
+Norges del.</A>
           </Replikk>
-          <Replikk Id="i1002371">
+          <Replikk Id="i1003033">
             <A>
               <Navn personID="EBE">
 Utenriksminister Espen Barth Eide [10:31:57]:</Navn> Det er helt
 riktig. Vi har vært svært opptatt av nettopp det perspektivet. Historikken
-her er at britene tok et initiativ, så tok franskmennene et liknende
-initiativ, og så var det mange av oss, oss inkludert, som sa at
-kanskje det burde bli ett initiativ, og det ble det.</A>
+her er at britene tok et initiativ, og så tok franskmennene et liknende
+initiativ. Da var det mange, oss inkludert, som sa at kanskje det
+burde bli ett initiativ, og det ble det.</A>
             <A Type="Minnrykk">Allerede i det første møtet jeg deltok i på
 utenriksministernivå under britisk ledelse, var jeg opptatt av å
-få fram akkurat det perspektivet. Dette er ikke bare en sak om Hormuzstredet,
-det er også en sak for å slå fast et grunnleggende prinsipp i havretten
+få fram akkurat det perspektivet. Dette er ikke bare en sak om Hormuzstredet.
+Det er også en sak for å slå fast et grunnleggende prinsipp i havretten
 – jeg mener det er artiklene 38–43 i havrettstraktaten som handler
 om seiling gjennom streder som forbinder to deler av det åpne hav.
-Det er mange slike i verden, og det er veldig viktig at vi nå slår
+Det er mange slike i verden. Det er veldig viktig at vi nå slår
 fast at det er et absolutt krav at det skal være åpent under enhver
 omstendighet, og at det ikke på noen måte innføres noen rettigheter
-som legger begrensinger på den typen seiling, nettopp fordi vi er
-en stor sjøfartsnasjon. Dette er noe vi også snakker mye med Rederiforbundet
-om.</A>
+som legger begrensninger på den typen seiling, nettopp fordi vi
+er en stor sjøfartsnasjon. Dette er noe vi også snakker mye med
+Rederiforbundet om.</A>
           </Replikk>
-          <Replikk Id="i1002373">
+          <Replikk Id="i1003035">
             <A>
               <Navn personID="IME">
-Ine Eriksen Søreide (H) [10:33:03]:</Navn> Jeg vil gå tilbake til
-Iran.</A>
+Ine Eriksen Søreide (H) [10:33:03]:</Navn> Jeg vil da gå tilbake
+til Iran.</A>
             <A Type="Minnrykk">Revolusjonsgarden har nå befestet sin posisjon
 som den dominerende maktfaktoren i presteregimets Iran. Utnevnelsen
 av Mojtaba Khamenei som etterfølger etter sin far er på mange måter
-en bekreftelse på det.</A>
-            <A Type="Minnrykk">Samtidig vet vi at Revolusjonsgarden er splittet
-i mange ulike fraksjoner. Den beriker seg på det iranske folkets
-lidelser, og den finansierer i sin tur terrororganisasjoner over
-hele Midtøsten. EU, Canada, Australia og en rekke andre land har listeført
-Revolusjonsgarden som en terrororganisasjon. EUs hovedbegrunnelse
-for å gjøre det er voldelig undertrykkelse av fredelige demonstranter,
-og det er den iranske støtten til Russlands angrepskrig mot Ukraina.</A>
-            <A Type="Minnrykk">Komiteen har nettopp hatt et møte med den ukrainske forsvarsministeren,
-som forteller om 27 000 Shahed-droner mot Ukraina bare i vinter.
-Norge har ikke sluttet seg til denne listeføringen. Hva er begrunnelsen
-for det?</A>
+egentlig en bekreftelse på det. Samtidig vet vi at Revolusjonsgarden
+er splittet i mange ulike fraksjoner. Den beriker seg på det iranske
+folkets lidelser, og den finansierer i sin tur terrororganisasjoner
+over hele Midtøsten. </A>
+            <A Type="Minnrykk">EU, Canada, Australia og en rekke andre land
+har listeført Revolusjonsgarden som en terrororganisasjon. EUs hovedbegrunnelse
+for å gjøre det er voldelig undertrykkelse av fredelige demonstranter
+og den iranske støtten til Russlands angrepskrig mot Ukraina. Komiteen
+har nettopp hatt et møte med den ukrainske forsvarsministeren, som
+forteller om 27 000 Shahed-droner mot Ukraina bare i vinter. Norge
+har ikke sluttet seg til denne listeføringen. Hva er begrunnelsen for
+det?</A>
           </Replikk>
-          <Replikk Id="i1002375">
+          <Replikk Id="i1003037">
             <A>
               <Navn personID="EBE">
 Utenriksminister Espen Barth Eide [10:34:09]:</Navn> Som tidligere
-utenriksminister Eriksen Søreide vet, driver ikke Norge med egne
-slike lister. Det har vært et gjennomgående prinsipp i mange regjeringer.
+utenriksminister Eriksen Søreide vet, driver ikke Norge med slike
+lister. Det har vært et gjennomgående prinsipp i mange regjeringer.
 Vi har derimot sluttet oss til de aller fleste av de konkrete sanksjonene
 som EU har mot medlemmer av Revolusjonsgarden, og det er en rekke
 tiltak mot Iran som nettopp har det som formål. </A>
@@ -714,7 +712,7 @@ tiltak mot Iran som nettopp har det som formål. </A>
 blitt styrket internt i Iran. Det er hardlinerne som vinner på krig.
 Det er nok et eksempel på at denne krigen var dårlig planlagt. Det
 er fortsatt slik at det er stor risiko for at de kommer ut av dette
-styrket på en slik måte at det blir mer og ikke mindre støtte til
+styrket, på en slik måte at det blir mer og ikke mindre støtte til
 terrororganisasjoner i andre land. Det er dypt bekymringsfullt. Derfor
 er vi opptatt av å være veldig på linje med våre nærmeste når det
 gjelder holdningen til det. </A>
@@ -723,7 +721,7 @@ følger FN-siden, og det er jeg glad for at det har vært bred konsensus
 om fram til nå. Hvis Høyre mener vi skal gjøre noe annet, får de foreslå
 en ny utenrikspolitikk.</A>
           </Replikk>
-          <Replikk Id="i1002377">
+          <Replikk Id="i1003039">
             <A>
               <Navn personID="IME">
 Ine Eriksen Søreide (H) [10:35:13]:</Navn> For to og et halvt år
@@ -731,11 +729,11 @@ siden redegjorde statsministeren her i Stortinget for situasjonen
 i Midtøsten, få dager etter det brutale terrorangrepet mot Israel.
 Høyres linje i debatten var tydelig. Vi mente det var regjeringa
 som måtte foreta vurderinger av eventuell listeføring, men at det
-ville sende et veldig viktig signal både til Hamas og omverdenen
+ville sende et veldig viktig signal både til Hamas og til omverdenen
 å beskrive klart hva slags organisasjon Hamas opererer som. Da redegjørelsen
-startet, mente statsministeren ikke at Hamas var en terrororganisasjon.
-Etter en times debatt kom også statsministeren etter hvert til den
-samme erkjennelsen og sa: </A>
+startet, mente statsministeren ikke at Hamas var en terrororganisasjon. Etter
+en times debatt kom også statsministeren etter hvert til den samme
+erkjennelsen og sa: </A>
             <Sitat Type="Minnrykk">
               <A>«En organisasjon som har planlagt, gjennomført
 og tatt ansvar for slike terrorhandlinger, må kunne karakteriseres
@@ -743,76 +741,76 @@ som en terrororganisasjon – punktum, ferdig snakket.»</A>
             </Sitat>
             <A Type="Minnrykk">Derfor spør jeg: Kan utenriksministeren på
 tilsvarende måte nå, uten å ta hensyn til den formelle listeføringen,
-kalle revolusjonsgarden for en terrororganisasjon?</A>
+kalle Revolusjonsgarden for en terrororganisasjon?</A>
           </Replikk>
-          <Replikk Id="i1002379">
+          <Replikk Id="i1003041">
             <A>
               <Navn personID="EBE">
 Utenriksminister Espen Barth Eide [10:36:13]:</Navn> Revolusjonsgarden
 i Iran står bak betydelig bruk av vold internt i Iran. Det så vi
 senest i januar, da veldig mange mennesker ble drept. Det er ingen
-tvil om at det var nært knyttet til revolusjonsgarden. Vi vet at
-revolusjonsgarden også har støttet en lang rekke terrororganisasjoner
-og organisasjoner som driver med terror, i andre land. For eksempel
+tvil om at det var nært knyttet til Revolusjonsgarden. Vi vet at
+Revolusjonsgarden også har støttet en lang rekke terrororganisasjoner
+og organisasjoner som driver med terror i andre land. For eksempel
 har Hizbollah, Hamas og houthiene i Jemen nære bånd til både Iran
-og revolusjonsgarden. Dette er vi veldig tydelig på, det er ikke
-noen ny linje på det, og derfor har vi en rekke tiltak mot dem som nettopp
+og Revolusjonsgarden. Dette er vi veldig tydelig på, det er ikke noen
+ny linje på det, og derfor har vi en rekke tiltak mot dem som nettopp
 er basert på deres støtte til terror.</A>
             <A Type="Minnrykk">De landene som driver med listeføring, er ofte
 de landene som er mest opptatt av å mene det rette og kanskje ikke
-gjøre så veldig mye med det. Listenes formål er ofte hvem man ikke skal
-snakke med. Hvis det er en ting jeg vil si er bra med den sittende
-administrasjonen i USA, er det at de er enig med oss i at man må
-snakke med dem man faktisk kan lage fred med, uansett hva de har
-gjort tidligere. Det har vært viktig for oss, og det husker jeg
-at det var også da Ine Eriksen Søreide var utenriksminister – at
-man hadde kontakt med organisasjoner som drev med ting vi ikke likte.
-Det har vært en del av norsk utenrikspolitikk.</A>
+gjøre så veldig mye med det. Listenes formål dreier seg ofte om hvem
+man ikke skal snakke med. Hvis det er noe jeg vil si er bra med
+den sittende administrasjonen i USA, er det at de er enig med oss
+i at man må snakke med dem man faktisk kan lage fred med, uansett
+hva de har gjort tidligere. Det har vært viktig for oss, og det
+husker jeg at det var også da Ine Eriksen Søreide var utenriksminister
+– at man hadde kontakt med organisasjoner som drev med slikt vi
+ikke likte. Det har vært en del av norsk utenrikspolitikk.</A>
           </Replikk>
-          <Replikk Id="i1002381">
+          <Replikk Id="i1003043">
             <A>
               <Navn personID="IME">
 Ine Eriksen Søreide (H) [10:37:29]:</Navn> Det forhindret likevel
-ikke statsministeren til slutt å komme til konklusjonen at Hamas
+ikke statsministeren til slutt å komme til den konklusjonen at Hamas
 er en terrororganisasjon. Det var helt uavhengig av den formelle
 listeføringen. Det er to forskjellige ting, og det må være opp til
 en regjering å vurdere det. Spørsmålet her er hvorfor ikke utenriksministeren
-kan si at revolusjonsgarden er en terrororganisasjon, som opererer
-som en terrororganisasjon, som støtter ulike grupper i regionen,
-og som altså bidrar til både ustabilitet og frykt.</A>
+kan si at Revolusjonsgarden er en terrororganisasjon – at den opererer
+som en terrororganisasjon, støtter ulike grupper i regionen og bidrar
+til både ustabilitet og frykt.</A>
             <A Type="Minnrykk">Jeg må si jeg også reagerer litt på omtalen
-av at de landene som driver med listeføring, er mest opptatt av
-å si det riktige, men ikke gjøre noe. Det er en beskrivelse jeg
+av de landene som driver med listeføring – at de er mest opptatt
+av å si det riktige, men ikke gjøre noe. Det er en beskrivelse jeg
 tar avstand fra, rett og slett fordi de landene jeg nå har snakket
-om – hele EU og Canada og Australia, som eksempler blant mange – gjør
-dette fordi de ønsker å sende et veldig tydelig politisk signal
-om at det som revolusjonsgarden gjør både internt i Iran og i regionen,
-og som en trusselaktør mot også Europa og hele Midtøsten, er uakseptabelt.</A>
+om – hele EU og Canada og Australia, som eksempler blant mange –
+gjør dette fordi de ønsker å sende et veldig tydelig politisk signal
+om at det Revolusjonsgarden gjør både internt i Iran, i regionen
+og som en trusselaktør mot Europa og hele Midtøsten, er uakseptabelt.</A>
             <A Type="Minnrykk">Jeg spør igjen: Kan utenriksministeren kalle
-revolusjonsgarden en terrororganisasjon, uten å listeføre den?</A>
+Revolusjonsgarden en terrororganisasjon, uten å listeføre den?</A>
           </Replikk>
-          <Replikk Id="i1002383">
+          <Replikk Id="i1003045">
             <A>
               <Navn personID="EBE">
 Utenriksminister Espen Barth Eide [10:38:36]:</Navn> Jeg føler at
 jeg gjør det. Revolusjonsgarden står bak grusomme handlinger i Iran
-og har stått for støtte til terror og terrororganisasjoner som opererer
-i andre land med nære bånd til Iran. Sånn sett er jo svaret ja.
-Men spørsmålet jeg oppfattet, er et grunnspørsmål: Skal vi skrive
-på en liste og derved si at dette er noen vi ikke kan snakke med?
-Det mener jeg er feil, for jeg mener det er riktig at man har kontakt.
-Akkurat nå er det f.eks. for verdenshandelen, for norsk shipping
-og rett og slett for hvordan det skal gå med klodens økonomi, viktig
-at man også er i stand til å ha kontakt med Iran. Da må man snakke med
-dem det gir mening å ha kontakt med i Iran.</A>
+og har stått for støtte til terror utøvd av terrororganisasjoner
+som opererer i andre land med nære bånd til Iran. Sånn sett er jo
+svaret ja, men spørsmålet opplever jeg å være et grunnspørsmål:
+Skal vi skrive en liste og derved si at dette er noen vi ikke kan
+snakke med? Det mener jeg er feil, for jeg mener det er riktig at
+man har kontakt. Akkurat nå er det f.eks. for verdenshandelen, for
+norsk shipping og rett og slett for hvordan det skal gå med klodens
+økonomi, viktig at man også er i stand til å ha kontakt med Iran.
+Da må man snakke med dem det gir mening å ha kontakt med i Iran.</A>
           </Replikk>
-          <Replikk Id="i1002385">
+          <Replikk Id="i1003047">
             <A>
               <Navn personID="IME">
 Ine Eriksen Søreide (H) [10:39:22]:</Navn> Det at statsministeren
 omsider kalte Hamas en terrororganisasjon, har ikke sånn sett undergravd
 vår evne til å ha dialog med viktige parter i regionen, så mitt
-spørsmål handlet først og fremst om hva man kaller denne organisasjonen,
+spørsmål handlet først og fremst om hva man kaller organisasjonen,
 og at regjeringa på vanlig måte må ha ansvaret for listeføring.</A>
             <A Type="Minnrykk">Høyre har siden begynnelsen av fjoråret løftet
 en debatt om prioriteringer i norsk utenrikspolitikk og behovet
@@ -820,14 +818,14 @@ for ikke bare det å prioritere tydeligere, men også å kommunisere
 klarere rundt hva våre viktigste utenrikspolitiske interesser er.
 Vi har en god utenrikstjeneste i Norge med medarbeidere som er fulle
 av kunnskap og evne til å ivareta norske interesser. Samtidig har
-regjeringen stort sett forholdt seg til denne prioriteringsdiskusjonen
+regjeringa stort sett forholdt seg til denne prioriteringsdiskusjonen
 ved å påpeke at Norge er et lite land – som også er helt riktig
 – og snakke om hva vi skal prioritere opp, uten å prioritere noe
 ned. Jeg har spurt utenriksministeren om dette før, og jeg prøver
 igjen: Hva er de viktigste utenrikspolitiske prioriteringene for
 Norge i den situasjonen vi har nå?</A>
           </Replikk>
-          <Replikk Id="i1002387">
+          <Replikk Id="i1003049">
             <A>
               <Navn personID="EBE">
 Utenriksminister Espen Barth Eide [10:40:27]:</Navn> Jeg er veldig
@@ -850,43 +848,42 @@ Da er det som ikke står der, mindre viktig, uten at jeg skal liste
 opp ting vi skal slutte å gjøre. Jeg mener at det er en krystallklar
 prioritering, og kanskje den tydeligste vi har hatt på veldig mange år.</A>
           </Replikk>
-          <Replikk Id="i1002389">
+          <Replikk Id="i1003051">
             <A>
               <Navn personID="GME">
 Guri Melby (V) [10:41:46]:</Navn> Hvordan skal vi ta vare på Norges
 sikkerhet i den tiden vi lever i? På lørdag markerer vi Europadagen,
 og for meg har det europeiske samholdet sjelden føltes viktigere.
 En viktig paragraf i EUs traktat er den som sier at hvis ett medlemsland
-angripes, så er alle de andre forpliktet til å stille opp med alt
-de har. Dette er en slags «én for alle, alle for én»-klausul. Den
-har aldri vært særlig kraftfull i praksis, men nå, når det er åpenbart
+angripes, er alle de andre forpliktet til å stille opp med alt de
+har. Dette er en slags «én for alle, alle for én»-klausul. Den har
+aldri vært særlig kraftfull i praksis, men nå, når det er åpenbart
 at Europa ikke lenger kan ta USAs garantier for gitt, og når USA
 faktisk er i ferd med å trekke seg ut av Europa, gjennom soldater
 som tas ut av Tyskland, er EU-landene i ferd med å gjøre denne garantien
-til noe viktigere. På toppmøtet i april sto denne klausulen sentralt. </A>
-            <A Type="Minnrykk">Norge er ikke med EU, og det betyr at vi ikke
-en del av denne garantien, verken som mottaker eller som forpliktet part.
-Mitt spørsmål til statsråden er: </A>
-            <A Type="Minnrykk">Hva er regjeringens vurdering av at Europas
-allierte nå bygger sterkere forsvarsgarantier seg imellom – garantier som
-Norge står utenfor – og mener statsråden at denne utviklingen styrker
-eller svekker norsk sikkerhet?</A>
+til noe viktigere. På toppmøtet i april sto denne klausulen sentralt.
+Norge er ikke med i EU, og det betyr at vi ikke er en del av denne
+garantien, verken som mottaker eller som forpliktet part. </A>
+            <A Type="Minnrykk">Mitt spørsmål til statsråden er: Hva er regjeringens
+vurdering av at Europas allierte nå bygger sterkere forsvarsgarantier
+seg imellom – garantier som Norge står utenfor – og mener utenriksministeren
+at denne utviklingen styrker eller svekker norsk sikkerhet?</A>
           </Replikk>
-          <Replikk Id="i1002391">
+          <Replikk Id="i1003053">
             <A>
               <Navn personID="EBE">
 Utenriksminister Espen Barth Eide [10:42:53]:</Navn> Jeg mener at
 det at EU tar sikkerhet og forsvar på større alvor, styrker vår
 sikkerhet. Jeg er veldig glad for at denne regjeringen fikk etablert
 et formelt strategisk partnerskap med EU om forsvar og sikkerhet.
-Vi var det første landet som fikk en slik avtale, som var en inspirasjonskilde
+Vi var det første landet som fikk en slik avtale. Det var en inspirasjonskilde
 for det Storbritannia senere har gjort. Jeg opplever at vi nå har
-en veldig tydelig garderingsstrategi. Vi har vel aldri vært så tydelige
-på, gjennom de 77 årene vi har vært med i NATO, at vi også må ha en
-solid forankring i Europa for å gardere oss mot ulike mulige utfall.
-Det dreier seg om et tettere samarbeid med EU. Det dreier seg om
-et stadig tettere nordisk-baltisk samarbeid, som går veldig bra,
-og som er veldig inspirerende. Det er et tettere samarbeid med Storbritannia,
+en veldig tydelig garderingsstrategi. Vi har vel aldri vært så tydelige,
+i de 77 årene vi har vært med i NATO, på at vi også må ha en solid
+forankring i Europa for å gardere oss mot ulike mulige utfall. Det
+dreier seg om et tettere samarbeid med EU. Det dreier seg om et
+stadig tettere nordisk-baltisk samarbeid, som går veldig bra, og
+som er veldig inspirerende. Det er et tettere samarbeid med Storbritannia,
 Tyskland, Frankrike og Polen. Det har inkludert en diskusjon om
 franske atomvåpen, som pågår nå. Dette er nettopp for i enda større
 grad å forankre oss. </A>
@@ -894,7 +891,7 @@ grad å forankre oss. </A>
 at EU tar forsvar og sikkerhet på større alvor, og at de snakker
 mer om sin egen solidaritetsparagraf.</A>
           </Replikk>
-          <Replikk Id="i1002393">
+          <Replikk Id="i1003055">
             <A>
               <Navn personID="GME">
 Guri Melby (V) [10:43:58]:</Navn> Etter Ukraina-krigen valgte Danmark
@@ -906,16 +903,16 @@ trusler fra Trump-administrasjonen. </A>
 ganger på å gjøre vurderinger av om det også er mulig for Norge
 å knytte seg tettere og mer forpliktende til EUs forsvarssamarbeid.
 Vi har i dag en avtale, men den er ikke på noen som helst måte juridisk
-forpliktende, og vi står utenfor denne «én for alle, alle for én»-klausulen.
-Mitt spørsmål er: </A>
-            <A Type="Minnrykk">Nå når sikkerhetssituasjonen har blitt ytterligere
-forverret – det er ingen tvil om at USAs rolle er totalt forandret
-– og når det er ingen tvil om at EU-landene knytter seg mye tettere til
-hverandre på forsvars- og sikkerhetsområdet, vil regjeringen gjøre
-en ny vurdering av om det vil være aktuelt for Norge å søke om å
-få bli ordentlig og forpliktende med i EUs forsvars- og sikkerhetssamarbeid?</A>
+forpliktende, og vi står utenfor denne «én for alle, alle for én»-klausulen. </A>
+            <A Type="Minnrykk">Mitt spørsmål er: Når sikkerhetssituasjonen
+nå er blitt ytterligere forverret, det er ingen tvil om at USAs
+rolle er totalt forandret, og heller ingen tvil om at EU-landene
+knytter seg mye tettere til hverandre på forsvars- og sikkerhetsområdet, vil
+regjeringen gjøre en ny vurdering av om det vil være aktuelt for
+Norge å søke om å få bli ordentlig og forpliktende med i EUs forsvars-
+og sikkerhetssamarbeid?</A>
           </Replikk>
-          <Replikk Id="i1002395">
+          <Replikk Id="i1003057">
             <A>
               <Navn personID="EBE">
 Utenriksminister Espen Barth Eide [10:45:00]:</Navn> Som representanten
@@ -929,18 +926,18 @@ i NATO. Det betyr at de er gjensidig forpliktet overfor oss, og
 vi overfor dem, gjennom artikkel 5 i NATO-pakten. Det er noen land,
 som Kypros og Irland, som ikke er med i NATO, bare i EU, men de
 landene som virkelig betyr noe for vår sikkerhet, er også NATO-land.
-Så en gjensidig forpliktelse foreligger jo. Den er ikke bare avhengig
+En gjensidig forpliktelse foreligger. Den er ikke bare avhengig
 av USA, for den gjensidige forpliktelsen mellom de 32 NATO-landene
-vil også gjelde i en hypotetisk situasjon hvor det er bare 31 land
-igjen. Det viktigste spørsmålet er at vi har kapasiteter, for forpliktelsen har
-vi. Den heter NATO og artikkel 5. </A>
+vil også gjelde i en hypotetisk situasjon hvor det bare er 31 land
+igjen. Det viktigste spørsmålet er at vi har kapasiteter, for forpliktelsen
+har vi. Den heter NATO og artikkel 5. </A>
           </Replikk>
           <Presinnlegg>
             <A>
               <Navn>Presidenten [10:45:59]:</Navn> Vi går videre
 til neste hovedspørsmål.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1002397">
+          <Hovedinnlegg Id="i1003059">
             <A>
               <Navn personID="INF">
 Ingrid Fiskaa (SV) [10:46:13]:</Navn> Spørsmålet mitt går til digitaliseringsministeren. </A>
@@ -966,12 +963,12 @@ våre har tilgang til offentlege tenester. Det ansvaret har regjeringa
 latt vera å ta, men peiker i staden på at selskapet må fiksa problemet.
 Det er ikkje mogleg innan den fristen som er gjeven. Siste kapittel
 så langt er at òg ministeren prøver å skyva problemet framfor seg,
-i plassen for å løysa det. I eit svar på eit spørsmål frå Stortinget
+i staden for å løysa det. I svar på eit spørsmål frå Stortinget
 forsikrar nemleg digitaliseringsministeren om at det vil ta lang
 tid før BankID mistar klassifiseringa. Har BankID blitt «too big
 to fail»?</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1002399">
+          <Hovedinnlegg Id="i1003061">
             <A>
               <Navn personID="KAT">
 Statsråd Karianne O. Tung [10:48:13]:</Navn> Det er mange offentlige
@@ -1001,7 +998,7 @@ og BankID om arbeidet med å lukke avviket. Jeg kan forsikre representanten
 om at BankID ikke vil gå ned over natten, og at de skal få tid på
 seg til å rette opp det avviket.</A>
           </Hovedinnlegg>
-          <Replikk Id="i1002401">
+          <Replikk Id="i1003063">
             <A>
               <Navn personID="INF">
 Ingrid Fiskaa (SV) [10:50:09]:</Navn> Eg takkar for svaret. Det
@@ -1017,25 +1014,25 @@ opp. </A>
 tenkt å vera med Stø og BankID? Kor lang tid har ho tenkt å gje
 dei for å lukka dette sikkerheitsavviket?</A>
           </Replikk>
-          <Replikk Id="i1002403">
+          <Replikk Id="i1003065">
             <A>
               <Navn personID="KAT">
-Statsråd Karianne O. Tung [10:51:06]:</Navn> For å være helt konkret,
-så handler avviket om et krav om fysisk oppmøte med ID-kontroll
-for å dele ut kodebrikkene. BankID selv påpeker at det kravet ikke
-har medført noen svindelforsøk. Derfor har de konsentrert seg om
-å lukke de andre avvikene først, samtidig som de nå jobber med å
-lukke dette avviket. </A>
+Statsråd Karianne O. Tung [10:51:06]:</Navn> For å være helt konkret
+handler avviket om et krav om fysisk oppmøte med ID-kontroll for
+å dele ut kodebrikkene. BankID selv påpeker at det kravet ikke har
+medført noen svindelforsøk. Derfor har de konsentrert seg om å lukke
+de andre avvikene først, samtidig som de nå jobber med å lukke dette
+avviket. </A>
             <A Type="Minnrykk">Nasjonal kommunikasjonsmyndighet har varslet
 BankID om at de risikerer å miste sikkerhetsnivå «høyt» hvis de
 ikke klarer å lukke det avviket. Så kan BankID sende inn sin dokumentasjon,
 og Nkom skal behandle saken. Når vedtaket er fattet, kan saken påklages
-også til departementet. Dette kommer til å ta tid, men det er viktig
+til departementet. Dette kommer til å ta tid, men det er viktig
 at tilbyderne tar ansvaret på alvor og jobber hardt for å lukke
 avviket, sånn at det er trygt å bruke BankID også i offentlige tjenester
 i tiden framover.</A>
           </Replikk>
-          <Replikk Id="i1002405">
+          <Replikk Id="i1003067">
             <A>
               <Navn personID="INF">
 Ingrid Fiskaa (SV) [10:52:07]:</Navn> Ja, eg høyrer at dette vil ta
@@ -1051,7 +1048,7 @@ i at regjeringa har ansvaret for å sikra innbyggjarane tilgang til
 offentlege tenester? Eller meiner ho at det ansvaret til sjuande og
 sist ligg på dette selskapet?</A>
           </Replikk>
-          <Replikk Id="i1002407">
+          <Replikk Id="i1003069">
             <A>
               <Navn personID="KAT">
 Statsråd Karianne O. Tung [10:53:04]:</Navn> Regjeringen har ansvaret
@@ -1061,7 +1058,7 @@ Commfides og Buypass som har den avtalen med Digitaliseringsdirektoratet
 for innlogging gjennom ID-porten. </A>
             <A Type="Minnrykk">Som nevnt ble det tilbake i 2022 påpekt at
 det her var fem avvik hos BankID. Fire av dem er lukket. Det siste,
-som gjelder kravet om fysisk oppmøte, er enda ikke lukket. Det er
+som gjelder kravet om fysisk oppmøte, er ennå ikke lukket. Det er
 tilbydernes ansvar å sørge for at de overholder avtalen med myndighetene
 om at de tilfredsstiller det kravet. Hvis man ikke overholder de
 kravene som er fastsatt i avtalen, er det brudd på avtalen. Vi betaler
@@ -1069,7 +1066,7 @@ som kjent 100 mill. kr til BankID for at de skal opprettholde den
 avtalen, og da er det viktig at de også lukker de avvikene som er
 påpekt.</A>
           </Replikk>
-          <Replikk Id="i1002409">
+          <Replikk Id="i1003071">
             <A>
               <Navn personID="INF">
 Ingrid Fiskaa (SV) [10:54:01]:</Navn> Svaret til statsråden meiner
@@ -1078,16 +1075,17 @@ innbyggjarane og bedriftene er heilt avhengige av ei tilnærma monopolløysing
 som altså er drifta og eigd av eit kommersielt selskap. Når ein
 er så avhengig av ei løysing som er styrt av eit kommersielt selskap,
 står me utan gode valmoglegheiter når dei ikkje etterlever krava.
-Spørsmålet i oppfølginga er då er om me skal starta arbeidet for
-å finna meir varige løysingar. Det finst faktisk allereie ei statleg identifiseringsløysing,
-som per i dag ikkje oppfyller det høgaste sikkerheitsnivået, men
-det viser jo at det er mogleg viss det er vilje til det. </A>
+Spørsmålet i oppfølginga er då om me skal starta arbeidet for å
+finna meir varige løysingar. Det finst faktisk allereie ei statleg
+identifiseringsløysing, som per i dag ikkje oppfyller det høgaste
+sikkerheitsnivået, men det viser jo at det er mogleg viss det er vilje
+til det. </A>
             <A Type="Minnrykk">Då er mitt spørsmål: Meiner statsråden det
 er grunnleggjande smart å la eit kommersielt selskap få kontrollera
 nøkkelen til alle sentrale offentlege tenester? Er det ikkje mykje betre
 å ha ei statleg løysing som er under nasjonal, demokratisk kontroll?</A>
           </Replikk>
-          <Replikk Id="i1002411">
+          <Replikk Id="i1003073">
             <A>
               <Navn personID="KAT">
 Statsråd Karianne O. Tung [10:55:07]:</Navn> Løsningen med BankID
@@ -1097,47 +1095,49 @@ er nasjonal kontroll med den private løsningen også. Det har vi
 gjennom regulering, det har vi gjennom tilsyn – som er akkurat det
 Nkom nå gjør i arbeidet med BankID – og vi har det gjennom et avtaleverk
 Digitaliseringsdirektoratet har med BankID. </A>
-            <A Type="Minnrykk">For å følge opp på spørsmålet til Fiskaa, så
-tror jeg det er viktig at offentlige virksomheter gjør en grundig
-vurdering av hvilket sikkerhetsnivå man stiller som krav for innlogging
-på sine tjenester. Vi ser f.eks. i Danmark at man i større grad
-stiller krav om sikkerhetsnivå «betydelig» enn «høyt», og som representanten
-påpeker, tilfredsstiller MinID sikkerhetskrav «betydelig», så jeg
-tenker at det her finnes et handlingsrom for også å utvide bruken
-av MinID i tiden framover. Der må offentlige virksomheter gjøre
-gode vurderinger.</A>
+            <A Type="Minnrykk">For å følge opp på spørsmålet til Fiskaa: Jeg
+tror det er viktig at offentlige virksomheter gjør en grundig vurdering
+av hvilket sikkerhetsnivå man stiller som krav for innlogging på sine
+tjenester. Vi ser f.eks. i Danmark at man stiller krav om sikkerhetsnivå
+«betydelig» i større grad enn nivå «høyt». Som representanten påpeker,
+tilfredsstiller MinID sikkerhetskrav «betydelig», så jeg tenker
+at det her finnes et handlingsrom for også å utvide bruken av MinID
+i tiden framover. Der må offentlige virksomheter gjøre gode vurderinger.</A>
           </Replikk>
           <Presinnlegg>
             <A>
               <Navn>Presidenten [10:56:10]:</Navn> Da går vi videre
 til neste hovedspørsmål.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1002413">
+          <Hovedinnlegg Id="i1003075">
             <A>
               <Navn personID="BÅH">
-Bård Hoksrud (FrP) [10:56:27]:</Navn> Spørsmålet er til Tung. For
-kort tid siden ble det avdekket en alvorlig sikkerhetsfeil hos Telia
-som gjorde det mulig å spore kunder i opptil to år. Det er bl.a.
-kjent at flere politikere og ikke minst andre personer med kritiske
-samfunnsfunksjoner i praksis har gått med en sporingsbrikke i lommen.
-Folk har en rett til å kunne bevege seg fritt uten at andre skal
-kunne vite hvor man er til enhver tid. Det er en grunnleggende frihet.
-Denne sikkerhetsfeilen har vært et grovt brudd på folks personvern.
-I tillegg er det mange mennesker i Norge som har samfunnskritiske
-roller, der et slikt brudd kan få store konsekvenser. Det kan f.eks.
-være ansatte i Politiets sikkerhetstjeneste. De arbeider daglig
-med å forebygge trusler mot nasjonal sikkerhet og å sikre folkets
-trygghet. Dersom slike personer kan spores, kan det i ytterste konsekvens
-svekke deres evne til å utføre oppdraget, og gi kriminelle eller
-fiendtlige aktører et alvorlig fortrinn. Selv om feilen nå skal
-være rettet, representerer hendelsen en betydelig risiko for både
-personvern, frihet og nasjonal sikkerhet. Kan statsråden redegjøre
-for hvilke konkrete tiltak som nå er iverksatt for å styrke sikkerheten i
-telenettet etter denne hendelsen? Er statsråden tilfreds med tiltakene
-som er iverksatt? Og kan statsråden garantere at tilsvarende alvorlige
-sikkerhetsbrudd ikke vil kunne oppstå igjen?</A>
+Bård Hoksrud (FrP) [10:56:27]:</Navn> Spørsmålet er til statsråd
+Tung. </A>
+            <A Type="Minnrykk">For kort tid siden ble det avdekket en alvorlig
+sikkerhetsfeil hos Telia som gjorde det mulig å spore kunder i opptil
+to år. Det er bl.a. kjent at flere politikere og ikke minst andre
+personer med kritiske samfunnsfunksjoner i praksis har gått med en
+sporingsbrikke i lommen. </A>
+            <A Type="Minnrykk">Folk har en rett til å kunne bevege seg fritt
+uten at andre skal kunne vite hvor man er til enhver tid. Det er
+en grunnleggende frihet, og denne sikkerhetsfeilen har vært et grovt brudd
+på folks personvern. I tillegg er det mange mennesker i Norge som
+har samfunnskritiske roller, der et slikt brudd kan få store konsekvenser.
+Det kan f.eks. være ansatte i Politiets sikkerhetstjeneste. De arbeider
+daglig med å forebygge trusler mot nasjonal sikkerhet og å sikre
+folkets trygghet. Dersom slike personer kan spores, kan det i ytterste
+konsekvens svekke deres evne til å utføre oppdraget og gi kriminelle
+eller fiendtlige aktører et alvorlig fortrinn. </A>
+            <A Type="Minnrykk">Selv om feilen nå skal være rettet, representerer
+hendelsen en betydelig risiko for både personvern, frihet og nasjonal sikkerhet.
+Kan statsråden redegjøre for hvilke konkrete tiltak som nå er iverksatt
+for å styrke sikkerheten i telenettet etter denne hendelsen? Er
+statsråden tilfreds med tiltakene som er iverksatt? Og kan statsråden
+garantere at tilsvarende alvorlige sikkerhetsbrudd ikke vil kunne
+oppstå igjen?</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1002415">
+          <Hovedinnlegg Id="i1003077">
             <A>
               <Navn personID="KAT">
 Statsråd Karianne O. Tung [10:57:46]:</Navn> Det er et alvorlig
@@ -1145,23 +1145,24 @@ sikkerhetsbrudd at personer kunne bli sporet via telefonabonnementet
 sitt. Det skal rett og slett ikke skje. Det som har skjedd, er at
 Telia i 2023 gjorde en oppdatering, en konfigurasjonsendring, som
 medførte en teknisk feil som gjorde det mulig å spore mobilkunder
-via innkommende telefonoppringninger – selv om du ikke tok telefonen,
-for å si det slik. Feilen ble avdekket av en sikkerhetsforsker nesten
-tre år senere, så dette har foregått i tre år. Det var sikkerhetsforskeren
-og NRK som varslet Telia om feilen 13. april. Nkom fulgte straks
-opp saken og åpnet tilsyn, Datatilsynet har åpnet tilsyn basert
-på personvernarbeid, og også Telia har sendt inn avviksmelding.
-Departementet og Nkom spurte straks de andre teleoperatørene Telenor
-og ice om det var tilsvarende feil hos dem. Det fikk vi bekreftet
-at det ikke var. Det er viktig at vi raskt kommer til bunns i denne
-saken og avdekker hva som har skjedd, for å lære og å hindre at
-slike hendelser skjer igjen. Den største konsekvensen ved at dette
-skjer, er at det svekker tilliten til de digitale tjenestene. Svekkes
-tilliten, vil det også gå ut over den generelle digitaliseringen
-av samfunnet vårt. Tillit er en av de viktigste kapitalene vi har
-i dette samfunnet, så denne saken er alvorlig.</A>
+via innkommende telefonoppringninger – selv om man ikke tok telefonen,
+for å si det slik. Feilen ble avdekket av en sikkerhetsforsker nesten tre
+år senere, så dette har foregått i tre år. Det var sikkerhetsforskeren
+og NRK som varslet Telia om feilen 13. april. </A>
+            <A Type="Minnrykk">Nkom fulgte straks opp saken og åpnet tilsyn,
+Datatilsynet har åpnet tilsyn basert på personvernarbeid, og også
+Telia har sendt inn avviksmelding. Departementet og Nkom spurte straks
+de andre teleoperatørene Telenor og ice om det var tilsvarende feil
+hos dem. Det fikk vi bekreftet at det ikke var. </A>
+            <A Type="Minnrykk">Det er viktig at vi raskt kommer til bunns
+i denne saken og avdekker hva som har skjedd, for å lære og å hindre
+at slike hendelser skjer igjen. Den største konsekvensen ved at
+dette skjer, er at det svekker tilliten til de digitale tjenestene.
+Svekkes tilliten, vil det også gå ut over den generelle digitaliseringen
+av samfunnet vårt. Tillit som kapital er noe av det viktigste vi
+har i dette samfunnet, så denne saken er alvorlig.</A>
           </Hovedinnlegg>
-          <Replikk Id="i1002417">
+          <Replikk Id="i1003079">
             <A>
               <Navn personID="BÅH">
 Bård Hoksrud (FrP) [10:59:35]:</Navn> Jeg vil takke statsråden for
@@ -1173,16 +1174,17 @@ kommet bakpå og først handlet etter at svikt har oppstått. Når tilsyn
 i stor grad skjer etter at hendelsen allerede har rammet brukere
 og samfunnskritiske funksjoner, reiser det spørsmål om hvorvidt
 Nkom i tilstrekkelig grad evner å forebygge og avdekke risiko før svikten
-faktisk inntreffer. Det kan ikke være en sikkerhetstjeneste som
-først varsler etter at tyvene har kommet hjem. Hva har statsråden
-konkret gjort for å styrke Nkom, slik at de kan både avdekke sårbarheter
-i tide og hindre nye alvorlige hendelser? Og hva er gjort for å
-forsikre oss alle om at Nkom videre skal levere på sitt myndighetsoppdrag
-og faktisk har mulighet til å drive skikkelig forebygging for å
-hindre at dette skjer, og unngå de eksemplene som vi dessverre har
-sett flere av i den siste tiden?</A>
+faktisk inntreffer. Man kan ikke ha en sikkerhetstjeneste som varsler
+først etter at tyvene har kommet hjem. </A>
+            <A Type="Minnrykk">Hva har statsråden konkret gjort for å styrke
+Nkom, slik at de kan både avdekke sårbarheter i tide og hindre nye
+alvorlige hendelser? Hva er gjort for å forsikre oss alle om at
+Nkom videre skal levere på sitt myndighetsoppdrag og faktisk har mulighet
+til å drive skikkelig forebygging for å hindre at dette skjer, slik
+at vi unngår de eksemplene vi dessverre har sett flere av i den
+siste tiden?</A>
           </Replikk>
-          <Replikk Id="i1002419">
+          <Replikk Id="i1003081">
             <A>
               <Navn personID="KAT">
 Statsråd Karianne O. Tung [11:00:38]:</Navn> Digitaliserings- og
@@ -1190,7 +1192,7 @@ forvaltningsministeren har fremmet en ny lov om elektronisk kommunikasjon
 for denne sal, som Stortinget vedtok for ett og et halvt år siden.
 Det var en viktig lov for å oppdatere krav til forsvarlig sikkerhet
 og beredskap. Mobiloperatørene skal sørge for forsvarlig sikkerhet
-og er selv ansvarlige for å finne feil og rette eventuelle avvik.
+og er selv ansvarlig for å finne feil og rette eventuelle avvik.
 Nkoms rolle og ansvar er å ivareta dette ansvaret overfor tilbyderne
 når det gjelder veiledning og oppfølging av eventuelle hendelser og
 tilsyn. Et vanlig tilsyn med disse ekomtilbyderne har normalt ikke
@@ -1211,37 +1213,36 @@ her overtatt presidentplassen.</A>
               <Navn>Presidenten [11:01:46]:</Navn> Vi går til
 neste hovedspørsmål.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1002421">
+          <Hovedinnlegg Id="i1003083">
             <A>
               <Navn personID="TMV">
 Trygve Slagsvold Vedum (Sp) [11:02:01]:</Navn> Regjeringen liker
 å framstille seg selv – og jeg tror selvbildet er litt sånn også
 – som litt unikt erfaren og handlekraftig i utenrikspolitikken.
-De har en statsminister som har masse utenrikspolitisk erfaring,
-de har en utenriksminister som har vært høyt og lavt, både hjemme
+Vi har en statsminister som har masse utenrikspolitisk erfaring,
+vi har en utenriksminister som har vært høyt og lavt, både hjemme
 og ute. Og litt selvhøytidelig sier statsministeren noen ganger
 at utenrikspolitikkens mål er å gjøre innenrikspolitikken mulig.
 Det er et flott slagord, men hva har vi sett de siste ukene? Det
-virker som at utenrikspolitikken gjør nettopp det motsatte, for
+virker som om utenrikspolitikken gjør nettopp det motsatte, for
 hver gang det kommer litt frykt fra en eller annen byråkrat om at
-her kan kanskje noen i EU muligens bli fortørnet eller sure, så
+her kan kanskje noen i EU muligens bli fortørnet eller sure, da
 tør ikke den norske regjeringen. Man frykter at man kan få litt
 skjenn i Brussel. Da man fryktet det sist uke, var det diesel –
 man fryktet at ESA kanskje om noen år muligens kunne si at det at
-det norske storting etter Grunnlovens § 75 satte avgiftene ned,
-er ikke greit. Det er ikke lov, det er bare lov å sette dem opp,
-ifølge den logikken regjeringen har. </A>
+det norske storting etter Grunnloven § 75 satte avgiftene ned, er ikke
+greit. Det er ikke lov, det er bare lov å sette dem opp, ifølge
+den logikken regjeringen har. </A>
             <A Type="Minnrykk">Men nå, denne uka, har det igjen kommet opp
-diskusjon om grønn industri, grønn fornybar industri. I Sverige
-er det er tung satsing på grønn fornybar industri, men i Norge klarer ikke
-den norske regjeringen å si ja til ny fornybar industri, for en
-er redd for EUs vanndirektiv. </A>
-            <A Type="Minnrykk">Så mitt spørsmål går til utenriksministeren:
-Har det blitt sånn at utenrikspolitikkens mål, som var å gjøre innenrikspolitikken
+en diskusjon om grønn fornybar industri. I Sverige er det tung satsing på
+grønn fornybar industri, men i Norge klarer ikke den norske regjeringen
+å si ja til ny fornybar industri, for en er redd for EUs vanndirektiv. </A>
+            <A Type="Minnrykk">Mitt spørsmål går til utenriksministeren: Har
+det blitt sånn at utenrikspolitikkens mål, som var å gjøre innenrikspolitikken
 mulig, har blitt det motsatte, at en gjør norsk innenrikspolitikk
 umulig?</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1002423">
+          <Hovedinnlegg Id="i1003085">
             <A>
               <Navn personID="EBE">
 Utenriksminister Espen Barth Eide [11:03:54]:</Navn> Jeg mener at
@@ -1255,76 +1256,74 @@ slik at vi kan selge de tingene vi lager, til andre enn oss selv,
 og kjøpe fra andre. Det organiserer vi bl.a. gjennom Verdens handelsorganisasjon
 og gjennom EØS-avtalen. </A>
             <A Type="Minnrykk">Det er jo slik at EØS-avtalen er norsk lov.
-Denne forsamlingen her har med vitende og vilje gått inn i EØS-avtalen
+Denne forsamlingen har med vitende og vilje gått inn for EØS-avtalen
 og bekreftet veldig mange av de lovene og reglene som gjelder der.
-Det er altså strengt tatt ikke en avtale med Brussel; det er en
-avtale med de 27 landene som er med i EU, hver for seg, pluss Liechtenstein
-og Island. Og det vi er blitt enige om – etter en fri, suveren nasjonal
-beslutning – er at det er lurt å ha et felles marked og felles regler
+Det er strengt tatt ikke en avtale med Brussel, det er en avtale
+med de 27 landene som er med i EU, hver for seg, pluss Liechtenstein
+og Island. Og det vi er blitt enige om, etter en fri, suveren nasjonal
+beslutning, er at det er lurt å ha et felles marked og felles regler
 i Europa. Det gjør Norge til et rikere og bedre land å bo i. Men
-da forventningen vår at andre følger de reglene som er laget, og
-forventningen deres er at vi følger de reglene som er laget. Det
-er hele poenget med internasjonalt samarbeid. Det er også poenget
+da er forventningen vår at andre følger de reglene som er laget,
+og forventningen deres er at vi følger de reglene som er laget.
+Det er hele poenget med internasjonalt samarbeid. Det er også poenget
 med EØS-avtalen. Så når representanten Vedum ofte snakker om ansiktsløse
 byråkrater i Brussel, er det ikke det vi snakker om her. Det er
-politiske avtaler med politikere, regjeringsmedlemmer og parlamentsmedlemmer,
-i andre land som gjør at vi har de reglene, bl.a. for å ta vare
+politiske avtaler med politikere, regjeringsmedlemmer og parlamentsmedlemmer
+i andre land som gjør at vi har disse reglene, bl.a. for å ta vare
 på miljøet vårt.</A>
             <A Type="Minnrykk">Nå er det klima- og miljøministerens ansvar
 å svare på det konkrete spørsmålet om utslippstillatelse. Jeg kjenner
-den saken godt, men det er det han som skal svare på. Men det at man
-skal forholde seg til de reglene man har inngått, og som derved
-er norsk lov, er akkurat like lite oppsiktsvekkende som at man skal
-forholde seg til de andre lovene vi har vedtatt her. Hele poenget
-med forpliktende internasjonalt samarbeid er jo at det faktisk forplikter,
-og da er det viktig at noen passer på at man følger de reglene.</A>
+den saken godt, men det er det han som skal svare på. Det at man skal
+forholde seg til de reglene man har inngått, og som derved er norsk
+lov, er akkurat like lite oppsiktsvekkende som at man skal forholde
+seg til de andre lovene vi har vedtatt her. Hele poenget med forpliktende
+internasjonalt samarbeid er at det faktisk forplikter, og da er
+det viktig at noen passer på at man følger de reglene.</A>
           </Hovedinnlegg>
-          <Replikk Id="i1002425">
+          <Replikk Id="i1003087">
             <A>
               <Navn personID="TMV">
 Trygve Slagsvold Vedum (Sp) [11:06:02]:</Navn> I dag har LO-lederen
-uttalt «Stopp galskapen», både i Verdens Gang og i FriFagbevegelse
-– svært tydelig tale. Hvorfor bruker LO-lederen så sterke ord? Jo,
-det er nettopp fordi man skal sende ca. 700 000 kubikk med norsk
-tømmer til Sverige for foredling der. Der er det som skjer i dag.
+uttalt «Stopp galskapen», både i Verdens Gang og i FriFagbevegelse.
+Det er svært tydelig tale. Hvorfor bruker LO-lederen så sterke ord?
+Jo, det er nettopp fordi man skal sende ca. 700 000 kubikk med norsk
+tømmer til Sverige for foredling der. Det er det som skjer i dag.
 Det går tømmertog på tømmertog fra Norge til Sverige, og der er
-det greit. Så ønsker man heller å bygge den industrien på en gammel
-industritomt i Norge. Det er akkurat de samme prosessene, de samme
-utslippene, men det gjør at en får mindre transportkostnader, mindre
-transportutslipp, så for miljøet totalt sett er det selvfølgelig
-mye gunstigere å ha den framstillingen i Norge. Det skaper også
-arbeidsplasser og verdiskaping her. </A>
-            <A Type="Minnrykk">Så mitt spørsmål til utenriksministeren er:
-Er det ikke et nederlag for norsk utenrikspolitikk hvis svenske
-myndigheter og svensk utenrikspolitikk klarer å sørge for at man
-kan etablere den type industri i Sverige, mens norsk utenrikspolitikk er
-så regeltro at det ikke er mulig her? </A>
+det greit. Så ønsker man heller å bygge den industrien på en gammel industritomt
+i Norge. Det er akkurat de samme prosessene, de samme utslippene,
+men det gjør at en får mindre transportkostnader, mindre transportutslipp,
+så for miljøet totalt sett er det selvfølgelig mye gunstigere å
+ha den framstillingen i Norge. Det skaper også arbeidsplasser og
+verdiskaping her. </A>
+            <A Type="Minnrykk">Mitt spørsmål til utenriksministeren er: Er
+det ikke et nederlag for norsk utenrikspolitikk hvis svenske myndigheter og
+svensk utenrikspolitikk klarer å sørge for at man kan etablere den
+type industri i Sverige, mens norsk utenrikspolitikk er så regeltro
+at det ikke er mulig her? </A>
           </Replikk>
-          <Replikk Id="i1002427">
+          <Hovedinnlegg Id="i1003089">
             <A>
               <Navn personID="EBE">
 Utenriksminister Espen Barth Eide [11:07:05]:</Navn> Sverige og
-Norge er bundet av de samme reglene. Og nå er det slik, igjen, at
-dette er klima- og miljøministerens ansvar, men det har seg sånn
-at denne saken kan jeg veldig godt, for jeg har jobbet med den selv
-tidligere. Jeg har bare lyst til å understreke at Sverige forholder
-seg til disse utslippsreglene, og Norge gjør det også. Men når det
-gjelder utslipp til vann, kommer det altså an på resipientens status.
-Det er ikke det samme hvor man slipper det ut, det handler om hvilket
-vassdrag utslippene går inn i, og hvilken fjord – i dette tilfellet
-– de kommer videre ut i. Det er Oslofjorden. Oslofjorden er i krise,
-og heldigvis er det slik at da den gang finansminister Vedum satt
-i regjering sammen med meg, laget vi en plan for opprensking av
-Oslofjorden. Da var det en del behov for å redusere en del typer
-utslipp.</A>
-            <A Type="Minnrykk">Dette inngår i det. Det er ikke slik at det
-er lov i Sverige og ikke lov i Norge. Det kommer an på resipientens
-status, og derfor må både vi og Sverige forholde oss til dette.
-Det er ingen som mener at industri skal flyttes ut av landet, men
-det er altså norsk lov at man skal ta visse miljøhensyn når man
-driver industri.</A>
-          </Replikk>
-          <Replikk Id="i1002429">
+Norge er bundet av de samme reglene. Nå er det slik, igjen, at dette
+er klima- og miljøministerens ansvar, men det har seg slik at denne
+saken kan jeg veldig godt, for jeg har jobbet med den selv tidligere.
+Jeg har bare lyst til å understreke at Sverige forholder seg til
+disse utslippsreglene, og Norge gjør det også. Men når det gjelder
+utslipp til vann, kommer det altså an på resipientens status. Det
+er ikke det samme hvor man slipper det ut, det handler om hvilket
+vassdrag utslippene går inn i, og hvilken fjord de i dette tilfellet kommer
+videre ut i. Det er Oslofjorden. Oslofjorden er i krise, og heldigvis
+er det slik at da den gang finansminister Vedum satt i regjering
+sammen med meg, laget vi en plan for opprensking av Oslofjorden.
+Da var det behov for å redusere en del typer utslipp. Dette inngår
+i det. Det er ikke slik at det er lov i Sverige og ikke lov i Norge.
+Det kommer an på resipientens status, og derfor må både vi og Sverige
+forholde oss til dette. Det er ingen som mener at industri skal
+flyttes ut av landet, men det er altså norsk lov at man skal ta
+visse miljøhensyn når man driver industri.</A>
+          </Hovedinnlegg>
+          <Replikk Id="i1003091">
             <A>
               <Navn personID="TMV">
 Trygve Slagsvold Vedum (Sp) [11:08:09]:</Navn> De minimale utslippene
@@ -1332,27 +1331,27 @@ som vil komme fra et nytt anlegg i Hønefoss, vil ikke påvirke Oslofjorden
 i det hele tatt, så vi må bare legge bort den delen av saken. </A>
             <A Type="Minnrykk">Statsminister Støre sa: «Vi ønsker å legge
 til rette for at produkter bearbeides her i Norge istedenfor at
-vi sender råstoffet ut av landet». Det sa han i Hønefoss, nettopp
-på dette anlegget, for han så dette som viktig for norsk industri,
-og han så det som en del av det grønne skiftet – nettopp det å skape nye
-verdier med basis i norske råvarer, som er evigvarende, og som bruker
-fotosyntesen. Det er god miljøpolitikk. </A>
+vi sender råstoffet ut av landet». Det sa han på Hønefoss, nettopp
+på dette anlegget, for han så dette som viktig for norsk industri, og
+han så det som en del av det grønne skiftet – nettopp det å skape
+nye verdier med basis i norske råvarer, som er evigvarende, og som
+bruker fotosyntesen. Det er god miljøpolitikk. </A>
             <A Type="Minnrykk">Så ser vi da nå at Miljødirektoratet har sagt:
 «EUs vanndirektiv gir nei til treforedling ved Hønefoss». Så statsministeren
 vil, men systemet vil ikke, og de skyver EU foran seg. Er ikke det
 et nederlag for demokratiet når man ønsker mer utvikling, ønsker
 den typen fornybar industri, og så sitter da regjeringen hjelpeløs
-og handlingslammet og ser på – og skyver EU foran seg?</A>
+og handlingslammet og ser på og skyver EU foran seg?</A>
           </Replikk>
-          <Replikk Id="i1002431">
+          <Replikk Id="i1003093">
             <A>
               <Navn personID="EBE">
 Utenriksminister Espen Barth Eide [11:09:13]:</Navn> Jeg tror representanten
 Vedum vet hvor Hønefoss ligger. Det er altså slik at det er veldig
-vanskelig å slippe noe i vannet i Hønefoss som ikke etter hvert
+vanskelig å slippe noe i vannet på Hønefoss som ikke etter hvert
 kommer til Drammensfjorden, som er en del av Oslofjorden. Det er
-også slik at en del slike stoffer vil være med i den endelige resipienten,
-og det er også lokale forskrifter. </A>
+også slik at en del slike stoffer vil bli værende i den endelige
+resipienten, og det er også lokale forskrifter. </A>
             <A Type="Minnrykk">Poenget er at vi ønsker industri i Norge, vi
 ønsker treforedlingsindustri, som er en bra industri, men det er
 ikke det eneste stedet i landet man kan etablere treforedlingsindustri. Poenget
@@ -1371,38 +1370,38 @@ er veldig få i norsk industri som mener at vi skal ut av EØS-avtalen.
 Det tror jeg ville være veldig dårlig for norsk næringsliv og norske
 arbeidsplasser.</A>
           </Replikk>
-          <Replikk Id="i1002433">
+          <Replikk Id="i1003095">
             <A>
               <Navn personID="GP">
 Geir Pollestad (Sp) [11:10:33]:</Navn> Det er Senterpartiets erfaring
 både frå innsida og frå utsida at når det gjeld spørsmål om EU,
-er Arbeidarpartiet meir katolsk enn paven. Det er ikkje sånn, som
+er Arbeidarpartiet meir katolsk enn paven. Det er ikkje slik som
 utanriksministeren framstiller det, at loven er ein syltynn strek
-som det finst rett og galt på. Det går an å utfordra handlingsrommet.
-Eg har sjølv sete i møte med ESA, som har vore frustrerte over at
-byråkratar, byråkrati og departement veldig ofte skuldar på ESA,
-når det eigentleg er dei sjølv som ikkje vil.</A>
+som skil rett og galt. Det går an å utfordra handlingsrommet. Eg
+har sjølv sete i møte med ESA, som har vore frustrerte over at byråkratar,
+byråkrati og departement veldig ofte skuldar på ESA, når det eigentleg
+er dei sjølve som ikkje vil.</A>
             <A Type="Minnrykk">Det er smått absurd at ved Hønefoss kan me
 no setja punktum for ei historie som går tilbake til 1873, fordi
 det er EU-reglar som står i vegen. Industrien flyttar til Sverige,
-for der er det openbert lov. Så mitt spørsmål er: Er det meir EU
-i Noreg enn det er i Sverige?</A>
+for der er det openbert lov. Så spørsmålet mitt er: Er det meir
+EU i Noreg enn det er i Sverige?</A>
           </Replikk>
-          <Replikk Id="i1002435">
+          <Replikk Id="i1003097">
             <A>
               <Navn personID="EBE">
 Utenriksminister Espen Barth Eide [11:11:30]:</Navn> Jeg synes det
 er klokt om representanten lytter til svarene på forutgående spørsmål,
 for det er altså nøyaktig det samme regelverket i Sverige og Norge.
-Det er helt likt, og det praktiseres så vidt meg bekjent også helt
-likt. Det er bare det at man ikke kan sammenligne her. To konkrete
-utslippspunkt har ikke samme status, for det har å gjøre med resipientens
-tilstand. Dette er bl.a. noe folk som har jobbet i Landbruksdepartementet,
-er kjent med, for dette er en viktig del av hvordan man driver med
-miljølovgivning. Man kan altså ikke si at noe er lov i Sverige og
-ikke i Norge fordi man får et konkret nei et bestemt sted.</A>
+Det er helt likt, og det praktiseres meg bekjent også helt likt.
+Det er bare det at man ikke kan sammenligne her. To konkrete utslippspunkt
+har ikke samme status, for det har å gjøre med resipientens tilstand. Dette
+er bl.a. noe folk som har jobbet i Landbruksdepartementet, er kjent
+med, for dette er en viktig del av hvordan man driver med miljølovgivning.
+Man kan altså ikke si at noe er lov i Sverige og ikke i Norge fordi
+man får et konkret nei et bestemt sted.</A>
             <A Type="Minnrykk">Det er avgjørende viktig at vi også tar vare
-på naturen. Det er viktig at vi får industrien med på lag med naturen,
+på naturen. Det er viktig at vi får industrien mer på lag med naturen,
 og her har vi et vassdragssystem og et nedbørsområde som renner
 ut i en fjord som er rammet av at vi har sluppet ut for mye. Det
 går ut over både miljøtilstanden i fjorden og andre næringer som
@@ -1415,7 +1414,7 @@ følge regler som er norsk lov, mener jeg er en god idé.</A>
               <Navn>Presidenten [11:12:33]:</Navn> Vi går til
 neste hovedspørsmål.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1002437">
+          <Hovedinnlegg Id="i1003099">
             <A>
               <Navn personID="SOFMAR">
 Sofie Marhaug (R) [11:12:53]:</Navn> Mitt spørsmål går til statsråd
@@ -1436,7 +1435,7 @@ villig til å gi. I forrige uke publiserte Statistisk sentralbyrå
 en analyse som viser at vi hadde rett om datasentrene. Datasenternæringen sysselsatte
 677 personer i 2024, og de bidro med litt over 1,2 mrd. kr i direkte
 verdiskaping. For noen høres det kanskje mye ut, men det er det
-ikke. Datasentrene er et enorm kraftsluk og brukte det samme året
+ikke. Datasentrene er et enormt kraftsluk og brukte det samme året
 1,6 TWh strøm. Det er ikke mye valuta for pengene, for å si det
 mildt. Annen industri kunne sysselsatt langt flere og bidratt til
 større inntekter for fellesskapet med samme strømforbruk, noe SSBs
@@ -1448,7 +1447,7 @@ at datasenternæringen bidrar til verdiskaping og arbeidsplasser som
 står i rimelig forhold til det enorme kraftforbruket som datasentrene
 står for?</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1002439">
+          <Hovedinnlegg Id="i1003101">
             <A>
               <Navn personID="KAT">
 Statsråd Karianne O. Tung [11:14:53]:</Navn> Datasenternæringen
@@ -1457,26 +1456,26 @@ verdiskaping og økt sikkerhet og beredskap. </A>
             <A Type="Minnrykk">Når det gjelder spørsmål knyttet til SSB-analysen,
 oppfatter jeg at den analysen ser særlig på utviklingen av datasenternæringen
 fra 2000 til 2024. I rapporten sier man at det i 2024 var 26 datasentre
-fordelt på 15 datasenteroperatører. Etter at vi har innført registreringsplikt
-for datasentre i Norge som et av de første landene i verden, har
-altså tallet fra det SSB kikket på, som var 26 i 2024, to år senere
-gått opp til 104 datasentre. Så rapporten fra SSB baserer seg på
-relativt gamle tall og tar ikke høyde for de nye KI-datasentrene
-som vi ser bygges ut i dag. </A>
+fordelt på 15 datasenteroperatører. Det er disse SSB har sett på.
+Etter at vi har innført registreringsplikt for datasentre i Norge,
+som et av de første landene i verden, har altså tallet fra det SSB
+kikket på, som var 26 i 2024, to år senere gått opp til 104 datasentre.
+Så rapporten fra SSB baserer seg på relativt gamle tall og tar ikke
+høyde for de nye KI-datasentrene som vi ser bygges ut i dag. </A>
             <A Type="Minnrykk">Datasentre er som sagt lønnsomme, de mottar
 ikke subsidier, og de skaper lokale og regionale ringvirkninger
-i form av direkte arbeidsplasser, men også indirekte arbeidsplasser som
+i form av direkte arbeidsplasser, men også indirekte arbeidsplasser, som
 SSB-analysen ikke har sett på. Det gjelder både tilgang på elektrikere,
 kjøleteknikere, rørleggere og bygge- og anleggsarbeidere i byggefasen. </A>
             <A Type="Minnrykk">Jeg mener at datasentre er en del av den moderne
-industribyggingen som Norge skal ha. Vi skal være attraktive for
-de datasenteretableringene som bidrar til verdiskaping for landet vårt.
+industribyggingen som Norge skal ha. Vi skal være attraktive for de
+datasenteretableringene som bidrar til verdiskaping for landet vårt.
 Ikke minst handler det om sikkerhet og beredskap for oppbevaring
 og prosessering av data i en tid som er digital, og hvor kunstig
 intelligens tar av. Så her spiller Norge også en sikkerhetspolitisk
 rolle i å legge til rette for disse datasentrene.</A>
           </Hovedinnlegg>
-          <Replikk Id="i1002441">
+          <Replikk Id="i1003103">
             <A>
               <Navn personID="SOFMAR">
 Sofie Marhaug (R) [11:16:42]:</Navn> Jeg synes statsråden tar veldig
@@ -1485,51 +1484,56 @@ at store datasentre sysselsetter færre per megawatt-time. Når statsråden
 da skryter av at det nå kommer flere KI-datasentre, er jo det dårlig
 nytt. Det er også uredelig å tenke at anleggsfasen eller byggefasen
 er de tallene man skal operere etter. Vi må jo se på de permanente
-arbeidsplassene. Jeg vil imidlertid tilbake til debatten tidligere
+arbeidsplassene. </A>
+            <A Type="Minnrykk">Jeg vil imidlertid tilbake til debatten tidligere
 i vår, da statsråden sammenlignet datasenternæringen med prosessindustrien
-og oljeindustrien. Kraftkrevende industri og petroleumssektoren er
-viktig for norsk sysselsetting og verdiskaping. Når det gjelder
+og oljeindustrien. Kraftkrevende industri og petroleumssektoren
+er viktig for norsk sysselsetting og verdiskaping. Når det gjelder
 verdiskaping, når ikke datasenternæringen disse næringene til knærne
-engang, noe denne rapporten slår fast. Jeg spør igjen: Mener statsråden
-i lys av denne SSB-rapporten fortsatt at datasenternæringen vil
-bidra til verdiskaping og arbeidsplasser på lik linje med prosessindustrien?</A>
+engang, noe denne rapporten slår fast. </A>
+            <A Type="Minnrykk">Jeg spør igjen: Mener statsråden i lys av denne
+SSB-rapporten fortsatt at datasenternæringen vil bidra til verdiskaping og
+arbeidsplasser på lik linje med prosessindustrien?</A>
           </Replikk>
-          <Replikk Id="i1002443">
+          <Replikk Id="i1003105">
             <A>
               <Navn personID="KAT">
 Statsråd Karianne O. Tung [11:17:47]:</Navn> Selv om SSB-analysen
 har sett på et fåtall og eldre datasentre, slår til og med denne
 analysen fast at disse gamle datasentrene har høyere verdiskaping
-enn snittet for norsk næringsliv. Jeg synes ikke det er uredelig
-å bruke tall fra bygg- og anleggsbransjen. Bygg- og anleggsbransjen
-er den største næringen vi har i Fastlands-Norge. Det er en næring
-som sliter, og det at det kommer milliardinvesteringer i datasentre
-som skal bygges, er bra for norsk anleggsbransje, som trenger disse
-investeringene og disse oppdragene. Til sist mener jeg at det heller ikke
-er viktigst med flest mulig arbeidsplasser i datasentrene. Framover
-går vi inn i en tid hvor vi vil mangle folk, og det at vi har datasentre
-som er høyproduktive og har mye verdiskaping per megawatt og per
-ansatt, er viktig for å kunne bruke folk der vi virkelig trenger
-å bruke folk.</A>
+enn snittet for norsk næringsliv. </A>
+            <A Type="Minnrykk">Jeg synes ikke det er uredelig å bruke tall
+fra bygg- og anleggsbransjen. Bygg- og anleggsbransjen er den største
+næringen vi har i Fastlands-Norge. Det er en næring som sliter, og
+det at det kommer milliardinvesteringer i datasentre som skal bygges,
+er bra for norsk anleggsbransje, som trenger disse investeringene
+og disse oppdragene. </A>
+            <A Type="Minnrykk">Til sist mener jeg at det heller ikke er viktigst
+med flest mulig arbeidsplasser i datasentrene. Framover går vi inn
+i en tid hvor vi vil mangle folk, og det at vi har datasentre som
+er høyproduktive og har mye verdiskaping per megawatt og per ansatt,
+er viktig for å kunne bruke folk der vi virkelig trenger å bruke
+folk.</A>
           </Replikk>
-          <Replikk Id="i1002445">
+          <Replikk Id="i1003107">
             <A>
               <Navn personID="SOFMAR">
 Sofie Marhaug (R) [11:18:50]:</Navn> Jeg er uenig i at det er høyproduktivt,
-og det mener jeg også denne SSB-rapporten slår fast. Statsråden
-svarte ikke på spørsmålet mitt. Jeg sammenlignet det med prosessindustrien
-og for så vidt også med petroleumssektoren. Rapporten slår nettopp
-fast at kraftforedlende industri har høyere sysselsetting i forhold
-til kraftforbruket sammenlignet med datasentre, og vi har også en
-utvikling i datasenternæringen der det kreves stadig mer kraft uten
-at man får veldig mye igjen. Det er fortsatt uredelig å sammenligne
-permanente arbeidsplasser i næringslivet generelt med byggefasen
-til datasentrene. Jeg spør igjen: Kan statsråden i hvert fall bekrefte
-det som står i SSB-rapporten, nemlig at datasenternæringen har lavere
-sysselsetting per megawatt enn det den kraftforedlende industrien
-har?</A>
+og det mener jeg også denne SSB-rapporten slår fast. </A>
+            <A Type="Minnrykk">Statsråden svarte ikke på spørsmålet mitt.
+Jeg sammenlignet det med prosessindustrien og for så vidt også med
+petroleumssektoren. Rapporten slår nettopp fast at kraftforedlende
+industri har høyere sysselsetting sett i forhold til kraftforbruket
+sammenlignet med datasentre, og vi har også en utvikling i datasenternæringen
+der det kreves stadig mer kraft uten at man får veldig mye igjen.
+Det er fortsatt uredelig å sammenligne permanente arbeidsplasser
+i næringslivet generelt med byggefasen til datasentrene. </A>
+            <A Type="Minnrykk">Jeg spør igjen: Kan statsråden i hvert fall
+bekrefte det som står i SSB-rapporten, nemlig at datasenternæringen
+har lavere sysselsettingsgrad per megawatt enn det den kraftforedlende
+industrien har?</A>
           </Replikk>
-          <Replikk Id="i1002447">
+          <Replikk Id="i1003109">
             <A>
               <Navn personID="KAT">
 Statsråd Karianne O. Tung [11:19:48]:</Navn> Igjen mener jeg det
@@ -1548,7 +1552,7 @@ eksportert globalt, kan vi nå gjøre det samme ved å bruke energi
 til å prosessere data og eksportere kunstig intelligens og tungregnekapasitet
 til resten av verden. Det synes jeg vi kan være stolt av.</A>
           </Replikk>
-          <Replikk Id="i1002449">
+          <Replikk Id="i1003111">
             <A>
               <Navn personID="SOFMAR">
 Sofie Marhaug (R) [11:20:50]:</Navn> Jeg synes det er spesielt at
@@ -1568,7 +1572,7 @@ forbruk og på den andre siden kalle det for industri, for annen
 industri får ikke den konsesjonskraften. Hvorfor opererer regjeringen med
 to ulike definisjoner av hva datasenternæringen er?</A>
           </Replikk>
-          <Replikk Id="i1002451">
+          <Replikk Id="i1003113">
             <A>
               <Navn personID="KAT">
 Statsråd Karianne O. Tung [11:21:53]:</Navn> Her er det vel representanten
@@ -1593,12 +1597,12 @@ som bidrar til landets sikkerhet og beredskap.</A>
 spørretimen er nå over.</A>
           </Presinnlegg>
         </Sporretime>
-        <Sporretime Id="i1002453" saksKartNr="2">
+        <Sporretime Id="i1003115" saksKartNr="2">
           <Sakshode>
             <Saknr>
               <Uth Type="Sperret">Sak
 nr. 2</Uth> [11:22:59]</Saknr>
-            <Saktittel Id="i1002455">
+            <Saktittel Id="i1003117">
               <A>Ordinær spørretime</A>
             </Saktittel>
           </Sakshode>
@@ -1606,81 +1610,77 @@ nr. 2</Uth> [11:22:59]</Saknr>
             <A>
               <Navn>Presidenten [11:23:02]:</Navn> Det blir noen
 endringer i den oppsatte spørsmålslisten, og presidenten viser i
-den sammenheng til spørsmålslisten i salappen.</A>
-          </Presinnlegg>
-          <Merknad>
-            <Handling>
-              <A>Endringene var som følger:</A>
-            </Handling>
-          </Merknad>
-          <Presinnlegg>
-            <A>Spørsmål 4, fra representanten Bård Hoksrud til
-samferdselsministeren, må utsettes til neste spørretime da statsråden er
-bortreist. </A>
+den sammenheng til den elektroniske spørsmålslisten i salappen.</A>
+            <A Type="Blanklinjeminnrykk">Endringene var som følger:</A>
+            <A Type="Minnrykk">Spørsmål 4, fra representanten Bård Hoksrud
+til samferdselsministeren, må utsettes til neste spørretime, da
+statsråden er bortreist. </A>
             <A Type="Minnrykk">Spørsmål 5, fra representanten Bjørn Larsen
 til samferdselsministeren, er trukket tilbake. </A>
             <A Type="Minnrykk">Spørsmål 7, fra representanten Camilla Renate
 Mikkelsen til kommunal- og distriktsministeren, vil bli tatt opp
 av representanten Hanne Beate Stenvaag.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1002457">
-            <A>
-              <Navn personID="HILGRA">
+          <Spm>
+            <Tittel>Spørsmål 1</Tittel>
+            <Hovedinnlegg Id="i1003119">
+              <A>
+                <Navn personID="HILGRA">
 Hilde Grande (FrP) [11:23:25]:</Navn> «Som regjeringen har fortalt
 mange ganger, er ledigheten i Norge lav, og bare halvparten så høy
 som i Sverige. Det er utmerket. Arbeidsledighet er sløsing med samfunnets
 viktigste ressurs: arbeidskraft. Arbeidsledige mennesker får ikke
 brukt kreftene til verdiskaping. Myndighetene må derfor også følge
 med på sysselsettingen.</A>
-            <A Type="Minnrykk">Hvordan har sysselsettingen i Norge utviklet
+              <A Type="Minnrykk">Hvordan har sysselsettingen i Norge utviklet
 seg siden 2010, og har utviklingen i Norge vært sterkere eller svakere enn
 i våre nærmeste naboland i denne perioden?»</A>
-          </Hovedinnlegg>
-          <Hovedinnlegg Id="i1002459">
-            <A>
-              <Navn personID="JES">
+            </Hovedinnlegg>
+            <Hovedinnlegg Id="i1003121">
+              <A>
+                <Navn personID="JES">
 Statsråd Jens Stoltenberg [11:24:21]:</Navn> Antallet sysselsatte
-har økt betydelig de siste 15 årene i Norge. Fra 2010 til 2025 har
+har økt betydelig de siste 15 årene i Norge. Fra 2010 til 2025 har
 det blitt om lag 460 000 flere sysselsatte ifølge tall fra nasjonalregnskapet
 – tilsvarende en årlig vekst på om lag 30 000 personer. Bare siden
 tredje kvartal 2021 har sysselsettingen økt med 170 000 personer.</A>
-            <A Type="Minnrykk">Ved sammenligninger med andre land over tid
+              <A Type="Minnrykk">Ved sammenligninger med andre land over tid
 er det naturlig å vurdere utviklingen i andelen sysselsatte, dvs.
 antall sysselsatte, i prosent av befolkningen. Sysselsettingsandelen i
 Norge har holdt seg på et høyt nivå siden 2010. I 2025 var 69,6 pst.
-av befolkningen i aldersgruppen 15–74 år sysselsatt – om lag på
+av befolkningen i aldersgruppen 15–74 år sysselsatt – om lag på
 samme nivå som i 2010, da sysselsettingsandelen var på 69,8 pst.</A>
-            <A Type="Minnrykk">Det er flere forhold som har påvirket den samlede
+              <A Type="Minnrykk">Det er flere forhold som har påvirket den samlede
 sysselsettingsandelen de siste årene. Det økonomiske tilbakeslaget i
 2014, da oljeprisen ble redusert, bidro bl.a. til at sysselsettingsandelen
 falt. Andelen ble også noe redusert i forbindelse med pandemien,
 men steg da smitteverntiltakene ble avviklet. Siden 2022 har andelen
-sysselsatte i aldersgruppen 15–74 år variert rundt 70 pst.</A>
-            <A Type="Minnrykk">Sysselsettingsandelen påvirkes også av vridninger
+sysselsatte i aldersgruppen 15–74 år variert rundt 70 pst.</A>
+              <A Type="Minnrykk">Sysselsettingsandelen påvirkes også av vridninger
 i alderssammensetningen i befolkningen i yrkesaktiv alder. Siden
 2010 har gjennomsnittsalderen i den yrkesaktive delen av befolkningen
 økt. Som følge av at eldre i mindre grad deltar i arbeid enn yngre
 aldersgrupper har det bidratt til å redusere den samlede andelen
 noe. Økt innvandring har også gitt en tilsvarende effekt på andelen
 sysselsatte.</A>
-            <A Type="Minnrykk">Sysselsettingsandelen i Norge i aldersgruppen
-15–74 år var i 2025 henholdsvis 0,3 og 0,6 prosentenheter høyere
+              <A Type="Minnrykk">Sysselsettingsandelen i Norge i aldersgruppen
+15–74 år var i 2025 henholdsvis 0,3 og 0,6 prosentenheter høyere
 enn i Danmark og Sverige og betydelig høyere enn i Finland. I Danmark
-og Sverige har andelen sysselsatte i aldersgruppen 15–74 år økt
+og Sverige har andelen sysselsatte i aldersgruppen 15–74 år økt
 de siste 15 årene, opp mot nivået i Norge. Snevrer vi aldersgruppen
-inn til 20–64 år, var 79,5 pst. sysselsatt i Norge i 2025, omtrent
+inn til 20–64 år, var 79,5 pst. sysselsatt i Norge i 2025, omtrent
 som i Danmark og noe lavere enn i Sverige. I Norge har sysselsettingsandelen
-i denne aldersgruppen variert rundt 79–80 pst. de siste 15 årene,
+i denne aldersgruppen variert rundt 79–80 pst. de siste 15 årene,
 mens den har økt i Danmark og Sverige. Det er særlig blant 40- og
 50-åringer sysselsettingen har utviklet seg mindre gunstig i Norge.</A>
-            <A Type="Minnrykk">Norge har høy sysselsetting blant eldre sammenlignet med
+              <A Type="Minnrykk">Norge har høy sysselsetting blant eldre sammenlignet med
 andre europeiske land, og andelen sysselsatte i denne aldersgruppen
 har økt betydelig siden 2010. Det må bl.a. annet ses i sammenheng
 med pensjonsreformen.</A>
-          </Hovedinnlegg>
-          <Replikk Id="i1002461">
-            <A>
-              <Navn personID="HILGRA">
+            </Hovedinnlegg>
+            <Replikk Id="i1003123">
+              <A>
+                <Navn personID="HILGRA">
 Hilde Grande (FrP) [11:27:15]:</Navn> Arbeidsledigheten i Norge
 er altså mellom 4,6 og 5 pst., om lag halvparten av nivået i Sverige.
 Men samlet utenforskap er om lag det samme i våre to land. Tall
@@ -1689,77 +1689,76 @@ siste 15 årene. Samtidig har sysselsettingen steget i mange av våre
 naboland. Har statsråden noen forklaring på årsaken til at sysselsettingen
 i Norge har utviklet seg såpass mye svakere enn i nabolandene i
 denne perioden?</A>
-          </Replikk>
-          <Replikk Id="i1002463">
-            <A>
-              <Navn personID="JES">
+            </Replikk>
+            <Replikk Id="i1003125">
+              <A>
+                <Navn personID="JES">
 Statsråd Jens Stoltenberg [11:27:51]:</Navn> Som jeg nettopp redegjorde
 for, ligger andelen av befolkningen i Norge som er i jobb, svært
 høyt. Den har ligget stabilt høyt og ligger over nivået i våre nordiske
 naboland. Det som har skjedd, er at de har kommet bak oss og kommet
-nærmere våre nivåer, men ser man på gruppen fra 15 til 74 år, ligger
-vi høyere enn dem. Snevrer vi inn til gruppen fra 20 til 64 år,
-ligger vi litt under Sverige, på nivå med Danmark og klart foran
-Finland.</A>
-            <A Type="Minnrykk">Noe av forklaringen er vel i utgangspunktet
+nærmere våre nivåer, men ser man på gruppen fra 15–74 år, ligger
+vi høyere enn dem. Snevrer vi inn til gruppen fra 20–64 år, ligger
+vi litt under Sverige, på nivå med Danmark og klart foran Finland.</A>
+              <A Type="Minnrykk">Noe av forklaringen er vel i utgangspunktet
 at vi ligger høyt, og det er klart det er vanskeligere å øke fra
 et høyt nivå enn å øke fra et lavt nivå, slik landene rundt oss
 har gjort de senere årene.</A>
-            <A Type="Minnrykk">Men jeg er jo ikke fornøyd, og det er en av
-grunnene til at hovedprosjektet for denne regjeringen er å øke andelen
-ytterligere. Det er bl.a. grunnen til at vi gjennomførte pensjonsreformen,
-en reform som har gitt enorme effekter på sysselsettingen blant
-eldre, en reform som Fremskrittspartiet var imot, men som kanskje
-er det viktigste tiltaket de siste årene for å få flere i jobb.</A>
-          </Replikk>
-          <Replikk Id="i1002465">
-            <A>
-              <Navn personID="HILGRA">
+              <A Type="Minnrykk">Men jeg er jo ikke fornøyd. Det er en av grunnene
+til at hovedprosjektet for denne regjeringen er å øke andelen ytterligere.
+Det er bl.a. grunnen til at vi gjennomførte pensjonsreformen, en
+reform som har gitt enorme effekter på sysselsettingen blant eldre,
+en reform som Fremskrittspartiet var imot, men som kanskje er det
+viktigste tiltaket de siste årene for å få flere i jobb.</A>
+            </Replikk>
+            <Replikk Id="i1003127">
+              <A>
+                <Navn personID="HILGRA">
 Hilde Grande (FrP) [11:28:56]:</Navn> Sysselsettingen er avgjørende
 for hva vi som samfunn har råd til, og høy sysselsetting gir grunnlag
 for både gode velferdstjenester, trygge boliger og rik tilgang på
 andre konsumgoder. Har statsråden forslag til tiltak som vil øke
 sysselsettingen, og vil regjeringen foreslå kutt i skatten på arbeidsinntekt?</A>
-          </Replikk>
-          <Replikk Id="i1002467">
-            <A>
-              <Navn personID="JES">
+            </Replikk>
+            <Replikk Id="i1003129">
+              <A>
+                <Navn personID="JES">
 Statsråd Jens Stoltenberg [11:29:20]:</Navn> Det viktigste for å
 holde det veldig høye sysselsettingsnivået vi har i Norge, og høyere
-enn alle andre land rundt oss, er å holde orden i norsk økonomi,
-slik at det går godt i norske bedrifter. Bare de siste årene, etter
-at Støre-regjeringen tok over, er det skapt 170 000 nye arbeidsplasser
-i Norge, de aller fleste i private virksomheter. Så det å holde
-orden i økonomien og legge til rette for privat verdiskaping er
-tiltak nummer én.</A>
-            <A Type="Minnrykk">Tiltak nummer to er ikke minst å se på hvordan
+enn så godt som alle andre land rundt oss, er å holde orden i norsk
+økonomi, slik at det går godt i norske bedrifter. Bare de siste
+årene, etter at Støre-regjeringen tok over, er det skapt 170 000
+nye arbeidsplasser i Norge, de aller fleste i private virksomheter.
+Så det å holde orden i økonomien og legge til rette for privat verdiskaping
+er tiltak nummer én.</A>
+              <A Type="Minnrykk">Tiltak nummer to er ikke minst å se på hvordan
 man kan ha en arbeidsmarkedspolitikk og en trygdepolitikk som bidrar til
 at de som sliter med å komme i jobb, faktisk kommer i jobb. Vi har
 styrket arbeidsmarkedstiltakene, vi har gjennomført en viktig pensjonsreform,
 vi har justert andre deler av pensjonssystemet, f.eks. ved å fjerne
 overgangsstønaden, og vi er opptatt av å se på andre ting som kan
 gjøre det mer lønnsomt å jobbe og få flere i jobb. Vi har startet
-forsøk med et arbeidsfradrag for å se på hvordan det kan påvirke
-sysselsettingen. Det startet i år, og jeg ser fram til resultatet
-av det.</A>
-          </Replikk>
+en forsøksordning med et arbeidsfradrag, ekstra fradrag i arbeidsinntekt, for
+å se på hvordan det kan påvirke sysselsettingen. Det startet i år,
+og jeg ser fram til resultatet av det.</A>
+            </Replikk>
+          </Spm>
           <Spm>
             <Tittel>Spørsmål 2</Tittel>
-            <Hovedinnlegg Id="i1002469">
+            <Hovedinnlegg Id="i1003131">
               <A>
                 <Navn personID="TSTA">
 Tom Staahle (FrP) [11:30:30]:</Navn> «I tråd med regjeringens ambisjon
 å forenkle vil jeg utfordre statsråden på Finanstilsynet sitt forslag
 om å øke sikkerhetsstillelsen for eiendomsmeglingsforetakene til
-100 mill. kroner, med et minstebeløp på 25 mill. kr. Det vil kunne
-medføre økte kostnader i bolighandelen for alle parter i handelen,
-og svekke det effektive norske transaksjonssystemet for kjøp og
-salg av bolig. Ifølge bransjen selv er denne risikoen håndtert gjennom eksisterende
-ordninger.</A>
+100 mill. kr, med et minstebeløp på 25 mill. kr. Det vil kunne medføre
+økte kostnader i bolighandelen for alle parter i handelen, og svekke
+det effektive norske transaksjonssystemet for kjøp og salg av bolig. Ifølge
+bransjen selv er denne risikoen håndtert gjennom eksisterende ordninger.</A>
               <A Type="Minnrykk">Mener statsråden at Finanstilsynet sitt forslag
 er godt?»</A>
             </Hovedinnlegg>
-            <Hovedinnlegg Id="i1002471">
+            <Hovedinnlegg Id="i1003133">
               <A>
                 <Navn personID="JES">
 Statsråd Jens Stoltenberg [11:31:02]:</Navn> For de fleste av oss
@@ -1798,18 +1797,18 @@ opp mot hensynene som Finanstilsynet har lagt vekt på.</A>
 en grundig vurdering av Finanstilsynets argumenter i høringsnotatet
 og innvendingene som har kommet i høringen.</A>
             </Hovedinnlegg>
-            <Replikk Id="i1002473">
+            <Replikk Id="i1003135">
               <A>
                 <Navn personID="TSTA">
 Tom Staahle (FrP) [11:33:08]:</Navn> Takk for det. Jeg registrerer
 svaret fra finansministeren, og jeg er godt kjent med de elementene
 han drar fram. Det er jo slik at når man utvikler nye forskrifter
-eller forslag, er det i det private alltid lurt å gjøre en kost-nytte-analyse,
+eller forslag, er det i det private alltid lurt å gjøre en kost–nytte-analyse,
 og det burde man kanskje også i langt større grad ha gjort i det
 offentlige.</A>
               <A Type="Minnrykk">I denne saken kan ikke Finanstilsynet sannsynliggjøre
 at en boligkjøper har lidd tap grunnet for liten eller manglende sikkerhetsstillelse,
-sånn som det er i markedet i dag. Det er kanskje noen få unntak
+slik som det er i markedet i dag. Det er kanskje noen få unntak
 i et begrenset marked her i Oslo det gjelder. Ifølge Eiendom Norge
 vil denne endringen føre til en kostnadsøkning på opptil 70 pst.
 for bransjen, kostnader som i siste instans vil falle på boligkjøpere
@@ -1819,15 +1818,15 @@ og skjerpede operasjonelle krav gjennom lov og forskrift.</A>
               <A Type="Minnrykk">Når det allerede er dyrt å kjøpe bolig i Norge
 og regjeringen har som mål å bygge 130 000 nye boliger, står dette
 i grell kontrast. Hvor smart er det da å øke kostnadene for boligkjøperne
-ytterligere med et sånt forslag?</A>
+ytterligere med et slikt forslag?</A>
             </Replikk>
-            <Replikk Id="i1002475">
+            <Replikk Id="i1003137">
               <A>
                 <Navn personID="JES">
 Statsråd Jens Stoltenberg [11:34:17]:</Navn> Jeg mener det er en
 god tradisjon vi har i Norge at vi vurderer lover og regler veldig
 grundig. Vi har instituttet med høring, og det er nettopp for å
-få fram både kostnader og nytte ved eventuelle forslag, og så gjør
+få fram både kostnader og nytte ved eventuelle forslag, og så foretar
 vi våre avveininger, trekker noen konklusjoner og legger dem til
 slutt fram for Stortinget. Vi har ikke konkludert, vi har nylig
 avsluttet høringen, og derfor skal vi nå gå gjennom argumentene
@@ -1844,7 +1843,7 @@ når vi har vurdert argumentene som er kommet fram. Jeg er opptatt
 av ikke å påføre boligkjøpere unødvendige kostnader, men jeg er
 samtidig opptatt av å sikre den sikkerheten de fortjener.</A>
             </Replikk>
-            <Replikk Id="i1002477">
+            <Replikk Id="i1003139">
               <A>
                 <Navn personID="TSTA">
 Tom Staahle (FrP) [11:35:20]:</Navn> Jeg er veldig glad for at finansministeren
@@ -1853,20 +1852,20 @@ ikke for eiendomsmeglerforetakene, og jeg håper han legger det til
 grunn i sine vurderinger.</A>
               <A Type="Minnrykk">I sin plan for Norge sier regjeringen at man
 skal legge til rette for at næringslivet har stabile og forutsigbare
-rammevilkår. Nettopp dette er jo et element i den diskusjonen. Man
+rammevilkår. Nettopp dette er et element i den diskusjonen. Man
 ønsker også å gjøre hverdagen enklere for bedriftene over hele landet.
 Når man da også i forskriften ønsker å innføre en minste akseptfrist
 på 30 minutter per bud regnet fra tidspunktet budet mottas hos megler,
 er det slik at dette skaper noen administrative utfordringer for
 bransjen. Det vil komplisere kjøpsprosessen for budgiver, gir et
-merarbeid for meglerforetakene og gjør det vanskeligere å sikre
+merarbeid for meglerforetakene, og det blir vanskeligere å sikre
 en forsvarlig og effektiv gjennomføring av prosessen. Risikoen ved
 den tilsiktede gevinsten som tilsynet løfter fram, er altså særdeles
 stor.</A>
               <A Type="Minnrykk">Synes finansministeren dette framstår som en
 forenkling og mindre bruk av administrasjon for eiendomsmeglerforetakene?</A>
             </Replikk>
-            <Replikk Id="i1002479">
+            <Replikk Id="i1003141">
               <A>
                 <Navn personID="JES">
 Statsråd Jens Stoltenberg [11:36:20]:</Navn> Som jeg nå har svart
@@ -1878,16 +1877,16 @@ hverandre og trekker noen konklusjoner.</A>
 partiene her på Stortinget er jo enige om at vi trenger regulering
 av eiendomsmeglerbransjen, vi trenger krav om sikkerhetsstillelse, og
 det var det også da Fremskrittspartiet satt med ansvaret. Spørsmålet
-er hva innretningen på nivåene skal være. Det skal vi nå se på,
+er hva innretningen og nivåene skal være. Det skal vi nå se på,
 for det er hensyn som må veies opp mot hverandre. Enkelhet, oversiktlighet
-og ikke unødvendige kostnader må veies opp mot at det er en bransje
-som alle partier mener bør reguleres for å sikre forsvarlig bolighandel
-her i landet.</A>
+og at vi ikke skal ha unødvendige kostnader må veies opp mot at
+det er en bransje som alle partier mener bør reguleres for å sikre
+forsvarlig bolighandel her i landet.</A>
             </Replikk>
           </Spm>
           <Spm>
             <Tittel>Spørsmål 3</Tittel>
-            <Hovedinnlegg Id="i1002481">
+            <Hovedinnlegg Id="i1003143">
               <A>
                 <Navn personID="FES">
 Frank Edvard Sve (FrP) [11:37:13]:</Navn> «Sidan krigen i Ukraina
@@ -1900,7 +1899,7 @@ og fram til i dag, og dessutan kva differansen har vore dei ulike
 åra mellom budsjetterte inntekter i statsbudsjetta frå olje og gass
 og faktisk rekneskap for desse årlege inntektene?»</A>
             </Hovedinnlegg>
-            <Hovedinnlegg Id="i1002483">
+            <Hovedinnlegg Id="i1003145">
               <A>
                 <Navn personID="JES">
 Statsråd Jens Stoltenberg [11:37:48]:</Navn> Tallene representanten
@@ -1908,26 +1907,23 @@ etterspør, blir hvert eneste år lagt fram for Stortinget i nasjonalbudsjettene
 og i statsregnskapene. La meg likevel gjengi en del av tallene Stortinget
 allerede har fått.</A>
               <A Type="Minnrykk">Statens netto kontantstrøm fra petroleumsvirksomheten ble
-høsten 2021 anslått til 277 mrd. kr i 2022. </A>
-              <A Type="Minnrykk">Statsregnskapet, som Stortinget har fått seg
-forelagt, neste vår viste en fasit på 1 285 mrd. kr. </A>
+høsten 2021 anslått til 277 mrd. kr i 2022. Statsregnskapet, som
+Stortinget har fått seg forelagt, neste vår viste en fasit på 1 285 mrd. kr. </A>
               <A Type="Minnrykk">Høsten 2022 ble kontantstrømmen i nasjonalbudsjettet
-i 2023 anslått til 1 384 mrd. kr. </A>
-              <A Type="Minnrykk">Neste vår viste statsregnskapet en fasit på
-978 mrd. kr. </A>
+i 2023 anslått til 1 384 mrd. kr. Neste vår viste statsregnskapet en
+fasit på 978 mrd. kr. </A>
               <A Type="Minnrykk">Høsten 2023 ble det i nasjonalbudsjettet, som
 Stortinget har fått seg forelagt, anslått at kontantstrømmen i 2024
-ville bli 832 mrd. kr. </A>
-              <A Type="Minnrykk">Neste vår viste statsregnskapet en fasit på
-702 mrd. kr. </A>
+ville bli 832 mrd. kr. Neste vår viste statsregnskapet en fasit
+på 702 mrd. kr. </A>
               <A Type="Minnrykk">Høsten 2024 ble kontantstrømmen i 2025 anslått
-til 643 mrd. kr i nasjonalbudsjettet som Stortinget fikk til behandling. </A>
-              <A Type="Minnrykk">Fasit i det ferske statsregnskapet, som også
-er forelagt Stortinget, var 664 mrd. kr. </A>
+til 643 mrd. kr i nasjonalbudsjettet som Stortinget fikk til behandling.
+Fasit i det ferske statsregnskapet, som også er forelagt Stortinget,
+var 664 mrd. kr. </A>
               <A Type="Minnrykk">Hvor store inntektene blir i år, vil vi vite
 når året er omme.</A>
             </Hovedinnlegg>
-            <Replikk Id="i1002485">
+            <Replikk Id="i1003147">
               <A>
                 <Navn personID="FES">
 Frank Edvard Sve (FrP) [11:39:10]:</Navn> Det er betydelege inntekter
@@ -1943,7 +1939,7 @@ og no er det over 20 000 mrd. kr. Så kva er grunnlaget for at ein
 åtvarar om at det meste kan gå feil veg, for å seie det på ein fin
 måte? </A>
             </Replikk>
-            <Replikk Id="i1002487">
+            <Replikk Id="i1003149">
               <A>
                 <Navn personID="JES">
 Statsråd Jens Stoltenberg [11:40:07]:</Navn> Representanten har
@@ -1957,25 +1953,25 @@ kommunene og på veldig mye annet, f.eks. politi og forsvar. </A>
 det motsatte av det Fremskrittspartiet har anbefalt. Fremskrittspartiet
 var for det første mot at vi skulle ha høye skatter for olje- og gassnæringen.
 Vi har 78 pst. skatt. Det var Fremskrittspartiet mot. Det er hovedgrunnen
-til at vi kan sette så mye penger inn på fondet. Så var Fremskrittspartiet
+til at vi kan sette så mye penger inn i fondet. Så var Fremskrittspartiet
 mot den andre grunnen til at det er blitt en suksess. Det er at
 vi fra vi innførte handlingsregelen i 2001, sa at vi bare skulle
 bruke avkastningen. Fremskrittspartiet ville heller bruke pengene
 på andre ting, på utenlandsbudsjetter og annet. Én milliard brukt
-på det i 1998 – ikke plassert på fondet, men brukt, som Fremskrittspartiet
-ville – hadde i dag vært 9 mrd. kr mindre på fondet. Fremskrittspartiet
+på det i 1998 – ikke plassert i fondet, men brukt, som Fremskrittspartiet
+ville – hadde i dag vært 9 mrd. kr mindre i fondet. Fremskrittspartiet
 var imot handlingsregelen, som er hovedgrunnen til at det er blitt
 et så stort fond. </A>
             </Replikk>
-            <Replikk Id="i1002489">
+            <Replikk Id="i1003151">
               <A>
                 <Navn personID="FES">
 Frank Edvard Sve (FrP) [11:41:12]:</Navn> Ein kan gjerne gå 20–30
 år tilbake i tid – eg forheld meg til min situasjon som representant
 no, og også den tida eg sat i Noregs Bank. Eg trur vi skal forhalde
 oss til det.</A>
-              <A Type="Minnrykk">Ein heilt annan sak: Finansministeren har snakka
-om at dersom ein tek ned prisen på drivstoff, då vert det subsidiar
+              <A Type="Minnrykk">Ei heilt anna sak: Finansministeren har snakka
+om at dersom ein tek ned prisen på drivstoff, vert det subsidiar
 og tilskot frå staten. I dag fekk eg svar frå ministeren på eit
 spørsmål angåande kva som er den reelle prisen på drivstoff. Det viser
 seg at med ein drivstoffpris på 20 kr er halvparten av kostnaden
@@ -1987,7 +1983,7 @@ er det mogleg å framstille det som subsidiar og tilskot, når det
 faktisk berre er ei meirbetaling – ei kraftig meirbetaling – i forhold
 til det staten tek inn på bensin og drivstoff? </A>
             </Replikk>
-            <Replikk Id="i1002491">
+            <Replikk Id="i1003153">
               <A>
                 <Navn personID="JES">
 Statsråd Jens Stoltenberg [11:42:12]:</Navn> Jeg vet at det ikke
@@ -2012,7 +2008,7 @@ i landet, fordi vi mener at det spleiselaget som det norske velferdssamfunnet
 er, er så viktig for oss alle. Den beste måten å betale for fellesskapet
 på er å betale gjennom spleiselaget som velferdssamfunnet er.</A>
             </Replikk>
-            <Replikk Id="i1002493">
+            <Replikk Id="i1003155">
               <A>
                 <Navn personID="FES">
 Frank Edvard Sve (FrP) [11:43:17]:</Navn> Berre til dagsordenen:
@@ -2027,8 +2023,8 @@ Statsråden (presidenten klubbar) skal svare på spørsmål eg stiller
 til helseattest for å kunne fornye førerkortet. Prisen for å kunne
 få en slik helseattest, varierer sterkt.</A>
             <A Type="Minnrykk">Mener statsråden det er rimelig at folk skal
-måtte betale 1 000 kroner og mer for en slik førerkortattest hos
-fastlege for å kunne oppfylle myndighetskrav?»</A>
+måtte betale 1 000 kr og mer for en slik førerkortattest hos fastlege
+for å kunne oppfylle myndighetskrav?»</A>
             <Presinnlegg>
               <A>
                 <Navn>Presidenten [11:43:21]:</Navn> Dette spørsmålet
@@ -2055,7 +2051,7 @@ er trukket. </A>
           </Spm>
           <Spm>
             <Tittel>Spørsmål 6</Tittel>
-            <Hovedinnlegg Id="i1002495">
+            <Hovedinnlegg Id="i1003157">
               <A>
                 <Navn personID="BJAG">
 Bjørn Arild Gram (Sp) [11:43:39]:</Navn> Jeg tillater meg å stille
@@ -2069,7 +2065,7 @@ av virksomhet i kommunen.</A>
 kan være naturlig at storsamfunnet bidrar med støtte for å gjøre
 slike etableringer vellykket?»</A>
             </Hovedinnlegg>
-            <Hovedinnlegg Id="i1002497">
+            <Hovedinnlegg Id="i1003159">
               <A>
                 <Navn personID="BJRSKJ">
 Statsråd Bjørnar Skjæran [11:44:05]:</Navn> Det stemmer at kommuner
@@ -2127,7 +2123,7 @@ ikke at det i særskilte tilfeller er riktig at storsamfunnet stiller
 opp for å sikre at etableringer som har regional eller nasjonal
 betydning, kan realiseres. </A>
             </Hovedinnlegg>
-            <Replikk Id="i1002499">
+            <Replikk Id="i1003161">
               <A>
                 <Navn personID="BJAG">
 Bjørn Arild Gram (Sp) [11:47:07]:</Navn> Jeg takker for svaret.
@@ -2140,13 +2136,12 @@ man har stilt opp ekstraordinært. Mitt utgangspunkt er Røyrvik kommune
 bl.a., som er en liten kommune i Indre Namdal, og som sliter med distriktsutfordringer
 – befolkningsnedgang. Det er under 500 innbyggere i kommunen, på
 et veldig stort areal. Nå får man en veldig stor gruveetablering,
-Joma gruver, og det skal utvides både kopper og sink, som er viktig
-for oss alle. At den etableringen blir så bra som mulig, har stor
-betydning. Hvordan mener statsråden at en kommune som Røyrvik i
-tilfelle skal gå fram for å kunne sikre at man får den støtten man trenger
-fra storsamfunnet?</A>
+Joma gruver, og det skal utvinnes både kobber og sink, som er viktig
+for oss alle. At etableringen blir så bra som mulig, har stor betydning.
+Hvordan mener statsråden at en kommune som Røyrvik i tilfelle skal gå
+fram for å kunne sikre at man får den støtten man trenger fra storsamfunnet?</A>
             </Replikk>
-            <Replikk Id="i1002501">
+            <Replikk Id="i1003163">
               <A>
                 <Navn personID="BJRSKJ">
 Statsråd Bjørnar Skjæran [11:48:11]:</Navn> Jeg skal være forsiktig
@@ -2158,14 +2153,14 @@ har vi fire kommuner som alle er relativt små, og som alle har et
 relativt stort areal, som har funnet løsninger for tjenesteproduksjon gjennom
 interkommunalt samarbeid. Om det vil være løsningen på dette spørsmålet,
 skal jeg være forsiktig med å mene noe om.</A>
-              <A Type="Minnrykk">Så tenker jeg at i den grad Røyrvik kommune
-skulle ha behov for statlig drahjelp for å lykkes med denne viktige
-etableringen, får initiativet ligge hos kommunen. Vi vil alltid være
-åpne for å diskutere den typen henvendelser, men jeg kan ikke stå
-her og på noen som helst måte love konkrete bidrag når det, så langt
-iallfall, ikke foreligger en søknad om det.</A>
+              <A Type="Minnrykk">Jeg tenker at i den grad Røyrvik kommune skulle
+ha behov for statlig drahjelp for å lykkes med denne viktige etableringen,
+får initiativet ligge hos kommunen. Vi vil alltid være åpne for
+å diskutere den typen henvendelser, men jeg kan ikke stå her og
+på noen som helst måte love konkrete bidrag når det, så langt iallfall,
+ikke foreligger en søknad om det.</A>
             </Replikk>
-            <Replikk Id="i1002503">
+            <Replikk Id="i1003165">
               <A>
                 <Navn personID="BJAG">
 Bjørn Arild Gram (Sp) [11:49:15]:</Navn> Jeg forventer ikke at statsråden
@@ -2175,26 +2170,26 @@ kommunen selv som har hovedansvaret. I dette tilfellet har man nå
 skissert et utviklingsprogram og diskutert med fylkeskommunen, som
 også har en viktig rolle når man kommer borti omstillingsutfordringer
 og utvikling. Kan det være aktuelt for kommunalministeren å se på forskriftene
-til omstillingsordningene som er i dag for å se om de kan utvides
+til omstillingsordningene som er i dag, for å se om de kan utvides
 også for denne typen formål – alternativt å gi tydeligere oppdragsbeskrivelse
 til statsforvalterne om at man gjennom skjønnsmidlene skal være
 enda mer åpne for å kunne gå inn i denne typen finansieringsbehov
 for å understøtte kommuner med stort utviklingspotensial?</A>
             </Replikk>
-            <Replikk Id="i1002505">
+            <Replikk Id="i1003167">
               <A>
                 <Navn personID="BJRSKJ">
 Statsråd Bjørnar Skjæran [11:50:11]:</Navn> Digitaliserings- og
 forvaltningsdepartementet har allerede sendt ut et supplerende brev
 til statsforvalterne der næringsutvikling understrekes som et formål
 som statsforvalterne skal se til i ulike sammenhenger. Jeg tenker
-at det som er spesielt med det prosjektet som representanten tar
-opp her, er at det både er et relativt stort næringsprosjekt i en
-veldig liten kommune folketallsmessig og ressursmessig, og at mineralnæringen
+at det som er spesielt med prosjektet som representanten tar opp
+her, er både at det er et relativt stort næringsprosjekt i en veldig
+liten kommune folketallsmessig og ressursmessig, og at mineralnæringen
 er av strategisk betydning. Det tilsier at dette er et område som
 en bør være oppmerksom på – fra alle som har en rolle – for å få realisert.
 Under regionreformen skjedde det ikke veldig mye med de fylkeskommunale
-tjenestene, men én ting som ble understreket, var rollen som fylkeskommunen
+tjenestene, men én ting som ble understreket, var rollen fylkeskommunen
 har som samfunnsutvikler. Den bør også være relevant i denne sammenheng. </A>
             </Replikk>
           </Spm>
@@ -2206,20 +2201,20 @@ har som samfunnsutvikler. Den bør også være relevant i denne sammenheng. </A>
 fra representanten Camilla Renate Mikkelsen til kommunal- og distriktsministeren,
 vil bli tatt opp av representanten Hanne Beate Stenvaag.</A>
             </Presinnlegg>
-            <Hovedinnlegg Id="i1002507">
+            <Hovedinnlegg Id="i1003169">
               <A>
                 <Navn personID="HANSTE">
 Hanne Beate Stenvaag (R) [11:51:28]:</Navn> «Regnskapet til Tromsø
 kommune er nettopp lagt fram. Der kommer det fram at pensjonspremien
-som er betalt i 2025, er på om lag 750 mill. kr, mens beregna pensjonskostnad
-er på om lag 320 mill. kr. Det er altså en forskjell på 430 mill.
+som er betalt i 2025, er på om lag 750 mill. kr, mens beregna pensjonskostnad
+er på om lag 320 mill. kr. Det er altså en forskjell på 430 mill.
 kr mellom det kommunen faktisk har betalt, og det Stortinget har
 lagt til grunn da statsbudsjettet ble vedtatt.</A>
               <A Type="Minnrykk">Hvordan kan beregna pensjonskostnad være så
 mye lavere enn de reelle kostnadene, og mener statsråden at dette systemet
 for føring av pensjonskostnader fungerer når forskjellen er så stor?»</A>
             </Hovedinnlegg>
-            <Hovedinnlegg Id="i1002509">
+            <Hovedinnlegg Id="i1003171">
               <A>
                 <Navn personID="BJRSKJ">
 Statsråd Bjørnar Skjæran [11:52:06]:</Navn> La meg først peke på
@@ -2236,12 +2231,12 @@ ut fra kommunesektorens samlede pensjonskostnader, inkludert kostnader
 til nedbygging, såkalt amortisering, av premieavvik. For Tromsøs
 del var samlet pensjonskostnad ifølge regnskapet på over 600 mill. kr,
 inkludert amortisering.</A>
-              <A Type="Minnrykk">Det er riktig at over tid har de betalte premiene
-vært høyere enn de årlig beregnede pensjonskostnadene. Dette resulterte
-i en betydelig økning i det såkalte akkumulerte premieavviket, særlig
-i 2023 og 2024. Hovedårsaken er høy pris- og lønnsvekst som ga en
-sterk vekst i premiene, mens kostnadene ble beregnet ut fra stabile
-forutsetninger.</A>
+              <A Type="Minnrykk">Det er riktig at de betalte premiene over tid
+har vært høyere enn de årlig beregnede pensjonskostnadene. Dette
+resulterte i en betydelig økning i det såkalte akkumulerte premieavviket,
+særlig i 2023 og 2024. Hovedårsaken er høy pris- og lønnsvekst,
+som ga en sterk vekst i premiene, mens kostnadene ble beregnet ut
+fra stabile forutsetninger.</A>
               <A Type="Minnrykk">For å bidra til lavere forskjeller mellom premie
 og kostnad, dvs. lavere årlig premieavvik og styrket likviditet,
 varslet Kommunal- og distriktsdepartementet i kommuneproposisjonen
@@ -2251,19 +2246,19 @@ Forutsetningene for 2027 kommer departementet tilbake til i kommuneproposisjonen
 nå i mai.</A>
               <A Type="Minnrykk">Dagens regler for regnskapsføring av pensjon
 i kommunesektoren har gitt kommunesektoren mer forutsigbare og stabile
-rammebetingelser, sammenliknet med om kommunene måtte ha håndtert
+rammebetingelser sammenliknet med om kommunene måtte ha håndtert
 store årlige premiesvingninger innenfor en på forhånd fastsatt inntektsramme.
 Dette er viktig for kommunene, velferdstjenestene og innbyggerne
 fordi det bidrar til å redusere usikkerheten i kommunenes økonomi.</A>
               <A Type="Minnrykk">Ordningen har samtidig ført til redusert likviditet,
-noe som isolert sett er en ulempe siden dette medfører rentekostnader.
+noe som isolert sett er en ulempe, siden det medfører rentekostnader.
 Det er også slik at rentekostnadene påvirker driftsresultatene i
 sektoren. Regjeringen ser selvsagt hen til den samlede situasjonen
 i kommuneøkonomien i de årlige budsjettforslagene, og vi vil, som
 jeg sa, komme tilbake i kommuneproposisjonen for 2027 med en nærmere
 omtale av pensjonskostnadene i kommunesektoren.</A>
             </Hovedinnlegg>
-            <Replikk Id="i1002511">
+            <Replikk Id="i1003173">
               <A>
                 <Navn personID="HANSTE">
 Hanne Beate Stenvaag (R) [11:54:43]:</Navn> Ja, det er selvfølgelig
@@ -2273,36 +2268,36 @@ om systemet er bra eller dårlig med hensyn til svingningene fra
 hensyn til i kommuneproposisjonen, som blir lagt fram om ikke så
 lenge. Vi får heller komme tilbake til uenigheten om tallene i regnskapet
 til Tromsø kommune. Jeg har også lest de tallene og er uenig – grunnen
-til det tallet på 170 mill. kr er at man har brukt mye av premiefondet
+til tallet på 170 mill. kr er at man har brukt mye av premiefondet
 for at premieavviket ikke skulle øke mer enn nødvendig. </A>
               <A Type="Minnrykk">Når premieavviket er så stort som det er –
 65–70 mrd. kr for hele Kommune-Norge – tenker statsråden at det
 er realistisk å klare å dekke inn det enorme avviket som har oppstått? Hvor
-lang tid tenker tror statsråden at det vil ta?</A>
+lang tid tenker statsråden at det vil ta?</A>
             </Replikk>
-            <Replikk Id="i1002513">
+            <Replikk Id="i1003175">
               <A>
                 <Navn personID="BJRSKJ">
 Statsråd Bjørnar Skjæran [11:55:46]:</Navn> Bakgrunnen for det som
 ble varslet i kommuneproposisjonen for 2026, som vi har fulgt opp,
-er jo nettopp at dette premieavviket er så stort som det er. Det
-blir en felles jobb å legge til rette for at dette kan bringes inn
-i en annen situasjon over tid. Det er noe som ikke er mulig å gjøre
+er nettopp at dette premieavviket er så stort som det er. Det blir
+en felles jobb å legge til rette for at dette kan bringes inn i
+en annen situasjon over tid. Det er noe som ikke er mulig å gjøre
 fra ett år til et annet. Vi vil komme tilbake til det i kommuneproposisjonen,
-som legges fram om ikke veldig lenge. Så her må representanten smøre
-seg med en liten dose tålmodighet. Den dosen behøver heller ikke
-å være veldig stor, for hvis jeg ikke tar helt feil, er det vel
-på tirsdag at den legges fram.</A>
+som legges fram om ikke veldig lenge. Her må representanten smøre
+seg med en liten dose tålmodighet. Dosen behøver ikke å være veldig stor,
+for hvis jeg ikke tar helt feil, er det vel på tirsdag den legges
+fram.</A>
             </Replikk>
-            <Replikk Id="i1002515">
+            <Replikk Id="i1003177">
               <A>
                 <Navn personID="HANSTE">
 Hanne Beate Stenvaag (R) [11:56:24]:</Navn> Takk for svaret. Det
-ene er å bygge ned premieavviket. Det andre er at vi i Rødt, i hvert
+ene er å bygge ned premieavviket. Det andre er at vi, i Rødt i hvert
 fall, er kritiske og ser på dette systemet – i hvert fall slik det
 har utspilt seg i praksis – som et system fra høyresiden og Erna
-Solberg for å pynte på kommuneregnskapene, som selvfølgelig blir
-mer alvorlig jo større summen er, og som både gjør det vanskelig
+Solberg for å pynte på kommuneregnskapene, noe som selvfølgelig
+blir mer alvorlig jo større summen er, og som både gjør det vanskelig
 å ha oversikt over den reelle kommuneøkonomien og usynliggjør en
 underfinansiering av kommunene.</A>
               <A Type="Minnrykk">Tenker statsråden at det også ville være aktuelt
@@ -2311,7 +2306,7 @@ inn og se på om det er en god måte det gjøres på i dag, med hensyn
 til å forholde seg til pensjonsutgiftene i kommunene sett opp mot
 bevilgningene fra Stortinget?</A>
             </Replikk>
-            <Replikk Id="i1002517">
+            <Replikk Id="i1003179">
               <A>
                 <Navn personID="BJRSKJ">
 Statsråd Bjørnar Skjæran [11:57:28]:</Navn> Jeg har i flere omganger,
@@ -2321,13 +2316,13 @@ mye hopp og sprett i kommuneøkonomien, og at de ordningene vi har,
 har en stabiliserende effekt. </A>
               <A Type="Minnrykk">Når man skal vurdere premieavviket på 63 mrd. kr,
 skal man også ha med seg at premiefondene utgjør – grovt anslått –
-45 mrd. kr for sektoren. Så når vi skal diskutere dette spørsmålet,
+45 mrd. kr for sektoren. Når vi skal diskutere dette spørsmålet,
 er det viktig å ha med seg hele bildet.</A>
             </Replikk>
           </Spm>
           <Spm>
             <Tittel>Spørsmål 8</Tittel>
-            <Hovedinnlegg Id="i1002519">
+            <Hovedinnlegg Id="i1003181">
               <A>
                 <Navn personID="JSB">
 Julia Brännström Nordtug (FrP) [11:58:13]:</Navn> «Årets lønnsoppgjør
@@ -2341,7 +2336,7 @@ hos statsråden.</A>
 saksbehandlingstidene for sykelønn og andre ordninger i Nav, og
 når vil dette iverksettes?»</A>
             </Hovedinnlegg>
-            <Hovedinnlegg Id="i1002521">
+            <Hovedinnlegg Id="i1003183">
               <A>
                 <Navn personID="KJSE">
 Statsråd Kjersti Stenseng [11:58:50]:</Navn> Arbeiderparti-regjeringen
@@ -2352,14 +2347,14 @@ ytelser. Regjeringen styrket Navs driftsbudsjett varig fra og med
 fjoråret med 100 mill. kr, bl.a. for å møte utfordringene med lange
 saksbehandlingstider. </A>
               <A Type="Minnrykk">Det kan være mange årsaker til lange saksbehandlingstider,
-og det varierer ut fra antallet søknader som kommer inn og hvilken
-type ordning det gjelder. Saksbehandlingstiden blir lenger om Nav
+og det varierer ut fra antallet søknader som kommer inn, og hvilken
+type ordning det gjelder. Saksbehandlingstiden blir lengre om Nav
 ikke mottar de nødvendige opplysningene for å behandle saken. Det
 kan være opplysninger fra arbeidsgiver.</A>
               <A Type="Minnrykk">Nav har over tid iverksatt tiltak for å redusere
 saksbehandlingstiden for sykepenger, både ved å styrke bemanningen
-og ved organisatoriske justeringer. Det arbeidet skal fortsette
-med sikte på at både sykmeldte og arbeidsgivere får raskere behandling
+og ved organisatoriske justeringer. Arbeidet skal fortsette med
+sikte på at både sykmeldte og arbeidsgivere får raskere behandling
 av sine saker i Nav. </A>
               <A Type="Minnrykk">Sykepenger behandles i de fleste tilfeller
 digitalt, og de saksbehandlingstidene er korte. Det gjelder både
@@ -2378,41 +2373,42 @@ skal gi konkrete råd om hvordan Nav bør organiseres framover, og det
 handler veldig mye om å gi folk bedre tjenester. De anbefalingene
 vil gi et godt grunnlag for å utvikle arbeids- og velferdsforvaltningen
 til det beste for innbyggerne i årene som kommer. Saksbehandlingstider
-er ett av de områdene ekspertgruppen skal se på. På den måten jobber
+er ett av områdene ekspertgruppen skal se på. På den måten jobber
 vi nå med tiltak som vil ha betydning både på kortere og på lengre
 sikt. </A>
             </Hovedinnlegg>
-            <Replikk Id="i1002523">
+            <Replikk Id="i1003185">
               <A>
                 <Navn personID="JSB">
 Julia Brännström Nordtug (FrP) [12:01:04]:</Navn> Jeg takker så
-mye for svaret. Den konflikten vi nå ser mellom partene i arbeidslivet,
-koker egentlig ned til et helt vesentlig spørsmål. Det er om statsråden
+mye for svaret. Konflikten vi nå ser mellom partene i arbeidslivet,
+koker egentlig ned til et helt vesentlig spørsmål: om statsråden
 mener det er prinsipielt riktig at små og mellomstore bedrifter
 rundt omkring i hele landet skal opptre som bank for staten ved
-å ta ansvar for noe egentlig staten har ansvar for og skal løse
+å ta ansvar for noe staten egentlig har ansvar for og skal løse
 gjennom forvaltningen i Nav.</A>
             </Replikk>
-            <Replikk Id="i1002525">
+            <Replikk Id="i1003187">
               <A>
                 <Navn personID="KJSE">
 Statsråd Kjersti Stenseng [12:01:34]:</Navn> Som representanten
 vet, foregår det nå en streik, så den skal jeg ikke kommentere på
-og på ingen måte blande meg inn i, men jeg kan si mye om saksbehandlingstider
-og Nav og det ansvaret vi har for sykepenger. Det er altså slik
-at det er partene i arbeidslivet som avtaler løsninger om tariffavtaler
+og på ingen måte blande meg inn i, men jeg kan si mye om saksbehandlingstider,
+Nav og ansvaret vi har for sykepenger. Det er altså slik at det
+er partene i arbeidslivet som avtaler løsninger om tariffavtaler
 med forskuttering av sykepenger, og de fleste arbeidstakere har
-en ordning der arbeidsgiver forskutterer. Det er viktig for det systemet
-at forskutteringen fungerer godt, og at det ikke er for lange ventetider.
-Jeg deler den bekymringen. Det er heller ingen av oss som ønsker
-at arbeidsgivere skal få likviditetsproblemer. De aller, aller fleste
-søknader behandles raskt og automatisert. Det arbeidet skal forsterkes.
-Det jobber Nav med. Det jobber regjeringen med. Det er også flere
-årsaker til at saksbehandlingstider er lange. Nav kan ikke utbetale
-penger før de har nødvendig dokumentasjon på om en har krav på sykepenger,
-og hvor mye sykepenger en har krav på.</A>
+en ordning der arbeidsgiver forskutterer. Det er viktig for det
+systemet at forskutteringen fungerer godt, og at det ikke er for
+lange ventetider. Jeg deler den bekymringen. Det er heller ingen
+av oss som ønsker at arbeidsgivere skal få likviditetsproblemer.</A>
+              <A Type="Minnrykk">De aller, aller fleste søknader behandles raskt
+og automatisert. Det arbeidet skal forsterkes. Det jobber Nav med.
+Det jobber regjeringen med. Det er også flere årsaker til at saksbehandlingstider
+er lange. Nav kan ikke utbetale penger før de har nødvendig dokumentasjon
+på om en har krav på sykepenger, og hvor mye sykepenger en har krav
+på.</A>
             </Replikk>
-            <Replikk Id="i1002527">
+            <Replikk Id="i1003189">
               <A>
                 <Navn personID="JSB">
 Julia Brännström Nordtug (FrP) [12:02:38]:</Navn> Jeg er glad for
@@ -2424,16 +2420,16 @@ eller som venter lenge på sykepenger. Det setter mange i en vanskelig
 økonomisk knipe. Mange av dem som streiker, jobber i små og mellomstore bedrifter,
 i bransjer der likviditeten er stram, marginene er små og administrasjonen
 ofte ganske liten. De får nå et større ansvar for å håndtere noe
-som egentlig staten skal håndtere. Jeg har respekt for at statsråden
-ikke kan blande seg inn i en pågående konflikt, men jeg mener likevel
-vi må få klarhet i noen prinsipielle spørsmål. Mener statsråden
-det er rett at disse bedriftene skal opptre som bank for staten?
-Skal de ta et ansvar som egentlig ligger hos Nav? Deler statsråden
-bekymringene for disse arbeidsplassenes framtid, når de skal bære
-et så stort og tungt ansvar, som egentlig ligger hos forvaltningen
-og hos Nav?</A>
+som staten egentlig skal håndtere.</A>
+              <A Type="Minnrykk">Jeg har respekt for at statsråden ikke kan
+blande seg inn i en pågående konflikt, men jeg mener likevel vi
+må få klarhet i noen prinsipielle spørsmål. Mener statsråden det
+er rett at disse bedriftene skal opptre som bank for staten? Skal
+de ta et ansvar som egentlig ligger hos Nav? Deler statsråden bekymringene
+for disse arbeidsplassenes framtid når de skal bære et så stort
+og tungt ansvar, som egentlig ligger hos forvaltningen og hos Nav?</A>
             </Replikk>
-            <Replikk Id="i1002529">
+            <Replikk Id="i1003191">
               <A>
                 <Navn personID="KJSE">
 Statsråd Kjersti Stenseng [12:03:41]:</Navn> Om forskuttering skal
@@ -2447,16 +2443,17 @@ betyr kortere saksbehandlingstider. Vi har styrket Nav betraktelig
 siden vi kom i regjering. Den Høyre-ledete regjeringen der FrP var
 med, innførte ABE-kutt som kuttet i antallet ansatte i Nav. Det
 tar litt tid å snu det. Det tar litt tid å bygge det opp igjen.
-Det er en prioritet fra denne regjeringen. Jeg er helt enig med
-representanten i at vi trenger tillit til et system. Vi trenger
-at det fungerer godt. Raskere saksbehandlingstider er en av årsakene
-til at jeg har satt i gang en full gjennomgang av Nav, så målet
-er at saksbehandlingstidene skal ytterligere ned.</A>
+Det er en prioritet fra denne regjeringen.</A>
+              <A Type="Minnrykk">Jeg er helt enig med representanten i at vi
+trenger tillit til et system. Vi trenger at det fungerer godt. Raskere
+saksbehandlingstider er en av årsakene til at jeg har satt i gang
+en full gjennomgang av Nav. Målet er at saksbehandlingstidene skal ytterligere
+ned.</A>
             </Replikk>
           </Spm>
           <Spm>
             <Tittel>Spørsmål 9</Tittel>
-            <Hovedinnlegg Id="i1002531">
+            <Hovedinnlegg Id="i1003193">
               <A>
                 <Navn personID="SIMVEL">
 Simen Velle (FrP) [12:04:53]:</Navn> «Amerikanske universiteter
@@ -2469,7 +2466,7 @@ til USA handler om kunnskap og felles verdier.</A>
 USA bør styrkes, og har regjeringen noen planer om tiltak for å
 styrke kontakten med USA på utdanningsområdet?»</A>
             </Hovedinnlegg>
-            <Hovedinnlegg Id="i1002533">
+            <Hovedinnlegg Id="i1003195">
               <A>
                 <Navn personID="SIGAAS">
 Statsråd Sigrun Aasland [12:05:27]:</Navn> Jeg takker for et godt
@@ -2487,31 +2484,33 @@ i løpet av sin studietid. Vi har også bedt utvalget som nå jobber
 med en NOU om studiestøtte, om å vurdere hvorvidt dagens modell
 for studiestøtte i tilstrekkelig grad gir muligheter til å ta utdanning
 i utlandet. </A>
-              <A Type="Minnrykk">Så er det riktig at statistikken viser at studentmobiliteten fra
-Norge til USA har en nedadgående tendens de siste årene. Denne nedgangen
-kan antakelig forklares av flere ting, bl.a. en svak kronekurs,
-et høyt utgiftsnivå for studier i USA, og noe usikkerhet knyttet
+              <A Type="Minnrykk">Det er riktig at statistikken viser at studentmobiliteten
+fra Norge til USA har en nedadgående tendens de siste årene. Denne
+nedgangen kan antakelig forklares av flere ting, bl.a. en svak kronekurs,
+et høyt utgiftsnivå for studier i USA og noe usikkerhet knyttet
 til innreise. På makronivå ser vi imidlertid at antallet norske
 studenter som reiser til utlandet på utveksling, er på sitt høyeste
 de siste ti årene, noe som er en veldig positiv utvikling. </A>
               <A Type="Minnrykk">Jeg ønsker at så mange som mulig av dem som
 ønsker å studere i USA og andre Panoramaland, skal få muligheten
 til dette. Vi jobber kontinuerlig med gode vilkår for våre studenter.
-Flere aktører, bl.a. NORAM, som representanten trekker fram, mottar
-støtte fra regjeringen nettopp for å veilede studenter som ønsker
-å reise til USA, og de gjør en utrolig viktig jobb for å bygge bro
-mellom våre folk. NORAM mottok i 2025 rekordmange søkere som ville
-studere i USA, og jeg anser dette som et meget tydelig signal om
-at USA fortsetter å være et viktig samarbeidsland for kunnskapssektoren
-og et attraktivt land for norske studenter. Norge finansierer også sammen
-med USA utveksling gjennom Fulbright-programmet, som gir muligheter
-både for norske studenter til å reise til USA og amerikanske studenter
-og forskere til å komme til Norge. Studentutveksling har stor verdi
-langt utover den faglige utviklingen, og Arbeiderpartiet har derfor
-klare ambisjoner om å øke utveksling og legge til rette for studier
-i utlandet, også USA.</A>
+Flere aktører, bl.a. Norge-Amerika Foreningen, NORAM, som representanten
+trekker fram, mottar støtte fra regjeringen nettopp for å veilede
+studenter som ønsker å reise til USA, og de gjør en utrolig viktig
+jobb for å bygge bro mellom våre folk. NORAM mottok i 2025 rekordmange
+søknader fra studenter som ville studere i USA, og jeg anser dette
+som et meget tydelig signal om at USA fortsetter å være et viktig
+samarbeidsland for kunnskapssektoren og et attraktivt land for norske
+studenter. Norge finansierer også sammen med USA utveksling gjennom
+Fulbright-programmet, som gir muligheter for både norske studenter
+til å reise til USA og amerikanske studenter og forskere til å komme
+til Norge.</A>
+              <A Type="Minnrykk">Studentutveksling har stor verdi langt utover
+den faglige utviklingen, og Arbeiderpartiet har derfor klare ambisjoner om
+å øke utveksling og legge til rette for studier i utlandet, også
+USA.</A>
             </Hovedinnlegg>
-            <Replikk Id="i1002535">
+            <Replikk Id="i1003197">
               <A>
                 <Navn personID="SIMVEL">
 Simen Velle (FrP) [12:07:50]:</Navn> Det er vel og bra at statsråden
@@ -2519,15 +2518,15 @@ Simen Velle (FrP) [12:07:50]:</Navn> Det er vel og bra at statsråden
 deler. Men spørsmålet mitt gikk spesifikt på USA. USA har de siste
 80 årene vært vår helt klart viktigste allierte. Det amerikanske
 folket deler et grunnleggende verdisyn med det norske, og vi kan
-vel innrømme, statsråd Aasland, at de amerikanske sikkerhetsgarantiene
-er helt bærende for Norges velstand og sikkerhet. Det amerikanske
-regimet er noe utydelig – tvetydig, kanskje – i måten de behandler
-søknader om å innpass i USA. Man ser at norske studenter kvier seg
-mer for å søke i USA enn det de gjorde før, ref. de tallene statsråden
-selv tok opp i sitt svar. Er det slik at man helt konkret prioriterer
+vel innrømme at de amerikanske sikkerhetsgarantiene er bærende for
+Norges velstand og sikkerhet. Det amerikanske regimet er noe utydelig
+– tvetydig, kanskje – i måten de behandler søknader om innpass i
+USA. Man ser at norske studenter kvier seg mer for å søke i USA
+enn det de gjorde før, med referanse til tallene statsråden selv
+tok opp i sitt svar. Er det slik at man helt konkret prioriterer
 USA, eller behandles USA som alle andre land i Panoramastrategien?</A>
             </Replikk>
-            <Replikk Id="i1002537">
+            <Replikk Id="i1003199">
               <A>
                 <Navn personID="SIGAAS">
 Statsråd Sigrun Aasland [12:08:50]:</Navn> For det første er det
@@ -2540,13 +2539,13 @@ også med den amerikanske ambassaden her i Oslo. Det var mye usikkerhet
 i fjor knyttet til innreisetillatelse for både Fulbright-studenter
 og andre. Det løste seg heldigvis, men det er også andre grunner til
 at vi ser at særlig helgradsstudenter som reiser til USA, har gått
-ned i antall. Det handler om kostnader for å ta studier i utlandet,
-og den norske kronen sammenlignet med dollaren. Vi er enig i at
-vi trenger sterke samarbeid med USA, og vi trenger også sterke samarbeid
-med mange andre allierte, som f.eks. Canada, Sør-Korea, Japan og
-andre land i Panorama-strategien.</A>
+ned i antall. Det handler om kostnader for å ta studier i utlandet
+og den norske kronen sammenlignet med dollaren. </A>
+              <A Type="Minnrykk">Vi er enig i at vi trenger sterke samarbeid
+med USA, og vi trenger også sterke samarbeid med mange andre allierte, som
+f.eks. Canada, Sør-Korea, Japan og andre land i Panorama-strategien.</A>
             </Replikk>
-            <Replikk Id="i1002539">
+            <Replikk Id="i1003201">
               <A>
                 <Navn personID="SIMVEL">
 Simen Velle (FrP) [12:09:53]:</Navn> For Fremskrittspartiet er det
@@ -2556,9 +2555,9 @@ på bakgrunn av de poengene jeg tok opp i det tidligere spørsmålet.
 Er det slik at det er et selvstendig poeng å styrke samarbeidet
 med USA? Er det noen kvaliteter ved USA, det amerikanske utdanningssystemet
 og det amerikanske styresettet som statsråden mener er verdig å
-prioritere over alt annet, eller er det slik at USA, på lik linje med
-fem, sju, ti, 15 andre land i verden skal prioriteres fordi vi har
-en avtale? For Fremskrittspartiets del er avtalene og samarbeidet
+prioritere over alt annet, eller er det slik at USA på lik linje
+med fem, sju, ti, femten andre land i verden skal prioriteres fordi vi
+har en avtale? For Fremskrittspartiets del er avtalene og samarbeidet
 vi har med for eksempel Kina, sterkt bekymringsverdig, og vi ønsker
 å vri både forskningsinnsatsen, støtten og samarbeidet med universiteter
 og forskningssektoren fra Kina til våre viktigste allierte. Er det
@@ -2566,7 +2565,7 @@ en ambisjon regjeringen deler? Og er det slik at det er et selvstendig
 poeng å prioritere USA på grunn av USAs sterke forskningsmiljø og
 sikkerhetsgaranti for Norge?</A>
             </Replikk>
-            <Replikk Id="i1002541">
+            <Replikk Id="i1003203">
               <A>
                 <Navn personID="SIGAAS">
 Statsråd Sigrun Aasland [12:10:56]:</Navn> USA er uten tvil vårt
@@ -2587,7 +2586,7 @@ forskere og studenter.</A>
           </Spm>
           <Spm>
             <Tittel>Spørsmål 10</Tittel>
-            <Hovedinnlegg Id="i1002543">
+            <Hovedinnlegg Id="i1003205">
               <A>
                 <Navn personID="TWT">
 Tone Wilhelmsen Trøen (H) [12:12:08]:</Navn> «En nylig rapport fra
@@ -2598,21 +2597,21 @@ være kjente for hjelpeinstansene.</A>
 bedre kan følge opp spedbarnsforeldre i risikofamilier, for å forebygge alvorlig
 vold mot små barn?»</A>
             </Hovedinnlegg>
-            <Hovedinnlegg Id="i1002545">
+            <Hovedinnlegg Id="i1003207">
               <A>
                 <Navn personID="LVA">
 Statsråd Lene Vågslid [12:12:36]:</Navn> Rapporten frå Kripos er
-vond lesing. Den viser at dei aller minste ungane som blir utsette
+vond lesing. Han viser at dei aller minste ungane som blir utsette
 for alvorleg vald, ofte lever i familiar som allereie er kjende
 for hjelpeapparatet, og som òg har veldig komplekse utfordringar.
-Funna i denne rapporten understrekar betydinga av tidleg og samordna
-innsats overfor familiar i risiko, og regjeringa arbeider med dette
-langs fleire spor.</A>
+Funna i rapporten understrekar betydinga av tidleg og samordna innsats
+overfor familiar i risiko, og regjeringa arbeider med dette langs
+fleire spor.</A>
               <A Type="Minnrykk">For det fyrste må hjelpa kome tidleg. Helsestasjonane
 sin jamlege kontakt med familiar gjev dei ein unik posisjon til
-å kome inn tidleg med rett tiltak. Me jobbar med å vidareutvikle oppfølginga
+å kome inn tidleg med rett tiltak. Me jobbar med å vidareutvikle oppfylginga
 av dei minste ungane, og eit eksempel på det er tiltaket som heiter
-«Sammen på vei», der jordmødrer og helsesjukepleiarar følgjer opp
+«Sammen på vei», der jordmødrer og helsesjukepleiarar fylgjer opp
 sårbare fyrstegongsgravide kvinner frå graviditeten til to år etter
 fødsel.</A>
               <A Type="Minnrykk">For det andre: Dei utsette ungane treng at
@@ -2623,10 +2622,10 @@ barnevernslova i 2022 om dette, og fleire direktorat samarbeider
 no om å utvikle rettleiing til kommunane om korleis dei best skal
 varetaka førebyggingsansvaret sitt. </A>
               <A Type="Minnrykk">Regjeringa ser òg på andre tiltak for meir
-samordna innsats. Me sette i fjor ned ei ekspertgruppe som greier
+samordna innsats. I fjor sette me ned ei ekspertgruppe som greier
 ut tverretatleg samarbeid og informasjonsdeling for å førebyggje
 betre. Dei leverer sin rapport no til sommaren, og eg ser fram til den
-oppfølginga. Me jobbar òg vidare med fleire gode oppmodingsvedtak
+oppfylginga. Me jobbar òg vidare med fleire gode oppmodingsvedtak
 som er fatta her i Stortinget, om beskyttelse av barn i foreldretvistar.
 Det inkluderer informasjonsdeling og samarbeid i saker om vald og
 overgrep.</A>
@@ -2636,7 +2635,7 @@ no tydelegare anbefalingar om god praksis og korleis barnevernstenestene skal
 gå fram for å gjere meir presise vurderingar ved mistanke om vald.
 Eg har òg sett i gong arbeidet med å utvikle ein kompetanseplan
 for det kommunale barnevernet. Auka kompetanse om saker som gjeld
-vald og tverrfagleg samarbeid vil vere eit prioritert område for
+vald og tverrfagleg samarbeid, vil vere eit prioritert område for
 meg, og eg merkar at det òg blir trekt fram i rapporten.</A>
               <A Type="Minnrykk">Eg vil rose Kripos for nok ein gong å setje
 vald og overgrep mot dei minste på dagsordenen. Dette handlar om
@@ -2644,7 +2643,7 @@ grov kriminalitet, alvorleg kriminalitet som rammar dei mest sårbare
 av oss. Denne rapporten gjev oss ei klar bekrefting på at me må
 fortsetje arbeidet på dette feltet med full styrke. </A>
             </Hovedinnlegg>
-            <Replikk Id="i1002547">
+            <Replikk Id="i1003209">
               <A>
                 <Navn personID="TWT">
 Tone Wilhelmsen Trøen (H) [12:15:29]:</Navn> Takk til statsråden
@@ -2652,56 +2651,56 @@ for et fyldig svar.</A>
               <A Type="Minnrykk">Det som er alvorlig, er at den forrige rapporten
 peker på mange av de samme store utfordringene. Det er helt tydelig
 at det er behov for at vi gjør mer.</A>
-              <A Type="Minnrykk">Det første spørsmålet mitt vil dreie seg litt
+              <A Type="Minnrykk">Det første spørsmålet mitt dreier seg litt
 om det statsråden var inne på først, nemlig hvordan man skal komme
 i gang med det tidlige forebyggende arbeidet. Jeg er helt enig: Helsestasjonstjenesten,
-jordmortjenesten og de som jobber rundt de familiene som har de
-minste barna, er avgjørende viktige. Derfor er jeg litt bekymret,
-for det nye programmet som gjør at man samler mer ressurser rundt
-forebyggende arbeid, og som Barne- og familiedepartementet har fått
-rundt en halv milliard kroner for å forvalte, har kommet ganske
-sent i gang. Ser statsråden at det er en utfordring at mange kommuner
-kanskje nå gir slipp på helsesykepleiere som tidligere ble lønnet
-av en tilskuddsordning som er borte?</A>
+jordmortjenesten og de som jobber rundt familiene som har de minste
+barna, er avgjørende viktige. Derfor er jeg litt bekymret, for det
+nye programmet som gjør at man samler mer ressurser rundt forebyggende
+arbeid, og som Barne- og familiedepartementet har fått rundt en
+halv milliard kroner for å forvalte, har kommet ganske sent i gang. Ser
+statsråden at det er en utfordring at mange kommuner kanskje nå
+gir slipp på helsesykepleiere som tidligere ble lønnet av en tilskuddsordning
+som er borte?</A>
             </Replikk>
-            <Replikk Id="i1002549">
+            <Replikk Id="i1003211">
               <A>
                 <Navn personID="LVA">
 Statsråd Lene Vågslid [12:16:34]:</Navn> Eg meiner me må gjere ganske
 mykje samtidig. Det er sett i verk ei rekkje tiltak, frå både mitt
-og fleire departement, for å følgje opp desse alvorlege funna i
-rapporten. Førebyggingsprogrammet representanten viser til, er lyst
-ut. Eg er glad for at me har fått det til, for eg trur òg det er
-viktig at kommunane i ein type programfinansiering kjem betre i
-stand til å vurdere korleis dei førebyggjer på best mogleg måte. </A>
+og fleire andre departement, for å fylgje opp desse alvorlege funna
+i rapporten. Førebyggingsprogrammet representanten viser til, er
+lyst ut. Eg er glad for at me har fått det til, for eg trur òg det
+er viktig at kommunane i ein type programfinansiering kjem betre
+i stand til å vurdere korleis dei førebyggjer på best mogleg måte. </A>
               <A Type="Minnrykk">Ei rekkje direktorat har i tillegg fått i oppdrag
 å samarbeide om rettleiing og kompetansestøtte til kommunane når
 det gjeld førebygging av barn og unge, noko som òg er etterspurt av
-kommunane. Dette arbeidet blir leia av Bufdir og skal munne ut i
-ein type oppvekstpakke for kommunane. Me gjer òg ganske mange andre
-ting, men eg rekk ikkje å svare det no.</A>
+kommunane. Arbeidet blir leia av Bufdir og skal munne ut i ein type
+oppvekstpakke for kommunane. Me gjer òg ganske mange andre ting,
+men eg rekk ikkje å svare på det no.</A>
             </Replikk>
-            <Replikk Id="i1002551">
+            <Replikk Id="i1003213">
               <A>
                 <Navn personID="TWT">
 Tone Wilhelmsen Trøen (H) [12:17:29]:</Navn> Ja, tverrfaglig godt
 samarbeid, som statsråden nevnte i sitt første svar, er utrolig
 viktig. Jeg regner med at statsråden har merket seg at fem stortingsrepresentanter
 for Høyre har løftet spørsmål knyttet til denne alvorlige rapporten
-inn i Stortingets spørretime, fordi vi er opptatt av at dette ikke
-handler om ansvar ett sted, men at det særlig handler om hvordan
+inn i Stortingets spørretime. Det er fordi vi er opptatt av at dette
+ikke handler om ansvar ett sted, men at det særlig handler om hvordan
 man samhandler på tvers av mange fagområder og lovverk.</A>
-              <A Type="Minnrykk">I debatten i forrige uke var helseministeren
-inne på – i svar til Margret Hagerup den gangen – dette som handler
-om en utredning av en varslingsplikt til politiet der det er grunn til
-å tro at barn blir eller vil bli mishandlet. Bakgrunnen var at f.eks.
-leger sier de kanskje vegrer seg for å kontakte barnevernet eller
-politiet. Jeg er ganske overrasket over at regjeringen ikke har
-startet dette arbeidet. Regjeringen lanserte det i 2023, Stortinget
+              <A Type="Minnrykk">I debatten i forrige uke – i svar til Margret
+Hagerup den gangen – var helseministeren inne på dette som handler
+om en utredning av en varslingsplikt til politiet der det er grunn
+til å tro at barn blir eller vil bli mishandlet. Bakgrunnen var
+at f.eks. leger sier de kanskje vegrer seg for å kontakte barnevernet
+eller politiet. Jeg er ganske overrasket over at regjeringen ikke
+har startet dette arbeidet. Regjeringen lanserte det i 2023, Stortinget
 vedtok det i 2024, men status er at det ennå ikke er startet et
 utredningsarbeid.</A>
             </Replikk>
-            <Replikk Id="i1002553">
+            <Replikk Id="i1003215">
               <A>
                 <Navn personID="LVA">
 Lene Vågslid (A) [12:18:34]:</Navn> Lat oss fyrst slå éin ting veldig
@@ -2713,7 +2712,7 @@ ei varslingsplikt.</A>
               <A Type="Minnrykk">Det er veldig viktig at me samtidig er tydelege
 på kva som allereie ligg der i dag, at ein skal melde bekymringar
 til barnevernstenesta viss ein mistenkjer at eit barn er utsett
-for vald og overgrep. Eg vil gje Høgre ros for å reise spørsmålet så
+for vald eller overgrep. Eg vil gje Høgre ros for å reise spørsmålet så
 breitt som ein gjer, for det me òg ser av rapporten, er at det er
 nokre nye moment som har kome inn her, med omsyn til rett og slett
 mishandlingsmetodar mot barn. Dette tek regjeringa på det aller
@@ -2727,12 +2726,12 @@ spørretimen er nå over.</A>
             </Presinnlegg>
           </Spm>
         </Sporretime>
-        <Sakreferat Id="i1002555">
+        <Sakreferat Id="i1003217">
           <Sakshode>
             <Saknr>
               <Uth Type="Sperret">Sak
 nr. 3</Uth> [12:19:40]</Saknr>
-            <Saktittel Id="i1002557">
+            <Saktittel Id="i1003219">
               <A>Referat</A>
             </Saktittel>
           </Sakshode>

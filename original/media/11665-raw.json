@@ -1,0 +1,133 @@
+{
+  "moteid": 11665,
+  "parts": [
+    {
+      "moteid": 11665,
+      "delnr": 1,
+      "qbvid": "db6v6uv5tutc73aj1c5g",
+      "mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/db/db6v70v5tutc73aj1c60/db6v4hv5tutc73aj1c50_1080p.mp4",
+      "audio_mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/db/db6v70v5tutc73aj1c60/db6v4hv5tutc73aj1c50_240p.mp4",
+      "hls_url": "https://httpcache0-90415-cacheod0.dna.contentdelivery.net/90415-cacheod0/_definst_/smil:assets/db/db6v70v5tutc73aj1c60/db6v4hv5tutc73aj1c50_240p/playlist.m3u8",
+      "tc_in_utc": "2026-10-13T07:58:01+00:00",
+      "tc_out_utc": "2026-10-13T08:48:06+00:00",
+      "duration_seconds": 3005.0,
+      "thumbnail_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/db/db6v70v5tutc73aj1c60/db6v4hv5tutc73aj1c50_1080p_5.jpeg",
+      "chapters": [
+        {
+          "start": 0.0,
+          "end": 123.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 123.0,
+          "end": 158.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 158.0,
+          "end": 177.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 177.0,
+          "end": 198.0,
+          "name": "Hans Edvard Askjer (KrF)"
+        },
+        {
+          "start": 198.0,
+          "end": 215.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 215.0,
+          "end": 233.0,
+          "name": "Frøya Skjold Sjursæther (MDG)"
+        },
+        {
+          "start": 233.0,
+          "end": 276.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 276.0,
+          "end": 358.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 358.0,
+          "end": 665.0,
+          "name": "Julia Brännström Nordtug (FrP)"
+        },
+        {
+          "start": 665.0,
+          "end": 903.0,
+          "name": "Statsråd Kjersti Stenseng"
+        },
+        {
+          "start": 903.0,
+          "end": 1081.0,
+          "name": "Julia Brännström Nordtug (FrP)"
+        },
+        {
+          "start": 1081.0,
+          "end": 1256.0,
+          "name": "Statsråd Kjersti Stenseng"
+        },
+        {
+          "start": 1256.0,
+          "end": 1478.0,
+          "name": "Bjørn-Kristian Svendsrud (FrP)"
+        },
+        {
+          "start": 1478.0,
+          "end": 1666.0,
+          "name": "Erlend Svardal Bøe (H)"
+        },
+        {
+          "start": 1666.0,
+          "end": 1835.0,
+          "name": "Laila Reiertsen (FrP)"
+        },
+        {
+          "start": 1835.0,
+          "end": 2459.0,
+          "name": "Stig Atle Abrahamsen (FrP)"
+        },
+        {
+          "start": 2459.0,
+          "end": 2651.0,
+          "name": "Julia Brännström Nordtug (FrP)"
+        },
+        {
+          "start": 2651.0,
+          "end": 2836.0,
+          "name": "Statsråd Kjersti Stenseng"
+        },
+        {
+          "start": 2836.0,
+          "end": 3005.0,
+          "name": "Presidenten"
+        }
+      ]
+    },
+    {
+      "moteid": 11665,
+      "delnr": 2,
+      "qbvid": "db72r9n5tutc73aj1cbg",
+      "mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/db/db72rcv5tutc73aj1cc0/db72r575tutc73aj1cb0_1080p.mp4",
+      "audio_mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/db/db72rcv5tutc73aj1cc0/db72r575tutc73aj1cb0_240p.mp4",
+      "hls_url": "https://httpcache0-90415-cacheod0.dna.contentdelivery.net/90415-cacheod0/_definst_/smil:assets/db/db72rcv5tutc73aj1cc0/db72r575tutc73aj1cb0_240p/playlist.m3u8",
+      "tc_in_utc": "2026-10-13T12:57:02+00:00",
+      "tc_out_utc": "2026-10-13T13:04:02+00:00",
+      "duration_seconds": 420.0,
+      "thumbnail_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/db/db72rcv5tutc73aj1cc0/db72r575tutc73aj1cb0_1080p_5.jpeg",
+      "chapters": [
+        {
+          "start": 245.0,
+          "end": 420.0,
+          "name": "Presidenten"
+        }
+      ]
+    }
+  ]
+}

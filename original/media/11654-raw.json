@@ -1,0 +1,504 @@
+{
+  "moteid": 11654,
+  "parts": [
+    {
+      "moteid": 11654,
+      "delnr": 1,
+      "qbvid": "d8qi6b75tutc73f4bvag",
+      "mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/d8/d8qi6ef5tutc73f4bvb0/d8qhskn5tutc73f4bva0_1080p.mp4",
+      "audio_mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/d8/d8qi6ef5tutc73f4bvb0/d8qhskn5tutc73f4bva0_240p.mp4",
+      "hls_url": "https://httpcache0-90415-cacheod0.dna.contentdelivery.net/90415-cacheod0/_definst_/smil:assets/d8/d8qi6ef5tutc73f4bvb0/d8qhskn5tutc73f4bva0_240p/playlist.m3u8",
+      "tc_in_utc": "2026-06-19T06:58:02+00:00",
+      "tc_out_utc": "2026-06-19T10:37:04+00:00",
+      "duration_seconds": 13142.0,
+      "thumbnail_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/d8/d8qi6ef5tutc73f4bvb0/d8qhskn5tutc73f4bva0_1080p_5.jpeg",
+      "chapters": [
+        {
+          "start": 0.0,
+          "end": 140.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 140.0,
+          "end": 163.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 163.0,
+          "end": 187.0,
+          "name": "Abid Raja (V)"
+        },
+        {
+          "start": 187.0,
+          "end": 203.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 203.0,
+          "end": 252.0,
+          "name": "Bård Hoksrud (FrP)"
+        },
+        {
+          "start": 252.0,
+          "end": 262.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 262.0,
+          "end": 278.0,
+          "name": "Jørgen H. Kristiansen (KrF)"
+        },
+        {
+          "start": 278.0,
+          "end": 295.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 295.0,
+          "end": 315.0,
+          "name": "Silje Hjemdal (FrP)"
+        },
+        {
+          "start": 315.0,
+          "end": 326.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 326.0,
+          "end": 347.0,
+          "name": "Kathy Lie (SV)"
+        },
+        {
+          "start": 347.0,
+          "end": 361.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 361.0,
+          "end": 409.0,
+          "name": "Aleksander Stokkebø (H)"
+        },
+        {
+          "start": 409.0,
+          "end": 426.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 426.0,
+          "end": 442.0,
+          "name": "Margit Bye (MDG)"
+        },
+        {
+          "start": 442.0,
+          "end": 448.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 448.0,
+          "end": 471.0,
+          "name": "Oda Indgaard (MDG)"
+        },
+        {
+          "start": 471.0,
+          "end": 591.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 591.0,
+          "end": 630.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 630.0,
+          "end": 933.0,
+          "name": "Tuva Moflag (A)"
+        },
+        {
+          "start": 933.0,
+          "end": 1142.0,
+          "name": "Hans Andreas Limi (FrP)"
+        },
+        {
+          "start": 1142.0,
+          "end": 1252.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 1252.0,
+          "end": 1549.0,
+          "name": "Nikolai Astrup (H)"
+        },
+        {
+          "start": 1549.0,
+          "end": 1551.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 1551.0,
+          "end": 1552.0,
+          "name": "Nikolai Astrup (H)"
+        },
+        {
+          "start": 1552.0,
+          "end": 1572.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 1572.0,
+          "end": 1862.0,
+          "name": "Marthe Hammer (SV)"
+        },
+        {
+          "start": 1862.0,
+          "end": 1863.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 1863.0,
+          "end": 1865.0,
+          "name": "Marthe Hammer (SV)"
+        },
+        {
+          "start": 1865.0,
+          "end": 1881.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 1881.0,
+          "end": 2170.0,
+          "name": "Bjørn Arild Gram (Sp)"
+        },
+        {
+          "start": 2170.0,
+          "end": 2485.0,
+          "name": "Mímir Kristjánsson (R)"
+        },
+        {
+          "start": 2485.0,
+          "end": 2805.0,
+          "name": "Ingrid Liland (MDG)"
+        },
+        {
+          "start": 2805.0,
+          "end": 3095.0,
+          "name": "Jørgen H. Kristiansen (KrF)"
+        },
+        {
+          "start": 3095.0,
+          "end": 3108.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 3108.0,
+          "end": 3401.0,
+          "name": "Abid Raja (V)"
+        },
+        {
+          "start": 3401.0,
+          "end": 3424.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 3424.0,
+          "end": 3718.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 3718.0,
+          "end": 3732.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 3732.0,
+          "end": 3780.0,
+          "name": "Hans Andreas Limi (FrP)"
+        },
+        {
+          "start": 3780.0,
+          "end": 3845.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 3845.0,
+          "end": 3901.0,
+          "name": "Hans Andreas Limi (FrP)"
+        },
+        {
+          "start": 3901.0,
+          "end": 3969.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 3969.0,
+          "end": 4039.0,
+          "name": "Hans Andreas Limi (FrP)"
+        },
+        {
+          "start": 4039.0,
+          "end": 4113.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 4113.0,
+          "end": 4153.0,
+          "name": "Hans Andreas Limi (FrP)"
+        },
+        {
+          "start": 4153.0,
+          "end": 4228.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 4228.0,
+          "end": 4265.0,
+          "name": "Henrik Asheim (H)"
+        },
+        {
+          "start": 4265.0,
+          "end": 4323.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 4323.0,
+          "end": 4375.0,
+          "name": "Henrik Asheim (H)"
+        },
+        {
+          "start": 4375.0,
+          "end": 4441.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 4441.0,
+          "end": 4489.0,
+          "name": "Henrik Asheim (H)"
+        },
+        {
+          "start": 4489.0,
+          "end": 4548.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 4548.0,
+          "end": 4608.0,
+          "name": "Mímir Kristjánsson (R)"
+        },
+        {
+          "start": 4608.0,
+          "end": 4688.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 4688.0,
+          "end": 4745.0,
+          "name": "Jørgen H. Kristiansen (KrF)"
+        },
+        {
+          "start": 4745.0,
+          "end": 4818.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 4818.0,
+          "end": 4879.0,
+          "name": "Abid Raja (V)"
+        },
+        {
+          "start": 4879.0,
+          "end": 4934.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 4934.0,
+          "end": 4953.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 4953.0,
+          "end": 5151.0,
+          "name": "Erlend Wiborg (FrP)"
+        },
+        {
+          "start": 5151.0,
+          "end": 5293.0,
+          "name": "Anne Kristine Linnestad (H)"
+        },
+        {
+          "start": 5293.0,
+          "end": 5489.0,
+          "name": "Stig Atle Abrahamsen (FrP)"
+        },
+        {
+          "start": 5489.0,
+          "end": 5670.0,
+          "name": "May Helen Hetland Ervik (FrP)"
+        },
+        {
+          "start": 5670.0,
+          "end": 5852.0,
+          "name": "Tom Staahle (FrP)"
+        },
+        {
+          "start": 5852.0,
+          "end": 6032.0,
+          "name": "Monica Molvær (H)"
+        },
+        {
+          "start": 6032.0,
+          "end": 6230.0,
+          "name": "Julia Brännström Nordtug (FrP)"
+        },
+        {
+          "start": 6230.0,
+          "end": 6402.0,
+          "name": "Liv Gustavsen (FrP)"
+        },
+        {
+          "start": 6402.0,
+          "end": 6598.0,
+          "name": "Kathy Lie (SV)"
+        },
+        {
+          "start": 6598.0,
+          "end": 6795.0,
+          "name": "Jon Engen-Helgheim (FrP)"
+        },
+        {
+          "start": 6795.0,
+          "end": 7000.0,
+          "name": "Frank Edvard Sve (FrP)"
+        },
+        {
+          "start": 7000.0,
+          "end": 7179.0,
+          "name": "Farukh Qureshi (A)"
+        },
+        {
+          "start": 7179.0,
+          "end": 7328.0,
+          "name": "Anniken Refseth (A)"
+        },
+        {
+          "start": 7328.0,
+          "end": 7504.0,
+          "name": "Pål Morten Borgli (FrP)"
+        },
+        {
+          "start": 7504.0,
+          "end": 7682.0,
+          "name": "Anne Lise Gjerstad Fredlund (SV)"
+        },
+        {
+          "start": 7682.0,
+          "end": 7867.0,
+          "name": "Tor Mikkel Wara (FrP)"
+        },
+        {
+          "start": 7867.0,
+          "end": 8066.0,
+          "name": "Tellef Inge Mørland (A)"
+        },
+        {
+          "start": 8066.0,
+          "end": 8253.0,
+          "name": "Anette Carnarius Elseth (FrP)"
+        },
+        {
+          "start": 8253.0,
+          "end": 8360.0,
+          "name": "Jørgen H. Kristiansen (KrF)"
+        },
+        {
+          "start": 8360.0,
+          "end": 8551.0,
+          "name": "Bård Hoksrud (FrP)"
+        },
+        {
+          "start": 8551.0,
+          "end": 8738.0,
+          "name": "Kristian August Eilertsen (FrP)"
+        },
+        {
+          "start": 8738.0,
+          "end": 8924.0,
+          "name": "Even A. Røed (A)"
+        },
+        {
+          "start": 8924.0,
+          "end": 9106.0,
+          "name": "Erling Sande (Sp)"
+        },
+        {
+          "start": 9106.0,
+          "end": 9304.0,
+          "name": "Geir Inge Lien (Sp)"
+        },
+        {
+          "start": 9304.0,
+          "end": 9487.0,
+          "name": "Sunniva Holmås Eidsvoll (SV)"
+        },
+        {
+          "start": 9487.0,
+          "end": 9658.0,
+          "name": "Kristian August Eilertsen (FrP)"
+        },
+        {
+          "start": 9658.0,
+          "end": 9857.0,
+          "name": "Bård Hoksrud (FrP)"
+        },
+        {
+          "start": 9857.0,
+          "end": 10006.0,
+          "name": "Tom Staahle (FrP)"
+        },
+        {
+          "start": 10006.0,
+          "end": 10207.0,
+          "name": "Oda Indgaard (MDG)"
+        },
+        {
+          "start": 10207.0,
+          "end": 10396.0,
+          "name": "Per-Willy Amundsen (FrP)"
+        },
+        {
+          "start": 10396.0,
+          "end": 10591.0,
+          "name": "Henrik Asheim (H)"
+        },
+        {
+          "start": 10591.0,
+          "end": 10680.0,
+          "name": "Marthe Hammer (SV)"
+        },
+        {
+          "start": 10680.0,
+          "end": 10767.0,
+          "name": "Tuva Moflag (A)"
+        },
+        {
+          "start": 10767.0,
+          "end": 11373.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 11373.0,
+          "end": 12911.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 12911.0,
+          "end": 13064.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 13064.0,
+          "end": 13142.0,
+          "name": "Nikolai Astrup (H)"
+        }
+      ]
+    }
+  ]
+}

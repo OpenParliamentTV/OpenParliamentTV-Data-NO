@@ -1,0 +1,369 @@
+{
+  "moteid": 11673,
+  "parts": [
+    {
+      "moteid": 11673,
+      "delnr": 1,
+      "qbvid": "dbl5ebn5tutc73cu68m0",
+      "mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/db/dbl5ee75tutc73cu68mg/dbl56dn5tutc73cu68lg_1080p.mp4",
+      "audio_mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/db/dbl5ee75tutc73cu68mg/dbl56dn5tutc73cu68lg_240p.mp4",
+      "hls_url": "https://httpcache0-90415-cacheod0.dna.contentdelivery.net/90415-cacheod0/_definst_/smil:assets/db/dbl5ee75tutc73cu68mg/dbl56dn5tutc73cu68lg_240p/playlist.m3u8",
+      "tc_in_utc": "2026-11-03T08:55:03+00:00",
+      "tc_out_utc": "2026-11-03T12:44:36+00:00",
+      "duration_seconds": 13773.0,
+      "thumbnail_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/db/dbl5ee75tutc73cu68mg/dbl56dn5tutc73cu68lg_1080p_5.jpeg",
+      "chapters": [
+        {
+          "start": 0.0,
+          "end": 311.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 311.0,
+          "end": 404.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 404.0,
+          "end": 423.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 423.0,
+          "end": 487.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 487.0,
+          "end": 502.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 502.0,
+          "end": 533.0,
+          "name": "Marie Sneve Martinussen (R)"
+        },
+        {
+          "start": 533.0,
+          "end": 547.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 547.0,
+          "end": 556.0,
+          "name": "Bent-Joacim Bentzen (Sp)"
+        },
+        {
+          "start": 556.0,
+          "end": 598.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 598.0,
+          "end": 833.0,
+          "name": "Geir Pollestad (Sp)"
+        },
+        {
+          "start": 833.0,
+          "end": 854.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 854.0,
+          "end": 1052.0,
+          "name": "Isak Veierud Busch (A)"
+        },
+        {
+          "start": 1052.0,
+          "end": 1198.0,
+          "name": "Aina Stenersen (FrP)"
+        },
+        {
+          "start": 1198.0,
+          "end": 1299.0,
+          "name": "Ove Trellevik (H)"
+        },
+        {
+          "start": 1299.0,
+          "end": 1560.0,
+          "name": "Ingrid Fiskaa (SV)"
+        },
+        {
+          "start": 1560.0,
+          "end": 1792.0,
+          "name": "Hege Bae Nyholt (R)"
+        },
+        {
+          "start": 1792.0,
+          "end": 1991.0,
+          "name": "Jonas Andersen Sayed (KrF)"
+        },
+        {
+          "start": 1991.0,
+          "end": 2130.0,
+          "name": "Maren Grøthe (Sp)"
+        },
+        {
+          "start": 2130.0,
+          "end": 2709.0,
+          "name": "Bjørnar Moxnes (R)"
+        },
+        {
+          "start": 2709.0,
+          "end": 3108.0,
+          "name": "Per-Willy Amundsen (FrP)"
+        },
+        {
+          "start": 3108.0,
+          "end": 3357.0,
+          "name": "Sverre Myrli (A)"
+        },
+        {
+          "start": 3357.0,
+          "end": 3479.0,
+          "name": "Geir Pollestad (Sp)"
+        },
+        {
+          "start": 3479.0,
+          "end": 3571.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 3571.0,
+          "end": 3791.0,
+          "name": "Erik Hager (A)"
+        },
+        {
+          "start": 3791.0,
+          "end": 3929.0,
+          "name": "Lars Rem (FrP)"
+        },
+        {
+          "start": 3929.0,
+          "end": 4021.0,
+          "name": "Ove Trellevik (H)"
+        },
+        {
+          "start": 4021.0,
+          "end": 4562.0,
+          "name": "Ingrid Fiskaa (SV)"
+        },
+        {
+          "start": 4562.0,
+          "end": 4577.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 4577.0,
+          "end": 4648.0,
+          "name": "Geir Pollestad (Sp)"
+        },
+        {
+          "start": 4648.0,
+          "end": 4934.0,
+          "name": "Hege Bae Nyholt (R)"
+        },
+        {
+          "start": 4934.0,
+          "end": 4946.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 4946.0,
+          "end": 5089.0,
+          "name": "Jonas Andersen Sayed (KrF)"
+        },
+        {
+          "start": 5089.0,
+          "end": 5221.0,
+          "name": "Erik Hager (A)"
+        },
+        {
+          "start": 5221.0,
+          "end": 5427.0,
+          "name": "Ingrid Fiskaa (SV)"
+        },
+        {
+          "start": 5427.0,
+          "end": 5473.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 5473.0,
+          "end": 5959.0,
+          "name": "Pål Morten Borgli (FrP)"
+        },
+        {
+          "start": 5959.0,
+          "end": 6233.0,
+          "name": "Sverre Myrli (A)"
+        },
+        {
+          "start": 6233.0,
+          "end": 6345.0,
+          "name": "Geir Pollestad (Sp)"
+        },
+        {
+          "start": 6345.0,
+          "end": 6429.0,
+          "name": "Jonas Andersen Sayed (KrF)"
+        },
+        {
+          "start": 6429.0,
+          "end": 6487.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 6487.0,
+          "end": 6731.0,
+          "name": "Kari Baadstrand Sandnes (A)"
+        },
+        {
+          "start": 6731.0,
+          "end": 6927.0,
+          "name": "Per-Willy Amundsen (FrP)"
+        },
+        {
+          "start": 6927.0,
+          "end": 7006.0,
+          "name": "Ove Trellevik (H)"
+        },
+        {
+          "start": 7006.0,
+          "end": 7610.0,
+          "name": "Kirsti Bergstø (SV)"
+        },
+        {
+          "start": 7610.0,
+          "end": 7624.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 7624.0,
+          "end": 7831.0,
+          "name": "Hege Bae Nyholt (R)"
+        },
+        {
+          "start": 7831.0,
+          "end": 7952.0,
+          "name": "Jonas Andersen Sayed (KrF)"
+        },
+        {
+          "start": 7952.0,
+          "end": 8147.0,
+          "name": "Per-Willy Amundsen (FrP)"
+        },
+        {
+          "start": 8147.0,
+          "end": 8387.0,
+          "name": "Kirsti Bergstø (SV)"
+        },
+        {
+          "start": 8387.0,
+          "end": 8471.0,
+          "name": "Kari Baadstrand Sandnes (A)"
+        },
+        {
+          "start": 8471.0,
+          "end": 8520.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 8520.0,
+          "end": 8671.0,
+          "name": "Hege Bae Nyholt (R)"
+        },
+        {
+          "start": 8671.0,
+          "end": 8691.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 8691.0,
+          "end": 9019.0,
+          "name": "Kari Baadstrand Sandnes (A)"
+        },
+        {
+          "start": 9019.0,
+          "end": 9358.0,
+          "name": "Per-Willy Amundsen (FrP)"
+        },
+        {
+          "start": 9358.0,
+          "end": 9582.0,
+          "name": "Lars Haltbrekken (SV)"
+        },
+        {
+          "start": 9582.0,
+          "end": 9655.0,
+          "name": "Geir Pollestad (Sp)"
+        },
+        {
+          "start": 9655.0,
+          "end": 9832.0,
+          "name": "Lars Lønberg Henriksen (MDG)"
+        },
+        {
+          "start": 9832.0,
+          "end": 9922.0,
+          "name": "Ove Trellevik (H)"
+        },
+        {
+          "start": 9922.0,
+          "end": 10296.0,
+          "name": "Jorunn Gleditsch Lossius (KrF)"
+        },
+        {
+          "start": 10296.0,
+          "end": 10830.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 10830.0,
+          "end": 13221.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 13221.0,
+          "end": 13305.0,
+          "name": "Marie Sneve Martinussen (R)"
+        },
+        {
+          "start": 13305.0,
+          "end": 13341.0,
+          "name": "Geir Pollestad (Sp)"
+        },
+        {
+          "start": 13341.0,
+          "end": 13387.0,
+          "name": "Lars Haltbrekken (SV)"
+        },
+        {
+          "start": 13387.0,
+          "end": 13421.0,
+          "name": "Tor Mikkel Wara (FrP)"
+        },
+        {
+          "start": 13421.0,
+          "end": 13448.0,
+          "name": "Frøya Skjold Sjursæther (MDG)"
+        },
+        {
+          "start": 13448.0,
+          "end": 13474.0,
+          "name": "Mani Hussaini (A)"
+        },
+        {
+          "start": 13474.0,
+          "end": 13552.0,
+          "name": "Mímir Kristjánsson (R)"
+        },
+        {
+          "start": 13552.0,
+          "end": 13773.0,
+          "name": "Hans Edvard Askjer (KrF)"
+        }
+      ]
+    }
+  ]
+}

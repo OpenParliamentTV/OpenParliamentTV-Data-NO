@@ -1,4 +1,4 @@
-<Forhandlinger Status="Kvalitetssikret">
+<Forhandlinger Status="Komplett">
   <Mote moteID="11598">
     <Startseksjon>
       <Motestart>
@@ -7,11 +7,11 @@
           <A>President: <Uth Type="Sperret">Masud Gharahkhani</Uth></A>
         </President>
         <Dagsorden>
-          <Tittel>Dagsorden (nr.54)</Tittel>
-          <DagsordenSak Id="i1003719">
+          <Tittel>Dagsorden <DagsordenNR>(nr. 54):</DagsordenNR></Tittel>
+          <DagsordenSak Id="i1004541">
             <Liste Type="Dagsorden">
               <Pkt>
-                <A> 1.	Innstilling
+                <A>1.	Innstilling
 fra kommunal- og forvaltningskomiteen om Representantforslag fra
 stortingsrepresentantene Mudassar Kapur, Tage Pettersen, Henrik
 Gottfries Kierulf og Anne Kristine Linnestad om en ny nasjonal boligsosial
@@ -57,11 +57,11 @@ Asbjørn Reidar Jordahl</Subtit>
           <A>
             <Navn>Presidenten [09:00:05]:</Navn> Ærede medrepresentanter!</A>
           <A Type="Minnrykk">16. juli 2025 døde tidligere stortingsrepresentant
-Asbjørn Jordahl fra Kristiansund, 92 år gammel. Han representerte Arbeiderpartiet
+Asbjørn Jordahl fra Kristiansund, 92 år gammel. Han representerte Arbeiderpartiet
 og Møre og Romsdal fra 1977 til 1981, først som medlem av kirke-
 og undervisningskomiteen, senere av justiskomiteen. Fra januar 1978
 til oktober 1979 var han samferdselsminister i Odvar Nordlis regjering.</A>
-          <Sitat Type="Uinnrykk">
+          <Sitat Type="Minnrykk">
             <A>«Den verste fyren jeg omgås er Asbjørn
 Jordahl, og særlig dersom det bare er oss to. Jeg kan rett og slett
 ikke fordra ham.»</A>
@@ -73,15 +73,14 @@ en politiker med selvbildet på stell.</A>
           <A Type="Minnrykk">Jordahl vokste opp i en Arbeiderparti-familie,
 ble aktiv i AUF og fortsatte i arbeiderpressens lokalavis Tidens
 Krav. Dette var i en tid da pressa var del av rørsla, og journalistjobben
-intet hinder for at han lot seg velge inn i Kristiansund bystyre.</A>
-          <A Type="Minnrykk">Da Jordahl ble stortingsrepresentant, var det
-etter ti år som respektert og handlekraftig ordfører. Også blant
-sine politiske motstandere ble han omtalt som den beste ordføreren byen
-hadde hatt siden krigen.</A>
-          <A Type="Minnrykk">Omdømmet bidro til at han etter kort tid på
-Stortinget ble utnevnt til samferdselsminister. Men erfaringen bidro
-også til at han tidlig begynte å føle på en lengsel tilbake til
-lokalpolitikken i sitt kjære Kristiansund.</A>
+intet hinder for at han lot seg velge inn i Kristiansund bystyre.
+Da Jordahl ble stortingsrepresentant, var det etter ti år som respektert
+og handlekraftig ordfører. Også blant sine politiske motstandere
+ble han omtalt som den beste ordføreren byen hadde hatt siden krigen.
+Omdømmet bidro til at han etter kort tid på Stortinget ble utnevnt
+til samferdselsminister, men erfaringen bidro også til at han tidlig
+begynte å føle på en lengsel tilbake til lokalpolitikken i sitt
+kjære Kristiansund.</A>
           <A Type="Minnrykk">Det heter seg at Harald Hårfagres samling av
 Norge til ett rike var så sin sak – å samle Møre og Romsdal til
 ett fylke er en langt større oppgave. I så måte var lokalpatrioten
@@ -90,21 +89,14 @@ fra seg. Da han en gang fikk fartsbot i Molde, var hans kommentar
 til politiet:</A>
           <Sitat Type="Uinnrykk">
             <A>«Jeg visste ikke at det var regnet som
-tettbygd strøk.»</A>
+tettbygd strøk.» (Munterhet i salen)</A>
           </Sitat>
-        </Presinnlegg>
-        <Merknad>
-          <Handling>
-            <A>(Munterhet i salen)</A>
-          </Handling>
-        </Merknad>
-        <Presinnlegg>
-          <A>Jordahl nøyde seg med fire år i rikspolitikken.
+          <A Type="Minnrykk">Jordahl nøyde seg med fire år i rikspolitikken.
 Han kom hjem, ble sjefredaktør og senere politisk redaktør i Tidens Krav,
 deretter pensjonist og på nytt bystyremedlem.</A>
           <A Type="Minnrykk">Da han som 90-åring forlot bystyret i 2023,
-hadde det gått 60 år siden han først ble valgt inn. Hans samfunnsengasjement
-var livslangt, bredt og dypt, sporene mange. Det var en ruvende
+hadde det gått 60 år siden han først ble valgt inn. Hans samfunnsengasjement
+var livslangt, bredt og dypt, og sporene mange. Det var en ruvende
 politisk personlighet som gikk bort sist sommer.</A>
           <A Type="Minnrykk">Vi lyser fred over Asbjørn Jordahls minne.</A>
         </Presinnlegg>
@@ -124,12 +116,12 @@ en rekke permisjonssøknader:</A>
 Rafaelsen, June Trengereid Gruer, Arild Hermstad, Mudassar Kapur, Trine
 Lise Sundnes, Sunniva Holmås Eidsvoll, Bjørn Arild Gram, Erlend
 Larsen og Ronny Aukrust om permisjon i tiden fra og med 15. til
-og med 26. mars – alle for å delta på FN-opphold i New York og Washington
+og med 26. mars – alle for å delta på FN-opphold i New York og Washington
 D.C.</A>
             </Pkt>
             <Pkt>
               <A>Fra representanten Even H. Eriksen om foreldrepermisjon
-i tiden fra og med 16. mars til og med 19. juni.</A>
+i tiden fra og med 16. mars til og med 19. juni.</A>
             </Pkt>
           </Liste>
           <A Type="Minnrykk">Disse søknader foreslås behandlet straks og
@@ -147,7 +139,7 @@ i permisjonstiden slik:</A>
               <A>For Hedmark: Erik Hager 17. mars–19. juni</A>
               <A>For Hordaland: Ulvar Akselsen 17.–26. mars</A>
               <A>For Oslo: Margit Bye, Ola Svenneby, Malin Bye Sørensen og Andreas
-Sjalg Unneland 17.–26. mars</A>
+Sjalg Unneland 17.–26. mars</A>
               <A>For Nord-Trøndelag: Siv Sætran 17.–26. mars</A>
               <A>For Vestfold: Mathias Willassen Hanssen 17.–26. mars</A>
               <A>For Østfold: Mette-Gro Karlsen 17.–26. mars</A>
@@ -159,7 +151,7 @@ Sjalg Unneland 17.–26. mars</A>
             <Navn>Presidenten [09:04:51]:</Navn> Representanten
 Tom Staahle vil framsette et representantforslag.</A>
         </Presinnlegg>
-        <Hovedinnlegg Id="i1003721">
+        <Hovedinnlegg Id="i1004543">
           <A>
             <Navn personID="TSTA">
 Tom Staahle (FrP) [09:05:04]:</Navn> Det er en glede på vegne av
@@ -172,40 +164,41 @@ plan- og bygningslov for krig og krise.</A>
             <Navn>Presidenten [09:05:20]:</Navn> Representanten
 Julie E. Stuestøl vil framsette et representantforslag.</A>
         </Presinnlegg>
-        <Hovedinnlegg Id="i1003723">
+        <Hovedinnlegg Id="i1004545">
           <A>
             <Navn personID="JULSTU">
 Julie E. Stuestøl (MDG) [09:05:37]:</Navn> På vegne av stortingsrepresentantene
-fra MDG Frøya Skjold Sjursæter, Ingrid Liland, Siren Julianne Jensen,
-Magnus Langballe Dalin, Oda Indgaard, Une Bastholm og meg selv har
-jeg den glede å framsette et representantforslag om å stanse subsidiene
-til petroleumsselskapenes utgifter knyttet til markedsføring og lobbyisme.</A>
+Frøya Skjold Sjursæter, Ingrid Liland, Siren Julianne Jensen, Magnus
+Langballe Dalin, Oda Indgaard, Une Bastholm og meg selv har jeg
+den glede å framsette et representantforslag om å stanse subsidiene
+til petroleumsselskapenes utgifter knyttet til markedsføring og
+lobbyisme.</A>
         </Hovedinnlegg>
         <Presinnlegg>
           <A>
             <Navn>Presidenten [09:06:00]:</Navn> Representanten
 Bjørn Larsen vil framsette et representantforslag.</A>
         </Presinnlegg>
-        <Hovedinnlegg Id="i1003725">
+        <Hovedinnlegg Id="i1004547">
           <A>
             <Navn personID="BLA">
 Bjørn Larsen (FrP) [09:06:16]:</Navn> På vegne av stortingsrepresentantene
-fra Fremskrittspartiet Erlend Wiborg, Helge André Njåstad, Rune
-Midtun, Frank Edvard Sve, Bengt Rune Strifeldt, Dagfinn Henrik Olsen,
-Hilde Grande og meg selv har jeg den glede å legge fram et representantforslag
-om verdensarv og næringsutvikling.</A>
+Erlend Wiborg, Helge André Njåstad, Rune Midtun, Frank Edvard Sve,
+Bengt Rune Strifeldt, Dagfinn Henrik Olsen, Hilde Grande og meg
+selv har jeg den glede å legge fram et representantforslag om verdensarv
+og næringsutvikling.</A>
         </Hovedinnlegg>
         <Presinnlegg>
           <A>
             <Navn>Presidenten [09:06:34]:</Navn> Representanten
 Liv Gustavsen vil framsette et representantforslag.</A>
         </Presinnlegg>
-        <Hovedinnlegg Id="i1003727">
+        <Hovedinnlegg Id="i1004549">
           <A>
             <Navn personID="LIG">
 Liv Gustavsen (FrP) [09:06:53]:</Navn> Jeg har den ære å framlegge
-representantforslag for Silje Hjemdal, Morgan Langfeldt, Lill Harriet
-Sandaune og meg selv om praktiske og alternative opplæringstilbud
+et representantforslag fra Silje Hjemdal, Morgan Langfeldt, Lill
+Harriet Sandaune og meg selv om praktiske og alternative opplæringstilbud
 for barn og unge i barnevernsinstitusjoner.</A>
         </Hovedinnlegg>
         <Presinnlegg>
@@ -213,20 +206,20 @@ for barn og unge i barnevernsinstitusjoner.</A>
             <Navn>Presidenten [09:07:12]:</Navn> Siren Julianne
 Jensen vil framsette et representantforslag.</A>
         </Presinnlegg>
-        <Hovedinnlegg Id="i1003729">
+        <Hovedinnlegg Id="i1004551">
           <A>
             <Navn personID="SIRJEN">
-Siren Julianne Jensen (MDG) [09:07:27]:</Navn> På vegne av representantene
-Une Bastholm, Oda Indgaard og meg selv har jeg gleden av å framsette
-representantforslag om strakstiltak for å sikre norsk film- og serieproduksjon
-og hindre kompetanseflukt fra bransjen.</A>
+Siren Julianne Jensen (MDG) [09:07:27]:</Navn> På vegner av representantane
+Une Bastholm, Oda Indgaard og meg sjølv har eg gleda av å leggje
+fram eit representantforslag om strakstiltak for å sikre norsk film-
+og serieproduksjon og hindre kompetanseflukt frå bransjen.</A>
         </Hovedinnlegg>
         <Presinnlegg>
           <A>
             <Navn>Presidenten [09:07:46]:</Navn> Representanten
 Geir Pollestad vil framsette et representantforslag.</A>
         </Presinnlegg>
-        <Hovedinnlegg Id="i1003731">
+        <Hovedinnlegg Id="i1004553">
           <A>
             <Navn personID="GP">
 Geir Pollestad (Sp) [09:07:59]:</Navn> På vegner av stortingsrepresentant
@@ -240,13 +233,13 @@ vil bli behandlet på reglementsmessig måte.</A>
         </Presinnlegg>
       </Motestart>
     </Startseksjon>
-    <Hovedseksjon Id="i1003733">
+    <Hovedseksjon Id="i1004555">
       <Saker>
         <Sak saksKartNr="1" sakID="105072">
           <Sakshode>
             <Saknr>
               <Uth Type="Sperret">Sak nr. 1</Uth> [09:08:20]</Saknr>
-            <Saktittel Id="i1003737">
+            <Saktittel Id="i1004559">
               <A>Innstilling fra kommunal- og forvaltningskomiteen
 om Representantforslag fra stortingsrepresentantene Mudassar Kapur,
 Tage Pettersen, Henrik Gottfries Kierulf og Anne Kristine Linnestad
@@ -260,17 +253,17 @@ om en ny nasjonal boligsosial strategi <Uth Type="RETT">(Innst.
 fra komiteen vil presidenten ordne debatten slik: 3 minutter til
 hver partigruppe og 3 minutter til medlemmer av regjeringen. </A>
             <A Type="Minnrykk">Videre vil det – innenfor den fordelte taletid
-– bli gitt anledning til inntil 6 replikker med svar etter innlegg
+– bli gitt anledning til inntil seks replikker med svar etter innlegg
 fra medlemmer av regjeringen, og de som måtte tegne seg på talerlisten
 utover den fordelte taletid, får en taletid på inntil 3 minutter.</A>
           </Presinnlegg>
-          <Presinnlegg Id="i1003739">
+          <Presinnlegg Id="i1004561">
             <A>
               <Navn personID="ANNFRE">
 Anne Lise Gjerstad Fredlund (SV) [09:09:18]</Navn> (ordfører for
 saken): Jeg vil først starte med å takke komiteen for eksemplarisk
-og godt samarbeid. Vi har hatt gode runder, og jeg antar at de ulike
-partiene tar utgangspunkt i sine innlegg og begrunner sine syn;
+og godt samarbeid. Vi har hatt gode runder. Jeg antar at de ulike
+partiene tar utgangspunkt i sine innlegg og begrunner sine syn,
 derfor bruker jeg resten av tiden på å redegjøre for SVs synspunkter
 i saken. </A>
             <A Type="Minnrykk">Bolig er ikke bare tak over hodet, det er også
@@ -280,12 +273,12 @@ både bostedsløshet og bruken av midlertidige botilbud. Tallene fra 2024
 viser over 7 000 husstander i midlertidighet og nær 4 700 bostedsløse. </A>
             <A Type="Minnrykk">Når så mange unger vokser opp uten en stabil
 bosituasjon, er det ikke bare statistikk, det er et politisk ansvar
-som vi ikke kan skyve fra oss. Høringsinstansene i saken har vært klare:
-Dagens virkemidler er ikke nok. Kommuner, ideelle organisasjoner
-og fagmiljøer peker på det samme: Innsatsen er fragmentert, oppfølging
-varierer, og mennesker med de aller største behovene detter mellom
-systemene. Uten tydelige mål, sterkere virkemidler og bedre koordinering
-vil utviklingen fortsette i feil retning. </A>
+vi ikke kan skyve fra oss. Høringsinstansene i saken har vært klare: Dagens
+virkemidler er ikke nok. Kommuner, ideelle organisasjoner og fagmiljøer
+peker på det samme: Innsatsen er fragmentert, oppfølging varierer,
+og mennesker med de aller største behovene detter mellom systemene.
+Uten tydelige mål, sterkere virkemidler og bedre koordinering vil
+utviklingen fortsette i feil retning. </A>
             <A Type="Minnrykk">For SV er det tre utfordringer som står helt
 sentralt. </A>
             <A Type="Minnrykk">For det første: Vi trenger en konkret og målbar
@@ -302,7 +295,7 @@ alternativer for å sikre langsiktighet og lavere kostnader, også
 når det gjelder den sosiale boligbyggingen. </A>
             <A Type="Minnrykk">For det tredje, og kanskje aller viktigst:
 Kommuner må settes i stand til å kunne gjøre jobben. Det handler
-både om økonomi, kompetanse og kapasitet. Uten en styrket kommunal
+om både økonomi, kompetanse og kapasitet. Uten en styrket kommunal
 boligforvaltning, bedre utnyttelse av eksisterende boliger og tydeligere
 oppfølging av boligsosialloven vil vi aldri lykkes med å hjelpe
 dem som står nederst i køen. </A>
@@ -311,16 +304,16 @@ det er et resultat av politiske valg og et boligmarked som trekker
 i feil retning for enda flere. Derfor må vi ha en mer forpliktende
 nasjonal innsats. Det handler om å prioritere fellesskapets behov framfor
 markedslogikk og om å sikre at folk får det mest grunnleggende av
-alt: er trygt sted å bo. </A>
+alt: et trygt sted å bo. </A>
             <A Type="Minnrykk">Jeg tar opp forslaget SV er med på. </A>
           </Presinnlegg>
           <Presinnlegg>
             <A>
-              <Navn>Presidenten [09:11:53]:</Navn> Dermed har
-representanten Anne Lise Gjerstad Fredlund tatt opp det forslaget
-hun refererte til. </A>
+              <Navn>Presidenten [09:11:53]:</Navn> Representanten
+Anne Lise Gjerstad Fredlund har tatt opp det forslaget hun refererte
+til. </A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1003741">
+          <Hovedinnlegg Id="i1004563">
             <A>
               <Navn personID="SOLVES">
 Solveig Vestenfor (A) [09:12:39]:</Navn> Det er eit djupt alvor over
@@ -337,20 +330,20 @@ som det vert jobba med. Det må vera meir effektivt og mykje betre
 for alle som er fortvila over bustadsituasjonen, at regjeringa heller
 følgjer opp denne meldinga, enn å bruka tid og ressursar på å utarbeida
 nye planar og strategiar.</A>
-            <A Type="Minnrykk">For det finst tydelege nasjonale føringar for
-den bustadsosiale politikken i denne meldinga. Målet er bl.a. at
-ingen skal vera bustadlause, og at bruken av mellombelse butilbod skal
-ned, akkurat slik forslagsstillarane vil. Og kanskje viktigast:
-Ein har kunnskap om kva slags tiltak som fungerer. Difor bør regjeringa
+            <A Type="Minnrykk">Det finst tydelege nasjonale føringar for den
+bustadsosiale politikken i denne meldinga. Målet er bl.a. at ingen
+skal vera bustadlause, og at bruken av mellombelse butilbod skal ned,
+akkurat slik forslagsstillarane vil. Kanskje viktigast: Ein har
+kunnskap om kva slags tiltak som fungerer. Difor bør regjeringa
 få tid til å følgja opp tiltaka, og sjølvsagt undervegs vurdera
 om det er behov for nye tiltak som kan gje raskare resultat.</A>
             <A Type="Minnrykk">Regjeringa har styrkt låneramma til Husbanken
-og til startlån. Målet må vera at det skal verta bygd fleire bustader som
-folk har råd til å bu i. Bustøtta er styrkt, og det er sett i gang
-fleire tiltak for å letta på trykket i leigemarknaden. 2025 vart
-eit rekordår for bygging av nye studentbustader. Det vart sett i
-gang bygging av over 3 000. Det frigjer andre husvære og er difor
-positivt for alle som treng bustad. </A>
+og til startlån. Målet må vera at det skal verta bygd fleire bustader folk
+har råd til å bu i. Bustøtta er styrkt, og det er sett i gang fleire
+tiltak for å letta på trykket i leigemarknaden. 2025 vart eit rekordår
+for bygging av nye studentbustader. Det vart sett i gang bygging
+av over 3 000. Det frigjer andre husvære og er difor positivt for
+alle som treng bustad. </A>
             <A Type="Minnrykk">For å lukkast treng me eit sterkt lag av gode
 krefter. Kommunane har ei nøkkelrolle og eit stort ansvar, som m.a. er
 presisert i ny bustadsosial lov. Kobo – Husbanken sitt digitale
@@ -360,12 +353,12 @@ kan følgja opp lova. Ei ny husleigelov er òg meldt.</A>
 tvil om at forslagsstillarane har dei beste intensjonane her, men
 fleire planar gjev ingen nye tiltak eller auka tilgang på bustader.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003743">
+          <Hovedinnlegg Id="i1004565">
             <A>
               <Navn personID="RUNMID">
 Rune Midtun (FrP) [09:15:43]:</Navn> Fremskrittspartiet mener at
 boligpolitikken må handle om å gi folk reelle muligheter til å eie
-sitt eget hjem – ikke å produsere enda flere dokumenter som beskriver
+sitt eget hjem, ikke å produsere enda flere dokumenter som beskriver
 problemer uten å løse dem. Etter å ha gått grundig gjennom representantforslaget
 om en ny nasjonal boligsosial strategi, er vår vurdering klar: Forslaget
 mangler operative tiltak, det gir ingen styringskraft, ingen målbare
@@ -406,23 +399,22 @@ kostnadene opp</A>
 planprosesser</A>
               </Pkt>
               <Pkt>
-                <A>gjeninnføring av 20 pst. verdsettelsesrabatt på sekundærboliger.</A>
-              </Pkt>
-              <Pkt>
-                <A>Dette er tiltak som faktisk vil senke kostnader, øke utbyggingstakten
-og gi flere mulighet til å eie sin egen bolig. Likevel presenteres
-vi i dag for et forslag som ikke inneholder et eneste tiltak som
-vil gjøre det billigere å bygge, eller enklere å komme inn på boligmarkedet.</A>
+                <A>gjeninnføring av 20 pst. verdsettelsesrabatt på sekundærboliger</A>
               </Pkt>
             </Liste>
+            <A Type="Minnrykk">Dette er tiltak som faktisk vil senke kostnader,
+øke utbyggingstakten og gi flere mulighet til å eie sin egen bolig.
+Likevel presenteres vi i dag for et forslag som ikke inneholder
+et eneste tiltak som vil gjøre det billigere å bygge, eller enklere å
+komme inn på boligmarkedet.</A>
             <A Type="Minnrykk">Fremskrittspartiet ønsker en sosial boligpolitikk
-som virker – ikke en politisk øvelse i å skrive flere strategier.
+som virker, ikke en politisk øvelse i å skrive flere strategier.
 Det er resultatene som teller. Skal vi hjelpe flere inn i boligmarkedet, må
 vi redusere kostnader, fjerne unødvendige krav og sikre at det faktisk
 bygges flere og rimeligere boliger. </A>
             <A Type="Minnrykk">Derfor støtter vi ikke representantforslaget.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003745">
+          <Hovedinnlegg Id="i1004567">
             <A>
               <Navn personID="MUK">
 Mudassar Kapur (H) [09:18:12]:</Navn> Det er ingen tvil om at hvis
@@ -434,10 +426,10 @@ fra Fremskrittspartiet rett og slett på autopilot har skrevet et
 fint innlegg, men i feil sak. Dette er ikke en sak om byggteknisk
 forskrift, eller om hvordan vi kan gjøre endringer i plan- og bygningsloven for
 å få raskere saksbehandling osv. Det har Høyre levert mange gode
-forslag på, og FrP har alltid støttet dem, og det er bra at FrP
-følger Høyre i de sakene, men det er litt synd at de ikke gjør det
-i denne saken – selv om jeg tror de innerst inne støtter den likevel,
-men det er lov å vise litt motstand noen ganger.</A>
+forslag på, og FrP har alltid støttet dem. Det er bra at FrP følger
+Høyre i de sakene, men det er litt synd at de ikke gjør det i denne
+saken. Jeg tror de innerst inne støtter den likevel, men det er
+lov til å vise litt motstand noen ganger.</A>
             <A Type="Minnrykk">For å gå til selve saken: Dette handler ikke
 bare om å lage en strategi på et papir. Dette handler om å komme
 opp med treffsikre tiltak for den delen av boligmarkedet som består
@@ -459,17 +451,16 @@ ofte, i saker hvor skillelinjene ikke er så harde, bør kunne finne
 sammen. </A>
             <A Type="Minnrykk">Jeg noterer meg, i hvert fall i komiteen, at
 FrP og Arbeiderpartiet nok en gang finner sammen om å være imot
-gode løsninger som ville hjulpet de svakeste blant oss. Men jeg
-har et håp om at hvis vi fortsetter å jobbe med dette, også via
-andre typer dokumenter, vil særlig Arbeiderpartiet og FrP se dette
-behovet og komme oss i møte. I mellomtiden kommer vi til å ta kampen
-for mange av dem som står lengst unna boligmarkedet, og dersom FrP
-ønsker å støtte Høyre i å forenkle plan- og bygningsloven, har vi
-også mange andre gode forslag som kommer til behandling ganske snart,
-og jeg håper at de støtter dem – i stedet for å legge fram halvveis
-forslag selv.</A>
+gode løsninger som ville hjulpet de svakeste blant oss. Jeg har
+et håp om at hvis vi fortsetter å jobbe med dette, også via andre typer
+dokumenter, vil særlig Arbeiderpartiet og FrP se dette behovet og
+komme oss i møte. I mellomtiden kommer vi til å ta kampen for mange
+av dem som står lengst unna boligmarkedet. Dersom FrP ønsker å støtte
+Høyre i å forenkle plan- og bygningsloven, har vi også mange andre
+gode forslag som kommer til behandling ganske snart, og jeg håper
+at de støtter dem – i stedet for å legge fram halvveis forslag selv.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003747">
+          <Hovedinnlegg Id="i1004569">
             <A>
               <Navn personID="BFA">
 Bengt Fasteraune (Sp) [09:21:35]:</Navn> Senterpartiet støtter forslaget
@@ -483,9 +474,9 @@ saken støtter behovet for en koordinert strategi for å hjelpe på
 situasjonen med bostedsløshet. Det er jo ikke slik at en strategi
 nødvendigvis er det tiltaket som gjør at dette skjer hurtig, men
 i dette tilfellet mener vi at en strategi må på plass, for å koordinere alle
-de tiltakene som vi nå jobber med når det gjelder bosteder. Den
-sosiale dimensjonen av det må ikke bli glemt. Innspillene framhever
-særlig behovet for konkrete tiltak mot bostedsløshet, styrket kommunal
+de tiltakene vi nå jobber med når det gjelder bosteder. Den sosiale
+dimensjonen av det må ikke bli glemt. Innspillene framhever særlig
+behovet for konkrete tiltak mot bostedsløshet, styrket kommunal
 kapasitet og oppfølging av boligsosialloven samt prioritering av
 barnefamilier, personer med rusutfordringer og psykiske helseutfordringer
 og mennesker med funksjonsnedsettelser. </A>
@@ -506,7 +497,7 @@ var inne på, at vi har all mulighet ved senere anledninger til å
 prøve å løfte disse sakene så samlet som mulig, slik at vi i fellesskap
 får fortgang for noe som er krevende i Norge i dag. </A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003749">
+          <Hovedinnlegg Id="i1004571">
             <A>
               <Navn personID="HANSTE">
 Hanne Beate Stenvaag (R) [09:24:27]</Navn> (komiteens leder): For
@@ -524,7 +515,7 @@ ligget fast i en generasjon, og verktøykassen består i hovedsak
 av kommunale boliger som et midlertidig tilbud til dem som trenger det.
 Staten gir husleiestøtte til befolkningen gjennom Husbanken og statlig
 bostøtte, og hovedvirkemiddelet er på individuell basis å hjelpe
-enkeltpersoner inn på eiemarkedet gjennom startlånordningen. Men
+enkeltpersoner inn på eiemarkedet gjennom startlånordningen, men
 prisene i både leie- og eiemarkedet har hatt en vekst de færreste
 så for seg da denne verktøykassen ble utformet. Det som da ble vurdert
 som tilstrekkelige virkemidler, er ikke lenger det. </A>
@@ -532,7 +523,7 @@ som tilstrekkelige virkemidler, er ikke lenger det. </A>
 man se langt etter å kunne få startlån og kjøpe seg en bolig i en
 by som Tromsø, selv om man har stabil, om enn lav, inntekt. Tallene
 på hvor mange husstander som har bostøtte og samtidig boutgifter
-over utgiftstaket, og da snakker vi langt over utgiftstaket, er
+over utgiftstaket – og da snakker vi langt over utgiftstaket – er
 i de store byene på 75–85 pst. I Tromsø kan det f.eks. bety at hvis
 man bor alene, får man regnet inn i underkant av 9 000 kr i regnestykket.
 For det får man knapt en hybel i Tromsø. Husleien er sannsynligvis
@@ -561,7 +552,7 @@ utsatte, og både at verktøyene vi har i verktøykassen i dag, må
 forbedres, og at vi trenger flere verktøy, særlig en rimelig og
 regulert leiesektor. </A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003751">
+          <Hovedinnlegg Id="i1004573">
             <A>
               <Navn personID="BJRSKJ">
 Statsråd Bjørnar Skjæran [09:27:44]:</Navn> Jeg er glad for at representantene
@@ -578,7 +569,7 @@ rentenivå, bosetting av rekordmange flyktninger og lav boligbygging
 har bidratt til å øke disse utfordringene. </A>
             <A Type="Minnrykk">Skal vi lykkes med å gi de mest vanskeligstilte
 et trygt og godt botilbud, må vi ha en helhetlig boligpolitikk.
-Regjeringen har et ambisiøst mål – igangsette bygging av 130 000
+Regjeringen har et ambisiøst mål: igangsette bygging av 130 000
 boliger innen 2030. I tillegg øker vi botryggheten og tilbudet i leiemarkedet.
 Vi fornyer husleieloven og bygger flere studentboliger. Bostøtten
 er styrket og startlån bidrar til at mange får bistand til å kjøpe
@@ -588,16 +579,16 @@ i boligsosialloven fra 2023. Gatejuristen undersøkte i fjor hvordan loven
 følges opp i kommunene. De fant at kommunene i for liten grad kjente
 til og følger opp loven. Vi ba derfor Husbanken undersøke hva kommunene
 trenger av veiledning og bistand i sitt arbeid. Med bakgrunn i disse
-innspillene, vurderer vi nå hvordan vi kan bistå kommunene om loven. </A>
+innspillene vurderer vi nå hvordan vi kan bistå kommunene om loven. </A>
             <A Type="Minnrykk">Vi må unngå at folk blir bostedsløse etter
-løslatelse fra fengsel, utskrivelse fra institusjon, etter tiltak
-i barnevernet eller etter opphold i krisesenter. Vi må ha et godt
-system for å hjelpe vanskeligstilte i sårbare overganger. Husbanken
-utreder nå hvordan Kobo, fagsystemet for boligsosialt arbeid, kan videreutvikles
-for å styrke samarbeidsstrukturene i sårbare overganger og forebygge
-bostedsløshet. Jeg ønsker at Kobo skal bli et slags finn.no for
-kommunene, der de kan sette seg ned med innbyggere som trenger kommunal
-bolig, og finne den som passer best for hver enkelt.</A>
+løslatelse fra fengsel, utskrivelse fra institusjon, tiltak i barnevernet
+eller opphold i krisesenter. Vi må ha et godt system for å hjelpe vanskeligstilte
+i sårbare overganger. Husbanken utreder nå hvordan Kobo, fagsystemet
+for boligsosialt arbeid, kan videreutvikles for å styrke samarbeidsstrukturene
+i sårbare overganger og forebygge bostedsløshet. Jeg ønsker at Kobo
+skal bli et slags finn.no for kommunene, der de kan sette seg ned med
+innbyggere som trenger kommunal bolig, og finne den som passer best
+for hver enkelt.</A>
             <A Type="Minnrykk">Jeg deler representantenes ønske om strategisk
 og god innsats mot bostedsløshet. Det er verdt å peke på at Norge ikke
 har like store økonomiske forskjeller som mange andre land i Europa.
@@ -614,7 +605,7 @@ mulig resultater for dem det gjelder.</A>
             <A>
               <Navn>Presidenten [09:30:49]:</Navn> Det blir replikkordskifte.</A>
           </Presinnlegg>
-          <Replikk Id="i1003753">
+          <Replikk Id="i1004575">
             <A>
               <Navn personID="RUNMID">
 Rune Midtun (FrP) [09:31:06]:</Navn> Statsråden mener at behovet
@@ -628,7 +619,7 @@ papir uten effekt. En strategi uten nye og konkrete tiltak er ikke
 en strategi, det er en statusrapport. Hva vil statsråden konkret
 gjøre for å snu utviklingen?</A>
           </Replikk>
-          <Replikk Id="i1003755">
+          <Replikk Id="i1004577">
             <A>
               <Navn personID="BJRSKJ">
 Statsråd Bjørnar Skjæran [09:31:52]:</Navn> Først vil jeg berømme
@@ -643,13 +634,13 @@ kan velge å legge fram en stortingsmelding og gå til Stortinget,
 involvere hele Stortinget i utviklingen av politikk på et område.
 Vi valgte det siste, vi valgte å gå til Stortinget med bustadmeldinga
 og fikk mange gode innspill og gode diskusjoner, og vi har satt
-i gang mye arbeid for å øke boligbyggingen. Det er det aller, aller
-viktigste vi kan gjøre, få i gang boligbyggingen igjen. Det synes
-jeg også representanten hadde mange gode refleksjoner rundt. </A>
-            <A Type="Minnrykk">Så må vi også jobbe med leiemarkedet. Det gjør
+i gang mye arbeid for å øke boligbyggingen. Å få i gang boligbyggingen
+igjen er det aller, aller viktigste vi kan gjøre. Det synes jeg
+også representanten hadde mange gode refleksjoner rundt. </A>
+            <A Type="Minnrykk">Vi må også jobbe med leiemarkedet. Det gjør
 vi, og vi har styrket Husbanken med ikke mindre enn 15 mrd. kr siden regjeringsskiftet.</A>
           </Replikk>
-          <Replikk Id="i1003757">
+          <Replikk Id="i1004579">
             <A>
               <Navn personID="RUNMID">
 Rune Midtun (FrP) [09:32:58]:</Navn> Det er bra med tiltak, men
@@ -657,74 +648,74 @@ de treffer ikke hovedproblemet, for det bygges for lite, og det
 bygges for dyrt. Reguleringsmengde, gebyrnivå og trege planprosesser
 er blant de viktigste kostnadsdriverne i boligmarkedet, og det tar
 ikke regjering opp. Boligbygging i Norge har ikke vært på et lavere
-nivå siden krigen, og rekordmange bedrifter går konkurs. Så registrerer
-jeg at statsråden uttalte i et eller annet medium for en uke eller
-to siden at de nå skal hente inn informasjon, til tross for at bransjen selv
-har kommet med mange konkrete tiltak. Mener statsråden at disse
-tiltakene skal gi flere boliger når strukturelle hindringer blir
-stående?</A>
+nivå siden krigen, og rekordmange bedrifter går konkurs. </A>
+            <A Type="Minnrykk">Jeg registrerer at statsråden uttalte i et
+eller annet medium for en uke eller to siden at de nå skal hente
+inn informasjon, til tross for at bransjen selv har kommet med mange
+konkrete tiltak. Mener statsråden at disse tiltakene skal gi flere
+boliger når strukturelle hindringer blir stående?</A>
           </Replikk>
-          <Replikk Id="i1003759">
+          <Replikk Id="i1004581">
             <A>
               <Navn personID="BJRSKJ">
 Statsråd Bjørnar Skjæran [09:33:49]:</Navn> Grunnen til at vi gikk
 ut med et oppdrag – det sto vel i avisene i går – der vi ønsker
 å se nærmere på og gå dypere i hva som driver prisutviklingen i
-boligbyggingen, er fordi jeg synes alle debatter blir bedre hvis
-man har mest mulig kunnskap. Vi vet en del, men jeg ønsker å vite
-mer. Et eksempel er: Jeg har ikke innført en eneste ny regulering
-eller en eneste ny bestemmelse som driver prisene opp. Likevel øker
-prisene for å bygge boliger. Så vi skal gå dypere ned i det. </A>
-            <A Type="Minnrykk">Og så gjør vi mye. I fjor vår satte vi ned
-et hurtigarbeidende utvalg med partene som kom med 72 forslag som
-vi kunne bruke som verktøykasse for å nå disse målene. Vi har allerede
-fulgt opp halvparten av dem, og vi jobber fortsatt videre med å
-følge opp flere. For meg er det viktig at vi gjør de forenklingene
-som er mulig, slik at vi får bygd flere boliger. Det er det aller
-viktigste enkelttiltaket for å bedre boligmarkedet.</A>
+boligbyggingen, er at jeg synes alle debatter blir bedre hvis man
+har mest mulig kunnskap. Vi vet en del, men jeg ønsker å vite mer.
+Et eksempel er at jeg ikke har innført en eneste ny regulering eller
+en eneste ny bestemmelse som driver prisene opp, likevel øker prisene
+for å bygge boliger. Vi skal gå dypere ned i det. </A>
+            <A Type="Minnrykk">Vi gjør mye. I fjor vår satte vi ned et hurtigarbeidende
+utvalg med partene som kom med 72 forslag vi kunne bruke som verktøykasse
+for å nå disse målene. Vi har allerede fulgt opp halvparten av dem,
+og vi jobber fortsatt videre med å følge opp flere. For meg er det
+viktig at vi gjør de forenklingene som er mulig, slik at vi får
+bygd flere boliger. Det er det aller viktigste enkelttiltaket for
+å bedre boligmarkedet.</A>
           </Replikk>
-          <Replikk Id="i1003761">
+          <Replikk Id="i1004583">
             <A>
               <Navn personID="RUNMID">
 Rune Midtun (FrP) [09:34:57]:</Navn> Nå har vi hørt om disse 72
 tiltakene mange ganger, men vi har ikke sett helt konkret hva det
 egentlig gjelder. Fremskrittspartiet er ikke imot krav – det blir
-nevnt at vi må ha krav, men vi er imot krav som gjør at boliger
+nevnt at vi må ha krav – men vi er imot krav som gjør at boliger
 blir så dyre at folk ikke har råd til dem. Lokale særkrav skaper
 regelkaos som både forsinker prosjekter og øker kostnader. Når slike
 krav undergraver nasjonale mål om flere boliger, må staten gripe
-inn. Vi kan ikke vente lenger. Det er langt mer kostbart å ikke
+inn. Vi kan ikke vente lenger. Det er langt mer kostbart ikke å
 gjøre noe. Når barn vokser opp i midlertidige botilbud, er det ikke
 tiltakene som er dyre, det er konsekvensene av å la være. Å redusere gebyr
 og reguleringer koster nesten ingenting, men det gir store samfunnsgevinster. </A>
             <A Type="Minnrykk">Hvorfor er kostnaden for staten viktigere for
-regjeringen, enn muligheten til å eie egen bolig for vanlige folk?
+regjeringen enn muligheten til å eie egen bolig for vanlige folk?
 Mener statsråden virkelig at det er viktigere å forsvare lokale
-særkrav, enn å få folk inn i boligmarkedet?</A>
+særkrav enn å få folk inn i boligmarkedet?</A>
           </Replikk>
-          <Replikk Id="i1003763">
+          <Replikk Id="i1004585">
             <A>
               <Navn personID="BJRSKJ">
-Statsråd Bjørnar Skjæran [09:35:58]:</Navn> Jeg mener at vi gjør
-mange grep, og når det gjelder de tiltakene som vi har gjennomført,
+Statsråd Bjørnar Skjæran [09:35:58]:</Navn> Jeg mener at vi tar
+mange grep, og når det gjelder de tiltakene vi har gjennomført,
 ligger de offentlig tilgjengelig. Det er ingen bevart hemmelighet
 i et eller annet departement – alt vi har gjort, ligger offentlig
-tilgjengelig. </A>
-            <A Type="Minnrykk">Jeg har også vært tydelig på hva slags arbeid
-jeg er i gang med. Det er mange som mener at det som er mest kostnadsdrivende
+tilgjengelig. Jeg har også vært tydelig på hva slags arbeid jeg
+er i gang med. </A>
+            <A Type="Minnrykk">Det er mange som mener at det som er mest kostnadsdrivende
 i boligsektoren og for boligbyggingen, er TEK17. Jeg skal ikke bli
 flåsete, men den bærer navnet TEK17 fordi den kom i 2017. Jeg regner
 med at også representanten vet hvem som styrte landet da vi skrev
-år 2017. Vi går igjennom byggereglene nå, vi må ha regler, men vi
+år 2017. Vi går igjennom byggereglene nå. Vi må ha regler, men vi
 skal ikke ha flere regler enn vi trenger. Det forenklingsarbeidet
-som Fremskrittspartiet snakker så varmt om, er vi i gang med, og
-jeg har god tro på at det skal gi resultater. Vi er også i gang
-med en ny husleielov. Den skal Stortinget få anledning til å behandle
+Fremskrittspartiet snakker så varmt om, er vi i gang med, og jeg
+har god tro på at det skal gi resultater. Vi er også i gang med
+en ny husleielov. Den skal Stortinget få anledning til å behandle
 når vi har den ferdig. Jeg ser fram til å få de gode diskusjonene
-som kommer rundt det. Men aller viktigst er det å følge opp de beslutningene
+som kommer rundt det, men aller viktigst er det å følge opp de beslutningene
 som allerede er tatt.</A>
           </Replikk>
-          <Replikk Id="i1003765">
+          <Replikk Id="i1004587">
             <A>
               <Navn personID="MUK">
 Mudassar Kapur (H) [09:37:11]:</Navn> Aller først er det veldig
@@ -733,19 +724,19 @@ høyt opp i skyene at jeg ikke vet om representanten rekker å lande
 i løpet av resten av dagen. </A>
             <A Type="Minnrykk">Tilbake til hva denne saken egentlig handler
 om, som ikke er TEK17 eller andre tekniske forskrifter og krav:
-Dette handler om bostedsløshet. Statsråden har nå gjennom både sitt
-innlegg og tidligere i replikkrunden flere ganger pekt på at det
+Dette handler om bostedsløshet. Statsråden har nå, både gjennom sitt
+innlegg og tidligere i replikkrunden, flere ganger pekt på at det
 jobbes med dette, og at man har flere tiltak på gang. Kan statsråden
 forklare Stortinget hvorfor bostedsløsheten har blitt tredoblet
 i løpet av de siste årene?</A>
           </Replikk>
-          <Replikk Id="i1003767">
+          <Replikk Id="i1004589">
             <A>
               <Navn personID="BJRSKJ">
 Statsråd Bjørnar Skjæran [09:37:59]:</Navn> De viktigste grunnene
-til at vi har store utfordringer i boligmarkedet, er to ting: Det
-ene er at vi har bosatt 80 000 flyktninger i løpet av godt og vel
-tre år. Det andre er at vi har hatt en prisutvikling, først og fremst
+til at vi har store utfordringer i boligmarkedet, er to: Det ene
+er at vi har bosatt 80 000 flyktninger i løpet av godt og vel tre
+år. Det andre er at vi har hatt en prisutvikling, først og fremst
 som følge av dyrtiden som kom av krigen, som gjør at det er blitt
 for dyrt å bygge boliger. Derfor jobber vi langs mange spor for
 å komme i gang. Vi har satt en veldig høy ambisjon. Den skal vi
@@ -753,49 +744,49 @@ nå, med 130 000 igangsettelser innen 2030, og vi ruller ut tiltak
 på tiltak for å komme dit.</A>
             <A Type="Minnrykk">Vi bidrar også til bygging. I 2025 setter vi
 ny rekord i antall studentboliger. Vi ga tilskudd til over 3 000,
-og det er 5 000 studentboliger under bygging. Så vi gjør mye. Enhver ny
-bolig inn i boligmarkedet er en bolig bedre enn hvis den ikke hadde
+og det er 5 000 studentboliger under bygging. Vi gjør mye. Enhver
+ny bolig inn i boligmarkedet er en bolig mer enn hvis den ikke hadde
 kommet. Vi øker også Husbankens utlånsramme, med over 15 mrd. kr
 – den sto stille så lenge Høyre satt og regjerte her i landet –
 og det betyr også noe. Ting må få lov til å virke, og den nye loven,
-som nå snart har virket i to år, den kommer til å gi resultater. </A>
+som nå snart har virket i to år, kommer til å gi resultater. </A>
           </Replikk>
-          <Replikk Id="i1003769">
+          <Replikk Id="i1004591">
             <A>
               <Navn personID="ANNFRE">
 Anne Lise Gjerstad Fredlund (SV) [09:39:14]:</Navn> Det er interessant
 å høre på replikkordskiftet mellom andre representanter og statsråden.
 Statsråden bruker mye tid på å si hva regjeringen har gjort og ikke
-gjort. Jeg lurer litt på om statsråden reflektere over at det han
+gjort. Jeg lurer litt på om statsråden reflekterer over at det han
 skryter av, er ting han ikke har fått i sine egne budsjettframlegg,
 men i møte med andre budsjettpartnere som har forhandlet. Det er
 dog ikke spørsmålet mitt.</A>
             <A Type="Minnrykk">Det er 645 barnefamilier uten fast bopel –
 645. Statsråden snakker om husleieloven som kommer, og han snakker om
-130 påbegynte boliger, men det er 645 barnefamilier som er uten
-fast bopel – nå. Hva har statsråden tenkt til å gjøre med det?</A>
+130 000 påbegynte boliger, men det er 645 barnefamilier som er uten
+fast bopel – nå. Hva har statsråden tenkt å gjøre med det?</A>
           </Replikk>
-          <Replikk Id="i1003771">
+          <Replikk Id="i1004593">
             <A>
               <Navn personID="BJRSKJ">
 Statsråd Bjørnar Skjæran [09:40:11]:</Navn> Jeg må gjenta at vi
 jobber på mange områder. Jeg vil berømme representanten fra SV for
-det gode samarbeidet som vi har hatt rundt flere budsjetter, som
-har gjort at vi har klart å løfte det vi har klart å løfte. Det
-er ingen tvil om at kommunenes boligpolitiske ansvar er stort. Nå
-snur pilene for kommuneøkonomien. Mens 2024 var et kjempevanskelig
-år for veldig, veldig mange kommuner, med 0,1 pst. netto driftsresultat
-i snitt og et fall i skatteinntekter som var voldsomt, fikk vi tall
-i forrige uke som tilsier at for 2025 er vi kommet opp på 2,7 pst.,
-altså langt over det målet vi har for kommunesektoren. I lag med SV
-og andre har vi klart å legge fram et statsbudsjett som møter en
-utvikling som er veldig, veldig krevende. </A>
+det gode samarbeidet vi har hatt rundt flere budsjetter, som har
+gjort at vi har klart å løfte det vi har klart å løfte. Det er ingen
+tvil om at kommunenes boligpolitiske ansvar er stort. Nå snur pilene
+for kommuneøkonomien. Mens 2024 var et kjempevanskelig år for veldig,
+veldig mange kommuner, med 0,1 pst. netto driftsresultat i snitt
+og et fall i skatteinntekter som var voldsomt, fikk vi i forrige
+uke tall som tilsier at vi for 2025 er kommet opp på 2,7 pst., altså langt
+over det målet vi har for kommunesektoren. Sammen med SV og andre
+har vi klart å legge fram et statsbudsjett som møter en utvikling
+som er veldig, veldig krevende. </A>
             <A Type="Minnrykk">Den nye loven som ble vedtatt her i Stortinget,
 har nå snart virket i to år. Det vi jobber intenst med, er å hjelpe
 kommunene til å ta et boligsosialt ansvar. Veldig mange kommuner
 gjør det på en god måte, og andre kan bli bedre.</A>
           </Replikk>
-          <Replikk Id="i1003773">
+          <Replikk Id="i1004595">
             <A>
               <Navn personID="HANSTE">
 Hanne Beate Stenvaag (R) [09:41:29]:</Navn> Statsråden nevnte krisesentre
@@ -804,40 +795,43 @@ i innlegget sitt. Jeg har jobbet på krisesenteret i Tromsø i 12
 mange har måttet bo lenger på krisesenteret enn det som ville vært
 nødvendig, fordi man ikke finner bolig. De siste to-tre årene har
 det vært helt krise, på grunn av økende priser og ikke minst på
-grunn av Airbnb. Sånn er det mange steder, at det pressede boligmarkedet
-og økte boutgifter gjør at behovet for kommunale boliger er økende.
-Da er spørsmålet mitt: Mener statsråden at dagens ordninger for
-å gjøre det mulig for kommunene å kjøpe, bygge eller tilegne seg
-flere kommunale boliger er gode nok, særlig i en tid hvor den økonomiske
-situasjonen fortsatt er svært utfordrende i norske kommuner?</A>
+grunn av Airbnb. Sånn er det mange steder – det pressede boligmarkedet
+og økte boutgifter gjør at behovet for kommunale boliger er økende. </A>
+            <A Type="Minnrykk">Da er spørsmålet mitt: Mener statsråden at
+dagens ordninger for å gjøre det mulig for kommunene å kjøpe, bygge
+eller tilegne seg flere kommunale boliger er gode nok, særlig i en
+tid hvor den økonomiske situasjonen fortsatt er svært utfordrende
+i norske kommuner?</A>
           </Replikk>
-          <Replikk Id="i1003775">
+          <Replikk Id="i1004597">
             <A>
               <Navn personID="BJRSKJ">
 Statsråd Bjørnar Skjæran [09:42:21]:</Navn> Først vil jeg berømme
 den jobben som gjøres i norske krisesentre. Jeg skulle ønske at
 vi ikke hadde hatt behov for den jobben, men dessverre er situasjonen
-den at norske krisesentre er på jobb hver eneste dag for å hjelpe
-folk som står i sin ytterste nød. At folk kan komme seg over i en
-ordinær bolig etterpå, betyr selvfølgelig alt.</A>
+den at man i norske krisesentre er på jobb hver eneste dag for å
+hjelpe folk som står i sin ytterste nød. At folk kan komme seg over
+i en ordinær bolig etterpå, betyr selvfølgelig alt.</A>
             <A Type="Minnrykk">Det er ingen formelle hindringer for norske
 kommuner for å bygge flere utleieboliger, men det er klart at med
 den økonomiske situasjonen som var i 2024, var det vanskelig å prioritere.
-Jeg har stor tro på at med den utviklingen i kommuneøkonomien som
-vi ser nå, der pilene har snudd, vil flere kommuner se et handlingsrom
+Jeg har stor tro på at med den utviklingen i kommuneøkonomien vi
+ser nå, der pilene har snudd, vil flere kommuner se et handlingsrom
 for også å gjøre mer på dette viktige området.</A>
-            <A Type="Minnrykk">Alle de andre tingene jeg jobber med – som
-skal bidra til at prisene for å bygge boliger ikke øker, og at vi
-får ned tidsbruken og ressursbruken i plan- og byggesaksbehandlinger
-– blir viktig også på dette område. Men det foreligger ingen formelle
-hindringer for kommunene for å bygge flere boliger.</A>
+            <A Type="Minnrykk">Alt det andre jeg jobber med – som skal bidra
+til at prisene for å bygge boliger ikke øker, og at vi får ned tidsbruken og
+ressursbruken i plan- og byggesaksbehandlinger – blir viktig også
+på dette området, men det foreligger ingen formelle hindringer for
+kommunene for å bygge flere boliger.</A>
           </Replikk>
           <Presinnlegg>
             <A>
               <Navn>Presidenten [09:43:23]:</Navn> Replikkordskiftet
-avsluttet.</A>
+er avsluttet.</A>
+            <A Type="Minnrykk">De talere som heretter får ordet, har også
+en taletid på inntil 3 minutter.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1003777">
+          <Hovedinnlegg Id="i1004599">
             <A>
               <Navn personID="HNJ">
 Helge André Njåstad (FrP) [09:43:34]:</Navn> Det var Høgre som fekk
@@ -851,126 +845,127 @@ på. </A>
 er opptekne av bustadpolitikk, me er opptekne av at folk skal ha
 eit tak over hovudet, og me er opptekne av at alle dei barnefamiliane som
 i dag ikkje har tak over hovudet, skal få det. Hadde me trudd at
-å be regjeringa lage ein bustadsosial strategi hadde gjort at desse
+å be regjeringa laga ein bustadsosial strategi hadde gjort at desse
 hadde fått tak over hovudet, hadde me røysta for, men me trur at
 oppskrifta for å gje dei tak over hovudet er handlekraft, å få opp
 bustadbygginga, å bruke dei verktøya som finst, og setja kommunane
 i stand til å bruka verktøya til Husbanken. Eg trur ingen vil få
-seg ein bustad av ein bustadsosial strategi som regjeringa ikkje
-ønskjer å laga sjølv. Det vil berre vere ei kvilepute, der ein ventar
+seg ein bustad av ein bustadsosial strategi regjeringa sjølv ikkje
+ønskjer å laga. Det vil berre vera ei kvilepute, der ein ventar
 på noko som vil koma. Me treng handlekraft no, og me treng ein meir
 offensiv politikk for å få meir bustadbygging. Ikkje minst treng
-me å sørgja for at folk har råd til å bu i bustadene sine. Me skal
-seinare i dag ha ei sak om eit avløpsdirektiv som vil påføra norske
-hushald fleire titusen kroner meir i buutgifter. Me har ei regjering
-som er glad i eigedomsskatt, som er glad i formuesskatt på bustad,
-som har ingen problem med å innføra avgifter, og som i tillegg lèt
-hushalda ha andre dyre utgifter. Dei har ein matmoms dei ikkje vil
-setja ned, bensinavgiftene vil dei ikkje setja ned, og dette gjer
-at det er dyrt for folk å bu. Det er noko som me er opptekne av,
-og som Framstegspartiet ønskjer å gjera noko med, slik at det skal
-vera billegare for folk å bu i bustadene sine, for me ser på det
-som ein bustad og ikkje som eit skatteobjekt, som Arbeidarpartiet
+me å sørgja for at folk har råd til å bu i bustadene sine. </A>
+            <A Type="Minnrykk">Me skal seinare i dag ha ei sak om eit avløpsdirektiv
+som vil påføra norske hushald fleire titusen kroner meir i buutgifter.
+Me har ei regjering som er glad i eigedomsskatt, som er glad i formuesskatt
+på bustad, som ikkje har nokon problem med å innføra avgifter, og
+som i tillegg lèt hushalda ha andre høge utgifter. Dei har ein matmoms
+dei ikkje vil setja ned, bensinavgiftene vil dei ikkje setja ned,
+og dette gjer at det er dyrt for folk å bu. Det er noko me er opptekne
+av, og som Framstegspartiet ønskjer å gjera noko med, slik at det
+skal vera billegare for folk å bu i bustadene sine, for me ser på
+det som ein bustad og ikkje som eit skatteobjekt, som Arbeidarpartiet
 gjer.</A>
             <A Type="Minnrykk">Me må byggja fleire bustader, det seier seg
 sjølv. Me kan ikkje ha eit system der me har så mange reguleringar,
 krav, forventningar, motsegner og innvendingar frå statsforvaltarar og
-fylkeskommunar, noko som gjer at kommunane føler seg heilt matte
-når dei ønskjer å byggja fleire bustader. Det er jo slik det har
-vorte, at norske kommunar føler at staten seier nei til alle initiativ
-som kommunane tek. Der er hovudkjernen av problemet, at kommunane
-ikkje får lov til å regulera nok bustader og byggja nok bustader.
-På den måten har me ikkje nok bustader til å dekkja det behovet
-som er i landet vårt. Difor vil Framstegspartiet ha handlekraft.
-Me vil ha konkrete tiltak for å få ned planleggingstida og for å
-få ned byggjekostnadene, og me trur ikkje at ein bustadsosial strategi
-vil løysa nokon av dei problema. Difor røyster me imot i dag. Eg
-trur Høgre heller skal fokusera på å røysta for forslaga til Framstegspartiet for
+fylkeskommunar at kommunane føler seg heilt matte når dei ønskjer
+å byggja fleire bustader. Det er jo slik det har vorte – norske
+kommunar føler at staten seier nei til alle initiativ som kommunane
+tek. Der er hovudkjernen av problemet at kommunane ikkje får lov
+til å regulera nok bustader og byggja nok bustader. På den måten
+har me ikkje nok bustader til å dekkja det behovet som er i landet
+vårt. Difor vil Framstegspartiet ha handlekraft. Me vil ha konkrete
+tiltak for å få ned planleggingstida og for å få ned byggjekostnadene,
+og me trur ikkje at ein bustadsosial strategi vil løysa nokon av
+dei problema. Difor røyster me imot i dag. Eg trur Høgre heller
+skal fokusera på å røysta for forslaga til Framstegspartiet for
 å forenkla bustadbygginga, meir enn å gjera narr av at me ikkje
 vil laga ein strategi. Bustadproblemet i Noreg er eit større problem
-enn at ein treng ein strategi, ein treng handlekraft.</A>
+enn at ein treng ein strategi – ein treng handlekraft.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003779">
+          <Hovedinnlegg Id="i1004601">
             <A>
               <Navn personID="ERLBE1">
 Erlend Svardal Bøe (H) [09:46:45]:</Navn> Statsråden snakket om
-verktøykasse, at vi må gå dypere ned i det og massevis av tiltak
-regjeringen har satt i gang. Jeg synes det er veldig mye politikerprat.
-Det hjelper ikke å stå her på talerstolen og framstå som en handlingens
-mann, når resultatene uteblir. </A>
-            <A Type="Minnrykk">Måten statsråden også snakker om da vi i Høyre
-satt i regjering på, er som å høre en person som aldri blir ferdig
-med eksen sin. En er kun opptatt av å snakke om hva Høyre gjorde i
-regjering, men sannheten er at Arbeiderpartiet har styrt landet
-de siste fem årene. Hva er det vi ser? Vi ser en tredobling i antall
+verktøykasse, om at vi må gå dypere ned i det og om massevis av
+tiltak regjeringen har satt i gang. Jeg synes det er veldig mye
+politikerprat. Det hjelper ikke å stå her på talerstolen og framstå
+som en handlingens mann, når resultatene uteblir. </A>
+            <A Type="Minnrykk">Når statsråden snakker om da vi i Høyre satt
+i regjering, er det som å høre på en person som aldri blir ferdig
+med eksen sin. En er kun opptatt av å snakke om hva Høyre gjorde
+i regjering, men sannheten er at Arbeiderpartiet har styrt landet de
+siste fem årene. Hva er det vi ser? Vi ser en tredobling i antall
 bostedsløse. Vi ser at det er enda flere familier som er nødt til
-å benytte seg av nødboliger. Å stå her og snakke om alt en gjør,
-og alt som har vært før, men ikke se framover, er det som er hovedproblemet
-til Arbeiderpartiet. En evner ikke å ta ansvar for den situasjonen
-folk opplever med boligmarkedet og boligpolitikken. </A>
-            <A Type="Minnrykk">Nå har vi en boligkrise på begge fronter. Vi
-har en boligkrise i det ordinære boligmarkedet, som gjør at folk
-ikke har råd og mulighet til å kjøpe boliger, fordi det bygges for
-få boliger. Når vi har en boligkrise i det ordinære boligmarkedet, går
-det også utover de vanskeligstilte menneskene innen rus, psykisk
-helse og andre grupper. Det er bare å ta signalene fra Kirkens Bymisjon
-på alvor – folk som ser dette i hverdagen sin, folk som er ute på
-gulvet og ser situasjonen, når det blir flere bostedsløse og nødboliger.
-Da må vi se framover.</A>
+å benytte seg av nødboliger. Hovedproblemet til Arbeiderpartiet
+er at en står her og snakker om alt en gjør, og alt som har vært
+før, men en ser ikke framover. En evner ikke å ta ansvar for den
+situasjonen folk opplever med boligmarkedet og boligpolitikken. </A>
+            <A Type="Minnrykk">Nå har vi en boligkrise på to fronter. Vi har
+en boligkrise i det ordinære boligmarkedet, som gjør at folk ikke
+har råd og mulighet til å kjøpe boliger, fordi det bygges for få
+boliger. Når vi har en boligkrise i det ordinære boligmarkedet,
+går det også ut over de vanskeligstilte menneskene med utfordringer med
+rus og psykisk helse – og andre grupper. Det er bare å ta signalene
+fra Kirkens Bymisjon på alvor – folk som ser dette i hverdagen sin,
+folk som er ute på gulvet og ser situasjonen når det blir flere
+bostedsløse og nødboliger. Da må vi se framover.</A>
             <A Type="Minnrykk">Jeg bor selv i Tromsø. Jeg har vært på besøk
 i mange av disse kommunale boligene og sett hvordan det ser ut.
-Jeg synes det er en skam hvilket tilbud vi tilbyr noen av disse
-menneskene som er nederst på rangstigen i samfunnet vårt, som er vanskeligstilte.
-Det blir ikke noe bedre når Arbeiderpartiet i regjering kutter tilskuddet
-for utleieboliger for vanskeligstilte i kommunene. Det har gjort
-det enda vanskeligere for kommunene å bygge disse boligene vi har
-behov for.</A>
+Jeg synes det vi tilbyr noen av de menneskene som er nederst på rangstigen
+i samfunnet vårt, som er vanskeligstilte, er en skam. Det blir ikke
+noe bedre når Arbeiderpartiet i regjering kutter tilskuddet for
+utleieboliger for vanskeligstilte i kommunene. Det har gjort det
+enda vanskeligere for kommunene å bygge de boligene vi har behov
+for.</A>
             <A Type="Minnrykk">En må gjerne stå her og latterliggjøre at Høyre
 bare går inn for en boligsosial strategi, men akkurat nå er det
 faktisk bedre at vi har en boligstrategi enn at vi ikke har noen
 ting. Den boligstrategien som ble lagt fram da Høyre satt i regjering,
 som jeg er veldig stolt over, hadde konkrete tiltak. Den sørget
 for at vi bygde opp Husbanken, den sørget for at vi hadde mer leie-til-eie,
-den sørget for at en faktisk gjorde noe med disse tingene. En må
-gjerne stå her og framstille seg selv som handlingens mann, men
-det er resultatene som teller. </A>
-            <A Type="Minnrykk">Vi må huske på det som har blitt sagt fra flere
+den sørget for at en faktisk gjorde noe med dette. En må gjerne
+stå her og framstille seg selv som en handlingens mann, men det
+er resultatene som teller. </A>
+            <A Type="Minnrykk">Vi må huske det som har blitt sagt fra flere
 her: Dette er virkelige mennesker som står i en vanskelig situasjon,
 fordi de ikke har fått tak i bolig og har det vanskelig allerede.
 Vær så snill – vi må se framover, sørge for at vi gjør noe med dette, sørge
 for at flere vanskeligstilte faktisk får seg en bolig og får muligheten
 til å leve et verdig liv. Det er det denne saken handler om.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003781">
+          <Hovedinnlegg Id="i1004603">
             <A>
               <Navn personID="MUK">
 Mudassar Kapur (H) [09:49:43]:</Navn> Takk til representanten Svardal
 Bøe for et veldig, veldig godt innlegg. Man må jo få skryt fra sine
 egne når det ikke er så mye støtte å hente fra resten av salen i
 dag, særlig Arbeiderpartiet og FrP, som framstiller seg som handlingens
-menn, men samtidig i møte med et helt konkret forslag bare står
+menn, men som i møte med et helt konkret forslag samtidig bare står
 og mumler fram selvfølgeligheter.</A>
             <A Type="Minnrykk">Hvis alt hadde vært så såre vel, hadde vi ikke
 hatt tregangeren i økning av antall bostedsløse. Hvis alt var så
 såre vel, hadde vi ikke hatt en regjering som ligger an til å gjøre
 tidenes mageplask når det gjelder sin egen målsetting, som en gang
-i tiden ble solgt ut som å bygge 130 000 boliger, men etter hvert
-har blitt reversert til å være å utstede 130 000 igangsettingstillatelser.
-Som kjent er det ingen som flytter inn i en tillatelse, de flytter
+i tiden ble solgt som at man skulle bygge 130 000 boliger, men etter
+hvert har blitt reversert til at man skal utstede 130 000 igangsettingstillatelser.
+Som kjent er det ingen som flytter inn i en tillatelse, man flytter
 bare inn i bygde boliger.</A>
             <A Type="Minnrykk">Dette er faktisk snakk om to forskjellige debatter.
 Den ene er den om teknisk forskrift, plan- og bygningsloven, forenkling
-av krav, få til en ordentlig rengjøring av alt som har med byråkrati
+av krav – få til en ordentlig rengjøring av alt som har med byråkrati
 og fordyrende prosesser å gjøre. Der har Høyre fremmet en rekke
 forslag. I motsetning til andre partier greier vi også å tenke på
-et par av de andre pilarene som bygger oppunder boligpolitikken
-i Norge, bl.a. den sosiale boligpolitikken. Dette handler om å legge
+et par av de andre pilarene som bygger opp under boligpolitikken
+i Norge, bl.a. den sosiale boligpolitikken. Det handler om å legge
 til rette for leie-til-eie-ordninger, det handler om å sørge for
 å være et av de partiene – som Høyre nå har vært i Stortinget, sammen
-med andre – som er garantisten for at kommunene kunne fått tilskudd
-til utleieboliger. Det har regjeringen kuttet og velger ikke å gjeninnføre, selv
-om Stortinget har sagt at de skal det. Jeg synes regjeringen burde
-gå litt i seg selv på hvordan de ikke følger opp Stortingets vedtak.</A>
+med andre – som er garantister for at kommunene kunne få tilskudd
+til utleieboliger. Det har regjeringen kuttet, og de velger ikke
+å gjeninnføre det, selv om Stortinget har sagt at de skal det. Jeg
+synes regjeringen burde gå litt i seg selv når det gjelder hvordan
+de ikke følger opp Stortingets vedtak.</A>
             <A Type="Minnrykk">Jeg håper at dette først og fremst bærer preg
 av at man bare ikke vil, for noen ganger er det sånn at når man
 først har bestemt seg for å si nei, er det litt flaut å snu. Det
@@ -980,17 +975,17 @@ håper jeg at man ved senere anledninger ser verdien av å stille opp
 for de aller svakeste i samfunnet, de som ikke har de vanlige veiene
 inn til boligmarkedet. </A>
             <A Type="Minnrykk">Vi skal sørge for at byggekostnadene går ned
-og byggetakten går opp, men vi må også sørge for den boligsosiale strategien.
+og byggetakten opp, men vi må også sørge for den boligsosiale strategien.
 Dette er et alvorlig tema, og det er egentlig litt synd at ikke
-flere tar dette innover seg. Vi kan sikkert lese fine rapporter
+flere tar dette inn over seg. Vi kan sikkert lese fine rapporter
 om boligmeldinger, og statsråden har sett på det ene og det andre.
 Det var nesten litt morsomt å høre at statsråden mente han ikke
 har innført noen strenge krav, men likevel går boligprisene opp.
-Det heter marked, statsråd. Det handler om tilbud og etterspørsel,
-og statsråden har ikke bidratt til at tilbudet har blitt bedre.
-Dette er ganske enkel matematikk.</A>
+Det heter marked. Det handler om tilbud og etterspørsel, og statsråden
+har ikke bidratt til at tilbudet har blitt bedre. Dette er ganske
+enkel matematikk.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003783">
+          <Hovedinnlegg Id="i1004605">
             <A>
               <Navn personID="ANNFRE">
 Anne Lise Gjerstad Fredlund (SV) [09:52:55]:</Navn> Det er ikke
@@ -1008,7 +1003,7 @@ stand til å ta vare på dem som trenger bolig og trygghet i veggene. Det
 handler ikke om TEK17 eller om hvor mange igangsatte boliger man
 skal ha innen 2030. En igangsatt bolig er det ikke mulig å bo i,
 men en bygd bolig, der det er vann og avløp og mulighet til å ha
-et eget soverom, er det mulig å bo i. Og den kan ikke komme i 2030
+et eget soverom, er det mulig å bo i. Den kan ikke komme i 2030
 for dem som ikke har et sted å bo nå. </A>
             <A Type="Minnrykk">Jeg sa i mitt første innlegg at den utfordringen
 vi står overfor nå, ikke er naturkrefter. Det er et resultat av
@@ -1020,13 +1015,13 @@ behov for tak over hodet og trygghet i veggene framfor markedslogikk,
 som Arbeiderpartiet og Fremskrittspartiet åpenbart synes er viktigere
 å prioritere. </A>
             <A Type="Minnrykk">Det handler om det mest grunnleggende av alt:
-muligheten til å ha et trygt sted å bo. Da er det slik at hvis du
-skal vite hvor du vil, må du ha en strategi som gjør noe mer enn
-bare å peke på gamle stortingsvedtak. Her mener mange i dette stortinget
+muligheten til å ha et trygt sted å bo. Da er det slik at hvis man
+skal vite hvor man vil, må man ha en strategi som gjør noe mer enn bare
+å peke på gamle stortingsvedtak. Her mener mange i dette stortinget
 at det regjeringen la fram, og som man var enige om, ikke lenger
 er godt nok. </A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003785">
+          <Hovedinnlegg Id="i1004607">
             <A>
               <Navn personID="RUNMID">
 Rune Midtun (FrP) [09:56:02]:</Navn> Jeg registrerer at Høyre reagerer
@@ -1047,9 +1042,9 @@ konkrete tiltak, men det ville man ikke være med på. Da blir det nok
 en plan, mer byråkrati og mer av alt man er imot, egentlig, så man
 slår her i hjel egne visjoner, og det er trist. Jeg håper at man
 kan revurdere eller komme med et nytt forslag med noe mer konkret,
-som innebærer at det fort skjer noe.</A>
+som innebærer at det skjer noe – fort.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003787">
+          <Hovedinnlegg Id="i1004609">
             <A>
               <Navn personID="SIGRAF">
 Sigurd Kvammen Rafaelsen (A) [09:57:53]:</Navn> Argumentene blir
@@ -1057,14 +1052,14 @@ ikke bedre av å skru opp volumet. Det ble snakket om Husbanken og
 hvor flott det var med Husbanken under Høyres periode, men nå er
 altså rammene nesten doblet.</A>
             <A Type="Minnrykk">Man har satt i gang distriktspolitiske virkemidler
-som jobber med kommunene for å finne gode løsninger for hvordan
-man kan få utløst mer boligbygging i distriktene. Selv bor jeg i
-en bygdevekstkommune, Lebesby. Der får man nå 625 000 kr i støtte
-for å bygge bolig. Det er en dobling der også, gjennom bygdevekstarbeidet,
-og kommunene får se på modeller for å lykkes selv. Også i hjerteregionen
-i bygdeveksten jobber man med å se på tiltak for hvordan man kan
-få flere boliger. Det er også leid ut boliger til folk som vil flytte nordover,
-og man har prøveprosjekter i små distriktskommuner.</A>
+for å jobbe med kommunene for å finne gode løsninger for hvordan man
+kan få utløst mer boligbygging i distriktene. Selv bor jeg i en
+bygdevekstkommune, Lebesby. Der får man nå 625 000 kr i støtte for
+å bygge bolig. Det er en dobling der også, gjennom bygdevekstarbeidet,
+og kommunene får se på modeller for å lykkes selv. Også i Hjerteregionen,
+i bygdevekstavtalen der, jobber man med å se på tiltak for hvordan
+man kan få flere boliger. Det er også leid ut boliger til folk som
+vil flytte nordover, og man har prøveprosjekter i små distriktskommuner.</A>
             <A Type="Minnrykk">Det gjøres mange grep. Vi har styrket bostøtten,
 vi har styrket Husbanken, og vi skal gjøre mer. Som stortingsrepresentanten
 Gjerstad Fredlund sier, er det nettopp gjennom samarbeid vi får
@@ -1072,101 +1067,99 @@ det til. Vi ser fram til et fortsatt samarbeid på venstresiden i
 norsk politikk, for vi vet at vi faktisk prioriterer folk først,
 og ikke kroner og øre til dem som har mest.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003789">
+          <Hovedinnlegg Id="i1004611">
             <A>
               <Navn personID="SOLVES">
 Solveig Vestenfor (A) [09:59:31]:</Navn> Det er iallfall ingen tvil
-om at denne salen samla tek inn over seg det alvoret som me står
-i. Det er det viktig å få understreka. Og at det er eit stort engasjement,
+om at denne salen samla tek inn over seg det alvoret me står i.
+Det er det viktig å få understreka. At det er eit stort engasjement,
 også kjenslemessig, er det ingen tvil om. </A>
             <A Type="Minnrykk">Strategi er éin ting, men det løyser i seg
 sjølv ikkje problemet. Alle er bekymra. Det høyrest ut som at enkelte
 her frå talarstolen påstår at me ikkje er bekymra. </A>
-            <A Type="Minnrykk">Så er det også snakk om dette med TEK-krav.
-Det er snakk om prisar på materiale, det er snakk om kommuneøkonomi,
-og så er det nokon som kritiserer at ein tek det opp her – jo, men
-alt heng saman med alt. Det er det ei som har sagt før meg. Det
-er faktisk slik at me må sjå alt i samanheng, og eg trur at kanskje
-det viktigaste grepet her er det me har starta med. Me går no igjennom
-og forenklar lovverket, f.eks. dette med leie-til-eie-modellen,
-dette med burettslagsmodellen, at det går an å regulera. Me har
-starta det, og det er meir som skal gjerast. </A>
-            <A Type="Minnrykk">Så trur eg at kommunen vil spela ei kjempeviktig
-rolle – kanskje endå meir enn det som er vorte gjort til no – og
-då må me hjelpa dei til å gjera dei gode, kloke vala, og til å verta
-klår over kva slags moglegheiter dei har. </A>
-            <A Type="Minnrykk">Når det er sagt: Eg har også lest med interesse
-alle forslag frå SV og FrP og frå alle andre som vert ramsa opp
-i dette dokumentet som me no har framfor oss. Det er jo ikkje slik
-at ein ikkje kan ta med seg gode forslag og innspel utan at du må laga
-ein strategi for det. Samarbeidet no framover må me hegna om, fordi
-dette er viktigare enn at det skal verta ein politisk polemikk på
-det. </A>
+            <A Type="Minnrykk">Det er også snakk om TEK-krav. Det er snakk
+om prisar på materiale, det er snakk om kommuneøkonomi, og så er
+det nokon som kritiserer at ein tek det opp her – men alt heng saman
+med alt. Det er det ei som har sagt før meg. Det er faktisk slik
+at me må sjå alt i samanheng, og eg trur at kanskje det viktigaste
+grepet her er det me har starta med. Me går no igjennom og forenklar
+lovverket, f.eks. når det gjeld leige-til-eige-modellen og burettslagsmodellen,
+at det går an å regulera. Me har starta, og det er meir som skal
+gjerast. </A>
+            <A Type="Minnrykk">Eg trur at kommunane vil spela ei kjempeviktig
+rolle – kanskje endå meir enn dei har gjort til no – og då må me
+hjelpa dei til å gjera dei gode, kloke vala og til å verta klar
+over kva slags moglegheiter dei har. </A>
+            <A Type="Minnrykk">Når det er sagt: Eg har også med interesse
+lese alle forslag frå SV og FrP og alle andre som vert ramsa opp
+i det dokumentet me no har framfor oss. Det er jo ikkje slik at
+ein ikkje kan ta med seg gode forslag og innspel utan at ein må laga
+ein strategi for det. Samarbeidet no framover må me hegna om, for
+dette er viktigare enn at det skal verta ein politisk polemikk her. </A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003791">
+          <Hovedinnlegg Id="i1004613">
             <A>
               <Navn personID="ERLBE1">
 Erlend Svardal Bøe (H) [10:01:56]:</Navn> Jeg synes det blir litt
-forutsigbart fra Arbeiderpartiet når en snakker om alt det som en
-gjør, og hva det sosialdemokratiske står for. Det er klart, en må
-gjerne snakke om alle disse tiltakene som en gjør, men det må være
-en sammenheng mellom den handlingen som en gjør, og de resultatene
-som en får. Det er jo det som er poenget her, at en opplever at
-de tiltakene som nå settes i gang, ikke har resultater, for en er
-ikke nok «hands on» på faktisk å gjøre noe med disse tingene. </A>
+forutsigbart fra Arbeiderpartiet når en snakker om alt det en gjør,
+og hva det sosialdemokratiske står for. En må gjerne snakke om alle
+de tiltakene en gjør, men det må være en sammenheng mellom den handlingen
+en gjør, og de resultatene en får. Det er jo det som er poenget
+her – en opplever at de tiltakene som nå settes i gang, ikke har
+resultater, for en er ikke nok «hands on» på faktisk å gjøre noe
+med dette. </A>
             <A Type="Minnrykk">Det er viktig å ta ansvar for den situasjonen
 en er i, for det er en boligkrise i landet vårt, både på det ordinære
 boligmarkedet og på det boligsosiale markedet. En har flere som
 er bostedsløse, og det er flere som bor i nødbolig. Vi kan diskutere
-her alle mulige boligsosiale tiltak, for det er viktig å gjøre i
-selv, men jeg tror at en av grunnene til at det har blir flere bostedsløse,
-er knyttet til hva vi gjør i helsetjenesten. For eksempel når regjeringen
+alle mulige boligsosiale tiltak her, det er viktig å gjøre i seg
+selv, men jeg tror at en av grunnene til at det har blitt flere bostedsløse,
+er knyttet til hva vi gjør i helsetjenesten. Når regjeringen f.eks.
 har sørget for at en har mindre kapasitet innen psykisk helsevern
 og rusbehandling, som gjør at flere ikke får den hjelpen de trenger,
-så har det konsekvenser på en del andre områder i samfunnet vårt,
-f.eks. nå når det ble kuttet i behandlingstiden knyttet til det.
-Disse tingene henger sammen – tilgangen på hvem som blir bostedsløse,
-og hva slags tilbud og hjelp en får ellers, f.eks. i helsetjenesten
-vår. </A>
-            <A Type="Minnrykk">Så er det sånn at Høyre har løftet Husbanken,
-og det har vi tatt opp her i debatten, både det at vi vil ha tilbake
-det utleietilskuddet for boliger for vanskeligstilte i kommunene, som
-Arbeiderpartiet har kuttet, og at vi har foreslått i våre alternative
-budsjetter at en f.eks. skal ha en egen ordning der Husbanken matcher
-egenkapitalen til dem som har lavinntekt. Dette er nettopp tiltak
-for å styrke Husbankens rolle inn mot dem som er vanskeligstilte,
-de som har vanskeligheter med å komme seg inn på boligmarkedet. </A>
+har det konsekvenser på en del andre områder i samfunnet vårt, f.eks.
+nå når det ble kuttet i behandlingstiden. Dette henger sammen –
+hvem som blir bostedsløse, og hva slags tilbud og hjelp en får ellers,
+f.eks. i helsetjenesten. </A>
+            <A Type="Minnrykk">Høyre har løftet Husbanken, og det har vi tatt
+opp her i debatten, både det at vi vil ha tilbake utleietilskuddet
+for boliger for vanskeligstilte i kommunene, som Arbeiderpartiet har
+kuttet, og at vi i våre alternative budsjetter har foreslått at en
+f.eks. skal ha en egen ordning der Husbanken matcher egenkapitalen
+til dem som har lav inntekt. Dette er nettopp tiltak for å styrke
+Husbankens rolle overfor dem som er vanskeligstilte, de som har
+vanskeligheter med å komme seg inn på boligmarkedet. </A>
             <A Type="Minnrykk">Det er heller ingen tvil om at en må få fortgang
-i forenklinger av regelverket knyttet til boligbygging. Ta f.eks. Nord-Norge,
-min landsdel, som nå opplever sin laveste boligbygging de siste
-ti årene. Det bygges veldig, veldig lite boliger. Det er klart at
-det også har konsekvenser, for det er et marked, det er tilbud og
-etterspørsel, og når en ikke har det tilbudet en trenger i det boligmarkedet,
-gjør det at prisene blir høyere. En skviser ut de som er vanskeligstilte
-på boligmarkedet. Så både boligsosiale tiltak, på den ene siden,
-er viktig, men det er også viktig med tiltak i det ordinære boligmarkedet
-knyttet til dette. </A>
-            <A Type="Minnrykk">Men jeg blir bare litt satt ut når en bruker
-tiden på å snakke om alle mulige tiltak, snakke om ting som skjedde
-for fem–seks år siden. Bruk heller tiden på å se framover. Hva skal
+i forenklinger av regelverket knyttet til boligbygging. For eksempel opplever
+Nord-Norge, min landsdel, nå, de siste ti årene, sin laveste boligbygging.
+Det bygges veldig, veldig lite boliger. Det er klart at det også
+har konsekvenser, for det er et marked, det er tilbud og etterspørsel,
+og når en ikke har det tilbudet en trenger i det boligmarkedet,
+gjør det at prisene blir høyere. En skviser de som er vanskeligstilte,
+ut av boligmarkedet. Boligsosiale tiltak, på den ene siden, er viktig,
+men det er også viktig med tiltak i det ordinære boligmarkedet knyttet
+til dette. </A>
+            <A Type="Minnrykk">Jeg blir bare litt satt ut når en bruker tiden
+på å snakke om alle mulige tiltak, snakke om ting som skjedde for
+fem–seks år siden. Bruk heller tiden på å se framover. Hva skal
 vi gjøre for at færre skal bli bostedsløse? Hva skal vi gjøre for
-å få ned andelen nødboliger? Det er det vi må diskutere her. Så kan
-en godt være enig eller uenig i boligstrategi. Jeg mener det viktig,
-fordi det setter en retning, og det er en tydelig retning knyttet
-til hva slags tiltak vi skal ha, eller hva slags tiltak vi ikke
-skal ha. </A>
+å få ned andelen i nødboliger? Det er det vi må diskutere her. En
+kan godt være enig eller uenig i boligstrategi. Jeg mener det viktig,
+for det setter en retning, og det er en tydelig retning knyttet
+til hva slags tiltak vi skal ha, eller hva slags tiltak vi ikke skal
+ha. </A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003793">
+          <Hovedinnlegg Id="i1004615">
             <A>
               <Navn personID="ANNFRE">
 Anne Lise Gjerstad Fredlund (SV) [10:05:06]:</Navn> Jeg fikk et
 underlig behov for å kommentere noen av innleggene som har vært
 så langt. </A>
             <A Type="Minnrykk">Til representanten Midtun må jeg bare si at
-det foreligger ingen merknader fra FrP i denne saken, og det er
-dermed heller ingen forslag å ta stilling til. Det er en liten epistel
-i innstillingen fra komiteen, og det er ikke noe åtte forslag som
-ligger der. </A>
+det ikke foreligger noen merknader fra FrP i denne saken, og det
+er dermed heller ingen forslag å ta stilling til. Det er en liten
+epistel i innstillingen fra komiteen, og det ligger ikke åtte forslag
+der. </A>
             <A Type="Minnrykk">Til representanten Vestenfor: Det er veldig
 fint at alle partienes merknader blir lest, men det er bare ett
 forslag i denne saken, og det ene forslaget handler om hvorvidt
@@ -1176,44 +1169,45 @@ Det er fordi at hvis man vil et sted, må man formulere hvor det
 stedet er, i stedet for å peke på tidligere stortingsmeldinger,
 som helt åpenbart ikke hjelper, fordi vi har en økning i antall
 bostedsløse. </A>
-            <A Type="Minnrykk">Så her er det bare ett forslag som foreligger
-i saken, fra et mindretall, riktignok, men det er ikke åtte forslag
+            <A Type="Minnrykk">Her er det bare ett forslag som foreligger
+i saken – fra et mindretall, riktignok. Det er ikke åtte forslag
 fra FrP, og det er ikke mange forslag fra andre partier. Det er
 ett forslag og én tilråding. </A>
+            <A Type="Minnrykk" />
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003795">
+          <Hovedinnlegg Id="i1004617">
             <A>
-              <Navn personID="BFA">
-Bengt Fasteraune (Sp) [10:07:02]:</Navn> Vi snakker her om de aller
-vanskeligst stilte i samfunnet vårt. Vi er enige i salen om at vi
+              <Navn personID="BFA">B
+engt Fasteraune (Sp) [10:07:02]:</Navn> Vi snakker her om de aller
+vanskeligst stilte i samfunnet vårt. Vi er i salen enige om at vi
 har store utfordringer når det gjelder å bygge boliger. Vi vet at
-det er et marked som sørger for at vi har kommet i denne situasjonen.
-Vi vet også at det er en del føringer som kan gjøres fra Stortinget,
+det er et marked som har sørget for at vi har kommet i denne situasjonen.
+Vi vet også at det er en del føringer som kan legges fra Stortinget,
 som vi ikke har fått på plass. Man er i ferd med å gjøre endringer
-som peker ut retninger med tanke på både bruk av husbank og dette
-med å bevilge penger, men fortsatt er dette noe som står i stampe.</A>
-            <A Type="Minnrykk">Statsråden poengterte at man hadde lagt fram
-en boligmelding. Det tror jeg er veldig klokt. Jeg tror det er veldig klokt
-å lage en boligmelding når man skal beskrive et såpass stort spekter
+som peker ut retninger med tanke på både bruk av Husbanken og det
+å bevilge penger, men fortsatt er dette noe som står i stampe.</A>
+            <A Type="Minnrykk">Statsråden poengterte at man har lagt fram
+en boligmelding. Det tror jeg er veldig klokt. Jeg tror det er veldig
+klokt å lage en boligmelding når man skal beskrive et såpass stort spekter
 som man har innenfor akkurat dette boligmarkedet. I en boligmelding
 peker man på en del utfordringer man skal jobbe med. Jeg er ikke
 i tvil om at denne regjeringen jobber med å løse de utfordringene,
 men jeg har nok en litt annen oppfatning av at man ikke trenger
 å velge om man lager en boligmelding eller om man lager en strategi.
-I min verden er faktisk strategi et verktøy man kan bruke politisk
+I min verden er faktisk en strategi et verktøy man kan bruke politisk
 for å ivareta det som er viktigst når ressursene er knappe, og når
 utfordringene er store. </A>
             <A Type="Minnrykk">Derfor stemmer vi i Senterpartiet for dette
-ene forslaget. Vi mener at når situasjonen er vanskelig, må vi prioritere
-de vanskeligstilte først. Det er det som skal gjøres i dette strategiarbeidet,
-slik vi oppfatter det. Dette er etter min oppfatning ikke partipolitikk.
-Når vi klarer å samle oss såpass bredt i en blomstrende bukett –
-for det er egentlig det som står bak dette forslaget – er det et
-signal til regjeringen om at vi ønsker at dette skal prioriteres.
-Om man så da ikke stemmer for det, er det i hvert fall for meg svært
-viktig at man tar disse signalene – i en debatt som går på overtid,
-som folk trodde skulle ta rimelig kort tid, fordi man mener det
-er viktig.</A>
+ene forslaget, for vi mener at når situasjonen er vanskelig, må
+vi prioritere de vanskeligstilte først. Det er det som skal gjøres
+i dette strategiarbeidet, slik vi oppfatter det. Dette er etter
+min oppfatning ikke partipolitikk. Når vi klarer å samle oss såpass
+bredt – i en blomstrende bukett, for det er egentlig det som står
+bak dette forslaget – er det et signal til regjeringen om at vi
+ønsker at dette skal prioriteres. Om man så ikke stemmer for det,
+er det i hvert fall for meg svært viktig at man tar disse signalene –
+i en debatt som går på overtid, som folk trodde skulle ta rimelig
+kort tid, fordi man mener det er viktig.</A>
           </Hovedinnlegg>
           <Presinnlegg>
             <A>
@@ -1221,28 +1215,28 @@ er viktig.</A>
 Rune Midtun har hatt ordet to ganger tidligere i debatten og får
 ordet til en kort merknad, begrenset til 1 minutt.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1003797">
+          <Hovedinnlegg Id="i1004619">
             <A>
               <Navn personID="RUNMID">
 Rune Midtun (FrP) [10:09:55]:</Navn> Det er trist at vi må ta en
-debatt om løgn eller ikke løgn. Det er trist å registrere at saksordføreren
-i saken ikke får med seg at det i prosessen før avgivelse av saken
-er levert inn merknader. Merknadene står der, der kan man velge
-å gå inn eller ut – man valgte ikke å gå inn i det, og da ble det
-ikke en del av avgivelsen. Autokrati, der en produserer en løgn
-for å få gjennom en egen sak, er trist i denne saken, for vårt felles
-mål er at det skal være nok boliger til alle.</A>
+debatt om løgn eller ikke løgn. Det er også trist å registrere at
+saksordføreren i saken ikke har fått med seg at det i prosessen
+før avgivelse av saken er levert inn merknader. Merknadene står
+der, man kan velge å gå inn eller ut – man valgte ikke å gå inn
+i det, og da ble det ikke en del av avgivelsen. Autokrati, der en
+produserer en løgn for å få gjennom en egen sak, er trist i denne
+saken, for vårt felles mål er at det skal være nok boliger til alle.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003799">
+          <Hovedinnlegg Id="i1004621">
             <A>
               <Navn personID="ANNFRE">
 Anne Lise Gjerstad Fredlund (SV) [10:10:52]:</Navn> Nå kan det hende
 at presidenten må veilede en ny representant, for jeg må stille
-noen spørsmål om hva jeg har lov til å si og ikke fra Stortingets
+noen spørsmål om hva jeg har lov til å si og ikke si fra Stortingets
 talerstol. All den tid jeg har blitt kjent med forretningsordenen,
-er det vel sånn at det som foregår i komiteen mellom saken er referert
-i Stortinget og avgivelse, er noe som er unntatt offentlighet. Det
-vil vel innebære at hva de ulike partier har levert til merknader,
+er det vel sånn at det som foregår i komiteen fra saken er referert
+i Stortinget og til avgivelse, er noe som er unntatt offentlighet.
+Det vil vel innebære at hva de ulike partier har levert til merknader,
 hvem som har gått inn eller ut, og hvordan de ulike prosessene har
 foregått, ikke er noe som omtales fra Stortingets talerstol. I så
 tilfelle er det vel slik at det heller ikke er mulig å mene at noen
@@ -1260,17 +1254,17 @@ riktig?</A>
             <A>
               <Navn>Presidenten [10:12:29]:</Navn> Jeg tror det
 er nyttig at komiteen tar en gjennomgang av forretningsordenen.
-§ 25 er helt korrekt slik saksordføreren påpekte.</A>
+Paragraf 25 er – helt korrekt – slik saksordføreren påpekte.</A>
             <A Type="Minnrykk">Flere har ikke bedt om ordet til sak nr. 1.</A>
           </Presinnlegg>
-          <Referanse Id="i1003801" voteringsDato="2026-03-17" debattDato="2026-03-13" saksKartNr="1" />
+          <Referanse Id="i1004623" voteringsDato="2026-03-17" debattDato="2026-03-13" saksKartNr="1" />
         </Sak>
-        <Interpellasjon Id="i1003803" saksKartNr="2" sakID="107264">
+        <Interpellasjon Id="i1004625" saksKartNr="2" sakID="107264">
           <Sakshode>
             <Saknr>
               <Uth Type="Sperret">Sak
 nr. 2</Uth> [10:12:49]</Saknr>
-            <Saktittel Id="i1003807">
+            <Saktittel Id="i1004629">
               <A>Interpellasjon fra representanten
 Erlend Svardal Bøe til kommunal- og distriktsministeren:</A>
               <A>«Gang på gang dukker det opp saker om unge i distriktet som ikke
@@ -1286,7 +1280,7 @@ ikke skal være et hinder for at flere unge skal kunne bygge seg
 bolig i distriktet?»</A>
             </Saktittel>
           </Sakshode>
-          <Hovedinnlegg Id="i1003809">
+          <Hovedinnlegg Id="i1004631">
             <A>
               <Navn personID="ERLBE1">
 Erlend Svardal Bøe (H) [10:13:51]:</Navn> Altfor mange unge i distriktet
@@ -1296,7 +1290,7 @@ der byggeplaner stopper opp nettopp på grunn av det. Resultatet
 er at folk som ønsker å bosette seg og skape et liv i lokalsamfunnet
 sitt, ikke får muligheten til det. </A>
             <A Type="Minnrykk">Et helt konkret eksempel er Kenneth Sande på
-27 år fra Balsfjord i Troms. Han får ikke bygge bolig på hjemgården sin
+27 år fra Balsfjord i Troms. Han får ikke bygge bolig på hjemgården sin
 etter at myndighetene sa nei til omdisponering av areal. Han ønsker
 å etablere seg på eiendommen, ved siden av foreldrene sine, men
 fikk avslag og måtte enten bygge et annet sted eller gi opp planene,
@@ -1308,12 +1302,12 @@ Lyngen. Hun har som kompensasjon forpliktet seg til nydyrking av
 et område på 8 dekar, og boligtomten er målt til 2 dekar. Jeg kunne
 ha fortsatt med alle eksemplene vi har sett på dette bare det siste
 året. </A>
-            <A Type="Minnrykk">Vi skal ta vare på matjorden i Norge. Jordvern
+            <A Type="Minnrykk">Vi skal ta vare på matjorda i Norge. Jordvern
 er viktig, og det skal fortsatt stå sterkt, men når små jordflekker,
 som i praksis kan være avgjørende for om noen får bygge bolig, veier
 tyngre enn muligheten for bosetting i distriktet, mener jeg balansen
-har blitt feil. Vi kan ikke si at vi ønsker levende distrikt, og
-at flere unge skal etablere seg i distriktet, men samtidig skape
+har blitt feil. Vi kan ikke si at vi ønsker levende distrikter,
+og at flere unge skal etablere seg i distriktet, men samtidig skape
 et regelverk som gjør det vanskeligere å få til nettopp det, et
 regelverk som er veldig rigid. </A>
             <A Type="Minnrykk">Det er viktig å si at utfordringene med boligbygging
@@ -1321,7 +1315,7 @@ i distriktet selvsagt handler om mer enn bare jordvern. Lange og kompliserte
 planprosesser, mye byråkrati og sene innsigelser gjør det både dyrere
 og mer usikkert å bygge. Mange opplever også at statlige myndigheter
 kommer sent inn i prosessene, etter at både tid og ressurser allerede
-er brukt. Likevel mener jeg at det ikke er tvil om at praktiseringen
+er brukt. Likevel mener jeg det ikke er tvil om at praktiseringen
 av jordvernet også har blitt en viktig del av problemet i mange
 saker. </A>
             <A Type="Minnrykk">Kommunal- og distriktsministeren kommer sikkert
@@ -1329,30 +1323,30 @@ i sitt innlegg til å fortelle om alt det fantastiske arbeidet regjeringen
 gjør, og det er sikkert snakk om mål om 130 000 nye boliger innen
 2030, men problemet er at folk ikke ser dette i virkeligheten, i
 hverdagen sin. I Nord-Norge ser vi f.eks. at boligbyggingen er på
-sitt laveste på over 10 år. I byene i nord bygges det ikke nok boliger,
+sitt laveste på over 10 år. I byene i nord bygges det ikke nok boliger,
 og boligene som er til salgs, er for dyre, mens i distriktene er
 det på grunn av strenge verneregler vanskelig i det hele tatt å
 få bygd, og boligen taper seg i verdi så fort en setter nøkkelen
-i døren. Dette er ikke bra i en landsdel som ønsker økt bosetting
+i døra. Dette er ikke bra i en landsdel som ønsker økt bosetting
 og å hindre fraflytting. «Folk treng hus, og hus treng folk», som
 Kari Bremnes synger så fint. </A>
             <A Type="Minnrykk">Det er mye vi kan ta tak i av lover og regler
 som gjør det vanskelig å bygge seg en bolig i Norge. Jeg har valgt
 å ta opp dette elementet i dag, den strenge praktiseringen av jordvernet,
 for vi må få til en mye bedre balanse mellom behovet for å ta vare
-på matjorden i Norge og behovet for at unge skal kunne etablere
-seg og bo i distriktet. Derfor er det helt nødvendig at vi ser på
-om den strenge praktiseringen av jordvernet kan mykes opp, og om
-vi kan gjøre regelverket mer fleksibelt og bruke mer skjønn i praktiseringen
+på matjorda i Norge og behovet for at unge skal kunne etablere seg
+og bo i distriktet. Derfor er det helt nødvendig at vi ser på om
+den strenge praktiseringen av jordvernet kan mykes opp, og om vi
+kan gjøre regelverket mer fleksibelt og bruke mer skjønn i praktiseringen
 av jordvernet. Vi trenger at unge ønsker å bo og leve i distriktet,
 og det må være mulig å sørge for at en har regler som muliggjør
-det, samtidig som en ivaretar matjorden på en god måte. </A>
+det, samtidig som en ivaretar matjorda på en god måte. </A>
             <A Type="Minnrykk">Derfor er mitt spørsmål til regjeringen i dag:
 Hva vil regjeringen gjøre for at praktiseringen av jordvernet ikke
 skal være et hinder for at flere unge skal kunne bygge seg bolig
 i distriktet, slik vi ser at det er i mange saker i dag? </A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003811">
+          <Hovedinnlegg Id="i1004633">
             <A>
               <Navn personID="BJRSKJ">
 Statsråd Bjørnar Skjæran [10:18:24]:</Navn> Jeg er enig med representanten
@@ -1364,15 +1358,15 @@ skal bidra til bosetting, men også til tilgang til arbeidskraft,
 tjenestekvalitet og næringsutvikling.</A>
             <A Type="Minnrykk">Jeg mener imidlertid at dette langt på vei
 kan gjøres uten at vi trenger å bygge ned dyrka mark. Ved å utvikle
-gode tettsteder og bygder, kan unge bo i nærheten av venner og familie og
+gode tettsteder og bygder kan unge bo i nærheten av venner og familie og
 med tilgang til lokale tjenestetilbud og sosiale møteplasser. Dette
 kan de fleste steder gjøres uten å måtte omdisponere god landbruksjord.
-Jeg har stor forståelse for at endel ønsker en annen boform, f.eks.
+Jeg har stor forståelse for at en del ønsker en annen boform, f.eks.
 gjennom å restaurere gamle gårdsbruk. Det er noe jeg støtter helt
 og fullt. At gamle bygg folk kunne bodd i, står og forfaller, er
 ikke en ønsket utvikling.</A>
             <A Type="Minnrykk">Jeg mener at distriktskommunene har gode verktøy
-i verktøykassen for å oppnå bosetting i hele kommunen, med ulike
+i verktøykassa for å oppnå bosetting i hele kommunen, med ulike
 typer boligtilbud. Kommunene må likevel følge hovedregelen, som
 er å legge til rette for ny utbygging gjennom planlegging, i stedet
 for gjennom bruk av dispensasjoner. Dispensasjonsadgangen er strengt
@@ -1385,7 +1379,7 @@ er vesentlig i strid med arealformålet, er rett og slett ikke lov.</A>
 å legge til rette for noe mer utbygging i LNFR-områdene – altså
 landbruks-, natur- og friluftsområder – er å bruke arealformålet LNFR
 spredt bebyggelse i kommuneplanen. Ved å avsette arealene til LNFR
-spredt, kan det f.eks. legges til rette for oppføring av enkeltboliger
+spredt kan det f.eks. legges til rette for oppføring av enkeltboliger
 innenfor disse områdene. Muligheten til å bruke LNFR spredt er viktig
 for distriktskommuner med lite utbygging og der det ikke er enkelt
 å forutse hvor etterspørselen etter en bolig, fritidsbolig eller
@@ -1397,8 +1391,8 @@ må forvalte arealene i samsvar med nasjonal politikk, besluttet her
 i Stortinget. Dette gjelder også med hensyn til det nasjonale jordvernmålet.
 Stortinget vedtok i 2023 et nytt og innskjerpet mål om ikke å omdisponere
 mer enn 2 000 dekar dyrka mark per år innen 2030. Å ta vare på dyrka
-marka blir stadig viktigere, også for den nasjonale forsyningssikkerheten. Bare
-3,5 pst. av Norges fastland er dyrka jord, og vi har over lang tid
+mark blir stadig viktigere, også for den nasjonale forsyningssikkerheten.
+Bare 3,5 pst. av Norges fastland er dyrka jord, og vi har over lang tid
 bygget ned store jordbruksarealer, bit for bit. Dette er bakgrunnen
 for at jordvernet bør praktiseres strengt. Den som ønsker å bygge,
 kan i de aller fleste tilfeller finne andre arealer å bygge på som
@@ -1409,11 +1403,11 @@ Jeg ønsker likevel å se nærmere på om vi kan gjennomføre tiltak
 som forenkler og effektiviserer planprosessene, slik at det blir
 enklere for kommunene å ha et oppdatert planverk.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003813">
+          <Hovedinnlegg Id="i1004635">
             <A>
               <Navn personID="ERLBE1">
 Erlend Svardal Bøe (H) [10:22:35]:</Navn> Vi er helt enige om at
-det er viktig å ivareta matjorden på en god måte. Det har jeg heller
+det er viktig å ivareta matjorda på en god måte. Det har jeg heller
 ikke sådd tvil om i mitt innlegg. Det er likevel en utfordring at
 1 dekar er like viktig uansett hvor hen det er, for landet vårt
 er forskjellig. Det ser forskjellig ut fra byer og fra distrikter,
@@ -1434,25 +1428,24 @@ tilfellet ville det gjort at vi hadde fått mer matjord, mer landbrukseiendom,
 men det tillater ikke regelverket i dag. </A>
             <A Type="Minnrykk">Det er det som er litt av poenget mitt. Poenget
 med å ta opp interpellasjonen er at en er nødt til å se på noe fleksibilitet i
-dagens regelverk, for en gjør det så vanskelig for veldig mange
+dagens regelverk, for en gjør det svært vanskelig for veldig mange
 unge som ønsker å bo på sin hjemgård, i nærheten av sine foreldre,
 og skape et familieliv og et aktivt liv. For en del av disse vil
 alternativet være fortsatt å bo i en by eller bo et annet sted og
 risikere at de ikke får drive hjemgården eller landbrukseiendommen
-videre. Så jeg mener at statsråden bør se på om en kan sørge for
-at en tillater mer erstatning av produktivt landbruksareal. Jeg
-håper statsråden også sier noe om det i sitt oppfølgingsinnlegg
-her. </A>
+videre. Jeg mener at statsråden bør se på om en kan sørge for at
+en tillater mer erstatning av produktivt landbruksareal. Jeg håper
+statsråden også sier noe om det i sitt oppfølgingsinnlegg her. </A>
             <A Type="Minnrykk">Det handler også om hvilke signaler som sendes
 fra departementet. Det vi opplever nå, er at veldig mange kommuner
 og veldig mange enkeltaktører anker disse sakene inn til statsforvalteren
 og videre til departementet. Vi ser også at det er veldig ulik praktisering
-av veiledningsbiten og retningslinjene knyttet til dette. Så jeg
-hadde håpet at regjeringen kunne vært litt mer tydelig i sitt svar
-på hva en konkret skal gjøre. Det er veldig fint å se nærmere på
-ting. Jeg kan også se nærmere på ting med mine briller, men det
-må fortsatt være konkrete ting – hva en faktisk har tenkt å gjøre
-med de problemene som veldig mange ser i dag. </A>
+av veiledningsbiten og retningslinjene knyttet til dette. Jeg hadde
+håpet at regjeringen kunne vært litt mer tydelig i sitt svar på
+hva en konkret skal gjøre. Det er veldig fint å se nærmere på ting.
+Jeg kan også se nærmere på ting med mine briller, men det må fortsatt
+være konkrete ting – hva en faktisk har tenkt å gjøre med de problemene
+veldig mange ser i dag. </A>
             <A Type="Minnrykk">Jeg tror at både jeg og statsråden deler ønsket
 om at flere skal bo i distriktet, og da handler det om å legge til
 rette for en god boligpolitikk der regelverket ikke blir så rigid
@@ -1461,7 +1454,7 @@ konkret skal en gjøre for å følge opp praktiseringen av jordvernet i
 dag, og er det mulig å få til mer erstatningspolitikk knyttet til
 nytt produktivt landbruksareal? </A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003815">
+          <Hovedinnlegg Id="i1004637">
             <A>
               <Navn personID="BJRSKJ">
 Statsråd Bjørnar Skjæran [10:25:51]:</Navn> Jeg tror det viktigste
@@ -1473,14 +1466,14 @@ Der er mitt hovedsvar at hvis kommunene ønsker spredt boligbygging
 i disse områdene, må kommunene sørge for at arealplanen legger det
 formålet i de områdene der det er ønskelig. </A>
             <A Type="Minnrykk">Jeg har god erfaring med det. Jeg har vært
-kommunepolitiker i 28 år og har vært med på å vedta kommunale arealplaner
+kommunepolitiker i 28 år og har vært med på å vedta kommunale arealplaner
 og kommunedelplaner i flere omganger. Det er fullt mulig å få det
 til hvis forholdene ligger til rette for det. Jeg bor i en ren landbruksbygd.
-Der er det nå boligbygging i gang. Det er en bygd som det er rom
-for å bygge i, selv om det er en viktig landbruksbygd. Det handler
-om at den kommunale planleggingen ikke må legge opp til at den ønskede
+Der er det nå boligbygging i gang. Det er en bygd det er rom for
+å bygge i, selv om det er en viktig landbruksbygd. Det handler om
+at den kommunale planleggingen ikke må legge opp til at den ønskede
 utviklingen skal komme gjennom dispensasjoner, for dispensasjonsadgangen
-i det lovverket som Stortinget har gitt oss, og som en mindretallsregjering
+i det lovverket Stortinget har gitt oss, og som en mindretallsregjering
 selvsagt styrer på, gir en smal åpning for at dispensasjoner skal
 være veien å gå. </A>
             <A Type="Minnrykk">Jeg sa i mitt innlegg at vi er i gang med å
@@ -1496,29 +1489,29 @@ når man utvikler arealplaner, og det er i forbindelse med arealplanene
 disse vurderingene må gjøres.</A>
             <A Type="Minnrykk">Historien viser at når Stortinget tar beslutninger,
 betyr det noe. Jordvernet er strammet opp i flere omganger, og i 2025
-– hvis jeg ikke husker feil, det kan hende at tallet var fra 2024
-– er vi altså nede i en omdisponering på 2 500 dekar per år. Det
+– hvis jeg ikke husker feil, det kan hende at tallet er fra 2024
+– var vi altså nede i en omdisponering på 2 500 dekar per år. Det
 er langt mindre nedbygging enn vi hadde for bare noen få år siden.
 Nå er målet å komme ned til 2 000 dekar innen 2030, og da må det
-også ligger til grunn for kommunenes arbeid. En av mine forgjengere
+også ligge til grunn for kommunenes arbeid. En av mine forgjengere
 deltok i å sende ut et brev til kommunene der man understreket jordvernstrategien,
 og jeg ser at kommunene tar i bruk det verktøyet og tar den beskjeden. </A>
             <A Type="Minnrykk">Jeg vil bestride at det ikke går an å bygge
 i distriktene på grunn av jordvern. Det er massevis av arealer som
-kan bygges på. Vi må ta vare på den viktigste landbruksjorden. </A>
+kan bygges på. Vi må ta vare på den viktigste landbruksjorda. </A>
           </Hovedinnlegg>
           <Presinnlegg>
             <A>
               <Navn>Presidenten [10:28:56]:</Navn> Dermed er debatten
-i sak nr.2 avsluttet. </A>
+i sak nr. 2 avsluttet. </A>
           </Presinnlegg>
         </Interpellasjon>
-        <Sak Id="i1003817" saksKartNr="3" sakID="105076">
+        <Sak Id="i1004639" saksKartNr="3" sakID="105076">
           <Sakshode>
             <Saknr>
               <Uth Type="Sperret">Sak
 nr. 3</Uth> [10:29:00]</Saknr>
-            <Saktittel Id="i1003821">
+            <Saktittel Id="i1004643">
               <A>Innstilling fra kommunal- og forvaltningskomiteen
 om Representantforslag fra stortingsrepresentantene Tage Pettersen,
 Erna Solberg, Haagen Poppe, Kari Sofie Bjørnsen, Mahmoud Farahmand
@@ -1538,12 +1531,12 @@ regjeringen.</A>
 fra medlemmer av regjeringen, og de som måtte tegne seg på talerlisten
 utover den fordelte taletid, får også en taletid på inntil 3 minutter.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1003823">
+          <Hovedinnlegg Id="i1004645">
             <A>
               <Navn personID="HNJ">
 Helge André Njåstad (FrP) [10:29:45]</Navn> (ordførar for saka):
 Denne saka kan framstå veldig teknisk når ein les overskrifta og
-innhaldet, men ho handlar enkelt fortald om krav til reinsing av
+innhaldet, men ho handlar enkelt fortalt om krav til reinsing av
 avløpsvatn som blir sendt ut frå norske hushald. Det er krav som
 er laga i Brussel og laga for andre forhold, f.eks. for elvane i
 Europa og for Middelhavet, og eg trur ikkje dei har tenkt mykje
@@ -1551,13 +1544,13 @@ på Nordsjøen og norske kystsamfunn når dei har sete i Brussel og
 produsert dette EU-direktivet for avløp. For å vera heilt konkret
 trur eg me kan slå fast at dei neppe har hatt Nordsjøen og norske
 kystsamfunn i tankane når dei har laga dette regelverket.</A>
-            <A Type="Minnrykk">Difor har ein i Brussel funne ut at ein skal
-stilla krav om sekundærreinsing, noko som betyr at ein reinsar veldig
-mykje meir enn det som har vore tradisjonen spesielt ved kysten
-i Noreg i dag. Det er ei form for reinsing som er veldig dyr, og som
-veldig mange meiner er unødvendig, fordi ein reinsar langt meir
-enn det er behov for når sjøen likevel blir skifta ut fort og sørgjer
-for å vera ein god resipient, som det heiter på fagspråket.</A>
+            <A Type="Minnrykk">I Brussel har ein funne ut at ein skal stilla
+krav om sekundærreinsing, noko som betyr at ein reinsar veldig mykje
+meir enn det som har vore tradisjonen spesielt ved kysten i Noreg i
+dag. Det er ei form for reinsing som er veldig dyr, og som veldig
+mange meiner er unødvendig, fordi ein reinsar langt meir enn det
+er behov for når sjøen likevel blir skifta ut fort og sørgjer for
+å vera ein god resipient, som det heiter på fagspråket.</A>
             <A Type="Minnrykk">Me i Framstegspartiet kallar krav som dette
 for sløsing. Når ein bruker milliardar på noko som verken har miljø-
 eller klimaeffekt, er det sløsing med pengane til skattebetalarane, noko
@@ -1566,7 +1559,7 @@ me synest er uklokt å gjera.</A>
 me skal sørgja for at EU skal bli sure på oss, eller om me skal
 sørgja for at norske hushald skal bli sure på oss. Der skil partia
 lag og har litt ulik haldning. Nokre parti i denne salen er veldig
-opptekne av at EU ikkje skal bli sure, men gjer omtrent kva som helst
+opptekne av at EU ikkje skal bli sure, og gjer omtrent kva som helst
 for at EU skal vera fornøgde, mens andre parti – som Framstegspartiet
 – er veldig opptekne av at norske hushald ikkje skal få ein ekstrakostnad
 i fanget, og det i ei tid då det er dyrt å vera norsk hushald. Dei
@@ -1579,10 +1572,10 @@ noko som vil påføra norske hushald ein kostnad på kanskje 10 000–20 000 
 per husstand per år til noko som ikkje er nødvendig, berre fordi
 det er kome frå Brussel.</A>
             <A Type="Minnrykk">Framstegspartiet seier nei til å la Brussel
-bestemma politikken i Noreg. Me synest det er uklokt. Difor vil
-me heller stå opp for norske hushald og norske interesser ved å
-senda eit klart og tydeleg signal til EU om at dette avløpsdirektivet ikkje
-gagnar norske interesser.</A>
+bestemma politikken i Noreg. Me synest det er uklokt. Me vil heller
+stå opp for norske hushald og norske interesser ved å senda eit
+klart og tydeleg signal til EU om at dette avløpsdirektivet ikkje gagnar
+norske interesser.</A>
             <A Type="Minnrykk">Med det tek eg opp forslaga Framstegspartiet
 er med på, og eg reknar med at dei andre partia òg vil gjera greie
 for sitt syn.</A>
@@ -1599,7 +1592,7 @@ her overtatt presidentplassen.</A>
               <Navn>Presidenten [10:32:45]:</Navn> Representanten
 Helge André Njåstad har tatt opp de forslagene han refererte til.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1003825">
+          <Hovedinnlegg Id="i1004647">
             <A>
               <Navn personID="SOLVES">
 Solveig Vestenfor (A) [10:33:01]:</Navn> Eg vil gjerne starta med
@@ -1613,7 +1606,7 @@ som er best mulig tilpasset norske forhold.»</A>
             <A Type="Minnrykk">Me er heldige i Noreg. Me kan drikka vatn rett
 frå springen, me kan bada i fersk- og saltvatn, og me vert sjeldan
 sjuke av forureina vatn – men ingenting varar evig, heller ikkje røyrsystem.
-Difor treng me reinsing og å fornye systema. Mykje av det som finst
+Difor treng me reinsing og å fornya systema. Mykje av det som finst
 av leidningsnett der ute, er veldig gamalt og overmodent for utskifting
 til moderne løysingar. Det har eg sjølv sett. Me veit difor at det
 er behov for betydelege investeringar i vass- og avløpssystemet
@@ -1625,12 +1618,12 @@ er enorme kostnader som vil måtta fordelast – på vanlege folk. Sjølvkostpri
 gjeld landet rundt, og difor er det viktig at regjeringa har redusert
 meirverdisatsen på vatn og avløp frå 25 til 15 pst., og at ein frå
 2026 har dobla den maksimale avskrivingstida for kommunale vass-
-og avløpsanlegg frå 40 til 80 år. Det er ein viktig start, som kommunar
+og avløpsanlegg frå 40 til 80 år. Det er ein viktig start, som kommunar
 landet over har takka for, og det er tydeleg at regjeringa deler
 bekymringa for utgiftene.</A>
             <A Type="Minnrykk">For å lukkast må me nytta det handlingsrommet
-EU-direktivet gjev oss, og at me sikrar både norske interesser og
-at regelverket vert best mogleg tilpassa norske forhold, både for innland
+EU-direktivet gjev oss, og me må sikra at både norske interesser
+og regelverket vert best mogleg tilpassa norske forhold, både for innland
 og for kyst. Arbeidarpartiet støttar intensjonen til forslagsstillarane,
 men regjeringa har sjølv lagt klar vekt på behovet for nettopp å
 sjå på bruken av omgrepet tettstad og korleis ein kan definera,
@@ -1640,16 +1633,16 @@ best mogleg vis og tilpassast norske forhold. Det er alle einige
 om. Det viktigaste framover er å fokusera på at tilpassinga og handlingsrommet
 for norske forhold kan vera i fokus. Ein kan lura på om det er målet
 til nokon i salen å utsetja og forskyva direktiv som samsvarer med
-behov me må løysa, uavhengig av Brussel. Det må det vera lov å spørja
-om.</A>
-            <A Type="Minnrykk">Eg tek opp det nemnde forslaget frå Arbeidarpartiet.</A>
+behov me må løysa, uavhengig av Brussel. Det må det vera lov til
+å spørja om.</A>
+            <A Type="Minnrykk">Eg tek opp forslaget frå Arbeidarpartiet.</A>
           </Hovedinnlegg>
           <Presinnlegg>
             <A>
               <Navn>Presidenten [10:35:55]:</Navn> Representanten
-Solveig Vestenfor har tatt opp det forslaget hun refererte.</A>
+Solveig Vestenfor har tatt opp det forslaget hun refererte. </A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1003827">
+          <Hovedinnlegg Id="i1004649">
             <A>
               <Navn personID="ALI">
 Anne Kristine Linnestad (H) [10:36:08]:</Navn> Høyre er opptatt
@@ -1693,7 +1686,7 @@ visitt til representanten Vestenfor: Arbeiderpartiet stemte faktisk
 imot å forlenge avskrivningstiden på ledningsnettet da det ble bestemt
 før sommeren.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003829">
+          <Hovedinnlegg Id="i1004651">
             <A>
               <Navn personID="ANNFRE">
 Anne Lise Gjerstad Fredlund (SV) [10:39:16]:</Navn> Denne saken
@@ -1740,7 +1733,7 @@ mulig å ta i bruk bedre teknologi og mer effektive løsninger.</A>
 avløpssystemet vårt uansett. Spørsmålet er ikke om vi skal gjøre
 noe, spørsmålet er om vi skal gjøre det klokt.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003831">
+          <Hovedinnlegg Id="i1004653">
             <A>
               <Navn personID="BFA">
 Bengt Fasteraune (Sp) [10:42:34]:</Navn> EUs avløpsdirektiv vil
@@ -1789,7 +1782,7 @@ områder. Den er nå fjernet. I praksis snakker vi om hele kysten,
 fra Lindenes til Kirkenes, som risikerer å få innført rensekrav
 det strengt tatt ikke er behov for.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003833">
+          <Hovedinnlegg Id="i1004655">
             <A>
               <Navn personID="HANSTE">
 Hanne Beate Stenvaag (R) [10:45:47]</Navn> (komiteens leder): Dette
@@ -1799,12 +1792,12 @@ av avløp, kan føre til en regning på minst 30 mrd. kr. Om lag 300
 norske småsamfunn er berørt, fordelt på om lag 150 kommuner. Med
 det systemet vi har i dag, nemlig at vann og avløp finansieres gjennom
 et selvkostsystem, vil jo regningen havne hos innbyggerne i disse kommunene. </A>
-            <A Type="Minnrykk">Det er stor forskjell på land i Europa som
-har store byer, stor befolkningstetthet og en annen geografi enn
-vi har i Norge. I Norge er det mange som bor langs kysten, på små
-steder, hvor det er stor utskifting av vann, og med Atlanterhavet
-som nærmeste nabo. Mange steder i Norge er ikke utslipp fra avløpsanlegg
-til sjø et miljøproblem.</A>
+            <A Type="Minnrykk">Det er stor forskjell på Norge og land i Europa
+som har store byer, stor befolkningstetthet og en annen geografi
+enn vi har her. I Norge er det mange som bor langs kysten, på små steder,
+hvor det er stor utskifting av vann, og med Atlanterhavet som nærmeste
+nabo. Mange steder i Norge er ikke utslipp fra avløpsanlegg til
+sjø et miljøproblem.</A>
             <A Type="Minnrykk">Vi må bruke penger, krefter og ressurser på
 reelle miljøproblemer. Vi kan ikke risikere at mange lokalsamfunn
 blir pålagt å investere i unødvendige og svært kostbare renseanlegg
@@ -1848,13 +1841,13 @@ del av.</A>
               <Navn>Presidenten [10:48:46]:</Navn> Representanten
 Hanne Beate Stenvaag har tatt opp de forslagene hun refererte til.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1003835">
+          <Hovedinnlegg Id="i1004657">
             <A>
               <Navn personID="JULSTU">
 Julie E. Stuestøl (MDG) [10:49:05]:</Navn> Utgangspunktet for denne
 saken er ganske enkelt: Vi trenger en politikk som stanser forurensning
 av fjorder og vassdrag og sørger for mer resirkulering av næringsstoffer.
-I dag skyldes altfor mye av dette rett ut i naturen. Det skader
+I dag skylles altfor mye av dette rett ut i naturen. Det skader
 dyr, det skader natur, og det er en enorm sløsing av verdifulle
 ressurser.</A>
             <A Type="Minnrykk">Som representant for Vestfold og Oslofjordregionen
@@ -1872,15 +1865,15 @@ fisk og sirkulær økonomi. MDG er samtidig enig i at vi trenger fornuftige
 tilpasninger til norsk topografi. Det er veldig stor forskjell på
 finnmarkskysten og Oslofjorden. Vi mener det er avgjørende at vi
 vurderer endringer i definisjonen av tettbebyggelse, sånn at vi
-ikke bruke penger, arealer og materialer på rensing som ikke trengs. </A>
+ikke bruker penger, arealer og materialer på rensing som ikke trengs. </A>
             <A Type="Minnrykk">Derfor står vi sammen med flertallet i komiteen
 om å kreve å utrede hva innføring av EUs reviderte avløpsdirektiv
 vil koste, og utarbeide en oversikt over CO<Sub>2</Sub>-utslipp.
 Vi står også sammen med FrP og Høyre om å kreve at det tas fornuftige samfunnsøkonomiske
-hensyn i implementeringen. Samtidig går vi imot forslag som vi mener
+hensyn i implementeringen. Samtidig går vi imot forslag vi mener
 går for langt i å peke ut en ny definisjon av tettbebyggelse. Vi
-går også mot forslaget som flertallet i komiteen åpner for, at Norge
-skal benytte reservasjonsretten i denne saken. </A>
+går også imot forslaget som flertallet i komiteen åpner for, at
+Norge skal benytte reservasjonsretten i denne saken. </A>
             <A Type="Minnrykk">Vi foreslår en grundig vurdering av miljøkonsekvensene av
 en endret definisjon, bedre regional koordinering av investeringer
 i avløpsrensing og en støtteordning for investeringer i avløpsrensing
@@ -1893,10 +1886,10 @@ i regelverket. Vi ser fram til videre samarbeid om det temaet.</A>
           </Hovedinnlegg>
           <Presinnlegg>
             <A>
-              <Navn>Presidenten [10:51:37]:</Navn> Julie E. Stuestøl
-har tatt opp det forslaget hun refererte til. </A>
+              <Navn>Presidenten [10:51:37]:</Navn> Representanten
+Julie E. Stuestøl har tatt opp det forslaget hun refererte til. </A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1003837">
+          <Hovedinnlegg Id="i1004659">
             <A>
               <Navn personID="ANDERI">
 Statsråd Andreas Bjelland Eriksen [10:51:50]:</Navn> Moderne avløpsrensing
@@ -1906,7 +1899,7 @@ er ambisjoner Norge har, helt uavhengig av EU-regelverk.</A>
             <A Type="Minnrykk">Norge har et stort vedlikeholdsetterslep på
 avløpsområdet. Det er beklagelig. Uavhengig av revidert avløpsdirektiv er
 det behov for store oppgraderinger for at vi skal følge gjeldende
-regelverk og av hensyn til miljø.</A>
+regelverk, og av hensyn til miljø.</A>
             <A Type="Minnrykk">Revidert avløpsdirektiv peker ut en tydelig
 vei for hvordan vi skal redusere utslipp og sikre renere vann i
 hele landet. Vi må rense bedre langs kysten og gjøre mer for å fjerne
@@ -1946,7 +1939,7 @@ og framtidig verdiskaping.</A>
             <A>
               <Navn>Presidenten [10:54:47]:</Navn> Det blir replikkordskifte.</A>
           </Presinnlegg>
-          <Replikk Id="i1003839">
+          <Replikk Id="i1004661">
             <A>
               <Navn personID="HNJ">
 Helge André Njåstad (FrP) [10:54:58]:</Navn> Noreg har éin gong
@@ -1959,7 +1952,7 @@ meir tilpassing i EU-direktivet.</A>
             <A Type="Minnrykk">Mitt spørsmål er: Kvifor er det viktigare med
 utgiftene til staten enn utgiftene til hushaldningane?</A>
           </Replikk>
-          <Replikk Id="i1003841">
+          <Replikk Id="i1004663">
             <A>
               <Navn personID="ANDERI">
 Statsråd Andreas Bjelland Eriksen [10:55:30]:</Navn> Det er ikke
@@ -1970,17 +1963,17 @@ de trenger å bli. Nettopp derfor jobber vi også for å ivareta folk
 på en god måte når vi skal få gjennomført disse reglene, for å finne
 gode tilpasninger for Norge. Det er også en av grunnene til at jeg
 har sagt så tydelig at det er viktig at vi nå ser grundig på tettstedsdefinisjonen,
-sånn at vi sørger for at det er de rette stedene som får de rette
+slik at vi sørger for at det er de rette stedene som får de rette
 kravene når vi gjennomfører dette direktivet.</A>
             <A Type="Minnrykk">Jeg vil advare mot å gå inn i en diskusjon
 om bruk av reservasjonsretten til revidert avløpsdirektiv. Dette
-er for det første en del av kjernen av en viktig del av EØS-avtalen,
+er for det første en del av kjernen i en viktig del av EØS-avtalen,
 og for det andre bør man i hvert fall ha et åpent syn på hvilke
 tilpasninger man kan få, og hvordan en samtykkeproposisjon faktisk
 ser ut, for å få et fullstendig bilde av hvordan vi kan gjennomføre
 dette direktivet.</A>
           </Replikk>
-          <Replikk Id="i1003843">
+          <Replikk Id="i1004665">
             <A>
               <Navn personID="HNJ">
 Helge André Njåstad (FrP) [10:56:32]:</Navn> Då skal eg spørja veldig
@@ -1988,7 +1981,7 @@ enkelt: Kan statsråden allereie no seia kva han trur at norske hushaldningar
 må betala meir i vatn- og avløpsutgifter etter at desse krava er
 tredde i kraft?</A>
           </Replikk>
-          <Replikk Id="i1003845">
+          <Replikk Id="i1004667">
             <A>
               <Navn personID="ANDERI">
 Statsråd Andreas Bjelland Eriksen [10:56:47]:</Navn> Det vil selvfølgelig
@@ -2002,17 +1995,17 @@ krav på en måte som ikke gjør at regningen til folk blir større
 enn den trenger å bli. Det Fremskrittspartiet ser ut til å se litt
 bort fra, er at det er et stort renseetterslep i Norge, og det har
 ingenting med revidert avløpsdirektiv å gjøre. Det handler om at
-vi ikke har gjort den jobben innenfor den infrastrukturen som vi
-burde ha gjort for lenge siden. Det får konsekvenser – ikke bare
-for miljøet, men for helse og liv rundt omkring i landet vårt. Det
-må vi ta på alvor og løse på en skikkelig måte. Det kommer også
-til å ha en regning, og det må vi være ærlige om.</A>
+vi ikke har gjort den jobben innenfor den infrastrukturen vi burde
+ha gjort for lenge siden. Det får konsekvenser – ikke bare for miljøet,
+men for helse og liv rundt omkring i landet vårt. Det må vi ta på
+alvor og løse på en skikkelig måte. Det kommer også til å ha en
+regning, og det må vi være ærlige om.</A>
           </Replikk>
-          <Replikk Id="i1003847">
+          <Replikk Id="i1004669">
             <A>
               <Navn personID="ALI">
 Anne Kristine Linnestad (H) [10:57:56]:</Navn> Jeg har lyst å si
-til statsråden at i denne saken har vi felles mål. Vi er bare litt
+til statsråden at vi i denne saken har felles mål, vi er bare litt
 mer utålmodig enn statsråden etter å komme fram til det målet. Derfor
 lurer jeg litt når vi nå har diskutert tettstedsdefinisjonen. Det
 kom egentlig opp fordi Høyre har stilt spørsmål om det fire ganger
@@ -2020,63 +2013,63 @@ i forrige periode. Jeg vet jo at det i august 2025 lå en rapport
 klar om tettstedsdefinisjonen. Hvor lang tid har statsråden tenkt
 å bruke på å konkludere på den rapporten?</A>
           </Replikk>
-          <Replikk Id="i1003849">
+          <Replikk Id="i1004671">
             <A>
               <Navn personID="ANDERI">
 Statsråd Andreas Bjelland Eriksen [10:58:32]:</Navn> Vi bruker den
 tiden vi mener at vi trenger for å kunne gjøre dette på en skikkelig
 måte og være helt trygge på at vi bruker det handlingsrommet som
-finnes til å gjennomføre tettstedsdefinisjonen på en god måte. Og
-jeg må si til Høyre at det er litt spesielt å høre på noen av de
-karakteristikkene som brukes om vårt arbeid med dette reviderte
-avløpsdirektivet. De står i ganske sterk kontrast til f.eks. KS-lederen,
-som 5. januar i år, med tanke på det vi nå har sagt om måten vi
-jobber med tettsted på, sier: Vi er blitt lyttet til. Det betyr
-at vi tar på alvor den tilbakemeldingen vi får fra norske kommuner.
-Vi skal gå grundig inn i dette og jobbe for at kravene blir gjennomført
-på en så god og skikkelig måte som mulig. At det ikke betyr at vi
-har den samme utålmodigheten som Høyre, er jeg uenig i. Vi er utålmodige
-etter å få avklart dette så fort som mulig, men vi skal også sørge
-for at det blir gjort skikkelig, sånn at vi faktisk vet at vi har
-et regelverk som kan stå seg over tid, og som tar miljøutfordringene
-på alvor.</A>
+finnes til å gjennomføre tettstedsdefinisjonen på en god måte. Jeg
+må si til Høyre at det er litt spesielt å høre på noen av de karakteristikkene
+som brukes om vårt arbeid med dette reviderte avløpsdirektivet.
+De står i ganske sterk kontrast til f.eks. KS-lederen, som 5. januar
+i år, med tanke på det vi nå har sagt om måten vi jobber med tettsted
+på, sa: «Vi er blitt lyttet til». Det betyr at vi tar på alvor den
+tilbakemeldingen vi får fra norske kommuner. </A>
+            <A Type="Minnrykk">Vi skal gå grundig inn i dette og jobbe for
+at kravene blir gjennomført på en så god og skikkelig måte som mulig.
+At det ikke betyr at vi har den samme utålmodigheten som Høyre,
+er jeg uenig i. Vi er utålmodige etter å få avklart dette så fort
+som mulig, men vi skal også sørge for at det blir gjort ordentlig, sånn
+at vi faktisk vet at vi har et regelverk som kan stå seg over tid,
+og som tar miljøutfordringene på alvor.</A>
           </Replikk>
-          <Replikk Id="i1003851">
+          <Replikk Id="i1004673">
             <A>
               <Navn personID="ALI">
 Anne Kristine Linnestad (H) [10:59:34]:</Navn> At KS-lederen er
-fornøyd med at de har blitt lyttet til, er veldig bra. Men at Høyre
+fornøyd med at de har blitt lyttet til, er veldig bra, men at Høyre
 er utålmodig, har ingenting med KS-lederens uttalelser å gjøre.
-Høyre-medlemmenes og Høyres mening kommer fram i denne salen. Og
-jeg må si: Jeg synes det er spesielt at regjeringen bruker så lang
-tid. Jeg vet også at det hadde vært mulig å fortelle i klartekst
-til de partiene som nå er imot EØS-avtalen, og imot at vi skal innføre
+Høyre-medlemmenes og Høyres mening kommer fram i denne salen. Jeg
+må si jeg synes det er spesielt at regjeringen bruker så lang tid.
+Jeg vet også at det hadde vært mulig å fortelle i klartekst til
+de partiene som nå er imot EØS-avtalen, og imot at vi skal innføre
 et revidert avløpsdirektiv, om det virkelig er mulig å si nei og
-benytte vetoretten i en revisjon av et direktiv som vi innførte
-i 1992, og som vi, etter mitt syn, ikke har oppfylt tilstrekkelig.
-Er det egentlig mulig å bruke vetoretten denne gangen?</A>
+benytte vetoretten i en revisjon av et direktiv vi innførte i 1992,
+og som vi, etter mitt syn, ikke har oppfylt tilstrekkelig. Er det
+egentlig mulig å bruke vetoretten denne gangen?</A>
           </Replikk>
-          <Replikk Id="i1003853">
+          <Replikk Id="i1004675">
             <A>
               <Navn personID="ANDERI">
 Statsråd Andreas Bjelland Eriksen [11:00:32]:</Navn> Jeg skal være
 forsiktig med å gi generelle uttalelser her om reservasjonsretten
 i EØS-avtalen. EØS-avtalen fungerer sånn at vi forplikter oss til
 å være med og følge opp de regelverkene som er EØS-relevante, og
-dette er et EØS-relevant regelverk. Det betyr òg at Norge må ta
+dette er et EØS-relevant regelverk. Det betyr også at Norge må ta
 de forpliktelsene som gjelder etter det regelverket. </A>
             <A Type="Minnrykk">Det betyr ikke at ting er skrevet i svart-hvitt,
-og det er derfor jeg bare vil advare litt mot noe av den utålmodigheten som
-Høyre synes å ha, og det var det som egentlig var poenget mitt i
-sted i tillegg. Det er klart at vi skal sørge for å bruke det handlingsrommet
-som finnes for å få gjennomført disse reglene på en måte som blir
-best mulig for Norge. Da må vi være sikre på at det handlingsrommet
-står seg over tid, at vi er trygge på den tettstedsdefinisjonen
-vi eventuelt legger til grunn, slik at vi f.eks. ikke får tilbakemelding
-om at vi har gjort det på feil måte og må gå tilbake og gjøre det
-på nytt. Det vil jo virkelig skape uforutsigbarhet for f.eks. kommunesektoren.</A>
+og det er derfor jeg bare vil advare litt mot noe av den utålmodigheten Høyre
+synes å ha. Det var det som egentlig var poenget mitt i sted i tillegg.
+Det er klart at vi skal sørge for å bruke det handlingsrommet som
+finnes for å få gjennomført disse reglene på en måte som blir best
+mulig for Norge. Da må vi være sikre på at det handlingsrommet står
+seg over tid, at vi er trygge på den tettstedsdefinisjonen vi eventuelt
+legger til grunn, slik at vi f.eks. ikke får tilbakemelding om at
+vi har gjort det på feil måte og må gå tilbake og gjøre det på nytt.
+Det vil jo virkelig skape uforutsigbarhet for f.eks. kommunesektoren.</A>
           </Replikk>
-          <Replikk Id="i1003855">
+          <Replikk Id="i1004677">
             <A>
               <Navn personID="BFA">
 Bengt Fasteraune (Sp) [11:01:51]:</Navn> Senterpartiet har fremmet
@@ -2087,30 +2080,32 @@ og hvilke distriktskonsekvenser direktivet vil ha. Det neste er
 litt mer spisset og går ned på kommunenivå på det samme spørsmålet.
 Til slutt er det hva som ligger til grunn for bruk av reservasjonsretten dersom
 man ikke klarer å unnta mindre følsomme områder og redusere antallet
-personekvivalenter. Disse tingene må ses i sammenheng, og etter
+personekvivalenter. </A>
+            <A Type="Minnrykk">Disse tingene må ses i sammenheng, og etter
 min oppfatning er dette litt av grunnlaget for hvordan, eller om,
 man skal bruke reservasjonsretten. Hvorfor kan man ikke se på dette
 i sammenheng og gi et svar på dette med reservasjonsretten?</A>
           </Replikk>
-          <Replikk Id="i1003857">
+          <Replikk Id="i1004679">
             <A>
               <Navn personID="ANDERI">
 Statsråd Andreas Bjelland Eriksen [11:02:54]:</Navn> Det er jo en
-veldig underlig måte å jobbe på overfor EU å først si at man har
+veldig underlig måte å jobbe på overfor EU først å si at man har
 til hensikt å bruke reservasjonsretten, og så skal man gå til dem
 og forhandle om hvordan et regelverk faktisk skal gjennomføres i
 praksis. Det er sånn at vi først avklarer om noe er EØS-relevant,
 så går vi i samtaler med EU om hvordan reglene skal gjennomføres
 for Norge, og etter det har vi det totale bildet over hvilke konsekvenser
-regelverket faktisk vil få for Norge. Det er en fryktelig uklok
-tilnærming til EU og EØS-avtalen å skulle gå til vår viktigste avtalepartner,
-vår viktigste handelspartner, og forskuttere ved å si at hvis vi ikke
+regelverket faktisk vil få for Norge. </A>
+            <A Type="Minnrykk">Det er en fryktelig uklok tilnærming til EU
+og EØS-avtalen å skulle gå til vår viktigste avtalepartner, vår
+viktigste handelspartner, og forskuttere ved å si at hvis vi ikke
 får det akkurat sånn som vi vil, skal vi bruke reservasjonsretten.
 Det er en fryktelig uklok tilnærming til reviderte avløpsdirektiv,
 og det er en fryktelig uklok måte å håndtere norsk næringslivs interesser
 i Europa på.</A>
           </Replikk>
-          <Replikk Id="i1003859">
+          <Replikk Id="i1004681">
             <A>
               <Navn personID="HANSTE">
 Hanne Beate Stenvaag (R) [11:04:09]:</Navn> Vi i Rødt deler ønsket
@@ -2122,7 +2117,7 @@ stilles krav til oppdrettsanlegg som produserer mye forurensning,
 og som ofte er i de samme havområdene som disse nå mye strengere
 kravene i forbindelse med EUs avløpsdirektiv vil gjelde?</A>
           </Replikk>
-          <Replikk Id="i1003861">
+          <Replikk Id="i1004683">
             <A>
               <Navn personID="ANDERI">
 Statsråd Andreas Bjelland Eriksen [11:04:47]:</Navn> Det er ikke
@@ -2134,10 +2129,10 @@ for også å ta ned belastningen fra den næringen i årene framover. </A>
 miljøeffekten, men jeg er litt usikker. Det kan godt være at stortingsrepresentanten
 er en bedre ekspert enn meg på sekundærrensekrav og nøyaktig hvilke
 miljøeffekter det vil ha rundt omkring langs kysten vår, men det
-er klart at når man ser på miljøfaglige analyser, er det mange steder
-langs kysten vår som trenger bedre rensing i årene framover. Det
-er mange steder langs kysten hvor de nye reglene som kommer, vil
-være bra for både liv, helse og miljø for folk i Norge. Vi skal
+er klart at det er mange steder langs kysten vår som trenger bedre
+rensing i årene framover, når man ser på miljøfaglige analyser.
+Det er mange steder langs kysten hvor de nye reglene som kommer,
+vil være bra for både liv, helse og miljø for folk i Norge. Vi skal
 gjennomføre det på en klok måte som gjør at kostnadene ikke blir
 større enn de trenger å bli, men vi trenger strengere krav, og det
 er i utgangspunktet bra at det kommer strengere krav.</A>
@@ -2146,8 +2141,10 @@ er i utgangspunktet bra at det kommer strengere krav.</A>
             <A>
               <Navn>Presidenten [11:05:47]:</Navn> Replikkordskiftet
 er omme. </A>
+            <A Type="Minnrykk">De talere som heretter får ordet, har også
+en taletid på inntil 3 minutter.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1003863">
+          <Hovedinnlegg Id="i1004685">
             <A>
               <Navn personID="ALI">
 Anne Kristine Linnestad (H) [11:06:05]:</Navn> I fortalen til avløpsdirektivet
@@ -2180,16 +2177,16 @@ av direktivet. Dette er ikke godt nok. </A>
             <A Type="Minnrykk">Rundt 1. mai kommer KS med en FoU-rapport om
 hvilken nytteverdi Norge faktisk vil ha av tiltakene i det reviderte direktivet.
 For Høyre er det avgjørende at vi har et solid kunnskapsgrunnlag
-for å ivareta norske forhold best mulig, og med referanse til replikkordskiftet
+for å ivareta norske forhold best mulig. Med referanse til replikkordskiftet
 jeg nettopp hadde, er jeg spent på hvor lenge vi må vente på at
 regjeringen konkluderer om den FoU-rapporten som blir lagt fram
 denne våren.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003865">
+          <Hovedinnlegg Id="i1004687">
             <A>
               <Navn personID="BFA">
-Bengt Fasteraune (Sp) [11:08:42]:</Navn> Jeg har fått behov for
-å komme med en forklaring når det gjelder det som var i replikkordskiftet
+Bengt Fasteraune (Sp) [11:08:42]:</Navn> Jeg har behov for å komme
+med en forklaring når det gjelder det som var i replikkordskiftet
 her i stad. Jeg har stilt de samme spørsmålene tidligere til statsråden,
 og han starter alltid med at det er en merkelig måte å jobbe på,
 med tanke på den type avtale EØS-avtalen er. </A>
@@ -2225,7 +2222,7 @@ flertall i komiteen også. Det er disse spørsmålene man ønsker svar
 på, og det skal parlamentarikere ha svar på – ikke nødvendigvis
 si at man gjør så godt man kan. </A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003867">
+          <Hovedinnlegg Id="i1004689">
             <A>
               <Navn personID="ANDERI">
 Statsråd Andreas Bjelland Eriksen [11:11:49]:</Navn> Jeg har behov
@@ -2271,28 +2268,28 @@ arbeidsplasser.</A>
               <Navn>Presidenten [11:14:43]:</Navn> Flere har ikke
 bedt om ordet til sak nr. 3.</A>
           </Presinnlegg>
-          <Referanse Id="i1003869" voteringsDato="2026-03-17" debattDato="2026-03-13" saksKartNr="3" />
+          <Referanse Id="i1004691" voteringsDato="2026-03-17" debattDato="2026-03-13" saksKartNr="3" />
         </Sak>
-        <Sak Id="i1003871" saksKartNr="4" sakID="105669">
+        <Sak Id="i1004693" saksKartNr="4" sakID="105669">
           <Sakshode>
             <Saknr>
               <Uth Type="Sperret">Sak
 nr. 4</Uth> [11:14:52</Saknr>
-            <Saktittel Id="i1003875">
+            <Saktittel Id="i1004697">
               <A>Innstilling fra kontroll- og konstitusjonskomiteen
 om Riksrevisjonens oppfølging av forvaltningsrevisjoner som er behandlet
 av Stortinget <Uth Type="RETT">(Innst. 153 S (2025–2026), jf.
 Dokument 3:1 (2025–2026))</Uth></A>
             </Saktittel>
           </Sakshode>
-          <Hovedinnlegg Id="i1003877">
+          <Hovedinnlegg Id="i1004699">
             <A>
               <Navn personID="PTA">
 Per-Willy Amundsen (FrP) [11:15:26]</Navn> (komiteens leder og ordfører
 for saken): Riksrevisjonen følger normalt opp forvaltningsrevisjoner
 tre år etter at de er blitt behandlet i Stortinget. Formålet med
 det er å avklare om forvaltningen og departementene har fulgt opp
-de konklusjonene og føringene som Stortinget måtte ha gitt ved behandlingen
+de konklusjonene og føringene Stortinget måtte ha gitt ved behandlingen
 av de respektive sakene.</A>
             <A Type="Minnrykk">Årets melding omfatter elleve forvaltningsrevisjoner, hvorav
 én følges videre. Det siste gjelder Riksrevisjonens undersøkelse
@@ -2314,7 +2311,7 @@ og anbefalinger om å forbedre rapporteringen til Stortinget, og
 vurdere tiltak for å bedre kartlegging av naturfare, både i statlig og
 i kommunal regi, samt å følge opp at kartleggingen i større grad
 tar høyde for fremtidige klimaendringer. Det vil da bli fulgt opp
-på nytt. Dette er en vurdering som kontroll- og konstitusjonskomiteen
+på nytt. Dette er en vurdering kontroll- og konstitusjonskomiteen
 deler.</A>
             <A Type="Minnrykk">De øvrige ti undersøkelsene avsluttes, selv
 om det på noen områder reises bekymringer eller påpekes behov for
@@ -2322,7 +2319,7 @@ ytterligere forbedringer eller behov for å følge temaene i undersøkelsen
 videre i tiden fremover.</A>
             <A Type="Minnrykk">Komiteen har lagt frem en enstemmig innstilling.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003879">
+          <Hovedinnlegg Id="i1004701">
             <A>
               <Navn personID="MARSTE">
 Marie Østensen (A) [11:18:23]:</Navn> Forvaltningsrevisjoner er
@@ -2351,9 +2348,10 @@ i Nav og Trygderetten</A>
                 <A>undersøkelsen av helse- og omsorgstjenester til barn med funksjonsnedsettelser</A>
               </Pkt>
             </Liste>
-            <A Type="Minnrykk">Disse er blant sakene som Riksrevisjonen nå
-har lukket, etter å ha undersøkt om de endringene som ble foreslått
-i den opprinnelige forvaltningsrevisjonen, faktisk har blitt fulgt opp.</A>
+            <A Type="Minnrykk">Disse er blant sakene Riksrevisjonen nå har
+lukket, etter å ha undersøkt om de endringene som ble foreslått
+i den opprinnelige forvaltningsrevisjonen, faktisk har blitt fulgt
+opp.</A>
             <A Type="Minnrykk">Dokument 3:1 for 2025–2026, som vi behandler
 her i dag, handler om oppfølgingen av elleve forvaltningsrevisjoner.
 Jeg synes det er betryggende at bare én av elleve revisjoner nå
@@ -2383,7 +2381,7 @@ til en bedre sikring av eksisterende bebyggelse.</A>
 at anbefalingene for en stor del er tatt tak i, ved to nye stortingsmeldinger
 som er sentrale for klimatilpasningsområdet, den ene om hvordan
 man skaper et klimarobust samfunn, og den andre om hvordan vi må
-forberede samfunnet på økt hyppighet av flom og skred</A>
+forberede samfunnet på økt hyppighet av flom og skred.</A>
             <A Type="Minnrykk">I Stortingets behandling av saken stilte en
 samlet kontroll- og konstitusjonskomité seg bak Riksrevisjonens
 funn, kritikk og anbefalinger. Komiteen viste for øvrig til at behovet
@@ -2396,19 +2394,18 @@ at komiteen anerkjenner at Riksrevisjonens arbeid er viktig for
 oss her i Stortinget – og ikke minst for folk, det vil si oss alle.
 Vi er avhengige av at alle de tjenestene statsforvaltningen skal levere,
 faktisk blir levert slik de var tenkt, og at når feil oppstår –
-og det gjør de, for vi er jo bare mennesker – da blir de rettet
-opp.</A>
+og det gjør de, for vi er jo bare mennesker – blir de rettet opp.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003881">
+          <Hovedinnlegg Id="i1004703">
             <A>
               <Navn personID="JULSTU">
 Julie E. Stuestøl (MDG) [11:22:24]:</Navn> Klimakrisen er ikke noe
 som ligger foran oss; den er her nå, den er her allerede, og den
 merkes i hele landet. De siste 20 årene har over en halv million
 mennesker mistet livet i mer enn 6 000 værsituasjoner og klimarelaterte
-katastrofer global. I Norge kan temperaturen komme til å stige rundt
-4,5 grader, og med varmen følger det mer flom, flere skred og flere
-hendelser som truer lokalsamfunnene og tryggheten vår. </A>
+katastrofer globalt. I Norge kan temperaturen komme til å stige
+rundt 4,5 grader, og med varmen følger det mer flom, flere skred
+og flere hendelser som truer lokalsamfunnene og tryggheten vår. </A>
             <A Type="Minnrykk">Riksrevisjonen leverte i 2022 en grundig og
 alvorlig undersøkelse av hvordan staten og kommunene tilpasser bebyggelse
 og infrastruktur til et klima i endring. Den viste betydelige mangler
@@ -2416,9 +2413,9 @@ i sikring av bebyggelse, svak nasjonal samordning og en totalt utilstrekkelig
 kartlegging av naturfare. Det er bra at Riksrevisjonen ikke avslutter
 denne undersøkelsen. </A>
             <A Type="Minnrykk">Mye av det de pekte på, er tatt tak i gjennom
-de to stortingsmeldingene som regjeringen har lagt fram, om klimatilpasning
+de to stortingsmeldingene regjeringen har lagt fram, om klimatilpasning
 og om flom og skred. De anser det meste som utkvittert, og det er
-bra. Men to alvorlige punkter står fortsatt åpne. For det første
+bra, men to alvorlige punkter står fortsatt åpne. For det første
 den mangelfulle rapporteringen til Stortinget: Det er et paradoks
 at regjeringen jevnlig orienterer Stortinget om sikkerhetspolitikk
 og forsvar, men ikke om beredskap for klimahendelser, som er grunnbjelken
@@ -2442,9 +2439,9 @@ selv jobbet med dette i mange år og har kjent på stor frustrasjon
 over hvor altfor trege vi er som samfunn til å bli bedre på å forberede
 oss på klimaendringene. Naturfarene må ha kartlegging av god kvalitet. Det
 er helt avgjørende for at sårbarhetsanalysene skal bli gode nok.
-Så når vi ber kommunene om å sikre innbyggerne, men ikke gir dem
-kart, ikke gir dem penger, og ikke gir dem folk, ber man dem om
-å slåss med naturkreftene med bind for øynene. </A>
+Når vi ber kommunene om å sikre innbyggerne, men ikke gir dem kart,
+ikke gir dem penger, og ikke gir dem folk, ber man dem om å slåss
+med naturkreftene med bind for øynene. </A>
             <A Type="Minnrykk">Da ekstremværet «Hans» rammet store deler av
 Østlandet, fikk vi et glimt av framtiden. Hundreårsflommer skjer ikke
 lenger hvert hundrede år – de skjer oftere, de er kraftigere, og
@@ -2452,13 +2449,13 @@ de skjer gjerne samtidig med andre problemer. </A>
             <A Type="Minnrykk">Vi vet også at naturen selv er en av de sterkeste
 allierte vi har i møte med klimaendringene. Vi vet hvor viktig det
 er å ta vare på myr, våtmark og naturskog, for det lagrer vann,
-demper flom og hindrer erosjon. Å ta vare på natur er ikke bare miljøpolitikk;
+demper flom og hindrer erosjon. Å ta vare på natur er ikke bare miljøpolitikk,
 det er også veldig, veldig god beredskapspolitikk. </A>
             <A Type="Minnrykk">Det er mulig å bygge et klimarobust samfunn,
 og det er mulig å gjøre Norge tryggere. Det finnes løsninger, og
-de ligger rett foran oss. La meg løfte fram noen av de tiltakene
-som MDG tidligere har fremmet, og som etter vårt syn ville gjort Norge
-betydelig tryggere: </A>
+de ligger rett foran oss. La meg løfte fram noen av de tiltakene MDG
+tidligere har fremmet, og som etter vårt syn ville gjort Norge betydelig
+tryggere: </A>
             <Liste Type="Strek">
               <Pkt>
                 <A>Vi foreslo å trappe opp NVE-midlene
@@ -2490,7 +2487,7 @@ som gjenstår, er kartlegging av naturfare og rapportering til Stortinget,
 er det selve grunnmuren i klimatilpasningen som mangler – og et hus
 uten en grunnmur står seg ikke gjennom et uvær.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003883">
+          <Hovedinnlegg Id="i1004705">
             <A>
               <Navn personID="ANDERI">
 Statsråd Andreas Bjelland Eriksen [11:27:33]:</Navn> Riksrevisjonen
@@ -2537,7 +2534,7 @@ når det gjelder flom.</A>
             <A Type="Minnrykk">Regjeringen er enig i at det fortsatt er behov
 for systematisk innsats på dette området. Stortingsmeldingen om
 flom og skred, som regjeringen la fram i 2024, inneholder flere
-viktig grep, og regjeringen er godt i gang med å følge opp meldingen.
+viktige grep, og regjeringen er godt i gang med å følge opp meldingen.
 NVE arbeider både med å oppdatere eldre flomsonekart og flomberegninger
 og med å legge inn oppdaterte klimapåslag. Målet er at alle flomberegninger
 som er mer enn 15 år gamle, skal fornyes innen juni 2028. I tillegg
@@ -2575,14 +2572,14 @@ til å håndtere et klima i endring.</A>
               <Navn>Presidenten [11:32:04]:</Navn> Flere har ikke
 bedt om ordet til sak nr. 4.</A>
           </Presinnlegg>
-          <Referanse Id="i1003885" voteringsDato="2026-03-17" debattDato="2026-03-13" saksKartNr="4" />
+          <Referanse Id="i1004707" voteringsDato="2026-03-17" debattDato="2026-03-13" saksKartNr="4" />
         </Sak>
-        <Sakreferat Id="i1003887">
+        <Sakreferat Id="i1004709">
           <Sakshode>
             <Saknr>
               <Uth Type="Sperret">Sak
 nr. 5</Uth> [11:32:26]</Saknr>
-            <Saktittel Id="i1003889">
+            <Saktittel Id="i1004711">
               <A>Referat</A>
             </Saktittel>
           </Sakshode>

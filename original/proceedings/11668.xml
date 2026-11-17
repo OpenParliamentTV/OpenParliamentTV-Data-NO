@@ -1,0 +1,2397 @@
+<Forhandlinger Status="Kvalitetssikret">
+  <Mote moteID="11668">
+    <Startseksjon>
+      <Motestart>
+        <Tittel>Møte tirsdag den 20. oktober 2026 kl. 10</Tittel>
+        <President Id="i1002592" personID="MASG">
+          <A>President: <Uth Type="Sperret">Masud
+Gharahkhani</Uth></A>
+        </President>
+        <Dagsorden>
+          <Tittel>Dagsorden <DagsordenNR>(nr. 8):</DagsordenNR></Tittel>
+          <DagsordenSak Id="i1002594">
+            <Liste Type="Dagsorden">
+              <Pkt>
+                <A> 1.	Innstilling
+fra valgkomiteen om valg av medlemmer og varamedlemmer til Nordisk
+råd</A>
+                <A>(Innst. 19 S (2026–2027))</A>
+              </Pkt>
+              <Pkt>
+                <A> 2.	Redegjørelse av statsministeren om regjeringens skolepolitikk
+og tiltak for å snu utviklingen i skoleresultater</A>
+                <A>(Det vil bli foreslått debatt umiddelbart etter redegjørelsen)</A>
+              </Pkt>
+              <Pkt>
+                <A> 3.	Redegjørelse av utviklingsministeren om nordisk samarbeid</A>
+              </Pkt>
+              <Pkt>
+                <A> 4.	Interpellasjon fra representanten Haagen Poppe til barne-
+og familieministeren:</A>
+                <A>«Staten har ikke kontroll over utdelingen av trosstøtte. I september
+skrev VG om at flere nordmenn har oppdaget at de er innmeldt i trossamfunn
+mot sin vilje. Det fremstår som bedrageri. Når det offentlige velger
+å prioritere betydelige summer til tros- og livssynssamfunn fremfor
+til andre gode formål, burde et minimum være å kontrollere at folk faktisk
+har meldt seg inn selv. Systemet er i det store og hele basert på
+tillit, og denne tilliten virker å være brutt. Dessuten er det å
+melde et menneske inn i et trossamfunn mot deres viten et brudd
+på retten til trosfrihet. Dette reiser flere prinsipielle spørsmål
+om finansiering av tro- og livssynssamfunn, og det er behov for
+en bred gjennomgang av medlemsregistrene og hele støtteordningen. </A>
+                <A>Er statsråden enig i at staten ikke har kontroll over utbetalingen
+av betydelige offentlige midler til tros- og livssynssamfunn, og
+at dette svekker tilliten til hele ordningen?»</A>
+              </Pkt>
+              <Pkt>
+                <A> 5.	Referat</A>
+              </Pkt>
+            </Liste>
+          </DagsordenSak>
+        </Dagsorden>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:00:06]:</Navn> Representanten
+Peter Frølich, som har vært permittert, har igjen tatt sete. Den innkalte
+vararepresentanten for Akershus, Marie Østensen, tar nå sete.</A>
+          <A Type="Minnrykk">Statsråd Kari Nessa Nordtun vil overbringe
+en kongelig proposisjon.</A>
+        </Presinnlegg>
+        <Hovedinnlegg Id="i1002596">
+          <A>
+            <Navn personID="KARNOR">
+Statsråd Kari Nessa Nordtun [10:00:30]:</Navn> På vegne av regjeringen
+har jeg den ære å overbringe en kongelig proposisjon til Stortinget
+om petroleumsskattelovgivningen – teknisk revisjon.</A>
+        </Hovedinnlegg>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:00:42]:</Navn> Proposisjonen
+vil bli behandlet på reglementsmessig måte.</A>
+          <A Type="Minnrykk">Representanten Hege Bae Nyholt vil framsette
+et representantforslag.</A>
+        </Presinnlegg>
+        <Hovedinnlegg Id="i1002598">
+          <A>
+            <Navn personID="HEGNYH">
+Hege Bae Nyholt (R) [10:01:04]:</Navn> På vegne av stortingsrepresentantene
+Terje Kollbotn, Marie Sneve Martinussen og meg selv har jeg gleden
+av å framsette et representantforslag om organisasjonsfrihet og
+arbeiderrettigheter på statsstøttede private skoler.</A>
+        </Hovedinnlegg>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:01:21]:</Navn> Representanten
+Erlend Svardal Bøe vil framsette et representantforslag.</A>
+        </Presinnlegg>
+        <Hovedinnlegg Id="i1002600">
+          <A>
+            <Navn personID="ERLBE1">
+Erlend Svardal Bøe (H) [10:01:34]:</Navn> På vegne av representantene
+Erlend Larsen, Margret Hagerup, Ove Trellevik, Kari Sofie Bjørnsen,
+Anna Molberg og Mari Holm Lønseth og meg selv vil jeg framsette
+et representantforslag om å gjennomgå og modernisere norsk alkoholpolitikk.</A>
+        </Hovedinnlegg>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:01:50]:</Navn> Forslagene
+vil bli behandlet på reglementsmessig måte.</A>
+        </Presinnlegg>
+      </Motestart>
+    </Startseksjon>
+    <Hovedseksjon Id="i1002602">
+      <Saker>
+        <Sak saksKartNr="1" sakID="200471">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak nr. 1</Uth> [10:01:56]</Saknr>
+            <Saktittel Id="i1002606">
+              <A>Innstilling fra valgkomiteen om valg
+av medlemmer og varamedlemmer til Nordisk råd <Uth Type="RETT">(Innst.
+19 S (2026–2027))</Uth></A>
+            </Saktittel>
+          </Sakshode>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [10:02:03]:</Navn> Ingen har bedt
+om ordet.</A>
+          </Presinnlegg>
+          <Referanse Id="i1002608" voteringsDato="2026-10-20" debattDato="2026-10-20" saksKartNr="1" />
+        </Sak>
+        <Sak Id="i1002610" saksKartNr="2" sakID="200457">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak
+nr. 2</Uth> [10:02:09]</Saknr>
+            <Saktittel Id="i1002614">
+              <A>Redegjørelse av statsministeren om
+regjeringens skolepolitikk og tiltak for å snu utviklingen i skoleresultater (Det
+vil bli foreslått debatt umiddelbart etter redegjørelsen)</A>
+            </Saktittel>
+          </Sakshode>
+          <Hovedinnlegg Id="i1002616">
+            <A>
+              <Navn personID="JGS">
+Statsminister Jonas Gahr Støre [10:02:16]:</Navn> Barnas muligheter
+og landets framtid henger nært sammen. Å lære å lese, skrive og
+regne er en døråpner til verden, som gjør det mulig å forfølge nysgjerrigheten,
+tenke selv og forme sitt eget liv. Barnas læring former også hva
+landet vårt skal bli. På skolebenken i dag sitter framtidens sykepleiere,
+fagarbeidere, ingeniører og lærere. Kunnskapen og evnene de utvikler,
+skal bære helsetjenestene, næringslivet og fellesskapene våre videre. Men
+lærer elevene det de skal? Underviser vi på måter som hjelper dem
+å lære? Og klarer skolen å utvikle undringen, dannelsen og evnen
+til å tenke selv? Dette er de store spørsmålene vi må stille oss
+i vår tid. Over flere år har nasjonale og internasjonale undersøkelser
+vist en utvikling i elevenes læring som er bekymringsfull. De siste
+resultatene understreker alvoret, og derfor vil jeg redegjøre for
+hvordan regjeringen arbeider for å snu skoleresultatene og styrke
+fellesskolen. </A>
+            <A Type="Minnrykk">«Jeg får troa på verden hver eneste gang jeg
+går inn i klasserommet.» Det sa Anita Melvold, lærer ved Thora Storm
+videregående skole i Trondheim, til Utdanningsnytt etter at PISA-resultatene
+ble presentert i september. Samtidig fortalte hun om elever som
+strever med å holde konsentrasjonen gjennom en lengre tekst. Hun
+fanger noe viktig. Vi har barn og unge med store evner og mye å
+bidra med. De fleste trives på skolen, har venner og opplever at
+lærerne bryr seg. Men for mange lærer ikke å lese, skrive og regne
+godt nok. Da svikter vi en av skolens viktigste oppgaver. Norske
+skoleresultater viste forbedringer fram mot 2015. Da snudde det,
+og pilene pekte nedover. PISA-resultatene viser betydelig tilbakegang
+i lesing og matematikk. Én av tre i lesing og nær fire av ti i matematikk
+ligger under det OECD regner som nødvendig kompetanse for videre
+læring og deltakelse i arbeidslivet. Andelen med svake matematikkferdigheter
+er mer enn doblet siden 2015. Den internasjonale demokratiundersøkelsen
+ICCS viser at norske elever på 9. trinn hadde svakere kunnskap om
+demokrati og medborgerskap i 2022 enn i 2016. Den internasjonale
+leseundersøkelsen PIRLS viste et markant fall i norske tiåringers
+leseferdigheter fra 2016 til 2021. Norske elever rapporterte også
+om lavest leseglede blant de 65 landene og regionene som deltok.
+TIMSS-undersøkelsen viser også en mindre tilbakegang i femteklassingenes
+matematikk- og naturfagprestasjoner fra 2019 til 2023. Det er også
+framgang: Elevene gjør det bedre i engelsk på nasjonale prøver på
+8. trinn. Færre rapporterer om mobbing i Elevundersøkelsen, selv
+om nivået fortsatt er høyt. Flere er motiverte, og dagsfraværet
+i videregående skole går nå ned. Etter mange års økning fullfører
+nær 82 pst. videregående opplæring med studie- eller yrkeskompetanse.
+Men når flere går ut av grunnskolen med svake ferdigheter, kan framgangen
+i videregående opplæring komme under press. Vi vet også at forskjellene
+er store – mellom fylker, mellom jenter og gutter og mellom elever
+med ulik sosial bakgrunn. Forskjellene mellom elever fra ulike sosiale
+bakgrunner har dessuten økt over tid. Skolemiljøet har også utfordringer som
+tallene alene ikke beskriver: Forskere som har undersøkt elevkulturen,
+beskriver tøffere språkbruk og tydelige sosiale hierarkier. Riksrevisjonens
+rapport fra juni – for å nevne den også – understreker alvoret:
+Til tross for langvarig satsing fra ulike regjeringer har andelen
+elever med svake grunnleggende ferdigheter økt kraftig siden 2015. </A>
+            <A Type="Minnrykk">Hva kan forklare denne utviklingen? Fellesskoleutvalget,
+med noen av våre mest erfarne skolefolk, beskriver en skole under
+press. Da utredningen ble lagt fram, sa lederen, Bjørn Haugstad: </A>
+            <Sitat Type="Minnrykk">
+              <A>«Fellesskolen er en bærebjelke i det
+norske samfunnet, og den står i fare for å briste av overbelastning.» </A>
+            </Sitat>
+            <A Type="Minnrykk">Utvalget peker på endringer både i samfunnet
+og i skolen. Digitale tjenester konkurrerer om barnas oppmerksomhet,
+og digitale verktøy har fått større plass i undervisningen. Elevene
+leser mindre, og konsentrasjonen og utholdenheten er under press.
+Økte forskjeller og større mangfold gir elevene ulike forutsetninger
+for læring. Framover vil en aldrende befolkning også legge større
+press på kommunenes ressurser. Utvalget peker videre på vårt ansvar
+som politikere: Mange reformer og endringer har hver for seg vært
+godt begrunnet, men samlet sett kan de ha overbelastet skolens kapasitet.
+Vi kan ikke fortsette å legge nye oppgaver på skolen uten å si hva
+som skal få mindre plass. Og endringene vi prioriterer, må få tid
+til å virke. Skolen må møte tiden barn og unge lever i. Når stadig
+mer konkurrerer om oppmerksomheten deres og vi i mindre grad leser,
+ser og opplever det samme, blir skolen enda viktigere som et sted
+for felles kunnskap, samtale og tilhørighet. I Regjeringens plan for
+Norge er ambisjonen klar: Vi vil snu skoleresultatene. Veien dit
+er også klar: Skolen må tilbake til det viktigste – elevenes læring
+– i både innhold og organisering. Alle skal lære å lese, skrive
+og regne skikkelig. Med disse ferdighetene kan elevene tilegne seg
+kunnskap, uttrykke seg og tenke selv. Å styrke de grunnleggende
+ferdighetene er derfor avgjørende for å oppfylle det brede oppdraget
+i opplæringsloven og læreplanverket – og formålsparagrafens løfte
+om at skolen skal åpne dører mot verden og framtiden. For å styrke
+elevenes læring samler regjeringen innsatsen om tre grep: mer ro
+til å lære, tidligere og tettere oppfølging, og tydeligere innhold
+og progresjon. </A>
+            <A Type="Minnrykk">La meg begynne med det første: Vi skal få konsentrasjonen
+tilbake i skolen. Skjermene har de siste ti årene fått en stadig
+større plass både i skolen og i barnas fritid – nær sagt overalt.
+Algoritmestyrte tjenester konkurrerer nå om oppmerksomheten gjennom
+hele døgnet. Jeg mener at både kunnskap og erfaring bekrefter at
+digitale forstyrrelser er en del av forklaringen på at læringen
+svikter. Skolen må være en motvekt i denne utviklingen og gi elevene
+ro til å lese, tenke og arbeide. Derfor har vi gitt nasjonale anbefalinger
+om mobilfrie skoler, både i undervisningen og i friminuttene i grunnskolen. 99 pst.
+av rektorene sier nå at de har innført mobilrestriksjoner. Vi har
+også endret læreplanene for 1. til 4. klasse: Bruken av digitale
+enheter skal være særskilt varsom og ikke dominere undervisningen,
+og læringen skal avgjøre når skjermen brukes. Vi har i år gitt aldersdelte anbefalinger
+om kunstig intelligens. Elever i barneskolen bør i all hovedsak
+ikke bruke kunstig intelligens, på ungdomstrinnet kan den tas i
+bruk gradvis og under veiledning, og i videregående skole skal elevene
+lære å bruke teknologien kritisk og ansvarlig. Prinsippet er at
+teknologien skal støtte læringen, ikke overta arbeidet eleven trenger
+å gjøre selv. Elevene skal selv lese teksten, streve med regnestykket,
+finne ordene og tenke tanken helt ut. Det er ikke bare vi som arbeider
+langs disse sporene. Da jeg besøkte en barneskole på Manhattan i
+New York med byens borgermester, Mamdani, for noen uker siden, diskuterte
+vi akkurat de samme spørsmålene. Han var interessert i hvordan Norge
+skjermer de yngste og setter rammer for skjermbruk og KI i skolen.
+Så her kan vi ha mye gjensidig utveksling. Kampen om oppmerksomheten
+fortsetter også utenfor skolen. Derfor vil vi innføre en aldersgrense
+for skadelige sosiale medier, som også kan omfatte enkelte spillplattformer.
+Grensen skal gå 1. januar det året ungdommen fyller 16 år. </A>
+            <A Type="Minnrykk">Samtidig må læreren vite hva som er lov å gjøre
+når undervisningen blir alvorlig forstyrret eller en situasjon blir
+farlig. Læreren skal være sjefen i klasserommet, men den tidligere
+opplæringsloven, som vi vedtok i denne sal, hadde ingen egne regler
+om fysisk inngripen. Det skapte usikkerhet og ulik praksis fra skole
+til skole. Vi har derfor i to omganger endret opplæringsloven for
+å avklare hvilke situasjoner som gir adgang til fysisk inngripen.
+Vi har tydeliggjort at lærerens versjon skal høres når en lærer
+blir beskyldt for å krenke en elev, og at rektor kan legge bort
+åpenbart grunnløse påstander om krenking. Vi har også sendt på høring
+et forslag om at elever kan pålegges opplæring utenfor egen klasse
+i en begrenset periode dersom oppførselen deres går alvorlig ut
+over medelevers eller ansattes trygghet, eller medelevenes læring.
+Læreren trenger også støtte fra et større lag rundt seg. Miljøarbeidere,
+barne- og ungdomsarbeidere, helsesykepleiere og andre fagfolk bidrar
+med viktig kompetanse i skolehverdagen. De kan følge opp elever
+som strever, forebygge konflikter og hjelpe elever inn i fellesskapet.
+Som en del av dette arbeidet har vi foreslått 130 mill. kr neste
+år til skolemiljøteam og beredskapsteam i kommuner med store utfordringer.
+Teamene skal bistå skolene i vanskelige saker og arbeide forebyggende. </A>
+            <A Type="Minnrykk">Til dette første punktet, kort sagt: Vi reduserer
+forstyrrelsene og gir læreren større myndighet og støtte til å lede
+klassen. Elevene skal få ro til å konsentrere seg og øve opp utholdenheten
+som læring krever. </A>
+            <A Type="Minnrykk">For det andre: Vi skal gi elevene tidligere
+og tettere oppfølging. I går besøkte jeg Porsgrunn videregående skole.
+Der møtte jeg elever som får tett oppfølging i matematikk i det
+de kaller styrk-klasser, med rundt tolv elever og to lærere, en
+satsing som fylkeskommunen har igangsatt og finansiert. Det gjorde
+sterkt og positivt inntrykk. En elev fortalte at det tidligere ikke
+hadde vært tid til å få hjelp. Beskjeden var at dette skal du bare
+kunne. Nå fikk eleven hjelp til å tette hullene som var igjen fra grunnskole
+og ungdomsskole. Andre fortalte at den nære kontakten med læreren
+gjorde at nå turte de å spørre. Jeg merket meg særlig en elev som
+sa: «Jeg er ikke dum fordi jeg ikke får det til, jeg får det bare
+ikke til akkurat nå. Jeg kommer til å få det til.» Nå erfarte hun
+at hun fikk det til, og det var et stort øyeblikk for henne, for læreren
+og for de andre. Det er den troen på egen læring vi må bygge. Lærerne
+trenger tid til å finne ut hva elevene har forstått, hvor det stopper
+opp, og hvordan de kan hjelpe dem videre. Og elevene må få denne
+oppfølgingen tidlig i skoleløpet. Vi har derfor sendt på høring
+et forslag om å lovfeste at deler av opplæringen i lesing, skriving
+og regning på 1. og 2. trinn skal organiseres i mindre grupper.
+Norsk forskning gir støtte til å bruke lærerne mer målrettet i små
+grupper i kortere perioder. I et forsøk ved 159 norske skoler fikk
+elever som deltok i smågruppeundervisning, bedre resultater i matematikk.
+Kunnskapsdepartementet anbefaler grupper på to til seks elever,
+i perioder, slik at alle får tettere oppfølging og fortsatt tilhører
+klassefellesskapet. I forslaget til statsbudsjett for 2027 setter
+vi av 465 mill. kr for å få til mer smågruppeundervisning fra neste
+høst. Helårsvirkningen er om lag én milliard kroner. Dette kommer
+i tillegg til lærernormen. Midlene skal rettes mot 1. og 2. trinn,
+men også mot 5. og 8. trinn, i den viktige overgangen til mellomtrinnet
+og ungdomsskolen. Oppfølgingen skal også henge sammen når elever
+bytter skole. I høst er det innført nye regler i opplæringsloven
+og privatskoleloven som utvider adgangen til å dele opplysninger
+om elever ved skolebytte. </A>
+            <A Type="Minnrykk">Tettere oppfølging må også følges av en skolehverdag
+som er bedre tilpasset de yngste. Derfor vil vi endre skoledagen
+på 1. og 2. trinn. Professor Elisabeth Bjørnestad, som ledet evalueringen
+av seksårsreformen, gir en klar anbefaling: </A>
+            <Sitat Type="Minnrykk">
+              <A>«Mer lek i klasserommet og en mer fleksibel
+og variert skoledag vil være viktige tiltak for å gjøre skolen best
+mulig for første- og andreklassingene.» </A>
+            </Sitat>
+            <A Type="Minnrykk">De faglige anbefalingene er med andre ord tydelige på
+at skolen må bygge videre på språket, leken og fellesskapet barna
+kjenner fra barnehagen. Derfor ber vi – i en ny høring – om innspill
+til forslag om bredere fagområder, mer fleksibel tidsbruk og tydeligere
+føringer for undervisningen på 1. og 2. trinn. Med tolv timer gratis
+SFO i uken på 1.–3. trinn har vi også gjort det mulig for flere barn
+å delta i leken og fellesskapet før og etter undervisningen. </A>
+            <A Type="Minnrykk">For å følge opp elevene bedre må vi også vite
+hva de kan, og hva de strever med. De siste 20 årene har nasjonale
+prøver og elevundersøkelser gitt oss mer systematisk kunnskap om
+elevenes læring og skolemiljø. Men Utdanningsdirektoratet peker
+på vesentlige svakheter ved dagens nasjonale prøver, bl.a. at lærerne
+får for lite informasjon om hvordan de kan følge opp elevene etter at
+undersøkelsen er gjennomført. Kvalitetsutviklingsutvalget, ledet
+av professor Tine Sophie Prøitz, har foreslått et nytt system for
+kvalitetsutvikling. Nå utvikler vi læringsstøttende prøver som skal
+vise tydeligere hva elevene kan og trenger hjelp med. Lærerne skal
+kunne bruke resultatene mer aktivt i undervisningen, og kvalitetsutviklingssystemet
+skal også gi kommunene og staten informasjon om utviklingen i skolen.
+Vi utvikler også bedre kartleggingsverktøy for den tidlige lese-
+og regneopplæringen og en ny skolemiljøundersøkelse. Dagens nasjonale
+prøver videreføres mens de nye utvikles. Oppfølgingen må også nå
+elevene som blir borte. Med den nye opplæringsloven har vi lovfestet
+at kommuner og fylkeskommuner skal følge opp elever med fravær,
+fra første fraværsdag. </A>
+            <A Type="Minnrykk">Til punkt to, kort sagt: Vi setter inn smågruppeundervisning
+tidlig i skoleløpet og rundt viktige overganger. Elever skal få
+hjelp før vanskene vokser, og større utfordringer når de er klare
+for det. </A>
+            <A Type="Minnrykk">For det tredje: Vi skal gi opplæringen tydeligere
+innhold og progresjon. Elevene må lære fakta, øve og pugge, og bruke
+det de lærer til å reflektere, resonnere og forstå sammenhenger.
+Da trenger lærerne tydelige svar: Hvilken kunnskap skal elevene
+tilegne seg? Og hva må de kunne før de går videre? Vi hadde fagfornyelsen,
+den ble grundig diskutert. Evalueringen av denne viser at mange lærere
+er usikre på hvordan læreplanene skal tolkes og forstås. Forskerne
+peker på behovet for klarere beskrivelser av hva elevene skal lære,
+og hvordan kunnskapen skal bygges opp gjennom skolegangen. Det må
+vi gjøre noe med. Derfor gjør vi læreplanene tydeligere. Fra skolestart
+i år gjelder en justert læreplan i matematikk, med mer konkrete
+kompetansemål og tydeligere progresjon i regneferdighetene. Arbeidet
+med flere fag vil fortsette. Vi vurderer også hvilken plass digitale
+ferdigheter har i læreplanverket. Siden 2006 har bruk av digitale
+verktøy vært en grunnleggende ferdighet som skal inngå i alle fag,
+sammen med de grunnleggende ferdighetene lesing, skriving og regning
+– ja, det har vært en sidestilt ferdighet. Denne sidestillingen
+har blitt brukt som argument for at førsteklassinger skal ha hver
+sin skjerm, og for å velge digitale læremidler framfor bøker. Jeg
+mener vi må prioritere annerledes: Lesing, skriving og regning skal
+komme først, og teknologien skal brukes når den bidrar til læring.
+Derfor ber vi nå Utdanningsdirektoratet sende på høring et forslag
+om å fjerne digitale ferdigheter som egen grunnleggende ferdighet.
+Elevene skal fortsatt lære å forstå teknologi, bruke den og utøve
+digital dømmekraft, men digital kompetanse trenger ikke være et
+mål i alle fag og på alle trinn. </A>
+            <A Type="Minnrykk">I 1892 kom første bind av Nordahl Rolfsens
+lesebok – og noen av oss kan faktisk huske den fra skolen, ikke helt
+tilbake til 1892, men langt tilbake i tid. Gjennom generasjoner
+møtte barn over hele landet fortellinger, dikt, sanger og bilder
+i det samme leseverket. De lærte å lese og fikk samtidig kunnskap
+og fortellinger som de kunne dele med hverandre. Også dagens elever
+trenger felles referanser – tekster, musikk og historie som gir dem
+noe å snakke om og tenke videre med. På oppdrag fra regjeringen
+har lærere og fagfolk, sammen med Utdanningsdirektoratet, laget
+veiledende innholdslister. Musikk og samfunnsfag er klare; norsk
+og samisk kommer neste skoleår. I musikk spenner forslagene fra Griegs
+Peer Gynt til vår tids Karpe. Elevene trenger også å forstå hvorfor
+det de lærer, er verdt å kunne. Det kan bli tydelig når elevene
+bruker brøk i en oppskrift, beregner materialer for å bygge noe
+eller bruker historien til å forstå dagens nyheter. I budsjettforslaget
+for 2027 setter vi av 208 mill. kr til utstyr og læringsarenaer
+for praktisk og variert undervisning på 1.–10. trinn. Å spille et
+instrument, forme noe med hendene eller uttrykke seg gjennom bilder
+er også kunnskap elevene skal få utvikle. I de praktiske og estetiske
+fagene lærer de teknikker, øver og skaper egne uttrykk. De kan oppdage
+evner og interesser de ikke visste at de hadde. Med valgfag på mellomtrinnet
+vil vi gi elevene mulighet til å utforske egne interesser tidligere,
+og med flere timer i kroppsøving på ungdomstrinnet skal de få mer
+bevegelse i skoledagen – det viser også forskning at har betydning
+for all annen læring og trivsel. </A>
+            <A Type="Minnrykk">Elevene trenger også gode læremidler. Mange
+lærere opplever at de i praksis ikke kan velge mellom trykte og
+digitale læremidler. Ved besøk på skolene ser jeg selv at de klasserommene
+som lærerne er mest fornøyd med å undervise i, har variasjonen og
+kan velge ut fra hva som passer for den enkelte anledning. Vi har
+sendt på høring et forslag om å lovfeste tilgang til trykte læremidler
+og læringsressurser i grunnskolen. Vi vurderer også tiltak for å
+styrke kvaliteten, inkludert en godkjenningsordning. Gjennom Leseløftet
+vil vi prioritere minst én milliard kroner ekstra til lesing i denne
+stortingsperioden sammenliknet med 2025. Pengene skal bl.a. gå til
+flere lærebøker og flere bøker og styrket kompetanse i skolebibliotekene.
+Leseløftet må også forstås som et dannelsesløft: Gjennom lesingen
+kan elevene leve seg inn i andres liv og møte tanker og erfaringer
+som er forskjellige fra deres egne. </A>
+            <A Type="Minnrykk">Forrige uke besøkte jeg Bryne skule i Rogaland.
+Sjetteklassingene Maria og Tobias viste meg teksten de arbeidet
+med, om å bli fotballproff. På den skolen er det en del som har
+noe å strekke seg etter fordi verdens beste fotballspiller trente
+på banen utenfor da skolen var slutt. Det skal også sies at Erling
+Braut Haaland har gitt en gave til skolen i form av bøker til skolebiblioteket
+og sagt til elevene at du trenger også kondisjon når du leser. Det
+var et budskap jeg opplevde ble forstått. Læreren deres, Lise Sørensen,
+fortalte at hun nå velger tekster som både engasjerer og utfordrer
+elevene, en tekst om fotballproffen, og den neste teksten skulle
+handle om Rosa Parks. Der ligger en viktig oppgave for skolen: Å
+møte interessene elevene har, og vekke nye – fra drømmen om fotballbanen
+til kunnskap om kampen for like rettigheter. Lesekommisjonen, ledet
+av professor Marte Blikstad-Balas, skal tidlig neste år gi konkrete
+faglige råd om gode metoder og systematisk leseundervisning. Neste
+år legger vi også fram en realfags- og teknologistrategi, oppdatert
+for vår tid. </A>
+            <A Type="Minnrykk">Alt dette skal lærerne omsette til undervisning.
+Derfor endrer vi også lærerutdanningene. I september sendte vi forslag
+til nye rammeplaner på høring. Vi foreslår å erstatte elleve rammeplaner
+med én felles for lærerutdanningene og én for de samiske lærerutdanningene. Vi
+stiller tydeligere krav til at lærerne skal kunne støtte elevenes
+lese-, skrive- og regneutvikling, lede læringsarbeidet og tilpasse
+undervisningen. Vi foreslår minst 15 studiepoeng i et praktisk eller
+estetisk fag i den integrerte lærerutdanningen som omfatter 1.–4.
+trinn, og å styrke spesialpedagogikken. Samtidig gir vi utdanningene større
+frihet til å organisere studiene og tilby flere undervisningsfag.
+I samarbeid med partene har vi også innført et nytt system for kompetanse-
+og karriereutvikling. Neste år foreslår regjeringen nærmere 2,9 mrd. kr til
+kompetanseutvikling for ansatte i barnehage og skole. </A>
+            <A Type="Minnrykk">Til punkt tre, kort sagt: Vi skal prioritere
+tydeligere hva elevene skal lære. Læreplaner, læremidler og lærerutdanning
+skal gi lærerne bedre støtte til å hjelpe elevene videre – fra de
+første ferdighetene til mer kunnskap og dypere forståelse. </A>
+            <A Type="Minnrykk">Skolepolitikken trenger mer av det samme som klasserommet:
+konsentrasjon. Vi må også i politikken tilbake til det viktigste
+og samle den skolepolitiske innsatsen om elevenes læring: kunnskapen
+de skal tilegne seg, evnene de skal utvikle, fellesskapet de skal
+lære å bidra til, og dannelsen som følger av det. Skolene trenger tydelige
+rammer og faglig støtte: Staten tar nå et tydeligere ansvar for
+hva elevene skal lære, og for støtten skolene trenger. Kommunene
+skal fortsatt ha ansvar for skolene, men de har ulik størrelse,
+kapasitet og skolefaglig kompetanse. Hver kommune skal ikke måtte
+finne alle svarene selv. Kunnskap om god undervisning og faglig
+anbefalte verktøy skal komme elever over hele landet til gode. Skolene
+trenger prioriteringer som står fast over tid, slik at de får ro
+til å gjennomføre endringene: Partiene på Stortinget blir ikke enige
+om alt, det skal de heller ikke bli, men vi kan bli enige om det
+viktigste. Derfor inviterer jeg til bred enighet om de viktigste
+prioriteringene i skolepolitikken. Der vi er i dag, er blitt til
+over flere stortingsperioder og ulike regjeringer. Jeg tror ikke
+vi blir klokere ved å gå igjennom den tidsrekken for å finne: Hvor
+skjedde noe som gjorde at vi er der vi er i dag? </A>
+            <A Type="Minnrykk">Det elever og foreldre ønsker seg av oss, er
+at vi nå ser framover og tar de riktige valgene. Skolene trenger dyktige
+lærere og skoleledere: Skal grepene nå helt fram til timen der læreren
+underviser og elevene arbeider – skal de dyktige lærerne jeg så
+på Porsgrunn videregående skole i går, oppleve at vi gjør en forskjell
+for dem – må skolelederne ha tid, kompetanse og støtte til å utvikle undervisningen
+sammen med lærerne. Vi trenger også at flere velger en karriere
+i skolen: Etter flere år med nedgang økte søkingen til grunnskolelærerutdanningene kraftig
+i fjor og har holdt seg på det høyere nivået i år. Nesten 4 000
+søkere fikk tilbud om studieplass. Det gir håp for framtiden til
+fellesskolen. </A>
+            <A Type="Minnrykk">For det er til syvende og sist elevenes hverdag
+vi skal bidra til å forandre. Flere skal få tak på lesingen. Flere skal
+klare regneoppgaven som før virket umulig. Flere skal kjenne at
+de hører til. Da får fellesskolens store løfte innhold: at bakgrunnen
+din ikke skal sette grensen for mulighetene dine. Vår oppgave er
+å gi alle barn og unge kunnskapen de trenger for å mestre eget liv,
+og muligheten til å være med på å forme landet vårt. </A>
+          </Hovedinnlegg>
+          <Merknad>
+            <Handling>
+              <A>
+                <Uth Type="Sperret">Morten Stordalen</Uth> hadde
+her overtatt presidentplassen.</A>
+            </Handling>
+          </Merknad>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [10:28:31]:</Navn> Presidenten
+vil nå i henhold til Stortingets forretningsordens § 45 åpne for
+en kommentarrunde, begrenset til ett innlegg på inntil 5 minutter
+fra hver partigruppe og avsluttende innlegg fra statsministeren.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1002618">
+            <A>
+              <Navn personID="SYL">
+Sylvi Listhaug (FrP) [10:28:55]:</Navn> Takk til statsministeren
+for redegjørelsen. </A>
+            <A Type="Minnrykk">Det er bra at man nå skal jobbe for å snu skoleresultatene
+etter å ha styrt Norge i fem år. Jeg takker også for invitasjonen
+til å sette seg ned og se om vi kan bli enige om veien videre. Dessverre
+synes jeg nok engang det er noe med utgangspunktet. Det første er
+at alle barn skal ha samme tilnærming. La meg da starte med det
+regjeringen har sagt knyttet til 1. og 2. klasse, der man ønsker mindre
+struktur, altså mindre fag og timeplan, den slags, selv om vi vet
+at det som er viktig i skolen, er struktur. Mer lek er det ingenting
+galt med, men det som er galt, er at man går fra én grøft til den
+andre, istedenfor å prøve en middelvei. Barn er forskjellige. Noen
+kan lese og skrive når de starter på skolen, andre kan kanskje ikke
+en eneste bokstav. Poenget for Fremskrittspartiet, for å få ethvert
+barn til å bli den beste versjonen av seg selv, er nettopp å tilrettelegge
+for at de skal få lov til å lære på sitt nivå. Da må vi også sørge
+for at om man går på den eller den andre skolen, er det i hvert
+fall noen rammer som gjør at man får tilnærmet likt det samme tilbudet,
+sånn at vi ikke får de store forskjellene. Det er jo det som har vært
+problemet med dagens læreplan: Den har vært ullen, og den har vært
+vag, noe som gjør at man har store forskjeller mellom skolene i
+hvordan man legger opp dette. </A>
+            <A Type="Minnrykk">Det er også en fallitterklæring at vi ikke
+engang greier å lære barna våre grunnleggende ferdigheter. Det er mye
+som har gått galt. Det med at læreren skal være sjefen i klasserommet,
+er jo helt åpenbart. I for mange år har de som ødelegger undervisningen,
+som ikke følger spillereglene, fått lov til å herje. Likevel: Når
+man tar dem ut av klasserommet, er det jo lite hjelp i det hvis resten
+av klassen sitter der uten lærer. Det andre er hvor man skal gjøre
+av dem. Der mener Fremskrittspartiet at det må være klare spilleregler.
+Vi er nødt til å sørge for flere alternative opplæringsarenaer,
+for noen av disse kommer til å gå inn og ut av gangen hele tiden
+fordi de ikke finner seg til rette i skolen. De greier heller ikke
+å løfte ferdighetene sine med dagens skolemodell. Da må vi ha på
+plass noen arenaer: om det er gårder, om det er bilverksteder, om
+det er andre arenaer der disse kan få lov til å lære. Fra tid til
+annen har jeg vært ute og møtt barn som har fått lov til å være
+utenfor skoleporten, nettopp for å få opplæring. Det alle som kjenner
+dem, sier, er at de er som nye barn, for de får lov til å utvikle
+seg på sine premisser. Alle er faktisk gode til noe. Vår oppgave
+er å finne det. </A>
+            <A Type="Minnrykk">Så til diskusjonen om bok og iPad. Der er det
+også fra den ene grøfta til den andre. Jeg mener vi er nødt til
+å stole på at lærerne er de rette til å vurdere dette. Mine barn
+bruker iPad til å drive med mengdetrening i matte. Jeg ser at det
+er fornuftig. Hvorfor i all verden skal vi sitte her og regulere
+dette i detalj? Vi er nødt til å ha tiltro til lærerne. Når det
+gjelder satsingen fra regjeringen på bøker, vil det ikke engang
+strekke til én bok per elev. I så fall tror jeg det trengs noe mer,
+hvis vi skal sørge for at barna våre har disse bøkene. Jeg mener
+selvsagt også at kommunene må prioritere det. </A>
+            <A Type="Minnrykk">Det er bra at også Arbeiderpartiet nå snakker
+om små grupper eller nivådelt undervisning. Spørsmålet er likevel:
+Hvorfor skal det bare skje i starten av skoleløpet? Hvorfor skal
+det skje i 5. og 8. klasse? Hvorfor kan det ikke skje hele tiden,
+sånn at man faktisk greier å utvikle seg på sitt nivå? Alle barn
+skal være en del av en klasse, men i enkelte fag er vel det aller
+viktigste at man lærer det man skal, enten det er å lese, skrive
+eller regne, og at man får undervisning på det nivået man er. Det
+er i hvert fall det som er det viktigste for Fremskrittspartiet
+når det kommer til stykket. </A>
+            <A Type="Minnrykk">Vi mener også at fleksibel skolestart i større
+grad må brukes. Det er en del barn som starter på skolen før de
+er seks år gamle. Det er åpenbart en del utfordringer med det. Da
+må vi være mer fleksible og sørge for at familien og foreldrene
+får mer makt til også å kunne bestemme over det. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1002620">
+            <A>
+              <Navn personID="TONB">
+Tonje Brenna (A) [10:34:11]:</Navn> «Fellesskolen er en bærebjelke
+for det norske demokratiet og velferdssamfunnet», står det innledningsvis
+i Fellesskoleutvalgets NOU. Bedre kan det knapt sies. Vi er heldige
+i dette landet som har dyktige ansatte i skolen: lærere, sosionomer,
+barnevernspedagoger, barne- og ungdomsarbeidere, miljøterapeuter
+og sosialrådgivere. Knapt noen av dem som har befatning med våre
+barn og unge, har et større ønske om at ethvert barn skal trives
+og ethvert barn skal lære. </A>
+            <A Type="Minnrykk">Over flere år har vi sett en negativ utvikling
+i læringsresultatene i norsk skole. Det er alvorlig, både for enkeltelever
+og for samfunnet i stort. Vi skal fortsette jobben med å snu utviklingen
+i norsk skole, og vi har allerede satt i gang flere tiltak. Vi gjennomfører
+en storstilt satsing på bøker og på lesing gjennom Leseløftet, hvor
+vi vil bruke minst 1 mrd. kr på lesing i denne perioden. Vi har
+tatt mobiltelefonene ut av klasserommet og prioriterer tilskudd
+til utstyr og læringsarenaer for praktisk læring, for å unngå en
+stillesittende skolehverdag og få flere elever til å oppleve mestring,
+motivasjon og læring. Vi har endret de diffuse læreplanene i matematikk,
+sånn at det blir tydeligere hva læreren skal lære bort, og flere læreplaner
+står nå for tur. Vi skal skjerme barna bedre fra skjermen. Digitale
+enheter skal ikke dominere undervisningen på 1. til 4. trinn, og
+Skole-Norge har fått tydeligere beskjed om at kunstig intelligens
+som hovedregel ikke skal brukes i barneskolen. Vi har også endret
+reglene sånn at det er enda tydeligere at læreren er sjefen i klasserommet.</A>
+            <A Type="Minnrykk">Men det at vi har gjort mye bra de siste årene,
+betyr ikke at vi er i mål. Vi må tenke stort om de minste. Skal
+vi klare å snu utviklingen i norsk skole, er vi nødt til å starte tidlig,
+sånn at elevene får et godt grunnlag for resten av skoleløpet. De
+yngste elevene våre er bare fem og seks år. Arbeiderpartiet ønsker
+en start på utdanningen for ungene våre som i større grad er tilpasset
+dem, på deres premisser. Skal vi klare det, må vi basere oss på
+erfaring, forskning og kunnskap om hva som virker. Derfor er Arbeiderpartiet
+tydelig på hva vi vil: Elevene skal først og fremst lære å lese,
+skrive og regne, samtidig som de får være i aktivitet og bli trygge
+på læreren sin.</A>
+            <A Type="Minnrykk">Elevene, lærerne, foreldrene, alle som jobber
+i skolen og er sammen med barn og unge – ja, hele Norge – fortjener
+politikere som er opptatt av at vi utvikler skolen sammen, og ikke
+bare snakker om det som ikke virker. Jeg vil advare mot å skape
+en falsk motsetning mellom lek og læring. Barn lærer gjennom lek,
+og unger som trives, lærer bedre. Jeg vil også advare mot å skape
+en falsk motsetning mellom det å være kritisk til bruk av skjerm
+og kunstig intelligens i skolen, og det å framstille det som at
+man fornekter digitaliseringens tidsalder, eller at man ikke skal
+lære seg å bruke teknologi. Statsministeren sa det godt: Ungene
+må fortsatt lære seg å løse oppgaver og problemstillinger, selv
+i en verden hvor vi har teknologiske hjelpemidler. </A>
+            <A Type="Minnrykk">Det enkleste i verden er å svartmale eller
+beskrive problemene og alt det som ikke virker. Det kan virke som
+om det vanskelige er faktisk å komme på løsninger for å ta skolen
+framover. Jeg mener også at hva lokalpolitikerne våre gjør, har
+noe å si som ansvarlige skoleeiere. Når representanten Listhaug
+står her og beskriver alt som ikke fungerer, men ikke egentlig har
+andre løsninger, er det betimelig å se på hva som skjer i Møre og Romsdal,
+hvor FrP styrer. Der går fylkeskommunen med over 600 mill. kr i
+overskudd, men det er det fylket i landet hvor det brukes minst
+penger på skole, det er ansatt færre lærere de siste årene, og siden
+2022 brukes det 7 pst. mindre per elev enn det som skjedde tidligere.
+Det har noe å si hvordan man prioriterer også lokalt når fylkene
+våre og kommunene våre er så viktige skoleeiere.</A>
+            <A Type="Minnrykk">De siste årene har vi ikke klart å løse oppdraget
+skolen har. Vi har ikke klart å lære elevene det de skal, og for mange
+unger går gjennom skoleløpet uten å lære det de skal. Vi er i gang
+med mye viktig når vi sier at vi skal prioritere lesing, skriving
+og regning, og når vi sørger for flere bøker og tydeligere læreplaner.
+Men er det én ting vi må klare i fortsettelsen, er det å løse dette
+sammen – politikere, foreldre, lærere, alle de fantastiske menneskene som
+jobber i skolen og rundt ungene våre. Vi må beskytte skolen mot
+press utenfra og sørge for at fagfolk også blir hørt i diskusjonen
+om hvordan norsk skole kan bli enda bedre. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1002622">
+            <A>
+              <Navn personID="IME">
+Ine Eriksen Søreide (H) [10:39:30]:</Navn> Jeg vil takke statsministeren
+for redegjørelsen. Kunnskapsfallet til elevene er en krise. Det
+er både alvorlig for Norge og veldig alvorlig for hvert enkelt barn.
+Skolen er samfunnets aller viktigste redskap for å gi muligheter
+for alle, og en god skole er det viktigste for å kunne skape gode liv.
+Når elevene ikke lærer det de skal på skolen, møter de videre utdanning
+og arbeidsliv uten det grunnlaget de trenger. Vi får et samfunn
+med større utenforskap og færre muligheter. Ja, noe av læringskrisen
+skyldes samfunnstrender som slår inn i skolen, og som vi ser i flere land,
+men skolepolitikken er fortsatt avgjørende, fordi skolen kan og
+skal være en motvekt til disse trendene. Alle elever skal lære å
+lese, skrive og regne. </A>
+            <A Type="Minnrykk">Dessverre har ikke Arbeiderpartiets politikk
+gitt resultater. Da kunnskapsministeren presenterte den forrige
+PISA-undersøkelsen, sa hun at vi trenger «et krafttak for at elevene
+våre skal lære mer». Tre år senere er det bare Slovenia som har
+hatt et større fall i resultatene enn Norge. Regjeringa har fortsatt
+ikke presentert noen større tiltak for å snu utviklingen. Tilskudd
+til en halv skolebok per elev er fint, men det hjelper lite når
+stadig flere elever sliter med å lese den boka. Det hjelper i hvert
+fall lite når regjeringa samtidig skal vrake dagens nasjonale prøver
+og kartleggingsprøver og erstatte fag som norsk, matte og naturfag
+med mer lek og SFO de første skoleårene. Det er ikke en satsing
+på grunnleggende ferdigheter, og det vil ikke gjøre at elevene lærer
+mer. </A>
+            <A Type="Minnrykk">De første skoleårene er de viktigste årene
+vi har for å gi barn et godt grunnlag for videre utdanning. Høyre
+vil ha en skole som prioriterer det grunnleggende først, med faglig
+sterke lærere som har tid til å undervise. Vi foreslår derfor en
+større lesereform med flere fysiske bøker. Elevene skal lese mer,
+oftere og lengre tekster enn i dag, og alle lærere skal være leselærere.
+Læreplanene skal legge tydeligere vekt på progresjon og faktakunnskap.
+Elever som kan lite om det de leser om, forstår også lite av det
+de leser. </A>
+            <A Type="Minnrykk">Vi foreslår et realfagsløft der elever øver
+mer på grunnleggende regning med faglig oppdaterte realfagslærere,
+og for å fange opp elever som trenger ekstra hjelp tidlig, skal
+vi ha gode kartleggingsprøver. Elever som sliter, skal få intensivundervisning
+i mindre lese- og regnegrupper. På den måten sikrer vi at alle elever
+opplever mestringsøyeblikk i klasserommet og får troen på seg selv. </A>
+            <A Type="Minnrykk">Det er ingen faktor som er viktigere for elevenes
+læring enn gode lærere, og dem har vi mange av i skolen. Derfor
+er det også oppsiktsvekkende at regjeringa til tross for løfter
+om å satse på lærerne, ikke har gjort det. Tvert imot: Det er nå
+færre lærere på skolene, det er kraftige kutt i etter- og videreutdanning,
+og karriereveier for lærerne er fjernet. Alle karakterkrav for å
+komme inn på lærerutdanningen er borte. Cirka 75 pst. av studentene som
+kom inn på dispensasjon fra opptakskrav, strøk på den nasjonale
+deleksamenen i matte. </A>
+            <A Type="Minnrykk">Vi vil ha en stor satsing på lærerne og på
+skolelederne våre. Vi vil styrke lærernes faglige utvikling gjennom hele
+yrkeslivet og sikre en lærerutdanning av høy kvalitet basert på
+forskning om hva som faktisk gir best læring. Og lærerne skal ha
+autoritet, de skal stille krav til elevene, og de skal være tydelige
+ledere i klasserommet. En klar tilbakemelding fra lærere og skoleledere
+er at vi over tid har lagt flere og flere forventninger og krav
+på skolene – alt med gode intensjoner, men det går ut over tida
+skolen skulle ha brukt på kjerneoppgaven: god undervisning i fagene. </A>
+            <A Type="Minnrykk">Jeg har tidligere sagt at læreplanene ble for
+lite konkrete, og at digitaliseringen gikk for fort og var for ukritisk
+i Norge – som i de fleste andre europeiske land – og det tar Høyre
+ansvar for ved å lære av det som ikke fungerte, ved å utvikle og
+foreslå ny politikk som faktisk virker, og til å løse de store utfordringene
+i skolen. </A>
+            <A Type="Minnrykk">Det er bra at regjeringa nå tar Høyres retorikk
+om at elever trenger både fakta, øving og pugging, men regjeringa
+trenger også å ta Høyres politikk. Det holder ikke å snakke om grunnleggende
+ferdigheter når endringene til regjeringa ikke handler om det, men
+om lek, tverrfaglige temaer og aktivitet. </A>
+            <A Type="Minnrykk">La det ikke være noen tvil om at Høyre alltid
+vil sette seg ned og snakke og samarbeide med alle partier for å få
+gjennomslag for vår politikk: en lesereform, et realfagsløft og
+en satsing på lærerne våre. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1002624">
+            <A>
+              <Navn personID="SUNEID">
+Sunniva Holmås Eidsvoll (SV) [10:44:49]:</Navn> Jeg vil gi ros til
+statsministeren for å komme og redegjøre i Stortinget, for situasjonen
+i skolen er alvorlig. SV er klare for å forhandle med regjeringen
+om gode løsninger som kan stå seg over tid. Skoledebatten kan til
+tider være polariserende, der partiene kappes om å skille seg fra hverandre.
+SV skyr ikke de vanskelige debattene om styringen av skolen, men
+vi er også krystallklare på at det som er viktigst nå, er å sikre
+nok ressurser til skolen, og at fagpersonene som jobber der, må
+få tid og tillit til å gjøre jobben sin. Lykkes vi ikke med det,
+spiller det litt mindre rolle hva vi mener om metodene det undervises
+i på lærerutdanningen, nøyaktig hvordan nasjonale prøver skal utformes,
+hvilken grad av ullen man bruker for å beskrive læreplanene, eller
+hva man mener om fri lek opp mot lekbasert læring for de minste. </A>
+            <A Type="Minnrykk">Vi har nemlig noen utfordringer vi må løse.
+Barna våre trives dårligere på skolen og sliter mer med lesing og
+konsentrasjon enn for ti år siden. Samtidig har vi frustrerte lærere
+som gjerne skulle hatt mer tid til å følge opp barna, men i stedet
+ender opp med å bruke altfor mye tid på rapportering og byråkrati.
+Nå tvinges kommuner over hele landet til å kutte i skolebudsjettene,
+redusere laget rundt eleven og legge ned skoler. De økonomiske framtidsutsiktene
+for norske kommuner tegner ikke opp et bilde av at dette løser seg
+av seg selv. Lærere og skoleledere trenger ikke masse små politiske
+grep i rykk og napp, de trenger tillit, forutsigbarhet og nok ressurser.
+Har vi ikke nok folk i skolen, får vi heller ikke bedre læring.
+Vi kan ikke ta oss råd til at det skal være barna som betaler prisen
+for stram kommuneøkonomi. Å satse på skole lønner seg for samfunnet,
+det gir økt verdiskaping, bedre helse og lavere kriminalitet.</A>
+            <A Type="Minnrykk">Det er på tide å starte å lytte til hva de
+ansatte i skolen faktisk ber om. De ber ikke om flere skjemaer,
+flere rapporteringskrav eller flere obligatoriske tester. De ber om
+tid til å være lærere, de ber om mindre detaljstyring og mer tillit,
+og de har forsøkt å si ifra ganske lenge – da trivselen og motivasjonen
+falt år etter år, da mobbingen og fraværet økte, da det ble flere
+elever med behov for ekstra oppfølging, og mer uro og utagering
+i klasserommene. De burde kanskje ha blitt lyttet til før. Elevene
+leser ikke bedre av at politikere detaljstyrer klasserommet. Læringen
+blir bedre når dyktige ansatte får tid og mulighet til å bruke,
+utvikle og forbedre kompetansen sin og gi bedre undervisning. Når
+skolen lesses ned med byråkrati eller tidkrevende reformer, flyttes
+oppmerksomheten bort fra det viktige utviklingsarbeidet på hver enkelt
+skole. </A>
+            <A Type="Minnrykk">Vi må også stille oss følgende spørsmål: Hvilke
+elever er det skolen i økende grad ikke lykkes med? Diskusjonen
+om PISA-resultatene gir grunn til bekymring. Da er det tvingende
+nødvendig at vi dykker ned og ser på mer enn gjennomsnittstall.
+Her trengte vi ikke PISA for å trykke på alarmknappen. Andelen elever
+som fullfører ungdomsskolen uten grunnskolepoeng, har doblet seg de
+siste tiårene. SSB kom med en rapport i mars i år som peker på at
+økningen må ses i sammenheng med økningen i skolefravær. Det er
+også grunn til bekymring for økte sosiale forskjeller. Elever med
+foreldre med kortere eller ingen fullført utdanning strever mer
+med å fullføre skolen, og elever som vokser opp i lavinntekt, gjør
+også det. For mange elever opplever i dag en skolehverdag som ikke
+passer for dem. De som liker tankearbeid best, og blir mest motiverte
+av tankearbeid, er også de som gjør det best på skolen. Det er også
+den gruppen som dagens skole er best til å nå. De har de egenskapene
+som dagens skole verdsetter og premierer. Men de elevene som sliter
+mest i skolen, er også de vi ser vi har størst problemer med å nå.
+Det er særlig her skolen vår må lykkes bedre. </A>
+            <A Type="Minnrykk">Å forebygge er så utrolig mye bedre enn å reparere. For
+å øke trivselen må vi gi alle barn en god start på et langt utdanningsløp.
+For mange små barn er møtet med skolen rett og slett altfor tøft.
+Det blir for lite lek og for mye tid bak en pult. Jeg er enig med
+statsministeren i at vi må ta evalueringen av seksårsreformen på
+alvor. Skolehverdagen har blitt for teoritung, mer stillesittende
+og i mange tilfeller altfor mye preget av skjerm. Da faller leselysten,
+motivasjonen og trivselen, og løsningen er ikke mer av det samme
+vi har holdt på med de siste ti eller 20 årene, med flere timer
+i stillesittende og teoritunge fag, mindre variasjon og mindre valgfrihet.
+Vi trenger en mer praktisk og variert skole, mer lek og fysisk aktivitet for
+de minste, mindre skjerm og mer fysiske bøker, mer satsing på praktiske
+og estetiske fag. Derfor må vi styrke fellesskolen, ikke svekke
+den. Vi trenger nok ressurser, mer tid og tillit til fagpersoner
+i skolen.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1002626">
+            <A>
+              <Navn personID="ESAN">
+Erling Sande (Sp) [10:50:05]:</Navn> Dei temaa vi drøftar i dag,
+er blant dei aller viktigaste fellesoppgåvene vi har i samfunnet
+vårt, nemleg kva opplæring barna våre skal få, og korleis skulen
+vår skal utformast. Dei urovekkande PISA-resultata er berre eitt
+av signala om at vi må vere villige til å ta grep i norsk skule. </A>
+            <A Type="Minnrykk">Det er bra at statsministeren kjem til Stortinget
+og orienterer om grepa til regjeringa. Senterpartiet har peika på
+nokon av dei same grepa som statsministeren nettopp viste til, til
+dømes mindre skjerm, meir bruk av fysiske læremiddel og fleire ressursar
+inn i skulekvardagen. Men situasjonen vi står i, treng større endringar
+i norsk skule i tida framover. Vi må våge å stille kritiske spørsmål
+ved det som har vore hovudretninga, og som har fått for mykje plass
+i norsk skule over mange år: målstyring, større rapporteringskrav
+og meir detaljstyring, som stel av tida til både rektorar og lærarar,
+og som heller ikkje ha gjeve oss betre læring eller meir læring. </A>
+            <A Type="Minnrykk">Vi meiner det er behov for andre verkemiddel.
+Vi trur ikkje at sentralstyring og meir omfattande læreplanar er
+svaret. Vi må gje lærarane god støtte og rettleiing, men vi må òg
+ha tillit til at lærarane og skuleeigarane lagar gode læringsopplegg
+ut frå sin lokale føresetnader. </A>
+            <A Type="Minnrykk">Vi må òg bruke meir tid på å drøfte trivsel
+og ikkje minst meistring i debatten om norsk skule og skuleresultata,
+for det heng i hop. Det heng i hop med at så mange unge hamnar utanfor
+både utdanning og arbeidsliv. Det er hjarteskjerande å høyre om
+elevar som går gjennom skulekvardagen utan å kjenne på meistring.
+Vi kan jo sjølve, i våre posisjonar, kjenne etter korleis det ville ha
+vore å gå dag etter dag utan å kjenne på ein meistringsfølelse.
+Kva gjer det med eit barn? Skulen må vere ein arena for meistring
+òg for dei elevane som ikkje er dei mest teoristerke. </A>
+            <A Type="Minnrykk">Senterpartiet gjorde, i lag med Arbeidarpartiet,
+fleire viktige endringar i skulen då vi sat i regjering, f.eks. med
+innføring av valfag på mellomtrinnet og eit arbeidslivsfag i ungdomsskulen.
+Vi må ta inn over oss at mange elevar lærer ved å bruke hendene
+og kroppen sin. Norsk skule treng ikkje fleire teoritimar. Han treng meir
+frileik, han treng meir fysisk aktivitet, og han treng fleire meistringsarenaar
+for dei praktisk dyktige elevane. </A>
+            <A Type="Minnrykk">Dette handlar òg om ressursar – at kommunane
+har økonomi til å sikre lærarkrefter og læremiddel. Det handlar
+òg om ei styrkja lærarrolle – at ein lærar kan kjenna på at ein
+har fått tillit og har tryggleik for dei vala han eller ho tek i
+klasserommet, sjølvsagt i dialog med kollegaar og foreldre, men
+dette handlar òg om å ha lærarar som i møte med foreldre som har
+krav og oppfatningar, har autoritet til å seie: Ja, eg høyrer kva
+de meiner, men eg kjem likevel til å gjere det slik, for eg trur
+det er best for klassefellesskapen og barnet dykkar. </A>
+            <A Type="Minnrykk">Foreldrerolla er viktig. Vi som får vere foreldre
+til elevar i skulen, har òg eit ansvar for heile klassemiljøet, ikkje
+berre for vårt barn. </A>
+            <A Type="Minnrykk">Vi har mange fantastisk flinke lærarar og andre
+tilsette i norsk skule i dag, og vi treng at fleire vel å bli lærarar.
+I Senterpartiet fryktar vi at den femårige lærarutdanninga hindrar
+ein del unge i å velje lærarutdanning, rett og slett fordi det er
+eit for langt løp å starte på. Difor ønskjer vi at ein opnar for
+at ein også kan ta ei treårig lærarutdanning, og så kan ein gjerne
+fylle på seinare. Eit sånt grep vil kunne gje oss fleire lærarar,
+og kanskje også fleire lærarar som er praktisk sterke, ikkje berre
+teoretisk sterke. Det treng norsk skule. </A>
+            <A Type="Minnrykk">Då seksåringane kom inn i skulen, var det ein
+føresetnad at det fyrste året skulle vere masse plass til leiken, også
+den frie leiken. No veit vi at den frie leiken har fått for liten
+plass, sjølv om vi veit kva frileik betyr for utviklinga av evna
+til å lære og utviklinga av sosiale ferdigheiter. Difor håpar eg
+at statsministeren tek med seg følgjande i det vidare arbeidet med
+skulen: </A>
+            <Liste Type="Strek">
+              <Pkt>
+                <A>meir frileik og færre fag på dei fyrste
+trinna</A>
+              </Pkt>
+              <Pkt>
+                <A>meir fysisk aktivitet gjennom heile grunnskulen </A>
+              </Pkt>
+              <Pkt>
+                <A>fleire moglegheiter for dei elevane som er praktisk sterke </A>
+              </Pkt>
+              <Pkt>
+                <A>ei styrkja lærarrolle </A>
+              </Pkt>
+              <Pkt>
+                <A>ein økonomi som er god nok for dei som faktisk har fått
+jobben med å organisere norsk skule, nemleg kommunane. </A>
+              </Pkt>
+            </Liste>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1002628">
+            <A>
+              <Navn personID="HEGNYH">
+Hege Bae Nyholt (R) [10:54:59]:</Navn> Vi står midt i en skolekrise.
+Den handler ikke om for lite terping, pugging og dårlige PISA-prestasjoner.
+Vi har en skolekrise. Den handler ikke om for lite teoritung undervisning
+eller for lite testing. Vi har en skolekrise fordi høyresiden heller
+ser på skolen som et samlebånd enn et håndverksfag, der alle skal
+støpes i samme form, heller enn at elevenes særpreg, talent og unike
+kvalitet skal komme til sin rett. </A>
+            <A Type="Minnrykk">Vi har en skolekrise fordi elever har mer og
+mer ufrivillig skolefravær. Vi har en skolekrise fordi skoledagen sliter
+ut dem som egentlig trenger det aller mest, og fordi vi har glemt
+at arbeid med mennesker er komplekst og arbeidsintensivt. </A>
+            <A Type="Minnrykk">Skoleforsker Elise Djupedal har dokumentert
+at kunnskapssynet i norsk skole har blitt innsnevret. Bit for bit
+har det vi forstår som kunnskap og læring, blitt flyttet – fra et
+bredt og variert syn, med praktiske fag og allsidige arbeidsmåter,
+til dagens teoritunge og ensrettede skole. Denne utviklingen er
+i strid med fellesskolens grunnidé: at alle elever skal kunne oppleve
+mestring, ikke bare de som lærer best gjennom teori. Praktisk-estetiske
+fag har fått en svakere posisjon, til fordel for en skole med et
+mer ensidig og akademisk syn på læring. </A>
+            <A Type="Minnrykk">De voldsomme timetallsutvidelsene vi har sett
+de siste tiårene, har ikke inkludert de praktiske og estetiske fagene.
+Arbeid med barn og unge er mer enn det som er målbart, og mer enn
+det som er lønnsomt. Verken barn eller voksne er først og fremst
+instrumenter for å øke BNP. </A>
+            <A Type="Minnrykk">Kunnskapssynet har de siste tiårene blitt mer
+teoretisk orientert. Timetallet i de teoretiske fagene har økt, og
+samtidig lærer elevene mindre. Resultatet av dette er en skole som
+reproduserer klasseforskjeller, økt skolefravær og dårligere psykisk
+helse blant barn og unge. </A>
+            <A Type="Minnrykk">Når jeg hører høyresiden snakke om skolepolitikk, ser
+jeg masse fekting i løse luften. De snakker om «konkret innhold
+i læreplaner» – det er på vei. De snakker om «mer nivådeling», men
+opplæringsloven gir jo allerede plikt til å gi tilpasset opplæring
+til alle elever. De snakker om «skriving for hånd og mindre skjerm»
+– velkommen etter. </A>
+            <A Type="Minnrykk">Det jeg ikke hører når høyresiden snakker om
+skole, er svar på det som lærerne, gjennom lærerorganisasjonene,
+ber om. De ber om mer bemanning og mindre rapportering og dokumentering
+– på samme måte som at de varslet om for dårlig tilgang til fysiske
+bøker og dårlige vilkår for skolebibliotekene midt under den verste digitaliseringståken.
+Det er en gåte for meg hvordan høyresiden kan sette skolen så høyt
+samtidig som de ikke vil lytte til lærerne. </A>
+            <A Type="Minnrykk">Hvis høyresiden får gjennomslag for sin skolepolitikk,
+blir det mer testing og karakterer. Det blir mer privatisering og
+kommersialisering. Sorteringsskolen skal finslipes, sånn at alle
+kjenner sin plass. Høyresiden selger det inn som tydelige krav til
+elever og skole, men dette er enda mer skyggeboksing. Det er ingen
+som er imot at elever skal vite hva de skal lære på hvilke trinn,
+og det er ingen som er imot at lærere skal ha støtte til metodene
+og innholdet i undervisningen sin. Det vi er imot, er at lærere
+skal umyndiggjøres. </A>
+            <A Type="Minnrykk">Skolen har blitt strømlinjeformet. Jakten på
+standardisering gjør skolen smalere og mindre menneskelig både for
+elever og lærere. Skolen må være noe mer enn en silingsmekanisme
+for akademia. Vi trenger helsefagarbeidere, rørleggere, lokfører
+og industriarbeidere. Samfunnet trenger ikke at alle tar en mastergrad,
+men vi trenger et samfunn der alle typer utdanning verdsettes og
+anerkjennes. </A>
+            <A Type="Minnrykk">Vi lærer forskjellig, og vi utvikler oss forskjellig.
+Det mangfoldet må det være plass til i samfunnet og i skolen. En
+mangfoldig skole som forbereder barn på alle behovene som finnes
+i samfunnet, må sørge for at alle barn blir eksponert for ulike
+kunnskapsformer. Vi kan ikke rangere akademiske fag høyere enn praktisk-estetiske fag
+når vi trenger dyktige folk som trives med faget sitt i alle sektorer.
+En skole som ikke likestiller praktisk-estetiske lærings- og arbeidsformer
+med teoretiske, verdsetter heller ikke mangfoldet i elevgruppen
+og gir færre arenaer for å lykkes med å utvikle evnene sine. </A>
+            <A Type="Minnrykk">Når skolen svikter, sviktes de barna som har
+størst behov for en skole som reduserer forskjellene. Skolen skal
+bidra til at vi får utviklet alle våre menneskelige kvaliteter,
+og til at vi får meningsfulle liv uansett hvor vi ender opp.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1002630">
+            <A>
+              <Navn personID="SIRJEN">
+Siren Julianne Jensen (MDG) [11:00:01]:</Navn> Først: Takk til statsministeren
+for utgreiinga. Eg er sjølv lærer med 15 års erfaring frå norsk
+skule, og eg har sett trendar kome og gå. For ikkje så lenge sidan
+var mantraet iPad for alle, og no er det bøker alle skal ha. Eg
+trur absolutt at vi er på riktig veg. </A>
+            <A Type="Minnrykk">Det er ei glede å høyre at regjeringa no skal
+sende på høyring eit forslag om å skrote digitale ferdigheiter som ein
+grunnleggjande ferdigheit. Det er vi i MDG veldig glade for. Eg
+tok sjølv til orde for det for to veker sidan i denne salen og i
+andre forum. Det er også fint å høyre statsministeren sine ord om
+korleis skular skal styrkjast – eg trur han har rett i at partia
+kan vere einige om det som det viktigaste – men for å få til endringar
+held det ikkje med gode intensjonar. Då må det meir pengar på bordet.</A>
+            <A Type="Minnrykk">For å kunne gje elevane meir praktisk undervisning, som
+Fellesskuleutvalet tek til orde for, må det store investeringar
+til. Det må investerast i skulebygg, for mange skular kan per i
+dag ikkje huse ei meir praktisk orientert undervisning. Det krev
+rom, det krev utstyr, det krev pengar til vidareutdanning av lærarar,
+og budsjettet regjeringa har lagt fram, møter ikkje dette enorme
+behovet. </A>
+            <A Type="Minnrykk">Det same gjeld fysiske læremiddel. I budsjettet
+er pottane øyremerka lesing i barnehage, skulebibliotek og fysiske
+lærebøker slått saman og skal aukast med 94 mill. kr. Skulle heile
+aukinga gått til fysiske lærebøker, hadde det tilsvara om lag éi
+ny bok per tredje elev i grunnskulen. Vi treng det femdobbelte for
+å møte behovet. Kommunane kan ikkje ta denne investeringa aleine. Digitaliseringa
+i skulen har vore ei statleg satsing, og det same gjeld bøker til
+barnehagane og skulebiblioteka. </A>
+            <A Type="Minnrykk">Eg er ordentleg og oppriktig skuffa. Så mykje
+som regjeringa har snakka om kor alvorleg dei tek lesekrisa, og dei
+dystre tala på korleis det står til med lesekunnskapane i dette
+landet, og så er det dette dei legg på bordet. Vi treng fleire fysiske
+lærebøker, men vi treng også fleire bøker å lese, styrking av lesing
+i barnehagen, fleire bibliotekarar og fleire gode skulebibliotek. </A>
+            <A Type="Minnrykk">Skulen har eit enormt samfunnsansvar med store visjonar.
+Ein god skule har omsorg for barna og tek vare på barns nysgjerrigheit
+og læringslyst. Her får barna leike trygt, bevege seg og utforske.
+Det er kompetente vaksne med tid til å ivareta kvart enkelt barns
+grunnleggjande behov og rom for eit stort og mangfaldig spekter
+av barn. </A>
+            <A Type="Minnrykk">Barnets utvikling skal ivaretakast i heile
+utdanningsløpet, både kjenslemessig, motorisk, intellektuelt, sosialt
+og som skapande menneske. Denne visjonen er viktig for kvart enkelt
+barn, men det er også viktig for samfunnet. Vi veit at praktiske
+fag gjev fleire elevar meistringskjensle. Praktiske fag beskyttar
+mot utanforskap. Ein trygg skulegang der ein opplever meistring gjev
+eit godt utgangspunkt for å ha tru på seg sjølv, og for at ein hamnar
+innanfor også vidare i livet.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1002632">
+            <A>
+              <Navn personID="JOEYST">
+Joel Ystebø (KrF) [11:03:40]:</Navn> Miraklenes tid er ikke forbi,
+og jeg vil starte med å gi regjeringen honnør. Takket være en uvanlig
+allianse fra Rødt, MDG og Arbeiderpartiet til Senterpartiet og KrF
+nylig vil det nå bli enklere å drive elevinitierte aktiviteter ved
+skolene i Norge, også når det handler om tro og livssyn. Jeg er
+glad for at vi i norsk politikk kan finne sammen på tvers av vanlige skillelinjer
+når vi er enig i sak. </A>
+            <A Type="Minnrykk">Bred politisk samling trenger vi også for å
+løse de store læringsutfordringene i skolen, for PISA-resultatene er
+svært alvorlige. PISA måler ikke alt, men barn som gjør det godt
+på prøver, får generelt høyere inntekter som voksne, de lever lengre
+og sunnere liv og begår mindre kriminalitet. </A>
+            <A Type="Minnrykk">Kunnskapsministeren har lagt mye av skylden
+på skjermen. Derfor hadde jeg ærlig talt forventet at tiden da KrF
+har stått alene på Stortinget om å foreslå de midlene som faktisk
+trengs til nok lærebøker i skolen, endelig skulle være over, men
+jeg tok feil. Regjeringen foreslår fortsatt ikke mer enn en halv
+ny bok per elev i statsbudsjettet for neste år. Som om ikke det
+var nok, skaper regjeringen stor usikkerhet for skolebibliotekene
+når den samler støtten til bibliotekene på samme post som tilskuddet
+til lærebøker. Avstanden mellom retorikk og politikk er enorm. Barna
+våre fortjener bedre. Nå trengs midler som faktisk gir nok trykte
+lærebøker i skolen og et løft for de viktige skolebibliotekene. </A>
+            <A Type="Minnrykk">Jeg håper vi kan samles om et skoleforlik som
+gir lærerne høyere lønn, mer kontaktlærertid til oppfølging av elever
+og foreldre og mer fleksibel arbeidstid. Alle snakker om lærerens
+betydning. Det som trengs, er handling. Dette kan langt på vei finansieres
+med om lag en halvtime kortere skoledag, til finsk nivå, helt i
+tråd med OECDs råd om å prioritere kvalitet framfor kvantitet og
+lange skoledager. </A>
+            <A Type="Minnrykk">Samtidig må læreplanene endres. De siste 20
+årene har tanken vært at ny teknologi og internett gjør at faktakunnskap
+blir mindre viktig. Det elevene trenger, er ferdigheter som refleksjon,
+kritisk tenkning og mye selvstendig arbeid og utforskning. Stadig
+nye læringsmål har kommet til om alt fra bærekraft til livsmestring.
+Dermed har vi fått læreplaner som er som keiserens nye klær: innholdsløse
+og fulle av fancy ord og med altfor svak lærerrolle. Elevene skal
+bli gode til å reflektere og drøfte, men hva de skal reflektere
+over og drøfte, sier læreplanene lite om. </A>
+            <A Type="Minnrykk">Ikke minst undergraver planene læreren som
+elevenes leder og støtte i klasserommet. Formålsparagrafen i læreplanen
+nevner ikke læreren med ett ord. Den sier at elevene skal utvikle
+kunnskap istedenfor at læreren skal formidle kunnskap. Men elevene
+blir ikke gode til å reflektere og kritisere, lese og regne uten
+å ha basiskunnskaper i bunnen. Når elevene skal utforske og drive gruppearbeid
+uten tydelig lærerstøtte og forkunnskaper, lærer de også mindre. </A>
+            <A Type="Minnrykk">De største taperne er elever fra ressurssvake
+hjem. Derfor har KrF foreslått å sette ned et utvalg som skal foreslå
+mer kunnskapsorienterte læreplaner som sier tydelig hvilke faktakunnskaper
+barna skal lære – fag for fag, år for år. Dermed kan elevene få
+en felles faglig referanseramme og en felles kulturarv og et kunnskapssyn som
+sier at det finnes etablerte faglige sannheter. Det trengs, særlig
+i en tid med økt polarisering, sosiale medier og falske nyheter.
+I stedet for å legge stadig nye oppgaver til må vi ta oppgaver bort.
+Ikke minst må lærerrollen styrkes for å legge til rette for mer
+lærerstyrt undervisning i tråd med klasseromsforskning. Læreren
+må få være lærer. </A>
+            <A Type="Minnrykk">Stadig flere ser at keiseren er naken, selv
+tidligere kunnskapsministre. Ansvaret for å snu utviklingen ligger
+på politikerne og regjeringen. Nå trengs det et nytt mirakel: et
+bredt skoleforlik som styrker lærernes vilkår for å lykkes, og som
+tar skolen tilbake til kjerneoppdraget om læring av grunnleggende
+kunnskap og ferdigheter.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1002634">
+            <A>
+              <Navn personID="GME">
+Guri Melby (V) [11:08:53]:</Navn> Flere ting kan være sant samtidig.
+Det er faktisk mulig at elevenes leseferdigheter går ned, selv om
+skolene jobber mer med lesing enn det de kanskje har gjort på veldig
+mange år. Det er også mulig at Norge lykkes bedre med å gi elever sosial
+mobilitet enn veldig mange andre land, samtidig som vi ser at norsk
+skole reproduserer sosiale forskjeller.</A>
+            <A Type="Minnrykk">PISA understreker mye av det som vi egentlig
+visste fra før, at det ikke fungerer så godt med norsk skole akkurat
+nå. Tallene er veldig klare, og fasiten er egentlig enkel: Det er
+for mange som ikke lærer seg det helt grunnleggende, det som skal
+til for å lykkes videre i utdanning og samfunnsliv. Da svikter vi
+egentlig det som er samfunnsoppdraget vårt, og det som er kjernen
+ved den norske fellesskolen, at hvis du begynner på skolen og går
+på skolen, skal du også utstyres med det du trenger for å lykkes
+videre i livet. </A>
+            <A Type="Minnrykk">En annen viktig verdi som veldig mange av oss
+har delt, er at den norske offentlige skolen skal være et sted der
+direktørens sønn og snekkerens datter møtes, der begge får de samme
+mulighetene til å lykkes i livet. Hvis vi ikke utstyrer dem med
+de ferdighetene, så gjør vi faktisk ikke den delen av samfunnsoppdraget
+vårt. </A>
+            <A Type="Minnrykk">Flere ting kan være sant samtidig. Ja, det
+er en svak økning i søkningen til lærerutdanningen. Samtidig er det
+halvparten så mange søkere nå som det var i 2015. Så selv om det
+er noen piler som peker svakt oppover, er det også noen piler som
+peker ganske kraftig nedover. </A>
+            <A Type="Minnrykk">Flere ting kan være sant samtidig. Ja, regjeringen
+har sagt at man skal bruke over 400 mill. kr på smågruppeundervisning,
+men samtidig tar man bort over 800 mill kr, som har gått til leksehjelp.
+Kommunene mister – bare neste år – nesten to milliarder av de pengene
+som går til å drifte skole, på grunn av demografiendringer. Dette
+er kanskje noe av det mest alvorlige. Fellesskoleutvalget sier veldig
+tydelig at hvis vi ikke gjør noe med måten vi finansierer norsk
+skole på, vil denne summen øke til 15 mrd. kr i løpet av veldig
+få år – 15 milliarder som skal ut av norsk skole. Det er selvsagt
+alltid gode medieoppslag i forbindelse med statsbudsjett når man
+gir litt penger her til lærebøker og litt pengene der til smågruppeundervisning,
+men faktum er at med den ressurssituasjonen vi har i norsk skole
+i dag, kommer det til å bli færre lærere. Det kommer til å bli færre
+til å gjøre en jobb som har blitt stadig vanskeligere. </A>
+            <A Type="Minnrykk">Veldig mye tyder også på at det ikke er fordi
+vi har gjort ting helt enormt feil i norsk skole at pilene går i
+feil retning, men det er fordi samfunnsoppdraget har blitt vanskeligere.
+Det å lese var en veldig vanlig hobby for helt vanlige barn og unge,
+men sånn er det lenger. Boka taper konkurransen hver eneste dag
+mot skjermer, mot fritidsaktiviteter og mot annen underholdning,
+som på kort sikt kanskje virker som artigere for ungen der og da, men
+som faktisk gjør at helt grunnleggende ferdigheter svekkes. </A>
+            <A Type="Minnrykk">Hva betyr det? Det betyr at vi ikke skal gi
+opp. Vi kan ikke tenke at dette er umulig å snu, men det betyr at
+de virkemidlene som vi er nødt til å sette inn, må være mye kraftigere
+enn det de har vært før. Det holder ikke, sånn som da jeg var barn,
+å ha et lite skolebibliotek gjemt inne på et bomberom som er åpen
+én dag i uka. Da må vi ha et rom som inviterer elevene inn – med
+en skolebibliotekar som viser dem hva som passer for akkurat dem,
+og da må vi også være villige til å bruke mer ressurser på det. </A>
+            <A Type="Minnrykk">Jeg er veldig glad for at statsminister Støre
+kommer med en veldig tydelig invitasjon til mer enighet i skolepolitikken,
+fordi det trengs, og dette er også en veldig tydelig beskjed fra
+de norske lærerorganisasjonene, fra Elevorganisasjonen. Det er en
+veldig tydelig beskjed også fra Fellesskoleutvalget, som sier at
+hvis vi skal lykkes med å gjøre noe nytt med norsk skole, må vi
+greie å gjøre det samtidig som vi gir skolen ro og langsiktighet. Det
+er kjempevanskelig å endre samtidig som man gir ro og langsiktighet,
+og da må lærerne, rektorene og alle som skal utøve dette hver eneste
+dag, vite at hvis de først skal gjøre en endring nå, så er det en
+endring som kommer til å stå seg. </A>
+            <A Type="Minnrykk">Vi har ikke for vane å dele ut karakterer her,
+men foreløpig, fram til nå, synes jeg at regjeringens innsats for
+å samle bred enighet om dette har stått til svak karakter. Jeg mener
+det har vært utspill etter utspill, enkeltsak etter enkeltsak, ting
+som ikke henger sammen, mer statlig styring ett år og mindre statlig
+styring et annet år. Det har vært prosesser rundt læreplanen – og
+så plutselig innholdslista ut av intet, som ingen får anledning
+til å diskutere. Vi trenger faktisk å sette oss ned i samme rom og
+snakke om dette. Så jeg vil utfordre statsministeren til ikke bare
+å snakke om forlik, men faktisk invitere til forlik. Jeg lover at
+vi skal stille på det møtet. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1002636">
+            <A>
+              <Navn personID="JGS">
+Statsminister Jonas Gahr Støre [11:13:59]:</Navn> Dette var en nyttig
+runde. Jeg opplever at vi sirkler rundt de samme temaene, og det
+gir grunnlaget for at vi kan samle oss. </A>
+            <A Type="Minnrykk">Det er et par ting fra Fremskrittspartiet jeg
+har lyst å kommentere – de er ikke lenger i salen, men allikevel: Det
+ble påpekt her at nå går vi fra den ene grøften til den andre, og
+nå skal det ikke være struktur og bare lek i 1. klasse. Nei, det
+skal være struktur, men det går jo klart fram i seksårsreformen
+at det første året skal være en overgang som ikke handler om å komme
+rett på skolebenken. Det har gått for mye i den retningen, det har evalueringen
+vist. Vi gjør noe med det.</A>
+            <A Type="Minnrykk">Så er det fullt mulig å tilpasse undervisningen
+også på andre steder, utenfor skolen. Representanten Listhaug kommer
+ofte tilbake til det – kan man ikke bruke gården, verksteder eller
+arbeidsplassen? Jo, man kan det. Man kan legge til rette for alternative
+opplæringsarenaer på en god måte, men skolen og klassen skal fortsatt være
+det sentrale.</A>
+            <A Type="Minnrykk">Så synes jeg at representanten Brenna satte
+fingeren på noe viktig, at i Møre og Romsdal, som er Fremskrittspartiets
+sterke sone, bruker man altså 1 280 kr mindre enn landsgjennomsnittet
+på eleven. Det er helt riktig som det ble sagt fra flere, at penger
+avgjør ikke alt her, men penger taler også i forhold til hva man
+satser på i den hverdagen som er.</A>
+            <A Type="Minnrykk">Så er det heller ikke slik at man nå går fra
+iPad til bok. Man skal ha en bedre balanse. Man har læreren, som
+skal gjøre de valgene ut fra hva som er god undervisning. </A>
+            <A Type="Minnrykk">Jeg synes representanten Søreide holdt et bra
+innlegg, men det var litt rart, for først sa hun at Arbeiderpartiet
+ikke har noen grep, og så listet hun opp satsinger som var våre
+grep, og som hun var veldig for. Det var et realfagsløft, fysiske
+læremidler, god kartlegging og å modernisere nasjonale prøver. Vi
+avvikler ikke nasjonale prøver, men etter 20 år med erfaring ser
+vi at de trenger å bli bedre, for å få bedre svar.</A>
+            <A Type="Minnrykk">Så er det ikke slik at det ikke er krav for
+å komme inn på lærerutdanningen. Man skal ha skolepoeng, og man skal
+også ha karakterer i norsk og matte.</A>
+            <A Type="Minnrykk">Så til slutt til dette med bøker: Når det gjelder
+lesing, viser forskningen at man lærer å lese bedre når man leser
+fra papir og bok enn man gjør fra skjerm. Jeg tror at hensikten
+med å få alle disse iPadene inn i skolen for 10–15 år siden var
+velment. Man kunne tenke at digitale iPader kunne være lettere for
+å lære å lese, og det kan hende at det er noe mengdelæring i matematikk
+som kan vise den veien, men forskningen er nå ganske klar. I tillegg
+sparte man penger på det. Nå skal bøkene være et fundament – man
+skal møte en bok før man møter en skjerm. </A>
+            <A Type="Minnrykk">Det vanlige er at det er kommunene som finansierer dette.
+Det nye er at vi legger penger på toppen for å komme inn der, og
+når det gjelder Leseløftet på 1 mrd. kr, har vi altså levert omtrent
+halvparten av det nå på to budsjetter. Jeg besøker mange skoler.
+Nå nevner jeg bare tre – Herøy i Nordland, Huseby i Oslo, Bryne
+i Rogaland. Det er fantastiske skolebibliotek og dyktige bibliotekarer,
+og det er en tilnærming til boka – både å konkurrere om lesing og
+glede ved lesing – som gjør meg oppløftet, fordi vi har så dyktige
+lærere. </A>
+            <A Type="Minnrykk">Så synes jeg at representanten Melby holdt
+et veldig godt innlegg – helt inntil de siste 20 sekundene. Men
+det var en bra markering av å se framover, hva vi nå trenger, og
+sette fokus på noe veldig viktig, nemlig prioriteringen ute i kommunene
+når vi også der erfarer endring i demografi. Fellesskoleutvalget
+har vist en framskriving, at med den demografien vi kan se, og hvis
+man bruker kronebeløp per aldersgruppe, skal man bruke 15 mrd. kr mindre
+på skole fram til 2035. Det er ingen som har vedtatt det politisk,
+men det er en framskriving av en utvikling som utfordrer oss. Det
+er klart at hvis vi blir færre i skolen og flere på sykehjemmet,
+må det gjøres prioriteringer. Hvordan vi skal klare det, er jo politikkens
+kjerne og mål – hvordan vi gjør det på en god måte. </A>
+            <A Type="Minnrykk">Hun nevnte også tematikken bygg. Vi vil erfare
+at mange bygg i Norge som ble bygd på 1960-tallet, kommer til å
+bli utslitte, og det må planlegges for rehabilitering også av dem,
+for en god skole. Jeg er enig i det representanten Melby sa: Samfunnsoppdraget
+blir vanskeligere. Men da er det jo slik at vi må klare å bygge
+vår skolepolitikk på erfaring, på kunnskap og på den dyktige læreren.
+Jeg har ikke brukt mitt innlegg til å peke på: Hvem var det som
+slapp opp på betingelsene for at læreren var sjef i klasserommet,
+når kom digitaliseringen, når kom disse læreplanene som ikke var
+tydelige nok? Vi blir ikke klokere av det. Klokere framover er å
+satse på det vi vet virker, og få gode debatter om det. Jeg håper
+at dette også var en god start for det. </A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:18:46]:</Navn> Kommentarrunden
+er dermed avsluttet.</A>
+            <A Type="Minnrykk">Presidenten vil foreslå at statsministerens
+redegjørelse om regjeringens skolepolitikk og tiltak for å snu utviklingen
+i skoleresultater vedlegges protokollen. – Det anses vedtatt.</A>
+          </Presinnlegg>
+        </Sak>
+        <Sak Id="i1002638" saksKartNr="3" sakID="200463">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak
+nr. 3</Uth> [11:19:02]</Saknr>
+            <Saktittel Id="i1002642">
+              <A>Redegjørelse av utviklingsministeren
+om nordisk samarbeid</A>
+            </Saktittel>
+          </Sakshode>
+          <Hovedinnlegg Id="i1002644">
+            <A>
+              <Navn personID="AAUK">
+Statsråd Åsmund Aukrust [11:19:29]:</Navn> Vi står i en mer utrygg
+og ustabil verden enn på mange år. Det er fullskala krig i Europa
+på femte året, og okkupasjonen av Krym har vart siden 2014. Russlands
+angrepskrig mot Ukraina har drept tusener av mennesker og tvunget
+millioner på flukt. Samtidig ser vi utilslørt maktbruk fra stormakter
+også andre steder. I en slik tid trenger vi gode venner, og ingen
+står oss nærmere enn våre nordiske naboer. </A>
+            <A Type="Minnrykk">Vår trygghet, handlekraft og gjennomslagskraft styrkes
+når vi står sammen – forankret i felles verdier, gjensidig tillit
+og et forpliktende samarbeid på tvers av Norden. Neste år har Norge
+formannskapet i tre samarbeidsplattformer i Norden: Nordisk ministerråd,
+det uformelle nordiske utenriks- og sikkerhetspolitiske samarbeidet
+i N5 samt det uformelle nordisk-baltiske samarbeidet i NB8. Det
+gir Norge mulighet til å se helhetlig på disse foraene og utnytte
+synergiene mellom dem. Men det legger også et stort ansvar på oss
+for å bidra til å videreutvikle samarbeidet i lys av de utfordringene
+våre nærområder står overfor. </A>
+            <A Type="Minnrykk">Norden står nå samlet i NATOs integrerte forsvarssamarbeid.
+Det styrker vår felles forsvarsevne. Samtidig har de strategiske
+forbindelsene mellom nordområdene og østersjøområdet blitt enda
+viktigere. </A>
+            <A Type="Minnrykk">Sammen styrker vi NATO i nord. På det allierte luftoperasjonssenteret
+i Bodø sitter svenske og finske offiserer side om side med norske.
+Norge bidrar med personell til NATOs framskutte landstyrker i Finland.
+Samarbeidet åpner også for tettere nordisk, alliert og partnerbasert
+innsats innen forsvarsinnovasjon, cybersikkerhet og kritiske teknologier. </A>
+            <A Type="Minnrykk">Vi ser økt interesse for nordområdene og Arktis.
+De arktiske statene i NATO har utviklet en felles holdning og et
+opplegg for felles alliert fredstidsnærvær. Slik trygger vi sikkerheten
+i nord. Med omtrent 10 pst. av den norske befolkningen bosatt nord
+for Polarsirkelen, har Norge et særlig ansvar for å bidra til sikkerheten
+og samarbeidet i nord. Vi investerer i nye kapabiliteter for å trygge
+vår del av Arktis, og vi bidrar til NATOs fredstidsoperasjon Arctic
+Sentry.</A>
+            <A Type="Minnrykk">Samarbeidet i NORDEFCO er den fremste strukturen
+for nordisk forsvarssamarbeid innenfor rammen av NATO. Under Norges
+formannskap i år har vi lagt særlig vekt på landdomenet, understøttelse
+og totalforsvar. I mars 2026 la de nordiske landene fram en felles
+strategi for transportberedskap. Strategien inneholder prioriteringer
+for de viktigste transportkorridorene og de mest kritiske tiltakene
+i et nordisk perspektiv. Den er et viktig grunnlag for videre utvikling
+av transportsystemet, nasjonalt og nordisk. </A>
+            <A Type="Minnrykk">Det nordiske samarbeidet er etterspurt, noe
+vi har sett gjennom de nordiske statsministrenes møter med kolleger
+fra bl.a. India, Canada, Tyskland og Polen. Norden som region har
+en befolkning på drøye 28 millioner og en økonomi som er blant verdens
+15 største. Det gjør oss til en kraft å regne med. </A>
+            <A Type="Minnrykk">Regjeringen har et klart mål for det nordiske
+samarbeidet: Det skal gi en merverdi utover det vi kan oppnå nasjonalt
+eller i andre internasjonale og regionale fora. Under vårt formannskap
+i Nordisk ministerråd skal vi bidra til konkrete resultater. La
+meg trekke fram tre eksempler på konkrete samarbeidsprosjekter innenfor rammen
+av Nordisk ministerråd: </A>
+            <Liste Type="Num">
+              <Pkt>
+                <A>Det nordisk-baltiske NOBID-samarbeidet
+om europeisk elektronisk ID og digitale lommebøker skal redusere
+digitale grensehindre og styrke et integrert nordisk arbeids- og
+næringsmarked.</A>
+              </Pkt>
+              <Pkt>
+                <A>Den nordiske helseberedskapsgruppen utreder en felles evakueringsplan
+for sosial- og helsetjenestene. Samtidig skal prosjektet «Sømløs
+helseberedskap over grensene» gjøre det enklere å gi helsehjelp
+på tvers av grensene. Arbeidet videreføres under det norske formannskapet
+i 2027.</A>
+              </Pkt>
+              <Pkt>
+                <A>New Nordics AI er et nordisk-baltisk samarbeid som skal
+styrke utvikling og bruk av kunstig intelligens og regionens konkurransekraft.
+Under formannskapet vil vi arbeide for at senteret øker kvaliteten
+og utbredelsen av KI i næringslivet i hele regionen.</A>
+              </Pkt>
+            </Liste>
+            <A Type="Minnrykk">Norges formannskap i Nordisk ministerråd vil
+legge særlig vekt på sammenhengen mellom demokrati, samfunnssikkerhet,
+bærekraft og verdiskaping. Det vil vi gjøre gjennom å styrke nordisk
+beredskap og samfunnets motstandskraft i møte med sammensatte trusler. Arbeidet
+med klima, miljø, sikkerhet og strategisk autonomi vil være et gjennomgående
+perspektiv på tvers av samarbeidet.</A>
+            <A Type="Minnrykk">Visjon 2030 har gitt det nordiske samarbeidet
+en tydeligere strategisk retning og utløst nye initiativer innen grønn
+omstilling, digitalisering, innovasjon, mobilitet og sosial inkludering,
+men vi er ikke i mål. Den grønne omstillingen har ikke kommet langt
+nok. Grensehindre begrenser fortsatt den nordiske integrasjonen.
+Under Norges formannskap skal vi forsøke å forsterke innsatsen fram
+mot 2030 og legge grunnlaget for samarbeidet etter dette tiåret. </A>
+            <A Type="Minnrykk">Et tverrgående tema for formannskapet vil være vern
+av demokrati, rettsstat og grunnleggende rettigheter. Demokratisk
+deltakelse, ytringsfrihet og tillit til institusjoner kjennetegner
+alle de nordiske landene, men disse felles nordiske verdiene er
+under press også i vår region. Desinformasjon, økt polarisering
+og rask teknologisk utvikling påvirker offentligheten og demokratiske
+prosesser. Dette er temaer vi vil ha mulighet til å løfte under
+neste års Visjonskonferanse, som vil bli arrangert av Nordisk ministerråd
+og formannskapet.</A>
+            <A Type="Minnrykk">En sentral del av visjonen er at Norden skal
+være verdens mest integrerte region. Norden er på mange måter allerede
+svært godt integrert. Vi har hatt felles arbeidsmarked og passunion
+siden 1954. Dette viser at grensehinderarbeidet har lange linjer
+i det nordiske samarbeidet.</A>
+            <A Type="Minnrykk">I vår besøkte jeg Morokulien i Eidskog kommune. Den
+norsk-svenske politistasjonen illustrerer verdien av et tett nordisk
+samarbeid om felles utfordringer. Stasjonen bidrar til å forebygge
+og bekjempe grenseoverskridende kriminalitet og til å gjøre Norden
+tryggere. Det grensenære samarbeidet langs Europas lengste landegrense
+viser verdien av det nordiske samarbeidet i praksis. For regjeringen
+er det en prioritert oppgave å bidra til å bringe grensehinderarbeidet
+framover. Det betyr at vi må være villige til å vurdere løsninger
+som innebærer endringer også i vårt eget system. </A>
+            <A Type="Minnrykk">I 2025 ble to grensehindre løst. Det ene gjelder språkkrav
+for lærlinger: Svensk- og danskspråklige lærlinger måtte tidligere
+avlegge norskeksamen for å gå opp som lærling i Norge. Dette er
+nå endret gjennom en forskriftsendring. </A>
+            <A Type="Minnrykk">Den andre saken gjelder taxitransport mellom
+Norge og Finland. Tidligere måtte passasjerer bytte taxiselskap
+ved grensen fordi landene manglet en avtale om grensekryssende transport.
+Det var tungvint for både taxiselskapene og de reisende. Dette er
+nå løst gjennom en avtale mellom Norge og Finland.</A>
+            <A Type="Minnrykk">Begge sakene viser hvordan små hindringer kan
+få stor praktisk betydning for dem det gjelder. </A>
+            <A Type="Minnrykk">La meg trekke fram noe av det gode arbeidet
+som skjer i det nordiske samarbeidet, og som vi vil bygge videre
+på under vårt formannskap neste år. </A>
+            <A Type="Minnrykk">Et viktig mål for regjeringen er å sikre Norden
+som en konkurransedyktig region. Rapporten om nordisk konkurranseevne,
+som ble lansert på Visjonskonferansen i København tidligere denne
+måneden, viser at Norden er en konkurransedyktig region. Samtidig
+peker rapporten på utfordringer. Det gjelder bl.a. evnen til innovasjon
+og til å skape skalerbare bedrifter der kapitalmarkedene spiller
+en viktig rolle. Rapporten vil bli fulgt opp under det norske formannskapet.
+Det vil skje i dialog mellom myndigheter, næringsliv, forsknings-
+og innovasjonsmiljøer og arbeidslivets parter. Samarbeidet om nye
+teknologier og næringer har bidratt til etableringen av det førnevnte
+nordiske AI-senteret, men la meg også trekke fram et par andre strategiske
+nordiske satsinger:</A>
+            <A Type="Minnrykk">Det nordiske forskningssamarbeidet bidrar til
+å løse store samfunnsutfordringer og styrker Nordens konkurransekraft
+og motstandskraft. I november kommer en analyse av Norden som forsknings-
+og innovasjonsregion. Den skal bidra til mer samarbeid og se Norden
+i en europeisk og global kontekst. Vi vil følge opp rapporten og
+bidra til å styrke Norden som forsknings- og innovasjonsregion i
+urolige tider, med et enda tettere samarbeid mellom forskningsmiljøer
+og næringsliv og med fokus på framvoksende teknologier.</A>
+            <A Type="Minnrykk">Innen romtransport er det også satt i gang
+et arbeid for økt gjensidig nytte gjennom nordisk samarbeid. Det settes
+nå i gang et nordisk rundebord for romsamarbeid. Dette gir en nordisk
+plattform for samhandling, både mellom myndigheter og i romnæringen.</A>
+            <A Type="Minnrykk">Det siste jeg vil trekke fram, er at de nordiske
+regjeringssjefene i 2025 vedtok en samarbeidserklæring om kvanteteknologi.
+Oppfølgingen av denne er avgjørende for å realisere ambisjonen om
+å gjøre Norden til en verdensledende destinasjon for selskaper,
+investeringer og talenter innen kvanteteknologi. I år opprettet
+Nordisk ministerråd en tverrsektoriell arbeidsgruppe som skal følge
+opp erklæringen. Gruppen har så langt konsentrert seg om å kartlegge
+landenes strategiske behov. </A>
+            <A Type="Minnrykk">Det sterke samarbeidet mellom arbeidslivets
+parter og myndighetene er en sentral del av den nordiske modellen
+og har bidratt til høy sysselsetting, konkurransekraft og sosial
+tillit. Under det norske formannskapet vil vi legge vekt på forebyggende
+arbeidsmiljøarbeid og et velfungerende partssamarbeid. Vi vil også
+styrke samarbeidet om kompetansebehov, særlig innen teknologi og realfag.</A>
+            <A Type="Minnrykk">Kunstig intelligens vil være et prioritert
+tema under Norges formannskap i 2027. </A>
+            <A Type="Minnrykk">Digital mobilitet, digital omstilling og digital
+robusthet står sentralt. Det er allerede etablert viktige arenaer
+for kunnskapsdeling og kompetanseutvikling mellom de nordisk-baltiske
+landene, men den raske teknologiske utviklingen gjør at innsatsen
+må styrkes ytterligere. Under vårt formannskap vil vi også styrke
+dialogen om barns digitale trygghet. Inkludert temaer som aldersgrenser
+og aldersverifisering i sosiale medier, barns rettigheter på nett
+og tiltak mot radikalisering, skadelig innhold, seksuelle overgrep
+og utnyttelse på digitale plattformer. Vi vil bl.a. videreutvikle
+nordiske arenaer for barn og unges medvirkning.</A>
+            <A Type="Minnrykk">Våre digitaliserte samfunn er avhengige av
+globale teknologileverandører og komplekse verdikjeder som skaper
+sårbarheter og kritiske avhengigheter. Under formannskapet vil vi
+følge opp sikkerhet i kritisk digital infrastruktur, digital robusthet
+og bruk av personell på tvers av landegrensene samt mangfold i leverandørkjedene.</A>
+            <A Type="Minnrykk">Våre tett integrerte samfunn og sterke bånd
+legger grunnlag for et tillitsbasert forhold både mellom folk og land.
+Dette er avgjørende for arbeidet med samfunnssikkerhet og beredskap,
+som er høyt prioritert i hele det nordiske samarbeidet. Det vil
+bli videreført som en hovedprioritering i det norske formannskapet.
+I Nordisk ministerråd pågår arbeid i en rekke sektorer for å styrke kunnskap,
+nettverk og felles løsninger. Vårt felles mål: Norden skal være
+best mulig rustet til å håndtere kommende kriser. </A>
+            <A Type="Minnrykk">Beredskap og forsyningssikkerhet står sentralt
+i samarbeidet om fiskeri og havbruk, jordbruk, næringsmidler og
+skogbruk. Det er etablert et nordisk partnerskap for matforsyningsberedskap
+som skal styrke kunnskapsdeling og koordinering mellom landene.
+Det er satt i gang initiativer for bærekraftig produksjon, ressursforvaltning
+og konkurransekraft i de blå-grønne sektorene, herunder et prosjekt
+for å styrke rekruttering og kompetanseheving. Alt dette er forutsetninger
+for at sektorene kan levere mat, drikke og bioressurser. </A>
+            <A Type="Minnrykk">Arbeidet innenfor helse- og sosialsektoren
+er viktig for både beredskap og sosial bærekraft. La meg trekke fram
+to eksempler fra dette samarbeidsområdet: </A>
+            <Liste Type="Num">
+              <Pkt>
+                <A>Antimikrobiell resistens er en alvorlig
+og økende utfordring. Ministerrådet har derfor opprettet et tverrsektorielt
+nordisk program for å følge opp One Health-ministererklæringen om
+antimikrobiell resistens fra 2024. </A>
+              </Pkt>
+              <Pkt>
+                <A>Det er satt i gang et prosjekt for å kartlegge hvordan de
+nordiske landene inkluderer sårbare og utsatte innbyggere i beredskapsplanleggingen.
+Kartleggingen skal publiseres i slutten av 2026. </A>
+              </Pkt>
+            </Liste>
+            <A Type="Minnrykk">Det såkalte Haga-samarbeidet for sivil beredskap
+og kritisk infrastruktur har vært et viktig samarbeidsforum siden
+2009. Det er også en viktig plattform for samordning i EU, NATO
+og i nordisk-baltisk samarbeidet. Det siste året er samarbeidet
+utvidet med Færøyene, Åland og Grønland. Haga kobles nå tettere
+til nasjonale totalforsvarskonsepter, med vekt på sivilt-militært
+samarbeid, forsyningssikkerhet og robusthet i samfunnskritiske funksjoner. </A>
+            <A Type="Minnrykk">Nylig undertegnet ministrene med ansvar for
+forsyningssikkerhet i de nordiske landene og Færøyene, Grønland
+og Åland en felles erklæring om bedre tilgang på varer og tjenester
+i kriser og krig. Konkret vektlegges samarbeid om</A>
+            <Liste Type="Strek">
+              <Pkt>
+                <A>videreutvikling av ordninger for vare-
+og tjenesteflyt i kriser og krig</A>
+              </Pkt>
+              <Pkt>
+                <A>offentlig-privat samarbeid om forsyningssikkerhet og beredskap</A>
+              </Pkt>
+              <Pkt>
+                <A>beredskapslagring og materialberedskap</A>
+              </Pkt>
+              <Pkt>
+                <A>tilgang til kritiske råvarer og strategiske ressurser</A>
+              </Pkt>
+              <Pkt>
+                <A>erfaringsutveksling og kunnskapsdeling mellom landene</A>
+              </Pkt>
+            </Liste>
+            <A Type="Minnrykk">Klima- og miljøsamarbeidet i Nordisk ministerråd er
+styrket betydelig de siste årene. Gjennom samarbeidet utvikles felles
+løsninger og kunnskapsgrunnlag på områder som klimatilpasning, karbonfangst
+og -lagring, grønn skipsfart, hav, plast, naturbaserte løsninger
+og sirkulær økonomi.</A>
+            <A Type="Minnrykk">De nordiske landene har tatt en lederrolle
+globalt i arbeidet mot plastforurensning, ikke minst i forhandlingene
+om en ny global avtale mot plastforurensning. Jeg vil her nevne
+et konkret samarbeid innenfor plastområdet: et prosjekt om bærekraftige
+alternativer til gummigranulat på kunstgressbaner i nordisk klima, med
+særlig vekt på barn og unge. Dette er en viktig sak for regjeringen,
+miljøet og hele Fotball-Norge.</A>
+            <A Type="Minnrykk">Et annet område av særlig interesse for Norge,
+er det nordiske havsamarbeidet. Havprogrammet handler om bærekraftig
+forvaltning og bruk av havområdene, forståelse av hva klimaendringene
+betyr for havområdene i Norden, og hvordan vi kan styrke økosystemenes
+motstandskraft. Sist vi hadde formannskapet, i 2022, ble det etter
+norsk initiativ vedtatt en statsministererklæring om tettere samarbeid
+for å fremme bærekraftige hav. Erklæringen har bidratt til å styrke
+og sette fart i det nordiske havsamarbeidet og vil bli fulgt opp
+neste år – med norsk formannskap igjen – med fokus på havforvaltning,
+sirkulær økonomi og grønn skipsfart samt arbeid for bærekraftig
+bruk av havets ressurser. Vi vil også følge opp den nordiske forpliktelsen
+gitt under FNs havkonferanse i 2025, med konkrete mål for å fremme
+bærekraftige akvatiske matsystemer.</A>
+            <A Type="Minnrykk">Beredskap handler også om kultur, språk, medier
+og demokratisk motstandskraft. Det nordiske kultursamarbeidet bidrar
+avgjørende til å styrke nordisk identitet, samhold og integrasjon. </A>
+            <A Type="Minnrykk">De siste årene har kulturens betydning i krise,
+krig og totalforsvar fått økt oppmerksomhet. I Ukraina har vi sett
+hvor avgjørende kulturen er for samfunnets og enkeltmenneskers motstandskraft.
+Det nordiske samarbeidet på dette området handler både om konkrete
+beredskapstiltak, som beskyttelse av kulturarv, og om mer tradisjonelle
+kulturpolitiske temaer som lesing, språk og fellesskap. Dette er
+viktige bidrag til samfunnets motstandskraft. Et prosjekt som er
+verdt å nevne, er Hanaholmen Heritage, et nordisk-baltisk program
+for beredskap og sikring av kulturarv i krise, krig og andre trusselsituasjoner. </A>
+            <A Type="Minnrykk">På medieområdet er desinformasjon, ytringsfrihet og
+mediekompetanse sentrale temaer. Dette vil vi følge opp under vårt
+formannskap, særlig koblet til hovedprioriteringen om demokrati,
+rettsstat og grunnleggende rettigheter. </A>
+            <A Type="Minnrykk">Et åpent og inkluderende samfunn forutsetter
+at grunnleggende rettigheter respekteres og beskyttes. Gjennom samarbeidsprogrammet
+Pushing for Progress står de nordiske likestillingsministrene samlet
+for å imøtegå motstanden og fremme fortsatt likestilling internasjonalt.
+FNs kvinnekommisjon er en viktig arena for oss. Det norske formannskapet
+vil videreføre dette arbeidet og legge vekt på hvordan digitale
+informasjonsstrømmer påvirker likestilling, holdninger til kjønnsroller
+og kjønns- og seksualitetsmangfold. </A>
+            <A Type="Minnrykk">La meg trekke fram to eksempler innenfor likestillingsarbeidet
+fra den senere tid: </A>
+            <Liste Type="Num">
+              <Pkt>
+                <A>Nordisk-baltisk samarbeid har styrket
+kunnskapsgrunnlaget om kjønnsbasert og æresrelatert vold og om gjennomføringen
+av Istanbulkonvensjonen om forebyggelse og bekjempelse av vold mot
+kvinner og vold i nære relasjoner. </A>
+              </Pkt>
+              <Pkt>
+                <A>Det er lagt fram ny kunnskap og økt erfaringsutveksling
+om skeives levekår i rurale områder, hvor utfordringene er særlig
+store.</A>
+              </Pkt>
+            </Liste>
+            <A Type="Minnrykk">Utdanning spiller en nøkkelrolle for inkludering, deltakelse
+og samfunnets motstandskraft. Framtidens skole og innsats for de
+minste samt utdanningens rolle i å styrke demokratisk beredskap
+og motstandskraft vil stå sentralt i vårt formannskap. Regjeringen
+er opptatt av å sikre en best mulig skole og utdanning. Som debatten
+i foregående sak akkurat viste, er vi dypt bekymret over den nedadgående
+tendensen når det gjelder læringsresultater i hele Norden. Dette
+vil bli fulgt opp, bl.a. gjennom et evalueringsprosjekt som skal
+gi mer kunnskap om de fallende læringsresultatene i Norden. </A>
+            <A Type="Minnrykk">Regjeringen ønsker å løfte barn og unges oppvekstsvilkår
+under vårt formannskap. Psykiske helseutfordringer, ensomhet og
+utenforskap, kombinert med sosiale mediers store betydning i hverdagen,
+gjør det nødvendig å styrke det nordiske samarbeidet på området. </A>
+            <A Type="Minnrykk">De nordiske landene har i stor grad lignende
+rettstradisjoner, verdier, samfunnsforhold og utfordringer på justisområdet.
+Den tette informasjonsdelingen bidrar positivt både i regelverksarbeidet
+og i det operative arbeidet. Dette gjelder særlig i møte med grensekryssende
+kriminalitet. Samarbeidet er en god arena for å samordne posisjoner
+i andre internasjonale fora og styrker Norges posisjon overfor EU.
+La meg også på dette området trekke fram noen konkrete samarbeidsprosjekter som
+viser bredden innenfor justisområdet: </A>
+            <Liste Type="Num">
+              <Pkt>
+                <A>Det er startet opp et forskningsprosjekt
+som skal kartlegge og sammenligne lovgivningen i de nordiske landene
+innen samfunnssikkerhet og beredskap. Prosjektet skal gi anbefalinger
+om politiske tiltak og initiativer som kan styrke det nordiske samarbeidet
+på området. </A>
+              </Pkt>
+              <Pkt>
+                <A>Norge har initiert et prosjekt som skal kartlegge konsekvensene
+og omfanget av kriminalitet som handelsvare, som ofte involverer
+mindreårige. Målet er å få en oversikt over iverksatte eller aktuelle tiltak
+i de nordiske landene for å bekjempe slik kriminalitet og skissere
+ytterligere tiltak.</A>
+              </Pkt>
+              <Pkt>
+                <A>I 2024 ble det tatt initiativ til dialog mellom de nordiske
+justisministrene og de største teknologiselskapene, som Meta, Google,
+Snapchat og TikTok. Siden da har det vært gjennomført flere møter
+med selskapene. Dialogen pågår fortsatt og gir mulighet til å drøfte
+hvordan digitale tjenester misbrukes til kriminalitet. </A>
+              </Pkt>
+            </Liste>
+            <A Type="Minnrykk">La meg avslutningsvis knytte noen kommentarer
+til den pågående prosessen for å se på eventuelle endringer av Helsingforsavtalen.
+Den er jo, som spesielt Nordisk råd-delegasjonen er godt kjent med,
+grunnloven for det nordiske samarbeidet. Høsten 2024 mottok de nordiske regjeringene
+en rekommandasjon fra Nordisk råd om å oppdatere avtalen og vurdere
+mer likestilt deltakelse for Færøyene, Grønland og Åland. Den norske
+regjeringens linje har vært klar: Vi er åpne for å vurdere om endringer i
+Helsingforsavtalen, eller andre tiltak, kan bidra til mer likestilt
+deltakelse. Samtidig er nordisk samhold svært viktig i den tiden
+vi lever i. Eventuelle endringer i Helsingforsavtalen må bygge på
+grundige vurderinger og ivareta landenes ulike konstitusjonelle
+forhold. </A>
+            <A Type="Minnrykk">Norden er vårt nærmeste utland – et geografisk,
+kulturelt og i relativt stor grad språklig fellesskap. De nordiske
+landene har imidlertid også ulikt utsyn, historisk og geografisk.
+Vi har forskjellige interesser på flere områder, men det er likevel
+ingen andre i verden vi har større samhørighet med enn våre nordiske
+naboer. Derfor bør vi, når det er mulig, søke sammen og finne løsninger i
+samarbeid når vi har felles interesser. </A>
+            <A Type="Minnrykk">Dette har vært en redegjørelse som har vist
+et utplukk av det nordiske samarbeidet, men den favner naturlig
+nok ikke alt. Det kanskje viktigste er det daglige folk-til-folk-samarbeidet
+og alle de enkeltaktørene som bidrar til å holde fellesskapet levende.
+Jeg vil gi en stor honnør til alle som styrker den nordiske identiteten
+og motstandskraften i vår region.</A>
+            <A Type="Minnrykk">Ved nyttår tar Norge over formannskapene for
+det nordiske samarbeidet og det nordisk-baltiske samarbeidet, samme
+år som Nordisk råd fyller 75 år. Det er en betimelig påminnelse
+om de lange røttene i dette samarbeidet – det eldste nålevende regionale
+samarbeidet i verden. Det er av stor betydning at vi fortsetter
+å investere i dette arbeidet.</A>
+            <A Type="Minnrykk">Jeg avslutter dermed redegjørelsen og ser fram
+til å diskutere den med Stortinget på torsdag.</A>
+          </Hovedinnlegg>
+          <Merknad>
+            <Handling>
+              <A>
+                <Uth Type="Sperret">Ove Trellevik </Uth>hadde
+her teke over presidentplassen.</A>
+            </Handling>
+          </Merknad>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:48:32]:</Navn> Presidenten
+vil føreslå at utgreiinga til utviklingsministeren om nordisk samarbeid vert
+sett opp til behandling i eit seinare møte i Stortinget – og ser
+det som vedteke.</A>
+          </Presinnlegg>
+        </Sak>
+        <Interpellasjon Id="i1002646" saksKartNr="4" sakID="110366">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak
+nr. 4</Uth> [11:48:45]</Saknr>
+            <Saktittel Id="i1002650">
+              <A>Interpellasjon fra representanten
+Haagen Poppe til barne- og familieministeren:</A>
+              <A>«Staten har ikke kontroll over utdelingen av trosstøtte. I september
+skrev VG om at flere nordmenn har oppdaget at de er innmeldt i trossamfunn
+mot sin vilje. Det fremstår som bedrageri. Når det offentlige velger
+å prioritere betydelige summer til tros- og livssynssamfunn fremfor
+til andre gode formål, burde et minimum være å kontrollere at folk
+faktisk har meldt seg inn selv. Systemet er i det store og hele
+basert på tillit, og denne tilliten virker å være brutt. Dessuten
+er det å melde et menneske inn i et trossamfunn mot deres viten
+et brudd på retten til trosfrihet. Dette reiser flere prinsipielle
+spørsmål om finansiering av tro- og livssynssamfunn, og det er behov
+for en bred gjennomgang av medlemsregistrene og hele støtteordningen.</A>
+              <A>Er statsråden enig i at staten ikke har kontroll over utbetalingen
+av betydelige offentlige midler til tros- og livssynssamfunn, og
+at dette svekker tilliten til hele ordningen?»</A>
+            </Saktittel>
+          </Sakshode>
+          <Hovedinnlegg Id="i1002652">
+            <A>
+              <Navn personID="HSP">
+Haagen Poppe (H) [11:50:06]:</Navn> Det mest oppsiktsvekkende i
+dette sakskomplekset er faktisk ikke at fellesskapets penger er
+blitt utbetalt på feilaktig grunnlag. Det mest oppsiktsvekkende
+er at norske borgere har fått en religiøs identitet påført av andre,
+uten samtykke.</A>
+            <A Type="Minnrykk">Trosfriheten er en grunnleggende menneskerettighet.
+Det er ikke bare en eller annen byråkratisk formalitet og en hvilken
+som helst annen offentlig utgift. Av den grunn er dette mer alvorlig
+enn andre typer svindel av det offentlige, for vi kan ikke utelukke
+at dette i enkelte tilfeller dreier seg om nettopp svindel. I tillegg
+er dette et potensielt brudd på de grunnleggende menneskerettighetene,
+for trosfrihet handler ikke bare om retten til å utøve en religion,
+det innebærer også en frihet til å stå utenfor.</A>
+            <A Type="Minnrykk">Høyre mener at det ikke er tilstrekkelig at
+trossamfunn tilbakebetaler penger de ikke hadde krav på, når de blir
+oppdaget. Her må det en full gjennomgang til. Det kan ikke være
+slik at det bare er VGs avsløringer og enkeltpersoner som står fram
+i VG, som fører til at saker kommer til overflaten. Høyre avviser
+ikke at dette vil kunne medføre reaksjoner som f.eks. økonomiske
+sanksjoner, tap av tilskudd til hele organisasjoner, eller politianmeldelse
+ved alvorlige eller gjentatte lovbrudd.</A>
+            <A Type="Minnrykk">Høyre fikk dessverre ikke gjennomslag for våre
+forslag i trontaledebatten, og nå er det statsforvalterne som får
+oppgaven med å gå gjennom denne saken. Vi ønsket et bredere mandat
+enn som så, og vi låste ikke vårt forslag til at man nødvendigvis
+måtte gå gjennom de vanlige instanser og kontrollmekanismer som
+finnes, for ting kan tyde på at denne saken er bredere enn det som
+er kommet fram gjennom mediene.</A>
+            <A Type="Minnrykk">Statsforvalterne kontrollerer i dag i hovedsak
+opplysninger opp mot folkeregisteret og ser etter dobbeltmedlemskap.
+De har derimot begrensede muligheter til å kontrollere om innmeldingene
+faktisk er reelle og frivillige. Ikke minst har statsforvalterne
+begrensede ressurser.</A>
+            <A Type="Minnrykk">Likevel: Ut fra de signalene regjeringen har
+gitt, er dette prioritert, og det tar jeg til meg. Da blir mine
+spørsmål: Hvor mye av de feilutbetalte tilskuddene fra departementene
+og statsforvalterne er faktisk blitt krevd tilbake så langt? Og
+vil tilsynsmyndighetene få alle de verktøyene og fullmaktene som
+trengs for å stanse urettmessige betalinger og kreve tilbakebetaling?</A>
+            <A Type="Minnrykk">Dette er også en sak som kan ses inn i en større
+sammenheng. Vi skal snart – forhåpentligvis – få en sak til Stortinget
+om en større gjennomgang av tros- og livssynsfinansieringen. Likevel
+venter vi på en sak til Stortinget. Utgiftene til ordningen om tros-
+og livssynsfinansiering til andre enn Den norske kirke har vokst
+betydelig de siste årene, samtidig som vi nå får disse spørsmålene
+om medlemsregistrering, kontrollrutiner og tilsynsmyndighetenes
+mulighet til å avdekke feil.</A>
+            <A Type="Minnrykk">For Høyre er det ikke nødvendigvis et mål at
+man skal kutte i disse ordningene, men man må få dem under kontroll,
+og da er mitt neste spørsmål, også til statsråden: Vil dette sakskomplekset
+inngå i den saken som skal framlegges for Stortinget?</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1002654">
+            <A>
+              <Navn personID="LVA">
+Statsråd Lene Vågslid [11:54:36]:</Navn> La meg starte med å seie
+at det er heilt avgjerande å sikre at me har eit godt fungerande
+regelverk og tillitvekkande kontrollsystem i ordninga for tilskot
+til trus- og livssynssamfunn. Som interpellanten sjølv sa, er trusfridom
+òg retten til å ikkje tru. Trusfridomen er heilt sentral i Noreg og
+ber òg sterk rettsleg beskyttelse. </A>
+            <A Type="Minnrykk">Det er viktig for meg som statsråd å seie at
+dei historiene som har kome fram, blir tekne på største alvor. Det
+er heilt uakseptabelt å melde nokon inn i eit trus- og livssynssamfunn
+mot deira vilje. Det er òg uakseptabelt å krevje statsstøtte for
+nokon som ikkje ynskjer å vere medlem. Samtidig meiner eg representanten
+går langt i å dra slutningar om faktum og motivasjon, ja til og
+med om strafferettslege spørsmål. </A>
+            <A Type="Minnrykk">I Noreg er det til saman 4,2 millionar medlemskap
+i Den norske kyrkja og i registrerte trus- og livssynssamfunn. Med
+så stort volum er det ikkje gjeve at kvar feil er eit utslag av
+noko som «fremstår som bedrageri», for å bruke representanten sine
+eigne ord. </A>
+            <A Type="Minnrykk">Eg er oppteken av at me held oss til det me
+veit, og at det som er uklart, skal me ha meir informasjon om. Statsforvaltarane
+handterer no ei rekkje saker knytt til feilregistreringar, og det
+kan ende i krav om tilbakebetaling, nekting av tilskot og politimelding.
+Dersom nokon har motteke tilskot dei ikkje skulle hatt, skal det
+tilbakebetalast. Dette er ein viktig del av jobben for å sikre tilliten
+til denne ordninga. </A>
+            <A Type="Minnrykk">Mitt bodskap er at me må klare to ting – minst
+– samtidig. Me må vere tydelege på at det er uakseptabelt å melde
+nokon inn som ikkje vil vere medlem i eit trus- og livssynssamfunn,
+for du skal sjølv bestemme kvar du skal vere medlem. Pengane til
+skattebetalarane skal heller ikkje gå til feilaktige medlemskap.
+Samtidig skal me som politikarar òg halde hovudet litt kaldt. Som
+statsråd er eg oppteken av å ta ansvar for systemet og ta nødvendige
+grep for å sikre den tilliten til finansieringsordninga som både
+representanten Poppe og Arbeidarparti-regjeringa er oppteken av.
+Eg sette difor straks i gang eit arbeid der me ser på om regelverket
+og kontrollen bør strammast inn, og eg er glad for at Stortinget
+6. oktober slutta seg til dei tre forslaga til Arbeidarpartiet,
+som langt på veg er i tråd med det arbeidet eg har sett i gang i departementet. </A>
+            <A Type="Minnrykk">Eg vil òg sørgje for at det snarast mogleg
+kjem på plass ei ordning der det blir sendt ut ei melding frå Brønnøysundregistera
+til personar som står oppførte i eitt eller fleire trus- og livssynssamfunn.
+I meldinga skal ein gje informasjon om moglegheita til å få opplyst
+kva samfunn du står oppført i, gjennom å logge seg på den relativt
+nye digitale innsynsløysinga i Brønnøysundregistera. Eg vil òg leggje
+til at me er oppmerksame på problemstillinga knytt til dei som har
+reservert seg mot digital informasjon. </A>
+            <A Type="Minnrykk">Eg trur at dette vil kunne verke preventivt,
+og at det kan avdekkje og rette opp i feiloppføringar. Om det blir meldt
+frå om feiloppføringar til statsforvaltaren, vil for mykje utbetalt
+tilskot kunne bli kravd tilbakebetalt. </A>
+            <A Type="Minnrykk">Nokon er òg lovleg innmelde i eit trus- og
+livssynssamfunn som barn, utan at dei er klar over det som vaksne.
+Med innsynsløysinga kan dei enkelt bli klar over sitt medlemskap
+og vurdere om dei framleis ynskjer å vere medlem. </A>
+            <A Type="Minnrykk">Så er det viktig for meg til slutt i dette
+innlegget å understreke at medlemskap i trus- og livssynssamfunn
+er eit privat og personleg forhold som staten skal vere varsam med
+å blande seg inn i. Det er borgaren sjølv som skal etablere og avslutte
+sitt medlemskap, og det er trus- og livssynssamfunna som skal føre
+register over sine medlemer, ikkje staten. Det er ein framand tanke
+for meg at staten i eit liberalt demokrati som vårt skal opptre
+som eit mellomledd i forholdet mellom trus- og livssynssamfunna
+og deira medlemer. </A>
+            <A Type="Minnrykk" Id="i1002656">Eg kjem tilbake til mange av
+dei andre spørsmåla som interpellanten òg hadde, i mitt neste innlegg.<Navn personID="HSP">
+ Haagen Poppe (H) [11:59:18]:</Navn> I mitt innlegg tar jeg noen
+forbehold. Jeg sier at når det gjelder både potensielle menneskerettighetsbrudd
+og potensielle spørsmål om bedrageri, er det så klart opp til tilsynsmyndighetene
+og eventuelt politi og påtalemyndighet å følge opp og konkludere
+om dette faktisk er tilfellet. Men ut fra de historiene vi kan lese,
+er det klare indikasjoner på at dette faktisk er tilfellet. Kollektiv
+innmelding, hvor hele diaspora-familier har blitt innmeldt uten
+at de vet det, og har stått oppført som medlemmer i 30 år, kan indikere at
+dette er en større og mer systematisk virksomhet enn det som enkeltindivider
+alene kan vitne om. </A>
+            <A Type="Minnrykk">Jeg er samtidig glad for mange av de enkelttiltakene som
+statsråden nå skisserer. Jeg håper også at statsråden i sitt neste
+svar er tydelig på hvordan disse ulike tiltakene som skisseres,
+og antydes i media, blir fulgt opp i den saken som vi skal få til
+Stortinget – om ikke altfor lenge, håper jeg. </A>
+            <A Type="Minnrykk">Dette handler om trosfriheten til enkeltmennesker. Det
+er så klart ikke sånn at staten skal gå inn og detaljstyre hvordan
+det enkelte trossamfunn skal operere, men vi må sørge for at vi
+har gode rutiner og gode systemer for å sette det i tydelige rammer.
+Derfor har f.eks. Høyre også sagt at vi mener at det må være en
+nasjonal overbygning og krav om verifiserbart innmeldingssystem,
+og jeg håper at statsråden også kan kommentere om dette er noe det
+jobbes med. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1002658">
+            <A>
+              <Navn personID="LVA">
+Statsråd Lene Vågslid [12:01:34]:</Navn> Eg avviser heller ikkje
+noko. Eg meiner berre me skal vere varsame med å påstå, sjølv med
+atterhald. </A>
+            <A Type="Minnrykk">Dagens trussamfunnslov heimlar jo ikkje eit
+krav til dokumentasjon, slik Høgre no har teke til orde for. Eg har
+behov for å minne om at det var høgreregjeringa som la fram den
+nye trussamfunnslova, og som for ikkje veldig mange år sidan blei
+vedteke i denne salen med eit stort borgarleg fleirtal. </A>
+            <A Type="Minnrykk">Så er me jo no einige om, som eg har varsla
+i media, og som representanten Bente Estil har fremja forslag om her
+i Stortinget, og det som blei vedteke 6. oktober, at me vil sjå
+på heimelsgrunnlaget, me vil sjå på loven, òg når det handlar om
+krav til dokumentasjon.</A>
+            <A Type="Minnrykk">Nokre av dei forslaga som Høgre har teke til
+orde for, er eg ueinig i at er rett medisin. Eg meiner det er viktig
+no i fyrste omgang å få gjeve ut informasjon, slik at folk kan få
+retta opp feil, at me ser på dokumentasjon, at pengar blitt tilbakebetalt
+og at trussamfunna òg får god rettleiing. Men det eg opplever at
+Høgre har teke til orde for, er ei gransking av alle trus- og livssynssamfunn
+sine medlemsregister. Det må gjerne interpellanten korrigere, viss
+eg har oppfatta det feil, men eit slikt forslag, ein slik type gjennomgang,
+vil vere enormt ressurskrevjande. Eg trur ein må minne om her kor
+mange medlemer me snakkar om. Viss berre 800 000 av dei noverande
+tilskotsteljande medlemene skulle ha blitt sjekka, ville det ha
+teke 200 000 timar og 120 årsverk å gjere den jobben. Viss ein skal
+leggje på Den norske kyrkja i tillegg, der ein anslagsvis tenkjer
+at ein skal bruke 15 minutt per medlem, er det ytterlegare 800 000
+timeverk. Det meiner eg ikkje er forholdsmessig, det er svært ressurskrevjande, og
+eg trur me kan kome i mål her med andre metodar. Difor er eg glad
+for det vedtaket Stortinget har varsla.</A>
+            <A Type="Minnrykk">Til spørsmålet om oppfølging av Smith-utvalet
+og finansieringsutvalet, så er det noko eg kjem til å kome til Stortinget
+med. På den eine sida meiner eg at me må kunne ha ein prinsipiell
+debatt om finansiering av tru og livssyn – her har dei ulike partia
+sine programformuleringar – samtidig som me tek tak i ting som viser
+seg å vere både alvorleg og feil. Eg har ingen dato å kome med til
+interpellanten akkurat no, men det me har varsla, vil jo handle
+om ein gjennomgang av dei lovheimlane som høgreregjeringa gjekk
+til Stortinget med i si tid, der me må sjå på heimelsgrunnlaget
+for bl.a. krav til dokumentasjon. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1002660">
+            <A>
+              <Navn personID="BENEST">
+Bente Estil (A) [12:04:47]:</Navn> Det som har kommet fram den siste
+tida med avsløringer av feil i medlemstall i tros- og livssynssamfunn,
+er alvorlig, og det er tatt på alvor. Den enkeltes medlemskap i
+et tros- og livssynssamfunn skal være frivillig, det skal være riktig
+registrert, og det skal så klart være basert på ens eget valg. Det
+handler om hver enkelt av oss sin rett til å tro eller å ikke tro,
+og det handler om tilliten til våre felles tilskuddsordninger, I
+tillegg til Den norske kirke er det i dag nesten 700 ulike tros-
+og livssynssamfunn som mottar tilskudd til sin virksomhet via fellesskapet
+og statsbudsjettet.</A>
+            <A Type="Minnrykk">Jeg er glad for at vi i Arbeiderpartiet fikk
+flertall for vårt forslag i forbindelse med trontaledebatten der
+en ba regjeringen om å sikre at statsforvalterne og tros- og livssynssamfunnene
+nå skal veiledes og følges opp i håndteringen av urettmessige medlemskap,
+og at tilskuddet skal betales tilbake når det har vært utbetalt
+for mye – videre også at det vurderes å utrede en hjemmel for å
+forsterke kravene til dokumentasjon for inn- og utmelding.</A>
+            <A Type="Minnrykk">Som for øvrig et enstemmig storting sluttet
+seg til, er det nå helt avgjørende å få etablert en løsning der
+medlemmene i tros- og livssynssamfunnene får direkte melding om
+at en er registrert som medlem i ett eller flere samfunn. Det er
+bra at statsråden har tatt dette på alvor og sier at hun skal sørge
+for at det skal komme på plass. Tros- og livssamfunnenes medlemslister
+per 1. januar ligger til grunn for tilskudd, og det er fra Arbeiderpartiets
+side ønskelig å få ut en direktemelding i god tid før 1. januar,
+slik at feil blir rettet opp før et nytt tilskuddsår. Jeg håper
+at løsningen som statsråden skisserer, vil komme på plass raskt.</A>
+            <A Type="Minnrykk">Jeg vil avslutte med en oppfordring. Det finnes
+allerede en portal i Brønnøysundregistrene for å undersøke om og
+hvor en er registrert som medlem. Det finnes en mulighet til å finne
+ut og rette opp feil allerede i dag. Mange har gjort det, og en
+oppfordring må være at enda flere bruker den muligheten.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1002662">
+            <A>
+              <Navn personID="MATHEN">
+Mats Henriksen (FrP) [12:07:22]:</Navn> VGs avsløringer om juks
+med medlemslistene i trossamfunn er alvorlige. Folk har oppdaget
+at de står oppført som medlemmer i trossamfunn de aldri har meldt
+seg inn i, og at trossamfunnene har mottatt statsstøtte for disse
+medlemskapene. </A>
+            <A Type="Minnrykk">Under trontaledebatten støttet Fremskrittspartiet Høyres
+forslag om en full gjennomgang av medlemslistene og tilbakebetaling
+av støtte som er utbetalt på feil grunnlag. Dessverre fikk ikke
+disse forslagene flertall. </A>
+            <A Type="Minnrykk">Fremskrittspartiet mener imidlertid at vi må
+gå enda lenger enn dette. Trossamfunn som bevisst jukser med medlemslistene
+for å få mer penger fra staten, bør miste retten til statsstøtte.
+Det kan ikke være slik at man kan svindle til seg offentlige midler,
+og at den eneste konsekvensen dersom man blir avslørt, er at man
+får en klapp på skulderen og må betale tilbake pengene. Juks må
+få konsekvenser. </A>
+            <A Type="Minnrykk">Jeg mener også denne saken reiser noen viktige spørsmål
+om religionsfrihet og særlig muligheten til å melde seg ut av et
+trossamfunn. Religionsfriheten innebærer ikke bare retten til å
+tilhøre et trossamfunn, men også retten til å stå utenfor eller
+forlate det. </A>
+            <A Type="Minnrykk">Jeg har tidligere utfordret statsråden på hvorfor
+vi ikke kan etablere en offentlig digital løsning der folk kan melde
+seg ut av trossamfunn uten å måtte kontakte det enkelte trossamfunnet
+direkte. I svaret sitt viste statsråden til at medlemskap i tros-
+og livssynssamfunn er et privat og personlig forhold, som staten
+skal være varsom med å blande seg inn i. Det er jeg helt enig i.
+Men det er jo nettopp staten som har lagt opp til en ordning der trossamfunnene
+må rapportere inn medlemslister, som myndighetene deretter kontrollerer
+for å kunne utbetale statsstøtte. Da har jeg vanskelig for å forstå
+hvorfor det skal være så prinsipielt problematisk å legge til rette
+for at folk selv kan melde seg ut gjennom en offentlig digital løsning.
+Finland har allerede en lignende ordning. </A>
+            <A Type="Minnrykk">Vi vet også at det finnes miljøer der det å
+bryte med religionen og trossamfunn kan få store sosiale konsekvenser.
+For mennesker som lever med negativ sosial kontroll, kan det å måtte
+kontakte trossamfunnet direkte være en betydelig terskel for å melde
+seg ut. En slik løsning vil derfor ikke bare gjøre det enklere å
+melde seg ut, men det vil også styrke den enkeltes religionsfrihet. </A>
+            <A Type="Minnrykk">Fremskrittspartiet mener i utgangspunktet at
+tros- og livssynssamfunn bør finansieres av sine medlemmer. Men
+all den tid vi har en ordning der staten utbetaler milliardbeløp
+basert på medlemstall, må vi kunne forvente at det føres skikkelig
+kontroll. Regjeringen har ikke kontroll på dette slik det foreligger
+nå. Fremskrittspartiet mener at det nå er på tide å ta kontrollen
+tilbake.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1002664">
+            <A>
+              <Navn personID="MAHF">
+Mahmoud Farahmand (H) [12:10:59]:</Navn> Jeg vil starte med å takke
+representanten Poppe for å ta opp denne saken, for den handler om
+tillit – tilliten mellom oss borgere og staten.</A>
+            <A Type="Minnrykk">Jeg må begynne med en liten bekjennelse. Jeg
+har vært medlem av en moské i 30 år uten å være klar over det selv.
+Jeg er litt usikker på om jeg skal bli fornærmet eller ikke, men
+det er ingen som har savnet meg på fredagsbønner i løpet av de 30
+årene. Det er i hvert fall helt klart, for jeg har aldri vært der.
+Hvordan jeg, min søster og min mor ble meldt inn, er også ganske
+usikkert for oss, og moskeen klarer heller ikke å svare på det.</A>
+            <A Type="Minnrykk">Dette handler likevel ikke om meg og min familie, det
+handler om prinsippet. Spørsmålet er egentlig ganske enkelt: Har
+staten kontroll over utbetalingene av disse summene til tros- og
+livssynssamfunnene? Det som gjør dette litt paradoksalt, er at i
+alle andre sammenhenger når det gjelder slike utbetalinger, er det gode
+kontrollmekanismer, men i dette tilfellet er utbetalingene basert
+på medlemstall. Hvem leverer medlemstallene? Jo, trossamfunnene
+leverer medlemstallene. Og hvem kontrollerer? Jo, det er også trossamfunnene
+som kontrollerer. Det er altså ingen kontrollmekanismer her, og
+det er derfor det absurde oppstår at man finner ut at man i mitt
+tilfelle har hatt et like langt forhold til en moské jeg ikke vet
+hvor ligger, som jeg har hatt til min kone. Det er ganske oppsiktsvekkende.</A>
+            <A Type="Minnrykk">Norge er som sagt et høytillitssamfunn. Vi
+stoler på hverandre, og vi stoler på staten. Det er en av våre største styrker.
+Samtidig er et høytillitssamfunn også sårbart i disse sammenhengene.
+Tilliten hviler også på en uskreven regel om at den ikke skal misbrukes.
+Skattebetalerne har tillit til at pengene de betaler inn til statskassen, går
+til de formålene de er ment til, på rettmessig måte. Den forplikter
+oss som politikere – såpass respekt skylder vi altså våre skattebetalere
+og de kronene de betaler inn til kassen. Når tilliten misbrukes,
+taper vi alle, for denne tilliten er et felles gode. At vi setter
+opp kontrollmekanismer, betyr heller ikke at vi har sluttet å stole
+på hverandre, men når det gjelder denne typen utbetalinger, er det
+viktig at vi har kontrollmekanismer.</A>
+            <A Type="Minnrykk">Jeg må også legge til noen viktige premisser
+her. Når vi snakker om trossamfunn generelt sett, blir det veldig lett
+å tro at alt er likt, men i kristendommen har man helt fastsatte
+ritualer: Man har en dåp og en konfirmasjon. Konfirmasjonen er offentlig
+og dåpen likeså, så man vet at man er blitt konfirmert. Man har
+tatt et aktivt valg i en alder av 14–15–16 år og valgt å forbli
+i statskirken. Det betyr ikke at det ikke foregår juks i kirkene, men
+de har iallfall offentlige ritualer som vi kan ettergå. Det har
+ikke alle trossamfunn, og det er viktig å være oppmerksom på det.</A>
+            <A Type="Minnrykk">Et annet problem som jeg også ønsker å påpeke
+her, er at vi ofte i disse sammenhengene generaliserer veldig. Men
+i løpet av de siste ukene, basert på det som er kommet fram i VG,
+har jeg personlig kontaktet mange mennesker med utenlandsk opphav,
+med muslimsk bakgrunn, som er ufrivillig medlem i moskeer, men ikke
+tør å melde seg ut på grunn av det stigmaet og ikke minst den sosiale
+kontrollen de opplever. Det var en som sa til meg at det som var
+problemet, var at faren hans var god venn av imamen i moskeen, og
+hvis han meldte seg ut, ble det dårlig stemning i lang tid framover.
+Sånn kan vi ikke ha det, og det er derfor jeg også mener at de tiltak
+vi nå gjennomfører, bør være av en slik art at vi også tar innover
+oss den sosiale kontrollen som er der, og at vi klarer å tilby disse
+menneskene som lever i den hverdagen, en løsning som kan bidra til
+at de kan meldes ut uten at det oppstår et massivt stigma rundt
+deres handlinger.</A>
+            <A Type="Minnrykk">Jeg er igjen veldig takknemlig for representanten Poppes
+initiativ her. Jeg tror det er et viktig initiativ. Avslutningsvis
+vil jeg også takke statsråden. Fredagen saken min kom i VG, var
+den første meldingen jeg mottok, fra statsråden, som uttrykte støtte
+til meg i den situasjonen jeg sto oppe i. Det setter jeg pris på,
+og jeg håper at vi i Stortinget kan komme til enighet og finne løsninger som
+bidrar til at vi kan verne om tilliten i samfunnet vårt, beskytte
+trosfriheten og ivareta de mennesker som opplever denne sosiale
+kontrollen i sin hverdag.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1002666">
+            <A>
+              <Navn personID="JRGKRI">
+Jørgen H. Kristiansen (KrF) [12:15:43]:</Navn> Rett skal være rett.
+De siste ukenes avsløringer i VG er alvorlige, og det er de fordi
+dette bryter med prinsippet for medlemskap, og det fører til at
+trossamfunn får statsstøtte på feil grunnlag. Mest av alt handler
+dette likevel om noe som er svært personlig: Det å ha en tro, det
+å være medlem og det å være en del av et fellesskap skal være et
+eget valg.</A>
+            <A Type="Minnrykk">Det er bra at bevisst eller ubevisst juks og
+feil avsløres og får konsekvenser. Den norske statsstøtten er en raus
+ordning, og den er avhengig av tillit. Derfor stemte vi i KrF i
+Stortinget for flere forslag som skjerper tilsynet og som skal se
+på muligheten for sms-varsling ved innmelding i et tros- eller livssynssamfunn.</A>
+            <A Type="Minnrykk">Vi vet også at det er mange seriøse aktører
+på feltet som gjør det de skal, og har orden i sine systemer. Likevel
+må vi til enhver tid tilstrebe at ting er korrekt, og at pengene
+som utbetales, er på riktig grunnlag. Vi støtter tilsyn og krav
+om tilbakebetaling ved feil; det er helt på sin plass.</A>
+            <A Type="Minnrykk">Likevel er det svært viktig for KrF at reaksjonen
+skal være adekvat og med riktig styrke. Det er viktig og riktig med
+tilsyn, men det er ikke slik at det over hele linjen og i alle tros-
+og livssynssamfunn jukses bevisst med listene. Vi kjenner verdien
+av kirker, menigheter og trossamfunn. Det å ha et fellesskap, et
+sted å høre til, er viktig for alle mennesker, og den summen tros-
+og livssynssamfunn får per medlem, er liten i forhold til verdiene
+de gir tilbake til enkeltpersoner og til samfunnet. Det drives mye
+godt og viktig arbeid mot ensomhet og for inkludering. Vi vet også
+hvor mange ledere som utvikles i våre kirker landet rundt, og hvor
+viktig disse aktørene er for fellesskap, lederutvikling og personlig
+tro.</A>
+            <A Type="Minnrykk">Vi vet også hvor viktig moskeer har vært for
+muslimer i Norge og synagoger for jøder i Norge, og hvordan ulike
+tros- og livssynssamfunn har bidratt til dialog på tvers av tro
+og kultur. Derfor har KrF stemt for at regjeringen skal sikre at
+midlene som skal utbetales, er korrekte, for å sikre tillit til
+ordningen. Vi vil også følge med og arbeide for at dette ikke svekker,
+men styrker ordningen.</A>
+            <A Type="Minnrykk">Rett skal være rett, både for dem som har fått
+for mye og for dem som har fått akkurat det de skal.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1002668">
+            <A>
+              <Navn personID="HSP">
+Haagen Poppe (H) [12:18:25]:</Navn> Vi kan aldri kontrollere oss
+helt ut av enhver risiko for at feil vil bli begått. Det er klart
+at det aldri er aktuelt å tale om å bruke 800 000 timer på å gå
+igjennom absolutt alle medlemskap i tros- og livssynssamfunn i Norge.
+Men spørsmålet om forholdsmessighet og hva som er adekvat bruk av
+fellesskapets ressurser, stiller seg faktisk litt annerledes når
+det er snakk om helt grunnleggende menneskerettigheter, som i dette
+tilfellet. Retten til å skifte en tro, stå i en tro eller stå utenfor
+er personlig og intim, som flere har vært innom, og derfor stiller
+dette seg også litt annerledes i forhold til andre saker. I enkelte
+sammenhenger kan det – som representanten Farahmand var innom –
+være vanskelig i enkelte miljøer, hvor det kan få helt konkrete
+personlige konsekvenser dersom man tar dette valget og må gå til
+menigheten. For vi kommer ikke utenom at dette i mange tilfeller
+gjelder diasporamenigheter. Jeg har omtrent aldri fått flere henvendelser
+enn etter disse sakene jeg har vært ute med i VG, og faktisk alle
+jeg har blitt kontaktet av, er i diasporaer. Jeg er helt sikker
+på at representanten Farahmand har fått enda flere henvendelser
+enn meg.</A>
+            <A Type="Minnrykk">Som sagt er det ikke snakk om å gjennomgå absolutt
+alle medlemskap i Norge, men man vil raskt i disse gjennomgangene
+nå se hvilke trossamfunn det er nødvendig å kikke nærmere i kortene.
+Enkeltfeil vil forekomme i alle systemer. Man skal selvfølgelig
+gjøre alt man kan for å minimere det. Enkeltfeil vil alltid forekomme,
+men systematiske brudd må aldri bli forbigått i stillhet. </A>
+            <A Type="Minnrykk">Avslutningsvis vil jeg fra Høyres side anerkjenne den
+fantastiske jobben mange lovlydige organisasjoner og menigheter
+driver med i Norge rundt om i det ganske land. De bidrar til samhold,
+er viktige kulturbærere og gjør mange ting som ellers det offentlige
+hadde måttet gjort, på en forbilledlig måte. Den ordningen som innebærer
+at disse har en grunnleggende økonomisk trygghet, ønsker vi i utgangspunktet
+å hegne om og videreføre, men da må den ha legitimitet og være bærekraftig.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1002670">
+            <A>
+              <Navn personID="LVA">
+Statsråd Lene Vågslid [12:21:15]:</Navn> Takk til interpellanten
+for å reise ein viktig interpellasjon. Eg opplever at me langt på
+veg deler problembeskrivinga. Eg trur veldig mange, då dei las saka
+om f.eks. representanten Mahmoud Farahmand, reagerte veldig sterkt
+på det. La meg difor gjenta veldig tydeleg: Det er uakseptabelt
+å melde nokon inn i eit trussamfunn mot deira vilje. </A>
+            <A Type="Minnrykk">Så er det nokre av forslaga Høgre har reist,
+som eg er grunnleggjande ueinig i, og som eg er litt overraska over, særleg
+i eit liberalt demokrati. Ein har f.eks. teke til orde for å annullere
+medlemskap, og ein tek, slik eg oppfattar det, til orde for ei meir
+digital løysing, der ein kan melde seg inn og ut i statleg regi.
+Det har ein del problematiske sider. </A>
+            <A Type="Minnrykk">Me må sikre at me har eit lovverk for gode
+og vonde dagar. Me må sikre at dei grunnleggjande menneskerettane
+til folk, òg det å ha religionsfridom, anten ein er medlem i eit
+trussamfunn eller ikkje er medlem i eit trussamfunn, står seg uansett
+korleis dette landet blir styrt i framtida. Det har me òg historiske
+grunnar til å verne om. </A>
+            <A Type="Minnrykk">Eg vil òg, som særleg representanten frå KrF
+gjorde på ein god måte frå talarstolen, understreke at trus- og livssynssamfunna
+i Noreg tilfører samfunnet vårt viktige rom, fellesskap som me ynskjer
+å ha. Arbeidarpartiet er tydelege på at me ynskjer å støtte både
+kyrkja og dei andre trus- og livssynssamfunna i Noreg som oppfyller
+dei krava som ligg i regelverket. Det er faktisk tre av fire nordmenn
+som er medlem i eit trus- og livssynssamfunn i Noreg, og det er
+viktig og rett å vurdere legitimiteten i ordninga – som eg blir
+litt utfordra på frå Høgre – i ljos av at dette er eit felt som
+er meir enn dei sakene som har kome fram i VG den siste tida. </A>
+            <A Type="Minnrykk">Trus- og livssynssamfunna i Noreg samarbeider
+òg med offentlege instansar for å løyse viktige samfunnsutfordringar.
+Dei bidreg òg i beredskapsarbeidet. Ikkje minst, og det set eg stor
+pris på som statsråd, tek trus- og livssynssamfunna i Noreg, saman
+med Samarbeidsrådet for tros- og livssynssamfunn, tak i ein del
+vanskelege problemstillingar som gjer at me kanskje kan nå det målet
+me har sett oss om å vere eit livssynsopent samfunn. </A>
+            <A Type="Minnrykk">Representanten frå Framstegspartiet seier,
+antydar nærmast, at om du ikkje følgjer regelverket, får du ein klapp
+på skuldra. Det gjer du ikkje. Viss du mottek tilskot som du ikkje
+skal ha, skal det tilbakebetalast. </A>
+            <A Type="Minnrykk">Eg starta interpellasjonen, eller debatten,
+med å åtvare mot å, på godt norsk, «jump to conclusions». Her må
+me forhalde oss til det me veit, og det me ikkje veit, skal me til
+botnar i. Igjen: Eg er glad for dei vedtaka Stortinget fatta 6. oktober. </A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [12:23:50]:</Navn> Med det er
+sak nr. 4 omme.</A>
+            <A Type="Minnrykk">Stortinget tek no pause fram til votering kl.
+15.</A>
+          </Presinnlegg>
+          <Merknad>
+            <Avbrutt>
+              <A align="center">Stortinget tok pause i forhandlingene
+kl. 12.25.</A>
+            </Avbrutt>
+            <Handling>
+              <A align="center">-----</A>
+              <A Id="i1002672" align="center">Stortinget tok opp att forhandlingane
+kl. 15.</A>
+              <A Id="i1002674" align="center">President: <Uth Type="Sperret">Ingrid
+Fiskaa</Uth></A>
+            </Handling>
+          </Merknad>
+        </Interpellasjon>
+        <VoteringerStart>
+          <Tittel>Votering</Tittel>
+          <Voteringer Id="i1002676" saksKartNr="1" debattDato="2026-10-20" tidspunkt="1500" sakID="200471">
+            <Sakdel>
+              <Tittel>Votering i sak nr. 1,
+debattert 20. oktober 2026</Tittel>
+              <A Id="i1002678">Innstilling fra valgkomiteen om valg av medlemmer og
+varamedlemmer til Nordisk råd (Innst. 19 S (2026–2027))</A>
+              <Referanse Id="i1002680" debattDato="2026-10-20" saksKartNr="1" />
+              <A Type="Blanklinjeminnrykk">Komiteen hadde tilrådd Stortinget
+å gjera følgjande</A>
+            </Sakdel>
+            <VedtakS>
+              <Tittel>vedtak:</Tittel>
+              <A Type="Minnrykk">Som medlemmer og varamedlemmer til Nordisk råd
+velges for ett år:</A>
+              <A Type="Blanklinje">
+                <Uth Type="Kursiv">Medlemmer</Uth>:</A>
+              <Liste Type="Num">
+                <Pkt>
+                  <A>Truls Vasvik</A>
+                </Pkt>
+                <Pkt>
+                  <A>Bente Estil</A>
+                </Pkt>
+                <Pkt>
+                  <A>Kristine Løfshus Solli</A>
+                </Pkt>
+                <Pkt>
+                  <A>Tom Einar Karlsen</A>
+                </Pkt>
+                <Pkt>
+                  <A>Jon-Ivar Nygård</A>
+                </Pkt>
+                <Pkt>
+                  <A>Kari Baadstrand Sandnes</A>
+                </Pkt>
+                <Pkt>
+                  <A>Helge André Njåstad</A>
+                </Pkt>
+                <Pkt>
+                  <A>Marius Arion Nilsen</A>
+                </Pkt>
+                <Pkt>
+                  <A>Tor André Johnsen</A>
+                </Pkt>
+                <Pkt>
+                  <A>Lill Harriet Sandaune</A>
+                </Pkt>
+                <Pkt>
+                  <A>Rune Midtun</A>
+                </Pkt>
+                <Pkt>
+                  <A>Liv Gustavsen</A>
+                </Pkt>
+                <Pkt>
+                  <A>Tage Pettersen</A>
+                </Pkt>
+                <Pkt>
+                  <A>Monica Molvær</A>
+                </Pkt>
+                <Pkt>
+                  <A>Kari Sofie Bjørnsen</A>
+                </Pkt>
+                <Pkt>
+                  <A>Mirell Høyer-Berntsen</A>
+                </Pkt>
+                <Pkt>
+                  <A>Geir Inge Lien</A>
+                </Pkt>
+                <Pkt>
+                  <A>Hege Bae Nyholt</A>
+                </Pkt>
+                <Pkt>
+                  <A>Oda Indgaard</A>
+                </Pkt>
+                <Pkt>
+                  <A>Hans Edvart Askjer</A>
+                </Pkt>
+              </Liste>
+              <A Type="Blanklinje">
+                <Uth Type="Kursiv">Varamedlemmer</Uth>:</A>
+              <A Type="Uinnrykk">For nr. 1–6:</A>
+              <A Type="Uinnrykk">Konstanse Marie Alvær</A>
+              <A Type="Uinnrykk">Rune Støstad</A>
+              <A Type="Uinnrykk">Ragnhild Bergheim</A>
+              <A Type="Uinnrykk">Morten Sandanger</A>
+              <A Type="Uinnrykk">Hashim Abdi</A>
+              <A Type="Uinnrykk">Anniken Refseth</A>
+              <A Type="Blanklinje">For nr. 7–12:</A>
+              <A Type="Uinnrykk">Joakim Myklebost Tangen</A>
+              <A Type="Uinnrykk">Anne Grethe Hauan</A>
+              <A Type="Uinnrykk">Rikard Spets</A>
+              <A Type="Uinnrykk">Finn Krokeide</A>
+              <A Type="Uinnrykk">Alf Erik Andersen</A>
+              <A Type="Uinnrykk">Lars Rem</A>
+              <A Type="Blanklinje">For nr. 13–15:</A>
+              <A Type="Uinnrykk">Aleksander Stokkebø</A>
+              <A Type="Uinnrykk">Haagen Poppe</A>
+              <A Type="Uinnrykk">Margret Hagerup</A>
+              <A Type="Blanklinje">For nr. 16: Kathy Lie</A>
+              <A Type="Uinnrykk">For nr. 17: Maren Grøthe</A>
+              <A Type="Uinnrykk">For nr. 18: Sofie Marhaug</A>
+              <A Type="Uinnrykk">For nr. 19: Une Bastholm</A>
+              <A Type="Uinnrykk">For nr. 20: Harry Valderhaug</A>
+              <Votering>
+                <Tittel>Votering: </Tittel>
+                <A Type="Minnrykk">Tilrådinga frå komiteen blei samrøystes vedteken.</A>
+              </Votering>
+            </VedtakS>
+          </Voteringer>
+        </VoteringerStart>
+        <Sakreferat Id="i1002682">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak
+nr. 5</Uth> [15:00:42]</Saknr>
+            <Saktittel Id="i1002684">
+              <A>Referat</A>
+            </Saktittel>
+          </Sakshode>
+          <Liste Type="Fri">
+            <Pkt>
+              <A>1.	(31) Arbeids- og sosialkomiteen melder
+å ha valgt Marian Hussein til leder, Julia Brännström Nordtug til
+første nestleder og Elise Waagen til andre nestleder</A>
+            </Pkt>
+            <Pkt>
+              <A>2.	(32) Energi- og miljøkomiteen melder å ha valgt Mani
+Hussaini til leder, Tor Mikkel Wara til første nestleder og Lars
+Haltbrekken til andre nestleder</A>
+            </Pkt>
+            <Pkt>
+              <A>3.	(33) Familie- og kulturkomiteen melder å ha valgt Bente
+Estil til leder, Jorunn Gleditsch Lossius til første nestleder og
+Mats Henriksen til andre nestleder</A>
+            </Pkt>
+            <Pkt>
+              <A>4.	(34) Finanskomiteen melder å ha valgt Tuva Moflag til
+leder, Hans Andreas Limi til første nestleder og Bjørn Arild Gram
+til andre nestleder</A>
+            </Pkt>
+            <Pkt>
+              <A>5.	(35) Helse- og omsorgskomiteen melder å ha valgt Kjersti
+Toppe til leder, Erlend Svardal Bøe til første nestleder og Truls
+Vasvik til andre nestleder</A>
+            </Pkt>
+            <Pkt>
+              <A>6.	(36) Justiskomiteen melder å ha valgt Jon Engen-Helgheim
+til leder, June Trengereid Gruer til første nestleder og Julie E.
+Stuestøl til andre nestleder</A>
+            </Pkt>
+            <Pkt>
+              <A>7.	(37) Kommunal- og forvaltningskomiteen melder å ha valgt
+Hanne Beate Stenvaag til leder, Erlend Wiborg til første nestleder
+og Jon-Ivar Nygård til andre nestleder</A>
+            </Pkt>
+            <Pkt>
+              <A>8.	(38) Kontroll- og konstitusjonskomiteen melder å ha valgt
+Per-Willy Amundsen til leder, Sverre Myrli til første nestleder
+og Ove Trellevik til andre nestleder</A>
+            </Pkt>
+            <Pkt>
+              <A>9.	(39) Næringskomiteen melder å ha valgt Rune Støstad til
+leder, Une Bastholm til første nestleder og Bengt Rune Strifeldt
+til andre nestleder</A>
+            </Pkt>
+            <Pkt>
+              <A>10.	(40) Samferdselskomiteen melder å ha valgt Bård Hoksrud
+til leder, Even H. Eriksen til første nestleder og Trond Helleland
+til andre nestleder</A>
+            </Pkt>
+            <Pkt>
+              <A>11.	(41) Utdannings- og forskningskomiteen melder å ha valgt
+Mathilde Tybring-Gjedde til leder, Guri Melby til første nestleder
+og Hege Bae Nyholt til andre nestleder</A>
+            </Pkt>
+            <Pkt>
+              <A>12.	(42) Utenriks- og forsvarskomiteen melder å ha valgt
+Peter Frølich til leder, Nils-Ole Foshaug til første nestleder og
+Himanshu Gulati til andre nestleder</A>
+              <A>Samr.: Nr. 1–12 blir lagde ved møteboka.</A>
+            </Pkt>
+            <Pkt>
+              <A>13.	(43) Representantforslag fra stortingsrepresentantene
+Tone Wilhelmsen Trøen, Haagen Poppe, Tage Pettersen og Mahmoud Farahmand
+om et trygt og sikkert institusjonsbarnevern (Dokument 8:21 S (2026–2027))</A>
+              <A>Samr.: Blir sendt familie- og kulturkomiteen.</A>
+            </Pkt>
+            <Pkt>
+              <A>14.	(44) Petroleumsskattelovgivningen – teknisk revisjon
+(Prop. 3 LS (2026–2027))</A>
+              <A>Samr.: Blir send finanskomiteen.</A>
+            </Pkt>
+            <Pkt>
+              <A>15.	(45) Riksrevisjonens undersøkelse av myndighetenes arbeid
+med energieffektivisering (Dokument 3:3 (2026–2027))</A>
+              <A>Samr.: Blir sendt kontroll- og konstitusjonskomiteen.</A>
+            </Pkt>
+            <Pkt>
+              <A>16.	(46) Representantforslag fra stortingsrepresentantene
+Hege Bae Nyholt, Marie Sneve Martinussen, Seher Aydar og Mímir Kristjánsson
+om å avskaffe urimelige representantytelser (Dokument 8:20 S (2026–2027))</A>
+              <A>Samr.: Blir sendt Stortingets presidentskap.</A>
+            </Pkt>
+          </Liste>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [15:01:02]:</Navn> Dermed er kartet
+for i dag ferdig handsama. Ber nokon om ordet før møtet blir heva?
+– Det gjer ingen, og møtet er heva.</A>
+          </Presinnlegg>
+        </Sakreferat>
+      </Saker>
+    </Hovedseksjon>
+    <Sluttseksjon>
+      <Hevet>
+        <A>Møtet slutt kl. 15.02.</A>
+      </Hevet>
+    </Sluttseksjon>
+  </Mote>
+</Forhandlinger>

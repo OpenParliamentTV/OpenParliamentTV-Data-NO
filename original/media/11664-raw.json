@@ -1,0 +1,194 @@
+{
+  "moteid": 11664,
+  "parts": [
+    {
+      "moteid": 11664,
+      "delnr": 1,
+      "qbvid": "db31gbf5tutc73aj1bdg",
+      "mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/db/db31gdf5tutc73aj1be0/db31be75tutc73aj1bd0_1080p.mp4",
+      "audio_mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/db/db31gdf5tutc73aj1be0/db31be75tutc73aj1bd0_240p.mp4",
+      "hls_url": "https://httpcache0-90415-cacheod0.dna.contentdelivery.net/90415-cacheod0/_definst_/smil:assets/db/db31gdf5tutc73aj1be0/db31be75tutc73aj1bd0_240p/playlist.m3u8",
+      "tc_in_utc": "2026-10-07T07:58:03+00:00",
+      "tc_out_utc": "2026-10-07T09:43:04+00:00",
+      "duration_seconds": 6301.0,
+      "thumbnail_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/db/db31gdf5tutc73aj1be0/db31be75tutc73aj1bd0_1080p_5.jpeg",
+      "chapters": [
+        {
+          "start": 0.0,
+          "end": 138.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 138.0,
+          "end": 160.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 160.0,
+          "end": 178.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 178.0,
+          "end": 183.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 183.0,
+          "end": 239.0,
+          "name": "Erlend Wiborg (FrP)"
+        },
+        {
+          "start": 239.0,
+          "end": 289.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 289.0,
+          "end": 2228.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 2228.0,
+          "end": 2269.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 2269.0,
+          "end": 2471.0,
+          "name": "Tuva Moflag (A)"
+        },
+        {
+          "start": 2471.0,
+          "end": 2651.0,
+          "name": "Hans Andreas Limi (FrP)"
+        },
+        {
+          "start": 2651.0,
+          "end": 2777.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 2777.0,
+          "end": 2900.0,
+          "name": "Hans Andreas Limi (FrP)"
+        },
+        {
+          "start": 2900.0,
+          "end": 3072.0,
+          "name": "Nikolai Astrup (H)"
+        },
+        {
+          "start": 3072.0,
+          "end": 3201.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 3201.0,
+          "end": 3337.0,
+          "name": "Nikolai Astrup (H)"
+        },
+        {
+          "start": 3337.0,
+          "end": 3526.0,
+          "name": "Marthe Hammer (SV)"
+        },
+        {
+          "start": 3526.0,
+          "end": 3650.0,
+          "name": "Statsminister Jens Stoltenberg"
+        },
+        {
+          "start": 3650.0,
+          "end": 3788.0,
+          "name": "Marthe Hammer (SV)"
+        },
+        {
+          "start": 3788.0,
+          "end": 3980.0,
+          "name": "Bjørn Arild Gram (Sp)"
+        },
+        {
+          "start": 3980.0,
+          "end": 4105.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 4105.0,
+          "end": 4227.0,
+          "name": "Bjørn Arild Gram (Sp)"
+        },
+        {
+          "start": 4227.0,
+          "end": 4418.0,
+          "name": "Mímir Kristjánsson (R)"
+        },
+        {
+          "start": 4418.0,
+          "end": 4547.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 4547.0,
+          "end": 4684.0,
+          "name": "Mímir Kristjánsson (R)"
+        },
+        {
+          "start": 4684.0,
+          "end": 4871.0,
+          "name": "Oda Indgaard (MDG)"
+        },
+        {
+          "start": 4871.0,
+          "end": 4980.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 4980.0,
+          "end": 5119.0,
+          "name": "Oda Indgaard (MDG)"
+        },
+        {
+          "start": 5119.0,
+          "end": 5288.0,
+          "name": "Jørgen H. Kristiansen (KrF)"
+        },
+        {
+          "start": 5288.0,
+          "end": 5414.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 5414.0,
+          "end": 5536.0,
+          "name": "Jørgen H. Kristiansen (KrF)"
+        },
+        {
+          "start": 5536.0,
+          "end": 5732.0,
+          "name": "Abid Raja (V)"
+        },
+        {
+          "start": 5732.0,
+          "end": 5860.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 5860.0,
+          "end": 5988.0,
+          "name": "Abid Raja (V)"
+        },
+        {
+          "start": 5988.0,
+          "end": 6180.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 6180.0,
+          "end": 6301.0,
+          "name": "Presidenten"
+        }
+      ]
+    }
+  ]
+}

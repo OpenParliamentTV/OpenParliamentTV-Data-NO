@@ -1,0 +1,2522 @@
+<Forhandlinger Status="Kvalitetssikret">
+  <Mote moteID="11674">
+    <Startseksjon>
+      <Motestart>
+        <Tittel>Møte tirsdag den 10. november 2026 kl. 10</Tittel>
+        <President Id="i1003386" personID="FMS">
+          <A>President: <Uth Type="Sperret">Morten
+Stordalen</Uth></A>
+        </President>
+        <Dagsorden>
+          <Tittel>Dagsorden <DagsordenNR>(nr. 13):</DagsordenNR></Tittel>
+          <DagsordenSak Id="i1003388">
+            <Liste Type="Dagsorden">
+              <Pkt>
+                <A> 1.	Redegjørelse
+av kultur- og likestillingsministeren om mediepolitikk og ytringsfrihet</A>
+              </Pkt>
+              <Pkt>
+                <A> 2.	Innstilling fra kommunal- og forvaltningskomiteen om Representantforslag
+fra stortingsrepresentantene Erlend Wiborg, Rune Midtun, Helge André
+Njåstad og Bjørn Larsen om en tydelig og forpliktende integreringskontrakt</A>
+                <A>(Innst. 22 S (2026–2027), jf. Dokument 8:275 S (2025–2026))</A>
+              </Pkt>
+              <Pkt>
+                <A> 3.	Innstilling fra kommunal- og forvaltningskomiteen om Representantforslag
+fra stortingsrepresentantene Erlend Wiborg, Kristian August Eilertsen,
+Rune Midtun, Bjørn Larsen og Helge André Njåstad om egenbetaling
+for tolketjenester etter tre års opphold i Norge</A>
+                <A>(Innst. 25 S (2026–2027), jf. Dokument 8:281 S (2025–2026))</A>
+              </Pkt>
+              <Pkt>
+                <A> 4.	Redegjørelse av justis- og beredskapsministeren om PST
+og Justis- og beredskapsdepartementets styring av PST</A>
+                <A>(Det vil bli foreslått debatt umiddelbart etter redegjørelsen)</A>
+              </Pkt>
+              <Pkt>
+                <A> 5.	Referat</A>
+              </Pkt>
+            </Liste>
+          </DagsordenSak>
+        </Dagsorden>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [09:58:52]:</Navn> Representantene
+Sylvi Listhaug, Ruth Mariann Hop og Erlend Wiborg, som har vært permittert,
+har igjen tatt sete.</A>
+          <A Type="Minnrykk">Statsråd Lubna Boby Jaffery vil overbringe
+tre kongelige proposisjoner.</A>
+        </Presinnlegg>
+        <Hovedinnlegg Id="i1003390">
+          <A>
+            <Navn personID="LBF">
+Statsråd Lubna Boby Jaffery [10:00:41]:</Navn> På vegne av regjeringen
+har jeg den ære å overbringe tre kongelige proposisjoner:</A>
+          <Liste Type="Strek">
+            <Pkt>
+              <A>endringer i arbeidsmiljøloven – forskriftshjemmel
+om maskiner og annet arbeidsutstyr – og samtykke til godkjenning
+av EØS-komiteens beslutning nr. 171/2025 om innlemmelse i EØS-avtalen
+av forordning EU 2023/1230 om maskiner </A>
+            </Pkt>
+            <Pkt>
+              <A>endringar i folketrygdlova og enkelte andre lover – oppfølging
+av tiltak i forslaget til statsbudsjett for 2027 m.m.</A>
+            </Pkt>
+            <Pkt>
+              <A>endringer i EØS-vareloven mv. – gjennomføring av markedstilsynsforordningen
+– og samtykke til godkjenning av EØS-komiteens beslutning nr. 317/2023
+om innlemmelse i EØS-avtalen av forordning EU 2019/1020 om markedstilsyn
+og produktsamsvar </A>
+            </Pkt>
+          </Liste>
+        </Hovedinnlegg>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:01:24]:</Navn> Proposisjonene
+vil bli behandlet på reglementsmessig måte.</A>
+          <A Type="Minnrykk">Representanten Tage Pettersen vil framsette
+et representantforslag.</A>
+        </Presinnlegg>
+        <Hovedinnlegg Id="i1003392">
+          <A>
+            <Navn personID="TAGP">
+Tage Pettersen (H) [10:01:46]:</Navn> På vegne av stortingsrepresentantene
+Mudassar Kapur, Anne Kristine Linnestad, Kari Sofie Bjørnsen, Erlend
+Larsen, Trond Helleland og meg selv har jeg gleden av å legge fram
+et representantforslag om at staten må bidra i spleiselaget for
+å sikre nitrogenrensing av norsk avløpsvann.</A>
+        </Hovedinnlegg>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:02:01]:</Navn> Representanten
+Erlend Wiborg vil framsette et representantforslag. </A>
+        </Presinnlegg>
+        <Hovedinnlegg Id="i1003394">
+          <A>
+            <Navn personID="EW">
+Erlend Wiborg (FrP) [10:02:19]:</Navn> På vegne av stortingsrepresentantene
+Hans Andreas Limi, Jon Engen-Helgheim, Tor Mikkel Wara, Morten Stordalen,
+Bjørn-Kristian Svendsrud, Bård Hoksrud og meg selv er det en glede
+å fremsette et representantforslag om et spleiselag mellom stat og
+kommune for å redusere husholdningenes gebyrer ved investeringer
+i nye renseanlegg.</A>
+        </Hovedinnlegg>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:02:41]:</Navn> Forslagene
+vil bli behandlet på reglementsmessig måte.</A>
+        </Presinnlegg>
+      </Motestart>
+    </Startseksjon>
+    <Hovedseksjon Id="i1003396">
+      <Saker>
+        <Sak saksKartNr="1" sakID="200464">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak nr. 1</Uth> [10:02:51]</Saknr>
+            <Saktittel Id="i1003400">
+              <A>Redegjørelse av kultur- og likestillingsministeren
+om mediepolitikk og ytringsfrihet</A>
+            </Saktittel>
+          </Sakshode>
+          <Hovedinnlegg Id="i1003402">
+            <A>
+              <Navn personID="LBF">
+Statsråd Lubna Boby Jaffery [10:03:15]:</Navn> «Ingen respekt for
+sånne skitne rotter som deg». «Kan ikke forstå hvordan Breivik kunne
+bomme på ham». «Pang pang». Dette er ytringer som ungdomspolitikere
+blir møtt med. De representerer ulike politiske ståsted og har ulik
+bakgrunn. Fellesnevneren er at de engasjerer seg og ønsker å ta
+samfunnsansvar. Mange orker å stå i stormen, mange gjør det ikke. </A>
+            <A Type="Minnrykk">Vi er nødt til å spørre: Hvilke konsekvenser
+har slike ytringer og et slikt ytringsklima for våre unge? Jo, det
+skaper frykt. Det ødelegger tilliten vi har til hverandre. I møte
+med slike ytringer og et slikt ytringsklima velger mange å tie. </A>
+            <A Type="Minnrykk">Terskelen for å delta i offentligheten bør
+være lav. Det skal ikke koste så mye å ytre seg at mange velger
+å la være. Offentligheten vår blir skadelidende dersom enkelte individer eller
+grupper opplever større barrierer for deltakelse enn andre. I Fritt
+Ords monitorprosjekt om status for ytringsfriheten i Norge 2025–2026
+svarer 39 pst. av unge at de har vært utsatt for ubehagelige eller
+nedlatende kommentarer etter å ha ytret seg. </A>
+            <A Type="Minnrykk">Uten reell ytringsfrihet blir demokratiet et
+innholdsløst skall og kun en fasade. Vi har sett demokratier forvitre
+verden over. Ytringsfriheten er ofte blant de første ofrene. I år
+er verden på det laveste demokratinivået siden 1978 – vi har med andre
+ord reist 50 år bakover i tid. Det viser den anerkjente demokratimålingen
+fra Varieties of Democracy. Reuters Digital News Report for 2026
+viser samtidig at tilliten til nyheter går ned i de fleste land
+de undersøker, og Reportere uten grensers pressefrihetsindeks viser
+at pressefriheten nådde et historisk lavmål i 2026, det laveste
+nivået siden målingene begynte i 2002. Sensur av medier er en vanlig
+taktikk for regjeringer som ønsker å ta mer makt i egne hender. </A>
+            <A Type="Minnrykk">Demokratiet og befolkningens motstandskraft
+mot desinformasjon og udemokratiske krefter ligger i et mangfold
+av uavhengige redaktørstyrte medier. Det ligger i befolkningens kildekritikk
+og i kunnskapen om kreftene som påvirker oss. Det ligger i kjennskap
+til vitenskapelige metoder, tillit til forskning og tilgang til
+forskningsbasert kunnskap. Det ligger i tilliten vi har til hverandre
+og til demokratiet og i vissheten om at alles ytringsfrihet er verdt
+å kjempe for. Og det ligger hos de kommende generasjonene, i deres
+tillit og tilgang til fri og etterrettelig journalistikk. </A>
+            <A Type="Minnrykk">Grunnloven vår erkjenner at staten må støtte
+opp under grunnmuren for det offentlige rom. Grunnloven § 100 pålegger
+derfor myndighetene å legge til rette for en åpen og opplyst offentlig
+samtale – det såkalte infrastrukturkravet. </A>
+            <A Type="Minnrykk">Hver tid har hatt sine rom for ordet. I antikkens
+Athen møttes borgerne på agoraen. I middelalderens Norge møttes folk
+på tingene. Under den franske opplysningstiden ble nye ideer prøvd
+i salongene. På 1900-tallet nådde samtalen ut gjennom avisspaltene
+og over radio- og fjernsynsbølgene. </A>
+            <A Type="Minnrykk">I dag foregår en stadig større del av vår offentlige
+samtale på digitale plattformer eid av utenlandske teknologiselskaper. Selskapene
+stiller ikke bare sine plattformer til disposisjon, men skriver
+også husreglene, styrer lyskasterne og påvirker hvilke stemmer som
+blir hørt. De forvalter en del av vår demokratiske infrastruktur.
+Når store deler av vår demokratiske infrastruktur ligger i deres
+hender, betyr det at den forvaltes med hensyn til profitt framfor
+demokrati. </A>
+            <A Type="Minnrykk">Ansvaret vårt er stort fordi vi har mye å miste.
+Ytringsfriheten har svært gode vilkår her til lands. Som påpekt
+i Medietilsynets rapport om mediemangfold er «Norge i verdenstoppen
+når det gjelder tilgang til, tillit til og bruk av redaktørstyrte
+medier». Majoriteten av nordmenn har også høy betalingsvilje for
+nyheter. Og i 2026 topper Norge nok en gang Reportere uten grensers
+pressefrihetsindeks. Mens flere land går tilbake, har Norge faktisk
+gått fram i sammenlagt poengscore. </A>
+            <A Type="Minnrykk">Reuters Digital News Report viser at tilliten
+til nyheter er høy i Norge sammenlignet med den dystre internasjonale
+utviklingen. Den høye tilliten vår beskrives som stabil. Likevel har
+tilliten til nyheter gått noe ned de siste to årene. Medietilsynets
+rapport om mediebruk fra 2025 viser også at flere enn før er usikre,
+og at flere enn før svarer at de har lav tillit. I tillegg viser
+Medietilsynets rapporter at færre oppsøker redaktørstyrte medier
+direkte hver dag. Eksemplene jeg innledet med, viser at vi også
+må motvirke at hets og hatytringer blir en barriere for å ytre seg
+og delta i demokratiet. Disse tendensene minner oss på at vi aktivt
+må forebygge, styrke og favne om det vi har. </A>
+            <A Type="Minnrykk">Et velfungerende demokrati krever at befolkningen
+har tilgang til forskningsbasert kunnskap fra forskningsmiljøene. Derfor
+har regjeringen utvidet støtteordningen for åpne norskspråklige
+tidsskrifter til flere fagfelt og økt tildelingen med ytterligere
+3, 5 mill. kr. </A>
+            <A Type="Minnrykk">Et velfungerende demokrati er også helt avhengig
+av at befolkningen har tilgang til troverdig informasjon fra uavhengige
+redaktørstyrte medier. Mediene må ha ressurser til å lage journalistikk
+som avdekker, utfordrer, opplyser og samler oss. For at journalistikken
+skal fylle samfunnsrollen sin, kan den ikke bare være engasjerende
+og klikkorientert. Kritisk journalistikk tar tid, og den krever
+ressurser. </A>
+            <A Type="Minnrykk">Mediestøtten skal bidra til at vi også framover
+har et mangfold av redaktørstyrte medier over hele landet. Da må den
+være forutsigbar og forvaltes på armlengdes avstand fra politiske
+myndigheter. Det er grunntanken bak ordningen med fireårige styringssignaler
+for mediestøtten og NRK. Gjennom styringssignalene sikrer vi større
+forutsigbarhet for bransjen og en samlet og grundig gjennomgang
+av virkemidlene våre med jevne mellomrom, slik at de mediepolitiske
+virkemidlene også kan tilpasses dagens og framtidens mediebruk. </A>
+            <A Type="Minnrykk">De nye fireårige styringssignalene for 2027
+til 2030 er utarbeidet nettopp for å møte dagens og den nærmeste
+framtidens utfordringer. I den kommende styringssignalperioden har
+regjeringen derfor to prioriterte områder. Begge svarer på utfordringsbildet
+vi står overfor nå. </A>
+            <A Type="Minnrykk">Vår første hovedprioritet er å styrke mediemangfoldet
+og de lokale medienes mulighet til å utvikle journalistikk for framtiden. </A>
+            <A Type="Minnrykk">Første halvdel av 2026 viste en positiv opplagsutvikling for
+norske aviser, ifølge tall fra Mediebedriftenes Landsforening. Hele
+syv av ti aviser kan vise til vekst. Medietilsynet har også vist
+at avisene samlet sett styrket økonomien i 2025. Norske aviser er
+verdensledende på digitalisering av innhold, og de digitale brukerinntektene
+fortsetter å øke. Samtidig ser vi noen urovekkende utviklingstrekk.
+Medietilsynet rapporterer at avisenes annonseinntekter har falt
+til et historisk lavt nivå. Avisene står i en krevende økonomisk
+situasjon og i en kontinuerlig teknologisk omveltning. </A>
+            <A Type="Minnrykk">De siste fem årene har vi sett at særlig de
+større lokalavisene er utsatt. I 2025 hadde de aller svakest lønnsomhet
+av alle avistypene. Samtidig er også de aller minste lokalavisene sårbare.
+Uavhengige aviser som står utenfor konsern, kan møte både store
+økonomiske utfordringer og en krevende digital omstilling. </A>
+            <A Type="Minnrykk">Lokalavisene er sentrale for demokratiet vårt.
+Det er de lokale redaksjonene som er tettest på sosiale, geografiske
+og politiske forhold i våre lokalsamfunn. De dekker lokale saker og
+beslutninger som ellers ikke ville blitt dekket. </A>
+            <A Type="Minnrykk">Som jeg redegjorde for i fjor, beskriver begrepet
+«News Deserts» en krise som har fått feste i det amerikanske medielandskapet
+gjennom de siste 20 årene. Vi ser lignende utviklingstrekk også
+i våre europeiske naboland. I Danmark er flere lokale nyhetsredaksjoner
+lagt ned. </A>
+            <A Type="Minnrykk">I Danmark og England har Facebook fylt tomrommet
+når lokalavisene forsvinner. Dette viste en norsk studie tidligere
+i år. Studien viste samtidig at Facebook kan være en arena der skillet
+mellom sann, usann og misvisende informasjon er uklart, og der skjulte
+agendaer kan gå under radaren. Men forskeren mente at Norge fortsatt
+kan skille seg fra disse dystre tendensene. Små aviser får betydelig
+pressestøtte, og nordmenn har høy betalingsvilje for nyheter. Medietilsynet
+peker på det samme: De direkte mediestøtteordningene er sentrale for
+å opprettholde det gode mediemangfoldet vårt. </A>
+            <A Type="Minnrykk">Journalistikk om lokale forhold over hele landet
+er viktig for et velfungerende demokrati. I budsjettet for 2027
+har vi derfor foreslått en solid økning i produksjonstilskuddet
+for nyhets- og aktualitetsmedier. Dette vil gi et løft til mediemangfoldet
+og til lokalmedier over hele landet. </A>
+            <A Type="Minnrykk">Vår andre hovedprioritet er å bidra til at
+flere unge bruker redaktørstyrte medier, for det er ikke nok at
+journalistikken finnes, den må også nå fram. </A>
+            <A Type="Minnrykk">Våre offentlige debatter om unge og deres mediebruk
+er ofte preget av bekymring. Vi kopierer dermed tidligere generasjoner.
+Nye medier har historisk ikke bare blitt møtt med entusiasme, men
+også med motstand. Gjennom tidene har samfunnet hatt en gjentagende
+respons: Nye medier blir sett på som en trussel, og særlig frykter
+man hvordan de påvirker unge. </A>
+            <A Type="Minnrykk">Samtidig er ikke medieskepsis alltid uttrykk
+for frykt eller irrasjonell eller ubegrunnet kritikk. I dag blir
+nye medieteknologier en stadig større del av livet vårt, og på måter
+vi aldri har sett tidligere. Algoritmene innrettes for å holde på
+oppmerksomheten vår lengst mulig. Unge søker seg mot influensere
+som publiserer nyhets- og aktualitetsinnhold uten en redaksjon og
+journalistiske arbeidsmetoder i ryggen. </A>
+            <A Type="Minnrykk">Nå står vi også midt i en utvikling der samtaleroboter
+tilbyr kuraterte nyhetsoppsummeringer. Hvis folk begynner å lene
+seg på KI-innhold uten å gå til selve kilden hvor informasjonen
+kommer fra, mister mediene sitt inntektsgrunnlag og sin direkterelasjon
+til brukerne. KI-tjenester kan også gjengi medienes innhold på en
+måte som i verste fall er direkte feil, eller som ikke gir tilstrekkelig
+kontekst, detaljer og forbehold. Foreløpig er det få i Norge som
+bruker slike KI-verktøy til nyheter, men av de som bruker dem, klikker
+forsvinnende få seg videre til de redaktørstyrte mediene. Heldigvis
+brukes slike tjenester som oftest i tillegg til andre kilder. Dette
+er likevel et av flere utviklingstrekk vi må følge nøye. </A>
+            <A Type="Minnrykk">Det vi allerede ser tydelig her hjemme, er
+at unge ofte bruker sosiale medier for å holde seg oppdatert. Hele
+81 pst. av dem mellom 16 og 24 år oppgir at sosiale medier er deres mest
+brukte kilde til nyheter. Mange sier at nyhetene de møter der, kommer
+fra redaktørstyrte medier som de selv har valgt å følge, men enda
+flere oppgir at nyhetene bare «dukker opp i feeden», uten at de
+vet hvor de kommer fra. Unge har også lavere tillit til redaktørstyrte
+medier enn resten av befolkningen. Ifølge Reuters Digital News Report
+gikk denne tilliten noe ned fra 2025 til 2026. </A>
+            <A Type="Minnrykk">Hvis unge tar med seg nye medievaner inn i
+voksenlivet, er jeg bekymret for hva som kan skje med tilliten til
+og bruken av de redaktørstyrte mediene. Journalistikkens inntektsgrunnlag
+kan bli svekket, og offentligheten kan miste noe av den kritiske
+og etterrettelige journalistikken som bidrar til en åpen og opplyst
+offentlig samtale. I siste instans kan det utfordre vår demokratiske
+beredskap. </A>
+            <A Type="Minnrykk">Derfor har regjeringen bl.a. foreslått å øke
+innovasjons- og utviklingstilskuddet til nyhets- og aktualitetsmedier
+med 10 mill. kr til prosjekter som bidrar til økt nyhetskonsum og bruk
+av redaktørstyrte medier blant unge. Det gir 35 mill. kr til prosjekter
+som kan utvikle relevant innhold, nye formater og formidlingsformer,
+og bidra til tilstedeværelse på plattformer unge bruker, eller til
+involvering av unge i det redaksjonelle arbeidet. Prosjektstøtte
+gir mediene mulighet til å utvikle og teste nye løsninger, samtidig
+som prosjektene kan gi kunnskap som har verdi for resten av bransjen. </A>
+            <A Type="Minnrykk">Nye mediepolitiske styringssignaler betyr også
+ny vurdering av NRKs oppdrag. NRK-plakaten fungerer i det store
+og hele godt. Det viser Medietilsynets rapporter. Vi foreslår likevel
+noen få endringer i NRK-plakaten – noen for å tydeliggjøre krav
+som allerede ligger der, andre for å tilpasse plakaten til utviklingstrekk
+og til tiden vi lever i. </A>
+            <A Type="Minnrykk">Globale medie- og teknologiaktører har en stadig
+mer dominerende markedsposisjon og utøver et sterkt konkurransepress
+på norske medier. Det kan gjøre det enda viktigere enn før at den
+nasjonale bransjen står sammen. NRK er vår største og viktigste
+kulturinstitusjon, og de siste årene har de styrket samarbeidet
+med den kommersielle delen av mediebransjen. Det ønsker regjeringen
+å bidra til at de fortsetter å gjøre. Vi foreslår derfor å tydeliggjøre
+kravet i plakaten om at NRK skal bidra til mediemangfoldet gjennom
+å spesifisere at NRK skal være en åpen og aktiv samarbeidspartner
+for andre redaksjonelle medier. Vi foreslår også å tydeliggjøre
+at NRK skal bidra til utvikling og produksjon av norsk spillefilm,
+drama og dokumentar. Demokratiske fellesskap bevares bl.a. via fortellinger
+som tar utgangspunkt i vår egen kultur og vår egen historie. </A>
+            <A Type="Minnrykk">I et stramt budsjett har vi måttet gjøre stramme
+prioriteringer. De siste tre årene har NRK vært skjermet for kutt.
+I kommende styringssignalperiode har vi foreslått å videreføre bevilgningene
+til NRK og mediestøtten, men med mulighet for å avkorte bevilgningene
+med inntil 0,4 pst. Dette sikrer mediestøtten og NRK solide rammer
+i den kommende fireårsperioden og tilstrekkelig grad av forutsigbarhet
+for NRK og for mediebransjen. </A>
+            <A Type="Minnrykk">Samtidig må vi tenke langsiktig. Det er snart
+ti år siden hele virkemiddelapparatet for mediene ble utredet sist.
+Mye har skjedd siden da. Digitaliseringen har skutt fart. Generativ KI
+har blitt allemannseie. Utenlandske teknologiselskaper har styrket
+sin posisjon. Mediebruken har endret seg. </A>
+            <A Type="Minnrykk">Mediestøtten fungerer godt og har bidratt til
+å opprettholde et mediemangfold i hele landet. Samtidig har et mer
+komplisert medielandskap også gitt et mer komplisert regelverk. Kanskje
+er det på tide å tenke nytt rundt hvordan vi sikrer mediemangfoldet
+i Norge. Tiden er moden for en ny og helhetlig gjennomgang av de
+medieøkonomiske virkemidlene. Regjeringen vil derfor sette ned et
+offentlig utvalg som skal vurdere hvordan de medieøkonomiske virkemidlene
+samlet kan bidra til å nå de mediepolitiske målene. Det inkluderer
+vurdering av de direkte mediestøtteordningene, kjøp av avisdistribusjon
+i områder der det ikke er kommersielt grunnlag for egen distribusjon,
+og momsfritaket for aviser og tidsskrifter. </A>
+            <A Type="Minnrykk">Momsfritaket for elektroniske nyhetstjenester
+ble fjernet i 2023. Stortinget har anmodet regjeringen om å vurdere hvordan
+et nytt plattformnøytralt fritak kan utformes. Utvalget vil høsten
+2027 få en vurdering fra Finansdepartementet av dette, som vil bli
+en del av grunnlaget når utvalget skal levere sin utredning 1. november
+2028. </A>
+            <A Type="Minnrykk">Samlet sett legger styringssignalene og det
+kommende NOU-arbeidet gode rammer for en framtidsrettet mediepolitikk. </A>
+            <A Type="Minnrykk">Samtidig er det ikke bare mediestøtten som
+har betydning for medienes rammevilkår. De største teknologiselskapene
+kjenner ingen landegrenser, mens lovgivningen og myndighetenes virkemidler
+tradisjonelt har vært nasjonale. Derfor må vi samarbeide på tvers
+av landegrensene dersom vi skal kunne stille effektive krav til
+globale aktører. </A>
+            <A Type="Minnrykk">EUs forordning om digitale tjenester, DSA,
+skal bl.a. bidra til å begrense de negative virkningene digitale
+plattformer kan ha på den offentlige samtalen og på valgprosesser.
+Medietilsynet vil, sammen med Nkom, Forbrukertilsynet og Datatilsynet,
+få ansvar for å føre tilsyn med at reglene i DSA blir fulgt. </A>
+            <A Type="Minnrykk">Også EUs mediefrihetsforordning, EMFA, og EUs
+forordninger om politisk reklame og om kunstig intelligens er sentrale.
+De skal bl.a. sikre frie og uavhengige medier, gi større åpenhet
+om hvem som står bak politisk reklame, og hvordan den målrettes,
+og ivareta grunnleggende rettigheter og KI-sikkerhet. Regjeringen
+arbeider med å innlemme alle de fire forordningene i EØS-avtalen
+og gjennomføre dem i norsk rett. </A>
+            <A Type="Minnrykk">Ytringsberedskap – nasjonal strategi for et
+åpent og opplyst offentlig ordskifte ble lagt fram i fjor høst,
+og har gitt oss et rammeverk for det videre arbeidet med å oppfylle
+vårt grunnlovfestede ansvar for å legge forholdene til rette for
+en åpen og opplyst offentlig samtale. </A>
+            <A Type="Minnrykk">Som ledd i oppfølgingen av ytringsberedskapsstrategien har
+jeg tatt initiativ til en serie debattmøter om aktuelle spørsmål
+knyttet til temaene i strategien. Møtene tar opp spørsmål om teknologi
+og sosiale medier, barn og unges deltakelse i den offentlige debatten
+og hvordan vi kan bekjempe hatefulle ytringer. </A>
+            <A Type="Minnrykk">Ytringsfrihet og desinformasjon diskuteres
+ofte, både her hjemme og internasjonalt. Uten et felles kunnskapsgrunnlag kan
+vi på den ene siden ende med å svartmale situasjonen eller på den
+andre siden overse reelle og bekymringsfulle utviklingstrekk. Begge
+deler kan skape frykt og usikkerhet og gjøre den offentlige samtalen
+mindre opplyst. Mangel på oppdatert kunnskap kan også stå i veien
+for effektive tiltak. </A>
+            <A Type="Minnrykk">Derfor har regjeringen støttet etableringen
+av et forskningssenter som skal bidra med langsiktig forskning på det
+offentlige ordskiftet, bl.a. på statusen for ytringsfrihet, polarisering
+og desinformasjon. Senteret er etablert ved Institutt for samfunnsforskning,
+som over lang tid har vært en sentral aktør innen norsk offentlighetsforskning. </A>
+            <A Type="Minnrykk">Senterets arbeid vil også være viktig for den
+nye strategien mot hatytringer. Som jeg snakket om innledningsvis,
+kan trusler og hets gjøre at flere kan vegre seg for å bruke ytringsfriheten
+sin. Gjennom den nye strategien vil regjeringen samle innsatsen
+og vurdere hvordan vi best kan møte disse utfordringene framover. </A>
+            <A Type="Minnrykk">I forbindelse med lokalvalget i 2027 har regjeringen
+allerede gitt Institutt for samfunnsforskning og Senter for ekstremismeforskning
+i oppdrag å forske på hatytringer, hets og trusler mot lokalpolitikere.
+De skal bl.a. – i god tid før valget – avdekke hvordan man best
+kan forebygge hat og trusler. </A>
+            <A Type="Minnrykk">Påvirkningsoperasjoner og desinformasjon som
+spres i sosiale medier for å villede befolkningen, påvirke valg
+eller skape frykt og usikkerhet, er dessverre blitt et velkjent
+fenomen. Kunstig intelligens har gitt ondsinnede aktører nye og kraftfulle
+verktøy for informasjonsmanipulasjon som vi aldri før har sett.
+Forsøkene kan være subtile, og aktørbildet kan være uklart. </A>
+            <A Type="Minnrykk">Den åpne og opplyste offentlige samtalen svekkes
+dersom desinformasjon får fotfeste. Derfor la regjeringen i fjor sommer
+fram en strategi for å styrke motstandskraften mot desinformasjon.
+Siden den tid er flere av tiltakene gjennomført eller godt i gang. </A>
+            <A Type="Minnrykk">Styrkingen av de redaktørstyrte mediene og
+tiltakene for å stimulere unges nyhetsbruk, som regjeringen foreslår
+i de nye mediepolitiske styringssignalene, er sentrale deler av
+dette arbeidet. Redaktørstyrte medier er en viktig del av vår totalberedskap
+og vår motstandskraft. </A>
+            <A Type="Minnrykk">Et annet tiltak er regjeringens støtte til
+etableringen av den uavhengige stiftelsen Tenk – Senter for kildebevissthet. Senteret
+ble opprettet i sommer og skal bidra til å styrke den kritiske medieforståelsen
+i befolkningen, med særlig oppmerksomhet om barn, unge og eldre.
+Målet er å gi flere kunnskapen og verktøyene de trenger for å kunne
+vurdere om informasjonen de møter på nettet, er troverdig eller
+ikke. </A>
+            <A Type="Minnrykk">Regjeringen vil sikre reell ytringsfrihet for
+alle. Selv om vi ikke ser de samme urovekkende utviklingstrekkene
+i Norge som vi ser internasjonalt, er vi ikke immune mot trusler
+mot ytringsfriheten og demokratiet. </A>
+            <A Type="Minnrykk">Ytringsklimaet kan være hardt. Noen opplever
+reaksjonene på det de sier, som så nedlatende og skremmende at det ikke
+lenger føles verdt å delta i den offentlige samtalen. Vi må ta vare
+på vår demokratiske folkesjel. Det forutsetter en dyptgående respekt
+og toleranse for uenighet. </A>
+            <A Type="Minnrykk">Demokratiet er aldri en ferdig og tilbakelagt
+prosess. Det er ikke en tilstand vi har oppnådd én gang for alle
+og dermed kan ta for gitt. Demokratiet er noe vi har, men bare fordi
+det er noe vi gjør – igjen og igjen. Demokratiets grunnmur må vedlikeholdes,
+ytringsrommet må holdes åpent, og tilliten mellom oss må bygges
+hver eneste dag. </A>
+            <A Type="Minnrykk">En aktiv mediepolitikk er en del av dette vedlikeholdet. Vi
+må sikre at det også i framtiden finnes frie og uavhengige redaktørstyrte
+medier som kan opplyse oss, utfordre makten og gi ulike stemmer
+plass. Vi må sørge for at journalistikken beholder sin betydning
+i folks liv og i samfunnet, særlig når medievanene og informasjonslandskapet
+er i rask endring. </A>
+            <A Type="Minnrykk">Dette vedlikeholdsarbeidet er en del av vårt
+grunnlovfestede ansvar for å legge forholdene til rette for en åpen
+og opplyst offentlig samtale. Hvordan vi best oppfyller dette ansvaret,
+skal vi fortsette å diskutere. </A>
+            <A Type="Minnrykk">Demokratiet næres ikke av stillhet, men av
+stemmer som møtes, meninger som brytes, og mennesker som fortsatt
+lytter til hverandre. Et velfungerende demokrati trenger mennesker som
+våger å ta ordet, også når det blåser som hardest, men når vinden
+uler, kan selv de sterkeste stemmene bli overdøvet. Noen blir stående
+i stormen, andre søker ly og blir borte fra samtalen, og når vinden
+stilner, kan offentligheten stå igjen med færre stemmer enn før. </A>
+            <A Type="Minnrykk">Demokratiet trenger uenighet og motstand. Vårt
+ansvar er å sikre at forholdene er lagt til rette for et ytringsrom
+som tåler stormen, en offentlighet som bærer stemmene fram, og et
+fellesskap som gir flere mot til å bli stående. </A>
+            <A Type="Minnrykk">Jeg ser fram til at vi her i salen om noen
+dager fortsetter den viktige samtalen om hvordan vi best oppfyller
+vårt ansvar. </A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [10:27:06]:</Navn> Presidenten
+vil foreslå at kultur- og likestillingsministerens redegjørelse
+om mediepolitikk og ytringsfrihet føres opp til behandling i et
+senere møte. – Det anses vedtatt. </A>
+          </Presinnlegg>
+        </Sak>
+        <Sak Id="i1003404" saksKartNr="2" sakID="200280">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak
+nr. 2</Uth> [10:27:17]</Saknr>
+            <Saktittel Id="i1003408">
+              <A>Innstilling fra kommunal- og forvaltningskomiteen
+om Representantforslag fra stortingsrepresentantene Erlend Wiborg,
+Rune Midtun, Helge André Njåstad og Bjørn Larsen om en tydelig og
+forpliktende integreringskontrakt <Uth Type="RETT">(Innst. 22 S
+(2026–2027), jf. Dokument 8:275 S (2025–2026))</Uth></A>
+            </Saktittel>
+          </Sakshode>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [10:27:38]:</Navn> Etter ønske
+fra kommunal- og forvaltningskomiteen vil presidenten ordne debatten
+slik: 3 minutter til hver partigruppe og 3 minutter til medlemmer av
+regjeringen.</A>
+            <A Type="Minnrykk">Videre vil det – innenfor den fordelte taletid
+– bli gitt anledning til inntil seks replikker med svar etter innlegg
+fra medlemmer av regjeringen, og de som måtte tegne seg på talerlisten
+utover den fordelte taletid, får også en taletid på inntil 3 minutter.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1003410">
+            <A>
+              <Navn personID="JONN">
+Jon-Ivar Nygård (A) [10:28:12]</Navn> (ordfører for saken): Først
+vil jeg takke komiteen for godt samarbeid i behandlingen av representantforslaget.
+Jeg legger til grunn at de andre partiene vil redegjøre for sine
+standpunkt. Jeg vil nå redegjøre for Arbeiderpartiets syn. </A>
+            <A Type="Minnrykk">Vi støtter ikke representantforslaget. Vi skal
+både stille krav og stille opp i integreringen. Det er et prioritert
+område i regjeringens plan for Norge. Flere kommuner gir tilbakemeldinger
+om at de møter utfordringer knyttet til både integrering og sekundærflytting.
+Det tar vi på alvor. Et samfunn med høy tillit og små forskjeller
+forutsetter at flest mulig deltar i arbeidslivet, og at man lærer
+seg norsk og kjenner verdiene som ligger til grunn for samfunnet
+vårt. </A>
+            <A Type="Minnrykk">Derfor er jeg glad for at Stortinget i vår
+vedtok en integreringserklæring som skal signeres av alle som deltar
+i introduksjonsprogrammet. Regjeringen vil også vurdere sanksjoner
+ved brudd på integreringserklæringen i tråd med Stortingets anmodning.
+Jeg opplever at det er bred enighet om målet: bedre integrering
+og å få flere i arbeid. Spørsmålet er ikke om vi skal stille krav,
+men om hvordan vi gjør det og på en måte som faktisk virker. </A>
+            <A Type="Minnrykk">Arbeiderparti-regjeringen jobber derfor langs
+flere spor samtidig, og integreringserklæringen er bare ett av flere
+tiltak. Integreringsloven er allerede styrket med mer arbeidsretting og
+bedre muligheter for å gjennomføre videregående opplæring i introduksjonsprogrammet.
+Arbeiderparti-regjeringen har også foreslått en ny integreringsstønad
+som tydeliggjør sammenhengen mellom aktivitet, kvalifisering og
+økonomisk støtte. I tillegg arbeides det med ny integreringsstrategi,
+med mål om å redusere sysselsettingsgapet, fjerne barrierer for deltakelse
+og fortsette krafttaket mot negativ sosial kontroll. </A>
+            <A Type="Minnrykk">Det er viktige tiltak for at enda flere skal
+bli en del av fellesskapet. Målet er at flere deltar aktivt i arbeids-
+og samfunnslivet og forsørger seg selv, men det handler selvfølgelig
+også om å bygge et samfunn basert på tillit, inkludering og muligheter
+for å leve et godt liv i Norge. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1003412">
+            <A>
+              <Navn personID="EW">
+Erlend Wiborg (FrP) [10:30:55]:</Navn> Den som kommer til Norge,
+skal møtes med muligheter, men også med tydelige krav og forventninger.
+Man skal lære seg norsk. Man skal respektere våre grunnleggende
+lover, regler og verdier. Man skal bidra gjennom arbeid hvis man
+kan. Og man skal respektere at kvinner og menn har samme frihet
+og samme rettigheter. Dette er grunnleggende spilleregler i det
+norske samfunnet. </A>
+            <A Type="Minnrykk">Norsk lov gjelder også innenfor hjemmets fire
+vegger. Ens datter har rett til å bestemme over sitt eget liv. Hun
+skal kunne velge kjæreste, utdanning og tro uten trusler eller tvang.
+Religionsfrihet innebærer også retten til å forlate en religion,
+og ytringsfriheten omfatter retten til å kritisere islam, kristendommen
+og alle andre religioner. Ingen har krav på å få sin religion beskyttet
+mot kritikk. Alle har krav på beskyttelse mot vold og trusler. </A>
+            <A Type="Minnrykk">Derfor foreslår Fremskrittspartiet en obligatorisk
+og forpliktende integreringskontrakt for ikke-vestlige flyktninger, asylsøkere
+og familiegjenforente. Kontrakten skal stille tydelige krav om respekt
+for norske lover og verdier, barns rettigheter, arbeid og utdanning.
+Brudd skal få konsekvenser. </A>
+            <A Type="Minnrykk">Regjeringen viser til sin integreringserklæring.
+Flere av formuleringene der er gode. Men det avgjørende er hva som skjer
+når forpliktelsene brytes. Statsråden viser til at fravær fra introduksjonsprogrammet
+kan gi trekk i stønaden. Det er bra, men det besvarer ikke hvilke
+konsekvenser andre brudd skal få. Allerede i mai ba Stortinget regjeringen
+vurdere sanksjoner og betydningen for opphold og statsborgerskap.
+Nå er det november. I svaret til denne saken viser statsråden til
+sin favorittøvelse: ytterligere vurderinger og utredninger som skal
+komme senere. </A>
+            <A Type="Minnrykk">Fremskrittspartiet ønsker handling. Vi vil
+knytte etterlevelse til ytelser, familiegjenforening, opphold og
+statsborgerskap, og vi vil stille krav om selvforsørgelse før man
+flytter til en ny kommune og forventer å bli forsørget der. Samfunnet skal
+tilby opplæring og oppfølging. Men ingen kommune, ingen statsråd,
+kan gjøre egeninnsatsen selv. Mange innvandrere arbeider hardt,
+lærer norsk og bidrar hver eneste dag. Det viser at det går an.
+Den innsatsen skal også forventes av andre som har forutsetningene
+for det. En underskrift betyr ingenting i seg selv. Det er etterlevelsen
+som teller. På denne bakgrunn tar jeg opp Fremskrittspartiets forslag
+i innstillingen.</A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [10:33:53]: </Navn>Da har representanten
+Erlend Wiborg tatt opp de forslagene han refererte til. </A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1003414">
+            <A>
+              <Navn personID="TAGP">
+Tage Pettersen (H) [10:34:08]:</Navn> De som kommer til Norge, skal
+få muligheten til å bygge et godt liv her. Men vi skal også være
+tydelige på hva vi forventer: lære norsk, komme i arbeid eller utdanning,
+respektere norsk lov og grunnleggende verdier og ta ansvar for å
+bli en del av det norske samfunnet. </A>
+            <A Type="Minnrykk">Det er nettopp derfor Høyre tidligere i år
+fremmet forslaget om en forpliktende borgerkontrakt. Vårt utgangspunkt
+var veldig enkelt: Det må være tydelig fra første dag hva vi forventer
+av dem som kommer til Norge, men også hva den enkelte kan forvente
+av det norske samfunnet. Derfor bygger vår modell på gjensidige
+forpliktelser.</A>
+            <A Type="Minnrykk">En kontrakt kan ikke bare være et dokument
+man signerer og så legger i en skuff. Den må ha et reelt innhold,
+og manglende oppfølging må kunne få konsekvenser. Derfor foreslo Høyre
+bl.a. en sammenheng mellom oppfyllelse av integreringsforpliktelsene
+og permanent opphold og statsborgerskap, en bredere målgruppe og
+muligheter for økonomiske sanksjoner. </A>
+            <A Type="Minnrykk">Flere av disse ideene fikk senere flertall
+da Stortinget behandlet regjeringens integreringserklæring. Da regjeringens opprinnelige
+forslag kom, mente Høyre at det var for uforpliktende. Regjeringen
+beskrev selv erklæringen som et støtteverktøy, ikke et kontrolltiltak.
+Høyre valgte likevel å bidra til et flertall fordi vi samtidig fikk
+gjennomslag for å trekke politikken i en tydeligere og strengere
+retning. For det første ba Stortinget regjeringen vurdere å utvide
+målgruppen, bl.a. etter den danske modellen. For det andre skal
+regjeringen vurdere ulike sanksjoner ved brudd på integreringserklæringen. For
+det tredje skal regjeringen vurdere konsekvenser ved manglende oppfyllelse,
+inkludert økonomiske sanksjoner og betydning for oppholdstillatelse
+i grove tilfeller. Det er og var viktige gjennomslag for Høyre.</A>
+            <A Type="Minnrykk">Det forslaget fra Fremskrittspartiet som vi
+behandler i dag, tar opp flere problemstillinger som Høyre er enig
+i at vi må ta på alvor, men mye av dette arbeidet er allerede i
+gang, nettopp som følge av Høyres initiativ og Stortingets vedtak
+i vår. Samtidig mener vi at Fremskrittspartiets modell har i hvert
+fall én svakhet: Den er først og fremst tydelig på hva den enkelte
+skal gjøre. Høyres borgerkontrakt bygger på gjensidig forpliktelse.
+Vi stiller strenge krav til de nyankomne, men kommunene og staten
+må også forplikte seg til norskopplæring, kvalifisering og oppfølging
+som gjør det mulig å lykkes.</A>
+            <A Type="Minnrykk">For Høyre henger frihet og ansvar urokkelig
+sammen. Integreringspolitikken skal stille opp, men den skal også
+stille krav, og dersom kravene ikke følges opp, må det selvfølgelig få
+konsekvenser. Det er den retningen Høyre allerede har fått Stortinget
+med på. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1003416">
+            <A>
+              <Navn personID="ANNFRE">
+Anne Lise Gjerstad Fredlund (SV) [10:37:03]:</Navn> Det er en ting
+jeg savner når jeg leser Fremskrittspartiets forslag: nysgjerrighet
+– nysgjerrighet på hvorfor noen lykkes med å komme inn i det norske
+samfunnet, mens andre blir stående utenfor. For meg ser det ut som
+at Fremskrittspartiet på mange måter har svaret klart før spørsmålet
+egentlig er stilt: Den enkelte må forplikte seg mer. Det må stilles
+flere krav, og hvis kravene ikke oppfylles, må konsekvensene bli
+større.</A>
+            <A Type="Minnrykk">Men hva hvis problemet ligger et helt annet
+sted? Hva hvis en lærer norsk, men ingen har lyst til å ansette
+en? Hva hvis en har utdanning fra hjemlandet, men ikke får lov til
+å bruke den? Hva hvis en gjør det vi ber en om, men kommunen en
+bor i, ikke har god nok norskopplæring eller oppfølging? Og hva
+hvis en har sendt 50, 100, 200 jobbsøknader, men aldri kalles inn
+til intervju? Da hjelper det ganske lite å hente fram en ny kontrakt.</A>
+            <A Type="Minnrykk">La meg være helt tydelig: SV er opptatt av
+at vi skal stille krav. Vi forventer også at folk som kommer til
+Norge, lærer språket, deltar i samfunnet, følger lovene våre og
+gjør det de kan for å komme i arbeid og bli selvforsørget. Men det
+er jo nettopp derfor Norge allerede har krav om deltakelse i introduksjonsprogram,
+med norskopplæring og samfunnskunnskap, hvor ugyldig fravær kan
+få økonomiske konsekvenser. Det er også krav knyttet til permanent
+opphold og statsborgerskap, og Stortinget var enstemmig i forbindelse
+med loven om negativ kontroll. Så den interessante politiske diskusjonen er
+vel ikke egentlig om vi skal stille krav, men om hvilke krav det
+er som faktisk fører til at flere kan lykkes.</A>
+            <A Type="Minnrykk">For SV er det langt viktigere at en dame som
+har kommet til Norge, lærer godt nok norsk til å få sin første jobb,
+enn at hun har skrevet under på et papir om at hun skal lære norsk. Det
+er mye viktigere at han som har en utdanning som helsefagarbeider,
+får brukt kompetansen sin, enn at han skriver under på at han skal
+bli selvforsørget. Og det er langt viktigere at ungdom som vokser
+opp her, opplever at de hører til, enn at foreldrene deres har signert
+den riktige kontrakten.</A>
+            <A Type="Minnrykk">Dette er ting jeg opplever mangler i FrPs forslag
+– egentlig i hele FrPs retorikk. Integrering handler selvsagt om
+plikt, men det handler også om muligheter, språk, arbeid, utdanning,
+naboer, venner, tillit og å kunne bli sett som en del av det samfunnet
+som en fortjener å være i. Da må vi måle integreringspolitikken
+etter hvor mange som kommer innenfor, og ikke etter hvor strenge
+vi klarer å høres ut.</A>
+            <A Type="Minnrykk">SV støtter ingen av forslagene.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1003418">
+            <A>
+              <Navn personID="BFA">
+Bengt Fasteraune (Sp) [10:40:25]:</Navn> Integreringsarbeidet skjer
+i kommunene, i arbeidslivet og ute i frivillige lag og organisasjoner.
+Dette arbeidet foregår hver dag i alle landets kommuner. Forskrifter,
+regelverk og lover må støtte opp om dette arbeidet på en måte som
+gjør at integreringsarbeidet blir en del av hverdagen i norske kommuner
+– ikke som en særskilt ordning, men, som jeg sa, som en del av hverdagen. </A>
+            <A Type="Minnrykk">Det er rett og rimelig å stille krav og forventninger
+til dem som kommer til Norge, og det er viktig at de lærer seg hvilke
+forventninger samfunnet har til dem, og hvilke plikter de har. Gjennom
+dette skaper vi et godt utgangspunkt for arbeidet videre med integrering.
+Hver person som kommer til Norge, må være aktiv i å bli en del av
+samfunnet – lære seg språket og etter hvert skaffe seg en jobb.
+Gode resultater oppnås i balansen mellom å stille krav og at samfunnet
+stiller opp med et integreringsprogram som er treffsikkert, og –
+jeg gjentar det – som er en del av hverdagen.</A>
+            <A Type="Minnrykk">Stortinget har gjennom behandlingen av Prop. 70 L
+for 2025–2026 vedtatt innføring av en integreringserklæring som skal
+signeres av deltakere i introduksjonsprogrammet. Integreringserklæringen
+fastslår bl.a. at den enkelte skal delta aktivt i opplæring i norsk
+og i samfunnskunnskap og arbeide for å bli økonomisk selvstendig
+gjennom arbeid eller utdanning. Det står også noe om at man skal
+respektere norske lover, anerkjenne prinsipper om likestilling og
+ikke-diskriminering og annen skadelig atferd. </A>
+            <A Type="Minnrykk">Det er også to viktige anmodningsvedtak som
+regjeringen må følge opp. Det er anmodningsvedtakene nr. 817 og 818
+av 28. mai 2026 om å vurdere hvordan brudd på erklæringen kan sanksjoneres,
+og hvordan slike brudd eventuelt kan ses i sammenheng med retten
+til permanent oppholdstillatelse og statsborgerskap. </A>
+            <A Type="Minnrykk">Det som FrP tar til orde for i sine forslag,
+er etter min oppfatning ivaretatt av Stortinget gjennom vedtaket
+i integreringserklæringen. Vi i Senterpartiet forventer at regjeringen har
+framdrift i innføringen, og at de lytter til innspill fra kommuner,
+frivillige og andre, og med det sørger for at erklæringen fører
+til bedre integrering. </A>
+            <A Type="Minnrykk">Derfor støtter ikke Senterpartiet representantforslaget
+fra FrP. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1003420">
+            <A>
+              <Navn personID="HANSTE">
+Hanne Beate Stenvaag (R) [10:43:23]:</Navn> Mange av dem som kommer
+til Norge som flyktninger, er mennesker som i større grad enn mange
+av oss har kjent på kroppen hva forfølgelse, trakassering, ufrihet
+og undertrykkelse er. Noen har levd under regimer med moralpoliti
+og regimer som også ønsker å kontrollere innbyggernes handlinger
+og tanker. Jeg mener fortsatt det er feil å møte disse menneskene
+med paternalisme, mistillit, ydmykelse, stigmatisering og undervurdering
+– som var ordene jeg brukte da jeg beskrev regjeringens integreringserklæring
+da vi diskuterte den. Og sist vi diskuterte dette, siterte jeg Antirasistisk
+Senter, som skrev følgende til regjeringens integreringserklæring:</A>
+            <Sitat Type="Minnrykk">
+              <A>«Etter vårt syn hviler både kontrakten
+og erklæringen på feilaktig og stigmatiserende premisser, og de
+bidrar til å forsterke en utvikling i integreringspolitikken preget
+av mistillit, symbolpolitikk og stigmatiserende forestillinger om
+innvandrere og flyktninger.» </A>
+            </Sitat>
+            <A Type="Minnrykk">Jeg lurer fortsatt på hvordan regjeringen,
+sammen med høyresiden, har tenkt å innføre sanksjoner knyttet til
+brudd på integreringserklæringen, hvordan brudd på en verdibasert
+erklæring skal defineres, dokumenteres og vurderes, og hvordan rettssikkerheten
+skal ivaretas. </A>
+            <A Type="Minnrykk">Statsråden skal likevel få litt ros fra meg
+for – i svaret på representantforslaget vi debatterer i dag – å
+orke å argumentere saklig i grunnleggende spørsmål, som om man kan
+lage lovverk basert på geografisk opprinnelse eller tilhørighet
+til bestemte landområder, som jo ligger i dagens forslag om å peke
+ut ikke-vestlige innvandrere som en særskilt gruppe som skal ha
+særskilt lovgivning. Hun peker på at det kan være i strid med forbudet
+mot diskriminering, både etter den europeiske menneskerettighetskonvensjonen
+og likestillings- og diskrimineringsloven, og at det for øvrig ikke
+er noe vi har for vane å gjøre i lovverket vårt. </A>
+            <A Type="Minnrykk">På den bakgrunn må jeg si at det er interessant
+at FrP foreslår å kreve særskilt av såkalte ikke-vestlige personer
+at de skal anerkjenne såkalt norske verdier, forklart nettopp som demokratiske
+prinsipper om likestilling, samtidig som man foreslår at regjeringen
+skal bryte med diskrimineringslovgivning. I mine ører høres det
+ut som doble standarder. </A>
+            <A Type="Minnrykk">FrP tar til orde for en integreringskontrakt
+hvor innvandrere og flyktninger skal skrive under på at de anerkjenner norske
+lover, regler og verdier. Samtidig foreslår altså FrP endringer
+som mest sannsynlig vil være brudd på både diskrimineringslovgivning
+og flyktningkonvensjonen og barnekonvensjonen, når man foreslår
+umiddelbart avslag på søknad om oppholdstillatelse og retur til
+hjemlandet hvis man ikke signerer på den foreslåtte integreringskontrakten. </A>
+            <A Type="Minnrykk">Jeg synes også det er interessant at det i
+dette forslaget skal tydeliggjøres at Norge er et sekulært samfunn,
+samtidig som FrP i forrige uke stemte mot å ta ut referansen til
+den kristne arv, den evangelisk-lutherske kirke som Norges folkekirke,
+fra Grunnloven. </A>
+            <A Type="Minnrykk">God integrering handler om reelle tiltak, slik
+som norskopplæring, utdanning og et inkluderende arbeidsliv, og at
+vi alle er åpne for å snakke med den nye naboen, kollegaen, forelderen
+på skolen eller i barnehagen. Det er gode norske – og universelle
+– verdier. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1003422">
+            <A>
+              <Navn personID="KJSE">
+Statsråd Kjersti Stenseng [10:46:45]:</Navn> Vi har ikke lyktes
+godt nok med integreringen. For mange står utenfor arbeidslivet,
+og for mange deltar ikke på viktige fellesarenaer i lokalsamfunnet. </A>
+            <A Type="Minnrykk">Samtidig er det mye som går i riktig retning.
+Flere er i jobb og tar utdanning nå enn for ti år siden. Vår jobb
+er imidlertid å ta tak i utfordringene, og det er flere ting vi
+kunne gjort på et tidligere tidspunkt også.</A>
+            <A Type="Minnrykk">Personer som kommer til Norge, skal møtes med
+tydelige krav og forventninger om å lære norsk, komme i arbeid og være
+en del av fellesskapet. For å lykkes med det må vi både stille krav
+til folk og stille opp selv og legge bedre til rette for de mulighetene. </A>
+            <A Type="Minnrykk">Den 1. januar 2027 innfører vi en ordning med
+integreringserklæring, som tydeliggjør de rettigheter, plikter og
+forventninger som gjelder i det norske samfunnet fra dag én. Regjeringen
+vurderer også sanksjoner ved brudd på integreringserklæringen og
+om den skal signeres av flere enn flyktninger og deres familiegjenforente,
+i tråd med Stortingets anmodning.</A>
+            <A Type="Minnrykk">For å få til et fellesskap der folk deltar,
+jobber og behersker norsk, må vi ta på alvor utfordringene som kan
+gjøre integrering vanskelig. For å få flere i arbeid har vi hatt
+et forslag om ny integreringsstønad på høring. Regjeringen har også
+satt ned et utvalg som gjennomgår norskopplæringstilbudet for voksne
+innvandrere. NOU-en skal leveres innen juni neste år.</A>
+            <A Type="Minnrykk">Flere kommuner har varslet om utfordringer
+med tilflytting av flyktninger som ikke er selvforsørgede. Regjeringen tar
+derfor sikte på å sende på høring før jul et forslag til regelverksendringer
+for å begrense uønsket sekundærflytting. Målet er å legge bedre
+til rette for integrering, kvalifisering og deltakelse i arbeids-
+og samfunnsliv. </A>
+            <A Type="Minnrykk">Det handler om å dele et felles verdigrunnlag
+bygget på demokrati, likestilling og retten til å leve frie og trygge
+liv. Det er et gjensidig ansvar mellom det norske samfunnet og den
+som kommer til landet vårt. Det er slik vi bygger et samfunn med
+høy tillit og sterke fellesskap.</A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [10:49:05]:</Navn> Det blir replikkordskifte.</A>
+          </Presinnlegg>
+          <Replikk Id="i1003424">
+            <A>
+              <Navn personID="EW">
+Erlend Wiborg (FrP) [10:49:17]:</Navn> Fremskrittspartiet mener
+at retten til familiegjenforening må ses i sammenheng med hvordan
+man selv følger opp pliktene til å bli integrert. Det er forskjell
+på en person som gjør sitt ytterste for å lære norsk og komme i
+arbeid, og en person som har mulighetene, men bevisst nekter å delta.
+Den forskjellen må også få betydning når man søker om å hente flere
+familiemedlemmer til Norge. </A>
+            <A Type="Minnrykk">Mener statsråden at dokumentert og vedvarende
+motvilje til å oppfylle integreringsforpliktelsene bør kunne få
+konsekvenser for familiegjenforening, eller avviser hun det?</A>
+          </Replikk>
+          <Replikk Id="i1003426">
+            <A>
+              <Navn personID="KJSE">
+Statsråd Kjersti Stenseng [10:49:57]:</Navn> Regelverket for familiegjenforening
+og eventuelle endringer i det er det min kollega, justisministeren,
+som har ansvaret for. Hun har også foreslått enkelte innstramminger
+i det regelverket. </A>
+            <A Type="Minnrykk">Det jeg er opptatt av, som jeg også nettopp
+sa, er at når Stortinget anmoder om det, skal vi vurdere hva slags
+type sanksjoner som eventuelt kan være aktuelle når det gjelder
+integreringserklæringen. Men det er også en grunn til at jeg, da vi
+fremmet forslag om det for Stortinget, understreket at det allerede
+er ganske mange lover som regulerer brudd på det vi er opptatt av
+at skal gjelde i Norge, altså norsk lovgiving, f.eks. integreringsloven
+og straffeloven. Jeg skal komme tilbake med det, men jeg mener ikke
+at det nødvendigvis er riktig at det skal være en sammenheng mellom
+å skrive under en integreringserklæring og den type sanksjoner.</A>
+          </Replikk>
+          <Replikk Id="i1003428">
+            <A>
+              <Navn personID="EW">
+Erlend Wiborg (FrP) [10:50:57]:</Navn> Som tidligere nevnt: Den
+28. mai ba Stortinget regjeringen vurdere sanksjoner ved brudd på
+integreringserklæringen, bl.a. konsekvenser for permanent opphold
+og statsborgerskap. Nå er vi i november, og i svaret til komiteen
+– statsråden sa det nettopp i innlegget sitt også – skriver statsråden
+at regjeringen vil komme tilbake på et senere tidspunkt. Samtidig
+brukes dette pågående arbeidet som begrunnelse for å avvise Fremskrittspartiets
+forslag. Stortinget er vant til at regjeringen utreder og vurderer saker
+i lang tid i stedet for å handle. </A>
+            <A Type="Minnrykk">Så mitt spørsmål er om statsråden i dag kan
+gi et konkret tidsestimat for når Stortinget får saken, og om hun
+selv ønsker at et alvorlig brudd skal få konsekvenser for permanent
+opphold.</A>
+          </Replikk>
+          <Replikk Id="i1003430">
+            <A>
+              <Navn personID="KJSE">
+Statsråd Kjersti Stenseng [10:51:44]:</Navn> Jeg synes det er mye
+mer tilfredsstillende å komme hit og legge fram konkrete forslag
+enn å vente på utredninger, men det er jo ganske store og alvorlige
+temaer vi diskuterer. Derfor er jeg opptatt av at dersom vi skal
+komme med forslag til sanksjoner, skal det være grundig vurdert.
+Hvis vi skal vurdere sanksjoner, må de være forholdsmessige, og
+de må bidra til at vi lykkes bedre med integreringen. </A>
+            <A Type="Minnrykk">Dagens regelverk har også klare sanksjonsmuligheter
+for deltakere som ikke deltar i introduksjonsprogrammet, som er forutsatt,
+og bryter norsk lov. Vi vet at det har klare konsekvenser. </A>
+            <A Type="Minnrykk">Jeg har ikke et tidspunkt å komme med til representanten Wiborg
+i dag, men jeg skal selvfølgelig komme tilbake til Stortinget med
+de vurderingene Stortinget har bedt meg om.</A>
+          </Replikk>
+          <Replikk Id="i1003432">
+            <A>
+              <Navn personID="EW">
+Erlend Wiborg (FrP) [10:52:34]:</Navn> Det må være helt tydelig
+hva respekt for norske verdier innebærer: En kvinne skal kunne forlate
+islam uten å bli truet av familien. En ungdom skal kunne velge sin
+kjæreste selv. En religionskritiker skal kunne ytre seg uten å måtte
+frykte vold. Det holder ikke å bare informere om at Norge har religionsfrihet,
+man må forstå at friheten også gjelder egne barn og dem man er dypt uenig
+med. </A>
+            <A Type="Minnrykk">Mitt spørsmål til statsråden er om hun vil
+sørge for at erklæringen uttrykkelig omtaler både retten til å forlate
+en religion og retten til å kritisere den.</A>
+          </Replikk>
+          <Replikk Id="i1003434">
+            <A>
+              <Navn personID="KJSE">
+Statsråd Kjersti Stenseng [10:53:16]:</Navn> Erklæringen er utformet,
+og den er veldig tydelig på det som handler om trusler, tvang, vold,
+frihet og selvbestemmelse i Norge. Jeg er veldig opptatt av å bekjempe
+negativ sosial kontroll og æresmotivert vold – alt det som vi deler
+bekymringen for. Det gjør vi også gjennom både andre lover som er
+vedtatt her i Stortinget, flere lovforslag vi jobber med, og ikke
+minst gjennom alt det arbeidet som blir gjort når det gjelder forebygging
+for å bekjempe negativ sosial kontroll. Denne erklæringen er viktig
+fordi det er en gjensidig erklæring om hvordan vi skal stille opp,
+og hva vi forventer av folk. Den er imidlertid ikke nok for å lykkes
+bedre med integreringen; det må skje på mange andre områder også
+som denne regjeringen jobber med. </A>
+          </Replikk>
+          <Replikk Id="i1003436">
+            <A>
+              <Navn personID="TAGP">
+Tage Pettersen (H) [10:54:14]:</Navn> Statsråden viser til dagens
+integreringserklæring og til at regjeringen, som vi har vært inne
+på, vil vurdere både målgruppe, sanksjoner og mulige konsekvenser
+ved brudd. De tre nevnte anmodningsvedtakene kom på plass her i
+Stortinget etter forslag fra Høyre. For oss er det helt åpenbart
+at mennesker som kommer til Norge, skal møtes med tydelige forventninger,
+som å lære norsk, komme i arbeid eller utdanning, følge norsk lov
+og respektere grunnleggende verdier, som demokrati, likestilling og
+barns rettigheter. Dette tror jeg egentlig at de aller fleste i denne
+salen er enig i. Men for å fortsette litt der representanten Wiborg
+slapp, har jeg lyst til å utfordre statsråden på hvor ekte statsrådens
+engasjement er når det gjelder å levere på de tre anmodningsvedtakene
+som Stortinget fattet før sommeren, og som er en vesentlig begrunnelse
+for at regjeringen velger ikke å gå videre med noen av de forslagene
+Fremskrittspartiet i dag fremmer.</A>
+          </Replikk>
+          <Replikk Id="i1003438">
+            <A>
+              <Navn personID="KJSE">
+Statsråd Kjersti Stenseng [10:55:09]:</Navn> Jeg skal selvfølgelig
+komme tilbake til Stortinget med vurderinger av de ulike anmodningsvedtakene.
+Jeg er også opptatt av – og jeg deler representantens ønske om dette
+– at vi skal lykkes bedre, og at det som står der, faktisk skal
+bety noe for den enkelte, og for hvordan vi følger opp den enkelte. </A>
+            <A Type="Minnrykk">Som jeg sa i stad, er det ikke nødvendigvis
+veldig enkelt å finne ut hva slags type sanksjoner man skal kunne
+innføre. Hvordan vil de stå i forhold til det vi ønsker å oppnå?
+Det er noen sanksjonsmuligheter i dagens regelverk. Vi skal vurdere både
+økonomiske sanksjoner og om grove brudd kan ha en betydning for
+oppholdstillatelse, i tråd med det Stortinget har bedt oss om. </A>
+            <A Type="Minnrykk">Jeg har et oppriktig ønske om å gjøre en grundig
+vurdering av hva som kan være hensiktsmessige sanksjoner som kan
+bidra til at vi lykkes bedre med integreringen, men ikke minst må
+det også stå i forhold til det vi ønsker å oppnå.</A>
+          </Replikk>
+          <Replikk Id="i1003440">
+            <A>
+              <Navn personID="HANSTE">
+Hanne Beate Stenvaag (R) [10:56:20]:</Navn> Regjeringen vurderer
+å innføre sanksjoner knyttet til brudd på integreringserklæringen.
+Hvordan skal brudd på en verdibasert erklæring defineres, måles
+og vurderes? Nå snakker vi altså om noe som ikke handler om brudd
+på lover. Kan statsråden komme med noen tanker om hvordan man konkret
+skal måle disse bruddene på integreringserklæringen, som regjeringen har
+gått inn for å utrede?</A>
+          </Replikk>
+          <Replikk Id="i1003442">
+            <A>
+              <Navn personID="KJSE">
+Statsråd Kjersti Stenseng [10:56:53]:</Navn> Jeg skal selvfølgelig
+komme tilbake til Stortinget med våre vurderinger om hva som skal
+være mulig, for det har Stortinget bedt om. Det er ikke nødvendigvis
+veldig enkelt å se hva slags type sanksjoner som kan være hensiktsmessig
+for å oppnå det som er målet vårt med integreringserklæringen: en
+sterkere gjensidig forpliktelse knyttet til hvilke forpliktelser
+en har når en kommer til landet vårt, men også knyttet til hvilke
+rettigheter en har, og hvordan vi kan sørge for at det blir fulgt
+opp på en best mulig måte. Det er noen sanksjonsmuligheter i dag.
+De er knyttet til introduksjonsprogrammet: Dersom man ikke møter
+opp, kan man bli trukket i ytelser. Vi må se på andre typer økonomiske
+sanksjoner også. Skal grove brudd ha noe å si for oppholdstillatelsen?
+Men jeg er enig med representanten i at det ikke er åpenbart hvilke
+sanksjoner som er forholdsmessige og hensiktsmessige når det gjelder
+integreringserklæringen. Derfor bruker vi også litt tid på det. </A>
+          </Replikk>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [10:57:44]:</Navn> Replikkordskiftet
+er omme.</A>
+            <A Type="Minnrykk">De talere som heretter får ordet, har også
+en taletid på inntil 3 minutter.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1003444">
+            <A>
+              <Navn personID="EW">
+Erlend Wiborg (FrP) [10:58:09]:</Navn> Det har blitt sagt et par
+ting i debatten som ikke kan stå uimotsagt. Komitéleder Stenvaag
+fra Rødt slår virkelig på stortrommen med kraftige ord og karakteristikker
+av Fremskrittspartiets forslag. Å kalle det diskriminering og stigmatisering
+at vi mener at hvis man flytter til Norge, skal man følge landets
+lover, regler og grunnleggende verdier, synes jeg er en veldig spesiell
+måte å argumentere på fra Rødt – eller å mene at det er stigmatiserende
+og diskriminering at gutter og jenter i Norge skal ha samme rettigheter
+til å styre over sitt eget liv. Det synes jeg komitélederen fra
+Rødt burde holdt seg for god til.</A>
+            <A Type="Minnrykk">Når det gjelder Høyre, gleder det meg at de
+er enig med Fremskrittspartiet i at det regjeringen la frem, var
+for mildt og uforpliktende, og at de også i dag sier at de deler
+Fremskrittspartiets problembeskrivelse. Det som da er en underlig
+konsekvens av det, er at Høyre velger å gå i kompaniskap med Rødt,
+SV og Arbeiderpartiet og stemmer ned forslag de egentlig sier de
+helt eller delvis støtter. Det mener jeg er underlig fra Høyre.
+De kunne istedenfor gått sammen med Fremskrittspartiet og søkt å
+danne et flertall her som sørger for at hvis man har personer som
+kommer til Norge og ikke respekterer grunnleggende lover og verdier,
+som bevisst velger ikke å la seg integrere, skal det også få konsekvenser. Fremskrittspartiet
+mener at konsekvensene for personer som nekter å integrere seg,
+skal være at de ikke får oppholdstillatelse, familiegjenforening
+eller statsborgerskap i Norge.</A>
+            <A Type="Minnrykk">Det er en forskjell på Høyre og Fremskrittspartiet
+i denne saken, for Høyre ønsker at det offentlige skal forplikte
+seg enda mer når det gjelder integrering. La meg slå fast Fremskrittspartiets
+syn: Ansvaret for å bli integrert når man flytter til et nytt land,
+ligger på en selv. I Norge – og det støtter Fremskrittspartiet helhjertet
+opp om – skal samfunnet gi en de verktøyene som trengs for at en
+skal kunne bli integrert. Det er derfor vi gir gratis norskopplæring
+og opplæring i norsk samfunn, man får gratis bolig, og man får attpåtil
+betalt for det mens man tar den opplæringen. Norge er et av de landene
+som bruker desidert mest penger på integrering, og da synes jeg det
+er rart at Høyre mener at det offentlige må forplikte seg enda mer.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1003446">
+            <A>
+              <Navn personID="BLA">
+Bjørn Larsen (FrP) [11:01:24]:</Navn> «Mamma, er jeg haram?» Det
+spurte en ni år gammel jente, ifølge morens beretning i Aftenposten,
+som vi kunne lese før helgen. Venninnene får ikke besøke henne fordi
+hun har storebrødre hjemme. Tenk å være ni år og lure på om det
+er noe galt med en – hvorfor er jeg forbudt, hvorfor er jeg uren,
+og hvorfor får ikke venninnene mine komme på besøk til meg? Religiøse regler
+bygger murer mellom barn som skulle fått leke sammen. Det kan vi
+ikke godta.</A>
+            <A Type="Minnrykk">Da Carl I. Hagen så sent som i 2007 foreslo
+å knytte offentlig stønad til innsatsen med å lære ungene norsk,
+svarte Arbeiderpartiets arbeidspolitiske talsmann at dette var reinspikket
+rasisme. Han kalte forslagsstillerne politikkens bygdetullinger. </A>
+            <A Type="Minnrykk">I NRKs Debatten sa statsråd Stenseng: «Jeg
+tror jeg vil svare ja på at vi har vært for naive.» Det er en viktig
+erkjennelse, men hva får den å si for politikken? Nok en gang står
+vi her med konkrete forslag til innstramminger og tydelige krav, og
+nok en gang står Fremskrittspartiet alene. Alle de andre partiene
+avviser forslagene våre. Karakteristikkene av forslagene og forslagsstillerne
+er heldigvis blitt endret. Det er lett å innrømme naivitet på tv,
+prøven kommer når Stortinget skal vedta en annen politikk.</A>
+            <A Type="Minnrykk">Fremskrittspartiet vil ha en forpliktende integreringskontrakt.
+Den som kommer hit, skal få klar beskjed: Norsk lov gjelder. Kvinner
+og menn har samme rettigheter. Barn skal beskyttes mot vold, tvang
+og negativ sosial kontroll. Ytringsfriheten omfatter også religion.
+Bevisste brudd på disse forpliktelsene må få konsekvenser.</A>
+            <A Type="Minnrykk">Jenter skal kunne velge venner, kvinner skal
+kunne velge arbeid, utdanning og ektefelle selv, og friheten skal
+gjelde også innenfor husets fire vegger. Det er ungene og kvinnene som
+må betale prisen når politikerne ikke stiller så tydelige krav som
+mulig – krav som følges opp med konsekvenser.</A>
+            <A Type="Minnrykk">En niåring skal glede seg til å få venninnene
+hjem. Hun skal slippe å spørre om hun selv er haram.</A>
+          </Hovedinnlegg>
+          <Merknad>
+            <Handling>
+              <A>
+                <Uth Type="Sperret">Ingrid Fiskaa</Uth> hadde
+her teke over presidentplassen.</A>
+            </Handling>
+          </Merknad>
+          <Hovedinnlegg Id="i1003448">
+            <A>
+              <Navn personID="HANSTE">
+Hanne Beate Stenvaag (R) [11:04:11]:</Navn> Når representanten Erlend
+Wiborg tar ordet for å kritisere mitt innlegg, lurer jeg på om han
+faktisk har lest sitt eget forslag, for karakteristikken handler
+om det helt konkrete forslaget i denne saken fra Fremskrittspartiet
+om å lage lovverk som skal skille ut ikke-vestlige innvandrere som
+en egen gruppe i lovverket. Det å mene at det er å gå for langt
+å bruke ganske sterke ord for å karakterisere et sånt forslag, mener
+jeg er ganske overraskende. </A>
+            <A Type="Minnrykk">Mine ord var for øvrig også rettet mot den
+vedtatte integreringserklæringen. Som sagt, siterte jeg Antirasistisk
+Senter som peker på at denne erklæringen hviler på feilaktige og stigmatiserende
+premisser, og bidrar til å forsterke en utvikling i integreringspolitikken
+som er preget av mistillit, symbolpolitikk og stigmatiserende forestillinger
+om innvandrere og flyktninger, for den legger til grunn at noen
+må skrive under på selvfølgeligheter som at man skal følge norsk
+lov. Det er klart at alle her i salen er opptatt av at vi skal ha
+et samfunn som arbeider for likestilling og mot vold – mange av
+disse tingene som har blitt nevnt – men det er jo ikke en problemstilling
+som gjelder særskilt for flyktninger og innvandrere, og spesifikt
+for ikke-vestlige. Det er en problemstilling som gjelder hele samfunnet
+vårt, og som krever tiltak som er generelle og gjelder hele befolkningen. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1003450">
+            <A>
+              <Navn personID="TAGP">
+Tage Pettersen (H) [11:06:05]:</Navn> Representanten Wiborgs tolkning
+av andre partiers ståsteder, og Høyres spesielt, kan ikke stå uimotsagt.
+Hvis representanten Wiborg hadde hørt hva undertegnede sa i sitt
+hovedinnlegg, sa jeg helt riktig at Fremskrittspartiets forslag,
+som vi behandler i dag, tar opp flere problemstillinger som Høyre
+er enig i at vi må ta på alvor. Det er helt riktig. Så brukte jeg
+vel resten av innlegget mitt på å argumentere for hvorfor vi ikke
+velger å støtte Fremskrittspartiets forslag. Hovedargumentet er
+de tre gjennomslagene vi fikk sammen med Arbeiderpartiet, Senterpartiet
+og Kristelig Folkeparti før sommeren da vi behandlet integreringserklæringen
+– for øvrig forslag som Fremskrittspartiet valgte å stemme imot
+den gangen. Man kan ha en diskusjon om det viktigste er å få gjennomslag
+for politisk endring, eller om det viktigste er å stå her på talerstolen
+og ha de mest ytterliggående verbale karakteristikkene av andres
+forslag. Jeg er opptatt av å få gjennomslag i politikken. </A>
+            <A Type="Minnrykk">Så noe kompaniskap med Rødt og SV i denne saken
+tror jeg vel begge representantene fra disse to partiene har bevist at
+vi ikke er i nærheten av å ha, i hvert fall ikke når det gjelder innvandrings-
+og integreringspolitikken. Høyre er veldig opptatt av, og for så
+vidt enig med Fremskrittspartiet i, at ansvaret hviler på den enkelte
+som kommer hit for å integrere seg. Men skal den enkelte som kommer
+hit, ha en mulighet til å integrere seg, er det en selvfølge at
+det offentlige må stille opp med et tilbud som gjør at den integreringen
+er mulig å få til. Der er Høyre tydelig på at det tilbudet skal
+være der, men Høyre er også veldig tydelig på at det tilbudet skal
+strammes inn, og kravene til progresjon og gjennomføring skal strammes
+inn i forhold til det som er tilfellet i dag. </A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:07:55]:</Navn> Representanten
+Erlend Wiborg har hatt ordet to gonger tidlegare og får ordet til
+ein kort merknad, avgrensa til 1 minutt.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1003452">
+            <A>
+              <Navn personID="EW">
+Erlend Wiborg (FrP) [11:08:07]:</Navn> Representanten Stenvaag var
+opptatt av skillet mellom ikke-vestlige og øvrige. Det skillet har
+vi allerede i dag. Jeg tror ikke representanten Stenvaag og Rødt
+mener at en svenske som flytter til Norge, skal måtte gjennom et
+stort introduksjonsprogram betalt av norske skattebetalere. Med
+mindre hun mener det, støtter representanten Stenvaag et skille,
+og så kan man alltid diskutere hvor det skillet skal være. Fremskrittspartiet
+mener at det er ikke-vestlig innvandring vi har størst integreringsutfordringer
+med, og da er det der vi må rette inn støtet. </A>
+            <A Type="Minnrykk">Så til både representanten Pettersen og egentlig
+alle partier her i dag: Det disse partiene velger å stemme imot,
+er at det skal presiseres</A>
+            <Sitat Type="Uinnrykk">
+              <A>«at enhver form for barneoppdragelse
+skal skje uten vold eller tvang, og dette inkluderer negativ sosial
+kontroll og æreskrenkelser».</A>
+            </Sitat>
+            <A Type="Minnrykk">Dette er det altså for drøyt for Arbeiderpartiet,
+Høyre, Sosialistisk Venstreparti, Rødt og Senterpartiet å stemme
+for. </A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:09:10]:</Navn> Fleire har
+ikkje bedt om ordet til sak nr. 2.</A>
+          </Presinnlegg>
+          <Referanse Id="i1003454" voteringsDato="2026-11-10" debattDato="2026-11-10" saksKartNr="2" />
+        </Sak>
+        <Sak Id="i1003456" saksKartNr="3" sakID="200293">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak
+nr. 3</Uth> [11:09:14]</Saknr>
+            <Saktittel Id="i1003460">
+              <A>Innstilling fra kommunal- og forvaltningskomiteen
+om Representantforslag fra stortingsrepresentantene Erlend Wiborg,
+Kristian August Eilertsen, Rune Midtun, Bjørn Larsen og Helge André
+Njåstad om egenbetaling for tolketjenester etter tre års opphold
+i Norge <Uth Type="RETT">(Innst. 25 S (2026–2027), jf. Dokument
+8:281 S (2025–2026))</Uth></A>
+            </Saktittel>
+          </Sakshode>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:09:37]:</Navn> Etter ønske
+frå kommunal- og forvaltningskomiteen vil presidenten ordna debatten
+slik: 3 minutt til kvar partigruppe og 3 minutt til medlemer av
+regjeringa. </A>
+            <A Type="Minnrykk">Vidare vil det – innanfor den fordelte taletida
+– bli gjeve høve til replikkordskifte på inntil seks replikkar med
+svar etter innlegg frå medlemer av regjeringa, og dei som måtte
+teikna seg på talarlista utover den fordelte taletida, får òg ei
+taletid på inntil 3 minutt.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1003462">
+            <A>
+              <Navn personID="ANNFRE">
+Anne Lise Gjerstad Fredlund (SV) [11:10:11]</Navn> (ordfører for
+saken): Takk, gode komité, for samarbeidet i arbeidet med saken.
+Jeg legger til grunn – som kanskje nesten alltid – at partiene selv
+redegjør for sine standpunkt, og vil videre redegjøre for hva SV
+tenker i saken. </A>
+            <A Type="Minnrykk">Det kan være lett å høre ordet tolketjenester
+og tenke at det først og fremst handler om en tjeneste som vi tilbyr
+folk som enda ikke har lært seg godt nok norsk, men det er jo egentlig
+ikke det tolkeloven handler om i det hele tatt. Tolkeloven handler
+om at det offentlige har ansvar for å forstå og for å bli forstått.
+Når det er nødvendig for å sikre rettssikkerheten eller å gi en
+forsvarlig tjeneste, skal det offentlige bruke tolk. Hva betyr det
+i praksis? Det betyr at hvis Nav skal fatte et vedtak som bestemmer
+hva du skal leve av, må Nav være helt sikker på at de har forstått
+deg riktig. Hvis doktoren eller tannlegen skal finne ut hva som
+er galt, grunnlaget for at du oppsøker dem, må de forstå hva du
+forteller. Hvis barnevernet skal ta avgjørelser som får store konsekvenser
+for unger eller hele familier, må alle forstå hva som blir sagt.
+Da er jo ikke tolken en bonus eller en ekstraservice til den enkelte,
+det er rett slett et arbeidsverktøy for at det offentlige skal gjøre
+jobben sin riktig. Det er viktig i denne debatten. </A>
+            <A Type="Minnrykk">Selvsagt skal vi stille krav til folk som kommer
+til Norge. Vi forventer alle sammen at folk lærer norsk, deltar
+i samfunnet og kommer i arbeid, og det har vi jo egentlig brukt
+den siste halvtimen i denne salen på å diskutere, men Fremskrittspartiets
+forslag innebærer at folk etter tre års opphold som hovedregel skal
+betale for tolketjenesten selv. Tre år er en veldig enkel grense
+på papiret. I virkeligheten er det ikke så enkelt. Et menneske kan
+fint klarer seg på norsk på butikken, på arbeid eller i samtale
+med naboen, men likevel ha problemer med å forstå komplisert informasjon
+om alvorlig sykdom, om barnevernssaker eller om et annet viktig
+vedtak fra det offentlige. </A>
+            <A Type="Minnrykk">Det er faktisk også i andre saker i denne salen
+diskutert at mange med norsk som morsmål også har problemer med
+å forstå nettopp de vedtakene som skjer i det offentlige. Konsekvensene
+av å misforstå kan være store. Statsråden peker på at egenbetaling
+også kan føre til at folk lar være å bruke nødvendige tolk. Da risikerer
+vi feil avgjørelser, flere klager og dårligere rettssikkerhet. Det
+synes jeg illustrerer problemet med dette forslaget ganske godt.
+Norskopplæring handler om å integrere, inkludere og stille krav.
+Tolkeloven handler om noe helt annet.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1003464">
+            <A>
+              <Navn personID="MALSRE">
+Malin Bye Sørensen (A) [11:13:29]:</Navn> I Oslo og i Groruddalen,
+der jeg bor, bor det mennesker som kommer fra hele verden. Mange
+snakker flere språk, og mange har lært seg norsk etter at de kom
+til Norge. Det er likevel forskjell på å kunne norsk godt nok til
+å klare seg i hverdagen og å forstå alt som blir sagt når livet
+plutselig blir vanskelig. Se for deg en mamma som blir innkalt til
+møte på skolen. Sønnen hennes gruer seg til å gå på skolen. Han
+har det ikke bra, og lærerne er bekymret. Moren snakker norsk med
+naboene, på jobb og i butikken, men når hun skal forstå hva skolen
+er bekymret for, hvilke tiltak som vurderes, de ulike mulighetene og
+hva hun selv kan gjøre for å hjelpe sønnen sin, blir det vanskelig.
+Hun vil veldig gjerne bidra, men hun er usikker på om hun forstår
+alt som blir sagt, og om hun klarer å forklare sin side av saken
+godt nok. Skal hun da måtte bekymre seg for om hun skal ha råd til
+tolk? For Arbeiderpartiet er svaret nei. Tolk er ikke en belønning
+for å la være å lære seg norsk. Det er et verktøy for å sikre gode
+offentlige tjenester.</A>
+            <A Type="Minnrykk">Arbeiderpartiet mener at de som kommer til
+Norge, skal møtes med tydelige krav og forventninger om å lære norsk. Språket
+er nøkkelen til å komme i jobb, delta i samfunnet og bli en del
+av fellesskapet, men vi må klare å ha to tanker i hodet samtidig.
+Vi skal stille krav om å lære norsk, og samtidig skal vi sikre at
+alle får forsvarlige offentlige tjenester. Vi har en tolkelov som
+pålegger det offentlige å bruke tolk når det er nødvendig for å
+ivareta rettssikkerheten og for å gi forsvarlig hjelp. Det betyr
+ikke at alle som har et annet morsmål enn norsk, skal ha tolk. Kan
+man kommunisere forsvarlig på norsk eller engelsk, er det som regel
+ikke behov for det. </A>
+            <A Type="Minnrykk">Vi må også huske at tolken ikke bare er der
+for den som trenger hjelp. Tolken er der også for legen som skal
+stille riktig diagnose, saksbehandleren som skal fatte riktige vedtak, læreren
+som skal forstå foreldrenes bekymringer, og skolen som skal finne
+løsninger som skal hjelpe barna videre i livet. Dårlig kommunikasjon
+fører til misforståelser, feil og vedtak som må behandles på nytt.
+Det kan koste den enkelte og samfunnet dyrt. En ordning med egenbetaling
+kan føre til at noen lar være å bruke tolk selv om det er behov
+for det. Da risikerer vi at økonomien til den enkelte avgjør hvor
+gode offentlige tjenester en får, og hvilken informasjon en skjønner. </A>
+            <A Type="Minnrykk">Vi får ikke bedre integrering av å gjøre offentlige
+tjenester mindre tilgjengelige. Vi får bedre integrering når flere
+lærer norsk, kommer seg i jobb og deltar i fellesskapet. Vi skal stille
+tydelige krav til dem som kommer til Norge, men vi skal ikke sette
+rettssikkerheten på vent mens de lærer språket. Derfor støtter ikke
+Arbeiderpartiet forslaget om egenbetaling for tolketjenester.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1003466">
+            <A>
+              <Navn personID="EW">
+Erlend Wiborg (FrP) [11:16:36]:</Navn> Du kan ha bodd i Norge i
+10 år, 20 år, 25 år, og dersom du fortsatt trenger fremmedspråktolk
+i møte med det offentlige, kan regningen fortsatt sendes til skattebetalerne.
+Fremskrittspartiet mener det er rimelig å stille et enkelt spørsmål:
+Når begynner den enkeltes ansvar?</A>
+            <A Type="Minnrykk">Å lære norsk handler om å kunne få seg en jobb,
+følge opp barna sine, forstå samfunnet man bor i, og klare seg selv. Norge
+skal stille opp for mennesker som kommer hit, og vi bruker betydelige
+ressurser på norskopplæring og integrering. Da må vi også kunne
+forvente egeninnsats. Rettigheter må følges av plikter. Derfor foreslår
+Fremskrittspartiet at utlendinger selv skal betale for fremmedspråktolk
+etter tre års opphold i Norge. La meg være helt tydelig: Vi gjør
+unntak for helsehjelp og øyeblikkelig hjelp, for ingen skal vegre
+seg for å oppsøke lege fordi de frykter en regning for tolkingen.
+Vi ber regjeringen komme tilbake med nødvendige lovendringer, for rettssikkerheten
+skal ivaretas, men behovet for tolk og spørsmålet om hvem som skal
+betale, er to vidt forskjellige spørsmål.</A>
+            <A Type="Minnrykk">Statsråden peker på at mennesker har ulike
+forutsetninger. Det er riktig. Noen lærer raskt, mens andre trenger
+mer hjelp. Det må norskopplæringen ta høyde for. Men ulike forutsetninger
+kan ikke være et argument for at fellesskapets betalingsansvar skal
+fortsette uten noen tidsgrense. Flertallet skriver i merknadene
+at det skal stilles tydeligere krav til og forventninger om å lære
+norsk. Det høres visst bra ut, men når Fremskrittspartiet foreslår
+en konkret konsekvens, sier de samme partiene nei. Da må de svare
+ut: Hva innebærer egentlig disse kravene? Hva skjer dersom man år
+etter år lar være å gjøre en innsats?</A>
+            <A Type="Minnrykk">Vi mener at målet må være at flere kan møte
+det offentlige uten tolk, at flere kommer i jobb, og at flere blir
+selvstendige. Det å stille opp for mennesker er å gi dem muligheter, men
+det er også å stille opp for mennesker å stille krav. Å bosette
+seg i Norge innebærer et ansvar for å lære norsk. Regningen for
+manglende norskkunnskaper kan ikke være skattebetalernes ansvar
+for resten av livet. Jeg tar med dette opp Fremskrittspartiets forslag.</A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:19:16]:</Navn> Representanten
+Erlend Wiborg har teke opp det forslaget han refererte til.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1003468">
+            <A>
+              <Navn personID="TAGP">
+Tage Pettersen (H) [11:19:33]:</Navn> Å lære norsk er noe av det
+viktigste man kan gjøre for å bli en del av det norske samfunnet.
+Språket åpner dører til arbeidsliv, utdanning, deltakelse og fellesskap.
+Derfor mener også Høyre at vi skal både stille tydelige krav om
+å lære norsk og sørge for god norskopplæring. </A>
+            <A Type="Minnrykk">Fremskrittspartiet foreslår i denne saken at
+utlendinger som hovedregel selv skal betale for tolketjenester etter
+tre års opphold i Norge. Igjen deler Høyre den delen av problembeskrivelsen
+som handler om at behovet for tolk må reduseres, men vi mener ikke
+at dette forslaget gir de riktige svarene. Tolking handler ikke
+bare om integreringspolitikk. Det handler også om rettssikkerhet. </A>
+            <A Type="Minnrykk">Tolkeloven pålegger offentlige organer å bruke
+tolk når det er nødvendig for å ivareta rettssikkerheten eller yte
+forsvarlig hjelp og tjeneste. Dårlig kommunikasjon kan ofte føre til
+feil beslutninger, flere klager og i verste fall at mennesker ikke
+får den hjelpen de har krav på. </A>
+            <A Type="Minnrykk">Samtidig kan ikke dagens ordning bli en hvilepute.
+Vi må stille sterkere krav om norskopplæring og progresjon. Det
+er også tanken bak Høyres borgerkontrakt. Den enkelte skal ta ansvar
+for å lære norsk og delta aktivt i kvalifiseringen, mens det offentlige
+skal tilby opplæring på riktig nivå og ikke minst følge opp resultatene.
+Målet må være at stadig færre er avhengig av tolk etter mange år
+i Norge.</A>
+            <A Type="Minnrykk">Men det er også en annen side ved denne debatten
+vi må løfte blikket mot. Kunstig intelligens kan komme til å endre tolketjenestene
+fundamentalt. I 2024 ble de samlede offentlige utgiftene til tolking
+anslått til om lag 1,6 mrd. kr. Samtidig opplyser myndighetene at
+det ennå ikke finnes beregninger av hvor mange tolkeoppdrag som
+kan løses med kunstig intelligens, og at markedet for KI-baserte
+løsninger som tilfredsstiller krav til personvern, informasjonssikkerhet
+og kvalitet, fortsatt er begrenset. Det bør ikke være et argument
+for å vente. Det bør være et argument for å gå foran. </A>
+            <A Type="Minnrykk">Tenk på potensialet i langt bedre sanntidsoversettelse
+på legekontoret, hos kommunen eller i en enkel samtale med Nav.
+KI kan etter hvert gi raskere tilgang til oversettelse på langt
+flere språk og potensielt redusere ressursbruken betydelig. Det
+betyr selvfølgelig ikke at en KI-løsning i morgen kan erstatte en
+kvalifisert tolk i en rettssak, en alvorlig helsesituasjon eller
+en komplisert barnevernssak. Kravene til kvalitet, konfidensialitet
+og rettssikkerhet må selvfølgelige ligge fast.</A>
+            <A Type="Minnrykk">Målet bør ikke først og fremst være å flytte
+regningen for dagens tolketjenester. Målet må være å redusere behovet
+og kostnadene ved å gjøre tjenestene bedre og mer effektive.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1003470">
+            <A>
+              <Navn personID="BFA">
+Bengt Fasteraune (Sp) [11:22:45]:</Navn> De som kommer til Norge,
+skal møtes med tydelige krav og forventninger om å lære seg norsk.
+Vi har gode tilbud i norskopplæring. Ikke minst gjennom arbeidstrening
+og inkludering i frivillige lag og organisasjoner er det fokus på
+norsk og norskopplæring som er det viktigste ute i kommunene. </A>
+            <A Type="Minnrykk">Bruk av tolk i offentlig sektor er regulert
+i lov om offentlige organers ansvar for bruk av tolk – tolkeloven.
+Lovens formål er å bidra til å sikre rettssikkerhet og forsvarlig
+hjelp og tjeneste for personer som ikke kan kommunisere forsvarlig med
+offentlige organer uten tolk. Vi snakker ikke om norskopplæring,
+vi snakker om at det er en garanti for at man ikke skal ta feil
+beslutninger i et rettssamfunn. Det handler om at innbyggerne skal
+forstå viktig informasjon fra det offentlige når det er nødvendig
+for å ivareta rettssikkerheten eller yte forsvarlig hjelp og tjeneste.</A>
+            <A Type="Minnrykk">Det er også viktig å legge merke til at loven
+gir ingen automatisk rett til tolk. Det er individuelle, konkrete
+vurderinger i hvert tilfelle. At kostnadene for bruk av tolk har
+økt de siste årene, er vel egentlig ikke så rart, da vi har tatt
+imot over 100 000 ukrainere. </A>
+            <A Type="Minnrykk">Å kunne snakke og forstå norsk i hverdagen
+er ikke det samme som å forstå til tider komplisert jus eller forhold
+knyttet til egen helse. Da må tolk brukes i de tilfellene det er
+behov for det. Det må gjøres i dag, og det må gjøres i framtiden.
+Derfor må man om man finner andre måter å oversette eller tolke språket
+på, selvfølgelig gjøre det. </A>
+            <A Type="Minnrykk">Det å bruke tolk vil som regel ikke gjelde
+dersom partene kan kommunisere forsvarlig på norsk eller et annet
+språk, f.eks. engelsk. En plikt til å bruke tolk vil bare i særlige
+tilfeller gjelde i kontakt med minoritetsspråklige som har norsk statsborgerskap
+eller som har fullført norsk grunnopplæring eller annen utdanning
+på norsk, fordi de fleste vil ha gode nok norskferdigheter til at
+kommunikasjon på norsk anses forsvarlig. Innrammingen for dette
+er, slik Senterpartiet ser det, godt ivaretatt i tolkeloven.</A>
+            <A Type="Minnrykk">Flere av høringssvarene viser til erfaringene
+fra Danmark med å innføre egenbetaling for tolketjenester. Det har
+der ført til mer byråkrati og økte kostnader, bl.a. til ekstra ressursbruk når
+manglende kommunikasjon fører til feil beslutninger, med til dels
+store konsekvenser. Forslaget vi behandler i dag, er ikke rett medisin
+for å redusere offentlige kostnader og byråkrati, snarere tvert
+imot.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1003472">
+            <A>
+              <Navn personID="HANSTE">
+Hanne Beate Stenvaag (R) [11:26:05]</Navn> (komiteens leder): Problemet
+når det gjelder tolk og bruk av tolketjenester, er ikke at det har
+vært brukt for mye, men heller at det har vært brukt for lite. For
+eksempel har barn blitt brukt som tolk for sine foreldre fordi barn
+ofte lærer språk raskere enn voksne, eller familiemedlemmer har
+blitt brukt som tolk, noe som utfordrer muligheten til å snakke
+åpent f.eks. i møte med helsetjenesten. Dette er noen av grunnene
+til at det var behov for en tolkelov som regulerer bruk av tolk
+i offentlig sektor, og som fortsatt er forholdsvis ny. Derfor er
+det så viktig at vi har en lov som skal sikre rettssikkerheten til
+den enkelte, og sikre forsvarlig hjelp og tjeneste for folk som
+trenger det for å kommunisere forsvarlig med det offentlige.</A>
+            <A Type="Minnrykk">Forslaget fra Fremskrittspartiet om at utlendinger
+selv skal måtte betale for tolketjenester etter tre års oppholdstid
+i Norge, med unntak for situasjoner som krever øyeblikkelig hjelp
+eller helsehjelp, er etter min mening rett og slett et dårlig forslag.
+Det er mange her som har tatt opp hvordan tolkeloven fungerer i
+dag, så det trenger jeg egentlig ikke å repetere, men jeg vil også
+vise til erfaringene fra Danmark, som FrP ellers liker å se til,
+at egenbetaling har utløst merarbeid og økte kostnader, både fordi
+det koster mye å administrere en ordning hvor man skal betale selv,
+og ikke minst fordi det utløser ekstra ressursbruk når dårlig kommunikasjon
+fører til feil og misforståelser.</A>
+            <A Type="Minnrykk">Det føles noen ganger litt meningsløst å skulle
+debattere et forslag som skaper flere utfordringer enn det løser,
+som jeg mener er tilfellet her. At det har vært økt behov for tolketjenester
+de senere årene, henger mest sannsynlig sammen med at det har kommet
+mange ukrainere til Norge på flukt fra Russlands folkerettsstridige
+angrepskrig. Alle partiene på Stortinget, inkludert Fremskrittspartiet,
+har stilt seg bak å ta imot flyktninger fra denne krigen i vårt
+nærområde. Å bruke denne økningen, som FrP gjør i dette forslaget,
+som springbrett til å insinuere at flyktninger og innvandrere ikke
+er interessert i å lære seg norsk, for å utnytte et naivt norsk
+system som syr puter under armene på dem, er utrolig langt fra virkeligheten. </A>
+            <A Type="Minnrykk">Også folk som snakker godt nok norsk til hverdagsbruk, kan
+ha et behov for tolk i utsatte situasjoner, for det er helt vesentlig
+både å forstå og formidle på sitt eget morsmål, enten det er på
+et sykehus, i en rettssal, hos politiet, i barnevernet, på et krisesenter
+eller hos Nav. Og det er viktig for begge parter, for det er vanskelig
+for ansatte i det offentlige å ikke bruke tolk når det er behov
+for tolk. </A>
+            <A Type="Minnrykk">I merknader og i innstillingen i denne saken
+står Rødt sammen med alle de andre partiene i komiteen, bortsett
+fra FrP, og vi er glad for at det er en så bred enighet om å avvise dette
+representantforslaget.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1003474">
+            <A>
+              <Navn personID="KJSE">
+Statsråd Kjersti Stenseng [11:29:00]:</Navn> Gode norskkunnskaper
+er også avgjørende for å lykkes med god integrering. Det er jeg
+helt enig med forslagsstillerne om. </A>
+            <A Type="Minnrykk">Personer som kommer til Norge, skal møtes med
+helt tydelige krav og forventninger om å lære norsk, komme i arbeid og
+være en del av fellesskapet. Så må vi stille opp gjennom å gjøre
+veien inn i fellesskapene så god som mulig og bidra med norskopplæring
+og andre kvalifiseringstilbud. Regjeringen har bl.a. satt ned et
+utvalg som nå gjennomgår norskopplæringstilbudet for innvandrere
+og vurderer hvordan språkopplæringen for voksne kan bli bedre enn
+det den er i dag. I regjeringserklæringen, som vi nå nettopp har
+diskutert her, slo vi fast at den enkelte skal delta aktivt i opplæring
+og i samfunnskunnskap. </A>
+            <A Type="Minnrykk">God kommunikasjon er en forutsetning for at
+det offentlige skal lykkes med å yte gode og forsvarlige tjenester
+til alle innbyggere. Tilrettelegging ved bruk av tolk handler om
+å forstå og bli forstått. Det er ikke vanskelig å tenke seg hva slags
+konsekvenser det kan få hvis f.eks. helseopplysninger blir misoppfattet
+før en operasjon, hvis pasienter ikke forstår hva slags type medisiner
+de skal ta, eller hvis forklaringer i en straffesak ikke blir oppfattet
+korrekt av rettsapparatet. Men i hverdagen, i møter mellom lærere
+og foreldre og i alt som er viktig for å lykkes med god integrering,
+trenger vi å bidra til økt forståelse og økt kunnskap – ikke minst
+om hvordan det norske samfunnet fungerer, slik vi har diskutert
+her nå i dag. </A>
+            <A Type="Minnrykk">Vi mener kravet om egenbetaling for tolketjenester
+etter tre års opphold i Norge ikke bidrar til bedre integrering,
+som er vårt felles mål. Et krav om egenandel kan føre til mindre bruk
+av tolk ved at brukere ikke ber om tolk selv der det er et reelt
+behov. Det kan føre til at saker avgjøres på feil grunnlag, og det
+kan også føre til at tilliten til det offentlige blir mindre, og
+at vi altså minsker forståelsen i stedet for å styrke den. En egenandel
+vil også ramme folk som allerede står overfor språkbarrierer, og
+kan føre til at de får dårligere tilgang til offentlige tjenester
+enn andre. Det kan også på sikt bidra til større sosiale forskjeller.
+Egenandel for tolketjenester vil være både komplisert og kostbart
+å administrere, og erfaringen fra Danmark etter innføringen av en
+egenbetalingsordning i 2018 viser at kostnadene til administrasjonen
+av ordningen er langt høyere enn inntektene.</A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:31:48]:</Navn> Det blir replikkordskifte.</A>
+          </Presinnlegg>
+          <Replikk Id="i1003476">
+            <A>
+              <Navn personID="EW">
+Erlend Wiborg (FrP) [11:32:00]:</Navn> Statsråden mener at Fremskrittspartiets
+forslag om egenbetaling av tolk etter tre år skal avvises. Men da
+blir spørsmålet hvor lenge skattebetalerne skal ha ansvaret. Vi
+snakker om mennesker som kan ha bodd i Norge i 10, 20, 30 år, som
+fortsatt trenger fremmedspråktolk i ordinær kontakt med det offentlige.
+Mener statsråden at det finnes en grense for hvor lenge fellesskapet skal
+betale, eller er regjeringens politikk at regningen kan sendes til
+skattebetalerne livet ut, uansett botid og egeninnsats?</A>
+          </Replikk>
+          <Replikk Id="i1003478">
+            <A>
+              <Navn personID="KJSE">
+Statsråd Kjersti Stenseng [11:32:39]:</Navn> Det er slik i Norge
+– heldigvis, vil jeg si – at fellesskapet stiller opp, og staten
+har et ansvar for å sikre at folk får gode og likeverdige tjenester.
+Det aller, aller viktigste når vi diskuterer behovet for tolk, er:
+Hva kan vi gjøre for at dette behovet blir mindre, og at vi lykkes
+bedre med at folk behersker norsk raskere enn i dag?</A>
+            <A Type="Minnrykk">Jeg mener også at det er uholdbart at folk
+bor i Norge i 10 og 20 år og ikke behersker norsk, men da må vi
+sette inn innsatsen der. Jeg tror rett og slett vi lykkes dårligere
+med integreringen dersom vi gjør det FrP nå foreslår.</A>
+            <A Type="Minnrykk">Det er ikke satt noen grense på så og så mange
+år, eller noe tak, men folk må få muligheten til å få forsvarlig
+informasjon, forstå det som blir sagt, få gode og forsvarlige helsetjenester
+og ivareta sin rettssikkerhet. Og så mener jeg at vi må gjøre veldig
+mye mer for at flere lærer norsk bedre og raskere.</A>
+          </Replikk>
+          <Replikk Id="i1003480">
+            <A>
+              <Navn personID="EW">
+Erlend Wiborg (FrP) [11:33:38]:</Navn> Alle er enig i at man skal
+ha forsvarlige helsetjenester og få god informasjon. Spørsmålet
+er: Hvem er det som skal ta regningen? Arbeiderpartiet og statsråden
+mener at en person som har bodd 20–30 år i Norge og ikke vil lære
+seg språket, skal kunne sende regningen til skattebetalerne. Det
+mener Fremskrittspartiet er dypt urimelig. Men mange innvandrere
+gjør en stor innsats for å lære seg norsk. De øver etter jobb, deltar
+på kurs og bruker språket, selv om det er vanskelig. De tar ansvar.
+Da må politikken også signalisere at denne innsatsen forventes av
+alle som har forutsetninger for det. Regjeringen advarer mot forskjellsbehandling,
+men det er forskjell på å være helt nyankommen til Norge og å ha
+hatt 20 år på seg til å lære norsk, så hvorfor mener statsråden
+at lang botid og muligheten til å lære språket ikke skal ha betydning
+for hvem som betaler tolkeregningen?</A>
+          </Replikk>
+          <Replikk Id="i1003482">
+            <A>
+              <Navn personID="KJSE">
+Statsråd Kjersti Stenseng [11:34:34]:</Navn> Det er rett og slett
+fordi jeg tror at en innføring av egenbetaling vil føre til at de
+som virkelig trenger tolk, vil bruke det i mindre grad – de vi trenger
+å forsterke innsatsen mot for å lykkes bedre med integreringen.
+For det trenger vi helt åpenbart med de som ikke behersker norsk
+og har behov for tolk. Det vil føre til at de vil stå lenger unna
+fellesskapet, og jeg tror terskelen for deltakelse og for å lykkes
+med integrering av den gruppen vil bli høyere. Så jeg er rett og
+slett uenig i at det er et forslag som vil føre til bedre integrering
+– og det er det som er målet, at flere skal delta i samfunnet, delta
+i hverdagsaktiviteter, gå på foreldremøter, forstå det som blir
+sagt – og forsterke dialogen mellom ulike myndigheter og den enkelte som
+kommer til Norge. Derfor mener jeg at dette forslaget er et dårlig
+forslag.</A>
+          </Replikk>
+          <Replikk Id="i1003484">
+            <A>
+              <Navn personID="EW">
+Erlend Wiborg (FrP) [11:35:24]:</Navn> Det som skaper ulikheter,
+er at barn vokser opp i Norge med foreldre som ikke kan norsk, foreldre
+som ikke forstår samfunnet de er del av. Selv om de får tolk på
+et foreldremøte i dag, vil foreldrene fortsatt ikke forstå samfunnet
+de har valgt å bosette seg i. Foreldrene vil ha problemer når de
+skal ha dialog med andre foreldre, med fotballklubben, med speidergruppen
+og andre. Utfordringen er at dagens regjering velger å sy puter
+under armene på folk i stedet for å stille krav. Det er det som
+er forskjellen på Fremskrittspartiet og Arbeiderpartiet i denne
+saken.</A>
+            <A Type="Minnrykk">Er det virkelig sånn at Arbeiderpartiet mener
+at når en person som har fått gratis norskundervisning, gjerne over
+flere år, og bodd i Norge i mange tiår, med alle mulighetene det har
+gitt, fortsatt ikke vil lære seg språket, skal regningen sendes
+til skattebetalerne?</A>
+          </Replikk>
+          <Replikk Id="i1003486">
+            <A>
+              <Navn personID="KJSE">
+Statsråd Kjersti Stenseng [11:36:28]:</Navn> Jeg mener det er helt
+andre tiltak og tydelige krav vi bør sette inn i situasjoner der
+folk ikke behersker språket og ikke har den forståelsen av det norske
+samfunnet som vi forventer, heller enn å innføre egenbetaling av
+tolk. Forskjellen mellom Fremskrittspartiet og Arbeiderpartiet handler
+kanskje om tiltak som skal til for å lykkes med integrering. Det
+å bare stille tydeligere krav eller å ta bort rettigheter som jeg
+mener kan bidra til god integrering, er det motsatte av god integrering.</A>
+            <A Type="Minnrykk">Jeg mener at vi skal stille opp og legge til
+rette for at folk skal beherske norsk bedre og raskere, og jeg er
+akkurat like bekymret som representanten over at folk bor i Norge
+i 10–20 år og fortsatt ikke kan norsk. Jeg mener det er der tiltakene skal
+settes inn. Ved å si at man selv må betale for å delta i arenaene,
+tror jeg vi vil oppleve at folk trekker seg enda lenger unna. Vi
+har erfaringer fra Danmark med at å administrere dette koster mer
+enn det vil gi oss i gevinst.</A>
+          </Replikk>
+          <Replikk Id="i1003488">
+            <A>
+              <Navn personID="TAGP">
+Tage Pettersen (H) [11:37:42]:</Navn> Statsråden var inne på at
+det er flere grunner til at en generell egenbetaling etter tre års
+botid kan bli lite treffsikkert, og det er noe Høyre er enig i.
+Det er samtidig et problem dersom regjeringens svar blir at dagens
+praksis i all hovedsak bare skal fortsette. Jeg var inne på språkkravsporet
+i mitt innlegg, og jeg har nå lyst til å følge opp det andre sporet
+i mitt hovedinnlegg, som handler om at vi må ta i bruk KI i langt
+større grad enn i dag. Deler av helsesektoren har allerede begynt
+med det, og ikke minst utvikles det språkmodeller som kan brukes
+i helsevesenet. Her bør det være rom for læring innenfor andre samfunnssektorer.</A>
+            <A Type="Minnrykk">Spørsmålet til statsråden blir derfor: Hvilke
+grep vil regjeringen ta for nettopp å kunne ta i bruk ny teknologi
+for tolking, også innenfor de områdene som denne statsråden har ansvar
+for?</A>
+          </Replikk>
+          <Replikk Id="i1003490">
+            <A>
+              <Navn personID="KJSE">
+Statsråd Kjersti Stenseng [11:38:35]:</Navn> Jeg er helt enig med
+representanten i at vi må se på hvordan ordningen kan bli mer effektiv
+og bidra til økonomiske besparelser – at den offentlige tolketjenesten
+blir så effektiv som mulig.</A>
+            <A Type="Minnrykk">Vi har nå et ekspertutvalg som går gjennom
+norskopplæringstilbud. Når de skal foreslå tiltak, har de fått i
+oppdrag å særlig vektlegge det som handler om digital opplæring
+og hvordan man kan bruke kunstig intelligens. Det er nye organisasjonsformer,
+det er smartere bruk av data og ny teknologi som kan bidra til at
+det blir mer effektivt, og samtidig øke kvaliteten. Det vil vi komme
+tilbake til når ekspertutvalget legger fram sine forslag.</A>
+          </Replikk>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:39:19]:</Navn> Replikkordskiftet
+er avslutta.</A>
+            <A Type="Minnrykk">Dei talarane som heretter får ordet, har òg
+ei taletid på inntil 3 minutt.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1003492">
+            <A>
+              <Navn personID="EW">
+Erlend Wiborg (FrP) [11:39:38]:</Navn> Det har blitt sagt fra både
+Arbeiderparti-regjeringen og flere andre her i dag at det vil være
+vanskelig å administrere egenbetaling for tolketjenester for folk
+som har bodd i Norge over tre år. Med respekt å melde: Det er selvfølgelig
+fullt mulig å kreve inn disse pengene. Man har i dag systemer for
+egenbetaling av veldig mange andre tjenester innenfor helsevesenet.
+Foreldre betaler hver måned SFO-regning og barnehageregning, så
+dette er selvfølgelig fullt mulig å administrere gjennom en enkel og
+ubyråkratisk ordning. Det blir altfor lett å bare skyve regningen
+over på skattebetalerne. </A>
+            <A Type="Minnrykk">Det overordnede målet med dette forslaget,
+i tillegg til å spare penger, handler imidlertid om å sørge for
+at folk faktisk lærer seg norsk. Når man bor i Norge, må man faktisk
+lære seg norsk. Det skal vi gjøre ved å tilby norskundervisning,
+tilby de virkemidlene og støtteapparatene som trengs, men vi må
+også våge å stille spørsmål. </A>
+            <A Type="Minnrykk">Det flere som argumenterer med bruk av stråmannsretorikk.
+Dette forslaget handler ikke om at mennesker som har behov for tolk,
+ikke skal få det. Spørsmålet er hvem som skal ta regningen. Jeg
+stusser når jeg hører at Arbeiderpartiets støtteparti, Rødt, mener
+at vi bruker for lite penger på tolker i Norge. Det synes jeg er
+veldig spesielt når vi vet at utgiftene har eksplodert de senere
+årene. I 2021 var det 0,8 millioner tolkeoppdrag i Norge. I fjor
+var det 1,5 millioner. Så hevder Senterpartiet at dette i stor grad
+skyldes ukrainske flyktninger. Det stemmer ikke. Av de 1,5 millioner
+tolkeoppdragene i fjor sto ukrainere for 294 000. Ukrainsk er ikke
+det språket det tolkes mest på i Norge. </A>
+            <A Type="Minnrykk">Statsråd Stenseng innrømmet nylig i en debatt
+med undertegnede at Arbeiderpartiet har vært naive i innvandrings- og
+integreringspolitikken, dermed også at politikken deres har feilet.
+Det som jeg da synes er underlig, er at Arbeiderpartiet, både i
+denne saken og i den foregående saken, viderefører den politikken
+som har feilet, og som statsråden selv kaller naiv, altså at man
+skal ha et system der mennesker som har bodd i Norge i 10, 20 og
+30 år, fortsatt skal få sine tolkeutgifter betalt av skattebetalerne.
+Jeg synes det er underlig. Jeg er imidlertid helt trygg på én ting:
+Det tar nok ikke veldig mange år før Arbeiderpartiet og Høyre snur
+i denne saken også.</A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:41:41]:</Navn> Fleire har
+ikkje bedt om ordet til sak nr. 3.</A>
+          </Presinnlegg>
+          <Referanse Id="i1003494" voteringsDato="2026-11-10" debattDato="2026-11-10" saksKartNr="3" />
+        </Sak>
+        <Sak Id="i1003496" saksKartNr="4" sakID="200489">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak
+nr. 4</Uth> [11:42:36]</Saknr>
+            <Saktittel Id="i1003500">
+              <A>Redegjørelse av justis- og beredskapsministeren
+om PST og Justis- og beredskapsdepartementets styring av PST (Det vil
+bli foreslått debatt umiddelbart etter redegjørelsen)</A>
+            </Saktittel>
+          </Sakshode>
+          <Hovedinnlegg Id="i1003502">
+            <A>
+              <Navn personID="ASTAAS">
+Statsråd Astri Aas-Hansen [11:43:01]:</Navn> Jeg vil starte med
+å takke presidentskapet for muligheten til å møte Stortinget og
+gi denne redegjørelsen. Jeg vil i dag redegjøre for regjeringens
+oppfølging av Politiets sikkerhetstjeneste, PST, på bakgrunn av
+Riksrevisjonens rapport om ressursbruk og effektivitet i PST og
+behandlingen av saken i Stortingets kontroll- og konstitusjonskomite.</A>
+            <A Type="Minnrykk">La meg starte med det viktigste: De ansatte
+i PST gjør hver eneste dag en svært viktig jobb for å forebygge,
+avverge og etterforske alvorlige hendelser som truer sikkerheten
+til land og folk. Det vil jeg også herfra takke dem for.</A>
+            <A Type="Minnrykk">Regjeringen tar utfordringene som har vært
+i PST, og kritikken fra Riksrevisjonen og Stortinget, på alvor.
+På bakgrunn av situasjonen PST har stått i, er det gjennomført omfattende tiltak
+for å styrke både PSTs evne til å løse sitt samfunnsoppdrag, og
+departementets styring av virksomheten.</A>
+            <A Type="Minnrykk">Utfordringene som beskrives i Riksrevisjonens
+undersøkelse, gjelder perioden 2019 til 2024. I denne perioden ble Norge
+utfordret av et stadig mer krevende sikkerhetspolitisk landskap,
+med Russlands fullskala invasjon av Ukraina, økt etterretningsaktivitet
+mot Norge og et mer krevende og uoversiktlig terrortrusselbilde,
+som også inkluderte et terrorangrep sommeren 2022.</A>
+            <A Type="Minnrykk">Samtidig fikk PST flere oppgaver, noe som økte
+kompleksiteten i organisasjonen. Dette satte både organisasjonen og
+styringen av PST under betydelig press. Det er nettopp derfor regjeringen
+har hatt PST som en av de tydeligste prioriteringene innenfor justissektoren,
+siden regjeringen tiltrådte.</A>
+            <A Type="Minnrykk">PSTs driftsbudsjett er økt betydelig. Fra regjeringen overtok
+i 2021 til 2026 har økningen vært på 668 mill. kr, tilsvarende 55 pst.
+I forslaget til statsbudsjett for 2027 foreslår regjeringen å styrke
+PST ytterligere, med 250 mill. kr. Dersom forslaget vedtas av Stortinget,
+innebærer det at PSTs budsjett siden 2021 samlet vil ha økt med
+om lag 80 pst.</A>
+            <A Type="Minnrykk">Jeg vil nå gå nærmere inn på de konkrete utfordringene og
+hvordan de har blitt fulgt opp:</A>
+            <A Type="Minnrykk">I 2022 ble Justis- og beredskapsdepartementet
+oppmerksom på utfordringer ved PSTs oppfølging av flere utviklingsprosjekter.
+Det førte til at departementet etablerte en særskilt styringsdialog
+for å få bedre oversikt og kontroll. Gjennom denne oppfølgingen
+ble det etter hvert avdekket utfordringer også knyttet til økonomistyringen
+i PST. Som følge av dette ble den særskilte styringsdialogen utvidet
+i 2023 til også å omfatte økonomi- og budsjettstyringen. </A>
+            <A Type="Minnrykk">Med bakgrunn i denne særskilte styringsdialogen
+har det vært ekstra viktig for regjeringen og departementet å sikre
+at PST har evne til faktisk å absorbere budsjettøkningene på en måte
+som gir bedre effekt for samfunnsoppdraget. Styrkingen av PST har
+derfor blitt gjennomført gradvis over flere år. Viktigheten av en
+gradvis styrking ble da også understreket av sjef PST, Beate Gangås,
+i den åpne kontrollhøringen i Stortinget.</A>
+            <A Type="Minnrykk">Departementet gjennomførte i 2024 en områdegjennomgang
+av økonomistyringen og budsjettsituasjonen i PST. Denne gjennomgangen
+beskrev i stor grad det samme utfordringsbildet som Riksrevisjonen
+beskriver i sin rapport, og ga grunnlag for en rekke forbedringstiltak
+både i departementet og i PST. Områdegjennomgangen, som er gradert
+BEGRENSET, ble oversendt til Stortinget.</A>
+            <A Type="Minnrykk">Som følge av gjennomgangen ble det etablert
+nye rutiner, bedre samarbeidsstrukturer, styrket informasjonsdeling
+og tydeligere prosesser for styring og oppfølging mellom departementet
+og PST. Vi ser resultater av disse grepene. PST har forbedret sin
+interne styring, bl.a. gjennom etablering av en egen flerårig virksomhetsplan.
+Departementet har fått bedre oversikt over PSTs økonomi, ressursbruk
+og utviklingsprosjekter. </A>
+            <A Type="Minnrykk">Vi utarbeider nå en årlig budsjettanalyse som
+gir et mer langsiktig og helhetlig bilde av PSTs økonomiske situasjon. Samtidig
+arbeider vi med langsiktig styring og utvikling av PST. Dette inkluderer
+utvikling av styringsinformasjon, som skal bidra til langsiktig,
+forutsigbar og effektbasert styring av PST. Målet er å styrke grunnlaget
+for prioriteringer og ressursbruk, som bidrar til størst mulig forutsigbarhet,
+måloppnåelse og effekt.</A>
+            <A Type="Minnrykk">Kontraterrorarbeidet er styrket. Som ledd i
+oppfølgingen av 25. juni-utvalgets rapport ble PST bl.a. tilført
+øremerkede ressurser til forebyggende kontraterrorvirksomhet. PST
+har samtidig endret praksis og senket terskelen for å opprette forebyggende
+saker. Antallet slike saker har økt.</A>
+            <A Type="Minnrykk">Regjeringen har også oppdatert PSTs juridiske
+virkemidler, så de er bedre tilpasset trusselbildet. PSTs rolle
+som innenlandsk etterretningstjeneste er lovfestet. Tjenesten er gitt
+adgang til å behandle åpent tilgjengelig informasjon, bidrag til
+skadelige påvirkningsoperasjoner på vegne av fremmed etterretning
+er kriminalisert, og hjemmelen for skjult kameraovervåking med mobile
+kamera er på plass.</A>
+            <A Type="Minnrykk">Vi har hatt på høring regelverksendringer som
+har til formål å gi PST nye metoder for å forebygge sabotasjehandlinger
+og brudd på regelverket om eksportkontroll, samt hastekompetanse
+til å forebygge ulovlig etterretningsvirksomhet, sabotasje og brudd
+på eksportkontrollregelverket. Regjeringen følger nå opp høringen.</A>
+            <A Type="Minnrykk">Regjeringen vurderer fortløpende om det er
+behov for ytterligere endringer i regelverket, slik at PST på best
+mulig måte kan oppfylle sitt samfunnsoppdrag. For eksempel sendte vi
+2. november på høring forslag om nye straffebestemmelser som vil
+ramme ulike bidrag i potensielt skadelig etterretningsvirksomhet,
+samt strengere straff for brudd på spionasjeparagrafer.</A>
+            <A Type="Minnrykk">Vi har også fulgt opp utfordringene knyttet
+til PSTs arbeid innen beskyttelse av myndighetspersoner. Regjeringen styrket
+dette oppdraget varig med 52 mill. kr fra 2024. Samtidig er ekstraordinære
+kostnader løpende blitt kompensert. Departementet har tett dialog
+med PST og andre relevante aktører om hvordan oppdraget kan løses
+mest mulig effektivt.</A>
+            <A Type="Minnrykk">Den viktigste konklusjonen i dag er ikke at
+PST har hatt utfordringer. Det erkjenner vi. Dette er det godt redegjort
+for i områdegjennomgangen og i Riksrevisjonens rapport. Den viktigste
+konklusjonen er at utfordringene er identifisert, fulgt opp og møtt
+med konkrete tiltak.</A>
+            <A Type="Minnrykk">PST står i dag bedre rustet enn i perioden
+Riksrevisjonen undersøkte. Tjenesten har fått økte ressurser, tydeligere
+styring, bedre økonomikontroll, mer langsiktig planlegging og bedre
+juridiske virkemidler til å møte et stadig mer krevende trusselbilde.</A>
+            <A Type="Minnrykk">Det betyr ikke at arbeidet er ferdig. Den sikkerhetspolitiske
+situasjonen er fortsatt svært krevende. Etterretning og forsøk på
+påvirkning fra fremmede stater er en kontinuerlig utfordring, og
+vi må være forberedt på både terrorangrep og mulige sabotasjeaksjoner
+i Norge. Dette trusselbildet kan også ytterligere forverre seg,
+og det kan skje raskt. Derfor må også PST videreutvikles kontinuerlig.</A>
+            <A Type="Minnrykk">Regjeringen vil fortsette å styrke PST, videreutvikle
+styringen og sikre at tjenesten har de ressursene, den kompetansen
+og de juridiske virkemidlene som er nødvendige for å beskytte Norge
+og norske interesser. Vi har lært av de utfordringene som er avdekket,
+vi skal fortsatt identifisere og rette opp det som ikke er godt
+nok, og vi skal sørge for at PST står best mulig rustet til å løse
+sitt samfunnsoppdrag i årene som kommer.</A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:53:19]:</Navn> Presidenten
+vil no i samsvar med Stortingets forretningsorden § 45 opna for
+ein kommentarrunde, avgrensa til eitt innlegg på inntil 5 minutt
+frå kvar partigruppe og avsluttande innlegg frå statsråden. </A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1003504">
+            <A>
+              <Navn personID="JOEH">
+Jon Engen-Helgheim (FrP) [11:53:43]:</Navn> Jeg vil først takke
+justisministeren for redegjørelsen, men vil også påpeke at jeg fortsatt
+sitter igjen med noen ubesvarte spørsmål. Jeg er fortsatt usikker
+på om alvoret har glidd helt inn hos regjeringen. Regjeringen har
+selv omtalt sikkerhetssituasjonen som den mest alvorlige siden andre
+verdenskrig, og dette har bl.a. ført til at vi i Stortinget har
+blitt enige om en massiv styrking av Forsvaret. Det er bra, og det
+støttes fullt ut. Men det er åpenbart at andre områder ikke har
+fått den samme oppmerksomheten, og da tenker jeg spesielt på den
+sivile beredskapen. </A>
+            <A Type="Minnrykk">Forsvaret forbereder seg på noe som kanskje
+kan komme i framtiden, og fram til da er det politiet og særdeles
+PST som skal håndtere situasjonen. I politiet står de allerede midt
+i sine alvorligste utfordringer, uten at de har fått tid til å forberede seg.
+Vi vet nå, som også ministeren var inne på, at dette gikk veldig
+galt, at regjeringen ikke evnet verken å styre eller finansiere
+PST slik de burde. </A>
+            <A Type="Minnrykk">Det er viktig å ha en ting klinkende klart
+for seg: Av sikkerhetshensyn er det bare regjeringen som sitter
+på kunnskap om hva PST trenger. Undertegnende har stilt spørsmål
+til regjeringen om hva som er PSTs nåværende finansieringsbehov,
+men har fått til svar at dette er unntatt offentlighet. De sitter
+altså på kunnskap om hva PST har behov for, som vi ikke får svar
+på når vi spør. Men i VG kan vi lese at PST ba om 400 mill. kr og
+bare fikk 100 mill. kr. Det er urovekkende dersom VG er bedre informert
+enn Stortinget om hva som er PSTs behov. </A>
+            <A Type="Minnrykk">Det hviler et ekstra ansvar på regjeringen
+i dette spørsmålet, et ansvar som regjeringen tidligere har vist
+at de ikke har håndtert, og det er veldig bekymringsfullt. Dersom
+regjeringen ikke evner å ta den oppgaven, må de snarest gi beskjed
+til Stortinget om det. Stortinget har ikke i dag noen forutsetninger
+for å vite om gapene – som har blitt påpekt både fra Riksrevisjonen
+og av Stortinget tidligere – er lukket. </A>
+            <A Type="Minnrykk">En ting som gjør meg litt ekstra bekymret,
+er statsministerens reaksjon på Stortingets kritikk etter granskingsrapporten.
+Statsministeren sa fra denne talerstolen at det heller ikke var
+andre partier som hadde bevilget tilstrekkelig med midler til PST
+i sine alternative budsjetter, og insinuerte dermed at kritikken
+ikke var berettiget. Dette vitner om en statsminister som ikke evner
+å ta lærdom, og som heller ikke forstår regjeringens rolle i denne
+viktige saken. Det er kun regjeringen som sitter på kunnskapen om
+hva PST trenger, og dersom regjeringen ikke evner å ta ansvaret,
+må som sagt Stortinget informeres om dette på egnet måte. Det kan
+gjøres i lukkede møter. </A>
+            <A Type="Minnrykk">Justisministeren redegjorde for at regjeringen
+mener de har tilført midler til PST, men dette handler ikke om at
+regjeringen stadig reselger de samme pengene og påplussingene til PST.
+Det vesentlige er å få vite om gapet i finansieringsbehov er dekket
+eller ikke. Et sentralt spørsmål er f.eks. om det fortsatt er slik
+at beskyttelse av myndighetspersoner går ut over PSTs kapasitet
+på andre områder. </A>
+            <A Type="Minnrykk">Det som også er klart etter granskingen, er
+manglende styring fra regjeringen. I dag har vi en justisminister
+som er veldig opptatt av ikke å detaljstyre politiet. Det er vel
+og bra, men når frykt for detaljstyring i realiteten fører til manglende styring,
+får vi et problem. I dag ser vi stadig varsler om at ressursene
+ikke står i stil til oppgavene i politiet, og det er grunn til å
+frykte at regjeringen i stedet for å fikse problemene i PST, har
+satt hele politiet i samme kritiske situasjon som PST var i, og
+det er veldig alvorlig. </A>
+            <A Type="Minnrykk">Til slutt vil jeg be om at redegjørelsen sendes
+komité for behandling.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1003506">
+            <A>
+              <Navn personID="MHL">
+Mari Holm Lønseth (H) [11:58:53]:</Navn> Først vil jeg si at jeg
+er glad for at justisministeren kommer hit og redegjør for Stortinget
+etter at Høyre ba om å få en sånn redegjørelse og en debatt om det
+her i Stortinget. Det er ikke mange måneder siden vi sto her i salen
+og regjeringen fikk kritikk for den tilstanden som er i PST, og
+for styringen av PST. Til tross for det står vi en situasjon hvor
+Stortinget ser ut til å få mest informasjon om tilstanden i PST
+gjennom VG og mediene, ikke gjennom saker til Stortinget. </A>
+            <A Type="Minnrykk">Den sikkerhetspolitiske situasjonen er mye
+mer spent og har blitt dramatisk forverret etter fullskalainvasjonen
+i Ukraina. Fremmede aktører som ikke vil oss vel, prøver å skape
+uro og utrygghet, og hybride angrep, spionasje og sabotasje har blitt
+en del av hverdagen. Når truslene blir mye mer alvorlige, må også
+vår respons være tydeligere og mer kraftfull. </A>
+            <A Type="Minnrykk">Høyre mener at politiet og PST ikke er satt
+i stand til å håndtere det hybride trusselbildet vi lever i. VGs
+avsløringer viser også at PST kun har kapasitet til å gå inn i to–fire
+høyest prioriterte trusler mot Norge. Sånn som det blir beskrevet
+i mediene, betyr det at mulige terrorplaner konkurrerer med spionasje,
+sabotasje og påvirkningsoperasjoner. I tillegg viser VGs saker at
+det er for mye usikkerhet rundt planlegging og kostnadsdekning av
+livvaktsoppdrag. </A>
+            <A Type="Minnrykk">Med det bakteppet er jeg egentlig litt overrasket
+over at det i redegjørelsen fra justisministeren ikke varsles noe
+særlig nytt, men at det vises til at det som allerede er iverksatt,
+er tilstrekkelig. </A>
+            <A Type="Minnrykk">I tillegg vet vi at det er i politidistriktene
+at mange av sakene om nettopp hybride trusler blir håndtert. Det
+har blitt færre politifolk i politidistriktene de siste årene. Åtte
+av tolv politidistrikter sier at de har dårligere operativ kapasitet
+nå enn tidligere, og en annen undersøkelse viser at distriktene ikke
+står bedre rustet til å håndtere en spent sikkerhetspolitisk situasjon.
+Hele ti av tolv politidistrikt svarer nei på spørsmålet om de har
+mulighet til å følge opp potensielt sikkerhetstruende hendelser.
+Det viser at det er svært alvorlig, og at vi er nødt til å legge
+om kursen for å ta tryggheten tilbake. Da er vi også nødt til å
+styrke politiet og PST. </A>
+            <A Type="Minnrykk">Det er også overraskende at regjeringen gjentar
+at det ligger an til å bli 80 pst. vekst i PSTs budsjetter. Våre
+beregninger viser at det er nærmere 15 pst. vekst i PST de siste
+årene. Det viser at Arbeiderpartiet blåser opp tallene og ikke tar
+høyde for den ekstreme kostnadsveksten som har vært etter at krigen
+brøt ut i Ukraina. Høyre kommer til å foreslå å styrke PST med ytterligere
+50 mill. kr når vi skal behandle budsjettet. </A>
+            <A Type="Minnrykk">Når det er sagt: Alle disse utfordringene løses
+ikke med penger. Det trengs tydeligere ledelse og prioritering av
+PSTs kjerneoppgaver knyttet til kontraterror, sabotasje og spionasje.
+Vi vet at regelverksutviklingen har gått for sakte. Jeg er veldig
+glad for at regjeringen nylig sendte på høring et forslag om modernisering
+av den såkalte spionbestemmelsen i straffeloven, men det gjør de
+altså etter at Stortinget har vedtatt at de skal gjøre det, og lenge
+etter at PST selv ba om at det skulle gjøres. </A>
+            <A Type="Minnrykk">Vi vet at også annen regelverksutvikling har
+gått for sakte. For eksempel er ikke hjemler som skal brukes til
+skjulte metoder, på plass, selv om behovet ble meldt i 2021. </A>
+            <A Type="Minnrykk">Jeg vil også knytte noen kommentarer til PSTs
+livvaktsoppdrag. Jeg er litt overrasket over at det ikke ble brukt
+mer tid på det i redegjørelsen, for det henger en usikkerhet ved
+om det i praksis er sånn at livvaktsoppdraget går på bekostning
+av f.eks. kontraterror. Det er veldig viktig at vi har en god livvakttjeneste,
+men vi må legge til rette for mer forutsigbarhet for PST når det
+gjelder å få dekket kostnadene til dette. Det hadde vært en idé
+å tenke på om ikke også bestillerne av oppdraget skal være med og
+ta hele eller deler av kostnaden, nettopp for å gi PST den forutsigbarheten
+de trenger. </A>
+            <A Type="Minnrykk">Det er også verdt å merke seg at Stortinget
+allerede har vedtatt at regjeringen skal komme med tiltak for å
+sikre PSTs livvaktsoppdrag, at det ikke skal gå på bekostning av
+andre kjerneoppgaver, og at det skal vurderes andre kostnadsreduserende
+tiltak. Det stemte for øvrig Arbeiderpartiet imot. Jeg imøteser
+likevel at det forslaget blir fulgt opp raskt. </A>
+            <A Type="Minnrykk">Jeg støtter komitéleder Jon Helgheims forslag
+om at redegjørelsen sendes til komiteen for behandling.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1003508">
+            <A>
+              <Navn personID="BENBEN">
+Bent-Joacim Bentzen (Sp) [12:04:01]:</Navn> Jeg vil begynne med
+å berømme statsråden for å holde denne redegjørelsen i Stortinget.
+Det er viktig og riktig. </A>
+            <A Type="Minnrykk">Fra Senterpartiets side synes jeg det er bra
+at det både er identifisert og foretatt endringer i styring av økonomi
+og regelverk for PST. PST beskriver et alvorlig trusselbilde i sin årlige
+vurdering, som vi må ta på alvor, og i det bildet er det viktig
+at Politiets sikkerhetstjeneste har tillit. Gjennom den årlige vurderingen
+og sin trusselvurdering gir de befolkningen et felles situasjonsbilde
+og en felles situasjonsforståelse, som er utrolig viktig i den tiden
+vi lever i. </A>
+            <A Type="Minnrykk">Senterpartiet er, som også andre partier har
+nevnt, utålmodig i styrkingen av sivil beredskap, og spesielt motstandskraften
+mot hybride trusler, som vi vet at vi står overfor.</A>
+            <A Type="Minnrykk">Den sikkerhetspolitiske situasjonen er alvorlig.
+Russisk etterretning er aktiv og har vært aktiv over mange år, og
+har hatt Norge som mål, kanskje spesielt i nord, der jeg kommer fra.
+Vi ser anholdelse av personer, både i akademia og i tilknytning
+til militære installasjoner. </A>
+            <A Type="Minnrykk">Senterpartiet støtter derfor at saken behandles
+i Stortinget og sendes til komitébehandling.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1003510">
+            <A>
+              <Navn personID="LARHEN">
+Lars Lønberg Henriksen (MDG) [12:05:39]:</Navn> MDG vil først rette
+en takk til justisministeren for å ha tatt initiativ til denne redegjørelsen.
+Vi håper det ikke blir siste gang. </A>
+            <A Type="Minnrykk">Vi har dessverre ikke blitt trygget på at alvoret
+fra Riksrevisjonens rapport er sunket inn. Det meste her var gammelt nytt.
+Hvordan skal Stortinget vite at tiltak er gode nok, og at budsjettmidler
+er store nok? Kan statsråden garantere at årets budsjett vil være
+tilstrekkelig for å tette ressursgapet hos PST? </A>
+            <A Type="Minnrykk">I vår var det et enstemmig storting som stilte
+seg bak Riksrevisjonens anbefalinger. Anbefalingene handlet om å sørge
+for at PSTs økonomiske ressurser, kapasitet, verktøy og virkemidler
+er i tråd med mandatet og trusselbildet, og at beskyttelse av myndighetspersoner
+ikke går på bekostning av andre kjerneoppgaver, som kontraterror
+og kontraetterretning. </A>
+            <A Type="Minnrykk">MDG sikret samtidig flertall for kritikk for
+måten PST var blitt fulgt opp av flere statsråder og regjeringer
+– for ikke å lytte til en presset organisasjon og for ikke å legge
+fram budsjetter som svarer ut behovet for å dekke disse oppgavene. Det
+gjorde vi fordi vi først og fremst er motivert av et ønske om å
+sikre Norge best mulig, uavhengig av partipolitiske motivasjoner
+– ikke av å ha en pekelek der man peker på den andre politiske siden
+for hva som har gått galt, framfor å finne de felles beste løsningene
+for oss alle. Vi gjorde det også fordi vi mener alvoret i rapporten
+var så stort. Gapet mellom det PST selv mener er nødvendig kapasitet,
+og det de i realiteten fikk, ble større – ikke mindre – for hvert
+år. For oss er det åpenbart at en kraftig styrking av grunnbevilgningen
+til PST skulle vært på plass for mange år siden. </A>
+            <A Type="Minnrykk">Nylig har VG skrevet om at stort arbeidspress
+og manglende bemanning har ført til en betydelig belastning på enkeltansatte
+hos PST. Dette mener vi er et alvorlig symptom på ressursmangel,
+og da lurer vi på: Hvordan skal statsråden sikre at PST har gode
+og vedvarende fagmiljøer? </A>
+            <A Type="Minnrykk">I høst er det ikke bare vi som har høye forventninger
+til å se regjeringen levere på Stortingets vedtak. Vi mener vi skylder
+det til alle de ansatte i PST, som går på jobb hver dag og strekker
+seg til sitt ytterste for å holde både myndighetspersoner og alle
+oss andre trygge fra både stater og enkeltpersoner som ikke vil
+oss vel. </A>
+            <A Type="Minnrykk">Vi opplever at statsrådens redegjørelse her
+i dag, samt 250 mill. kr mer i budsjettforslaget til regjeringen,
+er et steg i riktig retning. For å være sikre på at vi er på riktig
+vei, vil MDG likevel jobbe for minst 300 mill. kr, og dette er noe
+vi tar med oss inn i de pågående forhandlingene. Er det nok? Det aner
+vi ikke. </A>
+            <A Type="Minnrykk">MDG kommer til å være en åpen og samarbeidsvillig partner
+for alle som ønsker å se på hvordan vi kan forbedre nasjonal sikkerhet
+i tiden framover. Det viktigste for oss er å skape mest mulig trygghet
+for befolkningen og å sikre at institusjonene som skal trygge oss,
+fungerer best mulig. Derfor ser vi fram til å samarbeide tett med
+regjeringen om hvordan vi kan gjøre PST enda bedre i tiden framover,
+samtidig som vi også er åpne for å være en tydelig opposisjon i
+de tilfellene hvor vi mener regjeringen ikke gjør nok, eller gir
+gode nok svar. </A>
+            <A Type="Minnrykk">Vi strekker derfor ut en åpen hånd til alle
+som ønsker å samarbeide til det beste for vår felles nasjonale sikkerhet. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1003512">
+            <A>
+              <Navn personID="JUNGRU">
+June Trengereid Gruer (A) [12:09:22]:</Navn> Vi lever i den mest
+alvorlige sikkerhetspolitiske situasjonen siden andre verdenskrig.
+Truslene vi møter i dag, særlig siden fullskalainvasjonen av Ukraina
+i 2022, skiller seg fra de truslene vi har levd med tidligere.</A>
+            <A Type="Minnrykk">Noen av de som har kjent dette aller mest,
+er de ansatte i Politiets sikkerhetstjeneste, PST. Sikkerhetstjenesten
+har alltid vært viktig, men i en stadig mer urolig verden er det
+lenge siden oppgavene har vært så omfattende og så avgjørende som
+nå. For så lenge det ikke er krig, er det PST som har hovedansvaret
+for å håndtere de mest alvorlige truslene mot rikets sikkerhet.
+Sikkerhetstjenesten skal møte statlig spionasje og sabotasje, den
+skal forebygge terror og ekstremisme, og den skal beskytte våre
+myndighetspersoner.</A>
+            <A Type="Minnrykk">La meg derfor starte med å slå én ting fast:
+PST og de ansatte gjør en skikkelig viktig jobb for Norges sikkerhet.
+Det understrekes av at PST selv har gått ut i offentligheten og
+sagt at de har avverget terror på norsk jord. Det skal vi være glade for,
+og det minner oss på hva som faktisk står på spill dersom tjenesten
+ikke har kapasiteten eller verktøyene den trenger.</A>
+            <A Type="Minnrykk">Med dette som bakteppe blir alvorligheten av
+rapporten som kom tidligere, om situasjonen i PST fra 2019 til 2024, bare
+understreket. Rapporten fortalte om en etat med store utfordringer,
+og dette er en etat som naturligvis ikke kan gå ut og si: Hvis ikke
+vi får mer, ja, da vil det få konsekvenser. Det er også derfor vi
+som politikere har et særskilt ansvar for å lytte når PST peker
+på kapasitetsutfordringer og behov for nye virkemidler.</A>
+            <A Type="Minnrykk">Jeg er glad for at dette ansvaret blir tatt
+– for det første ved at regjeringen begynte styrkingen av PST før
+rapporten kom, videre ved at et samlet storting sluttet seg til
+riksrevisjonsrapportens konklusjoner, vurderinger og anbefalinger før
+sommeren, og ved at statsråden i dag kommer til Stortinget for å
+fortelle hvordan man konkret har fulgt opp vedtakene Stortinget
+gjorde.</A>
+            <A Type="Minnrykk">Regjeringen har sørget for store budsjettøkninger
+for PST og utarbeider nå en årlig budsjettanalyse som gir et langsiktig
+og helhetlig bilde av PSTs økonomiske situasjon. Bare i årets forslag
+foreslås det en økning på 250 mill. kr. Med det utgangspunktet vil
+PST, fra Støre-regjeringen overtok i 2021, ha fått økt sine budsjetter
+med 80 pst. Det er viktig.</A>
+            <A Type="Minnrykk">Samtidig viste rapporten at det kreves mer
+enn kun penger til PST. Det handler om hvordan PST styres, hvilke
+verktøy PST har, og om lovverket er tilpasset truslene vi faktisk står
+overfor. Derfor er det viktig at også styringsdialogen er fulgt
+tettere opp, at terskelen for å opprette forebyggende saker er senket,
+og at lovendringer som PST lenge har etterspurt, nå følges opp.
+Mange av dem er sendt på høring.</A>
+            <A Type="Minnrykk">La meg trekke fram ett eksempel: Bestemmelsene
+våre om ulovlig etterretningsvirksomhet ble laget for et annet trusselbilde
+enn det vi møter i dag – faktisk for mange tiår siden, da vi tenkte
+på spionasje som noe man først og fremst gjør for å få tak i statshemmeligheter.
+Men moderne etterretningsvirksomhet fungerer ikke alltid slik. I
+dag vet vi at fremmede etterretningstjenester kan være interessert
+i kunnskap om kritisk infrastruktur, teknologimiljøer, politiske
+prosesser eller enkeltpersoner. Hver enkelt av opplysningene trenger
+ikke å være hemmelig, men når man ser dem i sammenheng, kan informasjonen
+være både verdifull og i verste fall skadelig for norske sikkerhetsinteresser.</A>
+            <A Type="Minnrykk">Når trusselen forandrer seg, må også lovverket
+følge etter. Derfor er det viktig at forslaget til nye bestemmelser
+nå er sendt på høring. Målet må være at PST har virkemidler som faktisk
+er tilpasset dagens trusselbilde, samtidig som vi ivaretar rettssikkerheten
+og de grensene som skal gjelde for statens maktbruk.</A>
+            <A Type="Minnrykk">Så vi er i dag på et bedre sted enn vi var
+da regjeringen overtok i 2021. Det betyr ikke at jobben er ferdig.
+Tvert imot synes jeg statsråden sa det veldig godt: Vi har lært
+av de utfordringene som er avdekket. Vi skal fortsette å identifisere og
+rette opp det som ikke er godt nok.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1003514">
+            <A>
+              <Navn personID="HANASK">
+Hans Edvard Askjer (KrF) [12:14:54]:</Navn> Takk til statsråden
+for redegjørelsen. Som flere har vært inne på, står Norge i den
+mest alvorlige sikkerhetspolitiske situasjonen siden annen verdenskrig.
+Likevel har vi styrt vår viktigste innenlandske sikkerhets- og etterretningstjeneste
+som om verden rundt oss fortsatt var preget av stabilitet og forutsigbarhet. Det
+er det vanskelig å kalle noe annet enn naivt. </A>
+            <A Type="Minnrykk">Trusselen mot Norge kommer ikke først og fremst
+som stridsvogner over grensen. Den kommer som sabotasje, cyberangrep,
+påvirkningsoperasjoner, fremmed etterretning og bruk av kriminelle
+nettverk. Enkelthendelser kan hver for seg virke ubetydelige. Faren
+blir først synlig når informasjonen innhentes, analyseres og settes
+sammen. Derfor trenger Norge et PST som ligger i forkant. </A>
+            <A Type="Minnrykk">Men Riksrevisjonen konkluderte med at PST i
+relativt begrenset grad har fylt rollen som nasjonal etterretningstjeneste,
+og at arbeidsmåten hovedsakelig har vært reaktiv. Det er alvorlig. </A>
+            <A Type="Minnrykk">I sitt alternative budsjett for inneværende
+år økte KrF bevilgningen med 300 mill. kr, og også i år kommer vi
+til å plusse på med flere hundre millioner i vårt alternative budsjett. </A>
+            <A Type="Minnrykk">Gjennom arbeidet i justiskomiteen og møter
+med våre nordiske naboer har jeg sett hvordan andre land tar innover seg
+at sikkerhetssituasjonen er grunnleggende endret. Norge skal ikke
+ukritisk kopiere andre, men vi kan heller ikke tillate oss å være
+Nordens mest naive land når aktørene som truer oss, blir stadig
+mer profesjonelle, offensive og grenseoverskridende. PST må ha økonomiske
+muskler, tilstrekkelig personell, moderne teknologi og kapasitet
+til analyse og etterretning. Så det handler altså ikke bare om penger.
+Regjeringen må sørge for at personellkrevende operative oppgaver
+ikke spiser opp kapasiteten PST trenger til strategisk etterretning, kontraetterretning
+og kontraterror. </A>
+            <A Type="Minnrykk">KrF har som sagt vært villig til å prioritere
+PST økonomisk. Men vi trenger også tydeligere prioritering, bedre
+organisering og sterkere politisk styring. For Norge har ikke råd
+til å oppdage truslene først når skaden har skjedd. PST må ha kapasitet
+til å oppdage mønstre, forstå intensjoner og varsle myndighetene
+før trusselen materialiserer seg. </A>
+            <A Type="Minnrykk">Mitt spørsmål, og sikkert Norges spørsmål,
+til justisministeren er derfor: Kan statsråden forsikre Stortinget
+om at PST faktisk har kapasitet til å arbeide strategisk og forebyggende,
+og at disse avgjørende oppgavene ikke lenger blir fortrengt av andre
+oppgaver? For i dagens sikkerhetssituasjon holder det ikke at PST
+er på vei. Norge trenger en sikkerhetstjeneste som ligger i forkant
+– nå. </A>
+            <A Type="Minnrykk">KrF støtter også å sende redegjørelsen til
+komiteen for videre behandling.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1003516">
+            <A>
+              <Navn personID="ASTAAS">
+Statsråd Astri Aas-Hansen [12:19:01]:</Navn> Takk til representantene
+for denne ordvekslingen, denne debatten. Det er viktig og betydningsfullt
+at vi diskuterer ressurssituasjonen og effektiviteten i den hemmelige
+tjenesten som PST er. PST arbeider i størst grad i det skjulte.
+Det er en tjeneste som i kraft av sitt samfunnsoppdrag har tilgang
+til inngripende metoder. De har inngripende fullmakter. Det er sånn
+sett en tjeneste som virkelig må være underlagt både styring og
+kontroll. At en har diskusjoner knyttet til dette i parlamentet,
+er viktig for den demokratiske kontrollen av den hemmelige tjenesten
+og også for å sikre at tjenesten har den oppmerksomheten den trenger
+for å få utøvd sitt samfunnsoppdrag i tråd med det som både storting
+og regjering forventer. </A>
+            <A Type="Minnrykk">Det er kommet spørsmål knyttet til PSTs kapasitet,
+til budsjettforslaget som er lagt fram for 2027. Det er også blitt bedt
+om at jeg i kraft av min stilling kommer med forsikringer. Vi har
+lagt fram det budsjettet som vi mener er nødvendig for en ytterligere
+styrking av PST i lys av den risikoen og trusselsituasjonen som
+vi står i. Alle i denne sal vet at det aldri er mulig å gi garantier
+for at man ikke rammes. I den grad en skulle gjort det, hadde vi
+– dere som folkevalgte, jeg som del av den utøvende makten – satt
+oss i den situasjonen at vi både bevilger og gir lovhjemler som
+i iveren etter å beskytte oss mot trusler og mot autoritære regimer
+samtidig flytter oss bort fra det demokratiet som PST skal hegne
+om. Om dette er et budsjett som vi mener er det riktige å legge
+fram for Stortinget som bevilgende myndighet? Det er det.</A>
+            <A Type="Minnrykk">Jeg vil også si at når det gjelder en hemmelig
+tjenestes kapasitet, er det også informasjon som er gradert. Det
+kjenner representantene til. Det betyr at vi ikke står i denne salen
+og snakker i detalj om hvilke kapasiteter en tjeneste har. Det gjør en
+heller ikke i media. Det er informasjon som andre som ikke vil oss
+vel, vil være svært interessert i å få tak i, og det er noe verken
+en statsråd eller andre fremtredende representanter for denne nasjonen
+skal bidra til å dele. Derfor er jeg glad for at vi har de ordningene
+som gjør at vi kan orientere Stortinget, som vi gjør i forbindelse
+med de årlige trussel- og risikovurderingene, og Stortinget er rigget
+for å ta imot også gradert informasjon. </A>
+            <A Type="Minnrykk">Som flere talere har påpekt, er PST en av flere
+sivile aktører med ansvar for Norges sikkerhet. Da er det viktig,
+i min styring og ledelse, at jeg også legger til rette for at PST
+kan dele informasjon og dele fenomenkunnskap, sånn at også andre
+er i stand til å bidra til beskyttelse av Norge og alle oss som
+bor her. Jeg jobber sammen med PST for å identifisere og prioritere
+behov for virkemidler som teknologi, metoder og regelverk, f.eks.
+knyttet til ressurs- og regelverksutvikling. Dette er noe som har
+hatt min store oppmerksomhet hele perioden jeg har sittet, og dette
+er et ansvar som jeg er meg dypt bevisst også framover. Takk for
+debatten. </A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [12:24:05]:</Navn> Kommentarrunden
+er dermed avslutta. Presidenten vil foreslå at justis- og beredskapsministerens
+utgreiing blir send justiskomiteen. – Det er vedteke.</A>
+            <A Type="Minnrykk">Med det er dagens kart debattert ferdig. Stortinget
+tek no pause fram til votering kl. 15.</A>
+          </Presinnlegg>
+          <Merknad>
+            <Avbrutt>
+              <A align="center">Stortinget tok pause i forhandlingane
+kl. 12.25.</A>
+            </Avbrutt>
+            <Handling>
+              <A align="center">------</A>
+              <A align="center">Stortinget gjenopptok forhandlingene kl. 15.</A>
+              <A>President: <Uth Type="Sperret">Morten Stordalen</Uth></A>
+            </Handling>
+          </Merknad>
+        </Sak>
+        <VoteringerStart>
+          <Tittel>Votering</Tittel>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [15:02:05]:</Navn> Stortinget
+går da til votering over sakene på dagens kart.</A>
+            <A Type="Minnrykk">Sak nr. 1 var redegjørelse.</A>
+          </Presinnlegg>
+          <Voteringer Id="i1003518" saksKartNr="2" debattDato="2026-11-10" tidspunkt="1503" sakID="200280">
+            <Sakdel>
+              <Tittel>Votering i sak nr. 2,
+debattert 10. november 2026</Tittel>
+              <A Id="i1003520">Innstilling fra kommunal- og forvaltningskomiteen
+om Representantforslag fra stortingsrepresentantene Erlend Wiborg,
+Rune Midtun, Helge André Njåstad og Bjørn Larsen om en tydelig og
+forpliktende integreringskontrakt (Innst. 22 S (2026–2027), jf.
+Dokument 8:275 S (2025–2026))</A>
+              <Referanse Id="i1003522" debattDato="2026-11-10" saksKartNr="2" />
+              <Presinnlegg>
+                <A>
+                  <Navn>Presidenten:</Navn> Under debatten har Erlend
+Wiborg satt fram seks forslag på vegne av Fremskrittspartiet.</A>
+                <A Type="Minnrykk">Forslag nr. 1 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen sørge for
+at det innføres en tydelig og forpliktende integreringskontrakt
+for alle ikke-vestlige flyktninger, asylsøkere og familiegjenforente.
+Kontrakten skal være obligatorisk å signere.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 2 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen sørge for
+at en integreringskontrakt for alle ikke-vestlige flyktninger, asylsøkere
+og familiegjenforente skal inneholde krav om å anerkjenne norske
+lover, regler og verdier. Det skal tydeliggjøres at Norge er et
+sekulært samfunn, bygd på demokratiske prinsipper som likestilling
+mellom kjønn, muligheten til å utøve religionsfrihet uten tvang,
+at ytringsfrihet skal respekteres, og at dette inkluderer kritikk
+av deres egen religion, og at man skal anerkjenne de rettsstatlige
+prinsippene i Norge.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 3 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen sørge for
+at en integreringskontrakt for alle ikke-vestlige flyktninger, asylsøkere
+og familiegjenforente inkluderer innhold om barneoppdragelse i Norge.
+Den skal presisere at enhver form for barneoppdragelse skal skje
+uten vold eller tvang, og dette inkluderer negativ sosial kontroll
+og æreskrenkelser.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 4 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen sørge for
+at en integreringskontrakt for alle ikke-vestlige flyktninger, asylsøkere
+og familiegjenforente inneholder krav og forventninger knyttet til
+arbeid og utdanning. Alle som signerer kontrakten, skal forplikte
+seg til aktivt å skaffe seg et arbeidsforhold eller utdanning. Det
+skal tydeliggjøres at en rekke rettigheter fordrer at den som signerer, er
+i et arbeidsforhold eller under utdanning.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 5 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen sørge for
+at brudd på en integreringskontrakt for alle ikke-vestlige flyktninger, asylsøkere
+og familiegjenforente skal få tydelige konsekvenser. Kontrakten
+skal knyttes opp mot retten til ytelser, stønader, trygder, retten
+til å få innvilget familiegjenforening, rett til sekundærbosetting
+og rettigheter knyttet til et eventuelt statsborgerskap og oppholdstillatelse.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Forslag nr. 6 lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen sørge for
+at enhver ikke-vestlig innvandrer som ankommer Norge, og som ikke signerer
+på en integreringskontrakt for alle ikke-vestlige flyktninger, asylsøkere
+og familiegjenforente, umiddelbart får avslag på søknad om oppholdstillatelse
+og returneres til hjemlandet eller et trygt tredjeland.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Det voteres alternativt mellom disse forslagene
+og komiteens innstilling.</A>
+                <A Type="Blanklinjeminnrykk">Komiteen hadde innstilt til Stortinget
+å gjøre følgende</A>
+              </Presinnlegg>
+            </Sakdel>
+            <VedtakS>
+              <Tittel>vedtak:</Tittel>
+              <A Type="Minnrykk">Dokument 8:275 S (2025–2026) – Representantforslag fra
+stortingsrepresentantene Erlend Wiborg, Rune Midtun, Helge André
+Njåstad og Bjørn Larsen om en tydelig og forpliktende integreringskontrakt
+– vedtas ikke.</A>
+              <Votering>
+                <Merknad>
+                  <Handling>
+                    <A>
+                      <Uth Type="Sperret">Voteringstavlene</Uth> viste
+at 66 representanter hadde stemt for komiteens innstilling og 27
+representanter hadde stemt for forslagene fra Fremskrittspartiet.</A>
+                  </Handling>
+                </Merknad>
+              </Votering>
+              <Presinnlegg>
+                <A>
+                  <Navn>Presidenten:</Navn> Flere melder om feil,
+og vi tar derfor voteringen på nytt.</A>
+              </Presinnlegg>
+              <Votering>
+                <Tittel>Votering: </Tittel>
+                <A Type="Minnrykk">Ved alternativ votering mellom komiteens innstilling
+og forslagene fra Fremskrittspartiet ble innstillingen vedtatt med 71
+mot 29 stemmer.</A>
+                <A Type="Minnrykk">(Voteringsutskrift kl. 15.03.10)</A>
+              </Votering>
+            </VedtakS>
+          </Voteringer>
+          <Voteringer Id="i1003524" saksKartNr="3" debattDato="2026-11-10" tidspunkt="1503" sakID="200293">
+            <Sakdel>
+              <Tittel>Votering i sak nr. 3,
+debattert 10. november 2026</Tittel>
+              <A Id="i1003526">Innstilling fra kommunal- og forvaltningskomiteen
+om Representantforslag fra stortingsrepresentantene Erlend Wiborg,
+Kristian August Eilertsen, Rune Midtun, Bjørn Larsen og Helge André
+Njåstad om egenbetaling for tolketjenester etter tre års opphold
+i Norge (Innst. 25 S (2026–2027), jf. Dokument 8:281 S (2025–2026))</A>
+              <Referanse Id="i1003528" debattDato="2026-11-10" saksKartNr="3" />
+              <Presinnlegg>
+                <A>
+                  <Navn>Presidenten:</Navn> Under debatten har Erlend
+Wiborg satt fram et forslag på vegne av Fremskrittspartiet. Forslaget
+lyder:</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen komme tilbake
+med forslag til nødvendige lovendringer slik at utlendinger selv må
+betale for tolketjenester etter at de har hatt opphold i Norge i
+tre år, unntatt i situasjoner som krever øyeblikkelig hjelp og helsehjelp.»</A>
+                </Sitat>
+                <A Type="Minnrykk">Det voteres alternativt mellom dette forslaget
+og komiteens innstilling.</A>
+                <A Type="Blanklinjeminnrykk">Komiteen hadde innstilt til Stortinget
+å gjøre følgende</A>
+              </Presinnlegg>
+            </Sakdel>
+            <VedtakS>
+              <Tittel>vedtak:</Tittel>
+              <A Type="Minnrykk">Dokument 8:281 S (2025–2026) – Representantforslag fra
+stortingsrepresentantene Erlend Wiborg, Kristian August Eilertsen,
+Rune Midtun, Bjørn Larsen og Helge André Njåstad om egenbetaling
+for tolketjenester etter tre års opphold i Norge – vedtas ikke.</A>
+              <Votering>
+                <Tittel>Votering: </Tittel>
+                <A Type="Minnrykk">Ved alternativ votering mellom komiteens innstilling
+og forslaget fra Fremskrittspartiet ble innstillingen vedtatt med 69
+mot 29 stemmer.</A>
+                <A Type="Minnrykk">(Voteringsutskrift kl. 15.03.55)</A>
+              </Votering>
+              <Presinnlegg>
+                <A>
+                  <Navn>Presidenten:</Navn> Sak nr. 4 var redegjørelse.</A>
+              </Presinnlegg>
+            </VedtakS>
+          </Voteringer>
+        </VoteringerStart>
+        <Sakreferat Id="i1003530">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak
+nr. 5</Uth> [15:04:03]</Saknr>
+            <Saktittel Id="i1003532">
+              <A>Referat</A>
+            </Saktittel>
+          </Sakshode>
+          <Liste Type="Fri">
+            <Pkt>
+              <A>1.	(51) Endringar i folketrygdlova og
+enkelte andre lover (oppfølging av tiltak i forslaget til statsbudsjett
+for 2027 m.m.) (Prop. 9 L (2026–2027))</A>
+              <A>Enst.: Sendes arbeids- og sosialkomiteen.</A>
+            </Pkt>
+            <Pkt>
+              <A>2.	(64) Endringer i arbeidsmiljøloven (forskriftshjemmel om
+maskiner og annet arbeidsutstyr) og samtykke til godkjenning av
+EØS-komiteens beslutning nr. 171/2025 om innlemmelse i EØS-avtalen
+av forordning (EU) 2023/1230 om maskiner (Prop. 7 LS (2026–2027))</A>
+              <A>Enst.: Sendes arbeids- og sosialkomiteen, unntatt B, som sendes
+arbeids- og sosialkomiteen, som forelegger sitt utkast til innstilling
+for utenriks- og forsvarskomiteen til uttalelse før innstilling
+avgis.</A>
+            </Pkt>
+            <Pkt>
+              <A>3.	(65) Representantforslag frå stortingsrepresentantane Kjersti
+Toppe, Maren Grøthe og Bengt Fasteraune om ei ny retning for barnevernet
+sitt institusjonstilbod (Dokument 8:37 S (2026–2027))</A>
+              <A>Enst.: Sendes familie- og kulturkomiteen.</A>
+            </Pkt>
+            <Pkt>
+              <A>4.	(66) Representantforslag frå stortingsrepresentantane Kjersti
+Toppe, Geir Inge Lien og Bent-Joacim Bentzen om å styrke ambulansetenesta
+og akuttberedskapen i heile Noreg (Dokument 8:38 S (2026–2027))</A>
+              <A>Enst.: Sendes helse- og omsorgskomiteen.</A>
+            </Pkt>
+            <Pkt>
+              <A>5.	(67) Representantforslag fra stortingsrepresentantene Bent-Joacim
+Bentzen, Erling Sande og Bjørn Arild Gram om en mer forutsigbar
+og åpen budsjettering av politiet basert på reelle behov (Dokument
+8:35 S (2026–2027))</A>
+              <A>Enst.: Sendes justiskomiteen.</A>
+            </Pkt>
+            <Pkt>
+              <A>6.	(68) Riksrevisjonens årlige rapportering til Stortinget
+om regnskapsrevisjon (Dokument 1 (2026–2027))</A>
+            </Pkt>
+            <Pkt>
+              <A>7.	(69) Riksrevisjonens oppfølging av forvaltningsrevisjoner
+som er behandlet av Stortinget (Dokument 3:1 (2026–2027))</A>
+              <A>Enst.: Nr. 6 og 7 sendes kontroll- og konstitusjonskomiteen.</A>
+            </Pkt>
+            <Pkt>
+              <A>8.	(70) Endringer i EØS-vareloven mv. (gjennomføring av markedstilsynsforordningen)
+og samtykke til godkjenning av EØS-komiteens beslutning nr. 317/2023
+om innlemmelse i EØS-avtalen av forordning (EU) 2019/1020 om markedstilsyn
+og produktsamsvar (Prop. 8 LS (2026–2027))</A>
+              <A>Enst.: Sendes næringskomiteen, unntatt B, som sendes næringskomiteen,
+som forelegger sitt utkast til innstilling for utenriks- og forsvarskomiteen
+til uttalelse før innstilling avgis.</A>
+            </Pkt>
+            <Pkt>
+              <A>9.	(71) Representantforslag fra stortingsrepresentantene Margit
+Bye, Oda Indgaard, Marius Langballe Dalin, Frøya Skjold Sjursæther,
+Lars Lønberg Henriksen og Une Bastholm om en tryggere hverdag for
+syklister (Dokument 8:36 S (2026–2027))</A>
+              <A>Enst.: Sendes samferdselskomiteen.</A>
+            </Pkt>
+          </Liste>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [15:04:48]:</Navn> Dermed er dagens
+kart ferdig behandlet. Forlanger noen ordet før møtet heves? – Så
+synes ikke. Møtet er hevet.</A>
+          </Presinnlegg>
+        </Sakreferat>
+      </Saker>
+    </Hovedseksjon>
+    <Sluttseksjon>
+      <Hevet>
+        <A>Møtet hevet kl. 15.05.</A>
+      </Hevet>
+    </Sluttseksjon>
+  </Mote>
+</Forhandlinger>

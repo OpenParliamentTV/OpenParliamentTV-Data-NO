@@ -1,0 +1,1498 @@
+<Forhandlinger Status="Kvalitetssikret">
+  <Mote moteID="11664">
+    <Startseksjon>
+      <Motestart>
+        <Tittel>Møte onsdag den 7. oktober 2026 kl. 10</Tittel>
+        <President Id="i1000376" personID="MASG">
+          <A>President: <Uth Type="Sperret">Masud
+Gharahkhani</Uth></A>
+        </President>
+        <Dagsorden>
+          <Tittel>Dagsorden <DagsordenNR>(nr. 4):</DagsordenNR></Tittel>
+          <DagsordenSak Id="i1000378">
+            <Liste Type="Dagsorden">
+              <Pkt>
+                <A> 1.	Finansministerens
+redegjørelse om regjeringens forslag til statsbudsjett og om nasjonalbudsjettet for
+2027</A>
+              </Pkt>
+              <Pkt>
+                <A> 2.	Referat</A>
+              </Pkt>
+            </Liste>
+          </DagsordenSak>
+        </Dagsorden>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:00:21]:</Navn> Representanten
+Jone Blikra, som har vært permittert, har igjen tatt sete.</A>
+          <A Type="Minnrykk">Statsråd Jens Stoltenberg vil overbringe to
+kongelige proposisjoner.</A>
+        </Presinnlegg>
+        <Hovedinnlegg Id="i1000380">
+          <A>
+            <Navn personID="JES">
+Statsråd Jens Stoltenberg [10:00:43]:</Navn> På vegne av regjeringen
+har jeg den ære å overbringe følgende to kongelige proposisjoner: </A>
+          <Liste Type="Strek">
+            <Pkt>
+              <A>statsbudsjettet for budsjettåret 2027</A>
+            </Pkt>
+            <Pkt>
+              <A>skatter og avgifter 2027</A>
+            </Pkt>
+          </Liste>
+        </Hovedinnlegg>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:01:01]:</Navn> Proposisjonene
+vil bli behandlet på reglementsmessig måte</A>
+          <A Type="Minnrykk">Representanten Erlend Wiborg vil framsette
+tre representantforslag.</A>
+        </Presinnlegg>
+        <Hovedinnlegg Id="i1000382">
+          <A>
+            <Navn personID="EW">
+Erlend Wiborg (FrP) [10:01:06]:</Navn> Det er en glede på vegne
+av stortingsrepresentantene Helge André Njåstad, Rune Midtun, Bjørn
+Larsen, Dagfinn Henrik Olsen og meg selv å framsette et representantforslag
+om å gi kommunene reell vetorett ved etablering av asylmottak.</A>
+          <A Type="Minnrykk">Så er det en glede på vegne av representantene
+Helge André Njåstad, Rune Midtun, Bjørn Larsen og Liv Gustavsen
+å framsette et representantforslag om tiltak for å motarbeide tvangsekteskap
+og kjønnslemlestelser.</A>
+          <A Type="Minnrykk">Og sist, men ikke minst, er det en glede på
+vegne av representantene Helge André Njåstad, Rune Midtun, Bjørn
+Larsen, Per-Willy Amundsen og meg selv å framsette representantforslag
+om stemmerett ved kommune- og fylkestingsvalg.</A>
+        </Hovedinnlegg>
+        <Presinnlegg>
+          <A>
+            <Navn>Presidenten [10:02:02]:</Navn> Forslagene
+vil bli behandlet på reglementsmessig måte.</A>
+        </Presinnlegg>
+      </Motestart>
+    </Startseksjon>
+    <Hovedseksjon Id="i1000384">
+      <Saker>
+        <Sak saksKartNr="1" sakID="200415">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak nr. 1</Uth> [10:02:11]</Saknr>
+            <Saktittel Id="i1000388">
+              <A>Finansministerens redegjørelse om
+regjeringens forslag til statsbudsjett og om nasjonalbudsjettet
+for 2027</A>
+            </Saktittel>
+          </Sakshode>
+          <Hovedinnlegg Id="i1000390">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [10:02:52]:</Navn> I vår tid er det mange
+mennesker som opplever usikkerhet – usikkerhet på grunn av krig
+og konflikt ute i verden, usikkerhet om hva kunstig intelligens
+vil gjøre med livene våre, og usikkerhet for egen økonomi og hvordan
+regningene skal betales. Dessverre er ikke folks bekymringer ubegrunnet.
+Vi lever i en mer utrygg verden – en verden der bombing av ukrainske
+kornhavner fører til økte matvarepriser, der stengningen av Hormuzstredet
+gir økte oljepriser, og der høyere renter i USA og Europa bidrar
+til økte renter her hjemme. Sikkerhet og økonomi er mer sammenvevd
+enn før. Alt dette merker norske familier og norske bedrifter. </A>
+            <A Type="Minnrykk">Aller minst vi som er glad i statistikk, tror
+at det finnes ett tall som forteller alt om Norge. Til det lever
+vi for ulike liv, og til det er det for store forskjeller i hvordan folk
+har det. Blant annet derfor har vi mange forskjellige tall, som
+utfyller hverandre og beskriver en sammensatt virkelighet – og noen
+ganger er det også bra å ha regneark for å ha oversikt over alle
+tallene. Et mest mulig felles virkelighetsbilde er en del av den
+norske samfunnsmodellen. Ja, det er en så viktig del, at partene
+i arbeidslivet kommer sammen for å sikre en omforent vurdering av hvordan
+det går. Det skjer i Det tekniske beregningsutvalget for inntektsoppgjørene.
+Der sitter bl.a. Statistisk sentralbyrå, LO, NHO og de andre organisasjonene,
+og de presenterer jevnlig rapporter med tall for prisstigning, lønninger,
+kjøpekraft og flere andre av de mest sentrale størrelsene for norsk
+økonomi. På den måten etableres et felles faktagrunnlag, en enighet
+om hvordan det faktisk går. </A>
+            <A Type="Minnrykk">For eksempel viser disse tallene fra Det tekniske
+beregningsutvalget for inntektsoppgjørene at mat, klær, bolig og
+mye annet koster mer nå enn før – til dels mye mer. Ting har blitt
+dyrere. Prisene har steget. Men lønningene har steget mer. Tallene
+viser at de siste tre årene har prisene steget med om lag 10 pst.,
+mens lønningene har steget med mer enn 15 pst. Nordmenn flest har
+høyere kjøpekraft enn noen gang tidligere i vår historie. Vi forventer
+at neste år blir det fjerde året på rad hvor kjøpekraften øker.
+Det gjelder også når vi tar hensyn til skatter og renteutgifter.
+Men at folk får bedre råd, betyr ikke at alle har god råd. Tallene
+forteller oss også at det fortsatt er mange som sliter med å få
+endene til å møtes. Noen har lav lønn, noen er på minsteytelser,
+og noen står uten jobb. For dem er det en mager trøst at de har fått
+litt mindre dårlig råd, eller at det er enda vanskeligere i andre
+land. De fleste varer og tjenester koster mer i Norge enn de gjør
+i andre land, men inntektene er også høyere. Det er derfor ytterst
+få land i verden der folk med vanlige lønninger, pensjoner eller
+trygd får mer igjen for pengene enn det vi gjør i Norge. For eksempel
+er prisene i vårt naboland Sverige lavere på mange varer enn de
+er i Norge, men ifølge OECD er lønningene til en vanlig lønnstaker
+omtrent 35 pst. høyere i Norge enn i Sverige. Lønningene i Norge
+rekker altså lenger enn lønningene i Sverige. En viktig grunn til
+at norske lønninger er høye, er at norske lønnstakere er mer produktive
+enn lønnstakere i andre land. De produserer mer per time arbeidet. Verdiskapingen
+per innbygger er blant de høyeste i verden. Arbeidsledigheten er
+blant de laveste. Sysselsettingen er blant de høyeste. Og de siste
+årene har syv av ti nye arbeidsplasser kommet i privat sektor og
+bedriftene. Det er derfor en myte at nordmenn er late, slappe og uten
+evne til å skape noe nytt. Så dette er altså det tallene forteller
+oss: Aldri før har verdiskapingen vært høyere i Norge enn i dag.
+Aldri før har inntektene vært høyere i Norge enn i dag. Aldri før
+har kjøpekraften vært høyere i Norge enn i dag. Så enten vi sammenligner
+over tid eller mellom land, er det mye som går ganske bra her i
+landet. Men det er ikke sikkert at det vil fortsette slik. Det kan
+bli nye økonomiske nedturer ute som slår inn hos oss her hjemme.
+Finansmarkedene kan falle, og oljefondet kan miste mye av sin verdi.
+Stigende statsgjeld og inflasjon i mange land er nå varsellamper
+i internasjonal økonomi. Det er ingen politiske vedtak i denne sal
+som kan fjerne denne usikkerheten. Det vil alltid være forhold som
+ligger utenfor politikkens rekkevidde. Så i stedet for å tro at
+vi kan avskaffe usikkerhet, må vi ha en strategi for å håndtere
+usikkerhet. Vi kan ikke forutse det uforutsigbare, så vi må forberede
+oss på å stå imot nye tilbakeslag. Vi må trygge landet i en urolig
+tid. Regjeringens forslag til statsbudsjett er et bidrag til dette. </A>
+            <A Type="Minnrykk">Vi ruster opp forsvaret av Norge. Vi styrker
+hæren, sjøforsvaret, luftforsvaret, etterretningen og heimevernet.
+Det blir mer penger til våpen, ammunisjon og flere soldater. Forsvarsbudsjettet
+øker i tråd med langtidsplanen, som et samlet Storting har stilt
+seg bak. Det innebærer en økning på 6,5 mrd. kr neste år. I tillegg
+foreslår vi betydelige beløp til Ukraina. Det er også et bidrag
+til vår egen sikkerhet. Samlet foreslås det 192 mrd. kr til forsvarsformål.
+Dette tilsvarer 3,4 pst. av bruttonasjonalproduktet. Norge er dermed
+allerede svært nær NATOs byrdefordelingsmål på 3,5 pst. for 2035.
+Vi styrker også politiet og sikkerhetsmyndighetene for å bistå mot ytre
+trusler og gjøre hverdagen tryggere. Og vi gjennomfører et digitalt
+løft. </A>
+            <A Type="Minnrykk">Før snakket vi om eldrebølgen som noe som lå
+foran oss. Nå er den her. I år er det for første gang flere som mottar
+alderspensjon, enn det er barn med barnetrygd, og i årene som kommer
+vil denne avstanden bare fortsette å vokse. I mange kommuner betyr
+det flere sykehjem og omsorgsplasser, men også færre barnehager
+og skoler. Det er selvsagt bra at vi blir flere eldre som lever lenger,
+men det vil sette politikken på prøve. Det er nødvendig med mer
+penger til kommuner og sykehus for å møte behovene som en aldrende
+befolkning krever. I regjeringens forslag til statsbudsjett økes
+kommunesektorens frie inntekter med 3,2 mrd. kr. Det foreslås også penger
+til flere sykehjem og omsorgsboliger. En solid kommuneøkonomi er
+et av våre viktigste bidrag til å opprettholde bosetting og sysselsetting
+i hele landet. Vi sikrer også en forsvarlig og forutsigbar sykehusøkonomi.
+Regjeringen foreslår 3,1 mrd. kr til at sykehusene kan ta imot flere
+pasienter og tilby enda bedre behandling. Den største andelen av
+veksten i bevilgningene til kommunene og sykehusene går til å dekke
+økte utgifter som følge av befolkningsutviklingen. Noen mener at dette
+derfor ikke er å betrakte som en politisk satsing, og at det er
+bare demografi. Det er jeg uenig i. Det at vi i fellesskap skal
+stille opp og finansiere helse og omsorg, er noe av det som vil
+koste mest og kreve mest av oss i årene som kommer, men fordi vi
+satser på det, kan vi få det til. </A>
+            <A Type="Minnrykk">Noe av det viktigste i regjeringens plan for
+Norge er å trygge folks hverdagsøkonomi. Det gjør vi ved å holde orden
+i norsk økonomi og dermed bidra til at arbeidsledigheten kan holde
+seg lav, men vi følger også opp med andre tiltak. Strømstøtteordningen
+videreføres og vil neste år dekke 90 pst. av kostnaden over 79 øre
+per kilowattime før avgifter. Også norgespris videreføres. I tråd med
+det som tidligere er varslet, og som er nedfelt i loven om norgespris,
+justeres prisen basert på en kombinasjon av historiske priser og
+framtidspriser. Norgesprisen er derfor foreslått satt til 45 øre
+før avgifter. En typisk husholdning i Sørvest-Norge med norgespris
+kan spare 8 700 kr neste år. Det er da lagt til grunn et forbruk
+på 16 000 kWh og sammenlignet med anslått spotpris. Siden Støre-regjeringen
+tiltrådte i 2021, er barnehageprisen redusert kraftig og barnetrygden
+økt betydelig. I budsjettforslaget videreføres maksprisen på 1 200 kr
+og barnetrygden på over 2 000 kr. Det betyr at mens barnehageprisen
+i 2021 var dobbelt så høy som barnetrygden, er barnetrygden nå nesten
+dobbelt så høy som barnehageprisen. Dette er et stort løft for barnefamiliene,
+og det er et eksempel på at vi sammen med våre budsjettpartnere,
+SV, Senterpartiet, Rødt og Miljøpartiet De Grønne, har funnet gode
+løsninger for folk. Vi skal forhandle også om dette budsjettet,
+og jeg er trygg på at vi igjen vil finne sammen, fordi vi har et
+felles mål om mer fellesskap og mer rettferdig fordeling. </A>
+            <A Type="Minnrykk">Sammen med våre budsjettpartnere i Stortinget
+har vi de siste årene fått flertall for en rekke tiltak som gjør forskjellene
+mindre. Et av de viktigste virkemidlene vi har for å jevne ut forskjeller,
+er skattesystemet vårt. Det skyldes at vi har progressive skatter.
+Det vil si at skatteprosenten øker med inntekten. Men også det vi
+kaller flate skatter og avgifter er viktig for fordelingen. For
+eksempel bruker den rikeste tidelen av befolkningen dobbelt så mye
+på mat som den tidelen med lavest inntekt, og derfor betaler de
+rikeste også dobbelt så mye i matmoms. Enten skattene og avgiftene
+er flate eller progressive, er de med på å finansiere offentlige
+velferdsordninger som de som har minst, har mest glede av. Velferdsstaten
+omfordeler. Skatt, offentlige overføringer og offentlige tjenester
+mer enn halverer ulikhetene i Norge. I Norge og i Norden har vi
+gode velferdsordninger. Det kan vi ha fordi vi er villige til å
+ha et forholdsvis høyt skatte- og avgiftsnivå. Vi får ikke et nordisk
+velferdsnivå med et amerikansk skattenivå. Men dette gjør det desto viktigere
+at vi har et godt skattesystem som både er rettferdig og legger
+til rette for vekst og nyskaping. </A>
+            <A Type="Minnrykk">Alle skatte- og avgiftssystemer trenger vedlikehold og
+endringer for å tilpasse seg at økonomien stadig er i utvikling.
+Regjeringen tok derfor i fjor initiativ til en skattereform og inviterte
+partiene på Stortinget til et forlik som kan stå seg over tid. Målet
+er et bedre skattesystem med stabile rammevilkår for bedriftene
+og husholdningene. Et mer oppsplittet politisk landskap med skiftende
+flertall gjør det mer nødvendig med forlik for å få forutsigbarhet,
+men paradokset er at det dermed også blir vanskeligere å få til
+et forlik. Vi nedsatte en bredt sammensatt skattekommisjon, og kommisjonens rapport
+har vært på høring. Tidlig neste år vil regjeringen legge fram en
+stortingsmelding, men arbeidet med å reformere skattesystemet er
+allerede i gang. I budsjettforslaget vi legger fram i dag, tar vi
+viktige skritt for å følge opp noen av forslagene fra skattekommisjonen.
+Dette er byggesteiner i en større reform og betyr at vi raskere kommer
+i gang med nødvendige forbedringer. </A>
+            <A Type="Minnrykk">I tråd med skattekommisjonens anbefalinger,
+og denne regjeringens politikk over flere år, foreslår vi brede
+lettelser i inntektsskatten på 6,4 mrd. kr neste år. Dette er den
+største reduksjonen i inntektsskatten i et budsjett på 20 år. En
+lønnstager med 750 000 kr i lønn vil med regjeringens forslag betale
+om lag 7 500 kr mindre i skatt sammenlignet med reglene da Støre-regjeringen tiltrådte.
+For en familie med to tilsvarende lønninger blir lettelsen på rundt
+15 000 kr. Lettelsene i årets budsjett utgjør om lag 3 500 kr av
+dette. I tillegg holdes minste pensjonsnivå for enslige skattefritt.
+Dette kommer også mange pensjonister med noe høyere pensjon til gode.
+For regjeringen er lavere skatt på inntekt en viktig del av arbeidet
+med en skattereform. </A>
+            <A Type="Minnrykk">I tråd med Stortingets ønske legger regjeringen
+opp til å bedre kapitaltilgangen for norske vekstselskaper. Vi vil
+derfor åpne for at ordningen med aksjesparekonto kan gjelde også
+for selskap som ikke er børsnoterte, men som handles på andre markedsplasser.
+Norske butikker har lenge levd med en konkurranseulempe sammenlignet
+med utenlandske nettbutikker. Der utenlandske nettbutikker har mulighet
+til å eksportere klær til Norge uten tollavgift, må norske butikker
+betale avgift på det samme. Nå foreslår regjeringen å redusere denne
+ulempen ved å halvere tollen på klær. Regjeringen følger opp skatteløftet.
+Det samlede skatte- og avgiftsnivået øker ikke i 2027. Lavere skatt
+på arbeid og pensjon finansieres ved å stramme inn på andre områder.
+Regjeringen foreslår å trappe ytterligere ned momsfritaket for elbiler.
+Dette er i tråd med skattekommisjonens anbefalinger og bidrar til
+en skattereform der skatten på arbeid går ned, mens skatten på forbruk
+går opp. Lettelsene finansieres også ved å tette skattehull. Blant
+annet vedtok Stortinget i årets budsjett å fjerne flertrinnsmodellen
+for eiendomsinvesteringer. Dette gir økte skatteinntekter neste
+år, som bidrar til å finansiere lavere inntektsskatt. </A>
+            <A Type="Minnrykk">En grunn til at folk er urolige, er klimaet.
+Denne sommeren har vi hatt hetebølger i Europa og rekordhøye temperaturer
+i Arktis. Igjen blir vi minnet på alvoret med klimaendringene. Det
+viktigste virkemiddelet for å få ned utslippene i Norge er å prise
+utslipp ved bruk av avgifter og kvoter. Det gjør det lønnsomt å
+rense og ulønnsomt å forurense. Utslippskuttene skjer der det er billigst.
+De økte inntektene fra klimaavgifter brukes til å redusere andre
+skatter og avgifter. For bedriftene er det viktig med forutsigbarhet
+når det skal investeres i mer klimavennlige løsninger. Regjeringen
+har derfor valgt å fortsette opptrappingen av klimaavgiftene i tråd
+med planen, som Stortinget har sluttet seg til. Regjeringen mener
+samtidig at det er riktig å ta hensyn til at vi nå har høye internasjonale
+oljepriser. Derfor skjermer vi veitrafikken ved å redusere veibruksavgiften
+slik at avgiftsendringene samlet ikke påvirker pumpeprisen. </A>
+            <A Type="Minnrykk">Selv om vi har oljepenger i Norge, har vi ikke
+ubegrenset med penger. Når noen formål skal få mer, må noe annet
+få mindre, eller i det minste ikke så stor økning som håpet. Innenfor
+de ulike departementenes områder er det gjort mange omprioriteringer.
+Reduserte bevilgninger noen steder vil betale for økte bevilgninger andre
+steder. Regjeringen foreslår å redusere bevilgningene til næringsstøtte
+med om lag 300 mill. kr. Med reduserte bevilgninger må pengene i
+større grad prioriteres mot de beste prosjektene. Vi setter også
+i gang en reform av det næringsrettede virkemiddelapparatet. Over flere
+år har vi brukt betydelige midler på klima- og energifondet som
+forvaltes av Enova. I neste års budsjett foreslår vi å bevilge 4,1 mrd. kr.
+Det er en reduksjon på 3,8 mrd. kr. Likevel vil fondet ha et stort
+økonomisk handlingsrom til å støtte klima- og energiprosjekter. </A>
+            <A Type="Minnrykk">En sterk offentlig sektor er en forutsetning
+for at vi kan leve trygge liv. Fra fødeavdelingen til sykehjemmet stiller
+fellesskapet opp, for å gi oss de tjenestene og stønadene vi alle
+er avhengige av. Næringslivet trenger også offentlig sektor. Blant
+annet gir det bedriftene tilgang på godt kvalifisert arbeidskraft.
+Investeringer i forskning bidrar til vekst, og digitalisering av
+offentlig sektor bidrar til mindre byråkrati. Vi som tror på en
+sterk offentlig sektor, må være de fremste til hele tiden å være
+opptatt av hvordan den kan fornyes og reformeres. Alternativet er
+at den forvitrer. Derfor gjør vi mye for å fornye og reformere offentlig
+sektor i dette budsjettet. </A>
+            <A Type="Minnrykk">For ti år siden fikk en norsk husholdning omtrent fire
+brev i uka. I dag får de litt over ett brev i uka, og snart blir
+det enda færre, men fortsatt kjøres postrutene annenhver virkedag.
+Hvis vi fortsetter med det, vil det hvert år framover koste oss
+milliardbeløp. Regjeringen legger i neste års budsjett opp til at
+staten kjøper brevlevering til alle landets postkasser én dag i
+uka. Avsendere som må sende brev oftere, kan kjøpe det selv. Alle
+som vil, kan også få levering til hentepunkt fem dager i uka. Markedets
+tilbud av pakketjenester blir ikke påvirket. </A>
+            <A Type="Minnrykk">Også innen samferdsel kan vi få mer igjen for
+pengene. I Norge investerer vi mer i samferdsel enn de fleste andre
+land. Det har gitt oss et godt utbygget veinett, flyplasser over
+hele landet, broer over elver og fjorder, og tunneler gjennom mange
+fjell. Og selv skip bygger vi nå tunneler for. Alt dette bidrar
+til å redusere reisetider, til et bedre kollektivtilbud, og det
+er med på å knytte oss sammen. Men dette krever mye vedlikehold.
+Dessverre har det blitt forsømt gjennom flere år. Det er alltid
+lettere å få penger til et nytt prosjekt enn det er å få penger
+til å vedlikeholde et gammelt prosjekt, men vedlikehold vil som
+regel være mer samfunnsøkonomisk lønnsomt, gi mer nytte, enn å bygge
+nytt. Egentlig er det en stolt norsk tradisjon, dette å ta vare
+på, forvalte godt og holde i hevd. Med regjeringens budsjettforslag
+øker vi bevilgningene til drift og vedlikehold på både riksvei og
+jernbane. De igangsatte, store prosjektene videreføres. Denne regjeringen
+vil ta vare på det vi har, utbedre der vi kan, og først bygge nytt
+når vi må. </A>
+            <A Type="Minnrykk">En av de viktigste offentlige tjenestene er
+skole og utdanning. I mange år fikk Norge bedre resultater i PISA-undersøkelsene.
+Men i 2015 snudde det, og siden har det gått nedover. Mer og bedre
+læring er et prioritert prosjekt i regjeringens plan for Norge.
+Boken skal tilbake i skolen, og vi skal gjøre læreplanene tydeligere.
+Læreren må få være sjef i klasserommet og skal få mer støtte og
+bedre tid til å følge opp eleven. I budsjettet foreslås et nytt
+tilskudd til mer undervisning i små grupper i grunnskolen. Vi fortsetter
+styrkingen av tilskudd til bøker, skolebibliotek og mer praktisk
+utstyr. Dette er noen bidrag til en skole der barn lærer mer. </A>
+            <A Type="Minnrykk">Ikke alle kan jobbe hele tiden. Derfor må vi
+sikre gode ordninger for dem som av en eller annen grunn ikke kan
+være i arbeid i kortere eller lengre perioder. Samtidig skal vi
+legge til rette for at alle som vil, kan komme i arbeid. I år avvikler
+vi overgangsstønaden som gjorde at mange enslige forsørgere fikk
+lite igjen for å jobbe. Vi har sendt på høring et forslag om å legge
+om stønaden til nyankomne flyktninger, slik at de får mer igjen
+for å komme i arbeid. Vi vil øke bevilgningen til et program som
+skal rekruttere unge utenfor arbeid og utdanning til helse og omsorg
+i kommunene, og vi foreslår mer penger til varig tilrettelagt arbeid,
+slik at flere uføre skal få ta del i yrkeslivet. Nå er sykefraværet
+20 pst. høyere enn i årene før pandemien. Vi har lagt om takstsystemet
+for fastlegene, for å bidra til færre sykemeldinger, og vi legger
+til rette for bedre deling av informasjon mellom Nav og helsetjenesten. </A>
+            <A Type="Minnrykk">Kunstig intelligens vil forandre Norge og norsk
+økonomi. Vi har bedre forutsetninger enn mange andre land fordi
+vi har en kompetent arbeidskraft og et digitalisert samfunn. I tillegg
+har vi et godt organisert arbeidsliv, et skattesystem og en sterk
+offentlig sektor som kan bidra til at gevinstene ved å ta i bruk
+denne teknologien kan fordeles rettferdig. I statsbudsjettet foreslår
+regjeringen flere tiltak for bedre å ta i bruk kunstig intelligens,
+som bevilgninger til økt sikkerhet og kompetanse, og vi skal lage
+en offentlig KI-tjeneste som skal bidra til å gi svar på helsespørsmål
+fra innbyggerne. </A>
+            <A Type="Minnrykk">Norge har en stor petroleumsformue. Det har
+gitt oss større velstand enn vi ellers ville hatt. Men med formue
+følger risiko. En ulempe ved å ha en formue er jo at den kan falle
+i verdi, men tross alt er det bedre å ha en formue enn ikke å ha
+en formue. Også her er vår oppgave å håndtere risiko. Det gjør vi
+gjennom Statens pensjonsfond utland og med handlingsregelen. Dette
+har ikke bare gitt oss god avkastning og et stort fond, det har også
+bidratt til å redusere risiko. Vi har etablert et skille mellom
+opptjening og bruk av petroleumsinntektene, og vi har spredt investeringene
+bredt over ulike verdipapirer og markeder. I budsjettforslaget legger
+regjeringen opp til å bruke 608 mrd. kr fra pensjonsfondet. Dette
+utgjør 2,7 pst. av fondet. Det er i tråd med handlingsregelen og
+lavere enn den forventede realavkastningen på 3 pst. Uttaket er
+uendret fra i år, målt som andel av BNP. Dette er anslått å ha om
+lag nøytral effekt på norsk økonomi. I nasjonalbudsjettet vi legger
+fram i dag, understreker regjeringen igjen risikoen for at fondet
+kan falle i verdi. I så godt som alle år etter at handlingsregelen
+ble innført, har vi brukt mindre enn den forventede realavkastningen.
+En slik buffer reduserer sårbarheten for framtidige fall. Da vi
+innførte handlingsregelen, ble den kalt PIN-koden til oljefondet.
+Formålet med handlingsregelen har aldri vært ikke å bruke penger.
+Formålet har vært å sikre en ansvarlig pengebruk. Til dem som måtte mene
+at vi bruker for mye oljepenger, kan det være verdt å minne om at
+vi egentlig bruker null oljepenger. Alle statens inntekter fra olje-
+og gassvirksomheten spares i pensjonsfondet. Det eneste vi bruker,
+er deler av finansavkastningen. På den måten sikrer vi at både vi
+som lever i dag, og de som kommer etter oss, får ta del i rikdommen.
+Det er det vi kaller generasjonskontrakten. Den går begge veier.
+Målet er jo ikke en rikest mulig stat. Målet er mest mulig velferd
+til det norske folk – nå og i framtiden. </A>
+            <A Type="Minnrykk">Dette budsjettet er et budsjett for ansvarlig
+forvaltning av oljepengene våre, der vi bruker mindre penger på
+noe og mer på noe annet. Vi satser på forsvar, på omsorg og utdanning
+i kommunene, på sykehus, og vi styrker folks hverdagsøkonomi. Det
+er også et budsjett for fornyelse og reform, av offentlig sektor
+og av skattesystemet vårt. Men først og fremst er dette et budsjett
+for å skape trygghet i en urolig tid. Det er et budsjett som vil gjøre
+oss bedre i stand til å håndtere nye kriser og nye tilbakeslag.
+Vi vet ikke hva den neste krisen vil bli, men vi vet at når vi deler
+rettferdig, når vi står sammen, og når vi holder orden i eget hus,
+da er vi også bedre rustet til å håndtere det som måtte komme.</A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [10:35:11]:</Navn> Det vil nå
+åpnes for en kommentarrunde, begrenset til ett innlegg fra hver
+partigruppe, med en taletid på inntil 3 minutter. Etter hvert innlegg
+fra opposisjonspartiene gis finansministeren anledning til en kommentar
+på inntil 2 minutter. Deretter får representanten for opposisjonspartiet
+mulighet til en sluttkommentar på inntil 2 minutter. Videre åpnes
+det for en kommentar fra finansministeren eller statsministeren
+på inntil 3 minutter til slutt.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1000392">
+            <A>
+              <Navn personID="TUMO">
+Tuva Moflag (A) [10:35:52]:</Navn> «Politikk er å prioritere» er
+et utsagn som ofte blir sagt i denne salen. Det brukes både for
+å framheve hva man satser på, og for å kritisere andre politikere
+for mangel på dem – mangel på prioriteringer, altså. Også i dette
+budsjettet er det gjort prioriteringer. Statsrådene har gjort en
+god innsats for å finne områder der pengene kan brukes enda bedre innenfor
+eget felt, som Kjersti Stenseng, som har snudd på kronene for å
+få enda flere inn i jobb, ikke minst blant de unge, hvor det får
+konsekvenser for hele livet om man aldri kommer seg i jobb, og som
+Kari Nessa Nordtun, som vil bruke mer av pengene på å sikre undervisning
+i smågrupper i barne- og ungdomsskolen, fordi hun vet at en god
+start og trygge overganger er viktig for hele skoleløpet. </A>
+            <A Type="Minnrykk">Når vi går ut av denne salen, er det en annen
+melodi som spilles av. Det er færre som vil lytte til lyden av prioriteringer.
+Fra nå av heter det «kutt». Kutt er ikke så interessert i å stille
+opp på et fellesbilde sammen med prioritering. Det er rett og slett
+bare sånn den politiske dynamikken er. For selv om vi politikere
+ganske ofte er opptatt av å ha to tanker i hodet samtidig – det
+må vi jo ha når vi setter tiltak opp mot hverandre – har vi ofte bare
+én tanke i hodet når vi snakker om kutt. </A>
+            <A Type="Minnrykk">Dette er ikke en anklage, bare en refleksjon,
+for jeg snakker om oss alle. Det er rett og slett bare forskjell
+på posisjon og opposisjon. </A>
+            <A Type="Minnrykk">Derfor fortsetter jeg med et lydspor til om
+prioriteringer: Politiske valg handler ikke bare om hva man prioriterer,
+det handler i aller høyeste grad også om hvem man prioriterer. I
+dag har vi varslet den største reduksjonen i inntektsskatten på
+over 20 år. Det betyr at vi prioriterer deg som sto opp grytidlig
+i morges for å selge nystekte hveteboller og varm kaffe på Narvesen.
+Det betyr at vi prioriterer deg som nettopp har lagt seg etter en nattevakt
+på sykehuset. Det handler også om deg som måtte slutte i jobben
+i barnehagen fordi helsa ikke holdt lenger, og det handler om deg
+som har gått av med pensjon etter en lang yrkeskarriere på byggeplass,
+i skolen eller i oljenæringen. Når vi fortsetter å fase ut momsfritaket
+på elbiler, er det en prioritering. </A>
+            <A Type="Minnrykk">Folk skal få bedre råd. Arbeidsfolk skal oppleve
+at det er penger igjen på konto til neste lønning kommer. Lavere
+inntektsskatt og billigere velferdstjenester sørger for det. Trygghet
+for lommeboka går hånd i hånd med trygghet for barn og unge og trygghet
+for helsa. Det er velferdsstaten som er den viktigste lommeboksaken,
+og den vil Arbeiderpartiet hegne om. </A>
+            <A Type="Minnrykk">Det er vi ikke alene om. Helt siden 2021 har
+de rød-grønne partiene vært enige om hvilken retning vi vil ta landet
+i. Vi har prioritert å få forskjellene mellom folk ned. Vi har prioritert
+å ta hele landet i bruk. Vi har prioritert trygghet og velferd.
+Jeg ser fram til årets budsjettforhandlinger.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1000394">
+            <A>
+              <Navn personID="HLI">
+Hans Andreas Limi (FrP) [10:39:14]:</Navn> Finansministeren sa i
+sitt innlegg at nå er folk bekymret på grunn av klimaendringene.
+Det er mulig, det, men jeg tror faktisk at det er langt flere som
+er bekymret på grunn av sin egen økonomi. I går hadde Stortinget
+mulighet til å fatte et vedtak som ville bidratt til å trygge folks
+hverdagsøkonomi. Flertallet kunne stemt for forslaget om å forlenge
+avgiftsfritaket på drivstoff, men det ville ikke flertallet, heller
+ikke Arbeiderpartiet. </A>
+            <A Type="Minnrykk">I forkant av budsjettfremleggelsen er det på
+en måte solgt inn at regjeringens og Arbeiderpartiets alternativ skulle
+være de store skattelettelsene, altså lettelser i inntektsskatten.
+Til og med rett før budsjettdokumentene ble tilgjengelig for oss
+andre, bekreftet både statsministeren og finansministeren de lekkasjene
+om skattelettelser som forelå, og de gikk ganske detaljert inn i
+lekkasjene. Så får vi fasiten. Da ser vi at det er ikke engang «fem
+om dagen»; det er 3 kr om dagen hvis man har en inntekt på rundt
+600 000 kr. Det veldig, veldig lite med tanke på den situasjonen
+som de aller fleste nå står i, og den økonomiske hverdagen de må
+forvente også neste år. </A>
+            <A Type="Minnrykk">Bare endringene i norgesprisen – at den blir
+mindre fordelaktig – vil langt på vei spise opp de tre kronene.
+I tillegg kommer økninger i drivstoffavgifter og økte drivstoffpriser,
+som vi ser utviklingen av allerede. Så i sum vil jo ikke norske
+familier komme bedre ut når de også tar høyde for konsekvensene
+av renteøkningen nå i november. </A>
+            <A Type="Minnrykk">Dette budsjettet er ikke et bidrag til å trygge
+folks hverdagsøkonomi. Det er snarere tvert om et bidrag til å forlenge
+den usikkerheten som veldig mange opplever nå. Så er det viktig
+å understreke at det ikke gjelder alle, men det er mange som kjenner
+på en usikkerhet knyttet til sin egen økonomi. Da kunne regjeringen
+bidratt til å skape en større trygghet, ikke bare gjennom skattelettelser,
+men også gjennom reelle avgiftslettelser. </A>
+            <A Type="Minnrykk">Hvis regjeringens og Arbeiderpartiets strategi
+for å få til et skatteforlik i Stortinget er at alle skattelettelser skal
+veksles mot økte avgifter, tror jeg det er grunn til å ønske dem
+lykke til. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1000396">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [10:42:14]:</Navn> Jeg tror folk er bekymret
+både for klimaet og for regningene sine. Jeg tror folk er i stand
+til å oppfatte at vi har mange utfordringer og problemer. Vi har
+hatt høy prisstigning, vi har hatt store økonomiske problemer ute
+i verden, vi har stigende rente, stigende inflasjon ute, som også
+påvirker oss, og vi er urolige for at det er ekstremvær, hete, flom
+og store klimaendringer. Denne regjeringen har ambisjoner om å gjøre
+noe med begge deler. Fremskrittspartiet har åpenbart ikke noen ambisjoner
+om å gjøre noe med klimaendringene, som er et stort og alvorlig
+problem. Det er det ene.</A>
+            <A Type="Minnrykk">Det andre er at dette er et budsjett som trygger
+folks økonomi. Det trygger landets økonomi, det er ansvarlig pengebruk,
+vi forvalter en handlingsregel som har gjort at Pensjonsfondet er
+stort. Den regelen har Fremskrittspartiet alltid vært imot – vi
+hadde ikke hatt noe i nærheten av det fondet om vi hadde gjort som
+Fremskrittspartiet sa gjennom de første årene da vi bygde opp fondet. </A>
+            <A Type="Minnrykk">Det er også et budsjett som gjør mye for å
+trygge folks hverdagsøkonomi. Det å sikre folk jobb er avgjørende,
+og det å sikre at folk kan få økt kjøpekraft er selvfølgelig også
+avgjørende. Da gjør vi mange ting. Jeg nevnte at nå er barnetrygden
+dobbelt så høy som barnehageprisen. Det har aldri skjedd før i norgeshistorien.
+Vi har gjort kollektivtransport billigere, vi har gjort SFO gratis, og
+vi har altså innført strømstøtteordninger som er svært omfattende
+og sannsynligvis bedre enn i noe annet land. I dag er prisen i Sørvest-Norge
+2,28 kr/kWh. Norgesprisen, selv med det regjeringen nå foreslår,
+er 45 øre, og det er en god og trygg ordning som sikrer mot de enorme
+prisene og de svingningene vi ser ute i kraftmarkedet.</A>
+            <A Type="Minnrykk">Den skatteendringen vi gjør, bidrar også til
+at folk får bedre råd. Det er en byggestein i en større reform.
+Å kalle det lite – vel, det er den største på 20 år. Den er større
+enn Erna Solberg og Siv Jensen noen gang fikk til et enkeltår, så
+hva representanten da kaller det, lurer jeg på, hvis han kaller
+det vi gjør, lite.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1000398">
+            <A>
+              <Navn personID="HLI">
+Hans Andreas Limi (FrP) [10:44:20]:</Navn> Det som er avgjørende
+for folk der ute, er jo hva de sitter igjen med i lommeboken, og
+jeg vil karakterisere 3 kr dagen som egentlig svært lite. Hele poenget
+er at det kompenserer ikke for økningen i utgiftene, verken økningen
+i utgifter til mat eller andre basisvarer eller økte renteutgifter.
+Da blir det et budsjett som i realiteten ikke bidrar til å styrke
+folks hverdagsøkonomi og skape den tryggheten som regjeringen sier
+at de er opptatt av å skape. Man kunne gjennomført andre tiltak
+som i mye større grad ville treffe de som har dårligst råd, de som
+har de laveste inntektene. </A>
+            <A Type="Minnrykk">Det er derfor Fremskrittspartiet har foreslått
+halvert matmoms. Vi ser at effekten av det – i de landene som har
+gjennomført reduksjoner i matmomsen – har vært veldig positiv. Attpåtil
+bidrar det til å dempe prisveksten og kan ha en positiv effekt på
+renten, og det treffer de som har de laveste inntektene, og som
+i utgangspunktet har minst. Det er jo hele løsningen når man reduserer avgifter,
+at det betyr mest for dem som i utgangspunktet har minst. Så kan
+man gjerne vise til at det gir like stor effekt for dem med høye
+inntekter. Ja, men det viktigste er at vi klarer å hjelpe dem som
+opplever at de har en dårlig hverdagsøkonomi. Det vil i hvert fall
+Fremskrittspartiet legge vekt på når vi skal utarbeide våre alternative
+budsjetter. Så kommer vi tilbake til diskusjonene om hva som er
+de viktigste prioriteringene for å skape trygghet for fremtiden
+og trygghet for vanlige norske familier – og ikke minst for bedrifter.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1000400">
+            <A>
+              <Navn personID="NA">
+Nikolai Astrup (H) [10:46:23]:</Navn> La meg først få lov til å
+takke finansministeren for forelesningen. Budsjettforslaget som
+legges frem i dag, er først og fremst en kladd. Regjeringen har
+budsjettpartnere med mange og dyre krav, foreløpig på mange titalls
+milliarder, og vi vet at flere av dem står klare til å bryte inngåtte
+avtaler før blekket er tørt. Så det eneste vi vet om dagens budsjett, er
+derfor at det vil bli endret betydelig. </A>
+            <A Type="Minnrykk">Dette er et budsjett der regjeringen bruker
+mer oljepenger enn noen gang, og likevel klarer den ikke å la folk og
+næringsliv beholde mer av egne penger. I et statsbudsjett på nesten
+2 300 mrd. kr reduseres skatte- og avgiftsnivået med 1 mill. kr
+– ikke en milliard, men en million. Det er puslete, men dessverre
+ikke overraskende fra en regjering som har tatt inn 150 mrd. kr
+mer i skatt de siste fem årene. </A>
+            <A Type="Minnrykk">Budsjettet mangler ambisjoner, grep og reformer for
+å drive staten bedre, få mer ut av pengene og sikre bedre tjenester.
+De totale budsjetterte utgiftene til sykepenger er nå på over 80 mrd. kr.
+Det er betydelig høyere enn forventet lønns- og prisvekst. Regjeringen
+foreslår likevel ingen substansielle tiltak for å redusere sykefraværet.
+Det store bildet er at regjeringen lar sjansen gå fra seg til å
+fornye, forenkle og forbedre og satser i stedet på å administrere. </A>
+            <A Type="Minnrykk">Selv om mye er bra i Norge, og det skulle bare
+mangle, er det også mye som kan og må bli bedre. Det trengs en ny
+kurs for å få flere i arbeid, lære barna å lese, skrive og regne,
+la folk beholde mer av egne penger og bygge et sterkere næringsliv.
+Dette er spesielt viktig i den tiden vi lever i nå, med større geopolitisk
+usikkerhet enn på noe tidspunkt i moderne tid. Krig, handelsbarrierer,
+energikrise og økte kostnader setter oss på prøve og kommer med
+en pris, og den prisen betales av folk og bedrifter. Derfor er det
+på overtid å la folk og bedrifter beholde mer av egne penger, slik
+at de settes i stand til å håndtere svingninger i priser på egen
+hånd. Regjeringen har lovet at folk skal få bedre råd, men bidrar
+dette budsjettet til at folk får bedre råd? Mens prisene på mange
+varer og tjenester fortsetter å øke, velger regjeringen å holde
+skatter og avgifter uendret. </A>
+            <A Type="Minnrykk">Arbeiderpartiet gikk til valg på trygg styring
+og lavere rente. Rentene har gått opp, og styringen er retningsløs.
+Hva vil regjeringen med dette budsjettet? Her lanseres ingen reformer,
+ingen store satsinger og ingen effektivisering. </A>
+            <A Type="Minnrykk">De siste årene har regjeringen servert nye
+skatter, midlertidige skatter og skatter med tilbakevirkende kraft.
+Dette har særlig rammet bedriftene og kom på toppen av internasjonal
+uro. Hvis vi skal opprettholde velferden og tryggheten i samfunnet
+over tid, må det tas grep i dag for å legge til rette for vekst,
+verdiskaping og nye arbeidsplasser i morgen. Regjeringens budsjettforslag
+mangler dessverre ambisjoner for fremtidens næringsliv. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1000402">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [10:49:15]:</Navn> Jeg er glad for at
+representanten Astrup satte pris på min finanstale. Så vil jeg si
+at representanten har helt rett i at dette budsjettforslaget vil
+bli endret. Det er helt åpenbart at når vi er ett parti i regjering
+og skal forhandle med fire partier i Stortinget, så vil det bli
+endringer. Det har jeg veldig god erfaring med. Jeg har nå vært
+med på dette når det gjelder både revidert nasjonalbudsjett våren
+2025, budsjettet for 2026 og revidert nasjonalbudsjett for 2026,
+og nå begynner vi altså på budsjettet for 2027. </A>
+            <A Type="Minnrykk">Alle de tidligere erfaringene er veldig gode.
+Vi har fått til viktige satsinger, satsinger som er viktige for
+de ulike partiene som er våre budsjettpartnere. Vi har i tillegg
+greid å holde ansvarlige rammer. Jeg er trygg på at vi skal få til
+det også denne gangen, at vi sikrer ansvarlige rammer, men at vi
+samtidig forbedrer, justerer og endrer budsjettet på ulike områder,
+i tråd med det som er ønsket fra de ulike partiene. Styrken på den
+rød-grønne siden er at vi faktisk har et flertall, at vi kan samarbeide på
+tross av ulikheter. Det er ikke slik at det strutter av den samme
+egenskapen på borgerlig side. </A>
+            <A Type="Minnrykk">Så er det spørsmålet om folk har fått bedre
+råd. Det jeg sier, er at når vi reduserer skatten på vanlige inntekter
+mer enn en borgerlig regjering har gjort noen gang, på 20 år, så
+monner det. Det spiller en rolle, og hvis det ikke spiller en rolle,
+er det litt vanskelig å skryte av de årene de borgerlige la fram
+kutt i inntektsskatten. </A>
+            <A Type="Minnrykk">Det andre, som er viktigere, er at det er totaliteten som
+avgjør, og da er det summen av ulike ting. Ja, noen priser går opp.
+Noen strømpriser går opp, og matvarepriser går opp. Mange ting kommer
+til å gå opp neste år, men det er altså slik at de beste anslagene
+vi har, men også andre prognosemiljøer har, viser at når man tar hensyn
+til alle prisene som går opp, og så sammenligner det med lønningene,
+går lønningene også neste år mer opp enn prisene. Det kalles bedre
+råd, det kalles økt kjøpekraft, og det er ikke bare jeg som sier
+det, men det er dette fantastiske tekniske beregningsutvalget for
+inntektsoppgjørene som dokumenterer det.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1000404">
+            <A>
+              <Navn personID="NA">
+Nikolai Astrup (H) [10:51:24]:</Navn> Takk til finansministeren
+for en figurativ fremstilling av pris- og lønnsvekst. Det settes
+stor pris på, og det supplerer den forelesningen som finansministeren
+ga ved møtets begynnelse. </A>
+            <A Type="Minnrykk">La meg først få lov å si at da Solberg-regjeringen
+styrte, ga vi i gjennomsnitt mye mer skattelettelser til folk flest
+enn det denne regjeringen har gjort, så lenge den har sittet. Det
+er jo nettopp hvor mye bedre råd man får over tid, som betyr noe.
+Regjeringen har altså økt skattene samlet med 150 mrd. kr, som de
+har tatt inn særlig fra bedriftene, uten at det kommer noen nye
+tiltak i dette budsjettet for å gi nettopp bedriftene bedre rammevilkår
+fremover. </A>
+            <A Type="Minnrykk">Denne startet dagen med at vi fikk en fremstilling
+av at her kom det betydelige skattelettelser, men det viser seg
+jo være brutto lettelser. Lettelsene ble altså redusert fra 6 mrd. kr
+kl. 8 i dag tidlig til 1 mill. kr innen vi fikk budsjettdokumentene.
+Poenget må jo være at vi har mulighet til å bruke mer av statens
+handlingsrom på å la folk og bedrifter sitte igjen med netto skatte-
+og avgiftslettelser. Det velger regjeringen ikke å gjøre, i en tid hvor
+veldig mange, både folk i sin hverdag og også bedriftene, kjenner
+på at mange kostnader øker. Derfor hadde dette vært et veldig godt
+tidspunkt for å sikre at folk fikk sitte igjen med mer, og at de
+selv fikk bestemme hva de skulle bruke disse pengene på, istedenfor
+at staten bestemmer for dem hva som er viktig å prioritere nå. Dette
+er en prinsipiell forskjell mellom oss og regjeringen. </A>
+            <A Type="Minnrykk">Så tror jeg ikke at jeg skal gå inn på de sprikende staurene
+som finansministeren da skal bære på gjennom disse budsjettforhandlingene,
+men det er helt åpenbart et problem for regjeringen at de har mistet kontrollen
+over sitt parlamentariske grunnlag, med budsjettpartnere som er
+villige til å bryte avtalene før blekket er tørt. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1000406">
+            <A>
+              <Navn personID="MARHAM">
+Marthe Hammer (SV) [10:53:40]:</Navn> I går stod statsministeren
+i denne salen og sa at det å ha små forskjellar er viktig for samfunnet.
+Difor er det totalt uforståeleg at regjeringa vel å akselerere ulikskapsutviklinga
+i Noreg. Regjeringa varslar skattekutt for folk flest, men dei rikaste
+får med dette forslaget nesten 3 000 kr meir i skattekutt enn dei
+fattigaste. Samtidig er det ikkje berre eit lappeteppe av usosiale
+kutt i eingongsstønad og overgangsstønad, det er også eit kutt på
+600 mill. kr til foreldrelause born.</A>
+            <A Type="Minnrykk">Regjeringa har frislepp på datasenter og sender straumrekninga
+til vanlege folk når dei skrur opp noregsprisen. Buutgiftene har
+skote i taket, samtidig som bustadpolitikken til regjeringa har
+rasa saman. Ein vanleg familie betalar etter renteaukinga nesten
+12 000 kr meir berre i renter. Samtidig stig husleiga dobbelt så raskt
+som prisveksten.</A>
+            <A Type="Minnrykk">Med dette budsjettet avlyser regjeringa klimapolitikken
+i dette landet. I ei tid der skogbrannane herjar og vi har lagt
+bak oss nok ein sommar med varmerekord, treng vi ein klimapolitikk
+folk kan tru på, og for norske arbeidsplassar. Det vi i staden ser,
+er at regjeringa halverer klimatiltaka gjennom massive kutt i Enova
+og tredoblar innsatsen til klimatiltak i utlandet. Dette er ikkje berre
+krise for klimapolitikken i Noreg, det er krise for norske arbeidsplassar
+og norsk omstilling. Det regjeringa no legg opp til, er at vi brukar
+milliardar på å omstille industri og næringsliv i andre land, ikkje
+i Noreg. Med dette budsjettet fortset regjeringa ein politikk der
+Noreg blir ståande igjen på perrongen og ser på at andre land kuttar
+utslepp og omstiller seg. Det er noko med fordelinga her. I dette
+budsjettet skal elbilistane betale 3,8 mrd. kr meir, mens fossilbilistane
+betalar over 1 mrd. kr mindre. Det er fullstendig feil retning.</A>
+            <A Type="Minnrykk">Summen av regjeringa sine tiltak og kutt er
+at folk kjem dårlegare ut. Etter det eg kan sjå, får ein 1 000 kr
+i skattelette viss ein tener 500 000 kr, men ein må betale 960 kr
+meir i straum. Det er ikkje sånn finansministeren sa her, at regjeringa
+har redusert prisen på kollektivbillettane. Nei, dei aukar den med
+1 920 kr i månadskort. Totalt går ein nesten 2 000 kr meir i minus.
+Dette er ikkje å gje folk betre råd. Renteaukinga treff ikkje berre
+lommeboka til folk, den treff også velferda. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1000408">
+            <A>
+              <Navn personID="JES">
+Statsminister Jens Stoltenberg [10:56:49]:</Navn> Jeg ser fram til
+å forhandle budsjett med SV. Det pleier å gå bra. Det har gått bra
+i veldig mange år, i ulike konstellasjoner, både i regjering og
+i storting, så det skal bli bra. Det er bra å få klare meldinger
+om at vi må ha en sterk fordelingspolitikk.</A>
+            <A Type="Minnrykk">Dette budsjettet er et budsjett for rettferdig
+fordeling. Det aller viktigste vi gjør for å utjevne forskjeller
+i Norge, er for det første å holde arbeidsløsheten lav. Økt ledighet
+rammer alltid dem som har minst, mest. </A>
+            <A Type="Minnrykk">Det andre er å finansiere offentlig sektor.
+Jeg prøvde å få fram i finanstalen at skatt er viktig, ikke bare
+fordi de rikeste betaler mest skatt, men først og fremst fordi når vi
+betaler inn til felleskassa, til det spleiselaget velferdssamfunnet
+er, så kan vi betale pensjoner, trygder, skole og helsetjenester,
+som utjevner forskjellene. Derfor er det faktisk slik at når man
+ser på forskjeller i Norge før skatt og offentlig sektor, er de
+dobbelt så høye som etter at vi korrigerer for den utjevnende effekten
+offentlig sektor og skatter har. Utgiftssiden i budsjettet er på mange
+måter vel så utjevnende som inntektssiden. Vi finansierer velferdssamfunnet
+i dette budsjettet, og det virker utjevnende.</A>
+            <A Type="Minnrykk">Det tredje er at fordeling mellom arbeid og
+kapital er et viktig fordelingsspørsmål. Det vi gjør i dette budsjettet
+og også i årets budsjett, er å tette skattehull noen av dem som
+har de største inntektene og mest kapital, bruker mest. Det er bl.a.
+denne flertrinnsmodellen, men det er også en fradragsrett i finanssektoren
+vi nå har tettet, som gir inntekter neste år, og som vi bruker til
+å redusere skatten på arbeid. Det å få et mer rettferdig skattesystem
+med færre hull de rikeste kan benytte seg av, og så bruke de pengene
+til å redusere skatten på arbeid, bidrar til rettferdig fordeling.</A>
+            <A Type="Minnrykk">Arbeiderpartiet er for rettferdighet. Dette
+budsjettet er et budsjett for rettferdig – og så diskuterer vi gjerne hvordan
+vi kan gjøre det enda bedre sammen.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1000410">
+            <A>
+              <Navn personID="MARHAM">
+Marthe Hammer (SV) [10:58:53]:</Navn> Som sagt: Renteaukinga treff
+ikkje berre lommeboka, den treff også velferda. Vi kan ikkje ha
+ei utvikling der renterekninga blir send til dei som tørkar snørr
+i barnehagen, til lærarane i skulen, og til folka som allereie løper
+livet av seg i helsetenesta vår. Difor trengst det ein politikk
+for folk og velferda. Det blir snakka mykje om bemanning frå regjeringa,
+men regjeringa reduserer med dette budsjettet bemanninga i barnehagen. </A>
+            <A Type="Minnrykk">Det finst eit alternativ for velferda og renta
+som regjeringa vel ikkje å bruke, og det er å auke skattane til
+dei som har aller mest. To av tre av dei aller rikaste i Noreg er
+arvingar, overskotet til bankane har aldri vore høgare, og det går
+godt for dei på toppen. Det er mogleg å gje meir til velferda utan
+at det aukar presset i økonomien – om det er politisk vilje til
+det.</A>
+            <A Type="Minnrykk">Regjeringa sa sjølv at dei har gjort store
+grep på å endre inntektsskatt og avgifter, men har openbert unnlate å
+gjere noko med den mest openberre av dei, nemleg finansskatten.
+Vi må gjerne kalle det eit skattehòl, men i finansmarknadsmeldinga
+skreiv Arbeidarpartiet sjølv at bankane i år betalar over 13 mrd. kr
+mindre i skatt samanlikna med andre næringar, fordi dei slepp unna meirverdiavgift.
+I ei tid der bankane går med rekordoverskot og skor seg på det høge
+rentenivået, er det oppsiktsvekkjande at den rikaste næringa av
+dei alle skal sleppe unna med mindre avgift og skatt enn andre næringar.</A>
+            <A Type="Minnrykk">Leigeprisane aukar, og renta bit på økonomien
+til barnefamiliane og unge i etableringsfasen, men ikkje berre dei:
+Renta kjennast verkeleg i ei byggjenæring i krise. Vi har aukande
+arbeidsløyse, det viser AKU-tala. Kor blir det av bustadsatsinga
+til regjeringa? Med ein ny bustadpolitikk kan vi gjere fleire ting
+samtidig: Vi kan byggje fleire bustadar folk har råd til, og vi
+kan sørgje for oppdrag til folk og næringsliv.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1000412">
+            <A>
+              <Navn personID="BJAG">
+Bjørn Arild Gram (Sp) [11:01:11]:</Navn> Mye av debatten i år har
+vært preget av konsekvensene av krigen i Midtøsten, framfor alt
+de høye drivstoffprisene. I mange land i Europa har regjeringene
+tatt initiativ til tiltak for å dempe prisene for å avlaste familieøkonomien
+og kostnadspresset for bedriftene. I Norge har regjeringen derimot
+sett liten grunn til å dempe konsekvensene for de som blir særlig
+rammet av høye priser – selv ikke når man ser trettitallet på pumpen,
+selv ikke når deler av næringslivet varsler om betydelige utfordringer
+med høye drivstoffkostnader.</A>
+            <A Type="Minnrykk">Senterpartiet vil dempe avgiftstrykket fordi
+omfattende flate avgifter treffer sosialt og geografisk skjevt.
+Vi vil heller sikre fordeling gjennom gode tjenester og et progressivt
+skattesystem. Senterpartiet vil dempe avgiftstrykket fordi det for
+deler av næringslivet virker mot sin hensikt. Det skaper konkurranseulemper
+og kan føre til karbonlekkasje. Vi vil heller hjelpe bedriftene
+med nødvendig klimaomstillingsarbeid, uten at konkurransekraften
+og omstillingsevnen ødelegges.</A>
+            <A Type="Minnrykk">Det er ikke bra når en særnorsk CO<Sub>2</Sub>-avgift
+for fiskeflåten øker utslippene fordi det fører til mer gangtid
+eller at man unngår det norske kravet om innblanding av biodrivstoff.
+Det er ikke bra når stadig økende CO<Sub>2</Sub>-avgifter gjør at
+deler av nærskipsfarten mister fraktkontrakter fordi utenlandske
+konkurrenter bunkrer billigere der de kommer fra. Det er ikke bra
+for bedrifter i prosessindustrien at de taper i konkurransen fordi
+de får avgifter som bedrifter i andre land ikke har, eller ikke
+får lagt om til mer miljøvennlig produksjon fordi det offentlige som
+pålegger dem en stadig økende CO<Sub>2</Sub>-avgift, ikke samtidig
+har sikret dem nett og kraft til å faktisk kunne omstille seg. Det
+er heller ikke bra at folk som ikke har råd til å kjøpe seg en elbil,
+men som er helt avhengige av bilen for å komme seg på arbeid, møter
+dieselpriser på rundt 30 kr når de skal fylle tanken.</A>
+            <A Type="Minnrykk">Senterpartiet støtter forslaget om å fortsette
+å senke inntektsskatten, som vi gjorde – med finansministeren i spissen
+– da vi satt i regjering. Inntektsskatten ble da senket med 11 mrd. kr.
+Det er Senterpartiets politikk å gjøre det mer lønnsomt å arbeide,
+og lettelser må særlig komme dem med de laveste inntektene til gode.
+Senket inntektsskatt er også en sentral tilråding fra en samlet skattekommisjon.
+Vi vil også se på reduksjoner i eierbeskatningen, selv om hoveddebatten
+om det vil komme i oppfølgingen av skattekommisjonen til neste år.
+Senterpartiet mener at det er rom for samlede lettelser i skatter og
+avgifter neste år og de nærmeste årene.</A>
+            <A Type="Minnrykk">Men lettelser i bl.a. inntektsskatten kan ikke
+erstatte behovet for lettelser i avgiftene, og forslaget til statsbudsjett
+fører til fortsatt høye og økende pumpepriser for bilistene. For
+næringslivet øker avgiftene betydelig – for fiskeriene, nærskipsfarten,
+prosessindustrien, bygg og anlegg, veksthusnæringen mv. Er ikke
+finansministeren enig i at vi må dosere klimaavgiftene på en måte
+som gjør at vi ivaretar privatøkonomien til folk og sikrer konkurransekraften
+til norsk næringsliv?</A>
+          </Hovedinnlegg>
+          <Merknad>
+            <Handling>
+              <A>
+                <Uth Type="Sperret">Morten Stordalen</Uth> hadde
+her overtatt presidentplassen.</A>
+            </Handling>
+          </Merknad>
+          <Hovedinnlegg Id="i1000414">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [11:04:23]:</Navn> Jeg og regjeringen
+forstår fullt ut den uroen som veldig mange mennesker opplever,
+bl.a. fordi de ser økte priser også når det gjelder drivstoff. Da
+er det kanskje greit å minne om at da Senterpartiet hadde finansministeren
+for noen år siden, hadde vi drivstoffpriser på samme nivå som i
+dag, når vi tar hensyn til den alminnelige prisveksten, altså ser
+på faste, eller reelle, kroner. Det var grunn til uro da, det er
+grunn til uro nå.</A>
+            <A Type="Minnrykk">Grunnen til at vi ikke bruker milliarder av
+kroner på å redusere disse avgiftene, er at vi mener at andre tiltak virker
+bedre. Vi bruker heller disse pengene på en veldig omfattende strømstøtteordning,
+en ordning der vi regner med å bruke 16 mrd. kr neste år – det kan
+fort bli mer hvis prisene går ytterligere opp –, og vi bruker pengene
+på omfattende reduksjoner i inntektsskatten, som vi mener treffer
+bredt, og som har en bedre innretning enn kutt i drivstoffavgiftene.
+Og en krone kan bare brukes én gang, så vi prioriterer dette framfor
+å gjøre noe med avgiftene.</A>
+            <A Type="Minnrykk">Det er mulig representanten misforsto, men
+poenget er at når det gjelder pumpeprisene, så har vi altså økt CO<Sub>2</Sub>-avgiftene,
+men fordi råoljeprisene er så høye, har vi kompensert ved å ta ned
+veibruksavgiften, så pumpeprisene blir upåvirket av dette budsjettet.
+Det gjør vi fordi vi erkjenner at det er høye oljepriser der ute.
+Når det gjelder CO2-priser generelt, så økes de i EU, og de økes
+i Norge. Vi er også en del av det europeiske kvotesystemet som skal
+utvides – og det oppfatter jeg at Senterpartiet også er tilhenger
+av –, og det er prising av utslipp som er det viktigste virkemiddelet
+i Europa og i Norge. Det vi gjør i Norge, er at når vi får økte
+inntekter fra klimaavgifter, bruker vi dem på å redusere andre skatter
+og avgifter. Det samlede skatte- og avgiftsnivået går ikke opp.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1000416">
+            <A>
+              <Navn personID="BJAG">
+Bjørn Arild Gram (Sp) [11:06:28]:</Navn> I mai meldte regjeringen
+at aktivitetsnivået i norske kommuner hadde gått ned i 2025. For
+første gang på ti år mindre aktivitet – hvorfor skjedde det? Hadde
+behovet for helse- og omsorgstjenester gått ned? Hadde bemanningen
+i ulike tjenester nådd et nivå hvor det nå trengtes færre hender?
+Nei, det skjedde fordi kommunene måtte stramme til. Loven krever
+balanse uavhengig av konsekvensene. </A>
+            <A Type="Minnrykk">Svaret fra regjeringen på den utviklingen da
+budsjettet ble lagt fram i fjor, var en veldig puslete økning i de
+frie inntektene for kommunesektoren. Med Senterpartiet som pådriver
+ble det beløpet – den lille økningen som lå der – mer enn åttedoblet
+i forhandlingene. </A>
+            <A Type="Minnrykk">For neste år foreslår regjeringen igjen den
+samme svake utviklingen i kommuneøkonomien. Samtidig får vi framlagt
+et budsjett som er blottlagt for ambisjoner om å ta hele landet
+i bruk og skape vilkår for vekst og utvikling i hele Norge. Det
+preges av kutt i de distriktspolitiske virkemidlene. Alt av bredbåndstøtte
+strykes. Dog legges det inn penger til å styrke bredbåndsdekningen
+i togtunnelene på Østlandet, men å ha en politikk som sørger for
+at vi får bygd ut høyhastighets bredbånd over hele landet, fravikes.
+Det er kutt i distriktsbutikkene, i næringstiltak i distriktsområder,
+i verdiskapingstiltak i skog, og det er sentralisering av Sivilforsvaret.
+Listen blir bare lengre etter hvert som man leser seg gjennom budsjettet
+– folkehøgskolene, mindre rettssteder, osv. – i tillegg til en kommuneøkonomi
+som ikke svarer på de behovene som er der ute, i den virkelige verden. </A>
+            <A Type="Minnrykk">Burde ikke kjernen i et prosjekt som kan forene
+Arbeiderpartiet og Senterpartiet, vært en systematisk innsats for
+sosial og geografisk fordeling?</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1000418">
+            <A>
+              <Navn personID="MMIKRI">
+Mímir Kristjánsson (R) [11:08:30]:</Navn> Ingen skal ha kake før
+alle har fått brød – sånn formulerte Einar Gerhardsen regjeringens
+prioriteringer under gjenoppbyggingen av Norge etter krigen. Det
+prinsippet står seg godt, for politikkens jobb kan ikke være å kaste
+frynsegoder etter dem som har mest fra før.</A>
+            <A Type="Minnrykk">Levekostnadene i Norge har økt i lang tid.
+Både mat, strøm, bolig og helse er altfor dyrt for folk med vanlig
+og lav inntekt. Faste lave priser kan ikke bare være et slagord
+for REMA 1000. Det må være en realitet for folk, både når de betaler
+strømregningen, og når de går til tannlegen. Det er bra at regjeringen
+kutter i inntektsskatten, men her går det meste av pengene til dem
+som har millionlønn, og minst går til folk med vanlige og lave inntekter
+– arbeidsfolk, pensjonister og uføre. For Rødt er det avgjørende
+alltid å prioritere hverdagsøkonomien til vanlige folk, ikke dem
+som har mest fra før.</A>
+            <A Type="Minnrykk">Det er særlig to ord som oppsummerer Rødts
+syn på dette forslaget. Det ene er «tannløst». Rødt har fått gjennomslag
+for å sette i gang en ordentlig tannhelsereform som skal påbegynnes
+i forbindelse med statsbudsjettet for 2027. Nå som regjeringens
+budsjettforslag ligger her, er det altså ikke en eneste ny krone
+til tannhelse. Da er det i alle fall noe som er sikkert: Karius
+og Baktus kan puste lettet ut. </A>
+            <A Type="Minnrykk">Gutten som ikke vil pusse tennene sine i fortellingen
+til Thorbjørn Egner, het tilfeldigvis Jens. (Munterhet i salen)
+Til slutt derimot gir han altså etter for presset. Her skal historien
+gjenta seg, for det skal bli en tannhelsereform i denne stortingsperioden,
+enten regjeringen vil det eller ikke, for vi i Rødt skal forhandle
+fram Norges neste store velferdsreform. </A>
+            <A Type="Minnrykk">Det andre ordet vi vil bruke, er «kraftløst»,
+for ikke engang Arbeiderpartiets eget prestisjegrep med norgespris
+leverer regjeringen på. I dette budsjettet dobles statens inntekter
+fra vannkraften. Likevel øker regjeringen norgesprisen for vanlige
+folk med 12,5 pst. – tre–fire ganger vanlig prisvekst. Når strømprisen
+går opp, er det et argument for å holde norgesprisen på om lag samme nivå,
+slik også LO er tydelig på. Det er ikke et argument for at norgespris
+skal bli et stadig krympende norgesplaster.</A>
+            <A Type="Minnrykk">I to budsjettforhandlinger har Rødt – sammen
+med Arbeiderpartiet og våre budsjettkamerater – vist at vi kan få
+til en faktisk forandring for folk. Vi har økt minstepensjonen,
+økt fribeløpet i uføretrygden, kuttet i egenandeler i helse og styrket
+velferden. I høst vil vi bruke den styrken vi har fra velgerne,
+til å forhandle knallhardt, men konstruktivt og forhåpentligvis
+gjøre gull av denne gråsteinen.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1000420">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [11:11:41]:</Navn> Jeg ser fram til å
+samarbeide og forhandle budsjett med Rødt. Vi pleier å få det til
+– vi har fått det til hver gang vi har prøvd, og vi skal få det
+til også denne gangen. </A>
+            <A Type="Minnrykk">Jeg vil bare kort si litt om et par av de poengene
+som blir nevnt. Det første er: Hvor går de store pengene når det
+gjelder kutt og reduksjoner i inntektsskatten? De går til vanlige
+inntekter og de går til lavere inntekter – de går til folk flest.
+For er det et kjennetegn ved folk flest, er det at de er flest.
+Når man skal kutte skatten bredt, er det selvfølgelig i de store
+lønnstakergruppene man bruker de store pengene. Så er det et element
+som er å redusere trygdeavgiften. Det blir selvfølgelig lik prosent
+for alle, men det blir et større kronebeløp for dem med høyest inntekt,
+men det er ikke der de store pengene går – de store pengene går
+til de store befolkningsgruppene. Derfor koster dette mye, men det
+er riktig bruk av penger. </A>
+            <A Type="Minnrykk">Det andre er norgespris. Altså: Norgespris
+justeres akkurat som varslet. Norgespris er en svært god og viktig ordning
+som skjermer husholdningene mot de svingningene i markedsprisen
+som vi har sett – 2–3 kr er nå markedspris i store deler av Norge,
+og man kan få 45 øre, som er en god pris. </A>
+            <A Type="Minnrykk">Noe annet er inntrykket av at vi har mye –
+ja, staten tjener penger, det offentlige tjener penger når kraftprisene
+er høye. Det er veldig bra at vi har offentlig eierskap til kraftsektoren
+som sikrer fellesskapet inntekter. Men det er jo ikke slik at de
+pengene gjemmes bort i en egen kasse som vi liksom kan bruke til
+noe ekstra – alle de pengene bruker vi på strømstøtteordninger,
+på trygd, på pensjon og på andre fornuftige ting. Det er faktisk
+slik at når vi tar alle inntektene til staten, også de inntektene som
+kommer fra kraft, går staten dundrende underskudd. Vi mangler 600 mrd. kr.
+som vi da må gå i oljefondet for å hente. Det er ikke slik at det
+er noen kraftinntekter der som er ekstrainntekter – vi bruker hver
+krone på velferd, og så må vi i tillegg bruke 600 mrd. oljekroner. </A>
+            <A Type="Minnrykk">Igjen: Én krone kan ikke brukes to ganger.
+Hvis man bruker mer på én ordning, så har man litt mindre penger
+til en annen ordning.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1000422">
+            <A>
+              <Navn personID="MMIKRI">
+Mímir Kristjánsson (R) [11:13:50]:</Navn> Først av alt vil jeg si
+til statsråden at jeg tror vi kommer til å bli enige i høst, det
+har vi alle forutsetninger for å bli. Men det er noen ting som må
+på plass først. </A>
+            <A Type="Minnrykk">Det er vel ikke helt dekkende det statsråden
+sier, synes jeg, om hvor de store pengene går med skattekuttet. Altså:
+Det er riktig at folk flest er flest, og at de får noen kroner hver.
+Men realiteten er at de som har inntekt over 1,2 mill. kr, får et
+skattekutt med dette opplegget på 3 200 kr – tre ganger så mye som
+dem som tjener under 600 000 kr. Det også sånn at 40 pst. av det
+kuttet som nå deles ut, går til de to øverste desilene, altså de
+20 pst. rikeste i befolkningen. Det er 2,4 mrd. kr. Heller ikke
+disse pengene – disse kronene – kan brukes to ganger, så når de
+brukes på folk som har over 1,2 mill. kr i inntekt, og til og med
+høyere lønn enn oss som sitter her, kan de ikke brukes på skattekutt
+til dem som tjener 400 000 kr, 500 000 kr og 600 000 kr, det som
+altså er helt vanlige inntekter. </A>
+            <A Type="Minnrykk">Det er riktig at det står noe med liten skrift
+i denne loven om norgespris som regjeringen kan gjemme seg bak når
+det gjelder hvordan den økes, men man kommer altså ikke bort fra
+at det 100 pst. er et politisk valg hvor mye man velger å øke norgesprisen.
+Og man velger å øke norgesprisen tre–fire ganger det som er vanlig prisvekst.
+Det har LO reagert på, og det er det vi reagerer på. </A>
+            <A Type="Minnrykk">Så til det statsråden ikke svarte på – også
+kanskje litt symptomatisk – nemlig tannhelse. For oss er det avgjørende
+at tennene også blir en del av kroppen – i det norske helsevesenet.
+Leser man Helsedepartementets eget budsjett, anerkjenner de de manglene
+som er i dag. Vi opplever at Arbeiderpartiet har en konstruktiv
+og positiv holdning til å få til en sånn reform, og så skal vi kjempe
+som løver for å finne penger til det. De pengene skal ikke bli brukt
+flere ganger, men de skal bli brukt på tannhelse.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1000424">
+            <A>
+              <Navn personID="ODAIND">
+Oda Indgaard (MDG) [11:16:07]:</Navn> Dagen for framleggelse av
+statsbudsjettet kunne ha vært en dag hvor vi tok debatten om de
+lange linjene i norsk politikk, om hvordan dette samfunnet skal
+se ut om 10, 20 eller 30 år. Dessverre er både trontaledebatten
+de siste dagene og regjeringens forslag til statsbudsjett fattig
+på store vyer. </A>
+            <A Type="Minnrykk">Det mest skadelige fellesskapet i norsk politikk
+finnes i skjæringspunktet mellom FrP, Høyre og Arbeiderpartiet.
+Alle disse partiene synes å være enige om at hovedmålet med politikk
+er å holde folk fornøyde her og nå, og at måten vi skal få til det
+på, er gjennom vekst i materiell levestandard. </A>
+            <A Type="Minnrykk">Med Arbeiderpartiets forslag til endringer
+i inntektsskatt og trygdeavgift skal alle få mer, men de minste skal
+få smuler. Hva skjedde med det gamle slagordet om at de med bredest
+skuldre skal bære den tyngste børen? </A>
+            <A Type="Minnrykk">MDG har en alternativ visjon for Norge – for
+alle kan ikke få mer i et land hvor vi forbruker mer enn tre og
+en halv ganger naturressursene. Det er likevel ytterst presserende
+og nødvendig at alle skal ha nok. Vi vil bruke statsbudsjettet til
+å sette full fart mot en framtid som ikke lenger er avhengig av
+fossil energi, og hvor vi eksporterer andre ting enn råvarer; en
+framtid hvor vi ikke ødelegger natur og klima, men bygger verdier
+som varer; en framtid hvor vi har solidaritet med framtidige generasjoner,
+med våre internasjonale medborgere og med dem av oss som har minst
+i samfunnet. </A>
+            <A Type="Minnrykk">I veien for den framtiden står pengesterke
+bransjer som pøser ressurser inn i å drive lobbyarbeid mot oss i denne
+salen og befolkningen for øvrig. Dessverre for folk og framtiden
+får de altfor ofte gjennomslag. MDGs prosjekt er å ta fra dem den
+makten og forsvare folks interesser mot de rikestes ønsker om kortsiktig
+profitt på bekostning av natur og klima. </A>
+            <A Type="Minnrykk">Verst i klassen er olje- og gassnæringen, som
+driver omfattende grønnvasking og gjenforteller løgnen om at fossil
+energi har en plass i framtiden. Det har den ikke. Oljenæringen
+har særskatteordninger som gjør at de kan skrive av nesten alle
+utgiftene sine til PR og reklame på skatten. Ikke rart at vi kollektivt
+har blitt lurt til å tro at Equinor driver med 30 pst. fornybart.
+Den ekte fornybarprosenten er altså under én prosent. Det kunne
+regjeringen ha ryddet opp i, men det gjør de ikke. </A>
+            <A Type="Minnrykk">Enkelte har reagert på at MDG i det siste har
+omtalt norsk oljenæring som krigsprofitører, og spesielt FrP har
+felt sine salte tårer på vegne av Norges rikeste og mektigste næring.
+Men jeg sier det med glede igjen: MDG mener at den sinnssyke ekstraprofitten
+på salg av norsk olje og gass bør gå til fellesskapet og ikke havne
+i lomma på oljeselskapenes aksjonærer. Det er ikke et radikalt standpunkt,
+det er rettferdighet – i en tid da rettferdighet trengs mer enn
+noen gang, og da solidaritet med framtidige generasjoner, med våre
+internasjonale medborgere og med dem i landet vårt som har minst,
+er helt på sin plass. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1000426">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [11:19:14]:</Navn> Igjen: Jeg ser fram
+til å samarbeide og finne felles løsninger når vi nå skal lage et
+budsjett sammen. Det er et budsjett som også tar de store miljø-
+og klimautfordringene på alvor. Det gjøres dels gjennom det vi gjør
+når det gjelder fortsatt klimaprising, det gjøres dels gjennom å
+følge opp EUs kvotehandelssystem. </A>
+            <A Type="Minnrykk">Det er riktig at det er et kutt i, eller en
+reduksjon i, bevilgningene til Enova, men vi mener det er forsvarlig
+fordi Enova har et fond på nesten 40 mrd. kr, jeg tror det er 38 mrd.
+kr. De får et påfyll der på 4,1 mrd. kr, som er lavere enn påfyllet
+i år, men de får altså noe oppå det de har. Derfor har de også ganske
+gode rammer til å fortsette å gi tilskudd til ulike klima- og miljøprosjekter. </A>
+            <A Type="Minnrykk">Ja, det er riktig at vi bør og skal gi støtte
+til klima- og miljøprosjekter. Ut fra et klimahensyn er det også
+viktig ikke bare å subsidiere det vi liker, men å skattlegge det
+vi ikke liker, og det er altså en økning i CO<Sub>2</Sub>-avgiftene.
+Vi følger opp den planen som et flertall her i Stortinget sluttet
+seg til, om en gradvis og forutsigbar økning av prisingen av CO<Sub>2</Sub>.
+Og så bruker vi de pengene til å finansiere reduksjoner i skatt
+på vanlige inntekter. Det mener jeg er en omlegging, en reform,
+som også Miljøpartiet de Grønne har tatt til orde for – den type
+tenkning, den type skatteskift. Det ligger inne i det budsjettet
+vi nå har lagt fram.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1000428">
+            <A>
+              <Navn personID="ODAIND">
+Oda Indgaard (MDG) [11:21:03]:</Navn> Med all respekt: Jeg trenger
+ikke skattelette. Det framstår helt absurd for meg at Arbeiderpartiet
+prioriterer skattelette for sånne som meg når vi vet at en stor
+gruppe mennesker i Norge har altfor lite å rutte med. Det er mangel
+på prioritering, og det er usolidarisk. Med regjeringens forslag
+til statsbudsjett vil månedskortet øke mer i kostnad enn det de med
+inntekt under 1 mill. kr vil få i skattelette. Det hjelper ikke
+at man øker CO<Sub>2</Sub>-avgiften litt når man samtidig holder
+veibruksavgiften lav, når man samtidig gjør kollektiv dyrere og
+vanskeligere å bruke. </A>
+            <A Type="Minnrykk">Regjeringen prioriterer å gi mest i støtte
+til dem som bruker mest strøm. Som finansministeren sier, kutter man
+altså i Enova. Man burde kanskje heller sett på innretningen i Enova,
+for å passe på at husholdningene faktisk klarer å velge løsninger
+som sparer på strømmen, enn både å gi mest støtte til dem som bruker
+mest strøm, og å kutte i bevilgningene til Enova. For det er ingen
+tvil om at det fremdeles er et uendelig og utømmelig behov for energisparetiltak
+i dette landet. Det gjelder også utbygging av solcelleenergi og
+annet. </A>
+            <A Type="Minnrykk">Alle ønsker trygghet og stabilitet, og alle
+folkene der ute fortjener å kjenne på trygghet, livsglede og framtidsoptimisme.
+Problemet er at Arbeiderpartiet nå styrer Norge i et urolig farvann
+med autopiloten på og tror at det skal gi stabilitet. Vi kan ikke
+møte uro med stillstand. Vi må møte det med å endre ting som ikke
+virker. Det er fint med signaler om at man ønsker å se på prismekanismer
+for å gjøre det lettere å ta miljøvennlige valg og gjøre det lettere
+å kutte klimagassutslipp for folk og bedrifter. Det trengs imidlertid
+et taktskifte, og det taktskiftet vises ikke i regjeringens forslag
+til statsbudsjett. Vi ser likevel fram til å forhandle om det budsjettet
+og gjøre det bedre. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1000430">
+            <A>
+              <Navn personID="JRGKRI">
+Jørgen H. Kristiansen (KrF) [11:23:22]:</Navn> Jeg skal begynne
+mitt innlegg med å gi honnør til regjeringen for å gi et skattekutt
+til folk som iallfall er litt større enn det vi har sett tidligere,
+og i alle fall fra en Arbeiderparti-regjering. Siden handlingsregelen
+ble vedtatt, har altfor mye blitt brukt til å sørge for at staten
+eser ut, og altfor lite til at folk og bedrifter kan sitte igjen
+med mer. Derfor er dette et skritt i riktig retning – så det er
+bra.</A>
+            <A Type="Minnrykk">Når det er sagt, er det mye jeg er kritisk
+til i dette budsjettforslaget. Mange familier og bedrifter får kraftig økte
+utgifter. Det er et budsjett som ikke svarer på de utfordringene
+norske bedrifter og folk flest står i. Renten er økende. Det er
+reelt kutt i barnetrygden, det er reelt kutt i kontantstøtten, og
+strømmen blir dyrere for vanlige folk. Diesel- og bensinprisene
+er høye, reduksjonen i veibruksavgiften spises opp av økningen i
+CO<Sub>2</Sub>-avgiften. Maten er også blitt dyrere, og det er et
+stort kutt i engangsstøtten, på nesten 30 pst. Det går ut over alle
+studenter og unge som får barn før de har opptjente rettigheter.
+Det er et ekstremt usosialt kutt. </A>
+            <A Type="Minnrykk">Regjeringen innrømmer også i budsjettdokumentene
+at klimaavgiftene rammer dem med lavest inntekt hardest. Det er
+vanskelig å forstå, i en tid hvor mange sliter med å få endene til
+å møtes.</A>
+            <A Type="Minnrykk">Kunnskapsministeren legger mye av skylden for
+de dårlige PISA-resultatene på skjermen. Da er det skandaløst at
+regjeringen ikke foreslår mer enn om lag en halv ny lærebok per
+elev i statsbudsjettet for neste år, samtidig som dårlig kommuneøkonomi
+har ført til kutt i skolebibliotekarer, lærere og videreutdanning
+av lærere. En kan ikke holde pressekonferanse om lesekrise den ene dagen
+og så levere et lærebokbudsjett som er et mageplask den neste.</A>
+            <A Type="Minnrykk">Deler av næringslivet sliter. Høye kostnader
+til drivstoff er svært ødeleggende. Det er høyere kapitalkostnader
+og også enorme strømutgifter, spesielt på Sørlandet. </A>
+            <A Type="Minnrykk">For femte år på rad legger regjeringen opp
+til at det skal bygges for få sykehjemsplasser til å møte behovene. Det
+legges opp til 1 750 plasser, men alle vet at minimum for å nå behovet
+i 2035 er 1 900 per år. For hvert år det er bevilget for lite, øker
+da etterslepet. Og når kommuneøkonomien er under press, samtidig
+som regjeringen skriver i sitt budsjettframlegg at andelen av befolkningen
+som bor i ROBEK-kommuner, er på sitt høyeste siden 2017, da er det
+grunn til bekymring. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1000432">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [11:26:11]:</Navn> Dette er et budsjett
+som styrker de grunnleggende velferdstjenestene. Det er et budsjett
+som gir en betydelig økning til sykehusene og en betydelig økning
+til kommunene, i tråd med det som det var enighet om da vi behandlet
+kommuneproposisjonen i vår. Kommunene får 3,2 mrd. kr i frie inntekter.
+Det er nok til å dekke demografi, at det blir flere eldre, og det
+er noen hundre millioner utover det til andre satsinger, utover
+de øremerkede tilskuddene. Det er alltid lett å argumentere for
+enda mer, men det er altså i tråd med det som er varslet, og det
+er en betydelig økning.</A>
+            <A Type="Minnrykk">Så vil jeg også si at det er lett bare å se
+bort fra demografi, men det at vi skal betale for det sammen, det
+at vi faktisk i fellesskap, gjennom fellesskapsløsninger, spleiselaget,
+som velferdssamfunnet er, skal betale for at vi blir veldig mange
+flere eldre, er ikke en nullsatsing, det er ikke nullpunktet. Det
+er i seg selv mye å oppnå bare det, så jeg mener at på både helse
+og omsorg og andre områder er det viktig å ta med satsingen som
+også dekker demografien.</A>
+            <A Type="Minnrykk">Jeg vil også understreke at det vi nå står
+overfor, handler om at det blir flere eldre, men også om at det
+er færre barn, og det er begge deler som gir en demografisk utfordring
+for politikere – i denne salen, men egentlig først og fremst ute
+i kommunene. Det er klart at når det må fødes to barn per kvinne
+for at det skal være like mange i skolepliktig alder i den kommunen
+om 20–30 år som det var da de var små, og det ligger på omtrent 1,4,
+så blir det stadig færre barn i de aller fleste norske kommuner.
+Det gjør også noe i den andre enden av demografien, altså ikke der
+jeg er, men der barna er, og det setter oss alle på prøve. </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1000434">
+            <A>
+              <Navn personID="JRGKRI">
+Jørgen H. Kristiansen (KrF) [11:28:17]:</Navn> Takk for svaret.
+Vi er enige om én ting: Det fødes for få barn. Så har Arbeiderpartiet
+og KrF forskjellig medisin for hvordan en lykkes med det. </A>
+            <A Type="Minnrykk">Statsråden svarer ikke på min kritikk om skolen
+og næringslivet. Vi er bekymret for norsk næringsliv. Vi kan ikke
+bare leve av offentlig forvaltning, vi må ha et livskraftig næringsliv.
+Vi vet at formuesskatten tynger – den skal vi riktignok komme tilbake
+til over nyttår. Kapitalkostnaden er høyere, strømprisen er et problem
+for næringslivet, og også diesel- og bensinprisen. </A>
+            <A Type="Minnrykk">Da skal jeg fortelle en liten historie. Jeg
+har reist mye, som vi alle sikkert gjør. Jeg var i Tromsø. Der hadde
+jeg møte med en maskinentreprenør. Den maskinentreprenøren hadde
+i januar i år inngått en kontrakt med Tromsø kommune. 30 pst. av
+kontrakten er som regel alltid dieselkostnaden. Når dieselkostnaden
+er gått opp fra rundt 20 kr til rundt 30 kr, er det nesten en økning
+på 50 pst. Da forsvinner hele overskuddet for bedriften. De kunne
+heller ikke gå inn og endre kontrakten i løpet av det første året.
+Dette er hverdagen for veldig mange i norsk næringsliv. Jeg skulle
+gjerne sett at vi kunne fått til et eller annet når det gjelder
+strøm for næringslivet.</A>
+            <A Type="Minnrykk">Så har vi, som jeg var inne på, et veldig forskjellig
+syn på familiepolitikken. I går kunne jeg høre at Arbeiderpartiet
+i Oslo faktisk vil tvangsinnmelde barn i barnehage. En kunne slippe
+hvis en gjennomførte en samtale. Det er nesten så en ikke tror det
+en hører. </A>
+            <A Type="Minnrykk">Det skal bli interessant å følge forhandlingene
+nå. Jeg kan ikke forstå hvordan Senterpartiet kan få til et forlik
+om dette. Det skal bli spennende å se. Det er iallfall mye som må
+endres. Kanskje er det i år vi ser at det blir et kabinettsspørsmål?
+Det blir iallfall spennende å se.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1000436">
+            <A>
+              <Navn personID="ABIR">
+Abid Raja (V) [11:30:19]:</Navn> Mulighetene vi har i Norge, er
+enorme. Det finnes knapt land i verden som har så mange smarte og
+høyt utdannede folk, som har de naturressursene vi har, som har
+det finansielle handlingsrommet vi har. Vi kan nærmest få til hva
+vi vil. Da må vi ha en regjering som også virkelig vil, og et budsjett
+som virkelig vil ta oss dit. </A>
+            <A Type="Minnrykk">Vi kan skape større optimisme. Vi kan bidra
+til et helt annet tempo i omstillingen av Norge. Vi kan verne mer
+natur og slippe ut mindre klimagasser. Vi kan gjøre noe med nedadgående
+PISA-resultater i skolen. Vi kan endre boligpolitikken for å slippe
+førstegangsetablerere til. Ja, vi kan slippe unge med utdannelsen
+vi ba dem ta, inn i arbeidsmarkedet. Men bidrar dette budsjettet egentlig
+til det? Det kan gjerne pressen sette mer fokus på. </A>
+            <A Type="Minnrykk">Vi i Venstre mener at vi kan bruke skattesystemet
+på å stimulere til enda større arbeidslinje, og på en helt annen
+måte enn det regjeringen gjør – for å gjøre det enda mer lønnsomt
+å jobbe, for å belønne dem som vil satse, skape og utvikle arbeidsplasser,
+for å støtte dem som omstiller virksomheter og hverdag i den retningen
+vi har bedt dem om, for å la folk beholde mer av sin egen inntekt
+og gi dem større frihet til å bestemme hva de vil bruke pengene
+sine til. Det burde være enkelt, og det burde heller ikke være veldig
+kontroversielt. </A>
+            <A Type="Minnrykk">Regjeringens forslag til statsbudsjett er på
+ingen måte krise for landet. Det er mye bra i dette budsjettet som
+vi i Venstre kommer til å støtte. Med så stor pengebruk skulle vi
+likevel ønske at det var større vilje til å få til en bedre retning,
+for vi skal vel kunne mer i Norge, ganske mye mer. </A>
+            <A Type="Minnrykk">Det budsjettet som vedtas før jul, må derfor
+ikke være en tapt mulighet for klimaet, for næringslivet, for hvermannsen.
+Det statsbudsjettet som finansministeren har presentert, er et vitnesbyrd
+om at vi bruker milliarder av kroner på å bevege oss lite framover
+– og verre: På noen områder trekker vi stigen opp etter oss. Det
+blir færre muligheter til dem som kommer etter oss. Framtidsutsiktene
+for mange blir mørkere. En generasjon unge plasseres på venterommet
+til arbeidsmarkedet og til boligmarkedet. De opplever ikke at stigen
+er tilgjengelig for dem, men at vi har trukket den opp. Den samme
+generasjonen opplever at verden er mindre forutsigbar og mer urolig
+enn på svært lenge. Den samme generasjonen ser at naturen bygges
+ned, og at klimapolitikken settes på pause, selv etter en sommer
+der vi har sett konsekvenser av manglende handling. De store pengene
+brukes på tvilsomme kvotekjøp – mindre omstilling i Norge, mer i
+utlandet. </A>
+            <A Type="Minnrykk">Jeg lurer på om det er ett enkelt tiltak i
+det budsjettet finansministeren presenterer i dag, som er nytt,
+og som vil få noen ut av venterommet og inn i relevant arbeid og sette
+førstegangskjøpere bedre i stand til å komme inn på boligmarkedet.
+Hvordan hjelper dette budsjettet dem som føler at stigen ikke er
+tilgjengelig for dem? </A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1000438">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [11:33:35]:</Navn> Jeg er enig i at vi
+skal være veldig bevisste at det er altfor mange mennesker, og spesielt
+unge, som stenges ute eller i hvert fall ikke kommer fullt og helt
+inn i arbeid, i boligmarked, i samfunnet sånn vi ønsker. Jeg har
+to refleksjoner. Den ene er at vi ikke må beskrive en virkelighet
+som er svartere og tristere enn den faktisk er. Sammenlignet med så
+godt som alle land i hele verden, lykkes vi bedre med det. Vi er
+et mer inkluderende og åpent samfunn, der flere tar del i velferden
+og arbeidsmarkedet enn i så godt som alle andre land. Det er i hvert
+fall noe vi gjør riktig, i den forstand at vi gjør det bedre enn
+de fleste andre.</A>
+            <A Type="Minnrykk">Den andre er at det også er noen positive tegn.
+Det er nå slik at antall unge som står utenfor arbeid og utdanning,
+har gått noe ned, og at vi i budsjettet legger fram mange forslag
+til hvordan vi kan styrke innsatsen for nettopp dem. Det er egne
+programmer, det er egne ordninger som gjør at vi skal gjøre det
+lettere for unge å komme inn i arbeidsmarkedet, kvalifisering og
+opplæring. Vi har satt i gang et stort forsøk med arbeidsfradrag for
+unge. Det er nettopp fordi vi er åpne, vi er søkende etter ny kunnskap.
+Mange regjeringer har prøvd over mange år å gjøre noe med det og
+har lyktes i varierende grad. Da setter vi i gang det forsøket.
+Noen fagøkonomer sier det ikke hjelper, andre sier at det hjelper.
+Vi skal prøve å få presis kunnskap, og så skal vi vurdere om vi bruker
+det som et nytt virkemiddel for å bidra til dette. Det kan være
+en del av et langsiktig arbeid med en skattereform. </A>
+            <A Type="Minnrykk">Jeg mener det er positivt at Venstre har en
+åpen holdning til den type endringer. Det vi gjør i budsjettet nå,
+som er en byggestein i en skattereform, må være veldig etter Venstres
+ønske. Det er mer skatt på forbruk, mindre skatt på arbeid, mer
+skatt på forurensing, mindre skatt på inntekt. Jeg regner ikke med
+at Venstre skal klappe i hendene, men at de i hvert fall ser at
+det er en retning som gjør at Venstre og sosialdemokratiet har mye
+felles.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1000440">
+            <A>
+              <Navn personID="ABIR">
+Abid Raja (V) [11:35:43]:</Navn> Åpenbart har sosialliberalisme
+og sosialdemokrati mye mer til felles, og vi skal være en konstruktiv
+partner her på Stortinget. Jeg tror finansministeren kanskje finner
+litt glede i at vi fra tid til annen stemmer sammen med Arbeiderpartiet
+mot populistiske forslag her på Stortinget.</A>
+            <A Type="Minnrykk">Forslaget til statsbudsjett er nå én ting,
+men det endelige resultatet som kommer til å komme etter forhandlingene,
+bekymrer oss, for basert på erfaring vet vi dette: Oljepengebruken
+kommer til å gå opp – 100 pst. sikkert. Den offentlige pengebruken
+kommer også til å gå opp – 100 pst. sikkert. Senterpartiet og MDG
+kommer til å nulle ut hverandre i tiltak når det gjelder natur og klima
+– 100 pst. sikkert. Forskning og innovasjon blir salderingspost
+– 100 pst. sikkert. Det blir ikke flere jobber for den nye og voksende
+gruppen som står utenfor arbeidslivet – dessverre 100 pst. sikkert. </A>
+            <A Type="Minnrykk">Det blir dessverre også enda større press på
+priser og renter, samtidig som Norges Bank var – til dem å være
+– ekstremt tydelig på at budsjettavtalene de siste årene har hatt
+direkte innvirkning på renten, på en negativ måte. Det hjelper mindre
+med økt kjøpekraft, som regjeringen snakker om på inn- og utpust,
+når renteøkningen kommer motsatt vei. Noen kroner mer i lønn er
+fint, det, men mye mer i økte renteutgifter gir ikke bedre hverdagsøkonomi
+– det motsatte av det finansministeren og statsministeren lovet
+velgerne i valgkampen.</A>
+            <A Type="Minnrykk">Vi kan mer enn å få til små bevegelser. Vi
+kan gi flere flere muligheter, vi kan ta bedre vare på naturen og
+få ned utslipp, vi kan la folk beholde mer av sin egen inntekt –
+og vi kan gjøre alt dette uten å presse opp prisene og renta. Venstres
+alternative budsjett for 2027 vil – selv om det er fra et lite parti
+– iallfall vise hvordan.</A>
+          </Hovedinnlegg>
+          <Hovedinnlegg Id="i1000442">
+            <A>
+              <Navn personID="JES">
+Statsråd Jens Stoltenberg [11:37:51]:</Navn> Det har vært en god
+runde med mange betraktninger og vurderinger av regjeringens budsjettforslag.
+Som ventet er det selvfølgelig også kritikk fra de ulike partiene,
+men jeg gleder meg over at jeg opplever at det er en tone fra våre
+budsjettpartnere som handler om at vi skal sette oss ned og ta opp
+og håndtere de sakene der det er uenighet, og der vi kan finne enighet.
+Jeg mener også det siste innlegget fra Venstre i og for seg indikerer
+at det er et parti som kunne hatt mye glede av å samarbeide med
+de rød-grønne.</A>
+            <A Type="Minnrykk">Til et par av de tingene som har kommet fram,
+og som har vært et gjennomgangstema – først dette spørsmålet om
+folk har fått bedre råd eller ikke: Der vil jeg bare si at det jeg
+prøvde å si i finanstalen, er at det egentlig er noe vi bør slippe
+å diskutere, fordi vi har et system i Norge for å få omforente vurderinger
+av hvordan det går. Det er ikke en regjering som på et politisk
+grunnlag lager noe statistikk. Vi har uavhengige statistikkprodusenter,
+som bl.a. Statistisk sentralbyrå, men vel så viktig: Vi har et system.
+Vi har en institusjon som heter Det tekniske beregningsutvalget
+for inntektsoppgjørene, og der sitter KS, der sitter Unio, der sitter
+LO, der sitter NHO, der sitter de alle sammen og blir enige om virkelighetsbeskrivelsen.
+De bruker mye statistikk fra Statistisk sentralbyrå, men de liksom
+underskriver og er felles om det. </A>
+            <A Type="Minnrykk">Hele poenget med det er at man før inntektsoppgjørene
+skal være enige om hvordan det har gått. De tallene viser at prisene
+har gått opp – det er ingen tvil om det, mange ting har blitt dyrere.
+De viser også at enten man ser på lønn eller lønn, renteutgifter/renteinntekter
+og skatteendringer, altså det som kalles disponibel realinntekt,
+har man hatt noen vanskelige år i 2022 og 2023 – da gikk det faktisk
+ned, men etter det har det gått opp, og nå er vi over nivået fra
+før det gikk ned. Derfor er det riktig å si at aldri noen gang før
+i norgeshistorien har nordmenn hatt høyere kjøpekraft, enten man
+måler med eller uten renteutgifter. </A>
+            <A Type="Minnrykk">Det er viktig å føye til igjen at det ikke
+betyr at alle har god råd, det betyr bare at de har bedre råd, når
+lønninger og pensjoner har vokst mer enn prisene. Da er det viktig
+å ha en riktig diagnose av problemet, for hvis man har feil diagnose,
+kan man lett komme med feil medisin. Det er grunnen til at vi i
+hvert fall må ha den virkelighetsforståelsen på plass, og så skal
+vi fortsette å jobbe med hvordan vi skal gjøre det bedre og tryggere
+for alle dem som fortsatt – med god grunn – opplever utrygghet og
+opplever at de har dårlig råd.</A>
+            <A Type="Minnrykk">Det siste jeg vil si, er bare at vi ikke må
+glemme utryggheten der ute. Det vi ser nå, er ganske dramatisk. Det
+ene er de to krigene som pågår der ute, men det er også det vi nå
+ser i rente- og inflasjon. Det er store endringer. Norge er ikke
+en kork på verdenshavene, men vi er liten, åpen økonomi, en liten
+båt på det store havet, og derfor må vi være veldig opptatt av at
+vi er sammen i styringen av denne skuta i det urolige farvannet.</A>
+          </Hovedinnlegg>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:41:03]:</Navn> Kommentarrunden
+er dermed avsluttet.</A>
+            <A Type="Minnrykk">Finansministerens redegjørelse og regjeringens
+forslag til statsbudsjett og nasjonalbudsjett for 2027 føres opp
+til behandling i et senere møte. – Det anses vedtatt.</A>
+          </Presinnlegg>
+        </Sak>
+        <Sakreferat Id="i1000444">
+          <Sakshode>
+            <Saknr>
+              <Uth Type="Sperret">Sak
+nr. 2</Uth> [11:41:16]</Saknr>
+            <Saktittel Id="i1000446">
+              <A>Referat</A>
+            </Saktittel>
+          </Sakshode>
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:41:16]:</Navn> Det foreligger
+ikke referat.</A>
+            <A Type="Minnrykk">Dermed er dagens kart ferdigbehandlet. Forlanger noen
+ordet før møtet heves? – Møtet er hevet.</A>
+          </Presinnlegg>
+        </Sakreferat>
+      </Saker>
+    </Hovedseksjon>
+    <Sluttseksjon>
+      <Hevet>
+        <A>Møtet hevet kl. 11.42.</A>
+      </Hevet>
+    </Sluttseksjon>
+  </Mote>
+</Forhandlinger>

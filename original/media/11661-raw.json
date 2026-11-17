@@ -1,0 +1,31 @@
+{
+  "moteid": 11661,
+  "parts": [
+    {
+      "moteid": 11661,
+      "delnr": 1,
+      "qbvid": "davpt475tutc739u90mg",
+      "mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/da/davpt575tutc739u90n0/davpq7f5tutc739u90g0_1080p.mp4",
+      "audio_mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/da/davpt575tutc739u90n0/davpq7f5tutc739u90g0_240p.mp4",
+      "hls_url": "https://httpcache0-90415-cacheod0.dna.contentdelivery.net/90415-cacheod0/_definst_/smil:assets/da/davpt575tutc739u90n0/davpq7f5tutc739u90g0_240p/playlist.m3u8",
+      "tc_in_utc": "2026-10-02T10:43:03+00:00",
+      "tc_out_utc": "2026-10-02T11:54:33+00:00",
+      "duration_seconds": 4290.0,
+      "thumbnail_url": null,
+      "chapters": []
+    },
+    {
+      "moteid": 11661,
+      "delnr": 2,
+      "qbvid": "davps275tutc739u90hg",
+      "mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/da/davps375tutc739u90i0/davpqd75tutc739u90h0_1080p.mp4",
+      "audio_mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/da/davps375tutc739u90i0/davpqd75tutc739u90h0_240p.mp4",
+      "hls_url": "https://httpcache0-90415-cacheod0.dna.contentdelivery.net/90415-cacheod0/_definst_/smil:assets/da/davps375tutc739u90i0/davpqd75tutc739u90h0_240p/playlist.m3u8",
+      "tc_in_utc": "2026-10-02T10:58:02+00:00",
+      "tc_out_utc": "2026-10-02T11:49:39+00:00",
+      "duration_seconds": 3097.0,
+      "thumbnail_url": null,
+      "chapters": []
+    }
+  ]
+}

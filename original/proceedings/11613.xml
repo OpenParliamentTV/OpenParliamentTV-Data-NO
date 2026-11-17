@@ -1,15 +1,15 @@
-<Forhandlinger Status="Kvalitetssikret">
+<Forhandlinger Status="Komplett">
   <Mote moteID="11613">
     <Startseksjon>
       <Motestart>
         <Tittel>Møte onsdag den 22. april 2026 kl. 10</Tittel>
-        <President Id="i1003795" personID="INF">
+        <President Id="i1004368" personID="INF">
           <A>President: <Uth Type="Sperret">Ingrid
 Fiskaa</Uth></A>
         </President>
         <Dagsorden>
           <Tittel>Dagsorden <DagsordenNR>(nr. 66):</DagsordenNR></Tittel>
-          <DagsordenSak Id="i1003797">
+          <DagsordenSak Id="i1004370">
             <Liste Type="Dagsorden">
               <Pkt>
                 <A> 1.	Muntlig
@@ -32,13 +32,13 @@ har igjen teke sete.</A>
         </Presinnlegg>
       </Motestart>
     </Startseksjon>
-    <Hovedseksjon Id="i1003799">
+    <Hovedseksjon Id="i1004372">
       <Saker>
         <Sporretime saksKartNr="1">
           <Sakshode>
             <Saknr>
               <Uth Type="Sperret">Sak nr. 1</Uth> [10:00:19]</Saknr>
-            <Saktittel Id="i1003801">
+            <Saktittel Id="i1004374">
               <A>Muntlig spørretime</A>
             </Saktittel>
           </Sakshode>
@@ -47,12 +47,12 @@ har igjen teke sete.</A>
               <Navn>Presidenten [10:00:22]:</Navn> Stortinget
 fekk måndag melding frå Statsministerens kontor om at statsrådane
 Jan Christian Vestre og Sigrun Aasland vil møta til munnleg spørjetime.
-Dei annonserte regjeringsmedlemene er til stades, og vi er klara
+Dei annonserte regjeringsmedlemene er til stades, og me er klare
 til å byrja den munnlege spørjetimen.</A>
-            <A Type="Minnrykk">Vi byrjar då med det første hovudspørsmålet,
+            <A Type="Minnrykk">Me byrjar då med det første hovudspørsmålet,
 frå representanten Kristian August Eilertsen, frå Framstegspartiet.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1003803">
+          <Hovedinnlegg Id="i1004376">
             <A>
               <Navn personID="KEI">
 Kristian August Eilertsen (FrP) [10:00:55]:</Navn> Vi lever i et
@@ -76,25 +76,25 @@ helse og omsorg pengebremsen til Vestre skulle på.</A>
             <A Type="Minnrykk">La det være sagt med en gang: Fremskrittspartiet
 mener ikke at det er et mål i seg selv å bruke mest mulig penger,
 men når man ser hvor mye det sløses på andre samfunnsområder, er
-det ikke rart at mange blir provosert når alvorlig dødssyke mennesker
-ikke får tilgang til den beste tilgjengelige behandlingen som finnes.
-Vi ser at pris blir den avgjørende faktoren når man vurderer nye
-medisiner og behandlingsmetoder.</A>
+det ikke rart at mange blir provosert når alvorlig syke og dødssyke
+mennesker ikke får tilgang til den beste tilgjengelige behandlingen
+som finnes. Vi ser at pris blir den avgjørende faktoren når man
+vurderer nye medisiner og behandlingsmetoder.</A>
             <A Type="Minnrykk">Derfor blir spørsmålet til statsråden som følger:
 Er statsråden enig med Fremskrittspartiet i at det å være norsk
 statsborger bør være den beste forsikringen om at man har tilgang til
 de nyeste og beste medisinene og behandlingsmetodene i verden?</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003805">
+          <Hovedinnlegg Id="i1004378">
             <A>
               <Navn personID="JANVES">
 Statsråd Jan Christian Vestre [10:02:40]:</Navn> Heldigvis har vi
-i Norge en av de beste velferdsystemene i verden. Vi har veldig
+i Norge et av de beste velferdsystemene i verden. Vi har veldig
 gode helse- og omsorgstjenester. Vi behandler rekordmange pasienter
 på sykehusene våre. Vi bygger ut eldreomsorgen. Vi har snudd en
 krise i fastlegeordningen til at vi aldri har rekruttert flere fastleger
 enn nå. Ventetidene ved norske sykehus går ned måned for måned.
-Vi investerer stort i vår felles helsetjeneste – 118 mrd. kr bare
+Vi investerer stort i vår felles helsetjeneste – 118 mrd. kr bare
 de siste fem årene i nye bygg, ny teknologi og nye løsninger. Vi
 legger snart fram en helsepersonellplan som skal sikre at Norge
 har nok fagfolk i tjenestene framover, og vi fornyer og forsterker
@@ -110,7 +110,7 @@ god måte?</A>
             <A Type="Minnrykk">Når jeg møter leger, sykepleiere, helsefagarbeidere,
 portører, helsesekretærer, bioingeniører og alle andre, forteller
 de meg at vi har fått et helsevesen der mye er bra, men det har også
-blitt for mange unødvendige oppgaver – unødvendige kontroller, unødvendige,
+blitt for mange unødvendige oppgaver – unødvendige kontroller, unødvendige
 rapporteringer, datasystemer som ikke snakker sammen, og økte krav
 til byråkrati, noe som stjeler tid fra det fagfolkene vil bruke
 mer av tiden sin på.</A>
@@ -123,7 +123,7 @@ fra oljefondet. Det er den debatten jeg mener at alle ansvarlige
 politikere og alle ansvarlige partier her på Stortinget er nødt
 til å ta i årene framover.</A>
           </Hovedinnlegg>
-          <Replikk Id="i1003807">
+          <Replikk Id="i1004380">
             <A>
               <Navn personID="KEI">
 Kristian August Eilertsen (FrP) [10:04:43]:</Navn> Den debatten
@@ -134,38 +134,39 @@ igjen sagt nei til CAR-T-behandling for pasienter med benmargskreft.
 Det har de gjort til tross for at fagmiljøene omtaler dette som
 den beste behandlingen vi har i dag. Sverige og Danmark har innført
 denne behandlingen, men i Norge får pasientene nei. Derfor blir
-spørsmålet til statsråden som følger: Når fagpersoner sier at CAR-T
-er den mest effektive kreftbehandlingen som finnes i dag, men pasientene
-i Norge likevel får nei fordi behandlingen er for dyr ifølge Beslutningsforum,
-bekrefter ikke det at lavest mulig pris er det absolutt viktigste,
-og at det rett og slett går på bekostning av pasientenes liv?</A>
+spørsmålet til statsråden som følger: </A>
+            <A Type="Minnrykk">Når fagpersoner sier at CAR-T er den mest effektive kreftbehandlingen
+som finnes i dag, men pasientene i Norge likevel får nei fordi behandlingen
+er for dyr ifølge Beslutningsforum, bekrefter ikke det at lavest
+mulig pris er det absolutt viktigste, og at det rett og slett går
+på bekostning av pasientenes liv?</A>
           </Replikk>
-          <Replikk Id="i1003809">
+          <Replikk Id="i1004382">
             <A>
               <Navn personID="JANVES">
 Statsråd Jan Christian Vestre [10:05:31]:</Navn> Alle nye metoder
 vurderes ut fra prioriteringskriteriene: Hvor alvorlig er sykdommen
 og tilstanden? Hvor stor nytte vil pasienten ha av behandling? Hvor
-ressurskrevende er det? Det er bredt flertall på Stortinget om at
-det er slik vi skal vurdere nye metoder. </A>
+ressurskrevende er det? Det er bredt flertall på Stortinget for
+at det er slik vi skal vurdere nye metoder. </A>
             <A Type="Minnrykk">Norge ligger ikke bak andre land – snarere
-tvert imot. Vi tar i bruk like mye metoder som andre land. Vi ligger
-til dels foran våre naboland på nye metoder, og vi har også markant redusert
-saksbehandlingstiden for å godkjenne nye metoder under denne regjeringen,
-akkurat som vi har fått ned sykehuskøene og ventetidene. </A>
+tvert imot. Vi tar i bruk like mange nye metoder som andre land.
+Vi ligger til dels foran våre naboland på nye metoder, og vi har
+også markant redusert saksbehandlingstiden for å godkjenne nye metoder
+under denne regjeringen, akkurat som at vi har fått ned sykehuskøene
+og ventetidene. </A>
             <A Type="Minnrykk">Representanten får ikke slippe så billig unna,
 for representanten sa at FrP er villig til å ta alle debatter om
-hva vi kan gjøre annerledes i helse. Vel, fra oktober til nå har
-jeg ikke ett eksempel på noe Fremskrittspartiet har foreslått at
-vi skal gjøre mindre av. Snarere tvert imot fremmes det en lang
-rekke forslag, uten inndekning, til hva vi skal bruke mer penger
-på: 500 mill. kr mer til rehabilitering, som sykehusene mener de ikke
-trenger, Helseplattformen skal avskaffes til 10–15 mrd. kr ekstra
-uten prioritering, og vi skal si ja til alle nye medisiner og alle
-nye metoder, uten å prioritere. Sånn hopp-og-sprett-politikk kan
-vi ikke styre et land etter.</A>
+hva vi kan gjøre annerledes innenfor helse. Vel, fra oktober til
+nå har jeg ikke ett eksempel på noe Fremskrittspartiet har foreslått
+at vi skal gjøre mindre av. Snarere tvert imot fremmes det en lang rekke
+forslag, uten inndekning, til hva vi skal bruke mer penger på: 500 mill. kr
+mer til rehabilitering, som sykehusene mener de ikke trenger, Helseplattformen
+skal avskaffes, 10–15 mrd. kr ekstra uten prioritering, og vi skal
+si ja til alle nye medisiner og alle nye metoder, uten å prioritere.
+Sånn hopp-og-sprett-politikk kan vi ikke styre et land etter.</A>
           </Replikk>
-          <Replikk Id="i1003811">
+          <Replikk Id="i1004384">
             <A>
               <Navn personID="KEI">
 Kristian August Eilertsen (FrP) [10:06:36]:</Navn> Her var det mye
@@ -180,13 +181,13 @@ dem. </A>
 i verden, bl.a. kreftbehandling, får nei i Norge på grunn av pris,
 er det mange nordmenn som sitter med en følelse av at norske pasienter går
 for lut og kaldt vann, mens pengestrømmen ut av landet fortsetter
-med uforminsket tempo med denne regjeringen. Hvordan kan statsråden
-forsvare at kreftpasienter i Sverige og Danmark får tilgang til
-CAR-T-behandling mot beinmargskreft som norske pasienter nektes?
-Og mener da statsråden at verdien av et norsk liv i praksis er lavere
-enn et liv i våre naboland?</A>
+med uforminsket tempo med denne regjeringen. </A>
+            <A Type="Minnrykk">Hvordan kan statsråden forsvare at kreftpasienter
+i Sverige og Danmark får tilgang til CAR-T-behandling mot beinmargskreft
+som norske pasienter nektes? Og mener da statsråden at verdien av
+et norsk liv i praksis er lavere enn et liv i våre naboland?</A>
           </Replikk>
-          <Replikk Id="i1003813">
+          <Replikk Id="i1004386">
             <A>
               <Navn personID="JANVES">
 Statsråd Jan Christian Vestre [10:07:22]:</Navn> En feil blir ikke
@@ -200,13 +201,13 @@ snittet på hvor mange metoder som gjøres tilgjengelig for alle. </A>
 godkjennes raskere i andre land. Det betyr at de blir lov å omsette, men
 det betyr ikke nødvendigvis at de innlemmes i den felles helsetjenesten.
 Når vi godkjenner nye metoder i Norge, sikrer vi at alle innbyggere
-får tilgang på det, uansett inntekt, uansett hvor du bor, og uansett
-om du er i arbeid eller ikke, fordi vi har en likeverdig felles
+får tilgang på det, uansett inntekt, uansett hvor de bor, og uansett
+om de er i arbeid eller ikke, fordi vi har en likeverdig, felles
 helsetjeneste. Uansett hvor mye ressurser vi har, må klinikerne
-alltid prioritere, og det har vi et system for gjennom nye metoder
+alltid prioritere, og det har vi et system for gjennom Nye metoder,
 som Stortinget har sluttet seg til.</A>
           </Replikk>
-          <Replikk Id="i1003815">
+          <Replikk Id="i1004388">
             <A>
               <Navn personID="KEI">
 Kristian August Eilertsen (FrP) [10:08:27]:</Navn> Siden statsråden
@@ -221,13 +222,14 @@ behandlingsalternativer. Det gjelder bl.a. for ALS-pasienter. I
 en sak på TV 2 i går kunne vi lese om en ALS-pasient som dessverre
 nylig gikk bort. Vedkommende fikk aldri svar på klagen sin til Helse-
 og omsorgsdepartementet om godkjenningsfritak. Det er så hjerteskjærende
-som det går an. Kan statsråden forklare hvorfor en dødssyk ALS-pasient
-ikke engang fikk svar på klagen sin fra statsrådens departement
-før han døde? Og mener statsråden at dette er en behandling av pasienter
-og pårørende som samsvarer med regjeringens verdier om en trygg
-og verdig helsetjeneste? </A>
+som det går an. </A>
+            <A Type="Minnrykk">Kan statsråden forklare hvorfor en dødssyk
+ALS-pasient ikke engang fikk svar på klagen sin fra statsrådens
+departement før han døde? Og mener statsråden at dette er en behandling
+av pasienter og pårørende som samsvarer med regjeringens verdier
+om en trygg og verdig helsetjeneste? </A>
           </Replikk>
-          <Replikk Id="i1003817">
+          <Replikk Id="i1004390">
             <A>
               <Navn personID="JANVES">
 Statsråd Jan Christian Vestre [10:09:29]:</Navn> ALS er en forferdelig
@@ -249,73 +251,74 @@ Det er en hard beskjed å gi, men det er det regelverket Stortinget
 har sluttet seg til, og det er også Stortinget som kan endre de
 reglene.</A>
           </Replikk>
-          <Replikk Id="i1003819">
+          <Replikk Id="i1004392">
             <A>
               <Navn personID="KEI">
 Kristian August Eilertsen (FrP) [10:10:37]:</Navn> Statsråden svarer
 ikke på spørsmålet mitt. Ja, det er en hard beskjed å få, men i
 dette tilfellet har ikke pasienten engang fått svar. Han fikk ikke
 beskjed. Man fikk ikke svar på klagen innen pasienten gikk bort.
-Og apropos hvordan man behandler alvorlig dødssyke mennesker og
-deres pårørende: Etter at den aktuelle pasienten gikk bort, sendte
-Helse- og omsorgsdepartementet et brev til de etterlatte om såkalt
-manglende rettslig interesse i forbindelse med klagen som lå til
-behandling. Samtidig unnlot man å beklage den flere måneder lange saksbehandlingstiden,
-eller at pasienten ikke fikk et svar mens han ennå var i live. Det
-er så kaldt og byråkratisk, og jeg skjønner godt reaksjonen til
-de etterlatte. Mener statsråden at dette er en rimelig og respektfull
+Apropos hvordan man behandler dødssyke mennesker og deres pårørende:
+Etter at den aktuelle pasienten gikk bort, sendte Helse- og omsorgsdepartementet
+et brev til de etterlatte om såkalt manglende rettslig interesse
+i forbindelse med klagen som lå til behandling. Samtidig unnlot
+man å beklage den flere måneder lange saksbehandlingstiden, eller
+at pasienten ikke fikk et svar mens han ennå var i live. Det er
+så kaldt og byråkratisk, og jeg skjønner godt reaksjonen til de
+etterlatte. Mener statsråden at dette er en rimelig og respektfull
 måte å håndtere de etterlatte på? </A>
           </Replikk>
-          <Replikk Id="i1003821">
+          <Replikk Id="i1004394">
             <A>
               <Navn personID="JANVES">
 Statsråd Jan Christian Vestre [10:11:29]:</Navn> Jeg forstår veldig
 godt fortvilelsen til familie, pårørende og nære når en mister noen
-en er glad i, og spesielt for en sykdom som dette, som kan gå ganske
-raskt nedover. Vi er på jobb for folk i Norge. Menneskene er alltid
-mye viktigere enn systemene, og vi må gjøre alt det vi kan for å
-behandle folk med respekt og på en skikkelig måte. Alle departementene
-vil alltid tilstrebe å behandle klagesaker så raskt de kan, men
-noen klagesaker er veldig kompliserte. I dette tilfellet hadde også Stortinget
-et stort engasjement for denne saken, og i påvente av hva Stortinget
-skulle lande på, ble også disse klagesakene satt i bero. Jeg ba
-Direktoratet for medisinske produkter, DMP, om å gjøre nye vurderinger
-av sakene, sett i lys av Stortingets engasjement og de vedtakene
-som ble fattet. Det gjorde også at disse sakene generelt har tatt
-noe mer tid. Men vi må alltid jobbe for å svare så raskt som mulig,
-også i de sakene som er kompliserte, og hvor regelverket dessverre
-lager noen barrierer som vi kanskje skulle vært foruten.</A>
+en er glad i, og spesielt ved en sykdom som dette, der det kan gå
+ganske raskt nedover. Vi er på jobb for folk i Norge. Menneskene
+er alltid mye viktigere enn systemene, og vi må gjøre alt det vi
+kan for å behandle folk med respekt og på en skikkelig måte. Alle
+departementene vil alltid tilstrebe å behandle klagesaker så raskt
+de kan, men noen klagesaker er veldig kompliserte. I dette tilfellet
+hadde også Stortinget et stort engasjement for denne saken, og i
+påvente av hva Stortinget skulle lande på, ble også disse klagesakene satt
+i bero. Jeg ba Direktoratet for medisinske produkter, DMP, om å
+gjøre nye vurderinger av sakene, sett i lys av Stortingets engasjement
+og de vedtakene som ble fattet. Det gjorde også at disse sakene
+generelt har tatt noe mer tid. Men vi må alltid jobbe for å svare
+så raskt som mulig, også i de sakene som er kompliserte, og hvor
+regelverket dessverre lager noen barrierer som vi kanskje skulle
+vært foruten.</A>
           </Replikk>
-          <Replikk Id="i1003823">
+          <Replikk Id="i1004396">
             <A>
               <Navn personID="JSB">
 Julia Brännström Nordtug (FrP) [10:12:42]:</Navn> Hver krone brukt
 på helse bør brukes klokt, slik at flest mulig pasienter får best
 mulig behandling. I dag venter titusenvis av pasienter over hele
 landet på sykehusbehandling. For mange innebærer ventetiden at de
-trenger sykepenger eller arbeidsavklaringspenger, en forverret helsesituasjon
-og store belastninger både for den enkelte og deres pårørende. Samtidig
-er betydelig behandlingskapasitet ubrukt ved private sykehus i Norge.
-Vestre uttalte før jul at regjeringen vil gi helseforetakene i oppdrag
-å inngå flere langsiktige avtaler med private aktører i 2026, med
-mål om å få ned ventetidene. Det var et gledelig julebudskap. Kan
-statsråden redegjøre for hvor mange somatiske avtaler de regionale
-helseforetakene har inngått med private som en følge av oppdragsbrevet
-for 2026?</A>
+trenger sykepenger eller arbeidsavklaringspenger, og det innebærer
+en forverret helsesituasjon og store belastninger for både den enkelte
+og deres pårørende. Samtidig er betydelig behandlingskapasitet ubrukt ved
+private sykehus i Norge. Vestre uttalte før jul at regjeringen vil
+gi helseforetakene i oppdrag å inngå flere langsiktige avtaler med
+private aktører i 2026, med mål om å få ned ventetidene. Det var
+et gledelig julebudskap. Kan statsråden redegjøre for hvor mange
+somatiske avtaler de regionale helseforetakene har inngått med private
+som en følge av oppdragsbrevet for 2026?</A>
           </Replikk>
-          <Replikk Id="i1003825">
+          <Replikk Id="i1004398">
             <A>
               <Navn personID="JANVES">
-Statsråd Jan Christian Vestre [10:13:44]:</Navn> La meg først få
-begynne med resultatet, for jeg tror det er det som er viktig for
-folk flest. Hvor mange avtaler staten inngår, er underordnet for
-dem som står i helsekø og venter på en kneoperasjon, hofteoperasjon,
-operasjon mot framfall av livmor, kataraktoperasjon, høreapparat
-– uansett hva det skulle være. Det siste året har ventetidene ved
-norske sykehus gått ned med 16 dager, og det er flere titusen færre
-i helsekø gjennom Ventetidsløftet. Vi fikk nettopp tall fra Folkehelseinstituttet som
-viser at også de såkalte interne ventelistene, altså tiden det tar
-til f.eks. operasjon, nå er de laveste på to år. Tid til tjenestestart
+Statsråd Jan Christian Vestre [10:13:44]:</Navn> La meg få begynne
+med resultatet, for jeg tror det er det som er viktig for folk flest.
+Hvor mange avtaler staten inngår, er underordnet for dem som står
+i helsekø og venter på en kneoperasjon, hofteoperasjon, operasjon
+mot framfall av livmor, kataraktoperasjon, høreapparat – uansett
+hva det skulle være. Det siste året har ventetidene ved norske sykehus
+gått ned med 16 dager, og det er flere titusen færre i helsekø gjennom
+Ventetidsløftet. Vi fikk nettopp tall fra Folkehelseinstituttet
+som viser at også de såkalte interne ventetidene, altså tiden det
+tar til f.eks. operasjon, nå er de laveste på to år. Tid til tjenestestart
 er det laveste på to år, og det fortsetter nedover. Dette er jo
 veldig bra, og det er takket være fremragende helsepersonell og
 dyktige ledere i sykehusene. </A>
@@ -325,7 +328,7 @@ lenge. Den planen vi har lagt, kommer vi til å følge, for den gir
 resultater. Den innebærer et godt samarbeid med de offentlige, som
 nå har størsteparten av ansvaret, og de private som har ledig kapasitet.</A>
           </Replikk>
-          <Replikk Id="i1003827">
+          <Replikk Id="i1004400">
             <A>
               <Navn personID="JSB">
 Julia Brännström Nordtug (FrP) [10:14:48]:</Navn> Svaret på spørsmålet
@@ -341,16 +344,16 @@ på flere fagområder ikke er oppgitt i det hele tatt. Hvordan vurderer
 statsråden pasientens faktiske og reelle mulighet til å velge behandlingssted når
 dette er forutsetningene for pasienten?</A>
           </Replikk>
-          <Hovedinnlegg Id="i1003829">
+          <Hovedinnlegg Id="i1004402">
             <A>
               <Navn personID="JANVES">
 Statsråd Jan Christian Vestre [10:15:43]:</Navn> For det første
-er det inngått avtaler også helt nylig med private. Det er positivt,
+er det inngått avtaler med private også helt nylig. Det er positivt,
 men det viktigste er jo hva vi gjør der flesteparten av pasientene
-få behandling, nemlig de offentlige sykehusene: bedre ansvars- og
-oppgavedeling, bedre logistikk, bedre pasientforløp, mer effektive
+får behandling, nemlig de offentlige sykehusene: bedre ansvars-
+og oppgavedeling, bedre logistikk, bedre pasientforløp, mer effektive
 behandlingsmetoder, fange tidstyver, få til tidsbesparende prosesser
-– det er jo dette som gir varige effekt i helsetjenesten vår. Jeg
+– det er jo dette som gir varig effekt i helsetjenesten vår. Jeg
 bare konstaterer at ventetidene har gått kraftig ned. Jeg er veldig
 glad for det på vegne av pasientene som nå får raskere helsehjelp,
 og så er jeg like utålmodig med tanke på dem som fortsatt venter. </A>
@@ -359,70 +362,73 @@ som å høre min egen helsetale på Drammen sykehus i januar i år.
 Representanten bruker akkurat de samme ordene jeg brukte. Dette er
 problemstillinger vi er klar over, og som vi har satt i gang arbeidet
 med. Som representanten vet, kommer vi før sommeren til både å lansere
-det nye ventetidstallet og relansere det såkalte fritt sykehusvalg,
-som Arbeiderparti-regjeringen innførte for 25 år siden, som vi nå
+det nye ventetidstallet og å relansere det såkalte fritt sykehusvalg,
+som Arbeiderparti-regjeringen innførte for 25 år siden, som vi nå
 vil fornye, forsterke og forbedre.</A>
           </Hovedinnlegg>
-          <Replikk Id="i1003831">
+          <Replikk Id="i1004404">
             <A>
               <Navn personID="JSB">
 Julia Brännström Nordtug (FrP) [10:16:47]:</Navn> Statsråden viser
 til noen få avtaler som er inngått, men det statsråden ettertrykkelig
 sa, var langsiktige avtaler med private aktører. Det er ikke inngått,
-og det er underlig å stå i landets største avis og holde velgerne
-for narr. Det er ikke reelt fritt sykehusvalg i Norge. Det er ikke
-kjøpt noe særlig privat kapasitet for å få ned ventetidene, og sannheten
-er at hundretusenvis av norske pasienter behandles på private sykehus hvert
-eneste år, betalt av den enkeltes lomme. Hele 75 pst. av Volvats
-400 000 pasienter betaler det selv, ikke av private helseforsikringer,
-ikke av det offentlige. Så Vestres ventetidsløfte inneholder egentlig
-det samme som før. Har du råd, kan du betale selv og kjøpe deg den
-kapasiteten, har du ikke råd, må du vente. Det er et todelt helsevesen
-helseministeren styrer mot, som bør bekymre flere enn bare Fremskrittspartiet.
-Har statsråden tenkt å gjøre alvor av egne ord og inngå langsiktige
-avtaler med private aktører og faktisk benytte kapasiteten? Hvis
-svaret er ja: hvordan?</A>
+og det er underlig å stå – i landets største avis – og holde velgerne
+for narr. Det er ikke et reelt fritt sykehusvalg i Norge. Det er
+ikke kjøpt noe særlig privat kapasitet for å få ned ventetidene,
+og sannheten er at hundretusenvis av norske pasienter behandles
+på private sykehus hvert eneste år, betalt av den enkeltes lomme.
+Hele 75 pst. av Volvats 400 000 pasienter betaler det selv; det
+er ikke betalt av private helseforsikringer og ikke av det offentlige.
+Så Vestres ventetidsløfte inneholder egentlig det samme som før:
+Har du råd, kan du betale selv og kjøpe deg den kapasiteten, har
+du ikke råd, må du vente. Det er et todelt helsevesen helseministeren
+styrer mot, noe som bør bekymre flere enn bare Fremskrittspartiet. </A>
+            <A Type="Minnrykk">Har statsråden tenkt å gjøre alvor av egne
+ord og inngå langsiktige avtaler med private aktører og faktisk
+benytte kapasiteten? Hvis svaret er ja: hvordan?</A>
           </Replikk>
-          <Replikk Id="i1003833">
+          <Replikk Id="i1004406">
             <A>
               <Navn personID="JANVES">
-Statsråd Jan Christian Vestre [10:17:53]:</Navn> Igjen konstaterer
-jeg altså: Ventetidene går ned måned for måned. Ventetidsløftet
-har hatt usedvanlig stor effekt. Jeg vet ikke om noen eksempler
-i nyere tid på at man, etter å ha satt et sånt mål, fått med seg
-alle partene i arbeidslivet, fagforeningene og arbeidsgiverne, sykehus
-i offentlig, ideell og privat sektor, har klart å kutte ventetider
-like raskt. Det burde også Fremskrittspartiet glede seg litt over. </A>
-            <A Type="Minnrykk">Jeg registrerer at Fremskrittspartiet nå leser
-opp en lang rekke av de tiltakene jeg har varslet, og som jeg er
-i gang med å gjennomføre, og spør hva jeg skal gjøre med det jeg
-selv har sagt jeg skal gjøre. Da kan jeg berolige representanten
-med å si at vi er i rute. Alt går i henhold til plan, og vi kommer
-til å få dette målet til, det er jeg helt sikker på. Fremskrittspartiet sa
-at vi ikke kom til å løse fastlegekrisen, men vi har fikset det.
+Statsråd Jan Christian Vestre [10:17:53]:</Navn> Igjen må jeg konstatere
+at ventetidene går ned måned for måned. Ventetidsløftet har hatt
+usedvanlig stor effekt. Jeg vet ikke om noen andre eksempler i nyere
+tid på at man, etter å ha satt et sånt mål og etter å ha fått med
+seg alle partene i arbeidslivet, fagforeningene og arbeidsgiverne,
+sykehus i offentlig, ideell og privat sektor, har klart å kutte
+ventetider like raskt. Det burde også Fremskrittspartiet glede seg
+litt over. </A>
+            <A Type="Minnrykk">Jeg registrerer at representanten fra Fremskrittspartiet
+nå leser opp en lang rekke av de tiltakene jeg har varslet, og som jeg
+er i gang med å gjennomføre, og spør hva jeg skal gjøre med det
+jeg selv har sagt jeg skal gjøre. Da kan jeg berolige representanten
+med å si at vi er i rute. Alt går i henhold til planen, og vi kommer
+til å nå dette målet, det er jeg helt sikker på. Fremskrittspartiet
+sa at vi ikke kom til å løse fastlegekrisen, men vi har fikset det.
 Fremskrittspartiet sa at vi ikke kom til å få ned ventetiden, men
 vi har fått det. Kanskje Fremskrittspartiet snart skal begynne å
 tenke på å legge noen egne forslag på bordet.</A>
           </Replikk>
-          <Replikk Id="i1003835">
+          <Replikk Id="i1004408">
             <A>
               <Navn personID="ERLBE1">
 Erlend Svardal Bøe (H) [10:19:11]:</Navn> I forrige uke slo Riksrevisjonen
-fast at barn og unge ikke får den tilstrekkelige hjelpen de trenger
-når det gjelder psykisk helse – med for store variasjoner i hjelpetilbudet,
-svikt i samarbeidet mellom kommuner og sykehus, og kritikk av regjeringen
-for ikke å sikre barn og unge den hjelpen de har behov for. Vi ser
-også lange ventetider for å få hjelp med spiseforstyrrelser, en
-økning i antall unge som blir avvist i psykisk helsevern, og kutt i
-hjelpetilbudet i sykehusene på grunn av dårligere sykehusøkonomi.
-Det er ikke sånn vi skal behandle barna våre, der vi fører en politikk
-som øker risikoen for utenforskap i landet vårt. På arbeiderpartiet.no
-kan vi lese at det er helt nødvendig med et krafttak for unges psykiske
-helse. Hva er grunnen til at Arbeiderpartiet, etter fem år i regjering,
-har sviktet så tydelig i å gi barn og unge den hjelpen de trenger
-når det gjelder psykisk helse?</A>
+fast at barn og unge ikke får tilstrekkelig hjelp, den hjelpen de
+trenger når det gjelder psykisk helse – med for store variasjoner
+i hjelpetilbudet, svikt i samarbeidet mellom kommuner og sykehus
+og kritikk av regjeringen for ikke å sikre barn og unge den hjelpen
+de har behov for. Vi ser også lange ventetider for å få hjelp med
+spiseforstyrrelser, en økning i antall unge som blir avvist i psykisk
+helsevern, og kutt i hjelpetilbudet i sykehusene på grunn av dårligere
+sykehusøkonomi. Det er ikke sånn vi skal behandle barna våre, der
+vi fører en politikk som øker risikoen for utenforskap i landet
+vårt. På arbeiderpartiet.no kan vi lese at det er helt nødvendig
+med et krafttak for unges psykiske helse. Hva er grunnen til at
+Arbeiderpartiet, etter fem år i regjering, har sviktet så tydelig
+i å gi barn og unge den hjelpen de trenger når det gjelder psykisk
+helse?</A>
           </Replikk>
-          <Replikk Id="i1003837">
+          <Replikk Id="i1004410">
             <A>
               <Navn personID="JANVES">
 Statsråd Jan Christian Vestre [10:20:08]:</Navn> Jeg er lei meg
@@ -443,7 +449,7 @@ med å bedre samhandlingen mellom kommunene og sykehusene. Betyr
 dette at vi er i mål? Nei. Betyr det at vi må jobbe enda mer med dette
 framover? Ja.</A>
           </Replikk>
-          <Replikk Id="i1003839">
+          <Replikk Id="i1004412">
             <A>
               <Navn personID="ERLBE1">
 Erlend Svardal Bøe (H) [10:21:12]:</Navn> Nok en gang snakker helseministeren
@@ -456,13 +462,14 @@ og regjeringen bør kanskje begynne med seg selv, for i løpet av fire
 år med Arbeiderpartiet i regjering har en brukt 3 mrd. kr på å gi
 sterkt rabatterte tannhelsetjenester til unge og friske tannhelsepasienter.
 Det er altså like mye som regjeringen har satt av i opptrappingsplanen
-for psykisk helse for ti år. Da er spørsmålet: Synes helseministeren
-det er en god prioritering, når vi ser at barn og unge ikke får
-den psykiske helsehjelpen de har behov for? Hvorfor ikke bruke de
-3 mrd. kr til tannhelse til heller å hjelpe de unge og ikke friske
-pasientene som trenger hjelp innenfor psykisk helse?</A>
+for psykisk helse, som skal gå over en periode på ti år. Da er spørsmålet:
+Synes helseministeren det er en god prioritering, når vi ser at
+barn og unge ikke får den psykiske helsehjelpen de har behov for?
+Hvorfor ikke bruke de 3 mrd. kr til tannhelse til heller å hjelpe
+de unge og ikke friske pasientene som trenger hjelp innenfor psykisk
+helse?</A>
           </Replikk>
-          <Replikk Id="i1003841">
+          <Replikk Id="i1004414">
             <A>
               <Navn personID="JANVES">
 Statsråd Jan Christian Vestre [10:22:16]:</Navn> Dette er et veldig
@@ -473,17 +480,17 @@ av psykisk syke pasienter enn den opptrappingsplanen på 3 mrd. kr.
 Man kan altså ikke sammenligne disse tallstørrelsene, og det bør
 representanten vite. Før hadde i hvert fall Høyre ganske god kontroll
 på disse tallene, kanskje ikke lenger. </A>
-            <A Type="Minnrykk">Vi må gjøre mer, og vi skal gjøre de tingene
-som virker. Når vi nå f.eks. har stoppet nedbyggingen av døgnplasser
-i psykisk helsevern og ser en økning i antallet, som skal betydelig
-opp framover, er det positivt. Når vi har gått fra at 55 pst. av
-kommunene hadde lavterskeltilbud innenfor psykisk helse i 2024,
-til nå å dekke sju av ti kommuner, ja, da er det positivt. Og når
-ventetidene går ned, slik at flere barn og unge får behandling raskere,
-er det positivt. Da trenger vi ikke hopp og sprett, da må vi gjøre
-mer av det som virker, og ha langsiktighet. </A>
+            <A Type="Minnrykk">Vi må gjøre mer, og vi skal gjøre det som virker.
+Når vi nå f.eks. har stoppet nedbyggingen av døgnplasser i psykisk helsevern
+og ser en økning i antallet, som skal betydelig opp framover, er
+det positivt. Når vi har gått fra at 55 pst. av kommunene hadde
+lavterskeltilbud innenfor psykisk helse i 2024, til nå å dekke sju
+av ti kommuner, ja, da er det positivt. Og når ventetidene går ned,
+slik at flere barn og unge får behandling raskere, er det positivt.
+Da trenger vi ikke hopp og sprett, da må vi gjøre mer av det som
+virker, og ha langsiktighet. </A>
           </Replikk>
-          <Replikk Id="i1003843">
+          <Replikk Id="i1004416">
             <A>
               <Navn personID="KJT">
 Kjersti Toppe (Sp) [10:23:37]:</Navn> Utsegnene til statsråden til
@@ -492,18 +499,18 @@ og slett skremmande. Det er heilt uverkeleg å lesa at statsråden
 meiner at det er velstand i norske sjukehus, og at vi har for mange
 legar og sjukepleiarar i norsk helseteneste, i psykisk helsevern,
 i barselomsorga og i akuttmottaka våre. Eg meiner at sjukehusa må
-styrkjast, ikkje kuttast i og sentraliserast slik statsråden no
+styrkjast, ikkje kuttast i og sentraliserast, slik statsråden no
 legg opp til. Vi veit at føretaka planlegg hundrevis av millionar
 kroner i fleire kutt i sjukehusa, og hundrevis av årsverk skal bort.
 Eg meiner statsråden må gå ut og snakka med både jordmødrer, legar,
 sjukepleiarar og helsefagarbeidarar med innestemme og ta seg tid, for
 det er dei som kjenner det norske helsevesenet. Det statsråden legg
-opp, er ei utarming av det offentlege tilbodet, noko som vil føra
-til ei todelt helseteneste. Meiner verkeleg statsråden at medisinen
-til allereie sterk pressa offentlege sjukehus er at dei må forventa
+opp til, er ei utarming av det offentlege tilbodet, noko som vil
+føra til ei todelt helseteneste. Meiner verkeleg statsråden at medisinen
+til allereie sterkt pressa offentlege sjukehus er at dei må forventa
 meir kutt og sentralisering av tenester?</A>
           </Replikk>
-          <Replikk Id="i1003845">
+          <Replikk Id="i1004418">
             <A>
               <Navn personID="JANVES">
 Statsråd Jan Christian Vestre [10:24:45]:</Navn> Med all respekt:
@@ -513,7 +520,7 @@ Det jeg sier, er at framover må alle deler av norsk politikk belage
 seg på at vi må prioritere mer. Alle problemer kan ikke løses bare
 med mer penger, både fordi statens utgifter etter hvert vil bli
 større enn statens inntekter, og også fordi vi mangler personell,
-og det kan vi ikke bevilge oss ut ifra. Vi må også stille oss spørsmålet:
+og det kan vi ikke bevilge oss ut av. Vi må også stille oss spørsmålet:
 Hvordan kan vi få mer helse ut av hver krone? </A>
             <A Type="Minnrykk">Det jeg er veldig stolt over at denne regjeringen
 har fått til, i veldig godt samarbeid med Senterpartiet og de andre
@@ -525,34 +532,36 @@ fortsatt prioritere vår felles velferd, men vi kan ikke belage oss
 på at veksten framover blir like stor som den har vært de forrige
 årene.</A>
           </Replikk>
-          <Replikk Id="i1003847">
+          <Replikk Id="i1004420">
             <A>
               <Navn personID="KJT">
 Kjersti Toppe (Sp) [10:25:51]:</Navn> Eg går ut frå at statsråden
 hadde sitatsjekk på VG-intervjuet. Der står det at òg helsevesenet
 må belaga seg på ein pengebrems, at ein ikkje kan forventa meir
-enn til prisvekst og demografi. </A>
-            <A Type="Minnrykk">Vi har ein situasjon der vi allereie har mange
-eksempel på auka sentralisering av helsetilbod og ei offentleg teneste som
-står i strekk. I Kristiansand skal ein sommarstengja det distriktsmedisinske
-senteret, ambulansestasjonar vert lagde ned, i Egersund kan poliklinikken
-verta lagd ned, og i Lærdal er ortopedien flytta. Pasienttilbodet
-på Haukeland ryk òg, og dialysen i Volda står i fare. På barselavdelingane
-er jordmødrene så travle at kvinner ikkje får god nok hjelp til
-amming. I den situasjonen varslar altså statsråden at det vert ikkje
-noko meir enn til prisvekst og demografi. Da vil kuttforslaga fortsetja,
-det er det ingen tvil om. Men statsråden synest ikkje bekymra. Står
-han fast på at ein treng ein pengebrems i norske sjukehus?</A>
+enn det som trengst for å dekkja prisvekst og demografi. Det seier
+han i ein situasjon der vi allereie har mange eksempel på auka sentralisering
+av helsetilbod og ei offentleg teneste som står i strekk. I Kristiansand
+skal ein sommarstengja det distriktsmedisinske senteret, ambulansestasjonar
+vert lagde ned, i Egersund kan poliklinikken verta lagd ned, og
+i Lærdal er ortopedien flytta. Pasienttilbodet på Haukeland ryk
+òg, og dialysen i Volda står i fare. På barselavdelingane er jordmødrene
+så travle at kvinner ikkje får god nok hjelp til amming. I den situasjonen
+varslar altså statsråden at det ikkje vert noko meir enn det som
+trengst for å dekkja prisvekst og demografi. Da vil kuttforslaga
+fortsetja, det er det ingen tvil om. Men statsråden synest ikkje
+å vera bekymra. </A>
+            <A Type="Minnrykk">Står han fast på at ein treng ein pengebrems
+i norske sjukehus?</A>
           </Replikk>
-          <Replikk Id="i1003849">
+          <Replikk Id="i1004422">
             <A>
               <Navn personID="JANVES">
 Statsråd Jan Christian Vestre [10:26:59]:</Navn> Takk for at representanten
 nå har presisert spørsmålet, for i første spørsmål ble det brukt
-begrep som sultefôring og kutt, og det har jeg aldri sagt. Det mener
-jeg heller ikke. Det jeg har sagt, er at vi framover må kunne klare
-å kompensere for demografien – altså det at vi blir flere, og at
-vi blir flere eldre – og vi må kunne kompensere for kostnadsveksten.
+begrep som «sultefôring» og «kutt», og det har jeg aldri sagt. Det
+mener jeg heller ikke. Det jeg har sagt, er at vi framover må kunne
+klare å kompensere for demografien – altså det at vi blir flere,
+og at vi blir flere eldre – og at vi må kunne kompensere for kostnadsveksten.
 Det alene vil innebære milliardøkninger framover. </A>
             <A Type="Minnrykk">Jeg er opptatt av at vi politikere må snakke
 sant og ærlig om utfordringene og ikke skape forventninger som ikke
@@ -566,37 +575,38 @@ ting smartere og mer rasjonelt, og ta bort det som ikke har helseeffekt.
 Det burde vi prate mer om, istedenfor å ha et mesterskap i hvem
 som vil bevilge mest penger.</A>
           </Replikk>
-          <Replikk Id="i1003851">
+          <Replikk Id="i1004424">
             <A>
               <Navn personID="KJT">
 Kjersti Toppe (Sp) [10:28:07]:</Navn> Vi må jo vera ærlege. Det
 som statsråden seier, vil bety kutt i helsetenester. Det vert kutta
 allereie i dag, det skal kuttast hundrevis av millionar kroner i
 helseføretak på grunn av den finansieringsmåten vi har, og på grunn
-av at sjukehusøkonomien ikkje strekk til. Det må vi vere ærlege
-på og ikkje lage ei forteljing om at no skal vi jobba smartare og
+av at sjukehusøkonomien ikkje strekkjer til. Det må vi vera ærlege
+på og ikkje laga ei forteljing om at vi no skal jobba smartare og
 betre. Det trur eg helsefolk vert provoserte av å høyra på.</A>
-            <A Type="Minnrykk">Statsråden vart òg utfordra på i intervjuet
+            <A Type="Minnrykk">Statsråden vart i intervjuet òg utfordra på
 om pengebremsen betyr at han ikkje vil prioritera lokalsjukehus
 i distrikta. Da svara statsråden at han vil diskutera fleire oppgåver
 til «såkalte desentraliserte halvannenlinjetjenester». Statsråden
-tar ikkje ordet lokalsjukehus i sin munn i intervjuet. Spørsmålet mitt
-er: Kva er desse såkalla desentraliserte halvannenlinjetjenestene
+tar ikkje ordet «lokalsjukehus» i sin munn i intervjuet. Spørsmålet
+mitt er: </A>
+            <A Type="Minnrykk">Kva er desse såkalla desentraliserte halvannanlinjetjenestene
 som skal styrkjast – og ikkje lokalsjukehus, som statsråden ikkje
 kommenterer i intervjuet?</A>
           </Replikk>
-          <Replikk Id="i1003853">
+          <Replikk Id="i1004426">
             <A>
               <Navn personID="JANVES">
 Statsråd Jan Christian Vestre [10:29:08]:</Navn> La meg få gjøre
 det da: Jeg er sterk tilhenger av at vi skal ha gode lokalsykehus,
 og jeg mener at det er mange oppgaver vi gjør i dag på de store
-akuttsykehusene som vi med fordel kan flytte tettere på der hvor
+akuttsykehusene, som vi med fordel kan flytte tettere på der hvor
 folk bor, herunder lokalsykehusene. Så vil jeg gjerne ta det et
 steg videre, og dette har jo norske kommuner, ikke minst KS, et
 sterkt engasjement for, og jeg trodde Senterpartiet også var enig
 i det: Hvis vi kan få til et enda bedre samarbeid mellom kommunehelsetjenesten
-og spesialisthelsetjenesten lokalt der hvor folk bor, vil det være
+og spesialisthelsetjenesten lokalt, der hvor folk bor, vil det være
 positivt. Da slipper man reisevei, vi kan beholde viktig kompetanse
 i distriktene, og man kan få mer helsehjelp – spesielt det man trenger
 mye og ofte – der hvor man faktisk bor. Så dette er ikke et signal
@@ -606,7 +616,7 @@ og noen tilbud som kommer til. Vi kan ikke være imot den utviklingen.
 Hadde vi vært imot den utviklingen, hadde vi ikke hatt verdens beste helsetjeneste
 i dag. </A>
           </Replikk>
-          <Replikk Id="i1003855">
+          <Replikk Id="i1004428">
             <A>
               <Navn personID="BENBEN">
 Bent-Joacim Bentzen (Sp) [10:30:17]:</Navn> Vi har et helsetilbud
@@ -620,7 +630,7 @@ og det er om man rekker de to fergene. Ambulansen på søndager er
 nedlagt. Kan statsråden garantere at fødetilbudet i Nordland, inkludert
 Brønnøysund, ikke kuttes?</A>
           </Replikk>
-          <Replikk Id="i1003857">
+          <Replikk Id="i1004430">
             <A>
               <Navn personID="JANVES">
 Statsråd Jan Christian Vestre [10:30:53]:</Navn> La meg først få
@@ -628,10 +638,10 @@ si at jeg er stolt over det Arbeiderpartiet og Senterpartiet fikk
 til sammen i regjering, bl.a. når det gjelder helsetilbudet i Nordland.
 Det at vi har slått fast at vi skal ha et godt sykehus i Lofoten,
 det at vi har bygget det nye Narvik sykehus, som skal ha de funksjonene
-det skal ha, det at vi nå har fått på plass en bærekraftig og framtidsrettet
-struktur på Helgelandssykehuset som gjør at vi også der kan ha et
-desentralisert helsetilbud, det må vi jo ikke snakke ned. Dette
-må vi snakke opp. Representanten vet at alternativet til denne politikken
+det skal ha, og det at vi nå har fått på plass en bærekraftig og
+framtidsrettet struktur på Helgelandssykehuset som gjør at vi også
+der kan ha et desentralisert helsetilbud, må vi jo ikke snakke ned.
+Dette må vi snakke opp. Representanten vet at alternativet til denne politikken
 ville vært noe helt annet – det ville vært en massiv sentralisering. </A>
             <A Type="Minnrykk">Når det gjelder Brønnøysund, har jeg vært der,
 og jeg er veldig begeistret for det distriktsmedisinske senteret.
@@ -643,7 +653,7 @@ vært en kritisk mangel på personell og vanskelig å beholde og rekruttere,
 og det må være forsvarlig å føde. Jeg håper det er mulig å finne
 en løsning på dette.</A>
           </Replikk>
-          <Replikk Id="i1003859">
+          <Replikk Id="i1004432">
             <A>
               <Navn personID="GP">
 Geir Pollestad (Sp) [10:32:06]:</Navn> Når eg høyrer på statsråden,
@@ -661,7 +671,7 @@ vil eg seia – der det stod: «Bevar Egersund sykehus!» </A>
 at det er viktig å oppretthalda helse- og sjukehustilbodet og dei
 tenestene som er i Egersund, òg i framtida?</A>
           </Replikk>
-          <Replikk Id="i1003861">
+          <Replikk Id="i1004434">
             <A>
               <Navn personID="JANVES">
 Statsråd Jan Christian Vestre [10:33:07]:</Navn> Ja, det er viktig
@@ -682,7 +692,7 @@ fattet noen beslutning om å legge ned noe tilbud i Egersund. Det
 kan være mange gode grunner til å ha et godt tilbud også der, og
 dette jobber nå sykehusstyret med.</A>
           </Replikk>
-          <Replikk Id="i1003863">
+          <Replikk Id="i1004436">
             <A>
               <Navn personID="ODAIND">
 Oda Indgaard (MDG) [10:34:27]:</Navn> Jeg er også bekymret for ventetidene
@@ -709,7 +719,7 @@ kan være utdatert? Og hva vil han konkret gjøre for allerede i år
 å redusere folks eksponering for disse stoffene, for på sikt å ta ned
 presset på helsevesenet?</A>
           </Replikk>
-          <Replikk Id="i1003865">
+          <Replikk Id="i1004438">
             <A>
               <Navn personID="JANVES">
 Statsråd Jan Christian Vestre [10:35:37]:</Navn> Takk for et godt
@@ -733,7 +743,7 @@ energidrikk for ungdommene, vi har strammet til røykeforbudene,
 og vi har innført skjermråd. Vi gjør mange tiltak for å forebygge
 og ta bedre ansvar for barn og unge. Det er også bra for helsetjenesten.</A>
           </Replikk>
-          <Replikk Id="i1003867">
+          <Replikk Id="i1004440">
             <A>
               <Navn personID="ODAIND">
 Oda Indgaard (MDG) [10:36:42]:</Navn> Statsråden nevner her mange
@@ -752,9 +762,9 @@ som vi faktisk ser med lekkasje fra plastemballasje? Og vil statsråden
 vurdere å gå sammen med de andre berørte statsrådene, siden dette
 tross alt er en veldig tverrsektoriell utfordring, og se på bruken
 av avgiftssystemet for å gjøre det mer attraktivt for produsenter
-å velge de tryggeste emballasjene for folk?</A>
+å velge de emballasjene som er tryggest for folk?</A>
           </Replikk>
-          <Replikk Id="i1003869">
+          <Replikk Id="i1004442">
             <A>
               <Navn personID="JANVES">
 Statsråd Jan Christian Vestre [10:37:40]:</Navn> Avgiftspolitikken
@@ -764,9 +774,9 @@ sa, er vi villige til å diskutere tiltak også for å få ned bruken
 av plast i samfunnet. Det har potensielt store miljøkonsekvenser,
 og det er riktig som representanten sier, at vi nå etter hvert også
 har mer kunnskap om hvilke implikasjoner dette kan ha for folkehelse.
-Da mener jeg det er et spesielt ansvar vi politikere har for å ta
-vare på barn og unge og sikre at de har en god og trygg oppvekst,
-hvor vi også er villige til å regulere når det er behov for det.</A>
+Da mener jeg vi politikere har et spesielt ansvar for å ta vare
+på barn og unge og sikre at de har en god og trygg oppvekst, og
+at vi også er villige til å regulere når det er behov for det.</A>
             <A Type="Minnrykk">Hvorvidt dette handler om klarere reguleringer,
 om å bruke avgiftssystemet bedre eller om å gjøre det billigere
 å finne alternativer, finnes det uansett en rekke virkemidler her. Det
@@ -774,7 +784,7 @@ mener jeg vi må kunne ha en diskusjon om, spesielt når kunnskapsgrunnlaget
 blir bedre og vi også får mer innsikt i de potensielle skadevirkningene
 disse stoffene fører med seg.</A>
           </Replikk>
-          <Replikk Id="i1003871">
+          <Replikk Id="i1004444">
             <A>
               <Navn personID="GME">
 Guri Melby (V) [10:38:56]:</Navn> En viktig del av debatten om å
@@ -792,12 +802,12 @@ i en veldig krevende livssituasjon. </A>
 dette på Sex og samfunn i Oslo, for å få testet ut hvordan dette
 kan løses utenfor sykehus. Men nå har Helsedirektoratet trukket
 tilbake støtten til denne piloten, noe som gjør at hundrevis av
-kvinner som da har brukt et tilbud, mister det tilbudet, men også
-at vi mister viktig kunnskap for å utvikle et tilbud videre. Så
-mitt spørsmål er om statsråden synes dette er greit, og om abort utenfor
-sykehus bare er en rettighet på papiret. </A>
+kvinner som har brukt et tilbud, mister det tilbudet, men også at
+vi mister viktig kunnskap for å utvikle et tilbud videre. Så mitt spørsmål
+er om statsråden synes dette er greit, og om abort utenfor sykehus
+bare er en rettighet på papiret. </A>
           </Replikk>
-          <Replikk Id="i1003873">
+          <Replikk Id="i1004446">
             <A>
               <Navn personID="JANVES">
 Statsråd Jan Christian Vestre [10:40:06]:</Navn> Da vi la fram forslag
@@ -806,34 +816,33 @@ sluttet seg til, var ett av tiltakene at vi skulle utrede hva som
 må være på plass for å tilby abort i kommunehelsetjenesten. Det
 har Helsedirektoratet utredet. De har kommet med en rekke problemstillinger
 og – for å si det som det er – motforestillinger, som vi må håndtere
-på en skikkelig måte. Derfor er det viktig, mener jeg, at denne utredningen
-har vært på høring, slik at flest mulig stemmer kan bli hørt, og
-slik at vi kan få dette belyst på en ordentlig og god måte. Så vil
-det jo være et politisk spørsmål etterpå hvordan vi eventuelt skal
-innrette dette tilbudet på en måte som er faglig riktig og faglig
-forsvarlig. </A>
-            <A Type="Minnrykk">Så spør representanten også om tilskuddet til
+på en skikkelig måte. Derfor er det viktig at denne utredningen
+har vært på høring, slik at flest mulig stemmer kan bli hørt, og slik
+at vi kan få dette belyst på en ordentlig og god måte. Så vil det
+jo etterpå være et politisk spørsmål hvordan vi eventuelt skal innrette
+dette tilbudet på en måte som er faglig riktig og faglig forsvarlig. </A>
+            <A Type="Minnrykk">Representanten spør også om tilskuddet til
 Sex og samfunn. Det kjedelige svaret er at ettersom Helse- og omsorgsdepartementet
 er klageinstans, og dette kanskje blir en klage som kommer til oss,
-så kan jeg på nåværende tidspunkt ikke kommentere den saken. </A>
+kan jeg på nåværende tidspunkt ikke kommentere den saken. </A>
           </Replikk>
           <Presinnlegg>
             <A>
-              <Navn>Presidenten [10:41:10]:</Navn> Da går vi videre
-til neste hovedspørsmål.</A>
+              <Navn>Presidenten [10:41:10]:</Navn> Me går vidare
+til neste hovudspørsmål.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1003875">
+          <Hovedinnlegg Id="i1004448">
             <A>
               <Navn personID="AMAGUN">
 Amalie Gunnufsen (H) [10:41:26]:</Navn> I valgkampen i 2021, bare
 noen måneder før Støre ble statsminister, ga han landets unge en
 garanti om at å få flere unge i jobb ville være det viktigste og
-første en arbeiderpartiregjering skal gripe fatt i. For meg er det
-veldig fristende å starte med å spørre statsråden for høyere utdanning
-hvordan hun synes det har gått. Ledighetstallet blant unge er nå
-på sitt aller høyeste siden vi begynte å måle i 1972, og ledigheten
-blant uteksaminerte masterutdannede er den høyeste på 25 år. Nesten
-én av ti nyutdannede er helt arbeidsledige. </A>
+første en Arbeiderparti-regjering skal gripe fatt i. For meg er
+det veldig fristende å starte med å spørre statsråden for høyere
+utdanning hvordan hun synes det har gått. Ledighetstallet blant
+unge er nå på sitt aller høyeste siden vi begynte å måle i 1972,
+og ledigheten blant uteksaminerte masterutdannede er den høyeste
+på 25 år. Nesten én av ti nyutdannede er helt arbeidsledige. </A>
             <A Type="Minnrykk">Det er jo et paradoks at næringslivet og kommunene
 trenger arbeidskraft, samtidig som så mange nyutdannede står uten
 jobb. OECD er bekymret for at Norge ikke utdanner nok av den kompetansen
@@ -850,16 +859,16 @@ kunne ta dette på større alvor. Derfor lurer jeg på: Vil statsråden
 kalle tidenes høyeste ledighet blant unge en nasjonal krise, eller
 er dette noe vi bare må regne med når Arbeiderpartiet styrer?</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003877">
+          <Hovedinnlegg Id="i1004450">
             <A>
               <Navn personID="SIGAAS">
 Statsråd Sigrun Aasland [10:43:08]:</Navn> Svaret på det er ingen
 av delene. Jeg er enig med representanten i at det er et paradoks
 i Norge at vi har store kompetansebehov på den ene siden og altfor
 mange som står utenfor arbeid og utdanning på den andre. Den beste
-måten å sikre seg en trygg jobb på, er fortsatt å ta en utdanning,
+måten å sikre seg en trygg jobb på er fortsatt å ta en utdanning,
 og det er fortsatt sånn at ledigheten er langt lavere blant dem
-som har høyere utdanning, enn dem som ikke har det. </A>
+som har høyere utdanning, enn blant dem som ikke har det. </A>
             <A Type="Minnrykk">I april i år kom kandidatundersøkelsen fra
 NIFU. Den viser hvor mange unge som er i jobb seks måneder etter
 avsluttet utdanning, og der er det en økning i ledighet, og det
@@ -875,7 +884,7 @@ gjør i regjeringen, er å lage et kompetansebudsjett der vi mye mer
 systematisk skal jobbe med å matche arbeidslivets både langsiktige
 og kortsiktige behov med utdanningskapasiteten, og ikke minst arbeidsdeling
 på utdanningene våre. </A>
-            <A Type="Minnrykk">Så tror jeg vi også må gjøre mer for å lette
+            <A Type="Minnrykk">Jeg tror også at vi må gjøre mer for å lette
 overgangen mellom utdanning og arbeidsliv. Her har det i debatten
 f.eks. kommet mange gode forslag fra NHO som er helt i tråd med det
 jeg og regjeringen jobber med. Det handler f.eks. om universiteter
@@ -886,11 +895,11 @@ praksis gjennom utdanningen, øker også sjansen for å få en jobb
 etterpå. </A>
             <A Type="Minnrykk">Det andre jeg vil oppfordre til, er at vi i
 norsk arbeidsliv blir enda litt bedre på juniorpolitikk, på å gi
-unge mennesker en sjanse inn i arbeidslivet. Men da tror jeg vi
-må stille enda høyere forventninger, og det gjør også jeg, om at
-universitetene og høyskolene møter de behovene arbeidslivet har.</A>
+unge mennesker en sjanse i arbeidslivet. Samtidig tror jeg da vi
+må ha enda høyere forventninger, og det har også jeg, til at universitetene og
+høyskolene møter de behovene arbeidslivet har.</A>
           </Hovedinnlegg>
-          <Replikk Id="i1003879">
+          <Replikk Id="i1004452">
             <A>
               <Navn personID="AMAGUN">
 Amalie Gunnufsen (H) [10:45:15]:</Navn> Når statsråden ikke vil
@@ -909,9 +918,9 @@ at Arbeiderpartiet kaller høy ungdomsledighet for en nasjonal krise
 når de er i opposisjon, mens rekordhøy ungdomsledighet blir omtalt
 som en krevende overgang når de selv sitter med ansvaret. Hvis det
 var en nasjonal krise med ungdomsledighet på 11 pst., hva mener
-statsråden da det er med en ungdomsledighet på 15 pst.?</A>
+statsråden da det er med en ungdomsledighet på 15 pst.?</A>
           </Replikk>
-          <Replikk Id="i1003881">
+          <Replikk Id="i1004454">
             <A>
               <Navn personID="SIGAAS">
 Statsråd Sigrun Aasland [10:46:10]:</Navn> Jeg tror det er viktig
@@ -925,32 +934,33 @@ også i Agder, der representanten kommer fra – er en viktig del av
 å få ned utenforskapet blant unge. </A>
             <A Type="Minnrykk">Når det gjelder dem som har høyere utdanning,
 har jeg nettopp gjort rede for det regjeringen jobber med, som handler
-om å matche kompetansebehovene bedre, som handler om å bygge mer
-praksis inn i studiene og å lette dialogen mellom arbeidslivet og
-utdanningsinstitusjonene. Det tror jeg vi skal bli bedre på. Men
-det er altså ikke slik at de som tar høyere utdanning, har høyere
-risiko for å bli ledige – det er tvert imot. </A>
+om å matche kompetansebehovene bedre, om å bygge mer praksis inn
+i studiene og om å lette dialogen mellom arbeidslivet og utdanningsinstitusjoner.
+Det tror jeg vi skal bli bedre på. Samtidig er det altså ikke slik
+at de som tar høyere utdanning, har høyere risiko for å bli ledige
+– det er tvert imot. </A>
           </Replikk>
-          <Replikk Id="i1003883">
+          <Replikk Id="i1004456">
             <A>
               <Navn personID="AMAGUN">
 Amalie Gunnufsen (H) [10:47:14]:</Navn> Jeg tror vi alle er enige
 om at de unge som står lengst unna arbeidslivet, må få flere veier
 inn. Derfor støtter vi også opp om mye av regjeringens arbeid med
 Ungdomsløftet. Under Solberg-regjeringen tok vi flere grep i utdanningspolitikken
-for å gjøre utdanningen mer arbeidsrelevant. Det er nettopp fordi
-arbeidslivet er i stor endring, Solberg-regjeringen også gjorde
-etter- og videreutdanning mer tilgjengelig – for å dekke det kompetansebehovet
-vi vet kommer. Mye av det arbeidet har stoppet opp. Statsråden refererer
-til universitetet i min hjemby, Universitetet i Agder, og de har
-gjort veldig mye bra på dette. Men også der ser vi at andelen uteksaminerte
-som ikke får jobb, har hatt en dramatisk økning på den siste kandidatundersøkelsen. </A>
+for å gjøre utdanningen mer arbeidsrelevant. Nettopp fordi arbeidslivet
+er i så stor endring gjorde Solberg-regjeringen også etter- og videreutdanning
+mer tilgjengelig – for å dekke det kompetansebehovet vi vet kommer.
+Mye av det arbeidet har stoppet opp. Statsråden refererer til universitetet
+i min hjemby, Universitetet i Agder, og de har gjort veldig mye
+bra på dette, men også der ser vi av den siste kandidatundersøkelsen
+at andelen uteksaminerte som ikke får jobb, har hatt en dramatisk
+økning. </A>
             <A Type="Minnrykk">Jeg må spørre statsråden hva hun synes om at
 studiestedene hun selv har ansvar for, utdanner rekordmange til
 arbeidsledighet. Er det studentene det er noe galt med, eller er det
 studiestedene? </A>
           </Replikk>
-          <Replikk Id="i1003885">
+          <Replikk Id="i1004458">
             <A>
               <Navn personID="SIGAAS">
 Statsråd Sigrun Aasland [10:48:14]:</Navn> Det er ingenting i veien
@@ -963,20 +973,20 @@ lærerutdanningen, og vi har økt finansieringen av viktige teknologistudier,
 herunder helt nye studieplasser innenfor kvanteteknologi som starter opp
 denne høsten. Vi jobber som sagt med et kompetansebudsjett som skal
 gjøre dette arbeidet enda bedre. </A>
-            <A Type="Minnrykk">Og så hører jeg at Høyre veldig ofte snakker
-om noe som har stoppet opp. Jeg er usikker på hvilket arbeid som
-egentlig har stoppet opp, men hvis representanten refererer til
-f.eks. bransjeprogrammene som nettopp handler om å få til gode etter-
-og videreutdanningstilbud i tett kontakt med arbeidslivet, har de
-altså blitt styrket de siste årene og økte i 2025 med 45 mill. kr.</A>
+            <A Type="Minnrykk">Jeg hører at Høyre veldig ofte snakker om noe
+som har stoppet opp. Jeg er usikker på hvilket arbeid det egentlig
+er som har stoppet opp, men hvis representanten refererer til f.eks.
+bransjeprogrammene som nettopp handler om å få til gode etter- og
+videreutdanningstilbud i tett kontakt med arbeidslivet, har de altså
+blitt styrket de siste årene og økte i 2025 med 45 mill. kr.</A>
           </Replikk>
-          <Replikk Id="i1003887">
+          <Replikk Id="i1004460">
             <A>
               <Navn personID="AMAGUN">
 Amalie Gunnufsen (H) [10:49:17]:</Navn> Jeg tror vi har mye av den
-samme problembeskrivelsen, men det er også derfor jeg er litt bekymret
-for at jeg ikke har sett regjeringen verken adressere dette som
-en utfordring eller komme med konkrete løsninger.</A>
+samme problembeskrivelsen, men det er også derfor jeg er litt bekymret,
+for jeg har ikke sett regjeringen verken peke på dette som en utfordring
+eller komme med konkrete løsninger.</A>
             <A Type="Minnrykk">En av de kanskje største utfordringene arbeidslivet
 står foran nå, og som holder på å treffe oss med full styrke, er hvordan
 kunstig intelligens påvirker arbeidslivet. Det er kanskje også en
@@ -988,37 +998,37 @@ ikke møter et arbeidsliv der de fra dag én blir utkonkurrert, og
 så lurer jeg på hvordan utdanningsinstitusjonene skal bidra til
 at Norge kan hekte seg på det KI-kappløpet som nå pågår.</A>
           </Replikk>
-          <Replikk Id="i1003889">
+          <Replikk Id="i1004462">
             <A>
               <Navn personID="SIGAAS">
 Statsråd Sigrun Aasland [10:50:09]:</Navn> Tusen takk for et svært
 godt og viktig spørsmål. Regjeringen er opptatt av at vi ikke bare
 skal være verdensmestere i å ta i bruk kunstig intelligens, men
-gjøre det på en trygg måte, og vi gjør flere grep for å sørge for
-det.</A>
+at vi skal gjøre det på en trygg måte, og vi gjør flere grep for
+å sørge for det.</A>
             <A Type="Minnrykk">For det første har vi bevilget over 1 mrd.
 kr til forskning, ikke nødvendigvis på teknologien, men på hvordan
 vi på en forsvarlig måte i Norge tar i bruk kunstig intelligens.
-Så er det tre utfordringer KI gir oss i utdanningssektoren. Den
-ene er at det endrer hva vi må lære, og hvilken kompetanse i arbeidslivet
+Videre er det tre utfordringer KI gir oss i utdanningssektoren.
+Den ene er at det endrer hva vi må lære, og hvilken kompetanse i arbeidslivet
 det kommer til å være behov for. Det andre er at KI endrer hvordan
 vi lærer. KI kan være et fantastisk godt støtteverktøy for læring,
 men kan også undergrave viktig arbeid i læringsprosessen. For det
 tredje må vi sørge for at vi gjennomfører eksamen og vurdering på
 en forsvarlig måte. Her har regjeringen oppnevnt et ekspertutvalg
-som kommer med sine anbefalinger i løpet av 2026, men allerede jobber
-universiteter og høyskoler mye med å sørge for å ta dette inn i
-utdanningene på en god måte.</A>
+som kommer med sine anbefalinger i løpet av 2026, men universiteter
+og høyskoler jobber allerede mye med å sørge for å ta dette inn
+i utdanningene på en god måte.</A>
           </Replikk>
-          <Replikk Id="i1003891">
+          <Replikk Id="i1004464">
             <A>
               <Navn personID="GME">
 Guri Melby (V) [10:51:25]:</Navn> De siste ukene har jeg spurt både
 statsminister Støre og arbeids- og inkluderingsminister Kjersti
-Stenseng om hva de vil si til unge som gjør alt det viktige, som
+Stenseng om hva de vil si til unge som gjør alt det riktige, som
 tar utdanning, men som likevel ikke får jobb. Jeg synes at svarene
 ikke har vært særlig gode. De har handlet om at unge må akseptere
-å ikke få drømmejobben, og at man må stå på – litt lite konkret
+ikke å få drømmejobben, og at man må stå på – litt lite konkret
 drahjelp fra regjeringen, må jeg si. Jeg synes også at det å vise
 til at de fleste generelt sett får jobb, er en veldig svak trøst
 for de 10–15–20 pst. som faktisk ikke får jobb og står der med kanskje
@@ -1035,7 +1045,7 @@ hun si til dem som har studert realfag, men som ikke får jobb? Hvordan
 vil hun ta ansvar for at vi ikke fortsetter å utdanne dem inn i
 arbeidsledighet?</A>
           </Replikk>
-          <Replikk Id="i1003893">
+          <Replikk Id="i1004466">
             <A>
               <Navn personID="SIGAAS">
 Statsråd Sigrun Aasland [10:52:34]:</Navn> Jeg synes spørsmålet
@@ -1046,22 +1056,22 @@ jobb etter endt utdanning, er mitt beste svar at de har gjort det
 riktige, for de har større sjanse for å få en jobb i framtiden enn
 om de ikke hadde tatt en utdanning.</A>
             <A Type="Minnrykk">Jeg tror en viktig grunn til at vi skal lage
-den realfagstrategien, nettopp er at realfag og teknologi favner
+den realfagsstrategien, nettopp er at realfag og teknologi favner
 veldig mye. Det er stor mangel på mange spesifikke yrker innenfor
 realfag og teknologi, men det er variasjoner også innenfor det.
-Vi må både gi bedre veiledning til unge som skal velge studie, og
-vi må prioritere bedre på utdanningsinstitusjonene hvilke fag vi prioriterer
-opp. I tillegg er min sterke oppfordring både til arbeidslivet og
-til universitetene og høyskolene at de sammen må sørge for både
-bedre praksis, mer praksis og tettere kobling mellom arbeidslivets
-oppgaver og utdanningens innhold.</A>
+Vi må både gi bedre veiledning til unge som skal velge studium,
+og prioritere bedre på utdanningsinstitusjonene med tanke på hvilke
+fag vi prioriterer opp. I tillegg er min sterke oppfordring både
+til arbeidslivet og til universitetene og høyskolene at de sammen
+må sørge for både bedre praksis, mer praksis og tettere kobling
+mellom arbeidslivets oppgaver og utdanningens innhold.</A>
           </Replikk>
           <Presinnlegg>
             <A>
-              <Navn>Presidenten [10:53:39]:</Navn> Vi går vidare
+              <Navn>Presidenten [10:53:39]:</Navn> Me går vidare
 til neste hovudspørsmål.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1003895">
+          <Hovedinnlegg Id="i1004468">
             <A>
               <Navn personID="SEA">
 Seher Aydar (R) [10:53:56]:</Navn> Skal man først falle og brekke
@@ -1076,10 +1086,10 @@ som i 2023 brukte 100 000 kr på tannlegeregninger. På grunn av skader
 og infeksjoner står nå læreren og alenemoren overfor en ny regning
 på 80 000 kr. Det er summer de aller fleste av oss har store problemer
 med å kunne betale. Kari sliter fortsatt med tannhelsen, men sønnen
-hennes blir konfirmant i år, og hun sier at hun vil prioritere gaver
-til ham. Som tannlegeforeningen sier i den saken, kan høye priser
-føre til at folk lar være å gjennomføre behandling. De sier også
-at det kan føre til mer omfattende og kostbar behandling senere. </A>
+hennes er konfirmant i år, og hun sier at hun vil prioritere gaver
+til ham. Som Tannlegeforeningen sier i den saken, kan høye priser føre
+til at folk lar være å gjennomføre behandling. De sier også at det
+kan føre til mer kostbar og omfattende behandling senere. </A>
             <A Type="Minnrykk">Når folk med helt vanlige inntekter sliter
 med å betale tannlegeregningen, sier det seg selv at de som har
 lite, sliter enda mer. SSBs levekårsundersøkelse slår fast at trygdede
@@ -1088,12 +1098,12 @@ råd til å gå til tannlegen. Hva tenker helseministeren om at det
 er stadig flere i Norge som oppgir ikke å ha råd til tannlegen?
 Det er realiteten – det er flere enn i fjor som ikke har råd.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003897">
+          <Hovedinnlegg Id="i1004470">
             <A>
               <Navn personID="JANVES">
 Statsråd Jan Christian Vestre [10:55:45]:</Navn> Jeg er enig i at
 det er et problem. Jeg er veldig stolt over at regjeringen, sammen
-med våre gode budsjettpartnere de siste årene, har styrket tannhelsefeltet
+med våre gode budsjettpartnere, de siste årene har styrket tannhelsefeltet
 betydelig. Jeg mener også at dette er et av de spørsmålene som virkelig
 får fram forskjellene i norsk politikk. Vi hørte en replikkveksling
 her tidligere der man nærmest latterliggjorde at vi sammen har fått
@@ -1121,33 +1131,33 @@ hjelp en får eller ikke.</A>
             <A Type="Minnrykk">Dette vil være et budsjettspørsmål, for en
 slik reform kan potensielt være veldig dyr. Derfor må den prioriteres
 opp mot andre viktige tiltak i statsbudsjettet, men at de fem rød-grønne partiene
-skal komme et betydelig stykke videre på dette i denne perioden,
+skal komme et betydelig stykke videre med dette i denne perioden,
 må vi ha som mål å få til.</A>
           </Hovedinnlegg>
-          <Replikk Id="i1003899">
+          <Replikk Id="i1004472">
             <A>
               <Navn personID="SEA">
 Seher Aydar (R) [10:57:50]:</Navn> Jeg er glad for at statsråden
 anerkjenner at altfor mange sliter med tannhelseutgiftene, og for
 at arbeidet med en helhetlig tannhelsereform er i gang. Jeg er likevel
-litt bekymret for finansieringen. Det skyldes egentlig det siste
-utspillet som statsråden hadde i VG, om pengebrems innen helsetjenestene.
+litt bekymret for finansieringen, og det handler egentlig om det
+siste utspillet som statsråden hadde i VG, om pengebrems innen helsetjenestene.
 Det er bl.a. begrunnet med økte forsvarsutgifter. Jeg håper at helseministeren
 kan oppklare hva som er regjeringens syn: Synes statsråden at det
 er en god idé å sette finansiering av velferd og finansiering av
 forsvar opp mot hverandre når vi står overfor viktige oppgaver?</A>
           </Replikk>
-          <Replikk Id="i1003901">
+          <Replikk Id="i1004474">
             <A>
               <Navn personID="JANVES">
 Statsråd Jan Christian Vestre [10:58:38]:</Navn> Jeg forstår veldig
-godt spørsmålet, men det er nå en gang sånn i politikken at det
-handler om å prioritere knappe ressurser. Mer til noe betyr nødvendigvis
+godt spørsmålet, men det er nå engang sånn i politikken at det handler
+om å prioritere knappe ressurser. Mer til noe betyr nødvendigvis
 mindre til noe annet, med mindre vi skal enten øke skattene – det
-vet jeg at Rødt og Arbeiderpartiet er uenige om, og det har respekt
-for – eller bruke mye mer oljepenger. Jeg tror vi begge er enige
-om at det ikke er så lurt, spesielt ikke i den situasjonen norsk
-økonomi er i nå. </A>
+vet jeg at Rødt og Arbeiderpartiet er uenige om, og det har jeg
+respekt for – eller bruke mye mer oljepenger. Jeg tror vi begge
+er enige om at det ikke er så lurt, spesielt ikke i den situasjonen
+norsk økonomi er i nå. </A>
             <A Type="Minnrykk">Om få år kommer statens utgifter til å bli
 større enn statens inntekter. Da blir kravet til oss politikere
 om å prioritere bare enda tøffere. Jeg tror imidlertid at kaken
@@ -1162,7 +1172,7 @@ var like effektive som de mest effektive, er det et potensial for
 av kroner, som eventuelt kan investeres i nye velferdsreformer,
 uten å øke skattene eller bruke mer oljepenger.</A>
           </Replikk>
-          <Replikk Id="i1003903">
+          <Replikk Id="i1004476">
             <A>
               <Navn personID="SEA">
 Seher Aydar (R) [10:59:45]:</Navn> Omfordeling er absolutt en god
@@ -1182,7 +1192,7 @@ de som kan betale for seg. </A>
 gi et tilbud som er i tråd med det folk trenger, uten at det brukes
 mer penger på det?</A>
           </Replikk>
-          <Replikk Id="i1003905">
+          <Replikk Id="i1004478">
             <A>
               <Navn personID="JANVES">
 Statsråd Jan Christian Vestre [11:00:47]:</Navn> Jeg vet ikke helt
@@ -1193,30 +1203,30 @@ gode velferden vi har i Norge – som vi må kunne si er i verdensklasse
 – må se framover, ikke bakover, for å beholde den. Da må vi også
 snakke ærlig om de prioriteringsutfordringene vi står overfor, og
 vi må være villig til å modernisere, fornye, forsterke og forbedre.
-Det mener jeg bør skje nedenifra og opp, ikke gjennom flate ostehøvelkutt
-eller dekreter ovenfra om at nå skal du jobbe slik og sånn. </A>
+Det mener jeg bør skje nedenfra og opp, ikke gjennom flate ostehøvelkutt
+eller dekreter ovenfra om at nå skal man jobbe slik og sånn. </A>
             <A Type="Minnrykk">Jeg møter veldig mye helsepersonell, og det
 vet jeg at representanten Aydar også gjør. De har selv mange gode
-forslag og ideer om hva vi kan gjøre annerledes. Hvis du spør Fagforbundets
+forslag og ideer om hva vi kan gjøre annerledes. Hvis man spør Fagforbundets
 medlemmer, vil de si at hvis vi hadde fått opp heltidsandelen i
-norske kommuner, så ville vi sannsynligvis frigjort et sted mellom
-20 000 og 30 000 årsverk, som vi kunne ha fått brukt på en skikkelig
+norske kommuner, ville vi sannsynligvis frigjort et sted mellom
+20 000 og 30 000 årsverk som vi kunne ha fått brukt på en skikkelig
 måte, istedenfor å ha dyr innleie og dyr vikarbruk, som mange kommuner
 tyr til i dag. Det er et sånt eksempel på modernisering. </A>
           </Replikk>
-          <Replikk Id="i1003907">
+          <Replikk Id="i1004480">
             <A>
               <Navn personID="SEA">
 Seher Aydar (R) [11:01:56]:</Navn> Da er det litt merkelig at statsråden
 går ut og sier at kommunene ikke bare kan få og få. Det er helt
 klart at det er mulig å bruke penger på en bedre måte – der er vi
 enige – men hverdagsvelferden finansieres av kommunene, og det er
-ikke så mye penger der. Veldig få kjenner seg igjen at kommunene
+ikke så mye penger der. Veldig få kjenner seg igjen i at kommunene
 bare får og får, og at det fører til latskap. </A>
             <A Type="Minnrykk">Det er helt riktig at det finnes sløseri, og
 jeg tror også at det er riktig at heltid og gode arbeidsvilkår er
-en del av løsningen. Men det handler også om bemanningsbyråer som
-tjener seg rike på å leie inn til fattige kommuner. Det handler
+en del av løsningen. Samtidig handler det også om bemanningsbyråer
+som tjener seg rike på innleie til fattige kommuner. Det handler
 om kommersielle aktører som tar helsekroner ut av helsetjenesten vår
 og gir dem til eiere i utlandet. Det blir brukt over 1 mrd. kr på
 eksterne konsulenter, og det er flere direktører enn intensivplasser
@@ -1225,16 +1235,16 @@ når sykehus leker butikk. Det finnes problemer, og det finnes løsninger.
 Derfor er det uforståelig for meg hvorfor regjeringen ikke heller
 tar tak i pengene som renner ut til kommersielle eiere eller bemanningsbyråer,
 framfor å be om at det må strammes enda mer til i hverdagsvelferden,
-altså i kommunene. Det var det som var spørsmålet.</A>
+altså i kommunene. Det var egentlig det som var spørsmålet.</A>
           </Replikk>
-          <Replikk Id="i1003909">
+          <Replikk Id="i1004482">
             <A>
               <Navn personID="JANVES">
 Statsråd Jan Christian Vestre [11:02:59]:</Navn> Jeg mener ikke
-at vi skal kutte i velferd. Jeg sier tvert imot at hvis vi skal
-kunne opprettholde god velferd, og til og med kanskje ha budsjettrom
-til å utvikle velferden videre, f.eks. med en tannhelsereform, som
-vi nå diskuterer, må det være økonomisk handlingsrom til å gjøre
+at vi skal kutte i velferd. Snarere tvert imot sier jeg at hvis
+vi skal kunne opprettholde god velferd, og til og med kanskje ha
+budsjettrom til å utvikle velferden videre, f.eks. med en tannhelsereform,
+som vi nå diskuterer, må det være økonomisk handlingsrom til å gjøre
 det. Da må vi også diskutere hvordan ressursene brukes, og mange
 av de tiltakene representanten her viser til, er jeg enig i. Vi
 har fått ned bruken av vikarbyråer og innleie. Det er veldig dyrt.
@@ -1254,10 +1264,10 @@ bedre enn det vi gjør nå. </A>
           </Replikk>
           <Presinnlegg>
             <A>
-              <Navn>Presidenten [11:04:06]:</Navn> Vi går vidare
+              <Navn>Presidenten [11:04:06]:</Navn> Me går vidare
 til neste hovudspørsmål.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1003911">
+          <Hovedinnlegg Id="i1004484">
             <A>
               <Navn personID="SIMVEL">
 Simen Velle (FrP) [11:04:20]:</Navn> Mitt spørsmål går til forsknings-
@@ -1276,8 +1286,8 @@ får muligheten til å stikke innom forsvarslaboratorier noen ganger
 i året for å bli oppdatert på både problemstillinger og utfordringer
 for Forsvaret. Også rektoren ved NTNU har trukket frem at tettere
 involvering mellom Forsvaret og det sivile forskningsmiljøet er
-positivt, og at NTNU i mange år hatt et utstrakt samarbeid med både
-Forsvaret og Kongsberg gruppen. </A>
+positivt, og at NTNU i mange år har hatt et utstrakt samarbeid med
+både Forsvaret og Kongsberg Gruppen. </A>
             <A Type="Minnrykk">I en stadig mer krevende geopolitisk situasjon
 mener Fremskrittspartiet at det er nødvendig at alle krefter i dette kongeriket
 trekker i samme retning, og ordningen med forskningsreservister
@@ -1288,7 +1298,7 @@ et lite land i en stor verden. Spørsmålet mitt er: Har statsråden
 planer om konkrete insentiver eller initiativer for å styrke samspillet
 mellom det sivile forskningsmiljøet og Forsvaret?</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003913">
+          <Hovedinnlegg Id="i1004486">
             <A>
               <Navn personID="SIGAAS">
 Statsråd Sigrun Aasland [11:06:08]:</Navn> Takk for et viktig spørsmål. </A>
@@ -1311,7 +1321,7 @@ mer konkurranseutsetting av de forskningsprosjektene som forsvarssektoren
 trenger. Der trenger vi også at en større bredde av norske forskere
 og sterke norske teknologi- og forskningsmiljøer kan delta.</A>
           </Hovedinnlegg>
-          <Replikk Id="i1003915">
+          <Replikk Id="i1004488">
             <A>
               <Navn personID="SIMVEL">
 Simen Velle (FrP) [11:07:31]:</Navn> Forskning.no hadde nylig en
@@ -1320,38 +1330,37 @@ mening om innvandring påvirker forskningsresultatene. Her omtales
 også en norsk studie der forskerne fant ut at forskere ofte mener
 at studier som bekrefter deres eget politiske syn, er av bedre kvalitet
 enn de som ikke bekrefter deres eget politiske syn. Studien viste også
-at over halvparten av samfunnsforskere og humanister stemmer SV,
-Rødt, eller MDG i Norge. Forsker og leder for prosjektet, Kjersti
-Thorbjørnsrud, uttalte til Aftenposten den gang at særlig forskere
-innen samfunnsforskning burde reflektere over dette. «Mangel på
-meningsmangfold kan skape blindsoner og gruppetenkning», slo hun
-fast. Spørsmålet mitt er: Er statsråden enig i at det er ønskelig
-med et større reelt meningsmangfold innen akademia, og hvilke tiltak
-kan eventuelt bidra til å sikre større politisk meningsmangfold?</A>
+at over halvparten av samfunnsforskere og humanister i Norge stemmer
+SV, Rødt, eller MDG. Forsker og leder for prosjektet, Kjersti Thorbjørnsrud,
+uttalte til Aftenposten den gang at særlig forskere innen samfunnsforskning
+burde reflektere over dette. «Mangel på meningsmangfold kan skape blindsoner
+og gruppetenkning», slo hun fast. Spørsmålet mitt er: Er statsråden
+enig i at det er ønskelig med et større reelt meningsmangfold innen
+akademia, og hvilke tiltak kan eventuelt bidra til å sikre større
+politisk meningsmangfold?</A>
           </Replikk>
-          <Replikk Id="i1003917">
+          <Replikk Id="i1004490">
             <A>
               <Navn personID="SIGAAS">
 Statsråd Sigrun Aasland [11:08:27]:</Navn> Ja, det er bra med et
-stort meningsmangfold. Det er også sånn at i hele vitenskapens metode
-ligger det et krav til etterrettelighet og metodebruk som gjør at
-vi skal både kunne debattere forskningsresultatene og være uenige
-om forskningsresultatene. Men vi må også klare å være enige om noen
-grunnleggende metoder og hvordan vi kommer fram til kunnskap. Jeg
-ønsker meg et stort mangfold i både kjønn og politisk ståsted i
-forskningsmiljøer. Det er også viktig at vi klarer å ha en opplyst
-debatt om forskning, der man kritiserer metoder og resultater og
-er åpen for å komme videre, og der man også er åpen for den forskningen
-som viser noe annet enn det politiske synet man har, eller for øvrig
-studier som utforsker noe annet enn det man kanskje har politisk
-interesse for å utforske. </A>
+stort meningsmangfold. Det er også sånn at det i hele vitenskapens
+metode ligger et krav til etterrettelighet og metodebruk som gjør
+at vi skal kunne både debattere forskningsresultatene og være uenige
+om dem. Men vi må også klare å være enige om noen grunnleggende
+metoder og hvordan vi kommer fram til kunnskap. Jeg ønsker meg et
+stort mangfold i både kjønn og politisk ståsted i forskningsmiljøer.
+Det er også viktig at vi klarer å ha en opplyst debatt om forskning, der
+man kritiserer metoder og resultater og er åpen for å komme videre,
+og der man også er åpen for den forskningen som viser noe annet
+enn det politiske synet man har, eller for øvrig studier som utforsker
+noe annet enn det man kanskje har politisk interesse for å utforske. </A>
           </Replikk>
           <Presinnlegg>
             <A>
               <Navn>Presidenten [11:09:31]:</Navn> Me går då vidare
 til neste hovudspørsmål.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1003919">
+          <Hovedinnlegg Id="i1004492">
             <A>
               <Navn personID="KATLIE">
 Kathy Lie (SV) [11:09:53]:</Navn> Nå er det snart 1. mai, og vi skal
@@ -1359,21 +1368,21 @@ ut i gatene og feire dagen, men også markere de kampene som fortsatt
 gjenstår. Halvparten av dem som fortsatt kjemper for et rettferdig
 og godt arbeidsliv, er kvinner. Mange står i krevende arbeid i vår
 felles helsetjeneste, men dessverre er det mange som ikke klarer
-å bli et helt yrkesliv. Sykefraværet er høyt, og altfor mange ender
-med uføretrygd lenge før pensjonsalder.</A>
-            <A Type="Minnrykk"> I det siste har debatten om kvinnearbeidshelse
+å bli der et helt yrkesliv. Sykefraværet er høyt, og altfor mange
+ender med uføretrygd lenge før pensjonsalder.</A>
+            <A Type="Minnrykk">I det siste har debatten om kvinnearbeidshelse
 blitt løftet, nå senest i en artikkel i Aftenposten, hvor man undrer
 seg over hvorfor man ikke snakker mer om helsen til de kvinnene som
 jobber nettopp i helsevesenet. Takket være SV ble det satt ned et
 kvinnehelseutvalg, som leverte sin NOU for ganske nøyaktig et år
 siden. Der slår man bl.a. fast at kvinners fravær og frafall fra
 arbeidslivet koster samfunnet om lag 59 mrd. kr årlig. Det er kanskje
-noe å ta innover seg når vi har en debatt om hva vi skal og ikke
+noe å ta inn over seg når vi har en debatt om hva vi skal og ikke
 skal bruke penger på. Utvalget foreslår flere tiltak, og nå er mange
 utålmodige etter handling. Hvordan vil statsråden følge opp utvalgets
 anbefalinger, og hvilke tiltak er satt i gang så langt?</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003921">
+          <Hovedinnlegg Id="i1004494">
             <A>
               <Navn personID="JANVES">
 Statsråd Jan Christian Vestre [11:11:12]:</Navn> Takk for et veldig
@@ -1384,11 +1393,11 @@ mulig. Hadde vi hatt samme sykefravær i norske sykehus nå som vi
 hadde før pandemien, hadde vi hatt 1 500 flere årsverk, og det er
 ikke 1 500 årsverk vi skal ha bort, det er snarere 1 500 årsverk
 vi kunne ha brukt til bedre pasientbehandling, kortere ventetider,
-bedre oppfølging og å ta ned arbeidsbelastningen, som igjen er positivt for
-å få ned sykefraværet. Det er den debatten jeg ønsker å reise, som
-vi må se på – hvordan bruker vi samfunnets ressurser? Sykefraværet
-er en stor samfunnsutfordring, og vi må jobbe sammen for å få det
-ned.</A>
+bedre oppfølging og til å ta ned arbeidsbelastningen, som igjen
+er positivt for å få ned sykefraværet. Det er den debatten jeg ønsker
+å reise, som vi må se på – hvordan bruker vi samfunnets ressurser?
+Sykefraværet er en stor samfunnsutfordring, og vi må jobbe sammen
+for å få det ned.</A>
             <A Type="Minnrykk">Så spør representanten om utvalget. Utvalget
 har levert sin rapport til arbeids- og inkluderingsministeren, så
 det er arbeids- og inkluderingsministeren som har ansvaret for oppfølgingen.
@@ -1402,15 +1411,15 @@ på kvinnehelse, er viktig. Mannskroppen og kvinnekroppen er, som
 de fleste vet, forskjellige, og da må vi også ha ulik inngang til denne
 forskningen, Når det gjelder å bedre tilgangen til hormonbehandling
 for kvinner i overgangsalderen, der vi vet mange har store problemer
-med å ha en normal jobb fordi kroppen går gjennom store nominelle
+med å ha en normal jobb fordi kroppen går gjennom store hormonelle
 endringer, mener jeg at velferdsstaten bør stille opp mer. Vi har
-nå fått på plass kompetansesentre bl.a. for endometriose, der norske
-kvinner i dag venter i snitt syv år på en diagnose. Sånn skal vi
-ikke ha det i velferdsstaten Norge. Det er ikke godt nok. Og at
-vi nå jobber målrettet med å få ned ventetidene for behandling av
-typiske kvinnesykdommer, er jeg veldig stolt av, også som mann.</A>
+nå fått på plass kompetansesentre bl.a. for endometriose. Norske
+kvinner venter i dag i snitt syv år på en slik diagnose. Sånn skal
+vi ikke ha det i velferdsstaten Norge. Det er ikke godt nok. At
+vi nå jobber målrettet med å få ned ventetidene for behandling av typiske
+kvinnesykdommer, er jeg veldig stolt av, også som mann.</A>
           </Hovedinnlegg>
-          <Replikk Id="i1003923">
+          <Replikk Id="i1004496">
             <A>
               <Navn personID="KATLIE">
 Kathy Lie (SV) [11:13:18]:</Navn> Det er en kjent sak at vi allerede
@@ -1418,28 +1427,28 @@ har en mangel på helsepersonell i flere yrkesgrupper. Særlig kritisk
 er den økende mangelen på sykepleiere og helsefagarbeidere.</A>
             <A Type="Minnrykk">Så mange som 90 pst. av Sykepleierforbundets
 medlemmer er kvinner, og så mange som 70 pst. av Fagforbundets medlemmer
-er kvinner. Disse kvinner jobber oftere deltid enn menn, og de presses
-ofte til å jobbe mer i helger og tøffere turnuser for å øke stillingsbrøken.
-Dette gir en økt belastning som fører til at flere blir syke. I
-tillegg vet vi at kvinner gjennomgår flere livsfaser, som statsråden
-nevnte, og svingninger i livet som påvirker arbeidsevnen. Et av
-utvalgets tiltakspunkter handler om å ta hensyn til disse livsfasene
-og skape forståelse for at man ikke alltid kan tåle den samme belastningen. Det
-kan handle om menstruasjonsplager, svangerskap eller f.eks. overgangsplager,
-som statsråden nevnte.</A>
+er kvinner. Disse kvinnene jobber oftere deltid enn menn, og de
+presses ofte til å jobbe mer i helger og tøffere turnuser for å
+øke stillingsbrøken. Dette gir en økt belastning som fører til at
+flere blir syke. I tillegg vet vi at kvinner gjennomgår flere livsfaser,
+som statsråden nevnte, og svingninger i livet som påvirker arbeidsevnen.
+Et av utvalgets tiltakspunkter handler om å ta hensyn til disse
+livsfasene og skape forståelse for at man ikke alltid kan tåle den
+samme belastningen. Det kan handle om menstruasjonsplager, svangerskap
+eller f.eks. overgangsplager, som statsråden nevnte.</A>
             <A Type="Minnrykk">Ser statsråden at dette er et viktig tiltak
 å ta tak i, og hvordan vil han gå fram for å bidra til en bedre
 livsfasepolitikk i helsetjenesten vår?</A>
           </Replikk>
-          <Replikk Id="i1003925">
+          <Replikk Id="i1004498">
             <A>
               <Navn personID="JANVES">
-Statsråd Jan Christian Vestre [11:14:19]:</Navn> Takk også for et
-godt oppfølgingsspørsmål. Også her er jeg enig med representanten.
-Vi har tatt initiativ til og lanserte i helsetalen et eget medarbeiderløft.
+Statsråd Jan Christian Vestre [11:14:19]:</Navn> Takk for et godt
+oppfølgingsspørsmål. Også her er jeg enig med representanten. Vi
+har tatt initiativ til og lanserte i helsetalen et eget medarbeiderløft.
 Der vil vi sammen med partene i arbeidslivet, naturligvis sammen
 med de største fagorganisasjonene og fagforeningene – i forpliktende
-partnerskap, inspirert av modellen med ventetidsløftet – jobbe med
+partnerskap, inspirert av modellen med Ventetidsløftet – jobbe med
 hvordan vi kan bedre denne situasjonen.</A>
             <A Type="Minnrykk">Representanten er jo selv inne på mange av
 de riktige stikkordene. Hvis alle de som i dag jobber ufrivillig
@@ -1455,26 +1464,26 @@ og større grad av valgmulighet for å tilpasse arbeidssituasjonen
 til den livsfasen man er i, vil også bidra til lavere sykefravær
 og høyere arbeidsdeltakelse framover. Sånn baker vi kaken større.</A>
           </Replikk>
-          <Replikk Id="i1003927">
+          <Replikk Id="i1004500">
             <A>
               <Navn personID="KATLIE">
 Kathy Lie (SV) [11:15:26]:</Navn> I min tid som tillitsvalgt opplevde
-jeg at selv om det er viktig å ha en lønn man kan leve av, så var
-arbeidsmiljø og arbeidsforhold det jeg fikk flest henvendelser om.
-Kollegaene mine var opptatt av nettopp dette med en turnus som var
-forenlig med et liv med barn som skal følges opp, med mulighet for
-fritidsaktiviteter og med krefter til å kunne engasjere seg i samfunnet.
-Og så var de opptatt av at det var nok folk på jobb, så de rakk
-å gjøre hele jobben uten å løpe, så de rakk å spise, og så de slapp
-å gå hjem med dårlig samvittighet for alt de ikke rakk. Det påvirker
-ikke bare sykefraværet, men også evnen og viljen til å bli i et
-krevende yrke.</A>
+jeg at selv om det er viktig å ha en lønn man kan leve av, var arbeidsmiljø
+og arbeidsforhold det jeg fikk flest henvendelser om. Kollegaene
+mine var opptatt av nettopp dette med en turnus som var forenlig
+med et liv med barn som skal følges opp, med mulighet for fritidsaktiviteter
+og med krefter til å kunne engasjere seg i samfunnet. De var også
+opptatt av at det var nok folk på jobb, så de rakk å gjøre hele
+jobben uten å løpe, så de rakk å spise, og så de slapp å gå hjem
+med dårlig samvittighet for alt de ikke rakk. Det påvirker ikke
+bare sykefraværet, men også evnen og viljen til å bli i et krevende
+yrke.</A>
             <A Type="Minnrykk">Det finnes mange utredninger og etter hvert
 god forskning på effekten av gode turnuser og økt grunnbemanning.
 Er dette noe helseministeren vil ta tak i for å beholde helsepersonell
 og minske frafallet?</A>
           </Replikk>
-          <Replikk Id="i1003929">
+          <Replikk Id="i1004502">
             <A>
               <Navn personID="JANVES">
 Statsråd Jan Christian Vestre [11:16:20]:</Navn> Det mener jeg absolutt
@@ -1485,13 +1494,13 @@ måter og har større grad av valgmulighet, og der hvor man også planlegger
 for det fraværet man må regne med at skjer – fordi folk blir syke, ting
 skjer i livet, og mammaer og pappaer skal ha mammaperm og pappaperm
 – og har en grunnbemanning som tar høyde for disse svingningene,
-går sykefraværet ned, og bruken av dyre vikarer og innleie går ned.
-Fafo antyder også at dette kan gjøres uten å bevilge mer penger,
+går sykefraværet ned. Bruken av dyre vikarer og innleie går også
+ned. Fafo antyder også at dette kan gjøres uten å bevilge mer penger,
 fordi en får mest mulig igjen for den arbeidskraften som faktisk
-er der. Og igjen: Det er sånne reformer vi trenger framover, og
+er der. Og igjen: Det er slike reformer vi trenger framover, og
 det klarer vi uten å bevilge veldig mye mer penger.</A>
           </Replikk>
-          <Replikk Id="i1003931">
+          <Replikk Id="i1004504">
             <A>
               <Navn personID="KATLIE">
 Kathy Lie (SV) [11:17:27]:</Navn> Vi snakker mye om behovet for
@@ -1510,7 +1519,7 @@ sykdommene, for at kvinner skal få hjelp før de faller ut av arbeidslivet?
 Og hvordan vil han sørge for bedre helsehjelp til kvinner i helsetjenesten
 vår?</A>
           </Replikk>
-          <Replikk Id="i1003933">
+          <Replikk Id="i1004506">
             <A>
               <Navn personID="JANVES">
 Statsråd Jan Christian Vestre [11:18:19]:</Navn> Jeg er også enig
@@ -1521,21 +1530,21 @@ kvinnesykdommer, men også det å øke behandlingskapasiteten og få
 ned ventetidene.</A>
             <A Type="Minnrykk">Det er få ting som har provosert meg mer i
 denne jobben som helse- og omsorgsminister enn å møte damer i sin
-beste alder – og som vi vet, er det alle aldre – som forteller at
-de venter i månedsvis, ja, til og med kanskje årevis på behandling
+beste alder – som vi vet, er det alle aldre – som forteller at de
+venter i månedsvis, ja, til og med kanskje årevis, på behandling
 for urinveislekkasje, og damer som har stått to år i helsekø for
-å få operert framfall av livmor, som er en ganske typisk, vanlig
-ting som kan skje, kanskje etter fødsel. Sånn skal det ikke være.
-Så det at vi nå drastisk får ned disse ventetidene, handler om livskvalitet
+å få operert framfall av livmor, som er en ganske typisk, vanlig ting
+som kan skje, kanskje etter fødsel. Sånn skal det ikke være. Så
+det at vi nå drastisk får ned disse ventetidene, handler om livskvalitet
 og verdighet, men det handler også om å få folk raskere inn i jobb
 igjen, som folk flest har lyst til.</A>
           </Replikk>
           <Presinnlegg>
             <A>
-              <Navn>Presidenten [11:19:21]:</Navn> Vi går vidare
+              <Navn>Presidenten [11:19:21]:</Navn> Me går vidare
 til neste hovudspørsmål.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1003935">
+          <Hovedinnlegg Id="i1004508">
             <A>
               <Navn personID="IDARSE">
 Ida Lindtveit Røse (KrF) [11:19:34]:</Navn> Det har vært mange festtaler
@@ -1559,11 +1568,11 @@ dager mer på jobb i løpet av året.</A>
             <A Type="Minnrykk">Jeg vil spørre helseministeren: Er det dette
 statsråden mener når han sier at vi skal ha mer helse for hver krone?</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1003937">
+          <Hovedinnlegg Id="i1004510">
             <A>
               <Navn personID="JANVES">
 Statsråd Jan Christian Vestre [11:21:16]:</Navn> La meg først si
-at jeg synes det der var en ganske mørk framstilling av Sykehus-Norge.
+at jeg synes dette var en ganske mørk framstilling av Sykehus-Norge.
 Jeg anbefaler representanten å ta seg en tur, hvis ikke representanten
 har vært på nye SUS. Det er et sykehus i verdensklasse, og jeg er
 så glad for at det er investert milliarder av kroner, og mer skal
@@ -1582,10 +1591,10 @@ om sykehuset hadde god involvering fra sine ansatte og sine fagfolk
 til neste sykehusprosjekt. Vi må se framover, ikke bakover, og vi
 kan alltid, uten unntak, gjøre ting bedre.</A>
             <A Type="Minnrykk">Jeg synes med all respekt ikke vi skal snakke
-ned Stavanger universitetssjukehus, for sånn som representanten
-her legger det fram, virker det nesten som om det ikke er noe som
-er på styr. En kan nesten også ane antydninger om at det er farlig å
-være der som pasient, at helsepersonellet ikke vet hva de skal gjøre,
+ned Stavanger universitetssjukehus, for slik representanten her
+legger det fram, virker det nesten som om det ikke er noe som er
+på stell. En kan nesten også ane antydninger om at det er farlig
+å være der som pasient, at helsepersonellet ikke vet hva de skal gjøre,
 eller at de ikke behandler pasientene sine. Det er feil. Fagfolkene
 i Stavanger gjør en kjempejobb, og en del av de innkjøringsproblemene
 som har vært, ser vi nå at blir bedre, så dette kommer til å gå
@@ -1597,38 +1606,38 @@ vært en høyere vekst enn det budsjettene har lagt opp til, og da
 må Stavanger universitetssjukehus, på lik linje med andre, tilpasse
 driften sin til budsjettene. Sånn er det.</A>
           </Hovedinnlegg>
-          <Replikk Id="i1003939">
+          <Replikk Id="i1004512">
             <A>
               <Navn personID="IDARSE">
 Ida Lindtveit Røse (KrF) [11:23:23]:</Navn> Statsråden ba meg om
-å dra til Stavanger universitetssykehus. Det er nettopp det jeg
+å dra til Stavanger universitetssjukehus. Det er nettopp det jeg
 har gjort. Jeg vil egentlig anbefale statsråden å snakke med noen
-andre, de ansatte, når han er ved Stavanger universitetssykehus,
+andre, de ansatte, når han er ved Stavanger universitetssjukehus,
 for det er de som forteller om den situasjonen som er på deres jobb. </A>
             <A Type="Minnrykk">Nei, det er på ingen måte farlig å være pasient
-på Stavanger universitetssykehus, og det handler om de vanvittig
+på Stavanger universitetssjukehus, og det handler om de vanvittig
 dyktige fagfolkene som går på jobb hver eneste dag. Statsråden sier
 at de ansatte framover ikke skal løpe raskere, men på Stavanger
-universitetssykehus har man portører som har opp mot 40 000 skritt
+universitetssjukehus har man portører som har opp mot 40 000 skritt
 på en vakt. Er det sånn det skal være å være ansatt på et sykehus?</A>
             <A Type="Minnrykk">Ledere slutter på sykehus i Norge fordi presset
 om kutt blir så stort at det ikke lenger oppleves som forsvarlig
 å stå inne for de kuttene man må gjennomføre. Norsk overlegeforening
-sier at korrigert for økte og nye oppgaver, er bevilgningsnivået
+sier at korrigert for økte og nye oppgaver er bevilgningsnivået
 i 2025 lavere enn det var i 2020 og 2021.</A>
           </Replikk>
-          <Replikk Id="i1003941">
+          <Replikk Id="i1004514">
             <A>
               <Navn personID="JANVES">
 Statsråd Jan Christian Vestre [11:24:33]:</Navn> Vi bevilger årlig
 238 000 mill. kr til sykehusene. Det tekniske beregningsutvalget
 for sykehusene har dokumentert godt at det har vært en større realvekst
-i sykehusenes budsjetter med denne regjeringen, enn den forrige
+i sykehusenes budsjetter med denne regjeringen, enn med den forrige
 regjeringen. Vi kan gjerne diskutere hvem som har bevilget mest
 og minst, og hvem som har mest og minst i sine alternative budsjetter,
-men fakta er at Norge bruker mye penger på helse, og vi bruker mer
-penger på helse enn stort sett alle andre land rundt oss. Da må det
-også være rom for å gjøre ting på bedre måter. </A>
+men fakta er at Norge bruker mye penger på helse, og vi bruker mer penger
+på helse enn stort sett alle andre land rundt oss. Da må det også
+være rom for å gjøre ting på bedre måter. </A>
             <A Type="Minnrykk">Som jeg har sagt noen ganger i dag: Helsepersonellet
 vårt forteller selv at de synes vi gjør ting på en urasjonell måte. Norske
 leger, og ikke minst Norsk overlegeforening, sier at vi har for
@@ -1638,14 +1647,14 @@ være entusiastisk opptatt av å gripe fatt i de utfordringene og
 gjøre noe med det. Det er det vi er i full gang med når vi nå reformerer
 Helse-Norge.</A>
           </Replikk>
-          <Replikk Id="i1003943">
+          <Replikk Id="i1004516">
             <A>
               <Navn personID="IDARSE">
 Ida Lindtveit Røse (KrF) [11:25:38]:</Navn> Statsråden nevnte i
 stad at man må lære av sine feil, men det er nettopp det man ikke
-gjør, for situasjonen på Stavanger sykehus er ikke enestående –
-tvert imot. Da komiteen var på besøk på Drammen sykehus tilbake
-i tid, fikk vi de samme tilbakemeldingene om manglende pauserom
+gjør, for situasjonen på Stavanger universitetssjukehus er ikke
+enestående – tvert imot. Da komiteen var på besøk på Drammen sykehus
+tilbake i tid, fikk vi de samme tilbakemeldingene om manglende pauserom
 og uhensiktsmessig utforming av mottaket, som bidrar til mindre,
 ikke mer effektiv drift. Også i legeyrket har det skjedd store endringer,
 og leger forteller om lange vakter, overtid som ikke registreres,
@@ -1655,18 +1664,18 @@ et tragisk selvmord i 2023, som viser nettopp hvor viktig arbeidsvilkår er
 i helsetjenesten vår. Hvilke grep vil statsråden ta for å sikre bedre
 arbeidsvilkår for legene og sykepleierne våre?</A>
           </Replikk>
-          <Replikk Id="i1003945">
+          <Replikk Id="i1004518">
             <A>
               <Navn personID="JANVES">
 Statsråd Jan Christian Vestre [11:26:38]:</Navn> Takk for et bra
 spørsmål.</A>
             <A Type="Minnrykk">Fagfolkene er den viktigste ressursen vi har.
 Uten dem stopper Helse-Norge opp. Jeg er glad for at veldig mange
-trives på jobben og er stolt over jobben sin. Det viser de årlige medarbeiderundersøkelsen
+trives på jobben og er stolt over jobben sin. Det viser de årlige medarbeiderundersøkelsene
 også, der vi på de aller fleste indikatorene skårer høyt, men det
 er utfordringer. Det har representanten helt rett i. Noe av det
 handler om ansvar, tillit og eierskap til arbeidsprosessene. Det
-å bli tatt på alvor og tatt med i beslutninger, er veldig viktig.
+er veldig viktig å bli tatt på alvor og tatt med i beslutninger.
 Jeg har gitt et tydelig oppdrag til sykehusene om at ansatte, tillitsvalgte
 og verneombud skal lyttes til på alle nivåer, og de skal involveres
 aktivt i alle viktige beslutningsprosesser, slik at fagfolkene har
@@ -1678,7 +1687,7 @@ oppdrag at det for alle nye bygg nå må planlegges for at disse grunnleggende
 funksjonene er på plass. Det er i hvert fall to eksempler på tiltak
 vi nå er i gang med.</A>
           </Replikk>
-          <Replikk Id="i1003947">
+          <Replikk Id="i1004520">
             <A>
               <Navn personID="IDARSE">
 Ida Lindtveit Røse (KrF) [11:27:43]:</Navn> Statsråden er opptatt
@@ -1694,7 +1703,7 @@ mat. Vi har fortsatt ikke trening på resept. Derfor vil jeg utfordre
 statsråden til slutt: Hvis man skal kutte eller få mer helse igjen
 for helsekronene, hva skal statsråden gjøre for å forebygge bedre?</A>
           </Replikk>
-          <Replikk Id="i1003949">
+          <Replikk Id="i1004522">
             <A>
               <Navn personID="JANVES">
 Statsråd Jan Christian Vestre [11:28:41]:</Navn> Takk også for det
@@ -1721,15 +1730,15 @@ om.</A>
           <Presinnlegg>
             <A>
               <Navn>Presidenten [11:29:46]:</Navn> Den munnlege
-spørjetimen er no over, og me går over til den ordinære spørjetimen.</A>
+spørjetimen er no over, og me går over til den ordinære spørjetimen. </A>
           </Presinnlegg>
         </Sporretime>
-        <Sporretime Id="i1003951" saksKartNr="2">
+        <Sporretime Id="i1004524" saksKartNr="2">
           <Sakshode>
             <Saknr>
               <Uth Type="Sperret">Sak
 nr. 2</Uth> [11:29:53]</Saknr>
-            <Saktittel Id="i1003953">
+            <Saktittel Id="i1004526">
               <A>Ordinær spørretime</A>
             </Saktittel>
           </Sakshode>
@@ -1740,11 +1749,11 @@ endring i den oppsette spørsmålslista, og presidenten viser i den
 samanhengen til spørsmålslista i salappen.</A>
             <A Type="Blanklinjeminnrykk">Endringa var som følgjer:</A>
             <A Type="Minnrykk">Spørsmål 10, frå representanten Ingrid Fiskaa
-til kommunal- og distriktsministeren, er trekt tilbake.</A>
+til kommunal- og distriktsministeren, er trekt.</A>
           </Presinnlegg>
           <Spm>
             <Tittel>Spørsmål 1</Tittel>
-            <Hovedinnlegg Id="i1003955">
+            <Hovedinnlegg Id="i1004528">
               <A>
                 <Navn personID="MAHAG">
 Margret Hagerup (H) [11:30:19]:</Navn> «Helsedirektoratet har varslet
@@ -1757,7 +1766,7 @@ om å vurdere resultatene fra pilottilbudet.</A>
               <A Type="Minnrykk">Vil statsråden gripe inn og sikre at beslutningen
 stanses inntil saken er forsvarlig behandlet?»</A>
             </Hovedinnlegg>
-            <Hovedinnlegg Id="i1003957">
+            <Hovedinnlegg Id="i1004530">
               <A>
                 <Navn personID="JANVES">
 Statsråd Jan Christian Vestre [11:30:51]:</Navn> La meg først slå
@@ -1768,7 +1777,7 @@ opp Helsedirektoratets utredning og pågående prosjekter om tidlig
 medikamentell abort utenfor sykehus. Dette ligger fast.</A>
               <A Type="Minnrykk">Helsedirektoratet fikk i tildelingsbrevet for
 2025 i oppdrag å utrede abort i kommunale helse- og omsorgstjenester, og
-denne utredningen ble publisert 28. januar i år. På Helsedepartementets
+denne utredningen ble publisert 28. januar i år. På Helsedepartementets
 initiativ ble rapporten sendt på høring, nettopp for å sikre at
 både brukerstemmen og relevante fagmiljøers innspill ble belyst
 og fikk komme til orde. Høringsfristen på dette var 17. april. Departementet
@@ -1789,11 +1798,18 @@ klage. </A>
               <A Type="Minnrykk">Jeg vil til slutt understreke at Stortingets
 behandling av Prop. 117 L for 2023–2024 åpnet for at abortloven
 ikke skal stenge for et framtidig tilbud om abort utenfor sykehus,
-men det er viktig å understreke at dette forutsatte samtidig at
+men det er viktig å understreke at dette samtidig forutsatte at
 et slikt tilbud må utredes nærmere før det eventuelt kan etableres.
 Det er det arbeidet som pågår nå. </A>
             </Hovedinnlegg>
-            <Replikk Id="i1003959">
+            <Merknad>
+              <Handling>
+                <A>
+                  <Uth Type="Sperret">Ove Trellevik</Uth> hadde
+her teke over presidentplassen.</A>
+              </Handling>
+            </Merknad>
+            <Replikk Id="i1004532">
               <A>
                 <Navn personID="MAHAG">
 Margret Hagerup (H) [11:32:56]:</Navn> Jeg er helt enig i at det
@@ -1805,13 +1821,13 @@ er tidlig ultralyd, kan en hos Sex og samfunn bruke selektering
 for å velge vekk dem som slipper ultralyd. Da kan abort gjennomføres
 allerede i uke 4–5. 30 pst. av dem som har tatt abort ved Sex og
 samfunn, har tatt dette før uke 6, og de har sluppet å vente på
-den ultralyden. Dette er lovende kunnskap. </A>
+ultralyd. Dette er lovende kunnskap. </A>
               <A Type="Minnrykk">I regjeringens egen strategi for seksuell helse,
 som en viser til, står det at en skal kunne tilby abort utenfor
 sykehusene, og det er jo et politisk valg. Så spørsmålet er: Vil
 statsråden åpne opp for at abort skal kunne tilbys i primærhelsetjenesten? </A>
             </Replikk>
-            <Replikk Id="i1003961">
+            <Replikk Id="i1004534">
               <A>
                 <Navn personID="JANVES">
 Statsråd Jan Christian Vestre [11:33:47]:</Navn> Som jeg sa i svaret,
@@ -1824,13 +1840,13 @@ aldri kompromisse med verken pasientsikkerhet, faglig forsvarlighet
 eller kvalitet i tjenestene. </A>
               <A Type="Minnrykk">Så vi gjør dette på den skikkelige måten, og
 det er å be Helsedirektoratet, som er vårt fremste fagmiljø, om
-å vurdere dette. Vi har stilt dem spørsmålet: Hva skal til for å
-eventuelt få dette på plass? Den rapporten har vi mottatt. Den er
-sendt på høring. Nå vil vi lytte til de innspillene som kommer,
-og så vil det jo være et spørsmål senere hvordan dette eventuelt
-skal følges opp, og på hvilken måte det skal følges opp.</A>
+å vurdere dette. Vi har stilt dem spørsmålet: Hva skal til for eventuelt
+å få dette på plass? Den rapporten har vi mottatt. Den er sendt på
+høring. Nå vil vi lytte til de innspillene som kommer, og så vil
+det jo være et spørsmål senere hvordan dette eventuelt skal følges
+opp, og på hvilken måte det skal følges opp.</A>
             </Replikk>
-            <Replikk Id="i1003963">
+            <Replikk Id="i1004536">
               <A>
                 <Navn personID="MAHAG">
 Margret Hagerup (H) [11:34:47]:</Navn> For sårbare kvinner er det
@@ -1844,12 +1860,12 @@ på om det er et politisk ønske å åpne for dette, for til syvende
 og sist er jo dette en politisk beslutning der en må ta med seg
 den kunnskapen en har. Så jeg vil bare avslutte med å spørre: Er det
 virkelig tilfellet at man ikke får et ja eller nei på om det er politisk
-vilje til at primærhelsetjenesten skal sikre et aborttilbud, for
-det vil i så fall påvirke tilbudet til ganske mange kvinner i dette
+vilje til at primærhelsetjenesten skal sikre et aborttilbud? Det
+vil i så fall påvirke tilbudet til ganske mange kvinner i dette
 landet i et langsiktig perspektiv. Så dette er et ja/nei-spørsmål
-på om en vil tillate dette i primærhelsetjenesten.</A>
+om hvorvidt en vil tillate dette i primærhelsetjenesten.</A>
             </Replikk>
-            <Replikk Id="i1003965">
+            <Replikk Id="i1004538">
               <A>
                 <Navn personID="JANVES">
 Statsråd Jan Christian Vestre [11:35:38]:</Navn> I den abortloven
@@ -1874,7 +1890,7 @@ legge til grunn det fagmyndighetene vurderer.</A>
           </Spm>
           <Spm>
             <Tittel>Spørsmål 2</Tittel>
-            <Hovedinnlegg Id="i1003967">
+            <Hovedinnlegg Id="i1004540">
               <A>
                 <Navn personID="JSB">
 Julia Brännström Nordtug (FrP) [11:36:50]:</Navn> «Norge har betydelig,
@@ -1888,7 +1904,7 @@ og hvilke konkrete virkemidler vil statsråden ta i bruk for å sikre at
 helseforetak både inngår slike avtaler og benytter seg av kapasiteten
 i praksis?»</A>
             </Hovedinnlegg>
-            <Hovedinnlegg Id="i1003969">
+            <Hovedinnlegg Id="i1004542">
               <A>
                 <Navn personID="JANVES">
 Statsråd Jan Christian Vestre [11:37:26]:</Navn> Det viktigste her
@@ -1897,13 +1913,13 @@ på resultater. Derfor er jeg veldig tilfreds med at sykehusene har
 klart å vri en mangeårig negativ utvikling med økende ventetider,
 som startet da Fremskrittspartiet satt i regjering. Det siste året
 har ventetidene for påbegynt helsehjelp gått ned med 16 dager, ifølge
-Folkehelseinstituttet. Køen for de som venter på helsehjelp, går
+Folkehelseinstituttet. Køen for dem som venter på helsehjelp, går
 ned, og nå har vi fått tall fra Folkehelseinstituttet som viser
 at den tiden det tar fra en blir henvist, til en får sin behandling,
 også går ned. Dette viser jo at politikken virker. </A>
               <A Type="Minnrykk">Representanten spør om hvilke tiltak som skal
 iverksettes. Da vil jeg minne representanten om at hovedtiltaket
-har vært, og er, ventetidsløftet – et partnerskap med Fagforbundet,
+har vært, og er, Ventetidsløftet – et partnerskap med Fagforbundet,
 Sykepleierforbundet, Legeforeningen, Psykologforeningen, Delta,
 de offentlige sykehusene, de private sykehusene og de ideelle sykehusene
 – der vi gjennom godt samarbeid har iverksatt hundretalls av tiltak
@@ -1924,24 +1940,24 @@ sykehusene helsetjenester av private for om lag 18,5 mrd. kr, hvis jeg
 husker tallet riktig. Vi har lange tradisjoner for offentlig og
 privat samarbeid i Norge, og jeg mener at der hvor dette er offentlig
 finansiert, styrt, prioritert og organisert på en hensiktsmessig
-måte, er det bare er bra at vi kan bruke kapasitet i både offentlig
+måte, er det bare bra at vi kan bruke kapasitet i både offentlig
 og privat sektor. Vi kommer ikke til å sette et mål på hvor mye
 en skal kjøpe fra private. Jeg mener en skal kjøpe fra private på
 riktig nivå, og en skal bruke den kapasiteten som der er tilgjengelig. </A>
               <A Type="Minnrykk">Jeg vil takke de offentlige sykehusene for
 den fremragende jobben de har gjort så langt for å få ned ventetidene,
 for vi er ikke i mål ennå. Jeg vil også benytte anledningen til
-å takke de private sykehusene, fordi vi hadde heller ikke klart
-denne jobben uten deres innsats.</A>
+å takke de private sykehusene, for vi hadde heller ikke klart denne jobben
+uten deres innsats.</A>
             </Hovedinnlegg>
-            <Replikk Id="i1003971">
+            <Replikk Id="i1004544">
               <A>
                 <Navn personID="JSB">
 Julia Brännström Nordtug (FrP) [11:40:30]:</Navn> Statsråden sa
 tidligere i dag i en replikkveksling her at det som har opprørt
 ham mest, eller provosert av ham mest, etter at han ble helseminister,
 er møter med norske kvinner som står i månedsvis, kanskje til og
-med årevis og venter på behandling og hjelp for sine plager – men
+med årevis, og venter på behandling og hjelp for sine plager – men
 hjelpen for disse plagene finnes jo. Den er tilgjengelig, og det
 er kort ventetid, men den står ubrukt, og statsråden er ikke villig
 til å ta den i bruk. </A>
@@ -1949,14 +1965,14 @@ til å ta den i bruk. </A>
 i bruk privat kapasitet, og vi skal benytte oss av tilgjengelig
 kapasitet, men det inntrykket representerer ikke den virkeligheten
 som aktørene selv beskriver. De avtalene og den utlysningen som
-ligger ute, er korte i tidsperiode. Det er lavt pasientvolum, og
-nå viser kalenderen allerede april. Langsiktige avtaler, som statsråden
+ligger ute, er for korte tidsperioder. Det er lavt pasientvolum,
+og nå viser kalenderen allerede april. Langsiktige avtaler, som statsråden
 også nevner i sitt svar, er jo ikke inngått. Da spør jeg igjen:
-Kan statsråden redegjøre for hvilket omfang han egentlig faktisk
-ønsker? Hvis en ikke har en plan på omfang, høres ikke dette ut
-som en langsiktig avtale, men mer som ad hoc-politikk.</A>
+Kan statsråden redegjøre for hvilket omfang han egentlig ønsker?
+Hvis en ikke har en plan på omfang, høres ikke dette ut som en langsiktig
+avtale, men mer som ad hoc-politikk.</A>
             </Replikk>
-            <Replikk Id="i1003973">
+            <Replikk Id="i1004546">
               <A>
                 <Navn personID="JANVES">
 Statsråd Jan Christian Vestre [11:41:35]:</Navn> Med fare for at
@@ -1978,28 +1994,27 @@ de altså damer med framfall av livmor. Ventetidene for den behandlingen
 har nå gått markant ned, med mange, mange måneder. Sånt må vi ha
 mer av i våre sykehus framover. </A>
             </Replikk>
-            <Replikk Id="i1003975">
+            <Replikk Id="i1004548">
               <A>
                 <Navn personID="JSB">
 Julia Brännström Nordtug (FrP) [11:42:40]:</Navn> Statsråden nevner
 her et ypperlig eksempel på et tiltak fra Kalnes, men vi kan ikke
 drive sykehuspolitikk med stuntpolitikk. Det er bra at Kalnes tok
 grep, og jeg berømmer dem for det, men vi må også ha avtaler og
-ha en plan på dette over tid. Jeg deler jo absolutt målet – det
-skal selvfølgelig være lavere ventetid for pasienten, og vi skal
-måle på det resultatet – men mitt inntrykk av er at det er motsatt
-for statsråden. Jeg mener at privat kapasitet er et virkemiddel
-for nettopp å få ventetidene ned, mens statsråden har det på motsatt
-måte. For Fremskrittspartiet er det underordnet hvem som leverer
-helsetjenesten, så lenge det skjer til riktig tid, til riktig pris
-og offentlig finansiert. </A>
+ha en plan for dette over tid. Jeg deler absolutt målet – det skal
+selvfølgelig være lavere ventetid for pasienten, og vi skal måle
+på det resultatet – men mitt inntrykk er at det er motsatt for statsråden.
+Jeg mener at privat kapasitet er et virkemiddel for nettopp å få
+ventetidene ned, mens statsråden har det på motsatt måte. For Fremskrittspartiet
+er det underordnet hvem som leverer helsetjenesten, så lenge det
+skjer til riktig tid, til riktig pris og er offentlig finansiert. </A>
               <A Type="Minnrykk">Helseforetakene bruker pasientene mer som sine
 ordrereserver framfor å sikre norske pasienter behandling til riktig tid.
 Da spør jeg igjen statsråden: Er det sånn at statsråden faktisk
 ikke har en plan for at det skal gjennomføres og inngås langsiktige
 avtaler med private aktører?</A>
             </Replikk>
-            <Replikk Id="i1003977">
+            <Replikk Id="i1004550">
               <A>
                 <Navn personID="JANVES">
 Statsråd Jan Christian Vestre [11:43:49]:</Navn> Som jeg har sagt
@@ -2013,16 +2028,16 @@ at utviklingen går i riktig retning. La oss da jobbe sammen for
               <A Type="Minnrykk">Jeg er helt enig i at vi ikke kan basere kortere
 ventetider på at en skal gjøre bare kortsiktige tiltak, men jeg
 har også lyst til å berømme det helsepersonellet og de lederne vi
-har i de offentlige og private sykehusene, som av og til gjør en
+har i de offentlige og private sykehusene som av og til gjør en
 ekstrainnsats. Det trengs, for noen ganger blir køene litt for lange.
-At de da mobiliserer kreftene for å få ned disse tallene, slik at
-man igjen kan komme over til mer ordinær drift, synes jeg vi skal
-berømme og være takknemlige for at helsepersonell stiller opp med.</A>
+At de da mobiliserer kreftene for å få ned disse tallene, slik at man
+igjen kan komme over til mer ordinær drift, synes jeg vi skal berømme
+og være takknemlige for at helsepersonell stiller opp med.</A>
             </Replikk>
           </Spm>
           <Spm>
             <Tittel>Spørsmål 3</Tittel>
-            <Hovedinnlegg Id="i1003979">
+            <Hovedinnlegg Id="i1004552">
               <A>
                 <Navn personID="KEI">
 Kristian August Eilertsen (FrP) [11:45:09]:</Navn> «I høst ble en
@@ -2036,7 +2051,7 @@ for alvorlig vold og fare.</A>
               <A Type="Minnrykk">Mener regjeringen at dagens regelverk gir tilstrekkelig sikkerhet
 for sårbare eldre på sykehjem?»</A>
             </Hovedinnlegg>
-            <Hovedinnlegg Id="i1003981">
+            <Hovedinnlegg Id="i1004554">
               <A>
                 <Navn personID="JANVES">
 Statsråd Jan Christian Vestre [11:45:47]:</Navn> Takk for spørsmålet.
@@ -2087,7 +2102,7 @@ autonomi og livsførsel på en unødvendig eller uforholdsmessig måte,
 samtidig som vi selvfølgelig ivaretar tryggheten og sikkerheten
 til den enkelte framover. </A>
             </Hovedinnlegg>
-            <Replikk Id="i1003983">
+            <Replikk Id="i1004556">
               <A>
                 <Navn personID="KEI">
 Kristian August Eilertsen (FrP) [11:48:46]:</Navn> Jeg takker statsråden
@@ -2105,7 +2120,7 @@ er tilstrekkelig. Hvem er det som har ansvaret når det svikter på
 denne måten? Er det staten, er det kommunen, eller er det den enkelte
 institusjon som har ansvaret? </A>
             </Replikk>
-            <Replikk Id="i1003985">
+            <Replikk Id="i1004558">
               <A>
                 <Navn personID="JANVES">
 Statsråd Jan Christian Vestre [11:49:48]:</Navn> Jeg mener det er
@@ -2123,7 +2138,7 @@ i sykehjem til noen kommuner. Det kan jo tenkes at det her er riktig
 og pliktene som er. Hvorvidt det bør gjøres, er noe vi kan ta stilling
 til framover.</A>
             </Replikk>
-            <Replikk Id="i1003987">
+            <Replikk Id="i1004560">
               <A>
                 <Navn personID="KEI">
 Kristian August Eilertsen (FrP) [11:50:53]:</Navn> Statsråden er
@@ -2143,7 +2158,7 @@ oppfølgingsspørsmålet: Vil regjeringen vurdere å tydeliggjøre nasjonale
 minimumskrav til sikkerhet for eldre og pleietrengende på sykehjem
 og institusjoner, med nødvendig adgangskontroll? </A>
             </Replikk>
-            <Replikk Id="i1003989">
+            <Replikk Id="i1004562">
               <A>
                 <Navn personID="JANVES">
 Statsråd Jan Christian Vestre [11:51:56]:</Navn> Det kan det være
@@ -2165,7 +2180,7 @@ og kanskje til og med også samarbeide om. </A>
           </Spm>
           <Spm>
             <Tittel>Spørsmål 4</Tittel>
-            <Hovedinnlegg Id="i1003991">
+            <Hovedinnlegg Id="i1004564">
               <A>
                 <Navn personID="STIA">
 Stig Atle Abrahamsen (FrP) [11:53:12]:</Navn> «Psykiatrisk kapasitet
@@ -2197,8 +2212,8 @@ helsevern, rusmedisin, NKS Olaviken, alderspsykiatrisk poliklinikk
 og akuttposten i mottaksklinikken i Helse Bergen, slik at disse
 kommer tettere på det somatiske tilbudet på Haukeland-området. </A>
               <A Type="Minnrykk">Per februar har helseforetaket et resultat
-som er 67 mill. kr bak budsjett. Med bakgrunn i den økonomiske situasjonen –
-og da må jeg igjen minne om at alle sykehus må forholde seg til
+som er 67 mill. kr bak budsjett. Med bakgrunn i den økonomiske situasjonen
+– og da må jeg igjen minne om at alle sykehus må forholde seg til
 de budsjettrammene Stortinget fastsetter – er det satt i gang et
 omfattende arbeid for å tilpasse driften til budsjettet. Dette er
 en forutsetning for at investeringer kan gjennomføres som planlagt.
@@ -2219,11 +2234,11 @@ hver krone Stortinget bevilger. </A>
 å styre innenfor de økonomiske rammene de har, og det vil bli omstillinger framover.
 Det viktigste vi kan gjøre for å sikre at nødvendige investeringer
 gjennomføres som planlagt, er å legge til rette for og bidra til
-at sykehusene kan gjennomføre de omstillingstiltakene som er nødvendig,
+at sykehusene kan gjennomføre de omstillingstiltakene som er nødvendige,
 i godt samarbeid med ansatte, tillitsvalgte og verneombud. Da blir
 det også fullt mulig å investere mer framover.</A>
             </Hovedinnlegg>
-            <Replikk Id="i1003993">
+            <Replikk Id="i1004566">
               <A>
                 <Navn personID="STIA">
 Stig Atle Abrahamsen (FrP) [11:56:58]:</Navn> Det er ganske stor
@@ -2236,13 +2251,13 @@ de rammene de har. Når statsråden også har vært ute og varslet at
 her må vi stramme ytterligere inn, er Fremskrittspartiets bekymring
 at disse prosjektene, som er helt nødvendige, som også fører til
 at det blir nok kapasitet, blir dyttet ut.</A>
-              <A Type="Minnrykk">Vil statsråden se på nytt på hvordan vi finansierer
+              <A Type="Minnrykk">Vil statsråden på nytt se på hvordan vi finansierer
 sykehusbygg, slik at det ikke ender opp med at den forrige sprekken
 i Helse Bergen, som var på over 600 mill. kr, fører til at det er
 de psykisk syke som må betale ved at man ikke får på plass de nødvendige
 prosjektene?</A>
             </Replikk>
-            <Replikk Id="i1003995">
+            <Replikk Id="i1004568">
               <A>
                 <Navn personID="JANVES">
 Statsråd Jan Christian Vestre [11:58:05]:</Navn> Det korte og greie
@@ -2253,20 +2268,20 @@ finansiere, som representanten spør om, og også styre og organisere
 helsetjenesten framover. Stortinget har også vedtatt, med Arbeiderpartiets stemmer,
 at vi skal utrede særskilt hvordan en kan skille drift og investeringer
 hvis det er hensiktsmessig. </A>
-              <A Type="Minnrykk">Vi må huske på at dette er en sektor med over
+              <A Type="Minnrykk">Vi må huske at dette er en sektor med over
 150 000 ansatte. Tre millioner pasienter får behandling årlig. Det
-er et budsjett på 238 mrd. kr, og da er det veldig viktig at det
+er et budsjett på 238 mrd. kr, og da er det veldig viktig at det
 er forutsigbarhet og langsiktighet i det vi gjør. Det å skru litt
 på sykehusfinansieringen her og der uten at det er en helhetlig
 plan for hvordan det skal gjennomføres, vil jeg advare mot. Derfor mener
 jeg det er viktig at sånne typer diskusjoner tas når helsereformutvalget
 har levert sin rapport.</A>
             </Replikk>
-            <Replikk Id="i1003997">
+            <Replikk Id="i1004570">
               <A>
                 <Navn personID="STIA">
 Stig Atle Abrahamsen (FrP) [11:59:10]:</Navn> Jeg må ærlig innrømme
-at vi har egentlig ikke mer tid til å kunne gripe inn i dette. Vi
+at vi egentlig ikke har mer tid til å kunne gripe inn i dette. Vi
 ser at helt nødvendige investeringer blir dyttet på. Vi ser at det
 blir flere og flere som ikke får behandling i helsevesenet vårt.
 Jeg vil også rette statsrådens oppmerksomhet mot at det har blitt
@@ -2284,16 +2299,16 @@ vi kan få en tydelig … (Presidenten klubber.)</A>
               <A>
                 <Navn>Presidenten [12:00:16]:</Navn> Tida er ute.</A>
             </Presinnlegg>
-            <Replikk Id="i1003999">
+            <Replikk Id="i1004572">
               <A>
                 <Navn personID="JANVES">
 Statsråd Jan Christian Vestre [12:00:16]:</Navn> Bare et par oppklaringer
-her. Representanten sa både at investeringer settes på hold, og
+her: Representanten sa både at investeringer settes på hold, og
 at det er færre pasienter som får behandling. Begge deler er feil.
 Vi har aldri behandlet flere pasienter ved norske sykehus enn nå.
 Ventetidene går også nedover, og bare de siste fem årene er det
-investert for opppunder 120 mrd. kr i nye sykehusbygg, ny teknologi
-– nye løsninger. Det er en investeringsbølge i norsk helsetjeneste,
+investert for oppunder 120 mrd. kr i nye sykehusbygg, ny teknologi
+og nye løsninger. Det er en investeringsbølge i norsk helsetjeneste,
 så den bekrivelsen er ikke riktig.</A>
               <A Type="Minnrykk">Så legger jeg merke til at Fremskrittspartiet
 er opptatt av at vi skal gå enda raskere fram. Det er veldig enkelt
@@ -2303,34 +2318,34 @@ problemer, men som faktisk gjør ting bedre, det er en helt annen
 diskusjon. Jeg kan ikke skjønne hvordan det skal være mulig å jobbe
 dette raskere fram enn med det løpet regjeringen har lagt. Da får
 vi et resultat som forhåpentligvis kan stå seg i mange år framover,
-og som vi håper at et bredt flertall på Stortinget, kan slutte seg
+og som vi håper at et bredt flertall på Stortinget kan slutte seg
 til.</A>
             </Replikk>
           </Spm>
           <Spm>
             <Tittel>Spørsmål 5</Tittel>
-            <Hovedinnlegg Id="i1004001">
+            <Hovedinnlegg Id="i1004574">
               <A>
                 <Navn personID="AMAGUN">
 Amalie Gunnufsen (H) [12:01:38]:</Navn> «Endringer i tilskuddsordningen
 for samtale- og mestringstilbud innen psykisk helse-, rus- og voldsfeltet
-i Helsedirektoratet innebærer nå at «søknader som har tilbud i hele
+i Helsedirektoratet innebærer nå at ‘søknader som har tilbud i hele
 eller større deler av landet, prioriteres, deretter regionale tilbud.
-Enkeltsøknader til lokale tilbud prioriteres som hovedregel ikke».
-Det har for eksempel medført at Atrop i Agder som har et bredt og
-viktig tilbud, står i fare for å måtte legge ned sitt tilbud.</A>
+Enkeltsøknader til lokale tilbud prioriteres som hovedregel ikke’.
+Det har for eksempel medført at Atrop i Agder, som har et bredt
+og viktig tilbud, står i fare for å måtte legge ned sitt tilbud.</A>
               <A Type="Minnrykk">Er denne prioriteringen er i tråd med regjeringens
 mål om et mangfold av ideelle organisasjoner?»</A>
             </Hovedinnlegg>
-            <Hovedinnlegg Id="i1004003">
+            <Hovedinnlegg Id="i1004576">
               <A>
                 <Navn personID="JANVES">
 Statsråd Jan Christian Vestre [12:02:18]:</Navn> Takk for spørsmålet.
 Det er Stortinget som gjennom budsjettbehandlingen fastsetter rammene
 for de ulike tilskuddsordningene vi har. For tilskuddsordningen
 for samtale- og mestringstilbud innen psykisk helse-, rusmiddel-
-og voldsfeltet ble det for 2026 bevilget 51,2 mill. kr. Helsedirektoratet
-mottok deretter søknader for samlet 118,8 mill. kr på denne ordningen.</A>
+og voldsfeltet ble det for 2026 bevilget 51,2 mill. kr. Helsedirektoratet
+mottok deretter søknader for samlet 118,8 mill. kr på denne ordningen.</A>
               <A Type="Minnrykk">Når det er så sterk konkurranse om tilskuddsmidlene, mener
 jeg det er riktig og viktig at vi prioriterer de tiltakene som gir
 mest effekt, og de tiltakene som når flest. Det innebærer alltid
@@ -2338,20 +2353,21 @@ at det vil være tiltak – også gode tiltak, med lokalt eller regionalt
 nedslagsfelt – som ikke får tilskudd. Sånn må det være.</A>
               <A Type="Minnrykk">Når det gjelder tilskuddsordningene rettet
 mot ideell og frivillig sektor på Helse- og omsorgsdepartementets
-budsjett, hadde de i 2025 en samlet bevilget ramme på om lag 1,6 mrd. kr.
+budsjett, hadde de i 2025 en samlet bevilget ramme på om lag 1,6 mrd. kr.
 Det er altså store beløp som går til disse tilskuddsordningene.
-Her ble det søkt om over 2,5 mrd. kr over de samme ordningene. Når
-vi ser at avstanden mellom bevilgning og søknad er på over 900 mill.
-kr, vil det også her være mange gode tiltak, som Atrop i Agder,
-som dessverre ikke når opp og får tilskudd.</A>
+Her ble det søkt om over 2,5 mrd. kr over de samme ordningene. Når
+vi ser at avstanden mellom bevilgning og søknad er på over 900 mill. kr,
+vil det også her være mange gode tiltak, som Atrop i Agder, som
+dessverre ikke når opp og får tilskudd.</A>
               <A Type="Minnrykk">For kort tid siden vedtok Stortinget et forslag
 om at regjeringen innen framleggingen av forslaget til statsbudsjett
 for 2028 skal foreta en gjennomgang av tilskuddsordningene som forvaltes
 av Helsedirektoratet. Vi skal også legge fram forslag til forbedringer
-før utlysing av de søkbare ordningene. Da vil vi være særlig opptatt
+før utlysning av de søkbare ordningene. Da vil vi være særlig opptatt
 av faglig kvalitet, av relevans, av økt forutsigbarhet og av rom
 for innovasjon og utvikling. Dette arbeidet skal gjøres i samarbeid
-med organisasjonene, og jeg mener det blir en viktig og nyttig øvelse.</A>
+med organisasjonene, og jeg mener dette blir en viktig og nyttig
+øvelse.</A>
               <A Type="Minnrykk">Jeg vil gjerne oppfordre flest mulig til å
 bidra i denne prosessen med konkrete og tydelige innspill, slik
 at vi kan lage et regelverk og ordninger som er enda mer treffsikre
@@ -2359,26 +2375,26 @@ enn i dag. Det er viktig for frivilligheten, det er viktig for de
 ideelle aktørene, og jeg mener det er viktig for hele helse- og
 omsorgstjenesten vår og for samfunnet for øvrig.</A>
             </Hovedinnlegg>
-            <Replikk Id="i1004005">
+            <Replikk Id="i1004578">
               <A>
                 <Navn personID="AMAGUN">
-Amalie Gunnufsen (H) [12:05:01]:</Navn> De siste fem årene der Arbeiderpartiet
-har hatt helseministeren, men egentlig med andre statsråder også,
-ser man at det er blitt gjort ganske store endringer på tilskuddsregelverket.
-Det kan godt være at mye av det har en logisk begrunnelse, og at
-det går fint på lang sikt, men særlig som lokalpolitiker opplevde
-jeg at det var krevende når viktige organisasjoner som politiet
-var avhengig av, som spesialisthelsetjenesten var avhengig av, og som
-kommunene på Sørlandet var avhengig av, egentlig omtrent over natten
-måtte avvikle sine tilbud.</A>
+Amalie Gunnufsen (H) [12:05:01]:</Navn> Man ser at det er blitt
+gjort ganske store endringer på tilskuddsregelverket de siste fem
+årene mens Arbeiderpartiet har hatt helseministeren, og man ser
+det med andre statsråder også. Det kan godt være at mye av det har
+en logisk begrunnelse, og at det går fint på lang sikt, men særlig
+som lokalpolitiker opplevde jeg at det var krevende når viktige
+organisasjoner som politiet var avhengig av, som spesialisthelsetjenesten
+var avhengig av, og som kommunene på Sørlandet var avhengig av,
+omtrent over natta måtte avvikle sine tilbud.</A>
               <A Type="Minnrykk">Så har jo kommunene selv, fordi de er så avhengig
 av disse tilbudene, gått inn med egne tilskudd. Dette gjelder Atrop, som
 særlig hjelper kvinner i en veldig, veldig sårbar situasjon. Amathea,
 som også skulle starte opp i Kristiansand, mistet også tilskuddet
-sitt over natten. Jeg lurer på om statsråden kan reflektere noe
-over prosessen for endringene i tilskuddsregelverket.</A>
+sitt over natta. Jeg lurer på om statsråden kan reflektere noe over
+prosessen bak endringene i tilskuddsregelverket.</A>
             </Replikk>
-            <Replikk Id="i1004007">
+            <Replikk Id="i1004580">
               <A>
                 <Navn personID="JANVES">
 Statsråd Jan Christian Vestre [12:06:07]:</Navn> Jeg mener det er
@@ -2399,33 +2415,34 @@ kan forbedre dette ytterligere, om vi kan gjøre det enda bedre og
 mer treffsikkert og forutsigbart, og det inviterer vi til samarbeid
 om.</A>
             </Replikk>
-            <Replikk Id="i1004009">
+            <Replikk Id="i1004582">
               <A>
                 <Navn personID="AMAGUN">
 Amalie Gunnufsen (H) [12:07:12]:</Navn> Den invitasjonen svarer
-jeg gjerne ja takk på. Det er viktig for meg å si at dette handler
-litt om hvordan man gjør det. Det gikk veldig raskt, og særlig mennesker
-i en sårbar situasjon var avhengig av mange av tilbudene som plutselig
-mistet tilskudd. Jeg tror også det oppleves ganske uverdig å ha
-drevet et tilbud i 16 år og være en viktig person for mange mennesker,
-drive et viktig tilbud for mange mennesker, og så måtte ende opp
-med å stå og selge vafler for å kunne betale husleien fordi man
-tross alt har forpliktet seg til å levere på et tilbud, men tilskuddet forsvinner
-så fort.</A>
+jeg gjerne ja takk på. </A>
+              <A Type="Minnrykk">Det er viktig for meg å si at dette også handler
+litt om hvordan man gjør det. Det gikk veldig raskt, og det var
+særlig mennesker i en sårbar situasjon som var avhengige av mange av
+tilbudene som plutselig mistet tilskuddet. Jeg tror også det oppleves
+ganske uverdig å drive et tilbud i 16 år – være en viktig person
+og drive et viktig tilbud for mange mennesker – og så ende opp med
+å måtte stå og selge vafler for å kunne betale husleien, fordi man
+tross alt har forpliktet seg til å levere på et tilbud, men tilskuddet
+forsvinner så fort.</A>
               <A Type="Minnrykk">Jeg skulle også ønske at regjeringen kanskje
 var mer konsekvent, for man kan jo lese f.eks. i revidert-enigheten
 deres fra 2025 at man plutselig direktetildeler penger til en Amcar-klubb.
 Da opplever jeg at denne veldig prinsipielle linjen blir litt svekket.
-Så tror jeg at jeg bare er uenig i kriteriet. Jeg tror lokale tilbud
-har en styrke i seg selv.</A>
+Jeg er bare uenig i kriteriet, for jeg tror lokale tilbud har en
+styrke i seg selv.</A>
             </Replikk>
-            <Replikk Id="i1004011">
+            <Replikk Id="i1004584">
               <A>
                 <Navn personID="JANVES">
 Statsråd Jan Christian Vestre [12:08:13]:</Navn> Det siste er jeg
 ikke uenig i. Vi trenger både lokale, regionale og nasjonale tilbud.
-Jeg har lyst å understreke at frivillig og ideell sektor gjør en
-kjempeinnsats. Uten dem hadde Norge stoppet opp, så vi vil gjerne
+Jeg har lyst til å understreke at frivillig og ideell sektor gjør
+en kjempeinnsats. Uten dem hadde Norge stoppet opp, så vi vil gjerne
 ha flere ideelle aktører, flere ideelle virksomheter og frivilligheten,
 som bidrar innenfor en lang rekke av samfunnets oppgaver. De gjør
 en kjempejobb også innenfor helse og omsorg.</A>
@@ -2444,7 +2461,7 @@ for landet vårt.</A>
           </Spm>
           <Spm>
             <Tittel>Spørsmål 6</Tittel>
-            <Hovedinnlegg Id="i1004013">
+            <Hovedinnlegg Id="i1004586">
               <A>
                 <Navn personID="TSTA">
 Tom Staahle (FrP) [12:09:28]:</Navn> «I statistikkloven er det et
@@ -2458,7 +2475,7 @@ Skatteetaten, Nav etc.</A>
               <A Type="Minnrykk">Vil statsråden bidra til å endre kravene i
 statistikkloven og bidra til å forenkle dagens ordning?»</A>
             </Hovedinnlegg>
-            <Hovedinnlegg Id="i1004015">
+            <Hovedinnlegg Id="i1004588">
               <A>
                 <Navn personID="JES">
 Statsråd Jens Stoltenberg [12:10:19]:</Navn> Regjeringen er opptatt
@@ -2496,59 +2513,59 @@ for SSB.</A>
 mindre utvalg, og er derfor et viktig verktøy for SSB som bidrar
 til å holde den samlede oppgavebyrden for næringslivet lav. Ved utvikling
 av ny statistikkproduksjon og nye statistikkområder gjøres det en
-kost-nytte-vurdering av hvorvidt det skal fattes vedtak om opplysningsplikt.
+kost–nytte-vurdering av hvorvidt det skal fattes vedtak om opplysningsplikt.
 Disse vurderingene er offentlige.</A>
               <A Type="Minnrykk">Finansdepartementet vil også framover stille
 krav til lav samlet oppgavebyrde for næringslivet, og vil også ha
 forventninger til at SSB jobber med å forenkle, og at SSB utforsker alternative
 datakilder som et ledd i å holde oppgavebyrden lav.</A>
             </Hovedinnlegg>
-            <Replikk Id="i1004017">
+            <Replikk Id="i1004590">
               <A>
                 <Navn personID="TSTA">
-Tom Staahle (FrP) [12:13:18]:</Navn> Jeg takker statsråden for svaret,
-og jeg synes det var interessant at han redegjorde for nedgangen
-i antall årsverk i SSB, men det interessante her er jo hvor mange
+Tom Staahle (FrP) [12:13:18]:</Navn> Jeg takker statsråden for svaret.
+Jeg synes det var interessant at han redegjorde for nedgangen i
+antall årsverk i SSB, men det interessante her er jo hvor mange
 årsverk bedriftene må bruke på å innrapportere til offentlige myndigheter.
 De tallene har ikke statsråden. Nettopp her ligger det også en viss
 grad av forenkling.</A>
-              <A Type="Minnrykk">Jeg fortsetter på forenklingssporet, for regjeringen
+              <A Type="Minnrykk">Jeg fortsetter på forenklingssporet: Regjeringen
 satte seg jo et mål om å spare inn kostnader knyttet til pålagte
 regler og utvikling av offentlige skjemaer, med 11 mrd. kr i løpet
 av 2025. Isolert sett framsto det som et ambisiøst mål, og å ha
-en målsetting er vel og bra. Samtidig er det resultatet som teller,
-og regjeringen selv har estimert resultatet i oppnådd effekt til
-7 mrd. kr.</A>
+en målsetting er vel og bra. Samtidig er det resultatet som teller, og
+regjeringen selv har estimert resultatet i oppnådd effekt til 7 mrd. kr.</A>
               <A Type="Minnrykk">Jeg lurer da på om finansministeren anser det
-som et godt resultat eller god måloppnåelse, og om finansministeren
-har gjort seg noen tanker om hvordan han og departementet i det kommende
+som et godt resultat, eller en god måloppnåelse, og om finansministeren har
+gjort seg noen tanker om hvordan han og departementet i det kommende
 statsbudsjettet vil forenkle og redusere kostnadene ytterligere
 for bedriftene i Norge.</A>
             </Replikk>
-            <Replikk Id="i1004019">
+            <Replikk Id="i1004592">
               <A>
                 <Navn personID="JES">
 Statsråd Jens Stoltenberg [12:14:19]:</Navn> Det tallet jeg viste
-til, var det som er anslått er det samlede antall årsverk i alle
-norske bedrifter. Det er ikke det antallet årsverk som brukes i
-Statistisk sentralbyrå. Når det har gått ned fra 74 til 60, er det
-et uttrykk for at med de beste anslagene som finnes, er det samlede
-antallet årsverk som brukes i norske bedrifter, på vei ned og begrenset.</A>
+til, var det som er anslått å være det samlede antall årsverk i
+alle norske bedrifter. Det er ikke det antallet årsverk som brukes
+i Statistisk sentralbyrå. Når det har gått ned fra 74 til 60, er
+det et uttrykk for at med de beste anslagene som finnes, er det
+samlede antall årsverk som brukes i norske bedrifter, på vei ned
+og begrenset.</A>
               <A Type="Minnrykk">Jeg kan fortsatt skjønne at det er plagsomt
-og irriterende – jeg synes selv det er irriterende å fylle ut skjemaer.
-Jeg er opptatt av at Statistisk sentralbyrå gjør det de kan for
-ytterligere å redusere, og det aller, aller meste av dataene hentes
-jo gjennom offentlige registre og automatiske registreringer. Likevel
-må noe altså fortsatt fylles ut, og vi gjør det vi kan for å fortsette
+og irriterende – jeg synes selv det er irriterende å fylle ut skjemaer
+– og jeg er opptatt av at Statistisk sentralbyrå gjør det de kan
+for ytterligere å redusere. Det aller, aller meste av dataene hentes
+jo gjennom offentlige registre og automatiske registreringer, men
+noe må altså fortsatt fylles ut, og vi gjør det vi kan for å fortsette
 å registrere. Dette gjelder statistikkproduksjon i SSB, og så kan
 det være andre offentlige etater som har egen registrering og andre
 skjemaer. Vi skal uansett fortsette å jobbe.</A>
-              <A Type="Minnrykk">Vi jobber også selvfølgelig med ytterligere
+              <A Type="Minnrykk">Vi jobber selvfølgelig også med ytterligere
 forenkling, og det er bare noen få uker siden jeg la fram forslag
 om krav om elektronisk bokføring, som vil forenkle betydelig for
 bedriftene.</A>
             </Replikk>
-            <Replikk Id="i1004021">
+            <Replikk Id="i1004594">
               <A>
                 <Navn personID="TSTA">
 Tom Staahle (FrP) [12:15:32]:</Navn> Det er noen ganger vi politikere
@@ -2557,10 +2574,10 @@ skal ta til meg det.</A>
               <A Type="Minnrykk">Jeg er glad for at vi deler ambisjonen om å
 forenkle, og det er nettopp det dette handler om for bedriftene
 der ute, fordi det har en kostnadsmessig effekt. Vi vet også at
-når det gjelder antall bedrifter i Norge, er majoriteten av det
+når det gjelder antall bedrifter i Norge, er majoriteten av disse
 små og mellomstore bedrifter, og det leder meg over til noe annet. Denne
 regjeringen er veldig opptatt av å få flere folk ut i arbeid, noe
-vi også deler som ambisjon, for det er en god tanke. Da må vi se
+vi også deler som ambisjon, for det er en god tanke. Men vi må se
 litt på hvilke tiltak denne regjeringen iverksetter for å få flere
 ut i arbeid, når vi ser at den største økningen i statsbudsjettet
 ligger på ytelser gjennom Nav.</A>
@@ -2571,7 +2588,7 @@ arbeidsgiveravgift. Er det aktuelt for finansministeren og dagens
 regjering å se på en ordning der man fjerner arbeidsgiveravgiften
 på lærlinger?</A>
             </Replikk>
-            <Replikk Id="i1004023">
+            <Replikk Id="i1004596">
               <A>
                 <Navn personID="JES">
 Statsråd Jens Stoltenberg [12:16:38]:</Navn> For det første: Vi
@@ -2594,7 +2611,7 @@ ordningen.</A>
           </Spm>
           <Spm>
             <Tittel>Spørsmål 7</Tittel>
-            <Hovedinnlegg Id="i1004025">
+            <Hovedinnlegg Id="i1004598">
               <A>
                 <Navn personID="BÅH">
 Bård Hoksrud (FrP) [12:17:43]:</Navn> «Vedlikeholdsetterslepet i
@@ -2605,7 +2622,7 @@ og effektivitet i transportsystemet.</A>
 veiforvalter har for denne utviklingen, og disponerer Statens vegvesen sine
 ressurser riktig?»</A>
             </Hovedinnlegg>
-            <Hovedinnlegg Id="i1004027">
+            <Hovedinnlegg Id="i1004600">
               <A>
                 <Navn personID="JONN">
 Statsråd Jon-Ivar Nygård [12:18:05]:</Navn> Representanten Hoksrud
@@ -2613,8 +2630,8 @@ har helt rett i at veiens tilstand kan være en utfordring for trygghet
 og framkommelighet, men jeg stiller meg ikke bak påstanden om dårlig
 kvalitet på store deler av veinettet. </A>
               <A Type="Minnrykk">Statens vegvesen planlegger, bygger, drifter
-og vedlikeholder norske veier. Jeg mener etaten leverer godt på
-samfunnsoppdraget. Selv om arbeidet med nullvisjonen er krevende
+og vedlikeholder norske veier, og jeg mener etaten leverer godt
+på samfunnsoppdraget. Selv om arbeidet med nullvisjonen er krevende
 å nå, må vi ikke glemme at Norge i over ti år har vært det mest
 trafikksikre landet i Europa. </A>
               <A Type="Minnrykk">Det er en kobling mellom veinettets tilstand
@@ -2624,10 +2641,10 @@ effektivt og for å kunne sette inn de rette tiltakene til rett tid.
 Statens vegvesen har utviklet tilstandsindikatorer for sentrale
 elementer som kurvatur og bæreevne for vei og bru. Disse viser hvor
 det er avvik mot vedtatt standard. Det er viktig for meg å presisere
-at det selvfølgelig ikke i seg selv er et mål at det aldri skal
-forekomme avvik, men vi må ha kunnskap om hvor tilstanden faktisk
-påvirker trafikantenes framkommelighet og trygghet, for å kunne
-målrette tiltakene våre. </A>
+at det ikke i seg selv er et mål at det aldri skal forekomme avvik,
+men vi må selvfølgelig ha kunnskap om hvor tilstanden faktisk påvirker
+trafikantenes framkommelighet og trygghet, for å kunne målrette
+tiltakene våre. </A>
               <A Type="Minnrykk">Jeg vil gjerne trekke fram et konkret eksempel
 på hvordan det jobbes med dette i Statens vegvesen. </A>
               <A Type="Minnrykk">Statens vegvesens ulykkesanalysegruppe har
@@ -2635,8 +2652,9 @@ siden 2005 analysert alle dødsulykker i veitrafikken. Formålet med
 arbeidet er å kunne bidra til et godt kunnskapsgrunnlag og læring. Analysene
 viser at i ca. 30 pst. av dødsulykkene i perioden 2015–2024 har
 faktorer knyttet til vei og veimiljø vært medvirkende til ulykken.
-Manglende førerdyktighet vurderes å ha medvirket i 46 pst. i samme
-periode. Høy fart etter forholdene har medvirket i 34 pst. av tilfellene. </A>
+Manglende førerdyktighet vurderes å ha medvirket i 46 pst. av tilfellene
+i samme periode, og høy fart etter forholdene har medvirket i 34 pst.
+av tilfellene. </A>
               <A Type="Minnrykk">Det er viktig å presisere at det som oftest
 vil være flere medvirkende faktorer knyttet til samme ulykke. Samtidig som
 det kan være svakheter ved veien, kan det i de samme ulykkene også
@@ -2650,30 +2668,30 @@ er utforkjøringsulykker, og at de fleste av disse skjer i kurver. </A>
 Statens vegvesen en modell basert på maskinlæring for å forutsi
 kurver på riksveier og fylkesveier med forhøyet risiko, for at det
 skal kunne forebygge hvor det i framtiden vil kunne skje ulykker.
-Denne modellen ansees for å være et godt utgangspunkt for en første
-utvelgelse av kurver der det skal vurderes behov for risikoreduserende
-tiltak. </A>
+Denne modellen anses å være et godt utgangspunkt for en første utvelgelse
+av kurver der det skal vurderes behov for risikoreduserende tiltak. </A>
             </Hovedinnlegg>
-            <Replikk Id="i1004029">
+            <Replikk Id="i1004602">
               <A>
                 <Navn personID="BÅH">
 Bård Hoksrud (FrP) [12:21:09]:</Navn> Jeg opplever ikke akkurat
 at statsråden nødvendigvis svarte veldig konkret på spørsmålet mitt,
-men det er jo ikke noe nytt. Statsråden sier han ikke stiller seg
-bak at store deler av veinettet vårt er dårlig. Da tenker jeg på
-ca. 100 mrd. kr i forfall på fylkesveinettet vårt. Jeg tror at de
-som kjører på det veinettet, opplever at det er mye dårlig fylkesvei.
-Det er 30 mrd. kr i forfall på riksveinettet. Jeg tror mange opplever
-at det er dårlig. Statsråden viste til de 200 trafikksikkerhetstiltakene.
-Av de 200 tiltakene er 14 definert på vei og det som går på infrastrukturen.
+men det er jo ikke noe nytt. </A>
+              <A Type="Minnrykk">Statsråden sier at han ikke stiller seg bak
+at store deler av veinettet vårt er dårlig. Da tenker jeg på ca. 100 mrd. kr
+i forfall på fylkesveinettet vårt. Jeg tror at de som kjører på
+det veinettet, opplever at det er mye dårlig fylkesvei. Det er 30 mrd. kr
+i forfall på riksveinettet. Jeg tror mange opplever at det er dårlig.
+Statsråden viste til de 200 trafikksikkerhetstiltakene, og av de
+200 tiltakene er 14 definert på vei og det som går på infrastrukturen.
 Alt det andre gjelder helt andre ting. Det er ett kapittel i en
-blekke på ca. 270 sider. Da stiller jeg meg spørsmålet: Er statsråden
+blekke på ca. 270 sider. Da stiller jeg meg spørsmålet: Er statsråden
 enig i at Statens vegvesen som veieier og veiforvalter i større
 grad burde prioritert fysiske tiltak på veien, som midtoppmerking,
 rekkverk, kurveutbedring, sideterreng og bedre standard, framfor
 flere utredninger, analyser og koordinering?</A>
             </Replikk>
-            <Replikk Id="i1004031">
+            <Replikk Id="i1004604">
               <A>
                 <Navn personID="JONN">
 Statsråd Jon-Ivar Nygård [12:22:15]:</Navn> Arbeiderparti-regjeringens
@@ -2681,67 +2699,69 @@ viktigste prioritering innenfor transport har vært å bruke mer av
 ressursene på å ta vare på den infrastrukturen vi har, utbedre der
 vi kan, og bygge nytt når vi må. Konkret betyr det at vi øker bevilgningene
 til drift og til vedlikeholdsarbeid. Det har vi vist gjennom de
-siste statsbudsjettene, og det er også slik at man i stortingsproposisjon 1
-vil kunne lese at man har tatt vedlikeholdsetterslepet noe ned på
-riksvei de senere årene. Det er riktig at når man ser på de tekniske
-beregningene av vedlikeholdsetterslep, er det ganske enorme beløp,
-men jeg er sikker på at representanten Hoksrud er enig med meg i
-at det viktigste er at man har trygg og framkommelig vei med høy
-trafikksikkerhet, og at det er høy oppetid på veien. Det er jobben
-til fylkeskommunene og Statens vegvesen å sørge for at vi bruker
-ressursene på best mulig måte for å få trygg framkommelighet og
-oppetid på veien vår. Det er jeg helt sikker på at fylkeskommunene
+siste statsbudsjettene, og det er også slik at man i Stortingsproposisjon
+nr. 1 vil kunne lese at man har tatt vedlikeholdsetterslepet noe
+ned på riksvei de senere årene. Det er riktig at når man ser på
+de tekniske beregningene av vedlikeholdsetterslep, er det ganske
+enorme beløp, men jeg er sikker på at representanten Hoksrud er
+enig med meg i at det viktigste er at man har trygg og framkommelig
+vei med høy trafikksikkerhet, og at det er høy oppetid på veien.
+Det er jobben til fylkeskommunene og Statens vegvesen å sørge for
+at vi bruker ressursene på best mulig måte for å få trygg framkommelighet
+og oppetid på veien vår. Det er jeg helt sikker på at fylkeskommunene
 er i stand til å gjøre. De har fått en betydelig økning i overføringene
 de siste årene, bl.a. for å håndtere dette.</A>
             </Replikk>
-            <Replikk Id="i1004033">
+            <Replikk Id="i1004606">
               <A>
                 <Navn personID="BÅH">
 Bård Hoksrud (FrP) [12:23:19]:</Navn> Jeg har lyst til å være veldig
 konkret overfor statsråden. Han sier at denne regjeringen gjør mer
 på drift og vedlikehold. På f.eks. asfaltering, som statsråden for
-kort tid siden var ute med, ble det brukt 1,4 mrd. kr i fjor. I
-år er det satt av 1,4 mrd. kr til bruk på dette. Det blir riktignok
+kort tid siden var ute med, ble det brukt 1,4 mrd. kr i fjor, og
+det er satt av 1,4 mrd. kr til bruk på dette i år. Det blir riktignok
 noen få kilometer lenger, men jeg er litt spent på hvordan man klarer
-å få det til, med alle de kostnadsøkningene. Når man i år bruker
-det samme beløpet som i fjor og kostnadene har skutt i været, hvordan
-mener statsråden det henger sammen og betyr at man får gjort mer
-på vedlikehold, når realiteten er at alle andre parametere tyder på
-at det blir mye mindre fordi kostnadene har økt så enormt mye mer?
-Det betyr vel at regjeringen egentlig ikke satser. Jeg skjønner
-at statsråden vil prate rundt det og snakke om de 14 tiltakene som
-handler om å utrede, analysere og koordinere, istedenfor å handle
-og sørge for å gjøre noe med vedlikeholdsforfallet, slik at man
-tar igjen det i et helt annet tempo enn det man gjør nå. Statens
-vegvesen bør bruke ressursene sine på det.</A>
+å få det til med alle de kostnadsøkningene. Når man i år bruker
+det samme beløpet som i fjor, og kostnadene har skutt i været, hvordan
+mener statsråden det henger sammen? Hvordan kan det bety at man
+får gjort mer på vedlikehold, når realiteten er at alle andre parametere
+tyder på at det blir mye mindre fordi kostnadene har økt så enormt
+mye mer? Det betyr vel at denne regjeringen egentlig ikke satser. </A>
+              <A Type="Minnrykk">Jeg skjønner at statsråden vil prate rundt
+dette og snakke om de 14 tiltakene som handler om å utrede, analysere
+og koordinere, istedenfor faktisk å handle og sørge for å gjøre
+noe med vedlikeholdsforfallet, slik at man tar igjen det i et helt
+annet tempo enn det man gjør nå. Statens vegvesen bør bruke ressursene
+sine på det.</A>
             </Replikk>
-            <Replikk Id="i1004035">
+            <Replikk Id="i1004608">
               <A>
                 <Navn personID="JONN">
-Statsråd Jon-Ivar Nygård [12:24:23]:</Navn> Det bygges i Norge i
+Statsråd Jon-Ivar Nygård [12:24:23]:</Navn> I Norge bygges det i
 dag prosjekter i milliardklassen mange steder i landet. Det har
 vært en økning i innsatsen på drift og vedlikehold. Det er riktig
 at det i budsjettet fra 2025 til 2026 ikke var en stor økning, men
 det har vært en økning, særlig fra 2024 til 2025, som var markant.
 Vi har også i enkelte runder med revidert budsjett økt bevilgningene
 til vedlikeholdssiden, særlig på vei. Det mener jeg er riktig. Det
-handler om å ta bedre vare på eksisterende veiinfrastruktur. Jeg
-mener det er litt lite konstruktivt å karikere en trafikksikkerhetstiltaksplan
-som er laget av de viktigste aktørene innenfor trafikksikkerhet
-i Norge. Den er laget sammen med trafikksikkerhetsaktørene og de
-beste faglige miljøene, og så har man gjort gode avveininger. Det
-er ikke sånn at alt som skjer innenfor veifinansiering og veiinfrastruktur,
-står i den planen, og det tror jeg representanten vet veldig godt.</A>
+handler om å ta bedre vare på eksisterende veiinfrastruktur. </A>
+              <A Type="Minnrykk">Jeg mener det er litt lite konstruktivt å karikere
+en trafikksikkerhetstiltaksplan som er laget av de viktigste aktørene innenfor
+trafikksikkerhet i Norge. Den er laget sammen med trafikksikkerhetsaktørene
+og de beste faglige miljøene, og så har man gjort gode avveininger.
+Men det er ikke sånn at alt som skjer innenfor veifinansiering og
+veiinfrastruktur, står i den planen, og det tror jeg representanten
+vet veldig godt.</A>
             </Replikk>
           </Spm>
           <Spm>
             <Tittel>Spørsmål 8</Tittel>
-            <Hovedinnlegg Id="i1004037">
+            <Hovedinnlegg Id="i1004610">
               <A>
                 <Navn personID="LIG">
 Liv Gustavsen (FrP) [12:25:40]:</Navn> «Det er ikke en statlig oppgave
 å legge til rette for rusbruk eller dele ut brukerutstyr. Likevel
-gir Bufdir 450 000 kroner til Chemfriendly. Chemfriendly er en aktør
+gir Bufdir 450 000 kr til Chemfriendly. Chemfriendly er en aktør
 som retter seg mot skeive miljøer og arbeider med rusrelaterte seksuelle
 praksiser. I inkluderingspolitikkens navn prioriteres miljøer knyttet
 til rus og risikoadferd, samtidig som andre tilbud og aktiviteter
@@ -2749,7 +2769,7 @@ for barn nedprioriteres.</A>
               <A Type="Minnrykk">Mener statsråden dette er en ansvarlig prioritering
 av midler satt av til barn og unge?»</A>
             </Hovedinnlegg>
-            <Hovedinnlegg Id="i1004039">
+            <Hovedinnlegg Id="i1004612">
               <A>
                 <Navn personID="LBF">
 Statsråd Lubna Boby Jaffery [12:26:27]:</Navn> For det første: Tilskuddsordningen
@@ -2771,7 +2791,7 @@ de faglige vurderingene. Mitt departement er klageinstans for ordningen,
 og vi går derfor ikke inn og vurderer enkeltsøknader.</A>
               <A Type="Minnrykk">Samtidig er det viktig for meg å understreke
 at Bufdir ikke finansierer rusbruk eller utdeling av brukerutstyr.
-ChemFriendly har fått tidsavgrensede aktivitetsmidler – ikke driftstilskudd
+Chemfriendly har fått tidsavgrensede aktivitetsmidler – ikke driftstilskudd
 – til brukermedvirket opplysningsarbeid for å styrke skeives seksuelle
 og mentale helse. Å gi informasjon til en marginalisert gruppe er
 ikke det samme som å legitimere handlinger. Dette er tiltak som
@@ -2785,72 +2805,73 @@ og se på om det er behov for å slå sammen ordninger som har overlappende
 formål og målgrupper, herunder hvem som er tilskuddsmottakere. Dette
 er et arbeid som skal sikre god måloppnåelse og ryddighet i tilskuddsforvaltningen.</A>
             </Hovedinnlegg>
-            <Replikk Id="i1004041">
+            <Replikk Id="i1004614">
               <A>
                 <Navn personID="LIG">
 Liv Gustavsen (FrP) [12:28:34]:</Navn> Jeg hører statsråden sier
 at man ikke støtter å gi gratis brukerutstyr. Da må jeg si at statsråden
-tar helt feil. ChemFriendly får penger fra departementet, altså
+tar helt feil, for Chemfriendly får penger fra departementet, altså
 fra Bufdir. Dette er en forening som driver møtepunkter og sexfester
 for transpersoner, og nå andre. De er opptatt av at transer og mannlige
-sexpartnere skal ruse seg trygt og gir oppskrifter på dette på websiden
-sin. De reklamerer også for at man kan få gratis brukerutstyr til
-inntak av forskjellige rusmidler hos dem, slik som piper til røyking
-av crack og krystaller og målebeger for oppmåling av GHB og andre
-stoffer. </A>
+sexpartnere skal ruse seg trygt, og de gir oppskrifter på dette
+på websiden sin. De reklamerer også for at man kan få gratis brukerutstyr
+til inntak av forskjellige rusmidler hos dem, slik som piper til
+røyking av crack og krystaller og målebeger for oppmåling av GHB og
+andre stoffer. </A>
               <A Type="Minnrykk">Når midler er begrenset og forebyggende tiltak
 for barn og unge må avvises, hvordan kan da statsråden forsvare
 at denne typen aktører prioriteres? Vil statsråden nå ta initiativ til
 å endre kriteriene slik at det ikke skjer slike tildelinger?</A>
             </Replikk>
-            <Replikk Id="i1004043">
+            <Replikk Id="i1004616">
               <A>
                 <Navn personID="LBF">
 Statsråd Lubna Boby Jaffery [12:29:36]:</Navn> Igjen: Det er ikke
 staten som deler ut brukerutstyr til denne gruppen. For andre grupper
-som bruker rus, har man f.eks. brukerrom. De er også finansiert
-over statsbudsjettet. Det er et kommunalt tiltak bl.a. i Oslo og
+som bruker rusmidler, har man f.eks. brukerrom. De er jo også finansiert
+over statsbudsjettet. Det er et kommunalt tiltak, bl.a. i Oslo og
 Bergen, der rusavhengige kan sette dosen i trygge omgivelser. </A>
-              <A Type="Minnrykk">Det ChemFriendly gjør, slik jeg har forstått
+              <A Type="Minnrykk">Det Chemfriendly gjør, slik jeg har forstått
 det, er å veilede og gi informasjon knyttet til rusbruk og seksuell
 atferd som kan være risikodrivende. </A>
               <A Type="Minnrykk">Så er dette igjen et spørsmål om kultur- og
 likestillingsministeren skal bestemme over de midlene som Bufdir
-forvalter på vegne av staten og gå inn i enkeltsaker. Det er ikke
-aktuelt, men, som jeg sa i mitt innledende svar til representanten,
-jeg har bedt om en gjennomgang av tilskuddsordningene, og dermed
-også en gjennomgang av tilskuddsmottakerne. </A>
+forvalter på vegne av staten, og gå inn i enkeltsaker. Det er ikke
+aktuelt, men som jeg sa i mitt innledende svar til representanten, har
+jeg bedt om en gjennomgang av tilskuddsordningene og dermed også
+en gjennomgang av tilskuddsmottakerne. </A>
             </Replikk>
-            <Replikk Id="i1004045">
+            <Replikk Id="i1004618">
               <A>
                 <Navn personID="LIG">
 Liv Gustavsen (FrP) [12:30:36]:</Navn> Jeg er veldig glad for det
-statsråden avslutter med her, at hun skal ha en gjennomgang av det.
-Jeg vil så kommentere det hun sa om brukerrom. Jeg er veldig stor
-tilhenger av brukerrommene i Tollbugata 3 i Oslo, det er veldig
-bra, men det går under helsebudsjettet. Det er noe helt annet. Nå
-snakker vi om penger som egentlig skal gå til barn og unge. </A>
+statsråden avslutter med her, at hun skal ha en gjennomgang av det. </A>
+              <A Type="Minnrykk">Jeg vil så kommentere det hun sa om brukerrom.
+Jeg er en veldig stor tilhenger av brukerrommene i Tollbugata 3
+i Oslo, det er veldig bra, men det går under helsebudsjettet. Det er
+noe helt annet. Nå snakker vi om penger som egentlig skal gå til
+barn og unge. </A>
               <A Type="Minnrykk">Dette handler heller ikke om inkludering, men
 om ansvar. Når staten finansierer miljøer som gir veiledning om
 å bruke sterke, ulovlige rusmidler, flytter man faktisk grenser for
 hva det offentlige skal bidra til. Mener statsråden dette er ansvarlig
-politikk, eller er det et eksempel på ansvarsfraskrivelse i inkluderingspolitikkens
+politikk, eller er dette et eksempel på ansvarsfraskrivelse i inkluderingspolitikkens
 navn? Og: Skal vi virkelig bruke skattebetalernes penger på ulovlige
 stoffer? Statsråden kan sikkert være enig med meg i at GHB ikke
 er lov å bruke i Norge. </A>
             </Replikk>
-            <Replikk Id="i1004047">
+            <Replikk Id="i1004620">
               <A>
                 <Navn personID="LBF">
 Statsråd Lubna Boby Jaffery [12:31:35]:</Navn> Disse pengene går
 ikke til innkjøp av GHB, slik representanten nærmest framstiller
-det. Dette er penger som gis til en organisasjon som heter ChemFriendly,
+det. Dette er penger som gis til en organisasjon som heter Chemfriendly,
 som veileder folk som har tilgang på ulovlige rusmidler. Det kan
-man like eller ikke like – jeg kan ha mine meninger om det – men
-dette er altså en ordning som forvaltes av Bufdir. Det ville heller
-ikke tatt seg ut at jeg som statsråd gikk inn i alle enkeltsaker,
-alle enkeltbevilgninger, og la på mine preferanser. Der må vi styre
-gjennom forskrift, og der må vi ha tildelingskriterier som departementet
+man like eller ikke like – og jeg kan ha mine meninger om det –
+men dette er altså en ordning som forvaltes av Bufdir. Det ville
+heller ikke tatt seg ut at jeg som statsråd gikk inn i alle enkeltsaker,
+alle enkeltbevilgninger, og la på mine preferanser. Der må vi styre gjennom
+forskrift, og der må vi ha tildelingskriterier som departementet
 fastsetter, som direktoratet igjen følger. Derfor har jeg bedt om
 en gjennomgang. Det er den viktige delen av mitt svar til representanten
 som jeg håper at hun tar med seg. </A>
@@ -2861,7 +2882,7 @@ er viktig for meg å understreke. </A>
           </Spm>
           <Spm>
             <Tittel>Spørsmål 9</Tittel>
-            <Hovedinnlegg Id="i1004049">
+            <Hovedinnlegg Id="i1004622">
               <A>
                 <Navn personID="BENBEN">
 Bent-Joacim Bentzen (Sp) [12:32:44]:</Navn> «Statsråden har nylig
@@ -2873,7 +2894,7 @@ mister et mandat i mandatberegningen ut fra folketall.</A>
 Nordland mister representasjon og makt i nasjonalforsamlingen som følge
 av regjeringens politikk?»</A>
             </Hovedinnlegg>
-            <Hovedinnlegg Id="i1004051">
+            <Hovedinnlegg Id="i1004624">
               <A>
                 <Navn personID="BJRSKJ">
 Statsråd Bjørnar Skjæran [12:33:12]:</Navn> Jeg har lagt fram et
@@ -2895,12 +2916,12 @@ betyr også at andre valgdistrikter vil kunne få flere eller færre
 mandater som følge av en slik endring. På nåværende tidspunkt er det
 ikke mulig å si noe sikkert om hvordan en endring i strukturen vil
 slå ut for mandatfordelingen som skal gjøres i 2028. Det vil ikke
-være mulig å si sikkert før innbyggertall for 1. januar 2028 foreligger.
+være mulig å si sikkert før innbyggertall for 1. januar 2028 foreligger.
 Det vanlige er at denne beregningen gjøres av departementet som
 har ansvaret for den etter valgloven, og offentliggjøres i april/mai
 året før et valgår.</A>
             </Hovedinnlegg>
-            <Replikk Id="i1004053">
+            <Replikk Id="i1004626">
               <A>
                 <Navn personID="BENBEN">
 Bent-Joacim Bentzen (Sp) [12:34:51]:</Navn> Jeg opplever ikke at
@@ -2912,12 +2933,12 @@ i Nord-Norge – sammen med Arbeiderpartiet – Fremskrittspartiet for
 de ville endre arealnøkkelen. Hvorfor gjør en det som en tidligere
 har kritisert?</A>
             </Replikk>
-            <Replikk Id="i1004055">
+            <Replikk Id="i1004628">
               <A>
                 <Navn personID="BJRSKJ">
 Statsråd Bjørnar Skjæran [12:35:20]:</Navn> For Arbeiderpartiet
-er systemet i valgloven slik som det ligger, et veldig godt system,
-der vi fordeler representanter, mandater, mellom valgdistriktene
+er systemet i valgloven slik som det foreligger, et veldig godt
+system, der vi fordeler representanter, mandater, mellom valgdistriktene
 etter et system der både innbyggertall og areal betyr noe. Det at
 Fremskrittspartiet ønsker å fjerne systemet med areal og på den
 måten sørge for at store deler av Distrikts-Norge blir dårligere
@@ -2926,13 +2947,13 @@ som hører hjemme andre steder enn i en spørsmålsrunde her mellom
 en statsråd fra Arbeiderpartiet og en representant for Senterpartiet.
 Vi lar det ligge.</A>
               <A Type="Minnrykk">Så hører jeg at representanten er skråsikker
-på hva som vil være utfallet. Jeg anbefaler at man, hvis man vil
-leke seg med den typen regnestykker, vel må bruke de tallene som
-blir oppdatert, og så regne med og uten denne endringen. Det kan kanskje
-være en bedre framgangsmåte for å kunne være såpass påståelig som
-jeg opplever at representanten er nå.</A>
+på hva som vil være utfallet. Hvis man vil leke seg med den typen
+regnestykker, anbefaler jeg at man bruker de tallene som er oppdatert,
+og så regner med og uten denne endringen. Det kan kanskje være en
+bedre framgangsmåte for å kunne være såpass påståelig som jeg opplever
+at representanten er nå.</A>
             </Replikk>
-            <Replikk Id="i1004057">
+            <Replikk Id="i1004630">
               <A>
                 <Navn personID="BENBEN">
 Bent-Joacim Bentzen (Sp) [12:36:23]:</Navn> Det er åpenbart at statsråden
@@ -2945,23 +2966,24 @@ Det mener jeg er helt feil.</A>
               <A Type="Minnrykk">Jeg vil også vise til at forskere har pekt
 på at den spørreundersøkelsen som ligger til grunn, ikke bør tillegges
 vekt når det gjelder Gran, på grunn av ledende spørsmål og at informantene
-er selektert på forhånd. Med respekt å melde, dette er ikke et godt
+er selektert på forhånd. Med respekt å melde: Dette er ikke et godt
 beslutningsgrunnlag for å gjøre et sånt valg. Vil statsråden på
 bakgrunn av de avsløringene som er gjort gjennom media, trekke denne
 saken til Stortinget?</A>
             </Replikk>
-            <Replikk Id="i1004059">
+            <Replikk Id="i1004632">
               <A>
                 <Navn personID="BJRSKJ">
 Statsråd Bjørnar Skjæran [12:37:06]:</Navn> Jeg har registrert det
 som representanten viser til, at et av de byråene som driver med
 målinger, har gjort en utregning av dette spørsmålet basert på det
-jeg tror var folketall fra tredje kvartal 2025. Men det kan jo være
-et ganske annerledes bilde når vi kommer til 2028. Det vil befolkningsutviklingen
-i hele landet, i ulike valgdistrikter, avgjøre. Så jeg anbefaler
-igjen – hvis man skal være så skråsikker – å forsøke å gjøre seg
-noen regnestykker til før man beskylder meg for å holde på på den måten
-som representanten nå sier.</A>
+jeg tror var folketall fra tredje kvartal 2025. Men det er sånn
+at det er et regnestykke som ikke vil være relevant – det kan jo
+være et ganske annerledes bilde når vi kommer til 2028. Det vil
+befolkningsutviklingen i hele landet, i ulike valgdistrikter, avgjøre.
+Jeg anbefaler igjen – hvis man skal være så skråsikker – å forsøke
+å gjøre noen regnestykker til før man beskylder meg for å holde
+på på den måten som representanten nå sier at jeg gjør.</A>
               <A Type="Minnrykk">Så har vi lagt fram en proposisjon for Stortinget.
 Der har vi redegjort for helheten som ligger til grunn for at regjeringen
 foreslår at Gran får bytte fylke. Vi har også redegjort for hva
@@ -2979,9 +3001,9 @@ og distriktsministeren:</A>
             <A Type="Minnrykk">«Like før jul vedtok kommunal- og distriktsministeren grensejustering
 av Liabygda i Stranda til Fjord kommune, der dei i dag har kvardagsregionen
 sin. For Forsand-bygda er kommunesenteret i Sandnes ein ferjetur
-og 36 km køyring unna. Alternativt 60 km via Ryfast, gjennom Strand
+og 36 km køyring unna. Alternativt 60 km via Ryfast, gjennom Strand
 og Stavanger kommunar, til Sandnes. Forsand utgjer saman med Strand kommune
-ein kvardagsregion og det er 18 km til kommunesenteret på Jørpeland.</A>
+ein kvardagsregion og det er 18 km til kommunesenteret på Jørpeland.</A>
             <A Type="Minnrykk">Er statsråden einig i at det er like naturleg
 å la Forsand gå til Strand kommune, som er kvardagsregionen deira,
 som å la Liabygda gå til Fjord kommune ?»</A>
@@ -2993,13 +3015,13 @@ er trekt. </A>
           </Spm>
           <Spm>
             <Tittel>Spørsmål 11</Tittel>
-            <Hovedinnlegg Id="i1004061">
+            <Hovedinnlegg Id="i1004634">
               <A>
                 <Navn personID="FINKRO">
 Finn Krokeide (FrP) [12:38:21]:</Navn> «Andelen av den norske befolkningen
 det er plass til i landets tilfluktsrom, har blitt mindre i tiden
 som har gått siden krigsutbruddet i Ukraina. Justiskomiteen var
-den 26. mars på besøk hos Sivilforsvarets kompetansesenter på Starum
+den 26. mars på besøk hos Sivilforsvarets kompetansesenter på Starum
 i Østre Toten, og der fikk vi bekreftet at denne trenden bare fortsetter
 – dekningsgraden går fortsatt ned. Krigen i Ukraina er nå inne i
 sitt femte år, og det haster med å få økt tilfluktsromkapasiteten
@@ -3007,7 +3029,7 @@ vår.</A>
               <A Type="Minnrykk">Når kan vi forvente at regjeringen vil gjøre
 noe for å få bygget flere tilfluktsrom i Norge?»</A>
             </Hovedinnlegg>
-            <Hovedinnlegg Id="i1004063">
+            <Hovedinnlegg Id="i1004636">
               <A>
                 <Navn personID="ASTAAS">
 Statsråd Astri Aas-Hansen [12:39:04]:</Navn> Regjeringen jobber
@@ -3016,7 +3038,7 @@ i en situasjon med krig eller når krig truer. I totalberedskapsmeldingen
 redegjorde regjeringen for disse tiltakene, bl.a. evakuering og
 krigsutflytting, tilfluktssteder og egenberedskap. Vi ser tiltakene
 i sammenheng og jobber parallelt med dem.</A>
-              <A Type="Minnrykk">Vi har innført fire kategorier tilfluktsteder:
+              <A Type="Minnrykk">Vi har innført fire kategorier tilfluktssteder:
 beskyttelse der du er, lokasjoner i tryggere geografiske områder,
 dekningsrom og tilfluktsrom med CBRNE-beskyttelse.</A>
               <A Type="Minnrykk">Som del av arbeidet med tilfluktssteder pågår
@@ -3052,12 +3074,12 @@ Den skal være ferdig til sommeren. Det er også utarbeidet egenberedskapsråd,
 ikke bare for personer, men også for virksomheter, sånn at de har bedre
 forutsetninger for å opprettholde drift i en krisesituasjon.</A>
             </Hovedinnlegg>
-            <Replikk Id="i1004065">
+            <Replikk Id="i1004638">
               <A>
                 <Navn personID="FINKRO">
 Finn Krokeide (FrP) [12:42:05]:</Navn> Takk for svaret. Under dette
 besøket som justiskomiteen var på på Toten, ble også Mjøssykehuset
-et tema, som skal bygges på Moelv, og som blir det nye hovedsykehuset
+et tema. Det skal bygges på Moelv og blir det nye hovedsykehuset
 for Innlandet. Det vurderes nå i fullt alvor om det sykehuset skal
 bygges uten tilfluktsrom. Det er nesten litt vanskelig å tro at
 det vurderes, når vi har sett hvordan krigen i Ukraina utkjempes. </A>
@@ -3067,25 +3089,25 @@ blir da: Mener statsråden med det konstitusjonelle ansvaret for
 den sivile beredskapen at det er forsvarlig å bygge Mjøssykehuset
 uten tilfluktsrom?</A>
             </Replikk>
-            <Replikk Id="i1004067">
+            <Replikk Id="i1004640">
               <A>
                 <Navn personID="ASTAAS">
 Statsråd Astri Aas-Hansen [12:42:49]:</Navn> Det som er viktig,
 er at vi har en god beskyttelse av befolkningen i situasjoner med
-krig, eller når krig truer. Da må vi se på, som jeg også sa, hva
-som er trusselsituasjonen, og hvor vi skal beskytte befolkningen
-ved å få på plass tilfluktsrom, som er representantens spørsmål,
-og hvor det er andre måter å beskytte befolkningen på. Som sagt
-jobber vi med dette og vil komme med forskrift knyttet til tilfluktsrom
+krig, eller når krig truer. Som jeg også sa, må vi da se på hva
+som er trusselsituasjonen, hvor vi skal beskytte befolkningen ved
+å få på plass tilfluktsrom – som er representantens spørsmål – og
+hvor det er andre måter å beskytte befolkningen på. Som sagt jobber
+vi med dette og vil komme med forskrift knyttet til tilfluktsrom
 så fort som mulig. </A>
               <A Type="Minnrykk">Så er det slik, som også representanten var
-tydelig på, at når det gjelder konkrete sykehus, eller planlegging
-av konkrete bygninger rundt om i Norge, så er det ikke jeg som kan
-gå inn og svare på det. Men det er helt tydelig for regjeringen
-at folk skal ha den beskyttelse som trusselsituasjonen og trusselbildet
+tydelig på, at når det gjelder det konkrete sykehuset, eller planlegging
+av konkrete bygninger rundt om i Norge, er det ikke jeg som kan gå
+inn og svare på det. Men det er helt tydelig for regjeringen at
+folk skal ha den beskyttelsen som trusselsituasjonen og trusselbildet
 tilsier.</A>
             </Replikk>
-            <Replikk Id="i1004069">
+            <Replikk Id="i1004642">
               <A>
                 <Navn personID="FINKRO">
 Finn Krokeide (FrP) [12:43:51]:</Navn> Fremskrittspartiet fremmet
@@ -3095,7 +3117,7 @@ og det er over fire år siden nå. Hvor mye mer tid trenger regjeringen
 på å få en forskriftsendring på plass, og når kan det ventes at
 den vil bli gjennomført?</A>
             </Replikk>
-            <Replikk Id="i1004071">
+            <Replikk Id="i1004644">
               <A>
                 <Navn personID="ASTAAS">
 Statsråd Astri Aas-Hansen [12:44:17]:</Navn> Som sagt jobber regjeringen
@@ -3114,7 +3136,7 @@ befolkningen, slik at alle kan være trygge. </A>
           </Spm>
           <Spm>
             <Tittel>Spørsmål 12</Tittel>
-            <Hovedinnlegg Id="i1004073">
+            <Hovedinnlegg Id="i1004646">
               <A>
                 <Navn personID="MMO">
 Monica Molvær (H) [12:45:34]:</Navn> «EU legger i økende grad vekt
@@ -3126,7 +3148,7 @@ dette for norsk innflytelse og deltakelse, og hvilke grep vil regjeringen ta
 for å sikre norske interesser i et forskningssamarbeid som blir
 stadig mer strategisk og sikkerhetspolitisk viktig?»</A>
             </Hovedinnlegg>
-            <Hovedinnlegg Id="i1004075">
+            <Hovedinnlegg Id="i1004648">
               <A>
                 <Navn personID="SIGAAS">
 Statsråd Sigrun Aasland [12:46:04]:</Navn> Jeg vil takke for et
@@ -3151,25 +3173,25 @@ vi er noe annet enn et typisk tredjeland.</A>
 er det to ting jeg særlig har vektlagt. Den ene handler om å få
 inn en eksplisitt referanse til at EØS/EFTA-landene skal delta på grunnlag
 av bestemmelsene i EØS-avtalen, som avtalen gir oss, men som opprinnelig
-ikke var eksplisitt presisert i Horisont EUROPA. Den andre er å
+ikke var eksplisitt presisert i Horisont Europa. Den andre er å
 sikre at bruk av preferansekriterier i saker som gjelder unionens
 strategiske interesser og autonomi, sikkerhet og økonomiske sikkerhet,
 også må skje i overensstemmelse med EØS-avtalen. Jeg har opplevd
 stor forståelse og imøtekommelse for dette i alle møter jeg har hatt.
 Så er det igjen vår oppgave hele tiden å minne på og passe på at
 dette følges opp.</A>
-              <A Type="Minnrykk"> Når det gjelder styringsstrukturer, som representanten særlig
+              <A Type="Minnrykk">Når det gjelder styringsstrukturer, som representanten særlig
 har lagt merke til, gir EØS-avtalen også her tilgang til programkomiteene.
 De er helt sentrale for gjennomføringen av programmet. I praksis
 har vi kunnet delta på lik linje med EUs medlemsland i programkomiteene.
-Min vurdering er at kommisjonens forslag vil videreføre denne praksisen.</A>
+Min vurdering er at Kommisjonens forslag vil videreføre denne praksisen.</A>
             </Hovedinnlegg>
-            <Replikk Id="i1004077">
+            <Replikk Id="i1004650">
               <A>
                 <Navn personID="MMO">
-Monica Molvær (H) [12:48:25]:</Navn> Jeg takker for et godt svar,
-og det er godt å høre at det jobbes aktivt med dette, for dette
-er en viktig sak framover. Jeg har vært på besøk i Brussel, og flere
+Monica Molvær (H) [12:48:25]:</Navn> Jeg takker for et godt svar.
+Det er godt å høre at det jobbes aktivt med dette, for dette er
+en viktig sak framover. Jeg har vært på besøk i Brussel, og flere
 har vært tydelige på at Norge kan komme til et valg der vi må velge
 å være med på alle program eller ingen. Dette vil også ha en prislapp
 som vi må ta en vurdering av.</A>
@@ -3177,10 +3199,10 @@ som vi må ta en vurdering av.</A>
 der forskningen i økende grad kobles til sikkerhet og beredskap.
 Man har European Defence Fund, som har veldig mye teknologi og forskningsutvikling
 i seg, og som også kan ha betydning for dette. Hvordan skal Norge
-sikre at vi faktisk får bli med på denne reisen også innenfor sikkerhet
+sikre at vi faktisk får bli med på denne reisen, også innenfor sikkerhet
 og beredskap som kan knyttes til forskningen?</A>
             </Replikk>
-            <Replikk Id="i1004079">
+            <Replikk Id="i1004652">
               <A>
                 <Navn personID="SIGAAS">
 Statsråd Sigrun Aasland [12:49:08]:</Navn> Det er helt riktig at
@@ -3189,13 +3211,13 @@ pågår på tvers. Vi er med i Defence Fund i dag. Vi er også med i
 Horisont Europa. Det er helt åpenbart at koblingen mellom konkurransefondet
 og Horisont Europa kommer til å være sterk framover. Derfor er det
 viktig for oss i regjeringen å jobbe godt på tvers av departementene
-både med å komme med innspill og med å vurdere deltakelse.</A>
+med både å komme med innspill og å vurdere deltakelse.</A>
               <A Type="Minnrykk">Så er det, som representanten påpeker, en prislapp
 knyttet til deltakelse. Det er heldigvis også sånn at norske forskningsmiljøer
 har fått mye tilbake for deltakelsen i Horisont Europa. Det er et
 netto positivt regnskap for Norge sånn det har vært til nå.</A>
             </Replikk>
-            <Replikk Id="i1004081">
+            <Replikk Id="i1004654">
               <A>
                 <Navn personID="MMO">
 Monica Molvær (H) [12:49:56]:</Navn> Jeg er helt enig i det siste
@@ -3209,7 +3231,7 @@ enn noen gang, er den viktigere enn noen gang.</A>
 for forskningsmiljøene når samarbeidspartneren vil trekke Norge bort
 fra nettopp dette samarbeidet som vi er så avhengige av?</A>
             </Replikk>
-            <Replikk Id="i1004083">
+            <Replikk Id="i1004656">
               <A>
                 <Navn personID="SIGAAS">
 Statsråd Sigrun Aasland [12:50:36]:</Navn> For Arbeiderpartiet er
@@ -3221,7 +3243,7 @@ EØS-avtalen på største alvor.</A>
           </Spm>
           <Spm>
             <Tittel>Spørsmål 13</Tittel>
-            <Hovedinnlegg Id="i1004085">
+            <Hovedinnlegg Id="i1004658">
               <A>
                 <Navn personID="JLO">
 Jorunn Gleditsch Lossius (KrF) [12:51:16]:</Navn> «Mange familier
@@ -3235,13 +3257,13 @@ mindre av at barn tilbringer enda mer tid i SFO, i stedet for at
 regjeringen styrker ordninger som faktisk kan gi familiene økonomisk
 anledning til å tilbringe mer tid sammen?»</A>
             </Hovedinnlegg>
-            <Hovedinnlegg Id="i1004087">
+            <Hovedinnlegg Id="i1004660">
               <A>
                 <Navn personID="LVA">
 Statsråd Lene Vågslid [12:51:59]:</Navn> Det er ingen tvil om at
 foreldrerolla kan vere krevjande. Det er jo veldig mange forventningar
 til foreldrerolla frå alle kantar, og som politikarar har me eit
-ansvar i å hjelpe familiane med å løyse den såkalla tidsklemma.
+ansvar for å hjelpe familiane med å løyse den såkalla tidsklemma.
 Eg har vore tydeleg på at me må hamsterhjulet til livs. Det er ingen
 som er tent med at me som er foreldre, slit oss ut. </A>
               <A Type="Minnrykk">Arbeidarparti-regjeringa ynskjer ein familiepolitikk
@@ -3254,8 +3276,8 @@ og eit styrkt barnehage- og SFO-tilbod. Å delta i barnehage og SFO
 er frivillig, og det er eit tilbod som nettopp gjer at småbarnsforeldre
 kan kombinere arbeidsliv og familieliv. Betre og rimelegare tilbod
 gjev familiane meir valfridom, ikkje mindre. Det gjev òg fleire
-moglegheiter til å nytte seg av tilbodet og ikkje minst lågare utgifter til
-dei som allereie gjer det.</A>
+moglegheiter til å nytte seg av tilbodet, og ikkje minst lågare
+utgifter til dei som allereie gjer det.</A>
               <A Type="Minnrykk">Samtidig forstår eg at kvardagen til småbarnsfamiliar kan
 pregast av tidspress og krevjande logistikk, mellom skule, SFO og
 fritidsaktivitetar. Difor ynskjer Arbeidarparti-regjeringa å ha
@@ -3276,7 +3298,7 @@ for å styrkje tenestene til barnefamiliane og ikkje minst for å
 styrkje dei økonomiske rammene deira. Begge delar er nødvendige
 for å gje familiane større fridom i kvardagen.</A>
             </Hovedinnlegg>
-            <Replikk Id="i1004089">
+            <Replikk Id="i1004662">
               <A>
                 <Navn personID="JLO">
 Jorunn Gleditsch Lossius (KrF) [12:54:35]:</Navn> Man kan jo lure
@@ -3294,7 +3316,7 @@ for øye. Så jeg lurer på hvorfor barne- og familieministeren så
 Når skal Arbeiderpartiet slutte å tenke «one size fits all» i familiepolitikken
 sin?</A>
             </Replikk>
-            <Replikk Id="i1004091">
+            <Replikk Id="i1004664">
               <A>
                 <Navn personID="LVA">
 Statsråd Lene Vågslid [12:55:26]:</Navn> Eg er djupt ueinig i premissen
@@ -3302,52 +3324,52 @@ for spørsmålet frå representanten. Ein kan spørje seg om representanten
 høyrde svaret mitt. Det er gode tilskotsordningar, bl.a. til at
 ein kan få til meir aktivitet etter skuletid. Eg har tru på ordningar
 som gjer at me kan samarbeide meir, slik at ein òg kan få logistikken
-til å hengje betre saman. Det er heller ikkje slik at «one size
-fits all», ikkje i det heile. Difor er det heller ikkje slik at
-nokon blir tvinga til å delta i SFO. Det me veit, er at veldig mange
-foreldre ynskjer det, og ikkje minst har veldig mange sett pris
-på reduserte barnehageprisar og SFO-prisar, i tillegg til at me,
-saman med dei raud-grøne partia, har styrkt økonomien til barnefamiliane
-heilt sidan 2021. Eg trur òg det kan liggje spennande løysingar
-i forslaga som fødselstalsutvalet kom med, for òg å sjå om me kan
-gjera meir for å gjere ordningane rundt barnefamiliane meir fleksible
-og betre for dei.</A>
+til å henge betre saman. Det er heller ikkje slik at «one size fits
+all», ikkje i det heile. Difor er det heller ikkje slik at nokon
+blir tvinga til å delta i SFO. Det me veit, er at veldig mange foreldre
+ynskjer det, og ikkje minst har veldig mange sett pris på reduserte
+barnehageprisar og SFO-prisar, i tillegg til at me, saman med dei
+raud-grøne partia, har styrkt økonomien til barnefamiliane heilt
+sidan 2021. Eg trur òg det kan liggje spennande løysingar i forslaga
+som fødselstalsutvalet kom med, for òg å sjå om me kan gjere meir
+for å gjere ordningane rundt barnefamiliane meir fleksible og betre
+for dei.</A>
             </Replikk>
-            <Replikk Id="i1004093">
+            <Replikk Id="i1004666">
               <A>
                 <Navn personID="JLO">
 Jorunn Gleditsch Lossius (KrF) [12:56:29]:</Navn> Jeg er glad for
 at statsråden henviser til fødselstallsutvalget, for de lave fødselstallene
-våre er jo en av de største utfordringene vi står ovenfor. Fødselstallsutvalget
+våre er jo en av de største utfordringene vi står overfor. Fødselstallsutvalget
 pekte bl.a. på at det kan være et godt grep å la foreldre jobbe
 redusert en periode for å få mer tid med familien mens barna er
-små, både for å løse tidsklemmen, og også kanskje for å gi foreldre
+små, både for å løse tidsklemmen og også kanskje for å gi foreldre
 mulighet til i det hele tatt å tenke tanken om å få flere barn.
-Jeg har fortsatt til gode å høre foreldrene si at de ønsker mer
-SFO-tid for barna sine. De sier jo at de ønsker mer tid sammen.
-Når regjeringen bruker så store summer på å redusere SFO-prisen,
-bruker milliarder på å subsidiere én løsning, mens ordninger som faktisk
-gir foreldrene muligheten til å være mer hjemme, ikke styrkes tilsvarende,
-hvor er valgfriheten da? Hvorfor prioriterer ikke regjeringen ordninger
+Jeg har fortsatt til gode å høre foreldre si at de ønsker mer SFO-tid
+for barna sine. De sier jo at de ønsker mer tid sammen. Når regjeringen bruker
+så store summer på å redusere SFO-prisen, bruker milliarder på å
+subsidiere én løsning, mens ordninger som faktisk gir foreldrene
+muligheten til å være mer hjemme, ikke styrkes tilsvarende, hvor
+er valgfriheten da? Hvorfor prioriterer ikke regjeringen ordninger
 som faktisk gir foreldre økonomisk mulighet til å jobbe mindre eller
 mer tilpasset familielivet? Vil den se på en sånn løsning som redusert arbeidstid,
 slik fødselstallsutvalget peker på?</A>
             </Replikk>
-            <Replikk Id="i1004095">
+            <Replikk Id="i1004668">
               <A>
                 <Navn personID="LVA">
-Statsråd Lene Vågslid [12:57:31]:</Navn> Eg synest fødselstalsutvalets
-rapport er kjempespennande, og me kjem til å vurdere fleire av dei
-forslaga som ligg i den rapporten. Her har òg Stortinget bedt regjeringa
-om å kome til Stortinget med ei stortingsmelding, så her skal me
-få mange anledningar til å diskutere dei forslaga som ligg der i
-tida framover.</A>
+Statsråd Lene Vågslid [12:57:31]:</Navn> Eg synest rapporten frå
+fødselstalsutvalet er kjempespennande, og me kjem til å vurdere
+fleire av dei forslaga som ligg i den rapporten. Her har òg Stortinget
+bedt regjeringa om å kome til Stortinget med ei stortingsmelding,
+så her skal me i tida framover få mange anledningar til å diskutere
+dei forslaga som ligg der.</A>
               <A Type="Minnrykk">Eg er djupt ueinig i påstandane i spørsmålet
-til KrF, for er det noko Arbeidarpartiet har gjort sidan 2021, saman
+frå KrF, for er det noko Arbeidarpartiet har gjort sidan 2021, saman
 med dei raud-grøne partia, er det å prioritere økonomien til småbarnsfamiliane.
 Under Støre som statsminister har barnetrygda auka langt meir enn
 då KrF hadde påverking på statsbudsjettet i landet, og det veit
-me har mykje å seie, særleg for barn i låginntekt. </A>
+me har mykje å seie, særleg for barn i låginntektsfamiliar. </A>
               <A Type="Minnrykk">Det er òg gledeleg at i alle fall sidan eg
 blei statsråd, har fødselstala auka dei gongene eg har kommentert
 dei. Det er gledeleg, sjølv om eg er einig med representanten i
@@ -3360,12 +3382,12 @@ spørjetimen er omme.</A>
             </Presinnlegg>
           </Spm>
         </Sporretime>
-        <Sakreferat Id="i1004097">
+        <Sakreferat Id="i1004670">
           <Sakshode>
             <Saknr>
               <Uth Type="Sperret">Sak
 nr. 3</Uth> [12:58:35]</Saknr>
-            <Saktittel Id="i1004099">
+            <Saktittel Id="i1004672">
               <A>Referat</A>
             </Saktittel>
           </Sakshode>

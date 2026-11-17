@@ -1,0 +1,238 @@
+{
+  "moteid": 11667,
+  "parts": [
+    {
+      "moteid": 11667,
+      "delnr": 1,
+      "qbvid": "db8id4v5tutc73aj1n7g",
+      "mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/db/db8id8f5tutc73aj1n80/db8i9g75tutc73aj1msg_1080p.mp4",
+      "audio_mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/db/db8id8f5tutc73aj1n80/db8i9g75tutc73aj1msg_240p.mp4",
+      "hls_url": "https://httpcache0-90415-cacheod0.dna.contentdelivery.net/90415-cacheod0/_definst_/smil:assets/db/db8id8f5tutc73aj1n80/db8i9g75tutc73aj1msg_240p/playlist.m3u8",
+      "tc_in_utc": "2026-10-15T07:53:01+00:00",
+      "tc_out_utc": "2026-10-15T10:31:01+00:00",
+      "duration_seconds": 9480.0,
+      "thumbnail_url": null,
+      "chapters": [
+        {
+          "start": 0.0,
+          "end": 436.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 436.0,
+          "end": 463.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 463.0,
+          "end": 495.0,
+          "name": "Hege Bae Nyholt (R)"
+        },
+        {
+          "start": 495.0,
+          "end": 497.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 497.0,
+          "end": 524.0,
+          "name": "Tone Wilhelmsen Trøen (H)"
+        },
+        {
+          "start": 524.0,
+          "end": 553.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 553.0,
+          "end": 2407.0,
+          "name": "Statsråd Lene Vågslid"
+        },
+        {
+          "start": 2407.0,
+          "end": 2435.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 2435.0,
+          "end": 2715.0,
+          "name": "Mats Henriksen (FrP)"
+        },
+        {
+          "start": 2715.0,
+          "end": 3038.0,
+          "name": "Benjamin Jakobsen (A)"
+        },
+        {
+          "start": 3038.0,
+          "end": 3357.0,
+          "name": "Tone Wilhelmsen Trøen (H)"
+        },
+        {
+          "start": 3357.0,
+          "end": 3675.0,
+          "name": "Mirell Høyer-Berntsen (SV)"
+        },
+        {
+          "start": 3675.0,
+          "end": 3998.0,
+          "name": "Kjersti Toppe (Sp)"
+        },
+        {
+          "start": 3998.0,
+          "end": 4322.0,
+          "name": "Remi Sølvberg (R)"
+        },
+        {
+          "start": 4322.0,
+          "end": 4563.0,
+          "name": "Siren Julianne Jensen (MDG)"
+        },
+        {
+          "start": 4563.0,
+          "end": 4844.0,
+          "name": "Jorunn Gleditsch Lossius (KrF)"
+        },
+        {
+          "start": 4844.0,
+          "end": 5117.0,
+          "name": "Statsråd Lene Vågslid"
+        },
+        {
+          "start": 5117.0,
+          "end": 5217.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 5217.0,
+          "end": 5530.0,
+          "name": "Kjersti Toppe (Sp)"
+        },
+        {
+          "start": 5530.0,
+          "end": 5854.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 5854.0,
+          "end": 6047.0,
+          "name": "Kjersti Toppe (Sp)"
+        },
+        {
+          "start": 6047.0,
+          "end": 6182.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 6182.0,
+          "end": 6272.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 6272.0,
+          "end": 6589.0,
+          "name": "Kjersti Toppe (Sp)"
+        },
+        {
+          "start": 6589.0,
+          "end": 6914.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 6914.0,
+          "end": 7109.0,
+          "name": "Kjersti Toppe (Sp)"
+        },
+        {
+          "start": 7109.0,
+          "end": 7300.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 7300.0,
+          "end": 7588.0,
+          "name": "Kristian August Eilertsen (FrP)"
+        },
+        {
+          "start": 7588.0,
+          "end": 7822.0,
+          "name": "Mona Nilsen (A)"
+        },
+        {
+          "start": 7822.0,
+          "end": 8012.0,
+          "name": "Kjersti Toppe (Sp)"
+        },
+        {
+          "start": 8012.0,
+          "end": 8199.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 8199.0,
+          "end": 8281.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 8281.0,
+          "end": 8558.0,
+          "name": "Geir Jørgensen (R)"
+        },
+        {
+          "start": 8558.0,
+          "end": 8723.0,
+          "name": "Statsråd Sigrun Aasland"
+        },
+        {
+          "start": 8723.0,
+          "end": 8903.0,
+          "name": "Geir Jørgensen (R)"
+        },
+        {
+          "start": 8903.0,
+          "end": 9021.0,
+          "name": "Statsråd Sigrun Aasland"
+        },
+        {
+          "start": 9021.0,
+          "end": 9134.0,
+          "name": "Geir Jørgensen (R)"
+        },
+        {
+          "start": 9134.0,
+          "end": 9207.0,
+          "name": "Statsråd Sigrun Aasland"
+        },
+        {
+          "start": 9207.0,
+          "end": 9480.0,
+          "name": "Presidenten"
+        }
+      ]
+    },
+    {
+      "moteid": 11667,
+      "delnr": 2,
+      "qbvid": "db8hoqv5tutc73aj1ltg",
+      "mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/db/db8hou75tutc73aj1lu0/db8hobn5tutc73aj1lt0_1080p.mp4",
+      "audio_mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/db/db8hou75tutc73aj1lu0/db8hobn5tutc73aj1lt0_240p.mp4",
+      "hls_url": "https://httpcache0-90415-cacheod0.dna.contentdelivery.net/90415-cacheod0/_definst_/smil:assets/db/db8hou75tutc73aj1lu0/db8hobn5tutc73aj1lt0_240p/playlist.m3u8",
+      "tc_in_utc": "2026-10-15T11:53:49+00:00",
+      "tc_out_utc": "2026-10-15T12:03:53+00:00",
+      "duration_seconds": 604.0,
+      "thumbnail_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/db/db8hou75tutc73aj1lu0/db8hobn5tutc73aj1lt0_1080p_5.jpeg",
+      "chapters": [
+        {
+          "start": 0.0,
+          "end": 404.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 404.0,
+          "end": 604.0,
+          "name": "Presidenten"
+        }
+      ]
+    }
+  ]
+}

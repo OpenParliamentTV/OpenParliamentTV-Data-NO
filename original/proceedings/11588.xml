@@ -1,15 +1,15 @@
-<Forhandlinger Status="Kvalitetssikret">
+<Forhandlinger Status="Komplett">
   <Mote moteID="11588">
     <Startseksjon>
       <Motestart>
         <Tittel>Møte torsdag den 29. januar 2026 kl. 10</Tittel>
-        <President Id="i1010815" personID="MASG">
+        <President Id="i1011125" personID="MASG">
           <A>President: <Uth Type="Sperret">Masud
 Gharahkhani</Uth></A>
         </President>
         <Dagsorden>
           <Tittel>Dagsorden <DagsordenNR>(nr. 40):</DagsordenNR></Tittel>
-          <DagsordenSak Id="i1010817">
+          <DagsordenSak Id="i1011127">
             <Liste Type="Dagsorden">
               <Pkt>
                 <A> 1.	Debatt
@@ -140,7 +140,7 @@ enstemmig valgt som settepresident for dagens møte.</A>
           <A Type="Minnrykk">Representanten Erling Sande vil framsette to
 representantforslag.</A>
         </Presinnlegg>
-        <Hovedinnlegg Id="i1010819">
+        <Hovedinnlegg Id="i1011129">
           <A>
             <Navn personID="ESAN">
 Erling Sande (Sp) [10:02:42]:</Navn> Eg har gleda av å setje fram
@@ -156,7 +156,7 @@ på norske sjukehus.</A>
             <Navn>Presidenten [10:03:04]:</Navn> Representanten
 Frøya Skjold Sjursæther vil framsette et representantforslag.</A>
         </Presinnlegg>
-        <Hovedinnlegg Id="i1010821">
+        <Hovedinnlegg Id="i1011131">
           <A>
             <Navn personID="FRYSJU">
 Frøya Skjold Sjursæther (MDG) [10:03:20]:</Navn> Det er en glede
@@ -169,7 +169,7 @@ i EUs sosiale klimafond. </A>
             <Navn>Presidenten [10:03:35]:</Navn> Representanten
 Julie E. Stuestøl vil framsette et representantforslag.</A>
         </Presinnlegg>
-        <Hovedinnlegg Id="i1010823">
+        <Hovedinnlegg Id="i1011133">
           <A>
             <Navn personID="JULSTU">
 Julie E. Stuestøl (MDG) [10:03:51]:</Navn> På vegne av stortingsrepresentantene
@@ -188,13 +188,13 @@ kl. 16.</A>
         </Presinnlegg>
       </Motestart>
     </Startseksjon>
-    <Hovedseksjon Id="i1010825">
+    <Hovedseksjon Id="i1011135">
       <Saker>
         <Sak saksKartNr="1" sakID="105878">
           <Sakshode>
             <Saknr>
               <Uth Type="Sperret">Sak nr. 1</Uth> [10:04:23]</Saknr>
-            <Saktittel Id="i1010829">
+            <Saktittel Id="i1011139">
               <A>Debatt om næringsministerens handelspolitiske
 redegjørelse (Redegjørelsen holdt i Stortingets møte 27. januar 2026)</A>
             </Saktittel>
@@ -209,7 +209,7 @@ til hver partigruppe og 5 minutter til medlemmer av regjeringen.</A>
 fra medlemmer av regjeringen, og de som måtte tegne seg på talerlisten
 utover den fordelte taletid, får en taletid på inntil 3 minutter.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1010831">
+          <Hovedinnlegg Id="i1011141">
             <A>
               <Navn personID="RUNSTS">
 Rune Støstad (A) [10:05:04]</Navn> (komiteens leder): Norge er et
@@ -278,13 +278,13 @@ i arbeidslivet. Det gir tillit og forutsigbarhet i en ny geopolitisk verdensorde
             <A Type="Minnrykk">Til slutt vil jeg takke næringsministeren for
 en god redegjørelse, og jeg ser fram til debatten i salen.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1010833">
+          <Hovedinnlegg Id="i1011143">
             <A>
               <Navn personID="BERST">
 Bengt Rune Strifeldt (FrP) [10:10:17]:</Navn> Innledningsvis vil
 jeg takke næringsministeren for redegjørelsen og gjennomgangen av
 hvordan regjeringen oppfatter den handelspolitiske situasjonen.</A>
-            <A Type="Minnrykk">Regjeringen bruke urolige tider som forklaring,
+            <A Type="Minnrykk">Regjeringen bruker urolige tider som forklaring,
 men leverer dessverre ikke på det som faktisk avgjør: å sikre konkurransekraften.
 Trygghet for arbeidsplasser skapes her hjemme, og her har regjeringen
 sviktet.</A>
@@ -327,7 +327,7 @@ man langt unna regjeringens eget mål om å forenkle tilsvarende 11 mrd. kr
 Når staten tar mer tid fra bedriftene, tar staten også tid fra verdiskaping.</A>
             <A Type="Minnrykk">Virkemiddelapparatet har blitt et søknadssystem
 som favoriserer dem som kan skrive søknader, og ikke dem som kan skape
-verdier. For mange ordninger betyr mye tid på søknader rapportering
+verdier. For mange ordninger betyr mye tid på søknader, rapportering
 og konsulenter og mindre tid på markedet, kunder og drift. Staten
 ender med å styre kapital til prosjekter som ser bra ut på papiret,
 men ikke nødvendigvis til dem som er lønnsomme. Regjeringen har
@@ -358,7 +358,7 @@ når norsk næringsliv settes under press. Når klima trekkes inn i
 handelspolitikken, må regjeringen svare for kostnadene. Vi kan ikke
 ende med nye tollmurer forkledd som grønt skifte.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1010835">
+          <Hovedinnlegg Id="i1011145">
             <A>
               <Navn personID="BRDTHO">
 Bård Ludvig Thorheim (H) [10:15:35]:</Navn> Gårsdagens idrettsprestasjon
@@ -369,12 +369,12 @@ i Spania og England?</A>
             <A Type="Minnrykk">Det er også kjernen i handelspolitikken. Vi
 ønsker en best mulig adgang til å konkurrere på like vilkår ute
 i verden, for vi vet at folk og bedrifter i Norge har mye å bidra
-med og kan hevde seg på øverste hylle i tøff internasjonal konkurranse. Sånn
-har vi skapt velstand og utvikling gjennom norsk historie. Når de
-beste vinner fram på det globale handelsstedet er det det beste
-for Norge og for verden, og jeg er glad for at det er bred politisk
-enighet i Norge om at det beste er åpne markeder mellom land, ikke
-å lukke seg inne.</A>
+med og kan hevde seg på øverste hylle i tøff internasjonal konkurranse.
+Sånn har vi skapt velstand og utvikling gjennom norsk historie.
+Når de beste vinner fram på det globale handelsstedet er det det
+beste for Norge og for verden, og jeg er glad for at det er bred
+politisk enighet i Norge om at det beste er åpne markeder mellom
+land, ikke å lukke seg inne.</A>
             <A Type="Minnrykk">Det sier mye om vår verden akkurat nå at Canadas
 statsminister, Mark Carney, inspirerte en hel verden med sin tale
 i Davos nettopp i forsvar for en regelstyrt og fri handel. Dette er
@@ -393,7 +393,7 @@ har vi høyere tollsatser til USA enn EU og Storbritannia. Heldigvis
 har verdensøkonomien – den tredje skvisen – holdt seg godt, men
 akkurat det er nok utenfor Norges og Stoltenbergs påvirkning.</A>
             <A Type="Minnrykk">Enda mer bekymringsfullt er det at norske bedrifter
-er mer usikre i dag enn tidligere på markedsadgangen både til vårt
+er mer usikre i dag enn tidligere på markedsadgangen til både vårt
 viktigste marked, EU, og til USA. Den usikkerheten har regjeringen
 ikke lyktes å dempe. Det er heller ikke så rart når næringsministeren
 selv peker på viktige usikkerhetsfaktorer framover. EU vurderer
@@ -405,8 +405,7 @@ ut på dette. Med enten et EU-medlemskap eller et tettere handels-
 og tollpolitisk samarbeid med EU ville vi hatt bedre tilgang for norsk
 industri til det største og viktigste markedet i Europa, lavere
 toll til USA, og vi ville kunnet delta i EUs kraftige handelsbazooka,
-som avskrekket Trump, og gjorde at de tolltruslene ble lagt til
-side.</A>
+som avskrekket Trump og gjorde at de tolltruslene ble lagt til side.</A>
             <A Type="Minnrykk">Jeg vil gjerne gjengi en annen talers ord:</A>
             <A Type="Minnrykk">Med usikkerhet der ute må vi sette ned skatt
 på arbeid og kapital, deregulere og satse på nye teknologier, som
@@ -434,15 +433,16 @@ tid har feilet på de to områdene.</A>
               <Navn>Presidenten [10:20:16]:</Navn> Representanten
 Bård Ludvig Thorheim har tatt opp de forslagene han refererte til.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1010837">
+          <Hovedinnlegg Id="i1011147">
             <A>
               <Navn personID="INF">
 Ingrid Fiskaa (SV) [10:20:27]:</Navn> Me skal nok etter kvart få
 diskutert lauksaka i denne debatten òg, men me får starta i ein
-annan ende. Det er ikkje berre Bodø/Glimt som gjer det skarpt om
-dagen. 2026 har starta som eit år der norsk filmindustri blir ein
-internasjonal sensasjon, men året har òg starta med tydelege teikn
-på den urolege tida me lever i – ei verd der den såkalla regelstyrte
+annan ende. </A>
+            <A Type="Minnrykk">Det er ikkje berre Bodø/Glimt som gjer det
+skarpt om dagen. 2026 har starta som eit år der norsk filmindustri
+blir ein internasjonal sensasjon, men året har òg starta med tydelege
+teikn på den urolege tida me lever i – ei verd der den såkalla regelstyrte
 verdsordninga, slik me har kjent ho på godt og vondt i mange tiår,
 no går opp i saumane.</A>
             <A Type="Minnrykk">Som statsminister i Canada, Mark Carney, sa
@@ -503,7 +503,7 @@ blir. Me må setja digital suverenitet og digitalt mangfald i førarsetet
 på handelsavtalane våre framover. Det er på høg tid å tenkja nytt
 om innhaldet i handelsreglane. Det vil SV invitera til.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1010839">
+          <Hovedinnlegg Id="i1011149">
             <A>
               <Navn personID="GP">
 Geir Pollestad (Sp) [10:25:41]:</Navn> Når det gjeld den handelspolitiske
@@ -526,7 +526,7 @@ ikkje direkte har vore ein stor suksess. </A>
 på den andre sida kan det verka som om næringsministeren trur at handel
 mellom Noreg og Europa var noko som oppstod då EØS-avtalen trådde
 i kraft 1. januar 1994. Næringsministeren seier i si utgreiing at
-EØS-avtalen har bidratt med ein auke i handelen med EU på 35 –65 pst.
+EØS-avtalen har bidratt med ein auke i handelen med EU på 35–65 pst.
 Eg har lyst til å dvelja litt ved det talet, ikkje for å reisa ein
 EØS-debatt, men berre for å gå inn på dette. </A>
             <A Type="Minnrykk">Er det slik at næringsministeren trur at handelen
@@ -546,7 +546,7 @@ har tal som seier at handelen mellom EU og Noreg ville ha vore 35–65 pst.
 mindre om det ikkje var for EØS-avtalen. </A>
             <A Type="Minnrykk">Handel føreset at me har noko å handla med.
 Det skjer mykje bra i norsk næringsliv, men som ein del av handelspolitikken
-må òg ein offensiv næringspolitikk nasjonalt vera ein viktig del,
+må ein offensiv næringspolitikk nasjonalt òg vera ein viktig del,
 for me treng noko å handla med. Då vil eg, til denne utgreiinga,
 peika på dei som har lyst til å laga eksportvarer ved Hønefoss gjennom
 utvikling av treindustri, og som opplever ei regjering som ikkje
@@ -572,7 +572,7 @@ vera ein pådrivar og ikkje overlata til klimaministeren å vera næringsministe
 Om me flyttar bedrifter ut av landet, går utsleppa i Noreg ned,
 men det er ein svært dårleg strategi, meiner Senterpartiet.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1010841">
+          <Hovedinnlegg Id="i1011151">
             <A>
               <Navn personID="GEIRAJ">
 Geir Jørgensen (R) [10:30:56]:</Navn> Den eneste årsaken til at
@@ -629,12 +629,12 @@ til EU, for slik verden utvikler seg, kan vi bare se på klokka og
 kalenderen før det neste tiltaket fra EU kommer mot oss og rammer
 vårt næringsliv, vår industri og våre arbeidsplasser.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1010843">
+          <Hovedinnlegg Id="i1011153">
             <A>
               <Navn personID="MARVEA">
 Marit Vea (V) [10:35:54]:</Navn> Jeg vil også begynne med Canadas
 liberale statsleder Mark Carneys tale. Jeg noterer meg med en viss
-glede at det gjorde også SVs representant, for selv om våre partier
+glede at SVs representant også gjorde det, for selv om våre partier
 kanskje har vært uenige om en del ting i handelspolitikken, tror
 jeg vi kan slutte oss til Mark Carneys konklusjon om at vi ikke
 lenger kan tenke som før. Vi kan ikke basere oss på sannheter som
@@ -674,8 +674,8 @@ rundt Grønland. EU svarte med å signalisere bruk av sin såkalte
 handelsbazooka. Heldigvis ble truslene trukket tilbake før de fikk
 konkrete konsekvenser, og Norge slapp å havne midt i kryssilden
 denne gangen.</A>
-            <A Type="Minnrykk">Men det er et åpent spørsmål hva som skjer
-neste gang et sånt framstøt kommer, og om vi da vil være like heldige.
+            <A Type="Minnrykk">Det er et åpent spørsmål hva som skjer neste
+gang et sånt framstøt kommer, og om vi da vil være like heldige.
 Poenget er uansett: Handelspolitikken er blitt mer urolig, mer uforutsigbar
 og mer preget av maktpolitikk. I et sånt landskap er vi langt tryggere
 sammen enn hver for oss.</A>
@@ -688,19 +688,18 @@ et minimumsmål at Norge blir en del av EUs tollunion. I en verden
 der samarbeid er den nye sikkerheten, er det mest liberale valget
 å velge det demokratiske fellesskapet.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1010845">
+          <Hovedinnlegg Id="i1011155">
             <A>
               <Navn personID="CTM">
 Statsråd Cecilie Myrseth [10:40:02]:</Navn> Takk for at jeg fikk
-holde den redegjørelsen som jeg holdt på tirsdag, og for at vi har
-diskusjonen i salen nå. Det tenker jeg er viktig, for det er en
-urolig tid. Det er mye som skjer, og det skjer fort og raskt, ikke
-minst endringene.</A>
+holde den redegjørelsen jeg holdt på tirsdag, og for at vi har diskusjonen
+i salen nå. Det tenker jeg er viktig, for det er en urolig tid.
+Det er mye som skjer, og det skjer fort og raskt, ikke minst endringene.</A>
             <A Type="Minnrykk">Sikkerhetspolitikken, energipolitikken og handelspolitikken
-veves stadig tettere sammen. Det har vi sett også de siste ukene,
-ikke minst. Vi må ikke underslå det at Norge er en åpen, liten økonomi,
-og vi er helt avhengig av internasjonal handel for å sikre velferden,
-verdiskapingen og økonomisk utvikling.</A>
+veves stadig tettere sammen. Det har vi ikke minst sett også de
+siste ukene. Vi må ikke underslå det at Norge er en åpen, liten
+økonomi, og vi er helt avhengig av internasjonal handel for å sikre
+velferd, verdiskaping og økonomisk utvikling.</A>
             <A Type="Minnrykk">Handel er avgjørende for norske bedrifter og
 arbeidsplasser, i små og store lokalsamfunn. Over 640 000 norske
 arbeidsplasser er i dag knyttet til eksport. Det er klart at det
@@ -742,7 +741,7 @@ og på tvers av regjering og storting. Derfor ser jeg fram til debatten.</A>
             <A>
               <Navn>Presidenten [10:43:32]:</Navn> Det blir replikkordskifte.</A>
           </Presinnlegg>
-          <Replikk Id="i1010847">
+          <Replikk Id="i1011157">
             <A>
               <Navn personID="MARNIL">
 Marius Arion Nilsen (FrP) [10:43:48]:</Navn> Næringsministeren nevnte
@@ -760,13 +759,13 @@ Jotun, som er kjent i utlandet og har suksess, kan denne statsråden
 nevne? Og har statsråden noen tanker om hvorfor det ikke er flere norske
 suksesser?</A>
           </Replikk>
-          <Replikk Id="i1010849">
+          <Replikk Id="i1011159">
             <A>
               <Navn personID="CTM">
 Statsråd Cecilie Myrseth [10:44:43]:</Navn> Dette synes jeg er en
 ganske overraskende påstand. Det er jo veldig mange norske bedrifter
-som lykkes i utlandet. Jeg kan nevne maritim sektor, jeg kan nevne
-sjømatindustrien, og jeg tenker at det skal vi være veldig stolte
+som lykkes i utlandet. Jeg kan nevne maritim sektor, og jeg kan
+nevne sjømatindustrien. Det tenker jeg at vi skal være veldig stolte
 av. Det handler om at næringsstrukturen i Norge er som den er. Vi
 har over lang tid vært og skal være en energinasjon. Vi er en sjømatnasjon.
 Vi er en skipsfartsnasjon – til og med verdens femte største. Ut
@@ -775,31 +774,31 @@ fra dette kommer det mange viktige bedrifter. </A>
 eierskap i noen av de viktigste bedriftene i Norge. Det er en styrke
 også for de bedriftene, så lenge vi drifter dem og det eierskapet
 riktig. Men jeg tror folk kjenner både Equinor, Hydro, Yara osv.
-– og Kongsberg, ikke minst. Så må man gjerne si at dette ikke er bedrifter
-man har lyst til å ha med i ligningen, men det ville jo være en
-urett mot disse selskapene å ikke ha dem med i den ligningen.</A>
+– og Kongsberg, ikke minst. Så må man gjerne si at dette ikke er
+bedrifter man har lyst til å ha med i ligningen, men det ville jo
+være en urett mot disse selskapene å ikke ha dem med i den ligningen.</A>
           </Replikk>
-          <Replikk Id="i1010851">
+          <Replikk Id="i1011161">
             <A>
               <Navn personID="MARNIL">
 Marius Arion Nilsen (FrP) [10:45:39]:</Navn> Jeg takker for svaret.
-Enten så skjønte ikke næringsministeren spørsmålet mitt, eller så
-legges det et helt feil premiss til grunn. Problemet er jo at vi
-ser at det private næringslivet i Norge har utfordringer, man har
-veldig få gründervirksomheter som vokser opp og blir store suksesser.
-Det var jo det som var mitt spørsmål. I våre naboland har de en
-annen eierbeskatning, de har en regjering og et skattesystem som
-ikke er opptatt av å jage formuende og gründere på flukt. Ser man
-ikke utfordringene med at det norske næringslivet har behov for
-kursendring? Vi ligger på bunnen i OECDs statistikker over utvikling. </A>
+Enten skjønte ikke næringsministeren spørsmålet mitt, eller så legges
+det et helt feil premiss til grunn. Problemet er jo at vi ser at
+det private næringslivet i Norge har utfordringer, man har veldig
+få gründervirksomheter som vokser opp og blir store suksesser. Det
+var jo det som var mitt spørsmål. I våre naboland har de en annen
+eierbeskatning, de har en regjering og et skattesystem som ikke
+er opptatt av å jage formuende og gründere på flukt. Ser man ikke
+utfordringene med at det norske næringslivet har behov for kursendring?
+Vi ligger på bunnen i OECDs statistikker over utvikling. </A>
             <A Type="Minnrykk">Fremskrittspartiet mener at retningen med betydelig
-reduksjon i skatter og avgifter og i offentlige inngrep er det som må
-til, mens regjeringen virker å mene at den utviklingen vi nå ser,
-er helt innafor. Er det sånn å forstå at man er fornøyd så lenge
-man har Jotun, og så er det ellers kun statlige bedrifter som skal
-være eksportsuksesser?</A>
+reduksjon i skatter, avgifter og offentlige inngrep er det som må til,
+mens regjeringen virker å mene at den utviklingen vi nå ser, er
+helt innafor. Er det sånn å forstå at man er fornøyd så lenge man
+har Jotun, og så er det ellers kun statlige bedrifter som skal være
+eksportsuksesser?</A>
           </Replikk>
-          <Replikk Id="i1010853">
+          <Replikk Id="i1011163">
             <A>
               <Navn personID="CTM">
 Statsråd Cecilie Myrseth [10:46:41]:</Navn> Jeg skjønte utmerket
@@ -818,51 +817,50 @@ norsk næringsliv, for norske bedrifter, med tanke på konkurransekraft,
 forenkling og ikke minst tilgang til markeder. Det tenker jeg vi
 burde slå ring om i fellesskap.</A>
           </Replikk>
-          <Replikk Id="i1010855">
+          <Replikk Id="i1011165">
             <A>
               <Navn personID="MARNIL">
 Marius Arion Nilsen (FrP) [10:47:39]:</Navn> Takk igjen for svaret.
 Vi har kjempegode norske bedrifter. Problemet er at vi har dårlige
 regler, og vi har en regjering som aktivt fører en politikk som
 begrenser denne utviklingen. Det er det jeg prøver å belyse. </A>
-            <A Type="Minnrykk">Så ser man til EU, en region med en vekst som
-er den laveste i hele verden, og blåkopier alt det som kommer derfra. Heldigvis
-tok EU litt til vettet her og deregulerte en del og kom med denne
-omnibus-pakken. Hadde EUs regler vært så utrolig bra, hadde de bare
-fortsatt å dure på, men selv EU ser nå at det er flere ulemper og
-utfordringer her. </A>
+            <A Type="Minnrykk">Man ser til EU, en region med en vekst som
+er den laveste i hele verden, og blåkopierer alt det som kommer
+derfra. Heldigvis tok EU litt til vettet her og deregulerte en del
+og kom med denne omnibus-pakken. Hadde EUs regler vært så utrolig
+bra, hadde de bare fortsatt å dure på, men selv EU ser nå at det
+er flere ulemper og utfordringer her. </A>
             <A Type="Minnrykk">Det ble også nevnt her fra statsråden at hun
 hadde verktøykassen full da hun reiste til USA for å forhandle toll,
-og det samme har man jo også sett når man skulle til EU for å få
-gode betingelser for Norge. Man har jo ikke lykkes, verken i USA eller
-i EU, så spørsmålet er: Hva har regjeringen gjort? Hvorfor legger
-man ikke i fram for Stortinget i større grad hvordan forhandlingene
-har vært, hva som har vært lagt på bordet? Og hvordan kan man forsvare
-at vi, som er en såpass trofast partner, ikke får bedre betingelser
-i EU?</A>
+og det samme har man sett da man skulle til EU for å få gode betingelser
+for Norge. Man har jo ikke lykkes, verken i USA eller i EU, så spørsmålet
+er: Hva har regjeringen gjort? Hvorfor legger man ikke fram for
+Stortinget i større grad hvordan forhandlingene har vært og hva
+som har vært lagt på bordet? Og hvordan kan man forsvare at vi,
+som er en såpass trofast partner, ikke får bedre betingelser i EU?</A>
           </Replikk>
-          <Replikk Id="i1010857">
+          <Replikk Id="i1011167">
             <A>
               <Navn personID="CTM">
 Statsråd Cecilie Myrseth [10:48:43]:</Navn> Jeg har sagt at vi har
-gode kort på hånda, og det mener jeg at vi har, i den tiden som
-vi lever i. Vi må huske på at veldig mye også i den globale handelen
-fremdeles går bra, også med tanke på norsk økonomi, det er bare
-å se på eksporttallene, men framover er vi i en mer urolig og krevende
-tid. Når det gjelder USA, har vi vært veldig tydelige på, at vi
-har ferdigforhandlet fram en felleserklæring med USA. Den er det
-nå opp til administrasjonen å beslutte. Jeg merker meg at Fremskrittspartiet
-mener at det bare er å knipse i fingrene og så hadde den avtalen kommet
-på plass, men sånn fungerer ikke verden. Den er ikke så enkel som
-man vil ha det til. Vi har gjort det vi kan, og dette har vi gjort
-i tett dialog med norsk næringsliv, men vi kan ikke inngå en avtale
-for enhver pris. </A>
+gode kort på hånda, og det mener jeg at vi har, i den tiden vi lever
+i. Vi må huske på at veldig mye i den globale handelen fremdeles
+går bra, også med tanke på norsk økonomi – det er bare å se på eksporttallene
+– men framover er vi i en mer urolig og krevende tid. Når det gjelder
+USA, har vi vært veldig tydelige på at vi har ferdigforhandlet fram
+en felleserklæring med USA. Den er det nå opp til administrasjonen
+å beslutte. Jeg merker meg at Fremskrittspartiet mener at det bare
+er å knipse med fingrene, og så kommer den avtalen på plass, men
+sånn fungerer ikke verden. Den er ikke så enkel som man vil ha det
+til. Vi har gjort det vi kan, og dette har vi gjort i tett dialog
+med norsk næringsliv, men vi kan ikke inngå en avtale for enhver
+pris. </A>
             <A Type="Minnrykk">Så er det en egen runde på ferrolegeringssaken,
 som jeg skulle ønske at vi kom i land med. Det handler i utgangspunktet
 ikke om å straffe Norge, men om å beskytte europeisk industri, og
 utfallet er vi ikke enig i. </A>
           </Replikk>
-          <Replikk Id="i1010859">
+          <Replikk Id="i1011169">
             <A>
               <Navn personID="BRDTHO">
 Bård Ludvig Thorheim (H) [10:49:55]:</Navn> Det er merkelig at en
@@ -873,21 +871,21 @@ samarbeid med EU ville Norge fått bedre markedsadgang for norsk
 industri, lavere toll til USA og kunnet delta i EUs handelspolitiske
 bazooka? Det slår meg at statsråden, når hun svarer Dagens Næringsliv, ikke
 kan si noe om det initiativet for å samarbeide tettere med EU om
-handel, toll og økonomisk sikkerhet og andre instrumenter som ligger
+handel, toll, økonomisk sikkerhet og andre instrumenter som ligger
 der. Det synes jeg det er merkelig å ikke kunne orientere offentligheten
 om, men jeg regner med at hun kan orientere Stortinget om det, og
 det setter jeg pris på å få høre.</A>
           </Replikk>
-          <Replikk Id="i1010861">
+          <Replikk Id="i1011171">
             <A>
               <Navn personID="CTM">
 Statsråd Cecilie Myrseth [10:50:47]:</Navn> Det ville vært merkelig
 om man i en redegjørelse skulle ta opp spørsmålet om EU-medlemskap,
 når regjeringen ikke har noen intensjoner om å sette i gang prosesser
-rundt det. Det vet representanten utmerket godt. At debatten går,
-det gjør den jo, men det ville vært rart å ta opp det i en handelspolitisk
-redegjørelse. Men at vi skal knytte oss tettere til Europa som helhet, også
-der det er norske interesser, er veldig tydelig beskrevet.</A>
+rundt det. Det vet representanten utmerket godt. Debatten går, det
+gjør den jo, men det ville vært rart å ta opp det i en handelspolitisk
+redegjørelse. Men at vi skal knytte oss tettere til Europa som helhet,
+også der det er norske interesser, er veldig tydelig beskrevet.</A>
             <A Type="Minnrykk">Så er det viktig å si at denne såkalte handelsbazookaen, som
 handler om økonomisk tvang og straff, er en del av EUs handelspolitikk.
 Det er ikke Norge en del av. Derfor er ikke den forordningen EØS-relevant.
@@ -897,7 +895,7 @@ men da må vi gjøre avveininger av hva som faktisk er i norske interesser
 når det gjelder de forordningene. Det å legge fram noe for Stortinget
 uten at det er ferdig behandlet, er ikke veldig vanlig.</A>
           </Replikk>
-          <Replikk Id="i1010863">
+          <Replikk Id="i1011173">
             <A>
               <Navn personID="BRDTHO">
 Bård Ludvig Thorheim (H) [10:51:50]:</Navn> Jeg takker for svaret,
@@ -907,27 +905,27 @@ Stortinget hva det er man forsøker å oppnå overfor EU. Det ville
 vi ha stått oss på.</A>
             <A Type="Minnrykk">Det neste spørsmålet mitt gjelder EUs forordning
 om kritiske råvarematerialer. For et år siden sa regjeringen at
-dette skulle man implementere med en gang. Det har ikke skjedd på det
-året. Jeg har også spurt utenriksministeren om det er noen som helst
-hinder i veien for å implementere akkurat det direktivet, og han
-bekreftet at det er det overhodet ikke. Det er ingenting som står
-i veien for det. Så hvorfor er det ikke implementert, når det har
-så stor betydning både for Fensfeltet og mange mineralprosjekter
+man skulle implementere dette med en gang. Det har ikke skjedd på
+det året. Jeg har også spurt utenriksministeren om det er noen som
+helst hinder i veien for å implementere akkurat det direktivet,
+og han bekreftet at det er det overhodet ikke. Det er ingenting
+som står i veien for det. Så hvorfor er det ikke implementert, når
+det har så stor betydning for både Fensfeltet, mange andre mineralprosjekter
 og samarbeidet med EU når det gjelder mineraler?</A>
           </Replikk>
-          <Replikk Id="i1010865">
+          <Replikk Id="i1011175">
             <A>
               <Navn personID="CTM">
 Statsråd Cecilie Myrseth [10:52:41]:</Navn> Det har høy prioritet
 å få den implementert, og vi har jo sagt at den skal det. Det er
-riktig å si at det har også kommet flere initiativer fra EU nå som
+riktig å si at det også har kommet flere initiativer fra EU nå som
 er særlig viktige for industrien. Industrial Accelerator Act skal
-jo presenteres nå i februar, den har vært utsatt flere ganger, der
-er Norge også med. Så det er også viktig for industrien. Når det
+presenteres nå i februar. Den har vært utsatt flere ganger. Der
+er Norge også med, så det er også viktig for industrien. Når det
 gjelder CRMA, kommer vi tilbake så raskt det er klart, og det har
 høy prioritet hos oss, for det har også hele mineralnæringen.</A>
           </Replikk>
-          <Replikk Id="i1010867">
+          <Replikk Id="i1011177">
             <A>
               <Navn personID="INF">
 Ingrid Fiskaa (SV) [10:53:27]:</Navn> Me må produsera for å kunna
@@ -942,7 +940,7 @@ i Noreg og vel å støtta sørkoreansk industri i staden. Så spørsmålet
 mitt er: Kva er regjeringa sin strategi for å styrkja norsk industriproduksjon,
 sånn at me har noko å eksportera òg i framtida?</A>
           </Replikk>
-          <Replikk Id="i1010869">
+          <Replikk Id="i1011179">
             <A>
               <Navn personID="CTM">
 Statsråd Cecilie Myrseth [10:54:21]:</Navn> Denne runden har vi
@@ -951,31 +949,31 @@ Det at vi skal ivareta og utvikle den norske industrien her hjemme
 så man også er konkurransedyktig for framtiden, har vært avgjørende
 også når vi skal produsere. Vi produserer heldigvis mye i Norge
 som er av interesse for resten av verden – ergo har vi høye eksporttall.
-Det er viktig med tanke på utviklingen av forsvarsindustrien, det
+Det er viktig med tanke på utviklingen av forsvarsindustrien. Det
 handler om maritim sektor, det handler om teknologiutviklingen,
-hvor vi ligger ganske så langt fremme, det handler om romindustrien. Så
-vi er nødt til å gjøre begge deler. Men skal vi få til det, må vi
+hvor vi ligger ganske så langt fremme, og det handler om romindustrien.
+Vi er nødt til å gjøre begge deler. Men skal vi få til det, må vi
 sikre at vi har en handelspolitikk som henger tett sammen med industripolitikken,
 som gjør at vi har markedsadgang for faktisk å selge det som er
 avgjørende for de mange tusen arbeidsplassene og lokalsamfunnene
 rundt i hele det fine landet vårt.</A>
           </Replikk>
-          <Replikk Id="i1010871">
+          <Replikk Id="i1011181">
             <A>
               <Navn personID="GP">
 Geir Pollestad (Sp) [10:55:25]:</Navn> Etter å ha høyrt den handelspolitiske
 utgreiinga lurer eg på éin ting: Meiner næringsministeren at Noreg
 bør verta medlem av EU?</A>
           </Replikk>
-          <Replikk Id="i1010873">
+          <Replikk Id="i1011183">
             <A>
               <Navn personID="CTM">
 Statsråd Cecilie Myrseth [10:55:35]:</Navn> Jeg er her på vegne
-av regjeringen, og vi er veldig tydelige på at vi har valgt vår
-tilknytningsform til Europa, og det er gjennom EØS-avtalen. Vi kommer
-ikke til å sette i gang noen runder for å melde oss inn i EU.</A>
+av regjeringen. Vi er veldig tydelige på at vi har valgt vår tilknytningsform
+til Europa, og det er gjennom EØS-avtalen. Vi kommer ikke til å
+sette i gang noen runder for å melde oss inn i EU.</A>
           </Replikk>
-          <Replikk Id="i1010875">
+          <Replikk Id="i1011185">
             <A>
               <Navn personID="GP">
 Geir Pollestad (Sp) [10:55:51]:</Navn> Denne handelspolitiske utgreiinga
@@ -987,7 +985,7 @@ handelspolitiske utgreiinga? Er det fordi Storbritannia ikkje er
 medlem av EU, eller er det andre grunnar til at ein fokuserer så
 lite på landet som er det landet me eksporterer mest til?</A>
           </Replikk>
-          <Replikk Id="i1010877">
+          <Replikk Id="i1011187">
             <A>
               <Navn personID="CTM">
 Statsråd Cecilie Myrseth [10:56:31]:</Navn> Representanten trenger
@@ -1012,15 +1010,15 @@ er avsluttet.</A>
             <A Type="Minnrykk">De talere som heretter får ordet, har en taletid
 på inntil 3 minutter.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1010879">
+          <Hovedinnlegg Id="i1011189">
             <A>
               <Navn personID="TAJ">
 Tor André Johnsen (FrP) [10:57:41]:</Navn> Jeg ser at det er blitt
 lagt fram to løse forslag rett før møtestart. Det må jeg si er veldig
 spesielt. Det ene går ut på å reversere det veldig kloke, viktige
-vedtaket som Stortinget fattet før jul, og som gjaldt å stå opp
-for norsk løkproduksjon. Vi ga da løkprodusentene et pusterom, vi
-ga dem litt tid til å kunne klare å omstille seg, til å kunne klare
+vedtaket som Stortinget fattet før jul, som gjaldt å stå opp for
+norsk løkproduksjon. Vi ga da løkprodusentene et pusterom, vi ga
+dem litt tid til å kunne klare å omstille seg, til å kunne klare
 å tilpasse seg de nye strenge kravene. Nå ser det ut som om det
 skal bli endret på og reversert. Det vil jeg si er veldig uryddig.
 Jeg synes det er uredelig, og jeg synes rett og slett det er ufint
@@ -1037,13 +1035,13 @@ fra Helsedepartementet på slep, så vedkommende kunne være med på
 å følge saken. Det kom rett og slett som lyn fra klar himmel. Jeg
 synes det er veldig uryddig.</A>
             <A Type="Minnrykk">Det er en hastesak, jeg forstår det, med løst
-forslag. Det var et problem tydeligvis før jul at det løse forslaget
+forslag. Det var tydeligvis et problem før jul at det løse forslaget
 ikke passet inn i saken om ny næringspolitikk for en ny tid. Den
 tror jeg kan sendes i retur. Det passer i hvert fall ikke noe bedre inn
 i denne saken enn den som ble behandlet før jul.</A>
             <A Type="Minnrykk">Jeg forstår rett og slett ikke hva Høyre og
 MDG driver med. Er de så redd for å provosere EU at de rett og slett
-kaster bøndene under bussen og motarbeider løkprodusentene og aktivt
+kaster bøndene under bussen, motarbeider løkprodusentene og aktivt
 motarbeider norsk løkproduksjon bare for å tilfredsstille EU? Det
 synes jeg er helt uforståelig.</A>
             <A Type="Minnrykk">Denne saken bærer også preg av litt dårlig
@@ -1063,14 +1061,14 @@ og kjøpt inn setteløk og planlagt og investert for i hvert fall
 å fortsette litt til. Nå er det veldig usikkert. Hvordan det håndteres
 framover, blir spennende å se.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1010881">
+          <Hovedinnlegg Id="i1011191">
             <A>
               <Navn personID="INF">
 Ingrid Fiskaa (SV) [11:00:57]:</Navn> Rett før jul tok Stortinget
 ansvar for å redda norsk laukproduksjon og utsetja innføring av
 eit EU-direktiv som er dårleg tilpassa norske forhold. Tanken med
 det var nettopp at laukprodusentane og norsk matberedskap og -produksjon
-trong i det minste meir tid til å omstilla seg før ein eventuelt
+i det minste trong meir tid til å omstilla seg før ein eventuelt
 innfører dette direktivet.</A>
             <A Type="Minnrykk">I dag ser me at to av partia, MDG og Høgre,
 som stod samen med oss før jul, plutseleg har snudd og vil hasta
@@ -1087,17 +1085,17 @@ for norsk laukproduksjon og ikkje lèt seg stressa av at EU av og til
 er misfornøgd med oss. Dette er ei sak som me må behandla med klokskap
 og med is i magen. Det håper eg stortingsfleirtalet gjer i dag.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1010883">
+          <Hovedinnlegg Id="i1011193">
             <A>
               <Navn personID="GP">
 Geir Pollestad (Sp) [11:03:03]:</Navn> Eg registrerer at næringsministeren
 ikkje gav noko svar på kvar påstanden om at handelen vår ville vore
 35–65 pst. lågare om det ikkje var for EØS-avtalen, kjem frå. Grunnen
-til at det var ein relevant ting å ta opp, er at det vil seia noko
-om kva regjeringa tenkjer om framtidig handel med land me berre
-har ein handelsavtale med, som f.eks. Storbritannia. Som sagt: Eg
-trur næringsministeren brukar eit tal ho ikkje har dekning for å
-bruka. Det er heller ikkje nokon kjeldereferanse i talen til næringsministeren.</A>
+til at det var relevant å ta opp, er at det vil seia noko om kva
+regjeringa tenkjer om framtidig handel med land me berre har ein
+handelsavtale med, som f.eks. Storbritannia. Som sagt: Eg trur næringsministeren
+brukar eit tal ho ikkje har dekning for å bruka. Det er heller ikkje
+nokon kjeldereferanse i talen til næringsministeren.</A>
             <A Type="Minnrykk">Så til ei sak som er meir til å grina av, den
 såkalla lauksaka. Det var ikkje ei sak me ønskte å få opp i dag.
 Me veit enno ikkje kva Arbeidarpartiet kjem til å stemma. Me som
@@ -1131,7 +1129,7 @@ interesser? Eg trur nokre månaders utsetjing av eit direktiv og
 Det ville gjort at me hadde eit avklart og greitt forhold til Brussel,
 og at me faktisk er villig til å stå opp for norske interesser.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1010885">
+          <Hovedinnlegg Id="i1011195">
             <A>
               <Navn personID="GEIRAJ">
 Geir Jørgensen (R) [11:06:22]:</Navn> Rødt og flere andre partier
@@ -1160,19 +1158,19 @@ løk i Norges kosthold, i det hele tatt. Dette er regler som har
 kommet fra EU, fordi de har helt andre måter å drive sin produksjon
 på enn hvordan vi gjør det, og i mange land er løkforbruket det
 tre-firedobbelte av det norske forbruket. Dette gir ingen mening.
-Det gir mening for EU, det gir ikke mening for Norge, det gir ikke
-mening for den næringen og dem som er nødt til å investere – med
-mange, mange måneder fra de investerer og forbereder neste års produksjon,
-til de kan hente inntekten sin fra sine produkter. </A>
+Det gir mening for EU, men det gir ikke mening for Norge, det gir
+ikke mening for den næringen og dem som er nødt til å investere
+– med mange, mange måneder fra de investerer og forbereder neste
+års produksjon, til de kan hente inntekten sin fra sine produkter. </A>
             <A Type="Minnrykk">Det er ikke overraskende at vi i Rødt er sterkt
 kritisk til dette forslaget, vi kommer til å stemme imot. Vi forutsetter
 at regjeringspartiet Arbeiderpartiet, som står bak Meld. St. 11 for
 2023–2024, om økt norsk selvforsyning, også er med på å avvise dette
-forslaget fra MDG og Høyre. Jeg må si MDG skuffer stort her, for
-de har hele veien vært med på en landbrukspolitikk som ikke kommer
-til uttrykk her.</A>
+forslaget fra MDG og Høyre. Jeg må si at MDG skuffer stort her,
+for de har hele veien vært med på en landbrukspolitikk som ikke
+kommer til uttrykk her.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1010887">
+          <Hovedinnlegg Id="i1011197">
             <A>
               <Navn personID="ERLL">
 Erlend Larsen (H) [11:09:41]:</Navn> Det er urolige tider. Som en
@@ -1225,7 +1223,7 @@ skal få erstatning dersom de kommer over de grenseverdiene. I tillegg
 er det flere andre produkter som er utsatt for kadmium enn bare
 løk, f.eks. barnemat. </A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1010889">
+          <Hovedinnlegg Id="i1011199">
             <A>
               <Navn personID="MARNIL">
 Marius Arion Nilsen (FrP) [11:12:56]:</Navn> Næringsministerens
@@ -1267,7 +1265,7 @@ nye vekstselskaper og gründervirksomhet.</A>
 her overtatt presidentplassen.</A>
             </Handling>
           </Merknad>
-          <Hovedinnlegg Id="i1010891">
+          <Hovedinnlegg Id="i1011201">
             <A>
               <Navn personID="UAB">
 Une Bastholm (MDG) [11:15:39]:</Navn> Det er sjelden populært å
@@ -1299,19 +1297,20 @@ borte bare av å legge den i en skuff. Det er det – med all respekt
 har skjedd i løpet av de siste fire årene med Senterpartiet i landbruksministerstolen.
 Om man ønsker at f.eks. nye helseregler som Norge bør innføre i
 samarbeid med EU, skal innføres på en måte som ivaretar norske interesser
-i bredt, må man jo gå aktivt inn, forhandle, gjøre EU klar over de
-hensynene vi ønsker å ta i Norge. Man må gå i dialog med dem som
-blir berørt i Norge, og det har ikke løkprodusentene opplevd. Man
-har jo startet, og det er masse som pågår med kartlegging. Man forsøker
-kalking og øker hele tiden kunnskapen om hvordan man kan tilpasse
-det, men det har gått for sakte. Nå har vi fått på plass en ny formulering
-som i mye større grad finner en balanse mellom det å ivareta bøndene
-og ivareta relasjonen til EU, nordmenns helse og tilliten til norsk mat. </A>
+i bredt, må man jo gå aktivt inn, forhandle og gjøre EU klar over
+de hensynene vi ønsker å ta i Norge. Man må gå i dialog med dem
+som blir berørt i Norge, og det har ikke løkprodusentene opplevd.
+Man har jo startet, og det er masse som pågår med kartlegging. Man
+forsøker kalking og øker hele tiden kunnskapen om hvordan man kan
+tilpasse det, men det har gått for sakte. Nå har vi fått på plass
+en ny formulering som i mye større grad finner en balanse mellom
+det å ivareta bøndene og ivareta relasjonen til EU, nordmenns helse
+og tilliten til norsk mat. </A>
             <A Type="Minnrykk">Det siste poenget er at vi etter vedtaket før
 jul erfarte at en del har blitt usikre på om de kan kjøpe norsk
 mat og om de må etterspørre utenlandsk løk.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1010893">
+          <Hovedinnlegg Id="i1011203">
             <A>
               <Navn personID="TAJ">
 Tor André Johnsen (FrP) [11:18:56]:</Navn> Tilbake til det jeg snakket
@@ -1322,11 +1321,11 @@ på Arbeiderpartiets representanter i næringskomiteen og veldig langt
 over hodet på Høyres representanter i næringskomiteen, og at det
 faktisk har vært oppe på nivå med Søreide og Barth Eide. Det skal
 vi ikke se bort fra. Det overrasker meg, som jeg sa i stad, at det
-her er en fullstendig helomvending.</A>
+er en fullstendig helomvending her.</A>
             <A Type="Minnrykk">Den frykten for EU og for at EU skal bli så
 provosert av at vi prøver å stå opp for en bitte liten næring i
 EU-sammenheng, er litt rar. For EU er norsk løk egentlig en bagatell,
-den er ikke en parentes i gang, men for Norge er den viktig. Dette gjelder
+den er ikke en parentes engang, men for Norge er den viktig. Dette gjelder
 nesten halvparten av norsk løkproduksjon. For norske løkbønder er
 dette viktig. Det er jobben deres, det er livet deres. De har familie,
 de har utgifter, og de har lån på bondegårdene sine. </A>
@@ -1364,7 +1363,7 @@ Det kunne vært mulig å få tilpasninger. Man kunne ha fått unntak,
 som jeg var inne på i stad, som Tyskland har for hvete, Irland har
 for potet og Øst-Europa har for fisk fra Østersjøen.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1010895">
+          <Hovedinnlegg Id="i1011205">
             <A>
               <Navn personID="CTM">
 Statsråd Cecilie Myrseth [11:22:13]:</Navn> Det er viktig å ta inn
@@ -1380,7 +1379,7 @@ jeg selvfølgelig ikke bare har funnet på tall når det gjelder resultatene,
 prosentene og hvordan det står til med vekst. Det kommer fra en
 rapport som NUPI har utarbeidet, og det har jeg tillit til.</A>
             <A Type="Minnrykk">I diskusjonen om EU og Storbritannia går det
-ikke bare an å ramse opp hvor mange ganger man har nevnt EU eller Storbritannia
+ikke an bare å ramse opp hvor mange ganger man har nevnt EU eller Storbritannia
 i en redegjørelse, og si at det er lik at man bryr seg eller ikke
 bryr seg. Begge deler er viktig, men vårt indre marked, vårt hjemmemarked,
 er det indre markedet som vi har gjennom EØS-avtalen.</A>
@@ -1412,7 +1411,7 @@ enda mer privat kapital. Vi skal fortsatt jobbe med forenkling,
 strøm, markedsadgang og alt det som skal bidra til god vekst for
 en fantastisk industri her i Norge.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1010897">
+          <Hovedinnlegg Id="i1011207">
             <A>
               <Navn personID="RUNSTS">
 Rune Støstad (A) [11:25:35]:</Navn> Dette er en kommentar til det
@@ -1454,7 +1453,7 @@ vi kommer til å støtte forslaget som er lagt fram i dag.</A>
 Geir Pollestad har hatt ordet to ganger tidligere og får ordet til
 en kort merknad, begrenset til 1 minutt.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1010899">
+          <Hovedinnlegg Id="i1011209">
             <A>
               <Navn personID="GP">
 Geir Pollestad (Sp) [11:28:25]:</Navn> Min korte merknad går til
@@ -1473,7 +1472,7 @@ får ta stilling til kva ein trur på, men eg vil anbefala næringsministeren
 i framtida ikkje å bruka slike tal for å mala eit glansbilde av
 EU.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1010901">
+          <Hovedinnlegg Id="i1011211">
             <A>
               <Navn personID="NKS">
 Statsråd Nils Kristen Sandtrøen [11:29:46]:</Navn> Det var representanten
@@ -1481,7 +1480,7 @@ Johnsen som ønsket en kommentar fra matministeren, og det skal han
 få – i tre hovedpunkter.</A>
             <A Type="Minnrykk">For det første kan vi i Norge være veldig stolt
 over den mattryggheten vi har som innbyggere når vi går til butikken og
-handler mat både til oss selv og ungene våre. Når vi reiser ut i
+handler mat til både oss selv og ungene våre. Når vi reiser ut i
 verden, prater vi gjerne om hvor viktig og positivt det er at norsk
 kjøttproduksjon skjer med lite bruk av antibiotika. </A>
             <A Type="Minnrykk">Vi er også stolt over at vi har en grønnsaksproduksjon som
@@ -1512,13 +1511,13 @@ Det er et viktig poeng, for representanten Johnsen framstiller det
 av og til som om det er løkprodusenter som får et forbud. Det er
 ikke det regelverket handler om. Det handler om hvor mye tungmetall
 det skal kunne være i den matvaren som du og jeg går i kassa og
-kjøper med oss hjem. Og da vil det finnes muligheter, som vi vil
-følge opp hvis dette forslaget viser seg å få flertall, for hvordan
-man kan sikre norsk løkproduksjon, men at det skjer innenfor rammer
+kjøper med oss hjem. Da vil det finnes muligheter, som vi vil følge
+opp hvis dette forslaget viser seg å få flertall, for hvordan man
+kan sikre norsk løkproduksjon, men at det skjer innenfor rammer
 som produsenten kan stole på, på samme måte som at produsenten skal
 kunne stole på at barnematen er så trygg som mulig.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1010905">
+          <Hovedinnlegg Id="i1011215">
             <A>
               <Navn personID="STILIL">
 Stig Even Lillestøl (FrP) [11:32:58]:</Navn> «Vi er en sjømatnasjon»,
@@ -1560,23 +1559,23 @@ gje Noreg ein smidigare økonomi med fleire bein å stå på i framtida.</A>
 Geir Jørgensen har hatt ordet to ganger tidligere og får ordet til
 en kort merknad, begrenset til 1 minutt.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1010907">
+          <Hovedinnlegg Id="i1011217">
             <A>
               <Navn personID="GEIRAJ">
 Geir Jørgensen (R) [11:35:12]:</Navn> Vi er fortsatt på denne saken
 med det løse forslaget som kom i dag, og som nå Arbeiderpartiet
 har tydeliggjort at de vil komme til å støtte. Dette er useriøst,
-dette er uverdig, dette er en finger i øyet på norsk matproduksjon
+dette er uverdig, og dette er en finger i øyet på norsk matproduksjon
 og de produsentene som har basert seg på at de til våren skulle
 plante ut sine produkter og få lov til å drive sin næring ut fra
 det stortingsflertallet har bestemt. Det er bare å konstatere at
-for Arbeiderpartiet, for MDG og for Høyre er lydighet overfor EU-direktiver
+for Arbeiderpartiet, MDG og Høyre er lydighet overfor EU-direktiver
 som ikke i det hele tatt er tilpasset norske forhold, viktigere
 enn vår egen selvforsyning og framtiden til de familiene som nå
 blir rammet av det disse partiene kommer til å stemme for her om
 noen få timer.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1010909">
+          <Hovedinnlegg Id="i1011219">
             <A>
               <Navn personID="UAB">
 Une Bastholm (MDG) [11:36:19]:</Navn> Jeg vil benytte anledningen
@@ -1607,7 +1606,7 @@ også med en god vurdering av tiltak for hvordan man følger opp bøndene.</A>
 Ingrid Fiskaa har hatt ordet to ganger tidligere og får ordet til
 en kort merknad, begrenset til 1 minutt.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1010911">
+          <Hovedinnlegg Id="i1011221">
             <A>
               <Navn personID="INF">
 Ingrid Fiskaa (SV) [11:37:53]:</Navn> Eg registrerer at det no er
@@ -1632,7 +1631,7 @@ får avhjelpande tiltak.</A>
 Tor André Johnsen har hatt ordet to ganger tidligere og får ordet
 til en kort merknad, begrenset til 1 minutt.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1010913">
+          <Hovedinnlegg Id="i1011223">
             <A>
               <Navn personID="TAJ">
 Tor André Johnsen (FrP) [11:39:15]:</Navn> I løpet av debatten har
@@ -1640,10 +1639,10 @@ jeg fått mange henvendelser fra nettopp dem vi snakker om, norske
 løkprodusenter, som selvfølgelig er bekymret. Så jeg har lyst til
 å benytte muligheten til å invitere Larsen, Bastholm og kanskje
 Støstad til å bli med til Stange og besøke noen av de utvalgte løkprodusentene.
-Så kan de selv se hvordan dette vil berøre dem det gjelder. For
-det er viktig å huske på at vi er valgt av det norske folk for å
-stå opp for det norske folk, og vi skal jobbe for norsk matproduksjon. Det
-har vi alle vedtatt, og det er det som er overordnet. </A>
+Da kan de selv se hvordan dette vil berøre dem det gjelder. Det
+er viktig å huske på at vi er valgt av det norske folk for å stå
+opp for det norske folk, og vi skal jobbe for norsk matproduksjon.
+Det har vi alle vedtatt, og det er det som er overordnet. </A>
             <A Type="Minnrykk">Så blir jeg litt overrasket over landbruksministeren,
 for han kommer igjen tilbake til det overordnede perspektivet om generell
 mattrygghet og antyder indirekte at det er farlig å spise norsk
@@ -1656,15 +1655,15 @@ av Tyskland og ølproduksjon. </A>
 hvis Arbeiderpartiet hadde gjort jobben sin, hadde vi kunnet fått
 tilpasninger for løk, men det har vi dessverre ikke klart å få til. </A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1010915">
+          <Hovedinnlegg Id="i1011225">
             <A>
               <Navn personID="ERLL">
 Erlend Larsen (H) [11:40:34]:</Navn> Det hele startet med manglende
 informasjon til Stortingets europautvalg. Det var 152 rettsakter
 som var oppe til behandling, og der var ikke løk eller kadmium nevnt.
-Så grunnen til at jeg var veldig opptatt av å utsette fristen til
-landbruket med ett år før jul, var at jeg forventer at landbruket
-får den samme forutsigbarheten som alt annet næringsliv i Norge. </A>
+Grunnen til at jeg var veldig opptatt av å utsette fristen til landbruket
+med ett år før jul, var at jeg forventer at landbruket får den samme
+forutsigbarheten som alt annet næringsliv i Norge. </A>
             <A Type="Minnrykk">Regjeringen fikk saken fra EU i 2021. De satt
 på den i fire år, og så ga de da landbruket et lite år til omstilling.
 Senterpartiet kan godt kritisere oss, men noe av årsaken til at
@@ -1697,7 +1696,7 @@ for at jeg ikke har varslet tilstrekkelig. Det varselet skulle Johnsen
 ha fått, det tar jeg til etterretning og beklager, og jeg blir gjerne med
 til Stange og besøker løkbøndene, for all del. </A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1010917">
+          <Hovedinnlegg Id="i1011227">
             <A>
               <Navn personID="MARNIL">
 Marius Arion Nilsen (FrP) [11:43:22]:</Navn> Jeg forlenger denne
@@ -1713,12 +1712,13 @@ kalle det EUs høyreparti, kommer med noen svært underlige innlegg
 i denne saken. De kommer muligens fra nye Høyres posisjon, som nå
 tydeligvis virker å være mellom Ap og MDG. Først står Høyre her
 på talerstolen og siterer en tale fra Canadas statsminister Carney
-som går på deregulering, mindre byråkrati og lavere skatter og avgifter,
-før de like etterpå stemmer for enda mer byråkrati og svekket konkurransekraft.
-I neste runde i Høyres innlegg klinket de til med å si at det så
-å si bare er flaks som ligger bak dagens Norge. Det er en veldig
-spesiell måte å se dette landet på. Det er særs underlig, og det
-er kanskje derfor de tenker det er bedre at Brussel styrer oss. </A>
+som handler om deregulering, mindre byråkrati og lavere skatter
+og avgifter, før de like etterpå stemmer for enda mer byråkrati
+og svekket konkurransekraft. I neste runde i Høyres innlegg klinket
+de til med å si at det så å si bare er flaks som ligger bak dagens
+Norge. Det er en veldig spesiell måte å se dette landet på. Det
+er særs underlig, og det er kanskje derfor de tenker det er bedre
+at Brussel styrer oss. </A>
             <A Type="Minnrykk">Det er forunderlig at man ikke har gjort mer
 fra regjeringens side og jobbet for tilpasninger i denne saken.
 Representanten Johnsen nevner en liste med tilpasninger som har
@@ -1735,7 +1735,7 @@ Det er et trist skue at man har valgt å ta denne runden og ikke
 tatt seg bryet med å informere partiene som sto for motsatt forslag
 før jul, spesielt siden man ser at det ble levert inn i går ettermiddag.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1010919">
+          <Hovedinnlegg Id="i1011229">
             <A>
               <Navn personID="SOLVIT">
 Solveig Vitanza (A) [11:46:03]:</Navn> Jeg vil bare starte med å
@@ -1750,15 +1750,15 @@ og slikt som vi ikke ønsker høye nivåer av i vår mat i Norge. Det
 mener vi er fornuftig, siden vi ønsker at vi skal ha sunn og god norsk
 mat. Dette er spesielt rettet inn mot bl.a. barnemat, morsmelkerstatning,
 som vi ikke ønsker å ha f.eks. muggsopp og tungmetaller i. </A>
-            <A Type="Minnrykk">Dessverre berører dette en del norske løkprodusenter
-i Norge. Vi er lei oss for at de blir berørt av det. Derfor er jeg glad
-for at det i dette forslaget ligger en løsning på hvordan vi kan
-hjelpe også bøndene dette går ut over. At det ikke lå inne i det
-forrige forslaget, kan ikke vi si noe på, for det var et løst forslag
-som ble fremmet av noen helt andre i en annen debatt før jul. Så
-jeg synes det er flott at vi har fått dette på bordet igjen. Det
-viser at Norge står opp for EØS-avtalen, og at vi ønsker å sikre
-den norske forbrukeren trygg mat. </A>
+            <A Type="Minnrykk">Dessverre berører dette en del norske løkprodusenter.
+Vi er lei oss for at de blir berørt av det. Derfor er jeg glad for
+at det i dette forslaget ligger en løsning på hvordan vi kan hjelpe også
+bøndene dette går ut over. At det ikke lå inne i det forrige forslaget,
+kan ikke vi si noe på, for det var et løst forslag som ble fremmet
+av noen helt andre i en annen debatt før jul. Jeg synes det er flott
+at vi har fått dette på bordet igjen. Det viser at Norge står opp
+for EØS-avtalen, og at vi ønsker å sikre den norske forbrukeren
+trygg mat. </A>
             <A Type="Minnrykk">Jeg vil, i likhet med Rune Støstad, som sa
 det i et tidligere innlegg, støtte forslaget om å innføre denne
 rettsakten.</A>
@@ -1768,14 +1768,14 @@ rettsakten.</A>
               <Navn>Presidenten [11:48:28]:</Navn> Flere har ikke
 bedt om ordet til sak nr. 1.</A>
           </Presinnlegg>
-          <Referanse Id="i1010921" voteringsDato="2026-01-29" debattDato="2026-01-29" saksKartNr="1" />
+          <Referanse Id="i1011231" voteringsDato="2026-01-29" debattDato="2026-01-29" saksKartNr="1" />
         </Sak>
-        <Sak Id="i1010923" saksKartNr="2" sakID="103533">
+        <Sak Id="i1011233" saksKartNr="2" sakID="103533">
           <Sakshode>
             <Saknr>
               <Uth Type="Sperret">Sak
 nr. 2</Uth> [11:48:16]</Saknr>
-            <Saktittel Id="i1010927">
+            <Saktittel Id="i1011237">
               <A>Innstilling fra næringskomiteen om
 Lov om endringer i anskaffelsesloven (samfunnshensyn mv.) <Uth Type="RETT">(Innst. 38 L (2025–2026), jf. Prop. 147 L (2024–2025))</Uth></A>
             </Saktittel>
@@ -1790,7 +1790,7 @@ til hver partigruppe og 5 minutter til medlemmer av regjeringen.</A>
 fra medlemmer av regjeringen, og de som måtte tegne seg på talerlisten
 utover den fordelte taletid, får en taletid på inntil 3 minutter.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1010929">
+          <Hovedinnlegg Id="i1011239">
             <A>
               <Navn personID="TOBLIN">
 Tobias Hangaard Linge (A) [11:48:53]</Navn> (ordfører for saken):
@@ -1875,7 +1875,7 @@ og åpne for at flere lokale leverandører kan delta i konkurransen
 om offentlige kontrakter. Slik bruker vi innkjøpsmakten vår til
 det beste for fellesskapet og næringslivet vårt.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1010931">
+          <Hovedinnlegg Id="i1011241">
             <A>
               <Navn personID="BERST">
 Bengt Rune Strifeldt (FrP) [11:53:55]:</Navn> Jeg får starte som
@@ -1899,19 +1899,19 @@ kompetanse i å utforme anbud som gir den beste varen eller tjenesten
 tilgjengelig i markedet til riktig pris. For næringslivet utgjør
 offentlige anskaffelser et stort marked. </A>
             <A Type="Minnrykk">Offentlige anskaffelser utgjorde om lag 835 mrd. kr
-i 2024 og har ligget på rundt 15 pst.–18 pst. av BNP over tid. Det
-betyr at det offentlige er en av landets klart største innkjøpere
-og har betydelig markedsmakt. Det hviler et stort ansvar på stat,
-fylker og kommuner for å bruke skattebetalernes penger mest mulig
-effektivt og for å utforme anskaffelsesreglene, slik at de fremmer
-konkurranse, innovasjon og god ressursbruk, ikke mer byråkrati og
-kostnadsdrivende særkrav. </A>
+i 2024 og har ligget på rundt 15–18 pst. av BNP over tid. Det betyr
+at det offentlige er en av landets klart største innkjøpere og har
+betydelig markedsmakt. Det hviler et stort ansvar på stat, fylker
+og kommuner for å bruke skattebetalernes penger mest mulig effektivt
+og for å utforme anskaffelsesreglene, slik at de fremmer konkurranse,
+innovasjon og god ressursbruk, ikke mer byråkrati og kostnadsdrivende
+særkrav. </A>
             <A Type="Minnrykk">Fremskrittspartiet har en betydelig reduksjon
-i skatter, avgifter og offentlige inngrep som hovedmål, og at en
-forutsetning for dette er en mer effektiv og mindre byråkratisk
-offentlig sektor. Forenkling av anskaffelsesregelverket og tydelig
-prioritering av kostnadseffektivitet i formålsbestemmelsen er et
-sentralt virkemiddel for å oppnå dette. </A>
+i skatter, avgifter og offentlige inngrep som hovedmål, og en forutsetning
+for dette er en mer effektiv og mindre byråkratisk offentlig sektor.
+Forenkling av anskaffelsesregelverket og tydelig prioritering av
+kostnadseffektivitet i formålsbestemmelsen er et sentralt virkemiddel
+for å oppnå dette. </A>
             <A Type="Minnrykk">Innslagspunktet for anskaffelsesregelverket
 har stått uendret i svært mange år – på 100 000 norske kroner eksklusiv merverdiavgift.
 Sverige og Danmark har innslagspunkt på henholdsvis 700 000 svenske
@@ -1939,8 +1939,8 @@ til 750 000 kr eksklusiv merverdiavgift. Fremskrittspartiet vil
 subsidiært støtte en økning av innslagspunktet til 500 000 kr dersom
 forslaget om 750 000 kr faller. </A>
             <A Type="Minnrykk">En enstemmig komité er opptatt av at innslagspunktet skal
-kunne justeres med hensyn til bl.a. prisvekst slik at innslagspunktet
-ikke oppfattes skjerpende over tid og mener at justeringer hvert
+kunne justeres med hensyn til bl.a. prisvekst, slik at innslagspunktet
+ikke oppfattes skjerpende over tid, og mener at justeringer hvert
 tredje år framstår som hensiktsmessig. </A>
             <A Type="Minnrykk">Proposisjonen inneholder enkelte forenklingsgrep
 som er positive, bl.a. å oppheve § 4 for å åpne for nasjonale forenklinger
@@ -1960,7 +1960,7 @@ har alene og sammen med andre.</A>
               <Navn>Presidenten [11:58:52]:</Navn> Representanten
 Bengt Rune Strifeldt har tatt opp de forslagene han refererte til.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1010933">
+          <Hovedinnlegg Id="i1011243">
             <A>
               <Navn personID="BRDTHO">
 Bård Ludvig Thorheim (H) [11:59:18]:</Navn> I denne saken vil jeg
@@ -1997,11 +1997,11 @@ at det har blitt hevet – ikke bare til 300 000 kr, som Arbeiderpartiet fores
 men til 500 000 kr, som det nå er flertall for. Vi vil jobbe videre
 for at det kommer enda høyere opp. Faren er selvfølgelig at små
 og mellomstore bedrifter, og kanskje nye bedrifter som ikke har
-vært med anbudsprosesser før, ikke får konkurrere like godt, men
+vært med i anbudsprosesser før, ikke får konkurrere like godt, men
 det har vi også tatt høyde for i lovarbeidet. </A>
             <A Type="Minnrykk">Det andre punktet jeg vil nevne, er teknologiutvikling, som
 er svært viktig, og som helst bør skje i Norge, blant norske bedrifter.
-Staten bør tilstrebe ikke å alltid tenke at man skal løse oppgaven
+Staten bør tilstrebe ikke alltid å tenke at man skal løse oppgaven
 selv, «in-house», men heller å se på hva næringslivet kan bidra
 med. Da kan man også komme med anbud og forespørsler om mer innovative
 og framtidsrettede løsninger. Jeg tenker at det særlig innenfor
@@ -2016,7 +2016,7 @@ ikke ender vi opp med at det er de bedriftene som har de beste lobbyfirmaene,
 som vinner fram i anbudet, og at det ikke gjøres en objektiv vurdering
 av de faktiske klima- og miljøkonsekvensene.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1010935">
+          <Hovedinnlegg Id="i1011245">
             <A>
               <Navn personID="INF">
 Ingrid Fiskaa (SV) [12:04:30]:</Navn> Eg vil takka komiteen for
@@ -2034,13 +2034,13 @@ til store selskap og å bruka moglegheita til lovregulering og demokratisk
 styring i mindre grad, og det er ein type såkalla forenkling som
 er ein heilt annan debatt, og som me får ta ved ei anna anledning.</A>
             <A Type="Minnrykk">Eg vil òg understreka at eg synest det er positivt
-at me går saman om å leggja til at det offentlege sjølv òg skal
-ivareta sikkerheits- og beredskapsomsyn – i føremålsparagrafen av denne
-loven. Det kan vera viktig i ein del tilfelle. Rundt omkring i landet
-ser me dessverre litt for mange eksempel på at offentlege innkjøparar
+at me går saman om å leggja til i føremålsparagrafen av denne loven
+at det offentlege sjølv òg skal ivareta sikkerheits- og beredskapsomsyn.
+Det kan vera viktig i ein del tilfelle. Rundt omkring i landet ser
+me dessverre litt for mange eksempel på at offentlege innkjøparar
 ikkje tek omsyn til f.eks. matberedskap i innkjøpa sine. Det vil
 no bli ein tydelegare beskjed om at det er eit omsyn ein skal ta,
-og f.eks. gjera innkjøp frå lokale matprodusentar.</A>
+og at ein f.eks. skal gjera innkjøp frå lokale matprodusentar.</A>
             <A Type="Minnrykk">Eg er òg på denne talarstolen for å ta opp
 ei rekkje forslag som SV fremjar saman med andre parti. Det gjeld
 bl.a. forslag om standardiserte minstekrav for klimagassutslepp
@@ -2061,7 +2061,7 @@ nr. 13.</A>
               <Navn>Presidenten [12:07:46]:</Navn> Representanten
 Ingrid Fiskaa har tatt opp de forslagene hun refererte til.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1010937">
+          <Hovedinnlegg Id="i1011247">
             <A>
               <Navn personID="GP">
 Geir Pollestad (Sp) [12:08:00]:</Navn> Eg vil starta med å takka
@@ -2114,7 +2114,7 @@ er eit stort steg framover, og så må me passa på at me i dei komande månadan
 og åra ikkje fell for freistinga og vedtek gode intensjonar som
 gjer at den forenklinga som skjer no, rykkjer tilbake til start.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1010939">
+          <Hovedinnlegg Id="i1011249">
             <A>
               <Navn personID="GEIRAJ">
 Geir Jørgensen (R) [12:12:04]:</Navn> Når det offentlige Norge handler,
@@ -2144,7 +2144,7 @@ ikke har fullstendig frihet til selv å lage våre egne lover. Det
 er likevel der vi er i dag, og vi er fra Rødts side alt i alt fornøyd med
 sluttproduktet. </A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1010941">
+          <Hovedinnlegg Id="i1011251">
             <A>
               <Navn personID="UAB">
 Une Bastholm (MDG) [12:14:54]:</Navn> Dette er en veldig viktig
@@ -2159,9 +2159,9 @@ forbruker og kjøper varer og tjenester for over 800 mrd. kr årlig,
 sier det seg selv at dette er en enorm muskel for utvikling, velferd, matberedskap
 og grønn omstilling – generelt for å ivareta velferdssamfunnet vårt
 for ungene våre, for barnebarna, og for alle som kommer etter det. </A>
-            <A Type="Minnrykk">Selv om vi har en samlet prislapp, vi vet at
-det er over 800 mrd. kr, har vi ganske lite informasjon om hva man egentlig
-får for de milliardene, utover den oversikten som enkeltaktører
+            <A Type="Minnrykk">Selv om vi har en samlet prislapp – vi vet
+at det er over 800 mrd. kr – har vi ganske lite informasjon om hva
+man egentlig får for de milliardene, utover den oversikten som enkeltaktører
 selv har. Bidrar de offentlige innkjøpene f.eks. til å realisere
 Norges utdanningspolitikk, helsepolitikk, miljø- og landbrukspolitikk?
 Det vet vi ikke nok om. Jeg tror ikke denne loven, med disse endringene,
@@ -2171,7 +2171,7 @@ til sammen er, men den tar oss et stykke på vei. </A>
 mål at innkjøpene skal bidra til å bygge opp under andre viktige
 samfunnsmål. Jeg tror også det er viktig for tilliten til de offentlige
 innkjøpene, for det er rart for folk hvis de merker at innkjøp som
-kommunen gjør, f.eks., ikke er i tråd med andre verdier som vi politikere
+f.eks. kommunen gjør, ikke er i tråd med andre verdier som vi politikere
 ofte snakker om. </A>
             <A Type="Minnrykk">De tre viktigste grepene som Miljøpartiet De
 Grønne ønsker å framheve med lovendringen nå, handler om mer effektive
@@ -2185,16 +2185,16 @@ Det gjelder også det med kompetanse, for vi har en enstemmig bestilling
 til regjeringen fra komiteen, altså fra Stortinget, hvor vi ber
 regjeringen arbeide for å øke bestillerkompetansen i offentlig sektor.
 Dette har vi diskutert, og det har vært omtalt på forskjellige måter.
-Det er vel vitende om at det er masse kompetanse der ute, mye høyere
+Det er vel vitende om at det er masse kompetanse der ute – mye høyere
 kompetanse til bestilling enn det vi i komiteen har. Men vi ser
-også at det å ha god nok kompetanse i innkjøp gjør at man også har
-mye lettere for å kunne bruke det handlingsrommet som ligger i loven,
+også at det å ha god nok kompetanse i innkjøp gjør at man har mye
+lettere for å kunne bruke det handlingsrommet som ligger i loven,
 og oppnå de målene som loven legger til grunn. </A>
             <A Type="Minnrykk">Så er det dette med miljø. Nå kommer begrepet
 «bærekraft» inn i selve formålsparagrafen og sidestilles med begrepet
-«effektiv». Så når samfunnets ressurser nå er under økende press,
-og offentlige innkjøpere må håndtere strammere økonomiske rammer,
-er det veldig viktig å ta innover seg at det som kan virke som effektivt
+«effektiv». Når samfunnets ressurser nå er under økende press, og
+offentlige innkjøpere må håndtere strammere økonomiske rammer, er
+det veldig viktig å ta inn over seg at det som kan virke som effektivt
 på kort sikt, fort kan få større samfunnskostnader og gi dårligere
 velferd over tid. Miljø og klima er det beste eksempelet på det.
 Det er mange ting som kan være økonomisk lønnsomt på kort sikt,
@@ -2218,7 +2218,7 @@ merkeordningene og også utvikler minstekrav på viktige sektorer, og
 at det aldri er til hinder for at innkjøper lager ytterligere krav,
 utover minstekravene, for å skape innovasjon. </A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1010943">
+          <Hovedinnlegg Id="i1011253">
             <A>
               <Navn personID="HARVAL">
 Harry Valderhaug (KrF) [12:20:21]:</Navn> Først vil eg takke saksordføraren,
@@ -2229,8 +2229,8 @@ for samarbeidet. I den grad vi vart einige om noko, så var det ekstra
 kjekt.</A>
             <A Type="Minnrykk">I denne saka vil eg ta fram kanskje dei viktigaste
 tinga for KrF. Denne saka er eit første steg i arbeidet med å modernisere
-og forbetre eit regelverk som i dag vert opplevd som tungt og komplisert
-og lite tilgjengeleg, særleg då for kommunar og for små og mellomstore
+og forbetre eit regelverk som i dag vert opplevd som tungt, komplisert
+og lite tilgjengeleg, særleg for kommunar og for små og mellomstore
 verksemder. </A>
             <A Type="Minnrykk">For KrF er det eit omsyn som veg tyngst i denne
 saka, og det er forenkling. Offentlege anskaffingar må vere utforma slik
@@ -2241,16 +2241,15 @@ forslaget ikkje går langt nok. Lovendringane tek i for liten grad
 tak i dei forholda som i praksis gjer anskaffingar unødvendig kompliserte,
 kostnadsdrivande og lite tilgjengelege, særleg for mindre aktørar. </A>
             <A Type="Minnrykk">Etter fire år med dagens regjering er vi framleis
-langt unna regjeringa sitt eige mål om å forenkle tilsvarande 11 mrd.
-kr. Tvert imot er det i same periode innført ei rekkje nye krav
-om rapportering og dokumentasjon. Dette svekkjer etter KrF sitt
-syn regjeringa sitt bidrag til at kommunar og næringsliv skal oppleve
-mindre byråkrati.</A>
+langt unna regjeringa sitt eige mål om å forenkle tilsvarande 11 mrd. kr.
+Tvert imot er det i same periode innført ei rekkje nye krav om rapportering
+og dokumentasjon. Dette svekkjer etter KrF sitt syn regjeringa sitt
+bidrag til at kommunar og næringsliv skal oppleve mindre byråkrati.</A>
             <A Type="Minnrykk">Eit av dei viktige spørsmåla i denne saka er
 innslagspunktet. Der ønskjer KrF eit høgare innslagspunkt. 100 000 kr
 har stått i mange år, uregulert, og KrFs syn her er at vi bør løfte
 det minst til 750 000 kr. Vi har naboland som har vesentleg høgare
-tersklar, opp i det området, 750 000 kr pluss. Dette er ei viktig
+tersklar, opp i det området, 750 000 kr pluss. Dette er ei viktig
 sak som vi kanskje ikkje får fleirtal for, men som vi støttar, i
 lag med FrP og Høgre. Eit nivå på 750 000 kr vil gje ei reell forenkling,
 styrkje lokale og små leverandørar og gje kommunane eit nødvendig
@@ -2268,16 +2267,16 @@ krav kan gje høgare kostnader, svakare konkurranse og i nokre tilfelle
 utfordre beredskapen. Regelverket må gje rom for at marknaden kan
 finne dei beste løysingane.</A>
             <A Type="Minnrykk">KrF er også oppteke av at næringslivet tek
-ansvar for lærlingar, og mange stader overfor eit nytt prosjekt
-er det naturleg å stille krav. Samtidig meiner vi at regjeringa
-sitt forslag kanskje er litt for lite praktisk og litt for rigid
-med å bruke ein prosentandel. Det kan skape unødvendig prosessrisiko
+ansvar for lærlingar, og mange stader er det naturleg å stille krav
+overfor eit nytt prosjekt. Samtidig meiner vi at regjeringa sitt
+forslag kanskje er litt for lite praktisk og litt for rigid med
+å bruke ein prosentandel. Det kan skape unødvendig prosessrisiko
 og stengje mindre verksemder ute. Difor føreslår KrF at lærlingkravet
 vert utforma som ei kan-føresegn, utan fast prosentkrav. </A>
             <A Type="Minnrykk">Til slutt vil eg understreke betydninga av
 innovasjon. Offentlege anskaffingar er eit kraftfullt verkemiddel
-til å fremje nye løysingar og styrkje konkurranseevna i norsk næringsliv. KrF
-meiner det er behov for ein større bruk av fleksible anskaffingsprosedyrar
+for å fremje nye løysingar og styrkje konkurranseevna i norsk næringsliv. KrF
+meiner det er behov for større bruk av fleksible anskaffingsprosedyrar
 og betre tilrettelegging for innovasjonspartnarskap, slik at også
 små og mellomstore verksemder får ei reell moglegheit til å delta. </A>
             <A Type="Minnrykk">KrF støttar lovendringa som eit nødvendig første
@@ -2285,7 +2284,7 @@ steg, men dersom målet verkeleg er forenkling, må vi våge å gå lenger,
 med høgare innslagspunkt, mindre byråkrati og større tillit til
 kommunar og næringsliv.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1010945">
+          <Hovedinnlegg Id="i1011255">
             <A>
               <Navn personID="CTM">
 Statsråd Cecilie Myrseth [12:25:46]:</Navn> Det har vært viktig
@@ -2295,7 +2294,7 @@ denne loven, og ikke minst takke for alle innspillene vi har fått
 underveis fra veldig mange, noe som har vært viktig. Det var et
 langt, men viktig arbeid, som vi la fram for Stortinget i vår.</A>
             <A Type="Minnrykk">Offentlige anskaffelser har stor påvirkningskraft.
-I 2024 brukte vi 835 mrd. kr på sånne innkjøp, som gjentatt flere ganger
+I 2024 brukte vi 835 mrd. kr på sånne innkjøp, som gjentatt flere ganger
 her i salen i dag, og dette beløpet øker. Hvordan vi bruker disse
 milliardene, påvirker samfunnet vårt. Det påvirker private bedrifters
 markedsatferd og innovasjonskraften i både privat og offentlig sektor.
@@ -2324,9 +2323,9 @@ dersom anskaffelsen har et sikkerhetselement.</A>
 og legge til rette for at flere små leverandører kan konkurrere
 om offentlige kontrakter. Forenkling er viktig for å kutte kostnader
 ved offentlige anbud og gi flere mulighet til å kjempe om kontraktene.
-Det igjen gir økt konkurranse, mer innovasjon og bedre løsninger
-for innbyggerne. Det er med andre ord bedre og mer effektiv bruk
-av det offentliges penger.</A>
+Det gir økt konkurranse, mer innovasjon og bedre løsninger for innbyggerne.
+Det er med andre ord bedre og mer effektiv bruk av det offentliges
+penger.</A>
             <A Type="Minnrykk">Forslagene om endringene i anskaffelsesloven
 har vekket stort engasjement. En rekke aktører har kommet med innspill i
 høringen og gitt innspill direkte til næringskomiteen. Det er viktig
@@ -2368,7 +2367,7 @@ her overtatt presidentplassen.</A>
             <A>
               <Navn>Presidenten [12:30:44]:</Navn> Det blir replikkordskifte.</A>
           </Presinnlegg>
-          <Replikk Id="i1010947">
+          <Replikk Id="i1011257">
             <A>
               <Navn personID="GP">
 Geir Pollestad (Sp) [12:31:00]:</Navn> Innovative anskaffingar er
@@ -2384,7 +2383,7 @@ at regjeringa arbeider ut frå intensjonen om i størst mogleg grad
 å vidareføra det gode arbeidet i leverandørutviklingsprogrammet, og
 at ei avklaring om dette kjem innan kort tid?</A>
           </Replikk>
-          <Replikk Id="i1010949">
+          <Replikk Id="i1011259">
             <A>
               <Navn personID="CTM">
 Statsråd Cecilie Myrseth [12:31:49]:</Navn> Vi ønsker for det første
@@ -2397,7 +2396,7 @@ og som vi selvfølgelig også skal ha med Stortinget, har høy prioritet
 i regjeringen. Vi skal selvfølgelig følge opp det i tråd med det vedtaket
 vi har fattet, og vi jobber så raskt vi bare kan.</A>
           </Replikk>
-          <Replikk Id="i1010951">
+          <Replikk Id="i1011261">
             <A>
               <Navn personID="GP">
 Geir Pollestad (Sp) [12:32:30]:</Navn> Det verkar ikkje heilt som
@@ -2412,7 +2411,7 @@ som jobbar for det, kan fortsetja å gjera eit viktig arbeid for
 å sikra innovative anskaffingar, som jo er eit av dei måla eg trur
 me har saman?</A>
           </Replikk>
-          <Replikk Id="i1010953">
+          <Replikk Id="i1011263">
             <A>
               <Navn personID="CTM">
 Statsråd Cecilie Myrseth [12:33:08]:</Navn> Jeg kan garantere at
@@ -2426,7 +2425,7 @@ er mulig å komme tilbake med det før det, skal vi selvfølgelig gjøre
 det. Derfor har dette høy prioritet. Vi vet at det haster, og vi
 vet at det er sårbart, og at det også handler om ansatte.</A>
           </Replikk>
-          <Replikk Id="i1010955">
+          <Replikk Id="i1011265">
             <A>
               <Navn personID="UAB">
 Une Bastholm (MDG) [12:34:00]:</Navn> I lovendringen nå skjer det
@@ -2444,7 +2443,7 @@ arbeidet med loven og bl.a. også sørge for at det blir en del av
 utredningen når man nå skal utrede standardkrav. Er det noen spesiell
 grunn til at humanitærretten ikke var direkte omtalt i utgangspunktet?</A>
           </Replikk>
-          <Replikk Id="i1010957">
+          <Replikk Id="i1011267">
             <A>
               <Navn personID="CTM">
 Statsråd Cecilie Myrseth [12:34:58]:</Navn> Det vi også gjør nå,
@@ -2457,7 +2456,7 @@ små og store oppdragsgivere kan bidra til å motvirke brudd på en
 effektiv måte. Det er viktig å huske på at dette er én av mange
 lover som regulerer ulike forhold.</A>
           </Replikk>
-          <Replikk Id="i1010959">
+          <Replikk Id="i1011269">
             <A>
               <Navn personID="UAB">
 Une Bastholm (MDG) [12:35:39]:</Navn> Det gjaldt mest menneskerettigheter,
@@ -2477,7 +2476,7 @@ for folkeretten og sørge for – om det er i forskrift eller på andre
 måter – at det tydeliggjøres at man i offentlige anskaffelser har
 et ansvar for å unngå brudd på folkeretten?</A>
           </Replikk>
-          <Replikk Id="i1010961">
+          <Replikk Id="i1011271">
             <A>
               <Navn personID="CTM">
 Statsråd Cecilie Myrseth [12:36:38]:</Navn> Det er veldig viktig
@@ -2494,7 +2493,7 @@ er omme.</A>
             <A Type="Minnrykk">De talere som heretter får ordet, har en taletid
 på inntil 3 minutter.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1010963">
+          <Hovedinnlegg Id="i1011273">
             <A>
               <Navn personID="BERST">
 Bengt Rune Strifeldt (FrP) [12:37:20]:</Navn> Offentlige anskaffelser
@@ -2541,21 +2540,21 @@ runden, så vi får gode vedtak ut av dette. </A>
               <Navn>Presidenten [12:40:03]:</Navn> Flere har ikke
 bedt om ordet til sak nr. 2.</A>
           </Presinnlegg>
-          <Referanse Id="i1010965" voteringsDato="2026-01-29" debattDato="2026-01-29" saksKartNr="2" />
+          <Referanse Id="i1011275" voteringsDato="2026-01-29" debattDato="2026-01-29" saksKartNr="2" />
         </Sak>
-        <Sak Id="i1010967" saksKartNr="3" sakID="104382">
+        <Sak Id="i1011277" saksKartNr="3" sakID="104382">
           <Sakshode>
             <Saknr>
               <Uth Type="Sperret">Sak
 nr. 3</Uth> [12:40:09]</Saknr>
-            <Saktittel Id="i1010971">
+            <Saktittel Id="i1011281">
               <A>Innstilling fra kontroll- og konstitusjonskomiteen
 om Riksrevisjonens undersøkelse av læremidler i grunnskoler og videregående
 skoler <Uth Type="RETT">(Innst. 83 S (2025–2026), jf. Dokument 3:17
 (2024–2025))</Uth></A>
             </Saktittel>
           </Sakshode>
-          <Hovedinnlegg Id="i1010973">
+          <Hovedinnlegg Id="i1011283">
             <A>
               <Navn personID="HEGNYH">
 Hege Bae Nyholt (R) [12:40:37]</Navn> (ordfører for saken): Målet
@@ -2657,7 +2656,7 @@ har de læremidlene som trengs, og den tiden som trengs, for å få
 den kunnskapen som er nødvendig, og for at vi kan sikre at fellesskolen
 fortsetter som den fellesarenaen den både er og skal være i samfunnet. </A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1010975">
+          <Hovedinnlegg Id="i1011285">
             <A>
               <Navn personID="JULSTU">
 Julie E. Stuestøl (MDG) [12:46:31]:</Navn> Riksrevisjonens rapport
@@ -2713,7 +2712,7 @@ før neste budsjettrunde.</A>
 år, mens en lisensavtale må betales hvert år. Uten lærebøker mister
 lærerne metodefriheten. Lærerne skal velge metodene, ikke lisensavtalen.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1010977">
+          <Hovedinnlegg Id="i1011287">
             <A>
               <Navn personID="ERIHAG">
 Erik Hager (A) [12:50:31]:</Navn> Riksrevisjonens undersøkelser
@@ -2745,7 +2744,7 @@ opp, i den grad det ikke er igangsatt. </A>
 de mulighetene som finnes, slik at alle skoleelever i Norge får
 de læremidlene de trenger.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1010979">
+          <Hovedinnlegg Id="i1011289">
             <A>
               <Navn personID="KARNOR">
 Statsråd Kari Nessa Nordtun [12:52:43]:</Navn> Riksrevisjonen har
@@ -2767,7 +2766,7 @@ av 1 mrd. kr til lesing og leselyst over de neste fire årene. Vi
 har også styrket Statped, slik at de kan utvikle flere tilrettelagte læremidler
 for elever med særskilte behov. </A>
             <A Type="Minnrykk">Videre har jeg nå sørget for at støttetjenester
-til skoleeiere er etablert, som vil starte å levere vurderinger
+til skoleeiere er etablert, som vil begynne å levere vurderinger
 av personvern i læremidler denne våren. Jeg har også bevilget midler
 til et flerårig forskningsprogram om digitalisering i skolen, som
 vil belyse hvordan læremiddelbruken står i sammenheng med elevenes
@@ -2788,14 +2787,14 @@ flere tiltak for å bøte på utfordringene som er avdekket.</A>
               <Navn>Presidenten [12:55:04]:</Navn> Flere har ikke
 bedt om ordet til sak nr. 3</A>
           </Presinnlegg>
-          <Referanse Id="i1010981" voteringsDato="2026-01-29" debattDato="2026-01-29" saksKartNr="3" />
+          <Referanse Id="i1011291" voteringsDato="2026-01-29" debattDato="2026-01-29" saksKartNr="3" />
         </Sak>
-        <Sak Id="i1010983" saksKartNr="4" sakID="105065">
+        <Sak Id="i1011293" saksKartNr="4" sakID="105065">
           <Sakshode>
             <Saknr>
               <Uth Type="Sperret">Sak
 nr. 4</Uth> [12:55:11]</Saknr>
-            <Saktittel Id="i1010987">
+            <Saktittel Id="i1011297">
               <A>Innstilling fra kontroll- og konstitusjonskomiteen
 om statsrådets protokoller for tidsrommet 1. januar–30. juni 2025 <Uth Type="RETT">(Innst. 85 S (2025–2026))</Uth></A>
             </Saktittel>
@@ -2805,14 +2804,14 @@ om statsrådets protokoller for tidsrommet 1. januar–30. juni 2025 <Uth Type="
               <Navn>Presidenten [12:55:25]:</Navn> Ingen har bedt
 om ordet.</A>
           </Presinnlegg>
-          <Referanse Id="i1010989" voteringsDato="2026-01-29" debattDato="2026-01-29" saksKartNr="4" />
+          <Referanse Id="i1011299" voteringsDato="2026-01-29" debattDato="2026-01-29" saksKartNr="4" />
         </Sak>
-        <Sak Id="i1010991" saksKartNr="5" sakID="103814">
+        <Sak Id="i1011301" saksKartNr="5" sakID="103814">
           <Sakshode>
             <Saknr>
               <Uth Type="Sperret">Sak
 nr. 5</Uth> [12:55:30]</Saknr>
-            <Saktittel Id="i1010995">
+            <Saktittel Id="i1011305">
               <A>Innstilling fra kontroll- og konstitusjonskomiteen
 om Riksrevisjonens undersøking om reduksjon av klimagassutslepp
 frå jordbruket <Uth Type="RETT">(Innst. 69 S (2025–2026), jf.
@@ -2830,7 +2829,7 @@ regjeringen. </A>
 fra medlemmer av regjeringen, og de som måtte tegne seg på talerlisten
 utover den fordelte taletid, får en taletid på inntil 3 minutter.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1010997">
+          <Hovedinnlegg Id="i1011307">
             <A>
               <Navn personID="LARREM">
 Lars Rem (FrP) [12:56:07]</Navn> (ordfører for saken): På vegne
@@ -2895,7 +2894,7 @@ og anbefaler Stortinget å fatte følgende vedtak: </A>
 om reduksjon av klimagassutslepp frå jordbruket – vedlegges protokollen.»</A>
             </Sitat>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1010999">
+          <Hovedinnlegg Id="i1011309">
             <A>
               <Navn personID="JULSTU">
 Julie E. Stuestøl (MDG) [13:01:23]:</Navn> Den globale temperaturen
@@ -2927,9 +2926,9 @@ denne planen. Den heter Veikart for et levende norsk landbruk i
 et netto-null Norge. Den ligger gratis på internett. Den viser hvordan
 utslippene i jordbruket kan kuttes med 30 pst. innen 2030 og 67 pst.
 innen 2045, samtidig som vi styrker norsk matproduksjon.</A>
-            <A Type="Minnrykk">Regjeringen må bokstavelig og billedlig ta
-i bruk gulrøtter som virkemiddel. MDG foreslår bl.a. å fjerne moms
-på frukt og grønt og øke den på kjøtt, merkeordninger for bærekraftig
+            <A Type="Minnrykk">Regjeringen må bokstavelig og billedlig talt
+ta i bruk gulrøtter som virkemiddel. MDG foreslår bl.a. å fjerne
+moms på frukt og grønt og øke den på kjøtt, merkeordninger for bærekraftig
 matvalg, vegetarmat i offentlige institusjoner og innkjøpsavtaler,
 å flytte støtte fra husdyr til korn og grøntproduksjon sammen med
 tilskudd til omstilling, og å styrke korn-, frukt- og grøntproduksjon
@@ -2984,7 +2983,7 @@ norsk beredskap og vår evne til å takle et klima i endring.</A>
             <A Type="Minnrykk">Arbeidet kan ikke skyves på. Det må tas på
 alvor, og det må starte nå.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1011001">
+          <Hovedinnlegg Id="i1011311">
             <A>
               <Navn personID="RONAUK">
 Ronny Aukrust (A) [13:06:33]:</Navn> I Norge har vi godt over 36 000
@@ -3055,7 +3054,7 @@ klima- og helsemyndighetene jobbe tettere sammen. At Helse- og omsorgsdepartemen
 nå involveres sterkere i jordbruksforhandlingene, er både klokt
 og framtidsrettet. </A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1011003">
+          <Hovedinnlegg Id="i1011313">
             <A>
               <Navn personID="GP">
 Geir Pollestad (Sp) [13:11:28]:</Navn> Som bakteppe for denne diskusjonen
@@ -3099,7 +3098,7 @@ som då skal bidra til utslepp. Me må forhalda oss til den handlekorga
 folk har, og at i eit liberalt samfunn bestemmer folk sjølve kva
 dei vel å handla. Det er det politikken må ta omsyn til.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1011005">
+          <Hovedinnlegg Id="i1011315">
             <A>
               <Navn personID="ANDERI">
 Statsråd Andreas Bjelland Eriksen [13:15:20]:</Navn> Jeg vil takke
@@ -3176,7 +3175,7 @@ et sunt kosthold. </A>
             <A>
               <Navn>Presidenten [13:19:53]:</Navn> Det blir replikkordskifte.</A>
           </Presinnlegg>
-          <Replikk Id="i1011007">
+          <Replikk Id="i1011317">
             <A>
               <Navn personID="JULSTU">
 Julie E. Stuestøl (MDG) [13:20:08]:</Navn> Jeg vil gjerne komme
@@ -3192,7 +3191,7 @@ utslippene fra myrene som er drenert, vil utslippene fra jordbruket
             <A Type="Minnrykk">Jeg vil derfor spørre statsråden: Hvordan vil
 regjeringen sørge for at ikke nydyrking av myr bidrar til økte utslipp framover?</A>
           </Replikk>
-          <Replikk Id="i1011009">
+          <Replikk Id="i1011319">
             <A>
               <Navn personID="ANDERI">
 Statsråd Andreas Bjelland Eriksen [13:21:02]:</Navn> Jeg takker
@@ -3216,7 +3215,7 @@ hensyn.</A>
               <Navn>Presidenten [13:22:02]:</Navn> Replikkordskiftet
 er omme.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1011011">
+          <Hovedinnlegg Id="i1011321">
             <A>
               <Navn personID="NKS">
 Statsråd Nils Kristen Sandtrøen [13:22:18]:</Navn> Riksrevisjonen
@@ -3289,7 +3288,7 @@ arbeid, og der skal vi balansere de hensynene.</A>
             <A>
               <Navn>Presidenten [13:27:22]:</Navn> Det blir replikkordskifte.</A>
           </Presinnlegg>
-          <Replikk Id="i1011013">
+          <Replikk Id="i1011323">
             <A>
               <Navn personID="JULSTU">
 Julie E. Stuestøl (MDG) [13:27:38]:</Navn> Vi har nå fått høre fra
@@ -3306,31 +3305,32 @@ og er regjeringen klar for å samarbeide med MDG seriøst framover
 for å sørge for at vi raskt tar grep om klimagasskuttene i landbruket
 og sikrer norsk selvforsyning?</A>
           </Replikk>
-          <Replikk Id="i1011015">
+          <Replikk Id="i1011325">
             <A>
               <Navn personID="NKS">
 Statsråd Nils Kristen Sandtrøen [13:28:30]:</Navn> Svaret er ja.
 Vi vil samarbeide med både MDG og alle de andre partiene som er
 representert i både næringskomiteen og energi- og miljøkomiteen.
 Selv har jeg hatt glede av å ha gode samtaler med representanten
-Une Aina Bastholm i starten av min tid som landbruks- og matminister,
+Une Bastholm i starten av min tid som landbruks- og matminister,
 og vi har allerede lagt en plan for hvordan vi skal øke selvforsyningen
 av mat produsert på norske ressurser. I praksis betyr det at vi
-må produsere mer planter, både som mat til folk og som fôr til dyrene våre.
-I årets jordbruksavtale har vi f.eks. gjort to nye grep. Vi har
-innført et eget tilskudd for produksjon av økologiske grønnsaker,
-noe vi ikke har hatt tidligere – det tror jeg er en sak MDG er enig
-i. Og vi setter en tydelig retning på at mer av kornet som produseres
+må produsere mer planter, både som mat til folk og som fôr til dyrene
+våre. I årets jordbruksavtale har vi f.eks. tatt to nye grep. Vi
+har innført et eget tilskudd for produksjon av økologiske grønnsaker,
+noe vi ikke har hatt tidligere – det tror jeg er en sak MDG er enig i.
+Og vi setter en tydelig retning på at mer av kornet som produseres
 i Norge, skal gå til mat til folk, altså vårt daglige brød. Det
 er tiltak som vil øke både den reelle selvforsyningen og beredskapen,
 samtidig som det reduserer utslipp.</A>
           </Replikk>
-          <Replikk Id="i1011017">
+          <Replikk Id="i1011327">
             <A>
               <Navn personID="JULSTU">
 Julie E. Stuestøl (MDG) [13:29:33]:</Navn> Takk for svaret. Jeg
 er glad for og ser fram til videre samarbeid med regjeringen og
-statsråden om dette. De siste dagene har det vært flere nyhetsoppslag
+statsråden om dette. </A>
+            <A Type="Minnrykk">De siste dagene har det vært flere nyhetsoppslag
 om metanhemmere som en del av klimaløsningen. Å lene seg på metanhemmere
 alene har nok kanskje vært komfortabelt, og det ser bra ut i regnskapet,
 men det er andre grep som vil være langt mer effektive. For eksempel
@@ -3340,9 +3340,9 @@ jordbruk og jordforbedring for lave og må økes. Det samme gjelder
 tilskudd til biogass og annen ny klimateknologi for håndtering av
 husdyrgjødsel på gårdene og omstilling til grønn produksjon. Jeg
 vil gjerne spørre statsråden hva Arbeiderpartiet og regjeringen
-nå tenker om bruk av metanhemmere i norsk jordbruk?</A>
+nå tenker om bruk av metanhemmere i norsk jordbruk.</A>
           </Replikk>
-          <Replikk Id="i1011019">
+          <Replikk Id="i1011329">
             <A>
               <Navn personID="NKS">
 Statsråd Nils Kristen Sandtrøen [13:30:28]:</Navn> Det har vi svart
@@ -3350,13 +3350,13 @@ på også i skriftlig svar til næringskomiteen på Dokument 8-forslag
 som nå ligger til behandling: Vi har registrert at Tine har tatt
 sitt standpunkt knyttet til enkeltproduktet Bovaer, men samtidig
 er vi tydelig på at det arbeidet MetanHUB gjør ved å finne ut hva
-slags fôr-råvarer vi kan bruke, som gir mer effektivitet i produksjonen
-og lavere utslipp, må fortsette. For det er slik at MetanHUB også
-sjekker naturlige fôrtilsetninger bl.a., som fett og planteoljer,
-for å se hvordan det kan implementeres til norske forhold. Representanten hadde
+slags fôrråvarer vi kan bruke, som gir mer effektivitet i produksjonen
+og lavere utslipp, må fortsette. Det er slik at MetanHUB også sjekker
+naturlige fôrtilsetninger, bl.a., som fett og planteoljer, for å
+se hvordan det kan implementeres til norske forhold. Representanten hadde
 også et bredere spørsmål som gjaldt jordbearbeiding. Der har vi
 gjort et veldig viktig arbeid sammen med faglagene, sammen med Klima-
-og miljødepartementet bl.a. rundt Oslofjorden, som først og fremst
+og miljødepartementet, bl.a. rundt Oslofjorden, som først og fremst
 handler om bedre vannkvalitet. Men redusert jordbearbeiding og bruk
 av fangvekster er også positivt i klimasammenheng for å redusere
 utslipp og øke opptaket av karbon. </A>
@@ -3368,7 +3368,7 @@ er omme, og vi går videre på talerlisten. – Unnskyld, det kom litt
 sent, men godt allikevel: Pollestad har bedt om en replikk. Da må
 jeg be statsråden komme tilbake til talerstolen.</A>
           </Presinnlegg>
-          <Replikk Id="i1011021">
+          <Replikk Id="i1011331">
             <A>
               <Navn personID="GP">
 Geir Pollestad (Sp) [13:32:03]:</Navn> La meg starta med å unnskylda
@@ -3386,13 +3386,13 @@ for landbrukspolitikken til regjeringa – at kosthaldsråda framleis
 er baserte på helse og ikkje er eit verkemiddel for klima og miljø
 i jordbruket.</A>
           </Replikk>
-          <Replikk Id="i1011023">
+          <Replikk Id="i1011333">
             <A>
               <Navn personID="NKS">
 Statsråd Nils Kristen Sandtrøen [13:33:06]:</Navn> Han trykket sent,
 og så får nasjonalforsamlingen vurdere om spørsmålet var godt, men
 det er i hvert fall sånn at vi er levende opptatt av å produsere
-mer mat direkte til folk. Det at vi produserer mer f.eks. hvete,
+mer mat direkte til folk. Det at vi produserer mer av f.eks. hvete,
 som inngår i brød og bakervarer, er bra for både selvforsyning og
 kosthold. Det at vi har lagt opp til å produsere mer grønt, eksempelvis
 ved at vi forsterker produksjonen av potet eller rotvekster, er
@@ -3404,7 +3404,7 @@ med faglagene i jordbruksavtalen, så vi produserer det forbrukeren
 etterspør. Vi skal sørge for at den maten har den beste kvaliteten,
 sånn at du og jeg har tilgang på det vi ønsker, når vi trenger det.</A>
           </Replikk>
-          <Replikk Id="i1011025">
+          <Replikk Id="i1011335">
             <A>
               <Navn personID="GP">
 Geir Pollestad (Sp) [13:34:03]:</Navn> Eg er glad for svaret, at det
@@ -3412,15 +3412,16 @@ vart sagt at jordbruket skal produsera det som forbrukarane etterspør.
 Det er for så vidt heile kjernen: at ein ikkje byggjer opp ein landbrukspolitikk
 der ein trur at etterspørselen vert bestemt av produksjonen, men
 at det er meir produksjonen som er tilpassa etterspørselen. Det
-er eg glad for at statsråden bekreftar. Denne rapporten har sett
-på politikken for 2016 til 2024 som hovudår. No er vi i 2026, og
-det må seiast at den sikkerheitspolitiske situasjonen er kraftig
-endra. For Senterpartiet er det – og det har det òg vore, og er
-framleis, for Stortinget – sånn at klima skal målast på utslepp
-per produsert eining. Er statsråden einig i at det er det beste
-målet på om norsk landbruk klarar å kutta utslepp?</A>
+er eg glad for at statsråden bekreftar. </A>
+            <A Type="Minnrykk">Denne rapporten har sett på politikken for
+2016 til 2024 som hovudår. No er vi i 2026, og det må seiast at
+den sikkerheitspolitiske situasjonen er kraftig endra. For Senterpartiet
+er det – og det har det òg vore, og er framleis, for Stortinget
+– sånn at klima skal målast på utslepp per produsert eining. Er statsråden
+einig i at det er det beste målet på om norsk landbruk klarar å
+kutta utslepp?</A>
           </Replikk>
-          <Replikk Id="i1011027">
+          <Replikk Id="i1011337">
             <A>
               <Navn personID="NKS">
 Statsråd Nils Kristen Sandtrøen [13:35:01]:</Navn> Statsråden følger
@@ -3445,24 +3446,24 @@ omme. </A>
             <A Type="Minnrykk">De talere som heretter får ordet, har en taletid
 på inntil 3 minutter.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1011029">
+          <Hovedinnlegg Id="i1011339">
             <A>
               <Navn personID="PTA">
-Per-Willy Amundsen (FrP) [13:36:22]:</Navn> Jeg tillater meg å henvise
-til at dette ikke er den store klimadebatten, en debatt som handler
-om hvorvidt disse noe stratosfæriske mål som man har satt seg politisk
-om kutt i CO<Sub>2</Sub>, har blitt realisert. Det har de selvfølgelig
-ikke, for det var jo umulig i utgangspunktet. Det er det Riksrevisjonen
-har gjort; det er ikke noe stillingtagen til innhold og mål, men
-til om man i praksis har klart å følge opp de politiske målsettingene
-man har satt seg. De er jo urealistiske i utgangspunktet. I den
-siste varianten skal man kutte 70–75 pst. av klimagassutslippene
-fram til 2030–2035. Det vil si at man flytter det fremover noen
-år, sånn at det er andre politikere som får ansvaret når man ikke klarer
-å oppfylle det, og man antar at man skal kunne kutte utslippene
-enda mer – selvfølgelig urealistisk. Det mener også Fremskrittspartiet.
-Derfor har vi en grunnleggende annen klimapolitikk enn det flertallet
-i Stortinget står for. </A>
+Per-Willy Amundsen (FrP) [13:36:22]</Navn> (komiteens leder): Jeg
+tillater meg å henvise til at dette ikke er den store klimadebatten,
+en debatt som handler om hvorvidt disse noe stratosfæriske mål som
+man har satt seg politisk om kutt i CO<Sub>2</Sub>, har blitt realisert.
+Det har de selvfølgelig ikke, for det var jo umulig i utgangspunktet.
+Det er det Riksrevisjonen har gjort; det er ikke noe stillingtagen
+til innhold og mål, men til om man i praksis har klart å følge opp
+de politiske målsettingene man har satt seg. De er jo urealistiske
+i utgangspunktet. I den siste varianten skal man kutte 70–75 pst.
+av klimagassutslippene fram til 2030–2035. Det vil si at man flytter
+det fremover noen år, sånn at det er andre politikere som får ansvaret
+når man ikke klarer å oppfylle det, og man antar at man skal kunne
+kutte utslippene enda mer – selvfølgelig urealistisk. Det mener
+også Fremskrittspartiet. Derfor har vi en grunnleggende annen klimapolitikk
+enn den flertallet i Stortinget står for. </A>
             <A Type="Minnrykk">Når vi gjennom merknader påpeker og støtter
 flertallet i den kritikken som fremkommer, er det fordi man setter
 seg politiske mål som man ikke klarer å gjennomføre, og det er det
@@ -3493,26 +3494,26 @@ at man gjennomfører så sterke kutt i klimatiltakene.</A>
               <Navn>Presidenten [13:39:23]:</Navn> Flere har ikke
 bedt om ordet til sak nr. 5.</A>
           </Presinnlegg>
-          <Referanse Id="i1011031" voteringsDato="2026-01-29" debattDato="2026-01-29" saksKartNr="5" />
+          <Referanse Id="i1011341" voteringsDato="2026-01-29" debattDato="2026-01-29" saksKartNr="5" />
         </Sak>
-        <Sak Id="i1011033" saksKartNr="6" sakID="104767">
+        <Sak Id="i1011343" saksKartNr="6" sakID="104767">
           <Sakshode>
             <Saknr>
               <Uth Type="Sperret">Sak
 nr. 6</Uth> [13:39:29]</Saknr>
-            <Saktittel Id="i1011037">
+            <Saktittel Id="i1011347">
               <A>Innstilling fra kontroll- og konstitusjonskomiteen
 om Riksrevisjonen si undersøking av bruk av teknologi for å flytte
 spesialisthelsetenester nær pasienten <Uth Type="RETT">(Innst.
 84 S (2025–2026), jf. Dokument 3:3 (2025–2026))</Uth></A>
             </Saktittel>
           </Sakshode>
-          <Hovedinnlegg Id="i1011039">
+          <Hovedinnlegg Id="i1011349">
             <A>
               <Navn personID="AICS">
 Aina Stenersen (FrP) [13:40:06]</Navn> (ordfører for saken): Komiteen
 har lagt fram sin innstilling om Riksrevisjonens undersøkelse, Dokument
-3:3 for 2025–2026, av bruk av teknologi for å flytte spesialisthelsetjenesten
+3:3 for 2025–2026, om bruk av teknologi for å flytte spesialisthelsetjenesten
 nær pasienten. Målet med rapporten har vært å vurdere arbeidet til
 spesialisthelsetjenesten nær pasientene ved hjelp av teknologi.
 Det har også vært et mål å vurdere om styring og virkemidler er
@@ -3529,10 +3530,10 @@ av god kvalitet og bremse økningen i behovet for personell i primær-
 og spesialisthelsetjenesten.</A>
             <A Type="Minnrykk">Komiteen har i sin innstilling sluttet seg
 til de fire konklusjonene fra Riksrevisjonen:</A>
-            <Liste Type="Num">
+            <Liste Type="Strek">
               <Pkt>
-                <A>Det er mulig å øke bruken av ulike typer
-digital hjemmeoppfølging i spesialisthelsetjenesten og samarbeide
+                <A>Det er mulig å øke bruken av ulike
+typer digital hjemmeoppfølging i spesialisthelsetjenesten og samarbeide
 mer med kommunene om dette.</A>
               </Pkt>
               <Pkt>
@@ -3587,23 +3588,23 @@ styringsdialogen med de regionale helseforetakene stille krav om
             <A Type="Minnrykk">Komiteen vil trekke fram at Riksrevisjonen
 har gjort et godt og viktig arbeid.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1011041">
+          <Hovedinnlegg Id="i1011351">
             <A>
               <Navn personID="JANVES">
-Statsråd Jan Christian Vestre [13:45:17]:</Navn> Først takk til
+Statsråd Jan Christian Vestre [13:45:17]:</Navn> Først: Takk til
 saksordføreren for en god presentasjon av sakskomplekset, som jeg
 støtter og stiller meg bak. I helsetalen for to uker siden var jeg
 tydelig på at Norge i 2030 skal ha den mest digitaliserte helsetjenesten.
 Riktig bruk av teknologi er helt nødvendig for å møte de store utfordringene
 vi står overfor i helsetjenesten framover.</A>
-            <A Type="Minnrykk">Skal vi klare å gi hele befolkningen i by og
-land, øst og vest, nord og sør gode og likeverdige tjenester også
-i framtiden, må vi endre måten vi jobber på. Vi må ta i bruk teknologi på
-nye måter og vesentlig raskere enn det vi gjør i dag. Dette har
-regjeringen et klart ansvar for gjennom en tydelig politikk, gjennom
-forutsigbar finansiering, gjennom å ta bort barrierer og hindringer
-som gjør at dette arbeidet tar tid, og ikke minst gjennom å fremme
-et regelverk som bidrar til innovasjon.</A>
+            <A Type="Minnrykk">Skal vi klare å gi hele befolkningen, i by
+og land, øst og vest, nord og sør, gode og likeverdige tjenester
+også i framtiden, må vi endre måten vi jobber på. Vi må ta i bruk
+teknologi på nye måter og vesentlig raskere enn det vi gjør i dag.
+Dette har regjeringen et klart ansvar for gjennom en tydelig politikk,
+gjennom forutsigbar finansiering, gjennom å ta bort barrierer og
+hindringer som gjør at dette arbeidet tar tid, og ikke minst gjennom
+å fremme et regelverk som bidrar til innovasjon.</A>
             <A Type="Minnrykk">Det er bra at Riksrevisjonen har valgt å undersøke
 status i arbeidet med å flytte spesialisthelsetjenester hjem ved
 hjelp av teknologi. Jeg tar selvfølgelig Riksrevisjonens funn og
@@ -3642,7 +3643,7 @@ som styrker samhandling i helsetjenesten, som gir oss bedre ressursutnyttelse,
 og som gir pasientene gode, trygge og effektive tilbud over hele
 landet.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1011043">
+          <Hovedinnlegg Id="i1011353">
             <A>
               <Navn personID="KARSAN">
 Kari Baadstrand Sandnes (A) [13:49:01]:</Navn> Riksrevisjonens undersøkelse
@@ -3666,6 +3667,7 @@ hvor det går bra.</A>
             <A Type="Minnrykk">Til slutt: Det er fint å vite at vi har en
 statsråd som prioriterer arbeidet med digital hjemmeoppfølging høyt.</A>
           </Hovedinnlegg>
+          <Referanse Id="i1011355" voteringsDato="2026-02-03" debattDato="2026-01-29" saksKartNr="6" />
           <Presinnlegg>
             <A>
               <Navn>Presidenten [13:50:31]:</Navn> Flere har ikke
@@ -3678,7 +3680,7 @@ bedt om ordet til sak nr. 6.</A>
           <Merknad>
             <Handling>
               <A>
-                <Uth Type="Sperret">Morten Stordalen </Uth>overtok
+                <Uth Type="Sperret">Morten Stordalen</Uth> overtok
 her presidentplassen.</A>
             </Handling>
           </Merknad>
@@ -3687,13 +3689,13 @@ her presidentplassen.</A>
               <Navn>Presidenten [14:00:22]:</Navn> Stortinget
 går da til votering over sakene nr. 1–5 samt 11 på dagens kart.</A>
           </Presinnlegg>
-          <Voteringer Id="i1011045" saksKartNr="1" debattDato="2026-01-29" tidspunkt="1401">
+          <Voteringer Id="i1011357" saksKartNr="1" debattDato="2026-01-29" tidspunkt="1401">
             <Sakdel>
               <Tittel>Votering i sak nr. 1,
 debattert 29. januar 2026 </Tittel>
               <A>Debatt om næringsministerens handelspolitiske redegjørelse (Redegjørelsen
 holdt i Stortingets møte 27. januar 2026)</A>
-              <Referanse Id="i1011049" debattDato="20--" saksKartNr="" />
+              <Referanse Id="i1011361" debattDato="20--" saksKartNr="" />
               <Presinnlegg>
                 <A>
                   <Navn>Presidenten:</Navn> Under debatten har Bård
@@ -3736,14 +3738,14 @@ den 27. januar vedlegges protokollen.</A>
               </Votering>
             </Sakdel>
           </Voteringer>
-          <Voteringer Id="i1011051" saksKartNr="2" debattDato="2026-01-29" tidspunkt="1403" sakID="103533">
+          <Voteringer Id="i1011363" saksKartNr="2" debattDato="2026-01-29" tidspunkt="1403" sakID="103533">
             <Sakdel>
               <Tittel>Votering i sak nr. 2,
 debattert 29. januar 2026</Tittel>
-              <A Id="i1011053">Innstilling fra næringskomiteen om Lov om endringer
+              <A Id="i1011365">Innstilling fra næringskomiteen om Lov om endringer
 i anskaffelsesloven (samfunnshensyn mv.) (Innst. 38 L (2025–2026),
 jf. Prop. 147 L (2024–2025))</A>
-              <Referanse Id="i1011055" debattDato="2026-01-29" saksKartNr="2" />
+              <Referanse Id="i1011367" debattDato="2026-01-29" saksKartNr="2" />
               <Presinnlegg>
                 <A>
                   <Navn>Presidenten:</Navn> Under debatten er det
@@ -4500,14 +4502,14 @@ forutsigbarhet, langsiktighet og innovasjon.</A>
               </BokstavSeksjon>
             </VedtakS>
           </Voteringer>
-          <Voteringer Id="i1011057" saksKartNr="3" debattDato="2026-01-29" tidspunkt="1406" sakID="104382">
+          <Voteringer Id="i1011369" saksKartNr="3" debattDato="2026-01-29" tidspunkt="1406" sakID="104382">
             <Sakdel>
               <Tittel>Votering i sak nr. 3,
 debattert 29. januar 2026</Tittel>
-              <A Id="i1011059">Innstilling fra kontroll- og konstitusjonskomiteen
+              <A Id="i1011371">Innstilling fra kontroll- og konstitusjonskomiteen
 om Riksrevisjonens undersøkelse av læremidler i grunnskoler og videregående
 skoler (Innst. 83 S (2025–2026), jf. Dokument 3:17 (2024–2025))</A>
-              <Referanse Id="i1011061" debattDato="2026-01-29" saksKartNr="3" />
+              <Referanse Id="i1011373" debattDato="2026-01-29" saksKartNr="3" />
               <A Type="Blanklinjeminnrykk">Komiteen hadde innstilt til Stortinget
 å gjøre følgende</A>
             </Sakdel>
@@ -4522,14 +4524,14 @@ undersøkelse av læremidler i grunnskoler og videregående skoler
               </Votering>
             </VedtakS>
           </Voteringer>
-          <Voteringer Id="i1011063" saksKartNr="4" debattDato="2026-01-29" tidspunkt="1406" sakID="105065">
+          <Voteringer Id="i1011375" saksKartNr="4" debattDato="2026-01-29" tidspunkt="1406" sakID="105065">
             <Sakdel>
               <Tittel>Votering i sak nr. 4,
 debattert 29. januar 2026</Tittel>
-              <A Id="i1011065">Innstilling fra kontroll- og konstitusjonskomiteen
+              <A Id="i1011377">Innstilling fra kontroll- og konstitusjonskomiteen
 om statsrådets protokoller for tidsrommet 1. januar–30. juni 2025 (Innst.
 85 S (2025–2026))</A>
-              <Referanse Id="i1011067" debattDato="2026-01-29" saksKartNr="4" />
+              <Referanse Id="i1011379" debattDato="2026-01-29" saksKartNr="4" />
               <A Type="Blanklinjeminnrykk">Komiteen hadde innstilt til Stortinget
 å gjøre følgende</A>
             </Sakdel>
@@ -4597,14 +4599,14 @@ vedkommende:</A>
               </Votering>
             </VedtakS>
           </Voteringer>
-          <Voteringer Id="i1011069" saksKartNr="5" debattDato="2026-01-29" tidspunkt="1407" sakID="103814">
+          <Voteringer Id="i1011381" saksKartNr="5" debattDato="2026-01-29" tidspunkt="1407" sakID="103814">
             <Sakdel>
               <Tittel>Votering i sak nr. 5,
 debattert 29. januar 2026</Tittel>
-              <A Id="i1011071">Innstilling fra kontroll- og konstitusjonskomiteen
+              <A Id="i1011383">Innstilling fra kontroll- og konstitusjonskomiteen
 om Riksrevisjonens undersøking om reduksjon av klimagassutslepp
 frå jordbruket (Innst. 69 S (2025–2026), jf. Dokument 3:13 (2024–2025))</A>
-              <Referanse Id="i1011073" debattDato="2026-01-29" saksKartNr="5" />
+              <Referanse Id="i1011385" debattDato="2026-01-29" saksKartNr="5" />
               <A Type="Blanklinjeminnrykk">Komiteen hadde innstilt til Stortinget
 å gjøre følgende</A>
             </Sakdel>
@@ -4620,12 +4622,12 @@ protokollen. </A>
             </VedtakS>
           </Voteringer>
         </VoteringerStart>
-        <Sakreferat Id="i1011075">
+        <Sakreferat Id="i1011387">
           <Sakshode>
             <Saknr>
               <Uth Type="Sperret">Sak
 nr. 11</Uth> [14:07:15]</Saknr>
-            <Saktittel Id="i1011077">
+            <Saktittel Id="i1011389">
               <A>Referat</A>
             </Saktittel>
           </Sakshode>
@@ -4661,7 +4663,7 @@ modellen for beregning av formuesverdi av bolig (Dokument 8:97 S
               <Navn>Presidenten:</Navn> Abid Raja har bedt om
 ordet.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1011079">
+          <Hovedinnlegg Id="i1011391">
             <A>
               <Navn personID="ABIR">
 Abid Raja (V) [14:07:50]:</Navn> Jeg vil gjerne be om at Dokument
@@ -4771,19 +4773,19 @@ om International Baccalaureate (IB) i den offentlige grunnskolen
 tilbake til behandlingen av dagens kart. </A>
           </Presinnlegg>
         </Sakreferat>
-        <Sak Id="i1011081" saksKartNr="8" sakID="103874">
+        <Sak Id="i1011393" saksKartNr="8" sakID="103874">
           <Sakshode>
             <Saknr>
               <Uth Type="Sperret">Sak
 nr. 7</Uth> [14:10:18]</Saknr>
-            <Saktittel Id="i1011085">
+            <Saktittel Id="i1011397">
               <A>Innstilling fra kontroll- og konstitusjonskomiteen
 om Riksrevisjonens undersøking av arbeidet til styresmaktene med
 samanhengande digitale tenester <Uth Type="RETT">(Innst. 81 S
 (2025–2026), jf. Dokument 3:14 (2024–2025))</Uth></A>
             </Saktittel>
           </Sakshode>
-          <Hovedinnlegg Id="i1011087">
+          <Hovedinnlegg Id="i1011399">
             <A>
               <Navn personID="GP">
 Geir Pollestad (Sp) [14:10:57]</Navn> (ordførar for saka): Eg hadde
@@ -4824,7 +4826,7 @@ frå Riksrevisjonen. Det er ein konklusjon om at det ikkje er tilstrekkeleg.
 Det reknar eg med at regjeringa har merka seg, og at det vil verta
 følgt opp.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1011089">
+          <Hovedinnlegg Id="i1011401">
             <A>
               <Navn personID="KAT">
 Statsråd Karianne O. Tung [14:13:58]:</Navn> Regjeringens mål er
@@ -4888,12 +4890,13 @@ tjenester med brukerne i sentrum, i hele landet.</A>
               <Navn>Presidenten [14:17:49]:</Navn> Flere har ikke
 bedt om ordet til sak nr. 7.</A>
           </Presinnlegg>
+          <Referanse Id="i1011403" voteringsDato="2026-02-03" debattDato="2026-01-29" saksKartNr="7" />
         </Sak>
         <Sak sakID="103977">
           <Sakshode>
             <Saknr>
               <Uth Type="Sperret">Sak nr. 8</Uth> [14:17:54]</Saknr>
-            <Saktittel Id="i1011093">
+            <Saktittel Id="i1011407">
               <A>Innstilling fra kontroll- og konstitusjonskomiteen
 om Riksrevisjonens undersøkelse av oppfølging av forbruk gjennom
 rammeavtalen for formidling av IKT-konsulenttjenester inngått av
@@ -4901,7 +4904,7 @@ DSS i 2022 <Uth Type="RETT">(Innst. 82 S (2025–2026), jf. Dokument 3:16
 (2024–2025))</Uth></A>
             </Saktittel>
           </Sakshode>
-          <Hovedinnlegg Id="i1011095">
+          <Hovedinnlegg Id="i1011409">
             <A>
               <Navn personID="GP">
 Geir Pollestad (Sp) [14:18:23]</Navn> (ordførar for saka): Saka
@@ -4936,7 +4939,7 @@ departementer følger opp funnene for å sikre at fremtidige fellesavtaler
 forvaltes i tråd med regelverket.» </A>
             </Sitat>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1011097">
+          <Hovedinnlegg Id="i1011411">
             <A>
               <Navn personID="KAT">
 Statsråd Karianne O. Tung [14:20:31]:</Navn> Høsten 2024 ble rammeavtalen
@@ -4987,13 +4990,14 @@ Det gjelder særlig IKT-relatert kompetanse og andre typer spesialkompetanse.</A
               <Navn>Presidenten [14:23:28]:</Navn> Flere har ikke
 bedt om ordet til sak nr. 8.</A>
           </Presinnlegg>
+          <Referanse Id="i1011413" voteringsDato="2026-02-03" debattDato="2026-01-29" saksKartNr="8" />
         </Sak>
-        <Sak Id="i1011099" saksKartNr="9" sakID="104876">
+        <Sak Id="i1011415" saksKartNr="9" sakID="104876">
           <Sakshode>
             <Saknr>
               <Uth Type="Sperret">Sak
 nr. 9</Uth> [14:23:32]</Saknr>
-            <Saktittel Id="i1011103">
+            <Saktittel Id="i1011419">
               <A>Innstilling fra energi- og miljøkomiteen
 om Representantforslag fra stortingsrepresentantene Grunde Almeland, Guri
 Melby og Abid Raja om en plan som sørger for at Norge kutter utslipp
@@ -5011,7 +5015,7 @@ fra energi- og miljøkomiteen vil presidenten ordne debatten slik:
 fra medlemmer av regjeringen. De som måtte tegne seg på talerlisten utover
 den fordelte taletid, får også en taletid på inntil 3 minutter.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1011105">
+          <Hovedinnlegg Id="i1011421">
             <A>
               <Navn personID="LIM">
 Linda Monsen Merkesdal (A) [14:24:24]</Navn> (ordførar for saka):
@@ -5037,7 +5041,7 @@ og miljøkomiteen vil eg seia at Arbeidarpartiet støttar intensjonen
 i fleire av forslaga, og viser til at mange av dei allereie er under utgreiing
 eller inngår i igangsett politikk.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1011107">
+          <Hovedinnlegg Id="i1011423">
             <A>
               <Navn personID="RIKSPE">
 Rikard Spets (FrP) [14:26:20]:</Navn> Klima- og miljødebatten er
@@ -5079,14 +5083,14 @@ faktiske reduksjoner i klimagassutslipp.</A>
               <Navn>Presidenten [14:28:38]:</Navn> Representanten
 Rikard Spets har tatt opp de forslagene han refererte til.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1011109">
+          <Hovedinnlegg Id="i1011425">
             <A>
               <Navn personID="KARBJR">
 Kari Sofie Bjørnsen (H) [14:28:58]:</Navn> Høyre ser flere gode
 intensjoner i Venstres 42 forslag, men vi vil allikevel peke på
 følgende: </A>
             <A Type="Minnrykk">I behandlingen av klimameldingen i juni 2025
-fikk Høyre et viktig gjennomslag i et vedtak da, som lyder slik:</A>
+fikk Høyre et viktig gjennomslag i et vedtak som lyder slik:</A>
             <Sitat Type="Minnrykk">
               <A>«Stortinget ber regjeringen komme tilbake
 til Stortinget i løpet av neste stortingsperiode med en felles klima-
@@ -5114,7 +5118,7 @@ fremmet en rekke forslag innenfor sirkulærøkonomi. </A>
             <A Type="Minnrykk">Vi oppfordrer regjeringen til rask framdrift
 i oppfølgingen av rapporten fra ekspertgruppen.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1011111">
+          <Hovedinnlegg Id="i1011427">
             <A>
               <Navn personID="MARVEA">
 Marit Vea (V) [14:31:07]:</Navn> Det er to ting som bekymrer meg
@@ -5135,19 +5139,19 @@ for klimaet. En annen ting er at alt dette snakket fra regjeringen
 om at klimaet er viktig, uten at de faktisk gjør det som skal til,
 bidrar til at folk mister motet. Hvorfor skal vi høre på politikere
 som snakker om at klimaet er viktig, og gjøre den ekstra innsatsen
-for å kutte egne utslipp, når ikke Norges regjering selv tar bryet
+for å kutte egne utslipp, når Norges regjering selv ikke tar bryet
 med å gjøre det samme?</A>
             <A Type="Minnrykk">I dag fremmer Venstre en klimaplan med 43 tiltak
 som vi vet vil kutte utslippene. Regjeringen stemmer ned alle sammen,
 inkludert forslag som de selv har lovet, som momsfritak på brukte
-klær – et enkelt tiltak som er bra både for lommeboka og for kloden
+klær – et enkelt tiltak som er bra for både lommeboka og for kloden
 vår.</A>
             <A Type="Minnrykk">I Norge har vi lang tradisjon for at partier
 finner sammen om de store og viktige sakene. Når vi står i en krise,
 lytter vi til hverandre, vi legger partipolitikken til side og forenes
 om løsninger. Klima skulle ha vært en slik sak, for det finnes løsninger,
 og vi vet hva som skal til. Det handler ikke om å gjøre livet surt,
-snarere tvert imot, det handler om å gjøre det enkelt for både folk
+snarere tvert imot. Det handler om å gjøre det enkelt for både folk
 og næringsliv å ta grønne valg. Det handler om å gjøre det lønnsomt
 å investere i moderne løsninger som kutter både kostnader og utslipp. </A>
             <A Type="Minnrykk">Det er bare å spørre yrkessjåfører som bytter
@@ -5167,22 +5171,22 @@ ofte sier det rette, igjen velger å ikke gjøre det rette. </A>
               <Navn>Presidenten [14:33:54]:</Navn> Da har representanten
 Marit Vea tatt opp de forslagene hun refererte til.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1011113">
+          <Hovedinnlegg Id="i1011429">
             <A>
               <Navn personID="ANDERI">
-Statsråd Andreas Bjelland Eriksen (A) [14:34:08]:</Navn> Når vi
-ser hvilke konsekvenser klimaendringene bringer, ser vi også hvor
-viktig det er at vi når klimamålene. Da er det gledelig at norske
-utslipp er på vei nedover. Norge har kuttet utslippene med 13 pst.
-siden 1990, men det er mye som gjenstår, og det er godt å se at
-vi har fått fart på utslippskuttene de siste årene. </A>
+Statsråd Andreas Bjelland Eriksen [14:34:08]:</Navn> Når vi ser
+hvilke konsekvenser klimaendringene bringer, ser vi også hvor viktig
+det er at vi når klimamålene. Da er det gledelig at norske utslipp
+er på vei nedover. Norge har kuttet utslippene med 13 pst. siden
+1990, men det er mye som gjenstår, og det er godt å se at vi har
+fått fart på utslippskuttene de siste årene. </A>
             <A Type="Minnrykk">I Klimameldingen 2035 staker vi derfor ut kursen
 for klimapolitikken fram mot nytt Paris-mål i 2035 og videre mot lavutslippssamfunnet
 i 2050. Budsjettforliket med Rødt, SV, MDG og Senterpartiet viser
 at det er bred støtte i Stortinget for regjeringens ambisiøse klimapolitikk.
 Dette gir oss grunnlaget vi trenger for å følge opp klimameldingen
-og klimastatus og -plan, og på den måten sørger for at Norge når
-sine klimamål.</A>
+og klimastatus og -plan, og på den måten sørger vi for at Norge
+når sine klimamål.</A>
             <A Type="Minnrykk">Et av våre mest effektive virkemidler er prinsippet
 om at det skal lønne seg å velge grønt, og at det skal koste å forurense.
 Kvotesystemet er en sentral del av norsk klimapolitikk, det samme
@@ -5195,7 +5199,7 @@ gjør vi det enklere for næringslivet å omstille seg. I tillegg stiller
 vi krav for å framskynde omstillingen, som eksempelvis økt omsetningskrav
 for biodrivstoff, forbud mot fossil gass til byggvarme og ny matsvinnlov.</A>
             <A Type="Minnrykk">Arbeidet med å stoppe klimaendringene skjer
-ikke i Norge alene, det krever internasjonalt samarbeid. Derfor
+ikke i Norge alene. Det krever internasjonalt samarbeid. Derfor
 er det avgjørende at vi står sammen med våre internasjonale partnere
 for å kutte utslipp og nå våre klimamål. Internasjonalt er EU vår
 viktigste samarbeidspartner. Norge er allerede godt integrert i
@@ -5203,7 +5207,7 @@ EUs klimapolitikk fram mot 2030, og vi bør ta sikte på å videreføre
 dette samarbeidet for sammen å nå 2035-målene. Å samarbeide med
 EU på klimaområdet gir oss stabilitet, forutsigbarhet og felles
 mål, som sikrer norsk konkurransekraft og en trygg vei mot lavutslippssamfunnet
-og også kanskje aller viktigst, en klimapolitikk som virker.</A>
+– og kanskje aller viktigst: en klimapolitikk som virker.</A>
             <A Type="Minnrykk">Vi står midt i en avgjørende tid. Klimautfordringene
 vil bare bli større dersom vi ikke handler raskt og målrettet. Det krever
 politisk vilje, samarbeid og langsiktig satsing for å nå målene.
@@ -5221,7 +5225,7 @@ hver eneste dag rundt omkring i hele landet.</A>
             <A>
               <Navn>Presidenten [14:37:10]:</Navn> Det blir replikkordskifte.</A>
           </Presinnlegg>
-          <Replikk Id="i1011115">
+          <Replikk Id="i1011431">
             <A>
               <Navn personID="MARVEA">
 Marit Vea (V) [14:37:26]:</Navn> Takk til statsråden for et fint innlegg.
@@ -5230,15 +5234,15 @@ at å komme inn på Stortinget i 2026 har vært litt som å ta tidsmaskinen
 tilbake til 2012, da jeg jobbet i miljøbevegelsen. Da var også oljepolitikken
 mest mulig leting, og klimapolitikken var mest mulig kvoter for
 å unngå tiltak her hjemme. I Politisk kvarter i morges hørte jeg
-at igjen er et av regjeringens viktigste grep for å kutte klimagasser
-å bruke skattepengene våre til å kutte andre steder. Det er jeg uenig
+at et av regjeringens viktigste grep for å kutte klimagasser igjen
+er å bruke skattepengene våre til å kutte andre steder. Det er jeg uenig
 i.</A>
             <A Type="Minnrykk">Det jeg lurer på, er: Hva gjør at statsråden
-er 100 pst. sikker på at dette fører til utslippsreduksjoner globalt,
-når Riksrevisjonen ga flengende kritikk for nettopp denne måten
-å løse klimaforpliktelsene våre på i 2012?</A>
+er hundre prosent sikker på at dette fører til utslippsreduksjoner
+globalt, når Riksrevisjonen ga flengende kritikk for nettopp denne
+måten å løse klimaforpliktelsene våre på i 2012?</A>
           </Replikk>
-          <Replikk Id="i1011117">
+          <Replikk Id="i1011433">
             <A>
               <Navn personID="ANDERI">
 Statsråd Andreas Bjelland Eriksen [14:38:16]:</Navn> For det første
@@ -5252,14 +5256,14 @@ for at vi skal kutte vår andel av utslippene, det er bra for Norges
 vei mot lavutslippssamfunnet, og det er bra for konkurransekraften
 til norsk industri.</A>
             <A Type="Minnrykk">Samtidig mener jeg at vi bør være åpne for
-at gode samarbeid med land som Zambia, hvor vi investerer i fornybar energi
-på en måte som kutter utslipp, og som gjør at de er bedre forberedt
+gode samarbeid med land som Zambia, hvor vi investerer i fornybar
+energi på en måte som kutter utslipp, og som gjør at de er bedre forberedt
 på de klimaendringene som kommer. Det kan være et supplement for
 å sørge for at vi også har noe fleksibilitet i måten vi gjennomfører
 klimapolitikk på, og er sikre på at vi gjennomfører en klimapolitikk
 som virker og kutter utslipp globalt.</A>
           </Replikk>
-          <Replikk Id="i1011119">
+          <Replikk Id="i1011435">
             <A>
               <Navn personID="MARVEA">
 Marit Vea (V) [14:39:18]:</Navn> Én ting er jo utslippseffekten,
@@ -5270,12 +5274,12 @@ annen ting er at vi her velger å investere mye av skattebetalernes
 penger for å få til en omstilling et annet sted, noe som for så
 vidt er bra, men som kan utsette den omstillingen vi sårt trenger
 her hjemme. Her står også næringslivet klare til gå gjennom den
-endringen de skal. De ønsker å investere i nye løsninger, de ønsker
-å kutte utslipp, og vil ikke da det å bruke mange milliarder kroner
-i utlandet forsinke nettopp de utslippskuttene vi kunne ha oppnådd
-her hjemme?</A>
+endringen de skal. De ønsker å investere i nye løsninger, og de
+ønsker å kutte utslipp. Vil ikke da det å bruke mange milliarder
+kroner i utlandet forsinke nettopp de utslippskuttene vi kunne ha
+oppnådd her hjemme?</A>
           </Replikk>
-          <Replikk Id="i1011121">
+          <Replikk Id="i1011437">
             <A>
               <Navn personID="ANDERI">
 Statsråd Andreas Bjelland Eriksen [14:39:58]:</Navn> For det første
@@ -5303,13 +5307,14 @@ på å sørge for at resten av verden kan være med og omstille seg.</A>
 er omme.</A>
             <A Type="Minnrykk">Flere har ikke bedt om ordet til sak nr. 9. </A>
           </Presinnlegg>
+          <Referanse Id="i1011439" voteringsDato="2026-02-03" debattDato="2026-01-29" saksKartNr="9" />
         </Sak>
-        <Sak Id="i1011123" saksKartNr="10" sakID="104877">
+        <Sak Id="i1011441" saksKartNr="10" sakID="104877">
           <Sakshode>
             <Saknr>
               <Uth Type="Sperret">Sak
 nr. 10</Uth> [14:41:09]</Saknr>
-            <Saktittel Id="i1011127">
+            <Saktittel Id="i1011445">
               <A>Innstilling fra energi- og miljøkomiteen
 om Representantforslag fra stortingsrepresentantene Maren Grøthe
 og Trygve Slagsvold Vedum om å stanse innføringen av ny EU-avgift
@@ -5327,7 +5332,7 @@ fra energi- og miljøkomiteen vil presidenten ordne debatten slik:
 fra medlemmer av regjeringen, og de som måtte tegne seg på talerlisten
 utover den fordelte taletid, får også en taletid på inntil 3 minutter.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1011129">
+          <Hovedinnlegg Id="i1011447">
             <A>
               <Navn personID="MARVEA">
 Marit Vea (V) [14:41:59]:</Navn> (ordfører for saken): Vi behandler
@@ -5373,7 +5378,7 @@ stemmer med en årlig kostnad på 25 000 kr. Denne typen byråkrati
 undergraver oppslutningen om det som ellers er et svært fornuftig
 regelverk.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1011131">
+          <Hovedinnlegg Id="i1011449">
             <A>
               <Navn personID="LIM">
 Linda Monsen Merkesdal (A) [14:44:54]:</Navn> Arbeidarpartiet er
@@ -5394,7 +5399,7 @@ nå klimamåla sine på ein rettferdig måte. Vi skal kutta utslepp
 utan å velta byrda over på vanlege folk. Difor vil eg rosa regjeringa
 for arbeidet med klimatiltaka.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1011133">
+          <Hovedinnlegg Id="i1011451">
             <A>
               <Navn personID="TOWA">
 Tor Mikkel Wara (FrP) [14:46:42]:</Navn> Jeg tenker jeg først vil
@@ -5440,7 +5445,7 @@ og varsler subsidiær støtte til Senterpartiets forslag.</A>
               <Navn>Presidenten [14:49:22]:</Navn> Representanten
 Tor Mikkel Wara har tatt opp det forslaget han refererte til.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1011135">
+          <Hovedinnlegg Id="i1011453">
             <A>
               <Navn personID="KARBJR">
 Kari Sofie Bjørnsen (H) [14:49:40]:</Navn> EØS-avtalen har en avgjørende
@@ -5468,7 +5473,7 @@ EØS-avtalen siden 2008. Det er Høyres politikk at Norge skal videreføre
 samarbeidet med EU om klimapolitikken for å sikre en mest mulig
 kostnadseffektiv klimapolitikk som kutter utslipp i Europa og globalt.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1011137">
+          <Hovedinnlegg Id="i1011455">
             <A>
               <Navn personID="MARGRT">
 Maren Grøthe (Sp) [14:51:42]:</Navn> Våren 2025 vedtok Stortinget
@@ -5519,7 +5524,7 @@ på. Jeg tar opp forslaget til Senterpartiet. </A>
               <Navn>Presidenten [14:54:48]:</Navn> Representanten
 Maren Grøthe har tatt opp det forslaget hun refererte til.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1011139">
+          <Hovedinnlegg Id="i1011457">
             <A>
               <Navn personID="ANDERI">
 Statsråd Andreas Bjelland Eriksen [14:55:02]:</Navn> EUs nye klimakvotesystem,
@@ -5561,7 +5566,7 @@ når sine – samtidig som vi ivaretar andre viktige samfunnshensyn.</A>
             <A>
               <Navn>Presidenten [14:57:23]:</Navn> Det blir replikkordskifte.</A>
           </Presinnlegg>
-          <Replikk Id="i1011141">
+          <Replikk Id="i1011459">
             <A>
               <Navn personID="MARGRT">
 Maren Grøthe (Sp) [14:57:40]:</Navn> Statsråden var inne på det
@@ -5575,7 +5580,7 @@ EUs nye regelverk, vil innføre kompenserende tiltak for at norske
 innbyggere og norske bedrifter ikke skal få så høye drivstoffavgifter
 i framtiden?</A>
           </Replikk>
-          <Replikk Id="i1011143">
+          <Replikk Id="i1011461">
             <A>
               <Navn personID="ANDERI">
 Statsråd Andreas Bjelland Eriksen [14:58:19]:</Navn> Jeg kan garantere
@@ -5593,7 +5598,7 @@ vi har noe bedre tid i det arbeidet. Vi skal gjøre det på en skikkelig
 og grundig måte, slik at vi skal unngå et sånt prissjokk som noen
 har vist til.</A>
           </Replikk>
-          <Replikk Id="i1011145">
+          <Replikk Id="i1011463">
             <A>
               <Navn personID="MARGRT">
 Maren Grøthe (Sp) [14:59:18]:</Navn> Det prissjokket noen har vist
@@ -5606,7 +5611,7 @@ Da vil jeg også, i forlengelsen av det, spørre statsråden om hvordan
 regjeringen nå faktisk jobber for å påvirke EU og unngå at realiteten
 blir et så stort avgiftssjokk som vi risikerer nå.</A>
           </Replikk>
-          <Replikk Id="i1011147">
+          <Replikk Id="i1011465">
             <A>
               <Navn personID="ANDERI">
 Statsråd Andreas Bjelland Eriksen [14:59:55]:</Navn> Som representanten
@@ -5622,7 +5627,7 @@ et nivå som gjør at det slår urimelig hardt ut for folk. Det kommer
 vi selvfølgelig til å være opptatt av i gjennomføringen av ETS2, både
 i EU og i Norge.</A>
           </Replikk>
-          <Replikk Id="i1011149">
+          <Replikk Id="i1011467">
             <A>
               <Navn personID="MARGRT">
 Maren Grøthe (Sp) [15:00:42]:</Navn> Jeg takker for svaret. Naturligvis
@@ -5641,7 +5646,7 @@ Vil statsråden også da være tydelig på at Norge ikke vil legge opp
 til en økning i drivstoffavgiftene, og at regjeringen ikke vil foreslå
 det i sine kommende statsbudsjetter?</A>
           </Replikk>
-          <Replikk Id="i1011151">
+          <Replikk Id="i1011469">
             <A>
               <Navn personID="ANDERI">
 Statsråd Andreas Bjelland Eriksen [15:01:35]:</Navn> En konsekvens
@@ -5659,6 +5664,7 @@ samtidig som folk kan få mer igjen, i stedet for at man svekker
 effekten av klimapolitikken, som man gjør hvis man f.eks. kompenserer gjennom
 veibruksavgiften.</A>
           </Replikk>
+          <Referanse Id="i1011471" voteringsDato="2026-02-03" debattDato="2026-01-29" saksKartNr="10" />
           <Presinnlegg>
             <A>
               <Navn>Presidenten [15:02:36]:</Navn> Replikkordskiftet

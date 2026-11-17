@@ -1,0 +1,1324 @@
+{
+  "moteid": 11666,
+  "parts": [
+    {
+      "moteid": 11666,
+      "delnr": 1,
+      "qbvid": "db7nttf5tutc73aj1dtg",
+      "mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/db/db7nuav5tutc73aj1dug/db7nkg75tutc73aj1dg0_1080p.mp4",
+      "audio_mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/db/db7nuav5tutc73aj1dug/db7nkg75tutc73aj1dg0_240p.mp4",
+      "hls_url": "https://httpcache0-90415-cacheod0.dna.contentdelivery.net/90415-cacheod0/_definst_/smil:assets/db/db7nuav5tutc73aj1dug/db7nkg75tutc73aj1dg0_240p/playlist.m3u8",
+      "tc_in_utc": "2026-10-14T07:58:00+00:00",
+      "tc_out_utc": "2026-10-14T12:31:00+00:00",
+      "duration_seconds": 16380.0,
+      "thumbnail_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/db/db7nuav5tutc73aj1dug/db7nkg75tutc73aj1dg0_1080p_5.jpeg",
+      "chapters": [
+        {
+          "start": 0.0,
+          "end": 135.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 135.0,
+          "end": 149.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 149.0,
+          "end": 169.0,
+          "name": "Tom Staahle (FrP)"
+        },
+        {
+          "start": 169.0,
+          "end": 183.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 183.0,
+          "end": 201.0,
+          "name": "Trygve Slagsvold Vedum (Sp)"
+        },
+        {
+          "start": 201.0,
+          "end": 210.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 210.0,
+          "end": 241.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 241.0,
+          "end": 352.0,
+          "name": "Martin Virkesdal Jonsterhaug (FrP)"
+        },
+        {
+          "start": 352.0,
+          "end": 468.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 468.0,
+          "end": 528.0,
+          "name": "Martin Virkesdal Jonsterhaug (FrP)"
+        },
+        {
+          "start": 528.0,
+          "end": 595.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 595.0,
+          "end": 647.0,
+          "name": "Martin Virkesdal Jonsterhaug (FrP)"
+        },
+        {
+          "start": 647.0,
+          "end": 735.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 735.0,
+          "end": 791.0,
+          "name": "Hilde Grande (FrP)"
+        },
+        {
+          "start": 791.0,
+          "end": 856.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 856.0,
+          "end": 911.0,
+          "name": "Hilde Grande (FrP)"
+        },
+        {
+          "start": 911.0,
+          "end": 978.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 978.0,
+          "end": 1036.0,
+          "name": "Tom Staahle (FrP)"
+        },
+        {
+          "start": 1036.0,
+          "end": 1105.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 1105.0,
+          "end": 1161.0,
+          "name": "Tom Staahle (FrP)"
+        },
+        {
+          "start": 1161.0,
+          "end": 1229.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 1229.0,
+          "end": 1290.0,
+          "name": "Tom Staahle (FrP)"
+        },
+        {
+          "start": 1290.0,
+          "end": 1369.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 1369.0,
+          "end": 1428.0,
+          "name": "Nikolai Astrup (H)"
+        },
+        {
+          "start": 1428.0,
+          "end": 1494.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 1494.0,
+          "end": 1555.0,
+          "name": "Nikolai Astrup (H)"
+        },
+        {
+          "start": 1555.0,
+          "end": 1588.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 1588.0,
+          "end": 1637.0,
+          "name": "Nikolai Astrup (H)"
+        },
+        {
+          "start": 1637.0,
+          "end": 1663.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 1663.0,
+          "end": 1720.0,
+          "name": "Nikolai Astrup (H)"
+        },
+        {
+          "start": 1720.0,
+          "end": 1758.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 1758.0,
+          "end": 1809.0,
+          "name": "Marthe Hammer (SV)"
+        },
+        {
+          "start": 1809.0,
+          "end": 1879.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 1879.0,
+          "end": 1921.0,
+          "name": "Marthe Hammer (SV)"
+        },
+        {
+          "start": 1921.0,
+          "end": 1990.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 1990.0,
+          "end": 2020.0,
+          "name": "Marthe Hammer (SV)"
+        },
+        {
+          "start": 2020.0,
+          "end": 2092.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 2092.0,
+          "end": 2135.0,
+          "name": "Marthe Hammer (SV)"
+        },
+        {
+          "start": 2135.0,
+          "end": 2190.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 2190.0,
+          "end": 2216.0,
+          "name": "Marthe Hammer (SV)"
+        },
+        {
+          "start": 2216.0,
+          "end": 2272.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 2272.0,
+          "end": 2334.0,
+          "name": "Trygve Slagsvold Vedum (Sp)"
+        },
+        {
+          "start": 2334.0,
+          "end": 2399.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 2399.0,
+          "end": 2449.0,
+          "name": "Trygve Slagsvold Vedum (Sp)"
+        },
+        {
+          "start": 2449.0,
+          "end": 2512.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 2512.0,
+          "end": 2562.0,
+          "name": "Trygve Slagsvold Vedum (Sp)"
+        },
+        {
+          "start": 2562.0,
+          "end": 2621.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 2621.0,
+          "end": 2682.0,
+          "name": "Trygve Slagsvold Vedum (Sp)"
+        },
+        {
+          "start": 2682.0,
+          "end": 2751.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 2751.0,
+          "end": 2795.0,
+          "name": "Trygve Slagsvold Vedum (Sp)"
+        },
+        {
+          "start": 2795.0,
+          "end": 2870.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 2870.0,
+          "end": 2931.0,
+          "name": "Mímir Kristjánsson (R)"
+        },
+        {
+          "start": 2931.0,
+          "end": 2988.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 2988.0,
+          "end": 3051.0,
+          "name": "Mímir Kristjánsson (R)"
+        },
+        {
+          "start": 3051.0,
+          "end": 3110.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 3110.0,
+          "end": 3169.0,
+          "name": "Mímir Kristjánsson (R)"
+        },
+        {
+          "start": 3169.0,
+          "end": 3236.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 3236.0,
+          "end": 3302.0,
+          "name": "Mímir Kristjánsson (R)"
+        },
+        {
+          "start": 3302.0,
+          "end": 3362.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 3362.0,
+          "end": 3420.0,
+          "name": "Mímir Kristjánsson (R)"
+        },
+        {
+          "start": 3420.0,
+          "end": 3479.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 3479.0,
+          "end": 3539.0,
+          "name": "Oda Indgaard (MDG)"
+        },
+        {
+          "start": 3539.0,
+          "end": 3604.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 3604.0,
+          "end": 3663.0,
+          "name": "Oda Indgaard (MDG)"
+        },
+        {
+          "start": 3663.0,
+          "end": 3728.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 3728.0,
+          "end": 3793.0,
+          "name": "Oda Indgaard (MDG)"
+        },
+        {
+          "start": 3793.0,
+          "end": 3849.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 3849.0,
+          "end": 3916.0,
+          "name": "Oda Indgaard (MDG)"
+        },
+        {
+          "start": 3916.0,
+          "end": 3991.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 3991.0,
+          "end": 4047.0,
+          "name": "Jorunn Gleditsch Lossius (KrF)"
+        },
+        {
+          "start": 4047.0,
+          "end": 4115.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 4115.0,
+          "end": 4169.0,
+          "name": "Jorunn Gleditsch Lossius (KrF)"
+        },
+        {
+          "start": 4169.0,
+          "end": 4235.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 4235.0,
+          "end": 4285.0,
+          "name": "Jorunn Gleditsch Lossius (KrF)"
+        },
+        {
+          "start": 4285.0,
+          "end": 4361.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 4361.0,
+          "end": 4424.0,
+          "name": "Abid Raja (V)"
+        },
+        {
+          "start": 4424.0,
+          "end": 4496.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 4496.0,
+          "end": 4561.0,
+          "name": "Abid Raja (V)"
+        },
+        {
+          "start": 4561.0,
+          "end": 4615.0,
+          "name": "Statsråd Jens Stoltenberg"
+        },
+        {
+          "start": 4615.0,
+          "end": 4635.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 4635.0,
+          "end": 4697.0,
+          "name": "Bengt Rune Strifeldt (FrP)"
+        },
+        {
+          "start": 4697.0,
+          "end": 4820.0,
+          "name": "Statsråd Marianne Sivertsen Næss"
+        },
+        {
+          "start": 4820.0,
+          "end": 4874.0,
+          "name": "Bengt Rune Strifeldt (FrP)"
+        },
+        {
+          "start": 4874.0,
+          "end": 4916.0,
+          "name": "Statsråd Marianne Sivertsen Næss"
+        },
+        {
+          "start": 4916.0,
+          "end": 4970.0,
+          "name": "Bengt Rune Strifeldt (FrP)"
+        },
+        {
+          "start": 4970.0,
+          "end": 5020.0,
+          "name": "Statsråd Marianne Sivertsen Næss"
+        },
+        {
+          "start": 5020.0,
+          "end": 5073.0,
+          "name": "Bengt Rune Strifeldt (FrP)"
+        },
+        {
+          "start": 5073.0,
+          "end": 5124.0,
+          "name": "Statsråd Marianne Sivertsen Næss"
+        },
+        {
+          "start": 5124.0,
+          "end": 5172.0,
+          "name": "Bård Ludvig Thorheim (H)"
+        },
+        {
+          "start": 5172.0,
+          "end": 5239.0,
+          "name": "Statsråd Marianne Sivertsen Næss"
+        },
+        {
+          "start": 5239.0,
+          "end": 5287.0,
+          "name": "Bård Ludvig Thorheim (H)"
+        },
+        {
+          "start": 5287.0,
+          "end": 5349.0,
+          "name": "Statsråd Marianne Sivertsen Næss"
+        },
+        {
+          "start": 5349.0,
+          "end": 5359.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 5359.0,
+          "end": 5379.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 5379.0,
+          "end": 5417.0,
+          "name": "Sylvi Listhaug (FrP)"
+        },
+        {
+          "start": 5417.0,
+          "end": 5598.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 5598.0,
+          "end": 5666.0,
+          "name": "Sylvi Listhaug (FrP)"
+        },
+        {
+          "start": 5666.0,
+          "end": 5730.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 5730.0,
+          "end": 5807.0,
+          "name": "Sylvi Listhaug (FrP)"
+        },
+        {
+          "start": 5807.0,
+          "end": 5889.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 5889.0,
+          "end": 5931.0,
+          "name": "Stig Atle Abrahamsen (FrP)"
+        },
+        {
+          "start": 5931.0,
+          "end": 6103.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 6103.0,
+          "end": 6167.0,
+          "name": "Stig Atle Abrahamsen (FrP)"
+        },
+        {
+          "start": 6167.0,
+          "end": 6234.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 6234.0,
+          "end": 6297.0,
+          "name": "Stig Atle Abrahamsen (FrP)"
+        },
+        {
+          "start": 6297.0,
+          "end": 6377.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 6377.0,
+          "end": 6409.0,
+          "name": "Kristian August Eilertsen (FrP)"
+        },
+        {
+          "start": 6409.0,
+          "end": 6547.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 6547.0,
+          "end": 6608.0,
+          "name": "Kristian August Eilertsen (FrP)"
+        },
+        {
+          "start": 6608.0,
+          "end": 6666.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 6666.0,
+          "end": 6704.0,
+          "name": "Kristian August Eilertsen (FrP)"
+        },
+        {
+          "start": 6704.0,
+          "end": 6766.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 6766.0,
+          "end": 6797.0,
+          "name": "Margret Hagerup (H)"
+        },
+        {
+          "start": 6797.0,
+          "end": 6979.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 6979.0,
+          "end": 7039.0,
+          "name": "Margret Hagerup (H)"
+        },
+        {
+          "start": 7039.0,
+          "end": 7107.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 7107.0,
+          "end": 7166.0,
+          "name": "Margret Hagerup (H)"
+        },
+        {
+          "start": 7166.0,
+          "end": 7232.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 7232.0,
+          "end": 7246.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 7246.0,
+          "end": 7283.0,
+          "name": "Kjersti Toppe (Sp)"
+        },
+        {
+          "start": 7283.0,
+          "end": 7426.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 7426.0,
+          "end": 7497.0,
+          "name": "Kjersti Toppe (Sp)"
+        },
+        {
+          "start": 7497.0,
+          "end": 7564.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 7564.0,
+          "end": 7631.0,
+          "name": "Kjersti Toppe (Sp)"
+        },
+        {
+          "start": 7631.0,
+          "end": 7700.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 7700.0,
+          "end": 7752.0,
+          "name": "Erlend Svardal Bøe (H)"
+        },
+        {
+          "start": 7752.0,
+          "end": 7936.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 7936.0,
+          "end": 8001.0,
+          "name": "Erlend Svardal Bøe (H)"
+        },
+        {
+          "start": 8001.0,
+          "end": 8066.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 8066.0,
+          "end": 8126.0,
+          "name": "Erlend Svardal Bøe (H)"
+        },
+        {
+          "start": 8126.0,
+          "end": 8202.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 8202.0,
+          "end": 8241.0,
+          "name": "Simen Velle (FrP)"
+        },
+        {
+          "start": 8241.0,
+          "end": 8363.0,
+          "name": "Statsråd Kari Nessa Nordtun"
+        },
+        {
+          "start": 8363.0,
+          "end": 8427.0,
+          "name": "Simen Velle (FrP)"
+        },
+        {
+          "start": 8427.0,
+          "end": 8485.0,
+          "name": "Statsråd Kari Nessa Nordtun"
+        },
+        {
+          "start": 8485.0,
+          "end": 8547.0,
+          "name": "Simen Velle (FrP)"
+        },
+        {
+          "start": 8547.0,
+          "end": 8631.0,
+          "name": "Statsråd Kari Nessa Nordtun"
+        },
+        {
+          "start": 8631.0,
+          "end": 8670.0,
+          "name": "Mathilde Tybring-Gjedde (H)"
+        },
+        {
+          "start": 8670.0,
+          "end": 8801.0,
+          "name": "Statsråd Kari Nessa Nordtun"
+        },
+        {
+          "start": 8801.0,
+          "end": 8859.0,
+          "name": "Mathilde Tybring-Gjedde (H)"
+        },
+        {
+          "start": 8859.0,
+          "end": 8899.0,
+          "name": "Statsråd Kari Nessa Nordtun"
+        },
+        {
+          "start": 8899.0,
+          "end": 8950.0,
+          "name": "Mathilde Tybring-Gjedde (H)"
+        },
+        {
+          "start": 8950.0,
+          "end": 8987.0,
+          "name": "Statsråd Kari Nessa Nordtun"
+        },
+        {
+          "start": 8987.0,
+          "end": 9032.0,
+          "name": "Finn Krokeide (FrP)"
+        },
+        {
+          "start": 9032.0,
+          "end": 9192.0,
+          "name": "Statsråd Marianne Sivertsen Næss"
+        },
+        {
+          "start": 9192.0,
+          "end": 9241.0,
+          "name": "Finn Krokeide (FrP)"
+        },
+        {
+          "start": 9241.0,
+          "end": 9307.0,
+          "name": "Statsråd Marianne Sivertsen Næss"
+        },
+        {
+          "start": 9307.0,
+          "end": 9350.0,
+          "name": "Finn Krokeide (FrP)"
+        },
+        {
+          "start": 9350.0,
+          "end": 9423.0,
+          "name": "Statsråd Marianne Sivertsen Næss"
+        },
+        {
+          "start": 9423.0,
+          "end": 9458.0,
+          "name": "Mahmoud Farahmand (H)"
+        },
+        {
+          "start": 9458.0,
+          "end": 9600.0,
+          "name": "Statsråd Tore Onshuus Sandvik"
+        },
+        {
+          "start": 9600.0,
+          "end": 9656.0,
+          "name": "Mahmoud Farahmand (H)"
+        },
+        {
+          "start": 9656.0,
+          "end": 9718.0,
+          "name": "Statsråd Tore Onshuus Sandvik"
+        },
+        {
+          "start": 9718.0,
+          "end": 9776.0,
+          "name": "Mahmoud Farahmand (H)"
+        },
+        {
+          "start": 9776.0,
+          "end": 9847.0,
+          "name": "Statsråd Tore Onshuus Sandvik"
+        },
+        {
+          "start": 9847.0,
+          "end": 9875.0,
+          "name": "Tom Staahle (FrP)"
+        },
+        {
+          "start": 9875.0,
+          "end": 10037.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 10037.0,
+          "end": 10076.0,
+          "name": "Tom Staahle (FrP)"
+        },
+        {
+          "start": 10076.0,
+          "end": 10124.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 10124.0,
+          "end": 10180.0,
+          "name": "Tom Staahle (FrP)"
+        },
+        {
+          "start": 10180.0,
+          "end": 10186.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 10186.0,
+          "end": 10260.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 10260.0,
+          "end": 10289.0,
+          "name": "Mari Holm Lønseth (H)"
+        },
+        {
+          "start": 10289.0,
+          "end": 10467.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 10467.0,
+          "end": 10526.0,
+          "name": "Mari Holm Lønseth (H)"
+        },
+        {
+          "start": 10526.0,
+          "end": 10588.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 10588.0,
+          "end": 10656.0,
+          "name": "Mari Holm Lønseth (H)"
+        },
+        {
+          "start": 10656.0,
+          "end": 10718.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 10718.0,
+          "end": 10731.0,
+          "name": "Bent-Joacim Bentzen (Sp)"
+        },
+        {
+          "start": 10731.0,
+          "end": 10883.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 10883.0,
+          "end": 10923.0,
+          "name": "Bent-Joacim Bentzen (Sp)"
+        },
+        {
+          "start": 10923.0,
+          "end": 10982.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 10982.0,
+          "end": 11035.0,
+          "name": "Bent-Joacim Bentzen (Sp)"
+        },
+        {
+          "start": 11035.0,
+          "end": 11117.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 11117.0,
+          "end": 11152.0,
+          "name": "Hanne Beate Stenvaag (R)"
+        },
+        {
+          "start": 11152.0,
+          "end": 11313.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 11313.0,
+          "end": 11373.0,
+          "name": "Hanne Beate Stenvaag (R)"
+        },
+        {
+          "start": 11373.0,
+          "end": 11433.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 11433.0,
+          "end": 11498.0,
+          "name": "Hanne Beate Stenvaag (R)"
+        },
+        {
+          "start": 11498.0,
+          "end": 11543.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 11543.0,
+          "end": 11587.0,
+          "name": "Lars Rem (FrP)"
+        },
+        {
+          "start": 11587.0,
+          "end": 11699.0,
+          "name": "Statsråd Kjersti Stenseng"
+        },
+        {
+          "start": 11699.0,
+          "end": 11739.0,
+          "name": "Lars Rem (FrP)"
+        },
+        {
+          "start": 11739.0,
+          "end": 11804.0,
+          "name": "Statsråd Kjersti Stenseng"
+        },
+        {
+          "start": 11804.0,
+          "end": 11864.0,
+          "name": "Lars Rem (FrP)"
+        },
+        {
+          "start": 11864.0,
+          "end": 11930.0,
+          "name": "Statsråd Kjersti Stenseng"
+        },
+        {
+          "start": 11930.0,
+          "end": 11970.0,
+          "name": "Julia Brännström Nordtug (FrP)"
+        },
+        {
+          "start": 11970.0,
+          "end": 12128.0,
+          "name": "Statsråd Kjersti Stenseng"
+        },
+        {
+          "start": 12128.0,
+          "end": 12194.0,
+          "name": "Julia Brännström Nordtug (FrP)"
+        },
+        {
+          "start": 12194.0,
+          "end": 12258.0,
+          "name": "Statsråd Kjersti Stenseng"
+        },
+        {
+          "start": 12258.0,
+          "end": 12321.0,
+          "name": "Julia Brännström Nordtug (FrP)"
+        },
+        {
+          "start": 12321.0,
+          "end": 12394.0,
+          "name": "Statsråd Kjersti Stenseng"
+        },
+        {
+          "start": 12394.0,
+          "end": 12430.0,
+          "name": "Bjørn-Kristian Svendsrud (FrP)"
+        },
+        {
+          "start": 12430.0,
+          "end": 12553.0,
+          "name": "Statsråd Kjersti Stenseng"
+        },
+        {
+          "start": 12553.0,
+          "end": 12607.0,
+          "name": "Bjørn-Kristian Svendsrud (FrP)"
+        },
+        {
+          "start": 12607.0,
+          "end": 12670.0,
+          "name": "Statsråd Kjersti Stenseng"
+        },
+        {
+          "start": 12670.0,
+          "end": 12716.0,
+          "name": "Bjørn-Kristian Svendsrud (FrP)"
+        },
+        {
+          "start": 12716.0,
+          "end": 12795.0,
+          "name": "Statsråd Kjersti Stenseng"
+        },
+        {
+          "start": 12795.0,
+          "end": 12809.0,
+          "name": "Geir Pollestad (Sp)"
+        },
+        {
+          "start": 12809.0,
+          "end": 12992.0,
+          "name": "Statsråd Nils Kristen Sandtrøen"
+        },
+        {
+          "start": 12992.0,
+          "end": 13053.0,
+          "name": "Geir Pollestad (Sp)"
+        },
+        {
+          "start": 13053.0,
+          "end": 13114.0,
+          "name": "Statsråd Nils Kristen Sandtrøen"
+        },
+        {
+          "start": 13114.0,
+          "end": 13161.0,
+          "name": "Geir Pollestad (Sp)"
+        },
+        {
+          "start": 13161.0,
+          "end": 13224.0,
+          "name": "Statsråd Nils Kristen Sandtrøen"
+        },
+        {
+          "start": 13224.0,
+          "end": 13232.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 13232.0,
+          "end": 13260.0,
+          "name": "Hege Bae Nyholt (R)"
+        },
+        {
+          "start": 13260.0,
+          "end": 13421.0,
+          "name": "Eileen Fugelsnes (A)"
+        },
+        {
+          "start": 13421.0,
+          "end": 13477.0,
+          "name": "Hege Bae Nyholt (R)"
+        },
+        {
+          "start": 13477.0,
+          "end": 13535.0,
+          "name": "Statsråd Eileen Fugelsnes"
+        },
+        {
+          "start": 13535.0,
+          "end": 13584.0,
+          "name": "Hege Bae Nyholt (R)"
+        },
+        {
+          "start": 13584.0,
+          "end": 13643.0,
+          "name": "Statsråd Eileen Fugelsnes"
+        },
+        {
+          "start": 13643.0,
+          "end": 13680.0,
+          "name": "Helge André Njåstad (FrP)"
+        },
+        {
+          "start": 13680.0,
+          "end": 13798.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 13798.0,
+          "end": 13849.0,
+          "name": "Helge André Njåstad (FrP)"
+        },
+        {
+          "start": 13849.0,
+          "end": 13908.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 13908.0,
+          "end": 13943.0,
+          "name": "Helge André Njåstad (FrP)"
+        },
+        {
+          "start": 13943.0,
+          "end": 13987.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 13987.0,
+          "end": 14004.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 14004.0,
+          "end": 14037.0,
+          "name": "Anne Kristine Linnestad (H)"
+        },
+        {
+          "start": 14037.0,
+          "end": 14123.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 14123.0,
+          "end": 14157.0,
+          "name": "Anne Kristine Linnestad (H)"
+        },
+        {
+          "start": 14157.0,
+          "end": 14179.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 14179.0,
+          "end": 14234.0,
+          "name": "Anne Kristine Linnestad (H)"
+        },
+        {
+          "start": 14234.0,
+          "end": 14303.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 14303.0,
+          "end": 14354.0,
+          "name": "Liv Gustavsen (FrP)"
+        },
+        {
+          "start": 14354.0,
+          "end": 14454.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 14454.0,
+          "end": 14523.0,
+          "name": "Liv Gustavsen (FrP)"
+        },
+        {
+          "start": 14523.0,
+          "end": 14552.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 14552.0,
+          "end": 14614.0,
+          "name": "Liv Gustavsen (FrP)"
+        },
+        {
+          "start": 14614.0,
+          "end": 14657.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 14657.0,
+          "end": 14689.0,
+          "name": "May Helen Hetland Ervik (FrP)"
+        },
+        {
+          "start": 14689.0,
+          "end": 14745.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 14745.0,
+          "end": 14773.0,
+          "name": "May Helen Hetland Ervik (FrP)"
+        },
+        {
+          "start": 14773.0,
+          "end": 14814.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 14814.0,
+          "end": 14859.0,
+          "name": "May Helen Hetland Ervik (FrP)"
+        },
+        {
+          "start": 14859.0,
+          "end": 14913.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 14913.0,
+          "end": 14933.0,
+          "name": "Bård Hoksrud (FrP)"
+        },
+        {
+          "start": 14933.0,
+          "end": 15076.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 15076.0,
+          "end": 15141.0,
+          "name": "Bård Hoksrud (FrP)"
+        },
+        {
+          "start": 15141.0,
+          "end": 15196.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 15196.0,
+          "end": 15259.0,
+          "name": "Bård Hoksrud (FrP)"
+        },
+        {
+          "start": 15259.0,
+          "end": 15319.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 15319.0,
+          "end": 15357.0,
+          "name": "Rune Midtun (FrP)"
+        },
+        {
+          "start": 15357.0,
+          "end": 15438.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 15438.0,
+          "end": 15498.0,
+          "name": "Rune Midtun (FrP)"
+        },
+        {
+          "start": 15498.0,
+          "end": 15521.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 15521.0,
+          "end": 15584.0,
+          "name": "Rune Midtun (FrP)"
+        },
+        {
+          "start": 15584.0,
+          "end": 15618.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 15618.0,
+          "end": 15665.0,
+          "name": "Amalie Gunnufsen (H)"
+        },
+        {
+          "start": 15665.0,
+          "end": 15762.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 15762.0,
+          "end": 15829.0,
+          "name": "Amalie Gunnufsen (H)"
+        },
+        {
+          "start": 15829.0,
+          "end": 15880.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 15880.0,
+          "end": 15936.0,
+          "name": "Amalie Gunnufsen (H)"
+        },
+        {
+          "start": 15936.0,
+          "end": 15971.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 15971.0,
+          "end": 16018.0,
+          "name": "Anna Molberg (H)"
+        },
+        {
+          "start": 16018.0,
+          "end": 16117.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 16117.0,
+          "end": 16179.0,
+          "name": "Anna Molberg (H)"
+        },
+        {
+          "start": 16179.0,
+          "end": 16212.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 16212.0,
+          "end": 16278.0,
+          "name": "Anna Molberg (H)"
+        },
+        {
+          "start": 16278.0,
+          "end": 16320.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 16320.0,
+          "end": 16380.0,
+          "name": "Presidenten"
+        }
+      ]
+    }
+  ]
+}

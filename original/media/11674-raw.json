@@ -1,0 +1,388 @@
+{
+  "moteid": 11674,
+  "parts": [
+    {
+      "moteid": 11674,
+      "delnr": 1,
+      "qbvid": "dbpg95n5tutc73cu69e0",
+      "mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/db/dbpg9775tutc73cu69eg/dbpg21n5tutc73cu69dg_1080p.mp4",
+      "audio_mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/db/dbpg9775tutc73cu69eg/dbpg21n5tutc73cu69dg_240p.mp4",
+      "hls_url": "https://httpcache0-90415-cacheod0.dna.contentdelivery.net/90415-cacheod0/_definst_/smil:assets/db/dbpg9775tutc73cu69eg/dbpg21n5tutc73cu69dg_240p/playlist.m3u8",
+      "tc_in_utc": "2026-11-10T08:58:02+00:00",
+      "tc_out_utc": "2026-11-10T11:26:25+00:00",
+      "duration_seconds": 8903.0,
+      "thumbnail_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/db/dbpg9775tutc73cu69eg/dbpg21n5tutc73cu69dg_1080p_5.jpeg",
+      "chapters": [
+        {
+          "start": 0.0,
+          "end": 50.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 50.0,
+          "end": 159.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 159.0,
+          "end": 202.0,
+          "name": "Statsråd Lubna Boby Jaffery"
+        },
+        {
+          "start": 202.0,
+          "end": 224.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 224.0,
+          "end": 239.0,
+          "name": "Tage Pettersen (H)"
+        },
+        {
+          "start": 239.0,
+          "end": 257.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 257.0,
+          "end": 279.0,
+          "name": "Erlend Wiborg (FrP)"
+        },
+        {
+          "start": 279.0,
+          "end": 313.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 313.0,
+          "end": 1744.0,
+          "name": "Statsråd Lubna Boby Jaffery"
+        },
+        {
+          "start": 1744.0,
+          "end": 1776.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 1776.0,
+          "end": 1810.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 1810.0,
+          "end": 1973.0,
+          "name": "Jon-Ivar Nygård (A)"
+        },
+        {
+          "start": 1973.0,
+          "end": 2151.0,
+          "name": "Erlend Wiborg (FrP)"
+        },
+        {
+          "start": 2151.0,
+          "end": 2166.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 2166.0,
+          "end": 2341.0,
+          "name": "Tage Pettersen (H)"
+        },
+        {
+          "start": 2341.0,
+          "end": 2543.0,
+          "name": "Anne Lise Gjerstad Fredlund (SV)"
+        },
+        {
+          "start": 2543.0,
+          "end": 2721.0,
+          "name": "Bengt Fasteraune (Sp)"
+        },
+        {
+          "start": 2721.0,
+          "end": 2923.0,
+          "name": "Hanne Beate Stenvaag (R)"
+        },
+        {
+          "start": 2923.0,
+          "end": 3063.0,
+          "name": "Statsråd Kjersti Stenseng"
+        },
+        {
+          "start": 3063.0,
+          "end": 3075.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 3075.0,
+          "end": 3115.0,
+          "name": "Erlend Wiborg (FrP)"
+        },
+        {
+          "start": 3115.0,
+          "end": 3175.0,
+          "name": "Statsråd Kjersti Stenseng"
+        },
+        {
+          "start": 3175.0,
+          "end": 3222.0,
+          "name": "Erlend Wiborg (FrP)"
+        },
+        {
+          "start": 3222.0,
+          "end": 3272.0,
+          "name": "Statsråd Kjersti Stenseng"
+        },
+        {
+          "start": 3272.0,
+          "end": 3314.0,
+          "name": "Erlend Wiborg (FrP)"
+        },
+        {
+          "start": 3314.0,
+          "end": 3372.0,
+          "name": "Statsråd Kjersti Stenseng"
+        },
+        {
+          "start": 3372.0,
+          "end": 3427.0,
+          "name": "Tage Pettersen (H)"
+        },
+        {
+          "start": 3427.0,
+          "end": 3498.0,
+          "name": "Statsråd Kjersti Stenseng"
+        },
+        {
+          "start": 3498.0,
+          "end": 3531.0,
+          "name": "Hanne Beate Stenvaag (R)"
+        },
+        {
+          "start": 3531.0,
+          "end": 3582.0,
+          "name": "Statsråd Kjersti Stenseng"
+        },
+        {
+          "start": 3582.0,
+          "end": 3607.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 3607.0,
+          "end": 3802.0,
+          "name": "Erlend Wiborg (FrP)"
+        },
+        {
+          "start": 3802.0,
+          "end": 3969.0,
+          "name": "Bjørn Larsen (FrP)"
+        },
+        {
+          "start": 3969.0,
+          "end": 4083.0,
+          "name": "Hanne Beate Stenvaag (R)"
+        },
+        {
+          "start": 4083.0,
+          "end": 4193.0,
+          "name": "Tage Pettersen (H)"
+        },
+        {
+          "start": 4193.0,
+          "end": 4205.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 4205.0,
+          "end": 4268.0,
+          "name": "Erlend Wiborg (FrP)"
+        },
+        {
+          "start": 4268.0,
+          "end": 4295.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 4295.0,
+          "end": 4329.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 4329.0,
+          "end": 4527.0,
+          "name": "Anne Lise Gjerstad Fredlund (SV)"
+        },
+        {
+          "start": 4527.0,
+          "end": 4714.0,
+          "name": "Malin Bye Sørensen (A)"
+        },
+        {
+          "start": 4714.0,
+          "end": 4874.0,
+          "name": "Erlend Wiborg (FrP)"
+        },
+        {
+          "start": 4874.0,
+          "end": 4891.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 4891.0,
+          "end": 5083.0,
+          "name": "Tage Pettersen (H)"
+        },
+        {
+          "start": 5083.0,
+          "end": 5283.0,
+          "name": "Bengt Fasteraune (Sp)"
+        },
+        {
+          "start": 5283.0,
+          "end": 5458.0,
+          "name": "Hanne Beate Stenvaag (R)"
+        },
+        {
+          "start": 5458.0,
+          "end": 5626.0,
+          "name": "Statsråd Kjersti Stenseng"
+        },
+        {
+          "start": 5626.0,
+          "end": 5638.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 5638.0,
+          "end": 5677.0,
+          "name": "Erlend Wiborg (FrP)"
+        },
+        {
+          "start": 5677.0,
+          "end": 5736.0,
+          "name": "Statsråd Kjersti Stenseng"
+        },
+        {
+          "start": 5736.0,
+          "end": 5792.0,
+          "name": "Erlend Wiborg (FrP)"
+        },
+        {
+          "start": 5792.0,
+          "end": 5842.0,
+          "name": "Statsråd Kjersti Stenseng"
+        },
+        {
+          "start": 5842.0,
+          "end": 5906.0,
+          "name": "Erlend Wiborg (FrP)"
+        },
+        {
+          "start": 5906.0,
+          "end": 5980.0,
+          "name": "Statsråd Kjersti Stenseng"
+        },
+        {
+          "start": 5980.0,
+          "end": 6033.0,
+          "name": "Tage Pettersen (H)"
+        },
+        {
+          "start": 6033.0,
+          "end": 6077.0,
+          "name": "Statsråd Kjersti Stenseng"
+        },
+        {
+          "start": 6077.0,
+          "end": 6096.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 6096.0,
+          "end": 6219.0,
+          "name": "Erlend Wiborg (FrP)"
+        },
+        {
+          "start": 6219.0,
+          "end": 6299.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 6299.0,
+          "end": 6917.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 6917.0,
+          "end": 6941.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 6941.0,
+          "end": 7251.0,
+          "name": "Jon Engen-Helgheim (FrP)"
+        },
+        {
+          "start": 7251.0,
+          "end": 7559.0,
+          "name": "Mari Holm Lønseth (H)"
+        },
+        {
+          "start": 7559.0,
+          "end": 7657.0,
+          "name": "Bent-Joacim Bentzen (Sp)"
+        },
+        {
+          "start": 7657.0,
+          "end": 7880.0,
+          "name": "Lars Lønberg Henriksen (MDG)"
+        },
+        {
+          "start": 7880.0,
+          "end": 8212.0,
+          "name": "June Trengereid Gruer (A)"
+        },
+        {
+          "start": 8212.0,
+          "end": 8459.0,
+          "name": "Hans Edvard Askjer (KrF)"
+        },
+        {
+          "start": 8459.0,
+          "end": 8763.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 8763.0,
+          "end": 8903.0,
+          "name": "Presidenten"
+        }
+      ]
+    },
+    {
+      "moteid": 11674,
+      "delnr": 2,
+      "qbvid": "dbpiht75tutc73cu69k0",
+      "mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/db/dbpihvv5tutc73cu69kg/dbpidan5tutc73cu69jg_1080p.mp4",
+      "audio_mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/db/dbpihvv5tutc73cu69kg/dbpidan5tutc73cu69jg_240p.mp4",
+      "hls_url": "https://httpcache0-90415-cacheod0.dna.contentdelivery.net/90415-cacheod0/_definst_/smil:assets/db/dbpihvv5tutc73cu69kg/dbpidan5tutc73cu69jg_240p/playlist.m3u8",
+      "tc_in_utc": "2026-11-10T11:38:14+00:00",
+      "tc_out_utc": "2026-11-10T14:06:02+00:00",
+      "duration_seconds": 8868.0,
+      "thumbnail_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/db/dbpihvv5tutc73cu69kg/dbpidan5tutc73cu69jg_1080p_5.jpeg",
+      "chapters": [
+        {
+          "start": 0.0,
+          "end": 8631.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 8631.0,
+          "end": 8868.0,
+          "name": "Presidenten"
+        }
+      ]
+    }
+  ]
+}

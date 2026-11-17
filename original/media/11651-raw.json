@@ -1,0 +1,699 @@
+{
+  "moteid": 11651,
+  "parts": [
+    {
+      "moteid": 11651,
+      "delnr": 1,
+      "qbvid": "d8olbnv5tutc73f4buig",
+      "mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/d8/d8olbpn5tutc73f4buj0/d8ol1in5tutc73f4bui0_1080p.mp4",
+      "audio_mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/d8/d8olbpn5tutc73f4buj0/d8ol1in5tutc73f4bui0_240p.mp4",
+      "hls_url": "https://httpcache0-90415-cacheod0.dna.contentdelivery.net/90415-cacheod0/_definst_/smil:assets/d8/d8olbpn5tutc73f4buj0/d8ol1in5tutc73f4bui0_240p/playlist.m3u8",
+      "tc_in_utc": "2026-06-16T07:58:02+00:00",
+      "tc_out_utc": "2026-06-16T13:17:54+00:00",
+      "duration_seconds": 19192.0,
+      "thumbnail_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/d8/d8olbpn5tutc73f4buj0/d8ol1in5tutc73f4bui0_1080p_5.jpeg",
+      "chapters": [
+        {
+          "start": 0.0,
+          "end": 127.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 127.0,
+          "end": 164.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 164.0,
+          "end": 184.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 184.0,
+          "end": 200.0,
+          "name": "Marthe Hammer (SV)"
+        },
+        {
+          "start": 200.0,
+          "end": 218.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 218.0,
+          "end": 261.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 261.0,
+          "end": 764.0,
+          "name": "Sigurd Kvammen Rafaelsen (A)"
+        },
+        {
+          "start": 764.0,
+          "end": 775.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 775.0,
+          "end": 817.0,
+          "name": "Erlend Wiborg (FrP)"
+        },
+        {
+          "start": 817.0,
+          "end": 874.0,
+          "name": "Sigurd Kvammen Rafaelsen (A)"
+        },
+        {
+          "start": 874.0,
+          "end": 935.0,
+          "name": "Mudassar Kapur (H)"
+        },
+        {
+          "start": 935.0,
+          "end": 1010.0,
+          "name": "Sigurd Kvammen Rafaelsen (A)"
+        },
+        {
+          "start": 1010.0,
+          "end": 1062.0,
+          "name": "Bengt Fasteraune (Sp)"
+        },
+        {
+          "start": 1062.0,
+          "end": 1091.0,
+          "name": "Sigurd Kvammen Rafaelsen (A)"
+        },
+        {
+          "start": 1091.0,
+          "end": 1106.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 1106.0,
+          "end": 2001.0,
+          "name": "Helge André Njåstad (FrP)"
+        },
+        {
+          "start": 2001.0,
+          "end": 2014.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 2014.0,
+          "end": 2059.0,
+          "name": "Sigurd Kvammen Rafaelsen (A)"
+        },
+        {
+          "start": 2059.0,
+          "end": 2126.0,
+          "name": "Helge André Njåstad (FrP)"
+        },
+        {
+          "start": 2126.0,
+          "end": 2190.0,
+          "name": "Mudassar Kapur (H)"
+        },
+        {
+          "start": 2190.0,
+          "end": 2260.0,
+          "name": "Helge André Njåstad (FrP)"
+        },
+        {
+          "start": 2260.0,
+          "end": 2310.0,
+          "name": "Solveig Vestenfor (A)"
+        },
+        {
+          "start": 2310.0,
+          "end": 2372.0,
+          "name": "Helge André Njåstad (FrP)"
+        },
+        {
+          "start": 2372.0,
+          "end": 2386.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 2386.0,
+          "end": 2907.0,
+          "name": "Mudassar Kapur (H)"
+        },
+        {
+          "start": 2907.0,
+          "end": 2922.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 2922.0,
+          "end": 2964.0,
+          "name": "Solveig Vestenfor (A)"
+        },
+        {
+          "start": 2964.0,
+          "end": 3038.0,
+          "name": "Mudassar Kapur (H)"
+        },
+        {
+          "start": 3038.0,
+          "end": 3073.0,
+          "name": "Sigurd Kvammen Rafaelsen (A)"
+        },
+        {
+          "start": 3073.0,
+          "end": 3152.0,
+          "name": "Mudassar Kapur (H)"
+        },
+        {
+          "start": 3152.0,
+          "end": 3210.0,
+          "name": "Hanne Beate Stenvaag (R)"
+        },
+        {
+          "start": 3210.0,
+          "end": 3276.0,
+          "name": "Mudassar Kapur (H)"
+        },
+        {
+          "start": 3276.0,
+          "end": 3293.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 3293.0,
+          "end": 3601.0,
+          "name": "Anne Lise Gjerstad Fredlund (SV)"
+        },
+        {
+          "start": 3601.0,
+          "end": 3615.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 3615.0,
+          "end": 3648.0,
+          "name": "Sigurd Kvammen Rafaelsen (A)"
+        },
+        {
+          "start": 3648.0,
+          "end": 3700.0,
+          "name": "Anne Lise Gjerstad Fredlund (SV)"
+        },
+        {
+          "start": 3700.0,
+          "end": 3752.0,
+          "name": "Erlend Wiborg (FrP)"
+        },
+        {
+          "start": 3752.0,
+          "end": 3819.0,
+          "name": "Anne Lise Gjerstad Fredlund (SV)"
+        },
+        {
+          "start": 3819.0,
+          "end": 3873.0,
+          "name": "Tage Pettersen (H)"
+        },
+        {
+          "start": 3873.0,
+          "end": 3937.0,
+          "name": "Anne Lise Gjerstad Fredlund (SV)"
+        },
+        {
+          "start": 3937.0,
+          "end": 3964.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 3964.0,
+          "end": 4266.0,
+          "name": "Bengt Fasteraune (Sp)"
+        },
+        {
+          "start": 4266.0,
+          "end": 4280.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 4280.0,
+          "end": 4328.0,
+          "name": "Sigurd Kvammen Rafaelsen (A)"
+        },
+        {
+          "start": 4328.0,
+          "end": 4388.0,
+          "name": "Bengt Fasteraune (Sp)"
+        },
+        {
+          "start": 4388.0,
+          "end": 4439.0,
+          "name": "Erlend Wiborg (FrP)"
+        },
+        {
+          "start": 4439.0,
+          "end": 4509.0,
+          "name": "Bengt Fasteraune (Sp)"
+        },
+        {
+          "start": 4509.0,
+          "end": 4566.0,
+          "name": "Tage Pettersen (H)"
+        },
+        {
+          "start": 4566.0,
+          "end": 4622.0,
+          "name": "Bengt Fasteraune (Sp)"
+        },
+        {
+          "start": 4622.0,
+          "end": 4645.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 4645.0,
+          "end": 4949.0,
+          "name": "Hanne Beate Stenvaag (R)"
+        },
+        {
+          "start": 4949.0,
+          "end": 4967.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 4967.0,
+          "end": 5019.0,
+          "name": "Bjørn Larsen (FrP)"
+        },
+        {
+          "start": 5019.0,
+          "end": 5082.0,
+          "name": "Hanne Beate Stenvaag (R)"
+        },
+        {
+          "start": 5082.0,
+          "end": 5141.0,
+          "name": "Bjørn Larsen (FrP)"
+        },
+        {
+          "start": 5141.0,
+          "end": 5208.0,
+          "name": "Hanne Beate Stenvaag (R)"
+        },
+        {
+          "start": 5208.0,
+          "end": 5225.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 5225.0,
+          "end": 5498.0,
+          "name": "Marius Langballe Dalin (MDG)"
+        },
+        {
+          "start": 5498.0,
+          "end": 5520.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 5520.0,
+          "end": 5586.0,
+          "name": "Rune Midtun (FrP)"
+        },
+        {
+          "start": 5586.0,
+          "end": 5663.0,
+          "name": "Marius Langballe Dalin (MDG)"
+        },
+        {
+          "start": 5663.0,
+          "end": 5709.0,
+          "name": "Sigurd Kvammen Rafaelsen (A)"
+        },
+        {
+          "start": 5709.0,
+          "end": 5780.0,
+          "name": "Marius Langballe Dalin (MDG)"
+        },
+        {
+          "start": 5780.0,
+          "end": 5832.0,
+          "name": "Bengt Fasteraune (Sp)"
+        },
+        {
+          "start": 5832.0,
+          "end": 5897.0,
+          "name": "Marius Langballe Dalin (MDG)"
+        },
+        {
+          "start": 5897.0,
+          "end": 5912.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 5912.0,
+          "end": 6212.0,
+          "name": "Ane Breivik (V)"
+        },
+        {
+          "start": 6212.0,
+          "end": 6230.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 6230.0,
+          "end": 6265.0,
+          "name": "Konstanse Marie Alvær (A)"
+        },
+        {
+          "start": 6265.0,
+          "end": 6306.0,
+          "name": "Ane Breivik (V)"
+        },
+        {
+          "start": 6306.0,
+          "end": 6334.0,
+          "name": "Konstanse Marie Alvær (A)"
+        },
+        {
+          "start": 6334.0,
+          "end": 6409.0,
+          "name": "Ane Breivik (V)"
+        },
+        {
+          "start": 6409.0,
+          "end": 6478.0,
+          "name": "Rune Midtun (FrP)"
+        },
+        {
+          "start": 6478.0,
+          "end": 6533.0,
+          "name": "Ane Breivik (V)"
+        },
+        {
+          "start": 6533.0,
+          "end": 6551.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 6551.0,
+          "end": 6840.0,
+          "name": "Statsråd Bjørnar Skjæran"
+        },
+        {
+          "start": 6840.0,
+          "end": 6854.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 6854.0,
+          "end": 6912.0,
+          "name": "Helge André Njåstad (FrP)"
+        },
+        {
+          "start": 6912.0,
+          "end": 6978.0,
+          "name": "Statsråd Bjørnar Skjæran"
+        },
+        {
+          "start": 6978.0,
+          "end": 7041.0,
+          "name": "Helge André Njåstad (FrP)"
+        },
+        {
+          "start": 7041.0,
+          "end": 7115.0,
+          "name": "Statsråd Bjørnar Skjæran"
+        },
+        {
+          "start": 7115.0,
+          "end": 7177.0,
+          "name": "Mudassar Kapur (H)"
+        },
+        {
+          "start": 7177.0,
+          "end": 7249.0,
+          "name": "Statsråd Bjørnar Skjæran"
+        },
+        {
+          "start": 7249.0,
+          "end": 7289.0,
+          "name": "Anne Lise Gjerstad Fredlund (SV)"
+        },
+        {
+          "start": 7289.0,
+          "end": 7369.0,
+          "name": "Statsråd Bjørnar Skjæran"
+        },
+        {
+          "start": 7369.0,
+          "end": 7425.0,
+          "name": "Bengt Fasteraune (Sp)"
+        },
+        {
+          "start": 7425.0,
+          "end": 7506.0,
+          "name": "Statsråd Bjørnar Skjæran"
+        },
+        {
+          "start": 7506.0,
+          "end": 7560.0,
+          "name": "Hanne Beate Stenvaag (R)"
+        },
+        {
+          "start": 7560.0,
+          "end": 7609.0,
+          "name": "Statsråd Bjørnar Skjæran"
+        },
+        {
+          "start": 7609.0,
+          "end": 7627.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 7627.0,
+          "end": 7945.0,
+          "name": "Solveig Vestenfor (A)"
+        },
+        {
+          "start": 7945.0,
+          "end": 8499.0,
+          "name": "Erlend Wiborg (FrP)"
+        },
+        {
+          "start": 8499.0,
+          "end": 8799.0,
+          "name": "Tage Pettersen (H)"
+        },
+        {
+          "start": 8799.0,
+          "end": 9110.0,
+          "name": "Isak Veierud Busch (A)"
+        },
+        {
+          "start": 9110.0,
+          "end": 9412.0,
+          "name": "Konstanse Marie Alvær (A)"
+        },
+        {
+          "start": 9412.0,
+          "end": 9429.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 9429.0,
+          "end": 9601.0,
+          "name": "Rune Midtun (FrP)"
+        },
+        {
+          "start": 9601.0,
+          "end": 9776.0,
+          "name": "Nina Dons-Hansen (H)"
+        },
+        {
+          "start": 9776.0,
+          "end": 9977.0,
+          "name": "Kathy Lie (SV)"
+        },
+        {
+          "start": 9977.0,
+          "end": 10170.0,
+          "name": "Seher Aydar (R)"
+        },
+        {
+          "start": 10170.0,
+          "end": 10367.0,
+          "name": "Bjørn Larsen (FrP)"
+        },
+        {
+          "start": 10367.0,
+          "end": 10573.0,
+          "name": "Erlend Wiborg (FrP)"
+        },
+        {
+          "start": 10573.0,
+          "end": 10770.0,
+          "name": "Bengt Fasteraune (Sp)"
+        },
+        {
+          "start": 10770.0,
+          "end": 10960.0,
+          "name": "Hanne Beate Stenvaag (R)"
+        },
+        {
+          "start": 10960.0,
+          "end": 11536.0,
+          "name": "Sofie Marhaug (R)"
+        },
+        {
+          "start": 11536.0,
+          "end": 11724.0,
+          "name": "Liv Kari Eskeland (H)"
+        },
+        {
+          "start": 11724.0,
+          "end": 11905.0,
+          "name": "Mahmoud Farahmand (H)"
+        },
+        {
+          "start": 11905.0,
+          "end": 12100.0,
+          "name": "Tom Staahle (FrP)"
+        },
+        {
+          "start": 12100.0,
+          "end": 12292.0,
+          "name": "Solveig Vestenfor (A)"
+        },
+        {
+          "start": 12292.0,
+          "end": 12471.0,
+          "name": "Kristian August Eilertsen (FrP)"
+        },
+        {
+          "start": 12471.0,
+          "end": 12665.0,
+          "name": "Oda Indgaard (MDG)"
+        },
+        {
+          "start": 12665.0,
+          "end": 12854.0,
+          "name": "Sunniva Holmås Eidsvoll (SV)"
+        },
+        {
+          "start": 12854.0,
+          "end": 13049.0,
+          "name": "Kristian August Eilertsen (FrP)"
+        },
+        {
+          "start": 13049.0,
+          "end": 13242.0,
+          "name": "Erling Sande (Sp)"
+        },
+        {
+          "start": 13242.0,
+          "end": 13435.0,
+          "name": "Stig Atle Abrahamsen (FrP)"
+        },
+        {
+          "start": 13435.0,
+          "end": 13519.0,
+          "name": "Maren Grøthe (Sp)"
+        },
+        {
+          "start": 13519.0,
+          "end": 13702.0,
+          "name": "Julia Brännström Nordtug (FrP)"
+        },
+        {
+          "start": 13702.0,
+          "end": 13893.0,
+          "name": "Bjørnar Laabak (FrP)"
+        },
+        {
+          "start": 13893.0,
+          "end": 14005.0,
+          "name": "Sigurd Kvammen Rafaelsen (A)"
+        },
+        {
+          "start": 14005.0,
+          "end": 14186.0,
+          "name": "Mudassar Kapur (H)"
+        },
+        {
+          "start": 14186.0,
+          "end": 14205.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 14205.0,
+          "end": 14282.0,
+          "name": "Bengt Fasteraune (Sp)"
+        },
+        {
+          "start": 14282.0,
+          "end": 14415.0,
+          "name": "Statsråd Bjørnar Skjæran"
+        },
+        {
+          "start": 14415.0,
+          "end": 14497.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 14497.0,
+          "end": 14674.0,
+          "name": "Lill Harriet Sandaune (FrP)"
+        },
+        {
+          "start": 14674.0,
+          "end": 14963.0,
+          "name": "Statsråd Kari Nessa Nordtun"
+        },
+        {
+          "start": 14963.0,
+          "end": 15154.0,
+          "name": "Lill Harriet Sandaune (FrP)"
+        },
+        {
+          "start": 15154.0,
+          "end": 15233.0,
+          "name": "Statsråd Kari Nessa Nordtun"
+        },
+        {
+          "start": 15233.0,
+          "end": 15417.0,
+          "name": "Julia Brännström Nordtug (FrP)"
+        },
+        {
+          "start": 15417.0,
+          "end": 15600.0,
+          "name": "Nina Dons-Hansen (H)"
+        },
+        {
+          "start": 15600.0,
+          "end": 15753.0,
+          "name": "Lill Harriet Sandaune (FrP)"
+        },
+        {
+          "start": 15753.0,
+          "end": 15929.0,
+          "name": "Statsråd Kari Nessa Nordtun"
+        },
+        {
+          "start": 15929.0,
+          "end": 18223.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 18223.0,
+          "end": 19067.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 19067.0,
+          "end": 19192.0,
+          "name": "Presidenten"
+        }
+      ]
+    }
+  ]
+}

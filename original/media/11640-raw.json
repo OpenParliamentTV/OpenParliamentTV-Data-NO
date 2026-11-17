@@ -1,0 +1,808 @@
+{
+  "moteid": 11640,
+  "parts": [
+    {
+      "moteid": 11640,
+      "delnr": 1,
+      "qbvid": "d8fd3dn5tutc73eeqok0",
+      "mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/d8/d8fd3f75tutc73eeqokg/d8fcpbf5tutc73eeqojg_1080p.mp4",
+      "audio_mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/d8/d8fd3f75tutc73eeqokg/d8fcpbf5tutc73eeqojg_240p.mp4",
+      "hls_url": "https://httpcache0-90415-cacheod0.dna.contentdelivery.net/90415-cacheod0/_definst_/smil:assets/d8/d8fd3f75tutc73eeqokg/d8fcpbf5tutc73eeqojg_240p/playlist.m3u8",
+      "tc_in_utc": "2026-06-02T07:58:01+00:00",
+      "tc_out_utc": "2026-06-02T12:18:36+00:00",
+      "duration_seconds": 15635.0,
+      "thumbnail_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/d8/d8fd3f75tutc73eeqokg/d8fcpbf5tutc73eeqojg_1080p_5.jpeg",
+      "chapters": [
+        {
+          "start": 0.0,
+          "end": 125.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 125.0,
+          "end": 206.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 206.0,
+          "end": 224.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 224.0,
+          "end": 246.0,
+          "name": "Per Vidar Kjølmoen (A)"
+        },
+        {
+          "start": 246.0,
+          "end": 256.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 256.0,
+          "end": 290.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 290.0,
+          "end": 342.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 342.0,
+          "end": 525.0,
+          "name": "Bård Hoksrud (FrP)"
+        },
+        {
+          "start": 525.0,
+          "end": 689.0,
+          "name": "Trond Helleland (H)"
+        },
+        {
+          "start": 689.0,
+          "end": 739.0,
+          "name": "Jone Blikra (A)"
+        },
+        {
+          "start": 739.0,
+          "end": 825.0,
+          "name": "Oda Indgaard (MDG)"
+        },
+        {
+          "start": 825.0,
+          "end": 844.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 844.0,
+          "end": 906.0,
+          "name": "Geir Inge Lien (Sp)"
+        },
+        {
+          "start": 906.0,
+          "end": 1017.0,
+          "name": "Jørgen H. Kristiansen (KrF)"
+        },
+        {
+          "start": 1017.0,
+          "end": 1200.0,
+          "name": "Statsråd Jon-Ivar Nygård"
+        },
+        {
+          "start": 1200.0,
+          "end": 1215.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 1215.0,
+          "end": 1340.0,
+          "name": "Bård Hoksrud (FrP)"
+        },
+        {
+          "start": 1340.0,
+          "end": 1512.0,
+          "name": "Frank Edvard Sve (FrP)"
+        },
+        {
+          "start": 1512.0,
+          "end": 1672.0,
+          "name": "Remi Sølvberg (R)"
+        },
+        {
+          "start": 1672.0,
+          "end": 1766.0,
+          "name": "Jone Blikra (A)"
+        },
+        {
+          "start": 1766.0,
+          "end": 1838.0,
+          "name": "Trond Helleland (H)"
+        },
+        {
+          "start": 1838.0,
+          "end": 2025.0,
+          "name": "Frank Edvard Sve (FrP)"
+        },
+        {
+          "start": 2025.0,
+          "end": 2126.0,
+          "name": "Statsråd Jon-Ivar Nygård"
+        },
+        {
+          "start": 2126.0,
+          "end": 2303.0,
+          "name": "Bård Hoksrud (FrP)"
+        },
+        {
+          "start": 2303.0,
+          "end": 2435.0,
+          "name": "Geir Inge Lien (Sp)"
+        },
+        {
+          "start": 2435.0,
+          "end": 2458.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 2458.0,
+          "end": 2486.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 2486.0,
+          "end": 2546.0,
+          "name": "Jone Blikra (A)"
+        },
+        {
+          "start": 2546.0,
+          "end": 2729.0,
+          "name": "Dagfinn Henrik Olsen (FrP)"
+        },
+        {
+          "start": 2729.0,
+          "end": 2747.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 2747.0,
+          "end": 2949.0,
+          "name": "Hårek Elvenes (H)"
+        },
+        {
+          "start": 2949.0,
+          "end": 3113.0,
+          "name": "Geir Inge Lien (Sp)"
+        },
+        {
+          "start": 3113.0,
+          "end": 3225.0,
+          "name": "Jørgen H. Kristiansen (KrF)"
+        },
+        {
+          "start": 3225.0,
+          "end": 3403.0,
+          "name": "Statsråd Jon-Ivar Nygård"
+        },
+        {
+          "start": 3403.0,
+          "end": 3414.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 3414.0,
+          "end": 3466.0,
+          "name": "Bent-Joacim Bentzen (Sp)"
+        },
+        {
+          "start": 3466.0,
+          "end": 3528.0,
+          "name": "Statsråd Jon-Ivar Nygård"
+        },
+        {
+          "start": 3528.0,
+          "end": 3553.0,
+          "name": "Bent-Joacim Bentzen (Sp)"
+        },
+        {
+          "start": 3553.0,
+          "end": 3592.0,
+          "name": "Statsråd Jon-Ivar Nygård"
+        },
+        {
+          "start": 3592.0,
+          "end": 3637.0,
+          "name": "Bent-Joacim Bentzen (Sp)"
+        },
+        {
+          "start": 3637.0,
+          "end": 3678.0,
+          "name": "Statsråd Jon-Ivar Nygård"
+        },
+        {
+          "start": 3678.0,
+          "end": 3695.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 3695.0,
+          "end": 3886.0,
+          "name": "Bent-Joacim Bentzen (Sp)"
+        },
+        {
+          "start": 3886.0,
+          "end": 3992.0,
+          "name": "Dagfinn Henrik Olsen (FrP)"
+        },
+        {
+          "start": 3992.0,
+          "end": 4062.0,
+          "name": "Hårek Elvenes (H)"
+        },
+        {
+          "start": 4062.0,
+          "end": 4132.0,
+          "name": "Bent-Joacim Bentzen (Sp)"
+        },
+        {
+          "start": 4132.0,
+          "end": 4182.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 4182.0,
+          "end": 4208.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 4208.0,
+          "end": 4407.0,
+          "name": "Tobias Hangaard Linge (A)"
+        },
+        {
+          "start": 4407.0,
+          "end": 4590.0,
+          "name": "Bengt Rune Strifeldt (FrP)"
+        },
+        {
+          "start": 4590.0,
+          "end": 4608.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 4608.0,
+          "end": 4773.0,
+          "name": "Bård Ludvig Thorheim (H)"
+        },
+        {
+          "start": 4773.0,
+          "end": 4788.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 4788.0,
+          "end": 4965.0,
+          "name": "Ingrid Fiskaa (SV)"
+        },
+        {
+          "start": 4965.0,
+          "end": 4975.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 4975.0,
+          "end": 5148.0,
+          "name": "Geir Pollestad (Sp)"
+        },
+        {
+          "start": 5148.0,
+          "end": 5338.0,
+          "name": "Geir Jørgensen (R)"
+        },
+        {
+          "start": 5338.0,
+          "end": 5542.0,
+          "name": "Une Bastholm (MDG)"
+        },
+        {
+          "start": 5542.0,
+          "end": 5747.0,
+          "name": "Harry Valderhaug (KrF)"
+        },
+        {
+          "start": 5747.0,
+          "end": 5927.0,
+          "name": "Statsråd Cecilie Myrseth"
+        },
+        {
+          "start": 5927.0,
+          "end": 5943.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 5943.0,
+          "end": 5969.0,
+          "name": "Geir Pollestad (Sp)"
+        },
+        {
+          "start": 5969.0,
+          "end": 6017.0,
+          "name": "Statsråd Cecilie Myrseth"
+        },
+        {
+          "start": 6017.0,
+          "end": 6062.0,
+          "name": "Geir Pollestad (Sp)"
+        },
+        {
+          "start": 6062.0,
+          "end": 6091.0,
+          "name": "Statsråd Cecilie Myrseth"
+        },
+        {
+          "start": 6091.0,
+          "end": 6121.0,
+          "name": "Geir Pollestad (Sp)"
+        },
+        {
+          "start": 6121.0,
+          "end": 6158.0,
+          "name": "Statsråd Cecilie Myrseth"
+        },
+        {
+          "start": 6158.0,
+          "end": 6195.0,
+          "name": "Bård Ludvig Thorheim (H)"
+        },
+        {
+          "start": 6195.0,
+          "end": 6251.0,
+          "name": "Statsråd Cecilie Myrseth"
+        },
+        {
+          "start": 6251.0,
+          "end": 6316.0,
+          "name": "Bård Ludvig Thorheim (H)"
+        },
+        {
+          "start": 6316.0,
+          "end": 6359.0,
+          "name": "Statsråd Cecilie Myrseth"
+        },
+        {
+          "start": 6359.0,
+          "end": 6384.0,
+          "name": "Bård Ludvig Thorheim (H)"
+        },
+        {
+          "start": 6384.0,
+          "end": 6443.0,
+          "name": "Statsråd Cecilie Myrseth"
+        },
+        {
+          "start": 6443.0,
+          "end": 6461.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 6461.0,
+          "end": 6636.0,
+          "name": "Rune Støstad (A)"
+        },
+        {
+          "start": 6636.0,
+          "end": 6824.0,
+          "name": "Bengt Rune Strifeldt (FrP)"
+        },
+        {
+          "start": 6824.0,
+          "end": 7017.0,
+          "name": "Bård Hoksrud (FrP)"
+        },
+        {
+          "start": 7017.0,
+          "end": 7194.0,
+          "name": "Jone Blikra (A)"
+        },
+        {
+          "start": 7194.0,
+          "end": 7384.0,
+          "name": "Trond Giske (A)"
+        },
+        {
+          "start": 7384.0,
+          "end": 7570.0,
+          "name": "Bård Ludvig Thorheim (H)"
+        },
+        {
+          "start": 7570.0,
+          "end": 7706.0,
+          "name": "Ruth Mariann Hop (A)"
+        },
+        {
+          "start": 7706.0,
+          "end": 7899.0,
+          "name": "Statsråd Cecilie Myrseth"
+        },
+        {
+          "start": 7899.0,
+          "end": 8001.0,
+          "name": "Trond Giske (A)"
+        },
+        {
+          "start": 8001.0,
+          "end": 8022.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 8022.0,
+          "end": 8050.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 8050.0,
+          "end": 8240.0,
+          "name": "Ingrid Fiskaa (SV)"
+        },
+        {
+          "start": 8240.0,
+          "end": 8258.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 8258.0,
+          "end": 8369.0,
+          "name": "Trond Giske (A)"
+        },
+        {
+          "start": 8369.0,
+          "end": 8486.0,
+          "name": "Stig Even Lillestøl (FrP)"
+        },
+        {
+          "start": 8486.0,
+          "end": 8675.0,
+          "name": "Geir Jørgensen (R)"
+        },
+        {
+          "start": 8675.0,
+          "end": 8864.0,
+          "name": "Utenriksminister Espen Barth Eide"
+        },
+        {
+          "start": 8864.0,
+          "end": 8880.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 8880.0,
+          "end": 8983.0,
+          "name": "Ingrid Fiskaa (SV)"
+        },
+        {
+          "start": 8983.0,
+          "end": 9088.0,
+          "name": "Trond Giske (A)"
+        },
+        {
+          "start": 9088.0,
+          "end": 9284.0,
+          "name": "Utenriksminister Espen Barth Eide"
+        },
+        {
+          "start": 9284.0,
+          "end": 9419.0,
+          "name": "Geir Jørgensen (R)"
+        },
+        {
+          "start": 9419.0,
+          "end": 9571.0,
+          "name": "Utenriksminister Espen Barth Eide"
+        },
+        {
+          "start": 9571.0,
+          "end": 9688.0,
+          "name": "Ingrid Fiskaa (SV)"
+        },
+        {
+          "start": 9688.0,
+          "end": 9719.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 9719.0,
+          "end": 10011.0,
+          "name": "Trond Giske (A)"
+        },
+        {
+          "start": 10011.0,
+          "end": 10128.0,
+          "name": "Bård Ludvig Thorheim (H)"
+        },
+        {
+          "start": 10128.0,
+          "end": 10418.0,
+          "name": "Utenriksminister Espen Barth Eide"
+        },
+        {
+          "start": 10418.0,
+          "end": 10455.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 10455.0,
+          "end": 10637.0,
+          "name": "Trond Giske (A)"
+        },
+        {
+          "start": 10637.0,
+          "end": 10747.0,
+          "name": "Utenriksminister Espen Barth Eide"
+        },
+        {
+          "start": 10747.0,
+          "end": 10823.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 10823.0,
+          "end": 10858.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 10858.0,
+          "end": 11047.0,
+          "name": "Ingrid Fiskaa (SV)"
+        },
+        {
+          "start": 11047.0,
+          "end": 11068.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 11068.0,
+          "end": 11267.0,
+          "name": "Solveig Vitanza (A)"
+        },
+        {
+          "start": 11267.0,
+          "end": 11465.0,
+          "name": "Bengt Rune Strifeldt (FrP)"
+        },
+        {
+          "start": 11465.0,
+          "end": 11668.0,
+          "name": "Trygve Slagsvold Vedum (Sp)"
+        },
+        {
+          "start": 11668.0,
+          "end": 11831.0,
+          "name": "Geir Jørgensen (R)"
+        },
+        {
+          "start": 11831.0,
+          "end": 12032.0,
+          "name": "Une Bastholm (MDG)"
+        },
+        {
+          "start": 12032.0,
+          "end": 12192.0,
+          "name": "Harry Valderhaug (KrF)"
+        },
+        {
+          "start": 12192.0,
+          "end": 12370.0,
+          "name": "Statsråd Cecilie Myrseth"
+        },
+        {
+          "start": 12370.0,
+          "end": 12384.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 12384.0,
+          "end": 12417.0,
+          "name": "Bengt Rune Strifeldt (FrP)"
+        },
+        {
+          "start": 12417.0,
+          "end": 12446.0,
+          "name": "Statsråd Cecilie Myrseth"
+        },
+        {
+          "start": 12446.0,
+          "end": 12487.0,
+          "name": "Bengt Rune Strifeldt (FrP)"
+        },
+        {
+          "start": 12487.0,
+          "end": 12527.0,
+          "name": "Statsråd Cecilie Myrseth"
+        },
+        {
+          "start": 12527.0,
+          "end": 12563.0,
+          "name": "Bengt Rune Strifeldt (FrP)"
+        },
+        {
+          "start": 12563.0,
+          "end": 12586.0,
+          "name": "Statsråd Cecilie Myrseth"
+        },
+        {
+          "start": 12586.0,
+          "end": 12626.0,
+          "name": "Geir Pollestad (Sp)"
+        },
+        {
+          "start": 12626.0,
+          "end": 12657.0,
+          "name": "Statsråd Cecilie Myrseth"
+        },
+        {
+          "start": 12657.0,
+          "end": 12710.0,
+          "name": "Geir Pollestad (Sp)"
+        },
+        {
+          "start": 12710.0,
+          "end": 12757.0,
+          "name": "Statsråd Cecilie Myrseth"
+        },
+        {
+          "start": 12757.0,
+          "end": 12818.0,
+          "name": "Geir Pollestad (Sp)"
+        },
+        {
+          "start": 12818.0,
+          "end": 12864.0,
+          "name": "Statsråd Cecilie Myrseth"
+        },
+        {
+          "start": 12864.0,
+          "end": 12923.0,
+          "name": "Geir Pollestad (Sp)"
+        },
+        {
+          "start": 12923.0,
+          "end": 12942.0,
+          "name": "Statsråd Cecilie Myrseth"
+        },
+        {
+          "start": 12942.0,
+          "end": 12952.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 12952.0,
+          "end": 13146.0,
+          "name": "Geir Pollestad (Sp)"
+        },
+        {
+          "start": 13146.0,
+          "end": 13323.0,
+          "name": "Bengt Rune Strifeldt (FrP)"
+        },
+        {
+          "start": 13323.0,
+          "end": 13533.0,
+          "name": "Solveig Vitanza (A)"
+        },
+        {
+          "start": 13533.0,
+          "end": 13723.0,
+          "name": "Trond Giske (A)"
+        },
+        {
+          "start": 13723.0,
+          "end": 13867.0,
+          "name": "Trygve Slagsvold Vedum (Sp)"
+        },
+        {
+          "start": 13867.0,
+          "end": 14043.0,
+          "name": "Statsråd Cecilie Myrseth"
+        },
+        {
+          "start": 14043.0,
+          "end": 14223.0,
+          "name": "Geir Pollestad (Sp)"
+        },
+        {
+          "start": 14223.0,
+          "end": 14398.0,
+          "name": "Rune Støstad (A)"
+        },
+        {
+          "start": 14398.0,
+          "end": 14587.0,
+          "name": "Ingrid Fiskaa (SV)"
+        },
+        {
+          "start": 14587.0,
+          "end": 14618.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 14618.0,
+          "end": 14650.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 14650.0,
+          "end": 14816.0,
+          "name": "Bengt Rune Strifeldt (FrP)"
+        },
+        {
+          "start": 14816.0,
+          "end": 14833.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 14833.0,
+          "end": 15010.0,
+          "name": "Solveig Vitanza (A)"
+        },
+        {
+          "start": 15010.0,
+          "end": 15173.0,
+          "name": "Geir Pollestad (Sp)"
+        },
+        {
+          "start": 15173.0,
+          "end": 15352.0,
+          "name": "Harry Valderhaug (KrF)"
+        },
+        {
+          "start": 15352.0,
+          "end": 15368.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 15368.0,
+          "end": 15552.0,
+          "name": "Statsråd Cecilie Myrseth"
+        },
+        {
+          "start": 15552.0,
+          "end": 15635.0,
+          "name": "Presidenten"
+        }
+      ]
+    },
+    {
+      "moteid": 11640,
+      "delnr": 2,
+      "qbvid": "d8fdou75tutc73eeqoq0",
+      "mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/d8/d8fdovn5tutc73eeqoqg/d8fdnnn5tutc73eeqopg_1080p.mp4",
+      "audio_mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/d8/d8fdovn5tutc73eeqoqg/d8fdnnn5tutc73eeqopg_240p.mp4",
+      "hls_url": "https://httpcache0-90415-cacheod0.dna.contentdelivery.net/90415-cacheod0/_definst_/smil:assets/d8/d8fdovn5tutc73eeqoqg/d8fdnnn5tutc73eeqopg_240p/playlist.m3u8",
+      "tc_in_utc": "2026-06-02T12:58:01+00:00",
+      "tc_out_utc": "2026-06-02T13:30:31+00:00",
+      "duration_seconds": 1950.0,
+      "thumbnail_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/d8/d8fdovn5tutc73eeqoqg/d8fdnnn5tutc73eeqopg_1080p_5.jpeg",
+      "chapters": [
+        {
+          "start": 0.0,
+          "end": 287.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 287.0,
+          "end": 778.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 778.0,
+          "end": 1387.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 1387.0,
+          "end": 1950.0,
+          "name": "Presidenten"
+        }
+      ]
+    }
+  ]
+}

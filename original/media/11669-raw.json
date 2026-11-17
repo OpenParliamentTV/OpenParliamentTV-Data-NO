@@ -1,0 +1,1523 @@
+{
+  "moteid": 11669,
+  "parts": [
+    {
+      "moteid": 11669,
+      "delnr": 1,
+      "qbvid": "dbflkif5tutc73cu68a0",
+      "mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/db/dbflkr75tutc73cu68ag/dbfla0v5tutc73cu689g_1080p.mp4",
+      "audio_mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/db/dbflkr75tutc73cu68ag/dbfla0v5tutc73cu689g_240p.mp4",
+      "hls_url": "https://httpcache0-90415-cacheod0.dna.contentdelivery.net/90415-cacheod0/_definst_/smil:assets/db/dbflkr75tutc73cu68ag/dbfla0v5tutc73cu689g_240p/playlist.m3u8",
+      "tc_in_utc": "2026-10-21T07:57:58+00:00",
+      "tc_out_utc": "2026-10-21T11:50:42+00:00",
+      "duration_seconds": 13964.0,
+      "thumbnail_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/db/dbflkr75tutc73cu68ag/dbfla0v5tutc73cu689g_1080p_5.jpeg",
+      "chapters": [
+        {
+          "start": 0.0,
+          "end": 129.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 129.0,
+          "end": 145.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 145.0,
+          "end": 151.0,
+          "name": "Kathy Lie (SV)"
+        },
+        {
+          "start": 151.0,
+          "end": 173.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 173.0,
+          "end": 194.0,
+          "name": "Geir Inge Lien (Sp)"
+        },
+        {
+          "start": 194.0,
+          "end": 200.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 200.0,
+          "end": 233.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 233.0,
+          "end": 342.0,
+          "name": "Erlend Wiborg (FrP)"
+        },
+        {
+          "start": 342.0,
+          "end": 425.0,
+          "name": "Statsråd Bjørnar Skjæran"
+        },
+        {
+          "start": 425.0,
+          "end": 488.0,
+          "name": "Erlend Wiborg (FrP)"
+        },
+        {
+          "start": 488.0,
+          "end": 546.0,
+          "name": "Statsråd Bjørnar Skjæran"
+        },
+        {
+          "start": 546.0,
+          "end": 603.0,
+          "name": "Erlend Wiborg (FrP)"
+        },
+        {
+          "start": 603.0,
+          "end": 673.0,
+          "name": "Statsråd Bjørnar Skjæran"
+        },
+        {
+          "start": 673.0,
+          "end": 730.0,
+          "name": "Erlend Wiborg (FrP)"
+        },
+        {
+          "start": 730.0,
+          "end": 803.0,
+          "name": "Statsråd Bjørnar Skjæran"
+        },
+        {
+          "start": 803.0,
+          "end": 856.0,
+          "name": "Helge André Njåstad (FrP)"
+        },
+        {
+          "start": 856.0,
+          "end": 919.0,
+          "name": "Statsråd Bjørnar Skjæran"
+        },
+        {
+          "start": 919.0,
+          "end": 966.0,
+          "name": "Helge André Njåstad (FrP)"
+        },
+        {
+          "start": 966.0,
+          "end": 1043.0,
+          "name": "Statsråd Bjørnar Skjæran"
+        },
+        {
+          "start": 1043.0,
+          "end": 1101.0,
+          "name": "Rune Midtun (FrP)"
+        },
+        {
+          "start": 1101.0,
+          "end": 1168.0,
+          "name": "Statsråd Bjørnar Skjæran"
+        },
+        {
+          "start": 1168.0,
+          "end": 1224.0,
+          "name": "Rune Midtun (FrP)"
+        },
+        {
+          "start": 1224.0,
+          "end": 1302.0,
+          "name": "Statsråd Bjørnar Skjæran"
+        },
+        {
+          "start": 1302.0,
+          "end": 1367.0,
+          "name": "Mudassar Kapur (H)"
+        },
+        {
+          "start": 1367.0,
+          "end": 1433.0,
+          "name": "Statsråd Bjørnar Skjæran"
+        },
+        {
+          "start": 1433.0,
+          "end": 1498.0,
+          "name": "Mudassar Kapur (H)"
+        },
+        {
+          "start": 1498.0,
+          "end": 1563.0,
+          "name": "Statsråd Bjørnar Skjæran"
+        },
+        {
+          "start": 1563.0,
+          "end": 1628.0,
+          "name": "Mudassar Kapur (H)"
+        },
+        {
+          "start": 1628.0,
+          "end": 1685.0,
+          "name": "Statsråd Bjørnar Skjæran"
+        },
+        {
+          "start": 1685.0,
+          "end": 1739.0,
+          "name": "Mudassar Kapur (H)"
+        },
+        {
+          "start": 1739.0,
+          "end": 1792.0,
+          "name": "Statsråd Bjørnar Skjæran"
+        },
+        {
+          "start": 1792.0,
+          "end": 1855.0,
+          "name": "Mudassar Kapur (H)"
+        },
+        {
+          "start": 1855.0,
+          "end": 1897.0,
+          "name": "Statsråd Bjørnar Skjæran"
+        },
+        {
+          "start": 1897.0,
+          "end": 1963.0,
+          "name": "Anne Lise Gjerstad Fredlund (SV)"
+        },
+        {
+          "start": 1963.0,
+          "end": 2027.0,
+          "name": "Statsråd Bjørnar Skjæran"
+        },
+        {
+          "start": 2027.0,
+          "end": 2075.0,
+          "name": "Anne Lise Gjerstad Fredlund (SV)"
+        },
+        {
+          "start": 2075.0,
+          "end": 2139.0,
+          "name": "Statsråd Bjørnar Skjæran"
+        },
+        {
+          "start": 2139.0,
+          "end": 2196.0,
+          "name": "Anne Lise Gjerstad Fredlund (SV)"
+        },
+        {
+          "start": 2196.0,
+          "end": 2251.0,
+          "name": "Statsråd Bjørnar Skjæran"
+        },
+        {
+          "start": 2251.0,
+          "end": 2312.0,
+          "name": "Anne Lise Gjerstad Fredlund (SV)"
+        },
+        {
+          "start": 2312.0,
+          "end": 2377.0,
+          "name": "Statsråd Bjørnar Skjæran"
+        },
+        {
+          "start": 2377.0,
+          "end": 2439.0,
+          "name": "Anne Lise Gjerstad Fredlund (SV)"
+        },
+        {
+          "start": 2439.0,
+          "end": 2512.0,
+          "name": "Statsråd Bjørnar Skjæran"
+        },
+        {
+          "start": 2512.0,
+          "end": 2576.0,
+          "name": "Grunde Almeland (V)"
+        },
+        {
+          "start": 2576.0,
+          "end": 2641.0,
+          "name": "Statsråd Bjørnar Skjæran"
+        },
+        {
+          "start": 2641.0,
+          "end": 2663.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 2663.0,
+          "end": 2747.0,
+          "name": "Bengt Fasteraune (Sp)"
+        },
+        {
+          "start": 2747.0,
+          "end": 2870.0,
+          "name": "Statsråd Bjørnar Skjæran"
+        },
+        {
+          "start": 2870.0,
+          "end": 2928.0,
+          "name": "Bengt Fasteraune (Sp)"
+        },
+        {
+          "start": 2928.0,
+          "end": 2992.0,
+          "name": "Statsråd Bjørnar Skjæran"
+        },
+        {
+          "start": 2992.0,
+          "end": 3048.0,
+          "name": "Bengt Fasteraune (Sp)"
+        },
+        {
+          "start": 3048.0,
+          "end": 3113.0,
+          "name": "Statsråd Bjørnar Skjæran"
+        },
+        {
+          "start": 3113.0,
+          "end": 3174.0,
+          "name": "Bengt Fasteraune (Sp)"
+        },
+        {
+          "start": 3174.0,
+          "end": 3250.0,
+          "name": "Statsråd Bjørnar Skjæran"
+        },
+        {
+          "start": 3250.0,
+          "end": 3313.0,
+          "name": "Mudassar Kapur (H)"
+        },
+        {
+          "start": 3313.0,
+          "end": 3381.0,
+          "name": "Statsråd Bjørnar Skjæran"
+        },
+        {
+          "start": 3381.0,
+          "end": 3445.0,
+          "name": "Mudassar Kapur (H)"
+        },
+        {
+          "start": 3445.0,
+          "end": 3511.0,
+          "name": "Statsråd Bjørnar Skjæran"
+        },
+        {
+          "start": 3511.0,
+          "end": 3580.0,
+          "name": "Mudassar Kapur (H)"
+        },
+        {
+          "start": 3580.0,
+          "end": 3647.0,
+          "name": "Statsråd Bjørnar Skjæran"
+        },
+        {
+          "start": 3647.0,
+          "end": 3658.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 3658.0,
+          "end": 3763.0,
+          "name": "Himanshu Gulati (FrP)"
+        },
+        {
+          "start": 3763.0,
+          "end": 3882.0,
+          "name": "Statsråd Åsmund Aukrust"
+        },
+        {
+          "start": 3882.0,
+          "end": 3936.0,
+          "name": "Himanshu Gulati (FrP)"
+        },
+        {
+          "start": 3936.0,
+          "end": 4000.0,
+          "name": "Statsråd Åsmund Aukrust"
+        },
+        {
+          "start": 4000.0,
+          "end": 4060.0,
+          "name": "Himanshu Gulati (FrP)"
+        },
+        {
+          "start": 4060.0,
+          "end": 4138.0,
+          "name": "Statsråd Åsmund Aukrust"
+        },
+        {
+          "start": 4138.0,
+          "end": 4258.0,
+          "name": "Hanne Beate Stenvaag (R)"
+        },
+        {
+          "start": 4258.0,
+          "end": 4367.0,
+          "name": "Statsråd Bjørnar Skjæran"
+        },
+        {
+          "start": 4367.0,
+          "end": 4423.0,
+          "name": "Hanne Beate Stenvaag (R)"
+        },
+        {
+          "start": 4423.0,
+          "end": 4491.0,
+          "name": "Statsråd Bjørnar Skjæran"
+        },
+        {
+          "start": 4491.0,
+          "end": 4544.0,
+          "name": "Hanne Beate Stenvaag (R)"
+        },
+        {
+          "start": 4544.0,
+          "end": 4615.0,
+          "name": "Statsråd Bjørnar Skjæran"
+        },
+        {
+          "start": 4615.0,
+          "end": 4661.0,
+          "name": "Hanne Beate Stenvaag (R)"
+        },
+        {
+          "start": 4661.0,
+          "end": 4699.0,
+          "name": "Statsråd Bjørnar Skjæran"
+        },
+        {
+          "start": 4699.0,
+          "end": 4715.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 4715.0,
+          "end": 4835.0,
+          "name": "Jonas Andersen Sayed (KrF)"
+        },
+        {
+          "start": 4835.0,
+          "end": 4958.0,
+          "name": "Statsråd Åsmund Aukrust"
+        },
+        {
+          "start": 4958.0,
+          "end": 5021.0,
+          "name": "Jonas Andersen Sayed (KrF)"
+        },
+        {
+          "start": 5021.0,
+          "end": 5086.0,
+          "name": "Statsråd Åsmund Aukrust"
+        },
+        {
+          "start": 5086.0,
+          "end": 5149.0,
+          "name": "Jonas Andersen Sayed (KrF)"
+        },
+        {
+          "start": 5149.0,
+          "end": 5209.0,
+          "name": "Statsråd Åsmund Aukrust"
+        },
+        {
+          "start": 5209.0,
+          "end": 5271.0,
+          "name": "Jonas Andersen Sayed (KrF)"
+        },
+        {
+          "start": 5271.0,
+          "end": 5333.0,
+          "name": "Statsråd Åsmund Aukrust"
+        },
+        {
+          "start": 5333.0,
+          "end": 5341.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 5341.0,
+          "end": 5367.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 5367.0,
+          "end": 5405.0,
+          "name": "Kjersti Toppe (Sp)"
+        },
+        {
+          "start": 5405.0,
+          "end": 5544.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 5544.0,
+          "end": 5610.0,
+          "name": "Kjersti Toppe (Sp)"
+        },
+        {
+          "start": 5610.0,
+          "end": 5673.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 5673.0,
+          "end": 5739.0,
+          "name": "Kjersti Toppe (Sp)"
+        },
+        {
+          "start": 5739.0,
+          "end": 5813.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 5813.0,
+          "end": 5837.0,
+          "name": "Bent-Joacim Bentzen (Sp)"
+        },
+        {
+          "start": 5837.0,
+          "end": 6020.0,
+          "name": "Jan Christian Vestre (A)"
+        },
+        {
+          "start": 6020.0,
+          "end": 6060.0,
+          "name": "Bent-Joacim Bentzen (Sp)"
+        },
+        {
+          "start": 6060.0,
+          "end": 6121.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 6121.0,
+          "end": 6168.0,
+          "name": "Bent-Joacim Bentzen (Sp)"
+        },
+        {
+          "start": 6168.0,
+          "end": 6247.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 6247.0,
+          "end": 6282.0,
+          "name": "Stig Atle Abrahamsen (FrP)"
+        },
+        {
+          "start": 6282.0,
+          "end": 6420.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 6420.0,
+          "end": 6482.0,
+          "name": "Stig Atle Abrahamsen (FrP)"
+        },
+        {
+          "start": 6482.0,
+          "end": 6550.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 6550.0,
+          "end": 6612.0,
+          "name": "Stig Atle Abrahamsen (FrP)"
+        },
+        {
+          "start": 6612.0,
+          "end": 6675.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 6675.0,
+          "end": 6688.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 6688.0,
+          "end": 6736.0,
+          "name": "Ida Lindtveit Røse (KrF)"
+        },
+        {
+          "start": 6736.0,
+          "end": 6921.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 6921.0,
+          "end": 6987.0,
+          "name": "Ida Lindtveit Røse (KrF)"
+        },
+        {
+          "start": 6987.0,
+          "end": 7051.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 7051.0,
+          "end": 7105.0,
+          "name": "Ida Lindtveit Røse (KrF)"
+        },
+        {
+          "start": 7105.0,
+          "end": 7170.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 7170.0,
+          "end": 7186.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 7186.0,
+          "end": 7219.0,
+          "name": "Hanne Beate Stenvaag (R)"
+        },
+        {
+          "start": 7219.0,
+          "end": 7364.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 7364.0,
+          "end": 7431.0,
+          "name": "Hanne Beate Stenvaag (R)"
+        },
+        {
+          "start": 7431.0,
+          "end": 7495.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 7495.0,
+          "end": 7562.0,
+          "name": "Hanne Beate Stenvaag (R)"
+        },
+        {
+          "start": 7562.0,
+          "end": 7632.0,
+          "name": "Statsråd Jan Christian Vestre"
+        },
+        {
+          "start": 7632.0,
+          "end": 7650.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 7650.0,
+          "end": 7687.0,
+          "name": "Helge André Njåstad (FrP)"
+        },
+        {
+          "start": 7687.0,
+          "end": 7816.0,
+          "name": "Statsråd Cecilie Myrseth"
+        },
+        {
+          "start": 7816.0,
+          "end": 7857.0,
+          "name": "Helge André Njåstad (FrP)"
+        },
+        {
+          "start": 7857.0,
+          "end": 7910.0,
+          "name": "Statsråd Cecilie Myrseth"
+        },
+        {
+          "start": 7910.0,
+          "end": 7956.0,
+          "name": "Helge André Njåstad (FrP)"
+        },
+        {
+          "start": 7956.0,
+          "end": 8008.0,
+          "name": "Statsråd Cecilie Myrseth"
+        },
+        {
+          "start": 8008.0,
+          "end": 8026.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 8026.0,
+          "end": 8070.0,
+          "name": "Mahmoud Farahmand (H)"
+        },
+        {
+          "start": 8070.0,
+          "end": 8257.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 8257.0,
+          "end": 8311.0,
+          "name": "Mahmoud Farahmand (H)"
+        },
+        {
+          "start": 8311.0,
+          "end": 8369.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 8369.0,
+          "end": 8431.0,
+          "name": "Mahmoud Farahmand (H)"
+        },
+        {
+          "start": 8431.0,
+          "end": 8493.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 8493.0,
+          "end": 8504.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 8504.0,
+          "end": 8540.0,
+          "name": "Amalie Gunnufsen (H)"
+        },
+        {
+          "start": 8540.0,
+          "end": 8680.0,
+          "name": "Statsråd Aas-Hansen"
+        },
+        {
+          "start": 8680.0,
+          "end": 8744.0,
+          "name": "Amalie Gunnufsen (H)"
+        },
+        {
+          "start": 8744.0,
+          "end": 8809.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 8809.0,
+          "end": 8874.0,
+          "name": "Amalie Gunnufsen (H)"
+        },
+        {
+          "start": 8874.0,
+          "end": 8956.0,
+          "name": "Statsråd Astri Aas-Hansen"
+        },
+        {
+          "start": 8956.0,
+          "end": 9011.0,
+          "name": "Terje Kollbotn (R)"
+        },
+        {
+          "start": 9011.0,
+          "end": 9128.0,
+          "name": "Sigrun Aasland (A)"
+        },
+        {
+          "start": 9128.0,
+          "end": 9184.0,
+          "name": "Terje Kollbotn (R)"
+        },
+        {
+          "start": 9184.0,
+          "end": 9240.0,
+          "name": "Statsråd Sigrun Aasland"
+        },
+        {
+          "start": 9240.0,
+          "end": 9303.0,
+          "name": "Terje Kollbotn (R)"
+        },
+        {
+          "start": 9303.0,
+          "end": 9352.0,
+          "name": "Statsråd Sigrun Aasland"
+        },
+        {
+          "start": 9352.0,
+          "end": 9359.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 9359.0,
+          "end": 9406.0,
+          "name": "Abid Raja (V)"
+        },
+        {
+          "start": 9406.0,
+          "end": 9582.0,
+          "name": "Statsråd Tore Onshuus Sandvik"
+        },
+        {
+          "start": 9582.0,
+          "end": 9644.0,
+          "name": "Abid Raja (V)"
+        },
+        {
+          "start": 9644.0,
+          "end": 9705.0,
+          "name": "Statsråd Tore Onshuus Sandvik"
+        },
+        {
+          "start": 9705.0,
+          "end": 9764.0,
+          "name": "Abid Raja (V)"
+        },
+        {
+          "start": 9764.0,
+          "end": 9786.0,
+          "name": "Statsråd Tore Onshuus Sandvik"
+        },
+        {
+          "start": 9786.0,
+          "end": 9790.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 9790.0,
+          "end": 9802.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 9802.0,
+          "end": 9838.0,
+          "name": "Erlend Wiborg (FrP)"
+        },
+        {
+          "start": 9838.0,
+          "end": 9959.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 9959.0,
+          "end": 10017.0,
+          "name": "Erlend Wiborg (FrP)"
+        },
+        {
+          "start": 10017.0,
+          "end": 10059.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 10059.0,
+          "end": 10124.0,
+          "name": "Erlend Wiborg (FrP)"
+        },
+        {
+          "start": 10124.0,
+          "end": 10172.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 10172.0,
+          "end": 10184.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 10184.0,
+          "end": 10223.0,
+          "name": "Himanshu Gulati (FrP)"
+        },
+        {
+          "start": 10223.0,
+          "end": 10317.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 10317.0,
+          "end": 10368.0,
+          "name": "Himanshu Gulati (FrP)"
+        },
+        {
+          "start": 10368.0,
+          "end": 10415.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 10415.0,
+          "end": 10468.0,
+          "name": "Julia Brännström Nordtug (FrP)"
+        },
+        {
+          "start": 10468.0,
+          "end": 10561.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 10561.0,
+          "end": 10628.0,
+          "name": "Julia Brännström Nordtug (FrP)"
+        },
+        {
+          "start": 10628.0,
+          "end": 10685.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 10685.0,
+          "end": 10751.0,
+          "name": "Julia Brännström Nordtug (FrP)"
+        },
+        {
+          "start": 10751.0,
+          "end": 10811.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 10811.0,
+          "end": 10846.0,
+          "name": "Frank Edvard Sve (FrP)"
+        },
+        {
+          "start": 10846.0,
+          "end": 11001.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 11001.0,
+          "end": 11069.0,
+          "name": "Frank Edvard Sve (FrP)"
+        },
+        {
+          "start": 11069.0,
+          "end": 11138.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 11138.0,
+          "end": 11202.0,
+          "name": "Frank Edvard Sve (FrP)"
+        },
+        {
+          "start": 11202.0,
+          "end": 11271.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 11271.0,
+          "end": 11313.0,
+          "name": "Mats Henriksen (FrP)"
+        },
+        {
+          "start": 11313.0,
+          "end": 11449.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 11449.0,
+          "end": 11504.0,
+          "name": "Mats Henriksen (FrP)"
+        },
+        {
+          "start": 11504.0,
+          "end": 11554.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 11554.0,
+          "end": 11604.0,
+          "name": "Mats Henriksen (FrP)"
+        },
+        {
+          "start": 11604.0,
+          "end": 11663.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 11663.0,
+          "end": 11702.0,
+          "name": "Finn Krokeide (FrP)"
+        },
+        {
+          "start": 11702.0,
+          "end": 11793.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 11793.0,
+          "end": 11833.0,
+          "name": "Finn Krokeide (FrP)"
+        },
+        {
+          "start": 11833.0,
+          "end": 11893.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 11893.0,
+          "end": 11937.0,
+          "name": "Finn Krokeide (FrP)"
+        },
+        {
+          "start": 11937.0,
+          "end": 12009.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 12009.0,
+          "end": 12056.0,
+          "name": "Stig Even Lillestøl (FrP)"
+        },
+        {
+          "start": 12056.0,
+          "end": 12168.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 12168.0,
+          "end": 12209.0,
+          "name": "Stig Even Lillestøl (FrP)"
+        },
+        {
+          "start": 12209.0,
+          "end": 12233.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 12233.0,
+          "end": 12279.0,
+          "name": "Stig Even Lillestøl (FrP)"
+        },
+        {
+          "start": 12279.0,
+          "end": 12284.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 12284.0,
+          "end": 12311.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 12311.0,
+          "end": 12327.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 12327.0,
+          "end": 12352.0,
+          "name": "Bård Hoksrud (FrP)"
+        },
+        {
+          "start": 12352.0,
+          "end": 12413.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 12413.0,
+          "end": 12471.0,
+          "name": "Bård Hoksrud (FrP)"
+        },
+        {
+          "start": 12471.0,
+          "end": 12531.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 12531.0,
+          "end": 12594.0,
+          "name": "Bård Hoksrud (FrP)"
+        },
+        {
+          "start": 12594.0,
+          "end": 12654.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 12654.0,
+          "end": 12690.0,
+          "name": "Joakim Myklebost Tangen (FrP)"
+        },
+        {
+          "start": 12690.0,
+          "end": 12730.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 12730.0,
+          "end": 12761.0,
+          "name": "Joakim Myklebost Tangen (FrP)"
+        },
+        {
+          "start": 12761.0,
+          "end": 12813.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 12813.0,
+          "end": 12855.0,
+          "name": "Joakim Myklebost Tangen (FrP)"
+        },
+        {
+          "start": 12855.0,
+          "end": 12906.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 12906.0,
+          "end": 12955.0,
+          "name": "Lars Rem (FrP)"
+        },
+        {
+          "start": 12955.0,
+          "end": 13068.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 13068.0,
+          "end": 13105.0,
+          "name": "Lars Rem (FrP)"
+        },
+        {
+          "start": 13105.0,
+          "end": 13164.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 13164.0,
+          "end": 13188.0,
+          "name": "Lars Rem (FrP)"
+        },
+        {
+          "start": 13188.0,
+          "end": 13230.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 13230.0,
+          "end": 13263.0,
+          "name": "Dagfinn Henrik Olsen (FrP)"
+        },
+        {
+          "start": 13263.0,
+          "end": 13368.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 13368.0,
+          "end": 13427.0,
+          "name": "Dagfinn Henrik Olsen (FrP)"
+        },
+        {
+          "start": 13427.0,
+          "end": 13450.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 13450.0,
+          "end": 13514.0,
+          "name": "Dagfinn Henrik Olsen (FrP)"
+        },
+        {
+          "start": 13514.0,
+          "end": 13576.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 13576.0,
+          "end": 13609.0,
+          "name": "Line Marlene Haugen (FrP)"
+        },
+        {
+          "start": 13609.0,
+          "end": 13731.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 13731.0,
+          "end": 13752.0,
+          "name": "Line Marlene Haugen (FrP)"
+        },
+        {
+          "start": 13752.0,
+          "end": 13810.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 13810.0,
+          "end": 13836.0,
+          "name": "Line Marlene Haugen (FrP)"
+        },
+        {
+          "start": 13836.0,
+          "end": 13891.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 13891.0,
+          "end": 13964.0,
+          "name": "Presidenten"
+        }
+      ]
+    },
+    {
+      "moteid": 11669,
+      "delnr": 2,
+      "qbvid": "dbcbjl75tutc73e71ig0",
+      "mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/db/dbcbjtn5tutc73e71igg/dbcbhi75tutc73e71ifg_1080p.mp4",
+      "audio_mp4_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/db/dbcbjtn5tutc73e71igg/dbcbhi75tutc73e71ifg_240p.mp4",
+      "hls_url": "https://httpcache0-90415-cacheod0.dna.contentdelivery.net/90415-cacheod0/_definst_/smil:assets/db/dbcbjtn5tutc73e71igg/dbcbhi75tutc73e71ifg_240p/playlist.m3u8",
+      "tc_in_utc": "2026-10-21T11:58:00+00:00",
+      "tc_out_utc": "2026-10-21T13:02:38+00:00",
+      "duration_seconds": 3878.0,
+      "thumbnail_url": "https://httpcache0-90415-cachedown0.dna.contentdelivery.net/90415-cachedown0/assets/db/dbcbjtn5tutc73e71igg/dbcbhi75tutc73e71ifg_1080p_5.jpeg",
+      "chapters": [
+        {
+          "start": 0.0,
+          "end": 131.0,
+          "name": "Hilde Grande (FrP)"
+        },
+        {
+          "start": 131.0,
+          "end": 175.0,
+          "name": "Hilde Grande (FrP)"
+        },
+        {
+          "start": 175.0,
+          "end": 289.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 289.0,
+          "end": 319.0,
+          "name": "Hilde Grande (FrP)"
+        },
+        {
+          "start": 319.0,
+          "end": 357.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 357.0,
+          "end": 406.0,
+          "name": "Hilde Grande (FrP)"
+        },
+        {
+          "start": 406.0,
+          "end": 441.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 441.0,
+          "end": 480.0,
+          "name": "May Helen Hetland Ervik (FrP)"
+        },
+        {
+          "start": 480.0,
+          "end": 562.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 562.0,
+          "end": 609.0,
+          "name": "May Helen Hetland Ervik (FrP)"
+        },
+        {
+          "start": 609.0,
+          "end": 646.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 646.0,
+          "end": 680.0,
+          "name": "May Helen Hetland Ervik (FrP)"
+        },
+        {
+          "start": 680.0,
+          "end": 721.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 721.0,
+          "end": 764.0,
+          "name": "Anette Carnarius Elseth (FrP)"
+        },
+        {
+          "start": 764.0,
+          "end": 918.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 918.0,
+          "end": 966.0,
+          "name": "Anette Carnarius Elseth (FrP)"
+        },
+        {
+          "start": 966.0,
+          "end": 1027.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 1027.0,
+          "end": 1078.0,
+          "name": "Anette Carnarius Elseth (FrP)"
+        },
+        {
+          "start": 1078.0,
+          "end": 1147.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 1147.0,
+          "end": 1182.0,
+          "name": "Rune Midtun (FrP)"
+        },
+        {
+          "start": 1182.0,
+          "end": 1261.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 1261.0,
+          "end": 1315.0,
+          "name": "Rune Midtun (FrP)"
+        },
+        {
+          "start": 1315.0,
+          "end": 1347.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 1347.0,
+          "end": 1406.0,
+          "name": "Rune Midtun (FrP)"
+        },
+        {
+          "start": 1406.0,
+          "end": 1459.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 1459.0,
+          "end": 1472.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 1472.0,
+          "end": 1505.0,
+          "name": "Tom Staahle (FrP)"
+        },
+        {
+          "start": 1505.0,
+          "end": 1548.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 1548.0,
+          "end": 1603.0,
+          "name": "Tom Staahle (FrP)"
+        },
+        {
+          "start": 1603.0,
+          "end": 1633.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 1633.0,
+          "end": 1694.0,
+          "name": "Tom Staahle (FrP)"
+        },
+        {
+          "start": 1694.0,
+          "end": 1732.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 1732.0,
+          "end": 1787.0,
+          "name": "Morten Wold (FrP)"
+        },
+        {
+          "start": 1787.0,
+          "end": 1847.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 1847.0,
+          "end": 1909.0,
+          "name": "Morten Wold (FrP)"
+        },
+        {
+          "start": 1909.0,
+          "end": 1960.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 1960.0,
+          "end": 1995.0,
+          "name": "Morten Wold (FrP)"
+        },
+        {
+          "start": 1995.0,
+          "end": 2069.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 2069.0,
+          "end": 2114.0,
+          "name": "Bengt Rune Strifeldt (FrP)"
+        },
+        {
+          "start": 2114.0,
+          "end": 2218.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 2218.0,
+          "end": 2290.0,
+          "name": "Bengt Rune Strifeldt (FrP)"
+        },
+        {
+          "start": 2290.0,
+          "end": 2345.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 2345.0,
+          "end": 2410.0,
+          "name": "Bengt Rune Strifeldt (FrP)"
+        },
+        {
+          "start": 2410.0,
+          "end": 2458.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 2458.0,
+          "end": 2483.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 2483.0,
+          "end": 2522.0,
+          "name": "Morten Kolbjørnsen (FrP)"
+        },
+        {
+          "start": 2522.0,
+          "end": 2636.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 2636.0,
+          "end": 2671.0,
+          "name": "Morten Kolbjørnsen (FrP)"
+        },
+        {
+          "start": 2671.0,
+          "end": 2719.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 2719.0,
+          "end": 2740.0,
+          "name": "Morten Kolbjørnsen (FrP)"
+        },
+        {
+          "start": 2740.0,
+          "end": 2771.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 2771.0,
+          "end": 2809.0,
+          "name": "Pål Morten Borgli (FrP)"
+        },
+        {
+          "start": 2809.0,
+          "end": 2922.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 2922.0,
+          "end": 2973.0,
+          "name": "Pål Morten Borgli (FrP)"
+        },
+        {
+          "start": 2973.0,
+          "end": 3032.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 3032.0,
+          "end": 3089.0,
+          "name": "Pål Morten Borgli (FrP)"
+        },
+        {
+          "start": 3089.0,
+          "end": 3131.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 3131.0,
+          "end": 3144.0,
+          "name": "Presidenten"
+        },
+        {
+          "start": 3144.0,
+          "end": 3185.0,
+          "name": "Hans Andreas Limi (FrP)"
+        },
+        {
+          "start": 3185.0,
+          "end": 3260.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 3260.0,
+          "end": 3296.0,
+          "name": "Hans Andreas Limi (FrP)"
+        },
+        {
+          "start": 3296.0,
+          "end": 3329.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 3329.0,
+          "end": 3361.0,
+          "name": "Hans Andreas Limi (FrP)"
+        },
+        {
+          "start": 3361.0,
+          "end": 3372.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 3372.0,
+          "end": 3416.0,
+          "name": "Stian Storbukås (FrP)"
+        },
+        {
+          "start": 3416.0,
+          "end": 3559.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 3559.0,
+          "end": 3619.0,
+          "name": "Stian Storbukås (FrP)"
+        },
+        {
+          "start": 3619.0,
+          "end": 3684.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        },
+        {
+          "start": 3684.0,
+          "end": 3731.0,
+          "name": "Stian Storbukås (FrP)"
+        },
+        {
+          "start": 3731.0,
+          "end": 3878.0,
+          "name": "Statsråd Kamzy Gunaratnam"
+        }
+      ]
+    }
+  ]
+}

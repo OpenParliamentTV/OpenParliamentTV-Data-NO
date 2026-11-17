@@ -1,15 +1,15 @@
-<Forhandlinger Status="Kvalitetssikret">
+<Forhandlinger Status="Komplett">
   <Mote moteID="11603">
     <Startseksjon>
       <Motestart>
         <Tittel>Møte tirsdag den 8. april 2026 kl. 10</Tittel>
-        <President Id="i1001542" personID="MASG">
+        <President Id="i1002163" personID="MASG">
           <A>President: <Uth Type="Sperret">Masud
 Gharahkhani</Uth></A>
         </President>
         <Dagsorden>
           <Tittel>Dagsorden <DagsordenNR>(nr. 61):</DagsordenNR></Tittel>
-          <DagsordenSak Id="i1001544">
+          <DagsordenSak Id="i1002165">
             <Liste Type="Dagsorden">
               <Pkt>
                 <A> 1.	Muntlig
@@ -24,10 +24,10 @@ spørretime</A>
         <Subtit>Minnetale over tidligere stortingsrepresentant Olav Marås</Subtit>
         <Presinnlegg>
           <A>
-            <Navn>Presidenten:</Navn> Ærede medrepresentanter!
-Den 28. september 2025 døde tidligere stortingsrepresentant Olav
-Marås fra Radøy, 94 år gammel. Han representerte Arbeiderpartiet og
-Hordaland fra 1969 til 1973 og satt som medlem av kirke- og undervisningskomiteen.
+            <Navn>Presidenten [10:00:02]:</Navn> Ærede medrepresentanter!
+Den 28. september 2025 døde tidligere stortingsrepresentant Olav Marås
+fra Radøy, 94 år gammel. Han representerte Arbeiderpartiet og Hordaland
+fra 1969 til 1973 og satt som medlem av kirke- og undervisningskomiteen.
 Fra høsten 1973 til høsten 1974 var han statssekretær i Samferdselsdepartementet.</A>
           <A Type="Minnrykk">«Småbruker Olav Marås fra Hordaland var den
 som bevarte fatningen best». Dette var den oppsummerende avisoverskriften
@@ -60,7 +60,7 @@ bøker.</A>
           <A Type="Minnrykk">Med seg hele veien hadde han sin sosialdemokratiske verdiforankring,
 med respekten for vanlige folks slit og ønsket om å bygge et bedre
 samfunn for alle.</A>
-          <A Type="Minnrykk">Vi lyser fred over Olav Marås sitt minne.</A>
+          <A Type="Minnrykk">Vi lyser fred over Olav Marås’ minne.</A>
         </Presinnlegg>
         <Merknad>
           <Handling>
@@ -77,9 +77,9 @@ Trine Lise Sundnes, Sunniva Holmås Eidsvoll, Jonas Andersen Sayed,
 Mahmoud Farahmand, Bjørn Arild Gram, Trond Giske, Erlend Larsen
 og Ronny Aukrust, som har vært permittert, har igjen tatt sete.</A>
           <A Type="Minnrykk">Statsråd Marianne Sivertsen Næss vil overbringe
-39 kgl. proposisjoner.</A>
+39 kongelige proposisjoner.</A>
         </Presinnlegg>
-        <Hovedinnlegg Id="i1001546">
+        <Hovedinnlegg Id="i1002167">
           <A>
             <Navn personID="NSSMAR">
 Statsråd Marianne Sivertsen Næss [10:03:59]:</Navn> På vegne av
@@ -112,9 +112,9 @@ institusjon</A>
             <Pkt>
               <A>lov om datadeling og dataforvaltning – dataforvaltningsloven
 – og samtykke til godkjenning av EØS-komiteens beslutninger om innlemmelse
-i EØS-avtalen av EU-direktiv 2019/1024, åpne data-direktivet, for
-EU-forordning 2022/868, dataforvaltningsforordningen, og deltakelse
-i EØS-komiteens beslutning om delegert kommisjonsforordning EU 2023/138,
+i EØS-avtalen av EU-direktiv 2019/1024, åpne data-direktivet, for
+EU-forordning 2022/868, dataforvaltningsforordningen, og deltakelse
+i EØS-komiteens beslutning om delegert kommisjonsforordning EU 2023/138,
 HVD-forordningen</A>
             </Pkt>
             <Pkt>
@@ -125,7 +125,7 @@ HVD-forordningen</A>
 for forsvarssektoren</A>
             </Pkt>
             <Pkt>
-              <A>endringer i brukeromsloven og helse- og omsorgstjenesteloven
+              <A>endringer i brukerromsloven og helse- og omsorgstjenesteloven
 – målgruppe, driftsavtale og unntak fra kravene til brukerromlokaler</A>
             </Pkt>
             <Pkt>
@@ -134,14 +134,14 @@ til å ha med andre personer når det blir gitt helse- og omsorgstjenester</A>
             </Pkt>
             <Pkt>
               <A>endringer i apotekloven, legemiddelloven og lov om medisinsk
-utstyr – gjennomføring av EU-forordningene 2022/123, 2022/2370 og
+utstyr – gjennomføring av EU-forordningene 2022/123, 2022/2370 og
 2022/2371, om styrket samarbeid ved alvorlige grensekryssende helsetrusler
-i Europa og EU-forordning 2024/1860, og samtykke til godkjenning
-av EØS-komiteens beslutning nr. 167/2024, 180/2024, 181/2024 og
+i Europa og EU-forordning 2024/1860, og samtykke til godkjenning
+av EØS-komiteens beslutning nr. 167/2024, 180/2024, 181/2024 og
 172/2025 om innlemmelse i EØS-avtalen av forordningene</A>
             </Pkt>
             <Pkt>
-              <A>endringer i skadeerstatningsloven – inntektstapserstatning
+              <A>endringer i skadeserstatningsloven – inntektstapserstatning
 til barn, kapitaliseringsrente</A>
             </Pkt>
             <Pkt>
@@ -173,9 +173,9 @@ av økonomisk tap ved erstatning etter strafforfølging</A>
             </Pkt>
             <Pkt>
               <A>endringer i grenseloven, utlendingsloven og SIS-loven – screening
-av tredjelandsborgere – og samtykke til godtakelse av EU-forordning
-2024/1356, om innføring av screening av tredjelandsborgere ved de
-ytre grensene mv., og EU-forordning 2022/1190 om endringer i politisamarbeidsforordningen,
+av tredjelandsborgere – og samtykke til godtakelse av EU-forordning 2024/1356,
+om innføring av screening av tredjelandsborgere ved de ytre grensene mv.,
+og EU-forordning 2022/1190 om endringer i politisamarbeidsforordningen,
 videreutvikling av Schengen-regelverket </A>
             </Pkt>
             <Pkt>
@@ -191,8 +191,8 @@ av utlendinger</A>
             <Pkt>
               <A>lov om justering av karbonpris ved import av varer til EØS
 – CBAM-loven – og samtykke til deltagelse i beslutninger i EØS-komiteen
-om innlemmelse i EØS-avtalen av EU-forordning 2023/956, CBAM-forordningen,
-og EU-forordning 2025/2083, endringer i CBAM-forordningen, og om
+om innlemmelse i EØS-avtalen av EU-forordning 2023/956, CBAM-forordningen,
+og EU-forordning 2025/2083, endringer i CBAM-forordningen, og om
 tilgang til og finansiering av IT-tekniske systemer i CBAM</A>
             </Pkt>
             <Pkt>
@@ -207,7 +207,7 @@ og utslippsreduksjonskriterier i EUs fornybardirektiv</A>
 virkeområde</A>
             </Pkt>
             <Pkt>
-              <A>endringer i vann- og avløpsanleggsloven m.m. – overvannsgebyr </A>
+              <A>endringer i vann- og avløpsanleggsloven m.m. – overvannsgebyr</A>
             </Pkt>
             <Pkt>
               <A>endringer i bostøtteloven – behandling av personopplysninger
@@ -216,8 +216,8 @@ og automatiserte beslutninger</A>
             <Pkt>
               <A>endringer i åndsverkloven mv., gjennomføring av nett- og
 videresendingsdirektivet og digitalmarkedsdirektivet, og samtykke
-til godkjenning av EØS-komiteens beslutning nr. 332/2023 og 333/2023,
-om innlemmelse i EØS-avtalen av EU-direktivene 2019/789 og 2019/790,
+til godkjenning av EØS-komiteens beslutning nr. 332/2023 og 333/2023,
+om innlemmelse i EØS-avtalen av EU-direktivene 2019/789 og 2019/790,
 og samtykke til tiltredelse til WIPO-traktatene av 20. desember
 1996, om opphavsrett, WCT, og om fremføringer og fonogrammer, WPPT</A>
             </Pkt>
@@ -243,7 +243,7 @@ til sjøs</A>
             <Pkt>
               <A>endringer i støtteprosessloven, gjennomføring av revidert
 prosedyreforordning, og samtykke til deltakelse i EØS-komiteens
-beslutning om innlemmelse i EØS-avtalen av EU-forordningene 734/2013
+beslutning om innlemmelse i EØS-avtalen av EU-forordningene 734/2013
 og 2015/1589, om revisjon av prosedyreforordningen, statsstøtte,
 og til inngåelse av avtale om endring av protokoll 3 til Avtale
 mellom EFTA-statene om opprettelse av et overvåkningsorgan og en
@@ -252,8 +252,8 @@ domstol, ODA</A>
             <Pkt>
               <A>lov om infrastruktur for alternativt drivstoff og samtykke til
 deltakelse i en beslutning i EØS-komiteen om innlemmelse i EØS-avtalen
-av EU-forordning 2023/1804, om utbygging av infrastruktur for alternativt
-drivstoff og om oppheving av EU-direktiv 2014/94</A>
+av EU-forordning 2023/1804, om utbygging av infrastruktur for alternativt
+drivstoff og om oppheving av EU-direktiv 2014/94</A>
             </Pkt>
           </Liste>
         </Hovedinnlegg>
@@ -264,13 +264,13 @@ vil bli behandlet på reglementsmessig måte.</A>
         </Presinnlegg>
       </Motestart>
     </Startseksjon>
-    <Hovedseksjon Id="i1001548">
+    <Hovedseksjon Id="i1002169">
       <Saker>
         <Sak saksKartNr="1">
           <Sakshode>
             <Saknr>
               <Uth Type="Sperret">Sak nr. 1</Uth> [10:10:28]</Saknr>
-            <Saktittel Id="i1001550">
+            <Saktittel Id="i1002171">
               <A>Muntlig spørretime</A>
             </Saktittel>
           </Sakshode>
@@ -285,7 +285,7 @@ og vi er klare til å starte den muntlige spørretimen.</A>
             <A Type="Minnrykk">Vi starter da med første hovedspørsmål, fra
 representanten Marius Arion Nilsen.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1001552">
+          <Hovedinnlegg Id="i1002173">
             <A>
               <Navn personID="MARNIL">
 Marius Arion Nilsen (FrP) [10:11:04]:</Navn> I 2022 sto daværende
@@ -294,34 +294,34 @@ i Mo i Rana og proklamerte at Norge skulle bli en ledende batterinasjon.
 Batteriverdikjeden alene skulle omsette for 90 mrd. kr og sysselsette
 titusenvis innen 2030. Statsministeren la ned grunnsteiner og klippet
 snorer. Regjeringen kalte det et grønt industriløft og lovet å bruke 60 mrd. kr
-på gjøre Norge til en grønn industrikjempe innen 2025. Nå, i 2026,
-kan vi gjøre opp deler av regnskapet. Freyr fikk over 200 mill. kr
-i statlig støtte, skrinla fabrikken i Mo i Rana, skiftet navn og
-flyttet til Texas. Flere av gründerne, som var de eneste som tjente
-på dette, ble rike, og enkelte flyttet til Sveits for å slippe å
-betale skatt til Norge. Beyonder fikk støtte og flyttet produksjonen
-til Kina. Hreinn gikk konkurs etter å ha fått støtte fra Fredrikstad
-kommune, og Morrow Batteries, som fikk et statlig lån og finansiering
-på 1,5 mrd. kr bare uker før det ble klart at selskapet var i alvorlige
-problemer, er nå verdsatt til null av sin hovedaksjonær Å energi,
-som kan ha tapt 1,3 mrd. kr. </A>
+på å gjøre Norge til en grønn industrikjempe innen 2025. </A>
+            <A Type="Minnrykk">Nå, i 2026, kan vi gjøre opp deler av regnskapet.
+Freyr fikk over 200 mill. kr i statlig støtte, skrinla fabrikken
+i Mo i Rana, skiftet navn og flyttet til Texas. Flere av gründerne, som
+var de eneste som tjente på dette, ble rike, og enkelte flyttet
+til Sveits for å slippe å betale skatt til Norge. Beyonder fikk støtte
+og flyttet produksjonen til Kina. Hreinn gikk konkurs etter å ha
+fått støtte fra Fredrikstad kommune, og Morrow Batteries, som fikk
+et statlig lån og finansiering på 1,5 mrd. kr bare uker før det
+ble klart at selskapet var i alvorlige problemer, er nå verdsatt
+til null av sin hovedaksjonær Å energi, som kan ha tapt 1,3 mrd. kr. </A>
             <A Type="Minnrykk">Samtidig har regjeringen forpliktet skattebetalerne
 til minst 60 mrd. kr mer i havvindsubsidier til prosjekter som ledende
 økonomer kaller et subsidiesluk. Det er altså ikke bare FrP som
 er skeptisk til regjeringens ukritiske pengebruk. Ikke minst har
 regjeringens eget finanspolitiske utvalg flere ganger anbefalt å
 sette dette på pause. Da strømpriskrisen herjet som verst, som den
-igjen gjør nå, med 2 kr/kWh fikk regjeringen kritikk for kun å følge
-nøye med og sette ned utvalg, men det er ikke alt den har gjort.
-Den har også produsert strategier for grønne satsinger i stort monn:
-grønt industriløft, mineralstrategi, batteristrategi, hydrogenstrategi,
-helsenæringsstrategi, maritim eksport- og industristrategi, eksportreformen
-Hele Norge eksporterer osv. </A>
+igjen gjør nå, med 2 kr/kWh, fikk regjeringen kritikk for kun å
+følge nøye med og sette ned utvalg, men det er ikke alt den har
+gjort. Den har også produsert strategier for grønne satsinger i
+stort monn: grønt industriløft, mineralstrategi, batteristrategi,
+hydrogenstrategi, helsenæringsstrategi, maritim eksport- og industristrategi,
+eksportreformen Hele Norge eksporterer osv. </A>
             <A Type="Minnrykk">Mitt spørsmål til næringsministeren bør være
 enkelt å svare ut: Hvor mange milliarder kroner har skattebetalerne samlet
 tjent på alle regjeringens grønne industrieventyr?</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1001554">
+          <Hovedinnlegg Id="i1002175">
             <A>
               <Navn personID="CTM">
 Statsråd Cecilie Myrseth [10:13:06]:</Navn> Dette var en sammenfatning
@@ -334,69 +334,71 @@ samfunnet i Norge gjøre. Det er jeg glad for at vår regjering har
 fokusert på, og at også mange andre partier på Stortinget er opptatt
 av.</A>
             <A Type="Minnrykk">Det er viktig å si at en regjering og vi politikere
-sitter ikke og plukker vinnere. Det vi gjør, er å lage rammevilkår
-som gjør at man har et virkemiddelapparat som bidrar til den omstillingen
+ikke sitter og plukker vinnere. Det vi gjør, er å lage rammevilkår
+som gjør at man har et virkemiddelapparat som skal bidra til den omstillingen
 som vi er inne i, med tanke på at vi både kommer til å mangle folk,
-må jobbe mer effektivt for å sikre verdiskapingen og også at vi
-må få ned utslippene og ta i bruk ny teknologi osv. Det kommer vi
-til å fortsette å gjøre framover. Det kommer til å være mindre penger
-i virkemiddelapparatet nå enn det var tidligere, for vi må bruke
-pengene annerledes. Vi må sikre at hver krone vi bruker, går til
-det de skal, nettopp fordi det er skattebetalernes penger.</A>
+må jobbe mer effektivt for å sikre verdiskapingen, og også at vi
+må få ned utslippene og ta i bruk ny teknologi, osv. Det kommer
+vi til å fortsette å gjøre framover. Det kommer til å være mindre
+penger i virkemiddelapparatet nå enn det var tidligere, for vi må
+bruke pengene annerledes. Vi må sikre at hver krone vi bruker, går
+til det de skal, nettopp fordi det er skattebetalernes penger.</A>
             <A Type="Minnrykk">Det er interessant at når det passer for FrP,
-så drar man fram økonomene – hva økonomene mener er gunstig og lønnsomt
-for Norge. Det er ikke en konsekvent linje for FrP. Det er også
-interessant at man drar opp prosjektet Freyr, som tok fart under
-en annen regjering enn vår regjering. Det var under den borgerlige
-regjeringen man ga det meste av støtte til den fabrikken. Og det
-er viktig å si: Vi kjører mer elbiler, og vi kommer til å trenge
-batterier også framover. Vi har bedrifter i Norge som produserer
-deler av batteri og battericeller, og det kommer de forhåpentligvis
-til å fortsette å gjøre framover, for det trenger vi også med tanke
-på å være mer selvforsynt av kritiske råvarer.</A>
+drar man fram økonomene – hva økonomene mener er gunstig og lønnsomt for
+Norge. Det er ikke en konsekvent linje for FrP. Det er også interessant
+at man drar opp prosjektet Freyr, som tok fart under en annen regjering
+enn vår regjering. Det var under den borgerlige regjeringen man
+ga det meste av støtte til den fabrikken.</A>
+            <A Type="Minnrykk">Dette er også viktig å si: Vi kjører mer elbiler,
+og vi kommer til å trenge batterier også framover. Vi har bedrifter
+i Norge som produserer deler av batteri og ikke minst battericeller, og
+det kommer de forhåpentligvis til å fortsette å gjøre framover,
+for det trenger vi også med tanke på å være mer selvforsynt med
+kritiske råvarer.</A>
           </Hovedinnlegg>
-          <Replikk Id="i1001556">
+          <Replikk Id="i1002177">
             <A>
               <Navn personID="MARNIL">
 Marius Arion Nilsen (FrP) [10:15:10]:</Navn> Jeg takker for svaret.
-Det at man ikke sitter og plukker vinnere – det er akkurat det man
-har gjort. Man har pekt ut enkelte næringer som man i liten grad
-liker, først og fremst ved å skattlegge dem de er til for, og man
-har plukket ut vinnere, som får disse skattene i form av subsidier.</A>
+Til det at man ikke sitter og plukker vinnere: Det er akkurat det
+man har gjort. Man har pekt ut enkelte næringer som man i liten
+grad liker, først og fremst ved å skattlegge dem de er til for,
+og man har plukket ut vinnere, som får disse skattene i form av
+subsidier.</A>
             <A Type="Minnrykk">Jeg tenkte strengt tatt jeg ga statsråden en
 lissepasning til å skryte av all verdiskapingen regjeringen har
 generert med de grønne industrisatsingene, til å skryte av milliardene
-som kommer inn på statsbudsjettet, men jeg hørte ikke noe. Med tanke
+som kommer inn på statsbudsjettet, men jeg hørte ingenting. Med tanke
 på all brask og bram alle disse satsingene kom med, burde det ikke
 være vanskelig å peke på utallige suksesshistorier.</A>
             <A Type="Minnrykk">Støre-regjeringens utenlandsreiser pleier alltid
-å koste dyrt. Det går en del titalls milliarder til bistand, klimafond, Regnskogsfondet
+å koste dyrt. Det går en del titalls milliarder til bistand, klimafond, Regnskogfondet
 osv., men det har også gått masse penger når næringsministeren har
 vært rundt og reist. En milliard her, en milliard der – det blir
 fort penger av det. Spørsmålet er: Hvis man ikke kan peke på inntektene
 som er generert, hvor mye penger har man brukt på det grønne industriløftet
 så langt?</A>
           </Replikk>
-          <Replikk Id="i1001558">
+          <Replikk Id="i1002179">
             <A>
               <Navn personID="CTM">
 Statsråd Cecilie Myrseth [10:16:13]:</Navn> Det er litt krevende
-å få tak i hva som egentlig er spørsmålet representanten kommer
-med, for man viser til ganske mye ulikt i det man kommer med. Det
-er ikke regjeringen som plukker ut hvilke bedrifter og andre som
-får støtte fra ordningene vi har. Vi skal anerkjenne at det er stor
-forskjell mellom Arbeiderpartiet og Fremskrittspartiet, hvor man
-fra Arbeiderpartiets side ønsker å ha en aktiv næringspolitikk der
-staten skal stille opp, men også stille veldig strenge krav. Og
-ja, vi skal fortsette å ha ordninger som bidrar til å få ned utslippene
-i Norge. Det er også viktig for å sikre arbeidsplasser og verdiskaping
-i lokalsamfunn rundt om i hele landet.</A>
+å få tak i hva som egentlig er spørsmålet til representanten, for
+man viser til ganske mye ulikt i det man kommer med. Det er ikke
+regjeringen som plukker ut hvilke bedrifter og andre som får støtte
+fra ordningene vi har. Samtidig skal vi anerkjenne at det er stor
+forskjell mellom Arbeiderpartiet og Fremskrittspartiet. Fra Arbeiderpartiets
+side ønsker man å ha en aktiv næringspolitikk der staten skal stille
+opp, men også stille veldig strenge krav – og ja, vi skal fortsette
+å ha ordninger som bidrar til å få ned utslippene i Norge. Det er også
+viktig for å sikre arbeidsplasser og verdiskaping i lokalsamfunn
+rundt om i hele landet.</A>
             <A Type="Minnrykk">Det konkrete beløpet representanten spør om,
 må jeg få litt mer presist. Det kan vi ta skriftlig, for det kan
-jeg ikke ta over bordet da det er litt uklart hva det er man legger
+jeg ikke ta over bordet, da det er litt uklart hva det er man legger
 i spørsmålet.</A>
           </Replikk>
-          <Replikk Id="i1001560">
+          <Replikk Id="i1002181">
             <A>
               <Navn personID="MARNIL">
 Marius Arion Nilsen (FrP) [10:17:09]:</Navn> I mitt første spørsmål
@@ -409,7 +411,7 @@ jeg statsråden har oversikt over, men hun skal få anledning til
 for at Norge har noe å leve av etter oljen – altså Støre-regjeringens
 selektive utvelgelse av næringer som regjeringen har støttet og likt,
 som har fått subsidier, støtte og drahjelp, mens resten av næringslivet
-ble skattlagt så mye som mulig. Et godt eksempel er batterifabrikken
+blir skattlagt så mye som mulig. Et godt eksempel er batterifabrikken
 Freyr, som har blitt nevnt. Det er ett eksempel, og det er småpenger.</A>
             <A Type="Minnrykk">Regjeringen har økt de generelle skattene betydelig
 for alle bedrifter og norsk eierskap. Samtidig har man pøst ut mange
@@ -418,27 +420,27 @@ er: Mener statsråden, nå som vi ser deler av resultatet, og når
 inntektene skulle ha begynt å bli generert, at dette var og fremdeles
 er ansvarlig bruk av skattebetalernes penger?</A>
           </Replikk>
-          <Replikk Id="i1001562">
+          <Replikk Id="i1002183">
             <A>
               <Navn personID="CTM">
-Statsråd Cecilie Myrseth [10:18:13]:</Navn> Jeg mener hvert fall
+Statsråd Cecilie Myrseth [10:18:13]:</Navn> Jeg mener i hvert fall
 ikke det er ansvarlig at man skal legge ned det norske virkemiddelapparatet,
 slik FrP gang på gang tar til orde for. Det kommer ikke til å bidra
-til den forutsigbarheten og støtten norsk industri trenger når vi
-er på vei gjennom en viktig og stor omstilling, som også bidrar
+til den forutsigbarheten og støtten norsk næringsliv trenger når
+vi er på vei gjennom en viktig og stor omstilling, som også bidrar
 til at vi har næringsliv over hele landet.</A>
             <A Type="Minnrykk">Vi kan ikke glemme at vi fremdeles står oppe
 i store utfordringer når det gjelder klima. Det må alle partiene,
-inkludert FrP, ta innover seg. Det er betydelig avgjørende for norsk næringslivs
-konkurransekraft og konkurranseevne framover. Arbeidet med konkurransekraft
-i næringslivet er et av de viktigste prosjektene for regjeringen.
-Det handler om at vi har virkemidler som støtter, det handler om
-forenkling, det handler om å sikre markedsadgang, det handler om
-å ikke sette EØS-avtalen i spill, og det handler om at vi må satse
-på de kritiske verdikjedene, noe som gjør at vi også tar sikkerhet
-og beredskap på alvor.</A>
+inkludert FrP, ta inn over seg. Det er i betydelig grad avgjørende for
+norsk næringslivs konkurransekraft og konkurranseevne framover.
+Arbeidet med konkurransekraft i næringslivet er et av de viktigste
+prosjektene for regjeringen. Det handler om at vi har virkemidler
+som støtter opp, det handler om forenkling, det handler om å sikre
+markedsadgang, det handler om å ikke sette EØS-avtalen på spill,
+og det handler om at vi må satse på de kritiske verdikjedene, noe
+som gjør at vi også tar sikkerhet og beredskap på alvor.</A>
           </Replikk>
-          <Replikk Id="i1001564">
+          <Replikk Id="i1002185">
             <A>
               <Navn personID="MARNIL">
 Marius Arion Nilsen (FrP) [10:19:13]:</Navn> Klima er et annet godt
@@ -454,7 +456,7 @@ næringer ble utviklet. Det høres ut som man plukker vinnere. Har
 det da vært lettere å få støtte til prosjekter i disse politisk
 utpekte næringene enn til prosjekter i andre næringer?</A>
           </Replikk>
-          <Replikk Id="i1001566">
+          <Replikk Id="i1002187">
             <A>
               <Navn personID="CTM">
 Statsråd Cecilie Myrseth [10:20:05]:</Navn> Det representanten hopper
@@ -463,18 +465,18 @@ bukk over, er at vi behandlet industrimeldingen her i salen i vår
 handler om teknologiutvikling og å ta i bruk ny grønn teknologi,
 det handler om å sikre markedsadgang, og det handler ikke minst
 om kraft. Det hadde vært interessant om FrP én gang kunne sagt hvordan
-man skal sikre å få på plass enda mer fornybar grønn energi. Det
+man skal sikre å få på plass enda mer fornybar, grønn energi. Det
 har man ingen plan for, men man er åpen om hva man er imot. Det
 er bl.a. havvindsatsingen, som er viktig for å sikre at vi får på
 plass enda mer grønn energi som industrien trenger, som forbrukerne
 trenger, og som Norge trenger. Vi trenger å være mer forsynt med
-det – vi jobber med en rekke grep i industrien som er viktig. La
-meg nevne to viktige næringer som jeg gladelig plukker ut: Det er
-mineraler, og det handler om «space». Der kan Norge være med og
-lede an om vi gjør de riktige politisk grepene. Da kreves det politisk
-vilje, som regjeringen har.</A>
+det, så vi jobber med en rekke grep i industrien som er viktige.
+La meg nevne to viktige næringer som jeg gladelig plukker ut: Det
+er mineraler, og det handler om «space». Der kan Norge være med
+og lede an om vi gjør de riktige politiske grepene. Da kreves det
+politisk vilje, som regjeringen har.</A>
           </Replikk>
-          <Replikk Id="i1001568">
+          <Replikk Id="i1002189">
             <A>
               <Navn personID="MARNIL">
 Marius Arion Nilsen (FrP) [10:21:14]:</Navn> Jeg håper statsråden
@@ -487,11 +489,11 @@ ny krafteksportrekord i fjor. </A>
 å få støtte, lettere å få satsinger i de næringene man har pekt
 ut. Hvis det ikke har noe for seg, hvorfor peker man ut næringer?
 Hvorfor kommer man med x antall strategier hvis det ikke er noen
-fortrinn? Hva er poenget med alle regjeringens vidløftige strategier
-og tiltak som skal sikre det grønne industriløftet, hvis det ikke
+fortrinn? Hva er poenget med alle vidløftige strategier og tiltak fra
+regjeringen som skal sikre det grønne industriløftet, hvis det ikke
 gir noen fordeler? Kan statsråden svare på det?</A>
           </Replikk>
-          <Replikk Id="i1001570">
+          <Replikk Id="i1002191">
             <A>
               <Navn personID="CTM">
 Statsråd Cecilie Myrseth [10:22:11]:</Navn> Jeg tror representanten
@@ -510,19 +512,19 @@ for romindustrien som er ufattelig spennende for Norge, men det
 er også viktig for Europa at man lykkes her i Norge. </A>
             <A Type="Minnrykk">Det er ikke slik at alt handler om kroner og
 øre. Vi må være sikre på at hver og en krone vi bruker på virkemiddelapparatet,
-brukes riktig, og at vi kan stå for det. Og så har vi kriterier
-som gjør at man plukker ut hvem som får de ulike støtteordningene,
+brukes riktig, og at vi kan stå for det. Det er også sånn at vi
+har kriterier som gjør at man plukker ut hvem som får de ulike støtteordningene,
 det gjør ikke vi politikere.</A>
           </Replikk>
-          <Replikk Id="i1001572">
+          <Replikk Id="i1002193">
             <A>
               <Navn personID="MARNIL">
 Marius Arion Nilsen (FrP) [10:23:16]:</Navn> Det kunne vært nærliggende
 å konkludere med at statsråd Myrseth har sett det samme som Fremskrittspartiet
-har sett og sagt i mange år: at det å plukke vinnerne og komme med
-utallige strategier og løft har ingenting for seg. Det har jo blitt
-vesentlig færre etter at statsråden tiltrådte som næringsminister,
-enn tidligere, da de kom på løpende bånd.</A>
+har sett og sagt i mange år: Det å plukke vinnere og komme med utallige
+strategier og løft har ingenting for seg. Det har jo blitt vesentlig
+færre etter at statsråden tiltrådte som næringsminister, enn tidligere,
+da de kom på løpende bånd.</A>
             <A Type="Minnrykk">I oppdragsbrevet til Innovasjon Norge for 2026
 skriver regjeringen:</A>
             <Sitat Type="Minnrykk">
@@ -534,30 +536,30 @@ i 2050.»</A>
             <A Type="Minnrykk">Tildelingsbrevet til Forskningsrådet har en
 lignende formulering. Innebærer dette nå at det er vanskeligere
 for petroleumsrettede prosjekter å få støtte fra Innovasjon Norge
-enn like lovende prosjekter i andre næringer? Det er spesielt urovekkende
+enn for like lovende prosjekter i andre næringer? Det er spesielt urovekkende
 i dagens energikrise og dagens urolige verden.</A>
           </Replikk>
-          <Replikk Id="i1001574">
+          <Replikk Id="i1002195">
             <A>
               <Navn personID="CTM">
 Statsråd Cecilie Myrseth [10:24:11]:</Navn> Det er fint at man leser
 opp direkte fra det oppdragsbrevet som er gitt fra Nærings- og fiskeridepartementet.
 Omstilling handler om å gjøre ting grønnere. Det handler om å få
 opp nye næringer. Det handler om å få opp ny teknologi for å være
-konkurransedyktig i den tiden vi lever i. Så gjør vi mye når det
+konkurransedyktig i den tiden vi lever i. Vi gjør også mye når det
 gjelder den sikkerhetspolitiske situasjonen vi står i, ikke minst
 i dialog med næringslivet. Det er ingen tvil om at vi er i en tid som
 er særlig krevende for både næringsliv og ikke minst innbyggere
 og forbrukere, fordi det er så mye uro som påvirker hverdagen vår.</A>
             <A Type="Minnrykk">Denne regjeringen kommer til å fortsette å
 arbeide mot å få ned utslippene og sikre at vi får på plass ny grønn
-teknologi og gjøre industrien grønnere. Her er ikke FrP og Arbeiderpartiet
+teknologi og gjør industrien grønnere. Her er ikke FrP og Arbeiderpartiet
 så veldig like, for det er noe FrP overser glatt hver eneste gang
-det snakk om det. De har ingen løsninger på det. Når det gjelder
+det er snakk om det. De har ingen løsninger på det. Når det gjelder
 planen for fornybar kraft, hører jeg at man snakker om at den er
 veldig tydelig – det er rart at veldig få har fått det med seg.</A>
           </Replikk>
-          <Replikk Id="i1001576">
+          <Replikk Id="i1002197">
             <A>
               <Navn personID="MARNIL">
 Marius Arion Nilsen (FrP) [10:25:12]:</Navn> Takk og pris for at
@@ -566,48 +568,48 @@ et næringsliv som får forutsigbarhet, forenklinger og lavere skatter
 og avgifter, og som faktisk kan legge og peke ut en vei selv, istedenfor
 å ha en regjering som sitter der og peker ut, og som skaper et subsidiedrevet
 næringsliv.</A>
-            <A Type="Minnrykk">Det er akkurat det økonomien Magne Mogstad
-ved University of Chicago har advart om, at norske bedrifter i økende grad
+            <A Type="Minnrykk">Det er akkurat det økonomen Magne Mogstad ved
+University of Chicago har advart om, at norske bedrifter i økende grad
 innretter seg mot statlig støtte på bekostning av verdiskaping.
 Subsidierte batterifabrikker skal få strøm fra subsidiert havvind
 med betong fra subsidiert CO<Sub>2</Sub>-fangst, og problemene skal
 løses med subsidiert hydrogen.</A>
-            <A Type="Minnrykk">Ser ikke statsråden at dette kun et subsidiesluk
+            <A Type="Minnrykk">Ser ikke statsråden at dette kun er et subsidiesluk
 der den ene subsidien bare begrunner den neste, der dette bare er
 et uendelig løp som kommer til å koste stadig mer penger?</A>
           </Replikk>
-          <Replikk Id="i1001578">
+          <Replikk Id="i1002199">
             <A>
               <Navn personID="CTM">
 Statsråd Cecilie Myrseth [10:26:10]:</Navn> Det var da voldsomt
 til dommedagsprofetier om alt som ikke er mulig å få til i Norge.
 Jeg deler ikke den oppfatningen representanten har.</A>
-            <A Type="Minnrykk">Det jeg ser, er at vi både i Norge og sammen
-med resten av Europa trenger å være mer selvforsynt når det gjelder
-kritiske verdikjeder. Vi må sikre at vi har på plass enda mer fornybar
-energi, og det er noen verdikjeder som er særlig viktige. Og ja,
-også batteriverdikjedene er viktige. De er viktige for Europa, og
-derfor er det nå store satsinger på store fabrikker i resten av
-Europa. Det er ikke sånn at det bugner over i Norge med masse batterifabrikker,
-som man kan få inntrykk av når FrP bruker sin retorikk, som de bruker
-hver eneste gang vi snakker om næringsliv.</A>
+            <A Type="Minnrykk">Det jeg ser, er at vi i Norge, og sammen med
+resten av Europa, trenger å være mer selvforsynt når det gjelder
+kritiske verdikjeder. Vi må sikre at vi har på plass enda mer fornybar energi,
+og det er noen verdikjeder som er særlig viktige – og ja, også batteriverdikjedene
+er viktige. De er viktige for Europa, og derfor er det nå store
+satsinger på store fabrikker i resten av Europa. Det er ikke sånn
+at det i Norge bugner av masse batterifabrikker, slik man kan få
+inntrykk av når FrP bruker sin retorikk, som de bruker hver eneste
+gang vi snakker om næringsliv.</A>
             <A Type="Minnrykk">Det som er sikkert når det gjelder å skape
 uforutsigbarhet, er: Hva var det FrP gjorde for bare få uker siden
 når det gjelder Melkøya? De satte både arbeidsplasser, verdiskaping, økonomi
-og bedrifter i fare med kontrakter som er inngått, og det som trengs
-for både å forlenge levetiden på anlegget og å sikre at vi har kraft
-og ikke minst får inntekter fra det anlegget.</A>
+og bedrifter i fare i forbindelse med kontrakter som er inngått,
+og med det som trengs for både å forlenge levetiden på anlegget
+og å sikre at vi har kraft og ikke minst får inntekter fra det anlegget.</A>
           </Replikk>
-          <Replikk Id="i1001580">
+          <Replikk Id="i1002201">
             <A>
               <Navn personID="MARNIL">
 Marius Arion Nilsen (FrP) [10:27:12]:</Navn> Det låter utrolig hult
 når man hører denne statsråden og regjeringen snakke om forutsigbarhet
 og betingelser for næringslivet. Man har en energi- og klimapolitikk
 som er strengere enn EUs, og EU må komme med diverse kompenserende
-tiltak for å rette opp i ulempene av egen klimapolitikk. Denne regjeringen sammen
-med Høyre, Venstre og de andre partiene har sørget for at vi har
-enda strengere krav. Dette vil jo bare si at behovet for subsidier
+tiltak for å rette opp i ulempene av egen klimapolitikk. Denne regjeringen, sammen
+med Høyre, Venstre og de andre partiene, har da sørget for at vi
+har enda strengere krav. Det vil jo bare si at behovet for subsidier
 og behovet for kompensasjon blir ytterligere forsterket og større
 i Norge med denne regjeringens politikk.</A>
             <A Type="Minnrykk">Det som er interessant, og det jeg gjerne vil
@@ -617,26 +619,26 @@ hvor mye det har kostet. Hvem mener da statsråden er ansvarlig for
 milliardtapene, og mener man at dette har vært en vellykket grønn
 satsing?</A>
           </Replikk>
-          <Replikk Id="i1001582">
+          <Replikk Id="i1002203">
             <A>
               <Navn personID="CTM">
 Statsråd Cecilie Myrseth [10:28:16]:</Navn> Det er veldig mange
 påstander fra representanten som går inn i hverandre, så hvor skal
 jeg starte? Det som er sikkert, er at både investeringene og eksporttallene
 går opp i Norge. Ledigheten er lav, og det er forutsigbare rammebetingelser
-i Norge i en veldig urolig verden. Det må vi ta innover oss.</A>
+i Norge i en veldig urolig verden. Det må vi ta inn over oss.</A>
             <A Type="Minnrykk">Veldig mye av det som også påvirker Norge,
-norsk økonomi og norsk næringsliv, er også faktor som kommer utenifra.
+norsk økonomi og norsk næringsliv, er også faktorer som kommer utenifra.
 Det må vi håndtere. Det må vi håndtere i dialog med resten av verden,
 særlig med Europa, som er vår viktigste partner. Vi må sikre at
 konkurransekraften fortsetter å gå opp i norsk næringsliv, og det
 får vi ikke til alene. Derfor må vi være med på mye av det som nå
-skjer i EU, enten man liker det eller ikke. Og så må vi ivareta
+skjer i EU, enten man liker det eller ikke, og så må vi ivareta
 de kritiske verdikjedene. Det er mye som går bra i norsk næringsliv,
 men det er også veldig viktig at vi jobber sammen, og at staten
 stiller opp og stiller krav samtidig.</A>
           </Replikk>
-          <Replikk Id="i1001584">
+          <Replikk Id="i1002205">
             <A>
               <Navn personID="HARVAL">
 Harry Valderhaug (KrF) [10:29:29]:</Navn> Første spørsmål: Noreg
@@ -650,16 +652,16 @@ grad stimulerer til nye teknologiselskap og innovasjon, eller risikerer
 vi at politikken i større grad favoriserer subsidierte prosjekt
 framfor nye gründerselskap og teknologieventyr?</A>
           </Replikk>
-          <Replikk Id="i1001586">
+          <Replikk Id="i1002207">
             <A>
               <Navn personID="CTM">
 Statsråd Cecilie Myrseth [10:30:18]:</Navn> Jeg merker meg at KrF
 har gått over til samme type retorikk som FrP og bruker ordet subsidier
 i nesten annenhver setning. Det er ikke sånn at vi driver med stor
 subsidiering i Norge. Det å ha virkemidler som også stiller krav
-– veldig mye av det er lån på markedsmessige vilkår – det er noe
-helt annet. </A>
-            <A Type="Minnrykk">Man kan aldri si som næringsminister at betingelsene
+– veldig mye av det er lån på markedsmessige vilkår – er noe helt
+annet. </A>
+            <A Type="Minnrykk">Man kan aldri som næringsminister si at betingelsene
 er gode nok, at man har løst alle utfordringer, for det har man ikke.
 Verden utvikler og endrer seg, og vi må følge med i takt med det
 som skjer. Denne regjeringen har lagt fram en ny gründermelding
@@ -671,7 +673,7 @@ skjer med f.eks. Konkurranseevnefondet i EU, er også kjempeviktig
 for norsk næringsliv. Vi kan aldri være fornøyd med at ting er slik
 de er, vi må alltid prøve å bli bedre.</A>
           </Replikk>
-          <Replikk Id="i1001588">
+          <Replikk Id="i1002209">
             <A>
               <Navn personID="HARVAL">
 Harry Valderhaug (KrF) [10:31:24]:</Navn> Vi ser også at fleire
@@ -680,9 +682,10 @@ ut av Noreg. Dei peikar bl.a. på skattesystemet og rammevilkår for
 eigarskap. Samtidig veit vi at nye arbeidsplassar i stor grad kjem
 frå unge vekstselskap. Er statsråden bekymra for at vi er i ferd
 med å skyve nettopp desse gründermiljøa ut av landet? Kva skal regjeringa
-gjere for å sikre at morgondagens selskap faktisk byggjast her i Noreg?</A>
+gjere for å sikre at morgondagens selskap faktisk vert bygde her
+i Noreg?</A>
           </Replikk>
-          <Replikk Id="i1001590">
+          <Replikk Id="i1002211">
             <A>
               <Navn personID="CTM">
 Statsråd Cecilie Myrseth [10:31:57]:</Navn> Norge er et stabilt,
@@ -695,12 +698,12 @@ an når selskapene skal vokse. </A>
             <A Type="Minnrykk">Vi vet at det i vekstfasen er noen særlige
 utfordringer. Det er ikke bare en norsk utfordring, vi ser den også
 i resten av Europa. Derfor er arbeidet vi gjør med å øke konkurransekraften,
-så utrolig viktig, og der må vi se på tvers av ulike land. Norge
-er et bra land å drive næringsvirksomhet i. Så er det viktig å si
-at det er en grunn til at denne regjeringen satte i gang arbeidet
+så utrolig viktig, og der må vi se på tvers av ulike land, men Norge
+er et bra land å drive næringsvirksomhet i. Det er også viktig å
+si at det er en grunn til at denne regjeringen satte i gang arbeidet
 med en skattekommisjon.</A>
           </Replikk>
-          <Replikk Id="i1001592">
+          <Replikk Id="i1002213">
             <A>
               <Navn personID="GKAL">
 Grunde Almeland (V) [10:33:11]:</Navn> Det er unektelig noe spesielt
@@ -711,7 +714,7 @@ oljeleting eller oljenæringen generelt, kraftkrevende industri eller
 flybransjen, for å nevne noe. Mitt poeng er at det er en total feilslutning
 å tro at det å la være å bruke statens økonomiske muskler som motor
 i det grønne skiftet vil føre til innsparinger for det norske samfunnet.
-Prisen for å ikke gjøre noe, som er det FrP vil, vil bli mye høyere
+Prisen for ikke å gjøre noe, som er det FrP vil, vil bli mye høyere
 for bedrifter og næringsliv og for folk flest. Poenget er at vi
 må ta de riktige grepene og bruke statens penger der de har størst
 effekt. </A>
@@ -719,51 +722,51 @@ effekt. </A>
 ved norsk næringsliv og norsk industris konkurransekraft. Mitt spørsmål
 til næringsministeren er derfor følgende: Har Næringsdepartementet
 eller regjeringen gjort noen kostnadsberegninger av hva det vil
-bety i tapt konkurransekraft for norsk næringsliv å ikke gjennomføre
+bety i tapt konkurransekraft for norsk næringsliv ikke å gjennomføre
 en grønn omstilling?</A>
           </Replikk>
-          <Replikk Id="i1001594">
+          <Replikk Id="i1002215">
             <A>
               <Navn personID="CTM">
 Statsråd Cecilie Myrseth [10:34:16]:</Navn> Først tror jeg det er
-viktig å ikke forveksle meg med representanten fra FrP, som snakket
+viktig ikke å forveksle meg med representanten fra FrP, som snakket
 imot grønn omstilling og at vi skal ha virkemidler for det. Regjeringen
-er veldig opptatt av det, og ikke minst derfor er oppdragsbrevene
-til virkemiddelaktørene slik de nettopp er. </A>
+er veldig opptatt av nettopp det, og ikke minst derfor er oppdragsbrevene
+til virkemiddelaktørene slik de er. </A>
             <A Type="Minnrykk">Jeg mener, i likhet med representanten, at
-vi ikke har råd til å ikke fokusere på å gjennomføre en grønn omstilling
+vi ikke har råd til ikke å fokusere på å gjennomføre en grønn omstilling
 for industrien. Det er viktig for arbeidsplasser, og det er viktig
 for industrien selv. De er veldig opptatt av det. Snakker man med industrien,
 mener de det helt motsatte av det FrP prøver å påstå. De mener at
 også staten skal ta ansvar. </A>
-            <A Type="Minnrykk">Et tall på hva det vil koste å ikke gjøre det,
+            <A Type="Minnrykk">Et tall på hva det vil koste ikke å gjøre det
 kan jeg ikke gi representanten over bordet. Det handler imidlertid
 ikke bare om konsekvenser i kroner og øre. For det første må vi
-få ned klimautslippene. Det er viktig som et stort samfunnsspørsmål
-globalt. Det vil ikke bare ha betydning i form av tapt verdiskaping,
-men også på sikt i form av arbeidsplasser.</A>
+få ned klimautslippene. Det er viktig som et stort samfunnsspørsmål globalt.
+Det vil ikke bare ha betydning i form av tapt verdiskaping, men
+også på sikt i form av arbeidsplasser.</A>
           </Replikk>
-          <Replikk Id="i1001596">
+          <Replikk Id="i1002217">
             <A>
               <Navn personID="GKAL">
 Grunde Almeland (V) [10:35:17]:</Navn> Jeg vil bare presisere at
 jeg startet med å vise til hovedspørsmålet, og ikke til svaret fra
-næringsministeren. Jeg oppfatter at det er samme grunnholdning mellom
-statsråden og meg om hva næringslivet ønsker. Det er også den gjennomgangstonen
+næringsministeren. Jeg oppfatter at statsråden og jeg har samme
+grunnholdning om hva næringslivet ønsker. Det er også den gjennomgangstonen
 jeg opplever når jeg besøker bedrifter, nettopp at de ønsker stabile
-rammevilkår som muliggjør den omstillingen de ser de trenger å gå
-gjennom. </A>
+rammevilkår som muliggjør den omstillingen de ser at de trenger
+å gå gjennom. </A>
             <A Type="Minnrykk">Jeg tror at mye av klangbunnen i FrPs kritikk
-av grønne subsidier har med storstilte luftprosjekt å gjøre, også
+av grønne subsidier har å gjøre med storstilte luftprosjekt, også
 fra denne regjeringen. Et eksempel på det er det grønne industriløftet,
-som i stor grad bare har fislet ut. Det skulle brukes 60 mrd. kr
-på å utvikle nye, lønnsomme, grønne arbeidsplasser. Et av satsingsområdene
-var solindustrien, som ble effektiv torpedert av den samme regjeringen,
+som i stor grad bare har rent ut i sanden. Det skulle brukes 60 mrd.
+kr på å utvikle nye, lønnsomme, grønne arbeidsplasser. Et av satsingsområdene
+var solindustrien, som ble effektivt torpedert av den samme regjeringen,
 bl.a. på grunn av norgespris. Kan statsråden gi et anslag på hvor
 mange nye, lønnsomme, grønne arbeidsplasser regjeringens såkalte
 grønne industriløft har gitt?</A>
           </Replikk>
-          <Replikk Id="i1001598">
+          <Replikk Id="i1002219">
             <A>
               <Navn personID="CTM">
 Statsråd Cecilie Myrseth [10:36:18]:</Navn> For det første er jeg
@@ -771,13 +774,13 @@ uenig i faktabeskrivelsen til representanten når det gjelder solindustrien,
 for det som har skjedd samtidig, også under denne regjeringen, som
 har hatt ambisjoner, er at verden har endret seg. Det har vært en
 ganske stor global overproduksjon når det gjelder solindustrien,
-som har påvirket solindustrien i hele Europa, og det har vært meget
-krevende. Det har gått ut over mange industriarbeidsplasser i hele
-Europa, og selvfølgelig påvirker det også Norge og utsiktene her. </A>
-            <A Type="Minnrykk">Så er det viktig å si at vi også må ha en god
-fordelingspolitikk her i landet, og når strømutgiftene blir så høye
-som de har vært i store deler av landet, mener jeg at det var riktig
-å innføre norgespris. Men som sagt: De tallene som etterspørres,
+noe som har påvirket solindustrien i hele Europa, og det har vært
+meget krevende. Det har gått ut over mange industriarbeidsplasser
+i hele Europa, og selvfølgelig påvirker det også Norge og utsiktene her. </A>
+            <A Type="Minnrykk">Det er også viktig å si at vi også må ha en
+god fordelingspolitikk her i landet, og når strømutgiftene blir
+så høye som de har vært i store deler av landet, mener jeg at det
+var riktig å innføre norgespris. Men som sagt: De tallene som etterspørres,
 enten i form av kroner og øre eller arbeidsplasser, kan jeg ikke
 gi over bordet her. </A>
           </Replikk>
@@ -786,106 +789,106 @@ gi over bordet her. </A>
               <Navn>Presidenten [10:37:08]:</Navn> Da går vi videre
 til neste hovedspørsmål. </A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1001600">
+          <Hovedinnlegg Id="i1002221">
             <A>
               <Navn personID="ERLL">
 Erlend Larsen (H) [10:37:29]:</Navn> Nå over til noe helt annet,
 og det er «outer space» og Andøya Space Center.</A>
             <A Type="Minnrykk">Rett før påske talte næringsministeren ned
-fra ti. Næringsministeren skulle følge  rakettoppskytningen fra
-Brussel sammen med representanter fra norsk og europeisk næringsliv.
-Det skulle bli en historisk rakettoppskytning, men endte med en
-pinlig utsettelse. Politiet i Nordland hadde iverksatt ferdselsforbud
-i området rundt Andøya Spaceport, men det var ingen der til å håndheve
-forbudet. Det er vel kjent at det er noen gnisninger mellom fiskere
-og romvirksomheten, så myndighetene var absolutt advart. Oppskytningen
-var veldig viktig for norsk renommé – for  norsk omdømme. Et par
-steinkast fra Andøya ligger hovedbasen til Kystvakten. Det er de som
-har politiansvaret på havet, og de burde vært til stede og sikret
-forbudsområdet. Mitt spørsmål til statsråden er da: Hvorfor var
-det ikke norsk myndighetsutøvelse til stede for å sørge for at oppskytningen
-foregikk slik den skulle?</A>
+fra ti. Næringsministeren skulle følge rakettoppskytingen fra Brussel sammen
+med representanter fra norsk og europeisk næringsliv. Det skulle
+bli en historisk rakettoppskyting, men endte med en pinlig utsettelse.
+Politiet i Nordland hadde iverksatt ferdselsforbud i området rundt
+Andøya Spaceport, men det var ingen der til å håndheve forbudet.
+Det er vel kjent at det er noen gnisninger mellom fiskere og romvirksomheten,
+så myndighetene var absolutt advart. </A>
+            <A Type="Minnrykk">Oppskytingen var veldig viktig for norsk renommé
+– for norsk omdømme. Et par steinkast fra Andøya ligger hovedbasen
+til Kystvakten. Det er de som har politiansvaret på havet, og de
+burde vært til stede og sikret forbudsområdet. Mitt spørsmål til
+statsråden er da: Hvorfor var det ikke norsk myndighetsutøvelse
+til stede for å sørge for at oppskytingen foregikk slik den skulle?</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1001602">
+          <Hovedinnlegg Id="i1002223">
             <A>
               <Navn personID="CTM">
-Statsråd Cecilie Myrseth [10:38:32]:</Navn> Det er veldig bra det
+Statsråd Cecilie Myrseth [10:38:32]:</Navn> Det er veldig bra, det
 som nå skjer på Andøya, og det følger jeg med stor entusiasme. Jeg
-håper å få med meg den oppskytningen som forhåpentligvis kommer
-ganske snart.</A>
+håper å få med meg den oppskytingen som forhåpentligvis kommer ganske
+snart.</A>
             <A Type="Minnrykk">Jeg er også veldig glad for at europeisk industri
 – alle rominteresserte – følger med på det som skjer i Norge. Det
 er viktig for Norge, og det er viktig for Tyskland. Så er det viktig å
-huske på at dette er helt nytt. Det er mye som skjer på Andøya.
-Det er mye økt forsvarsaktivitet, og vi skal øke aktiviteten når
-det gjelder «space». Selv om man har holdt på med «space» på Andøya
+huske at dette er helt nytt. Det er mye som skjer på Andøya. Det
+er mye økt forsvarsaktivitet, og vi skal øke aktiviteten når det
+gjelder «space». Selv om man har holdt på med «space» på Andøya
 siden 1960-tallet, skal det nå skje i en helt annen skala enn noen
 gang før, så når det gjelder infrastrukturen på Andøya, sikkerhet
-og ikke minst sameksistensen med ulike næringer der, må vi gjøre
-en stor innsats alle sammen. </A>
+og ikke minst sameksistensen med ulike næringer der, må vi alle
+sammen gjøre en stor innsats. </A>
             <A Type="Minnrykk">Vi følger opp langs mange ulike spor i etterkant
 av det som skjedde på Andøya nå før påske, og vi kommer til å følge opp
 med ulike deler av norske myndigheter også framover, ikke minst
 i dialogen både med fiskerne, med det militære, med de kommersielle
-og med aktørene. Det er utrolig viktig – jeg hadde møte med Andøya
-Space dagen før vi tok påskeferie. Man har over tid fått til en
-god sameksistens her, men så må vi også huske på at det er noen
-utfordringer som vi må ta ordentlig tak i, for vi skal ha både fiskerivirksomhet
-og «space» her i framtiden, og vi skal ha forsvar, sikkerhet og
-beredskap. Det må klare å sameksistere godt. Da må vi finne gode avtaler
-for det, for det er også en sannhet at rett utenfor der er et av
-de viktigste fiskefeltene for fiskerne. De er der, og i noen deler
-av året er det særlig viktig for dem og deres viktige fiskerier.
-Men når det gjelder å følge opp både med Justisdepartementet, andre
-departementer og andre myndigheter, følger vi det opp nå i egnede
-spor.</A>
+og med aktørene. Det er utrolig viktig, og jeg hadde møte med Andøya
+Space og Fiskarlaget dagen før vi tok påskeferie. </A>
+            <A Type="Minnrykk">Man har over tid fått til en god sameksistens
+her, men vi må også huske at det er noen utfordringer vi må ta ordentlig tak
+i, for vi skal ha både fiskerivirksomhet og «space» her i framtiden,
+og vi skal ha forsvar, sikkerhet og beredskap. Det må klare å sameksistere
+godt. Da må vi finne gode avtaler for det, for det er også en sannhet
+at rett utenfor der er et av de viktigste fiskefeltene for fiskerne.
+De er der, og i noen deler av året er det særlig viktig for dem
+og deres viktige fiskerier. Når det gjelder å følge opp både med
+Justisdepartementet, andre departementer og andre myndigheter, følger
+vi det opp nå i egnede spor.</A>
           </Hovedinnlegg>
-          <Replikk Id="i1001604">
+          <Replikk Id="i1002225">
             <A>
               <Navn personID="ERLL">
 Erlend Larsen (H) [10:40:30]:</Navn> Det var egentlig svaret på
 mitt neste spørsmål, ikke det svaret jeg ønsket, så jeg prøver igjen:
 Romhavnen på Andøya kan bli strategisk viktig for Norge og Europa.
-Det er viktig for Norge og Europa å bli mer selvstendige på informasjonsinnhenting
-fra rommet. EU har varslet at de skal sende opp 300 satellitter.
-I tillegg har Tyskland varslet at de skal skyte opp et stort antall
-satellitter. Til dette har Andøya en viktig plass, og Norge har
-store muligheter. Norsk romindustri har virkelig gode muligheter
-for å vokse, men det er en bransje som krever tillit – tillit er
-helt avgjørende.</A>
+Det er viktig for Norge og Europa å bli mer selvstendige med tanke
+på informasjonsinnhenting fra rommet. EU har varslet at de skal
+sende opp 300 satellitter. I tillegg har Tyskland varslet at de
+skal skyte opp et stort antall satellitter. Til dette har Andøya
+en viktig plass, og Norge har store muligheter. Norsk romindustri
+har virkelig gode muligheter for å vokse, men det er en bransje
+som krever tillit – tillit er helt avgjørende.</A>
             <A Type="Minnrykk">Europeerne er ikke vant med at nasjonale myndigheter sitter
 med hendene i fanget og satser på at alt går bra, de sørger for
 at alle eventualiteter blir ivaretatt, ikke minst sikkerheten. Derfor
 er det vanskelig å forstå at Kystvakten ikke lå i beredskap. Mitt
 planlagte spørsmål var egentlig det statsråden svarte på, så da
-gjentar jeg det rett og slett: Hvorfor var ikke norsk myndighetsutøvelse
-til stede og sikret at den rakettoppskytingen gikk som planlagt?</A>
+gjentar jeg rett og slett det forrige: Hvorfor var ikke norsk myndighetsutøvelse
+til stede og sikret at rakettoppskytingen gikk som planlagt?</A>
           </Replikk>
-          <Replikk Id="i1001606">
+          <Replikk Id="i1002227">
             <A>
               <Navn personID="CTM">
 Statsråd Cecilie Myrseth [10:41:31]:</Navn> Mye av dette er også
 dialog mellom selskapet og de ulike myndighetene. Det er viktig
-at det er i det sporet også, men jeg kan forsikre om at vi ikke
+at det er i det sporet også. Jeg kan likevel forsikre om at vi ikke
 sitter med hendene i fanget når det gjelder disse spørsmålene, med
 hensyn til både dialog med de ulike delene av norske myndigheter
-og ulike sider av det og også i dialog med andre land. Tyskland
-er særlig viktig her. Vi har inngått en stor avtale med dem, ikke
-minst på «space», og det er et arbeid vi nå følger opp stort. Vi
-hadde besøk av både kansler Merz og min kollega, romminister Bär,
-på Andøya for kort tid siden, og det er ikke mange uker til hun
-kommer tilbake igjen for å ha møter i nord om «space».</A>
+og ulike sider av det, og også dialog med andre land. Tyskland er
+særlig viktig her. Vi har inngått en stor avtale med dem, ikke minst
+på «space», og det er et arbeid vi nå følger opp stort. Vi hadde
+besøk av både kansler Merz og min kollega, romminister Bär, på Andøya
+for kort tid siden, og det er ikke mange uker til hun kommer tilbake for
+å ha møter i nord om «space».</A>
             <A Type="Minnrykk">Vi kommer til å måtte gjøre mye mer på infrastruktur
 og utviklingen av romindustri i Norge. Det er en grunn til at vi
 nå er inne i det vi vil kalle romåret 2026. Vi er i gang med å utarbeide
-ny politikk for romindustrien, hvor romhavnen på Andøya skal være
+ny politikk for romindustrien, hvor romhavna på Andøya skal være
 enda mer attraktiv også framover for resten av Europa.</A>
           </Replikk>
-          <Replikk Id="i1001608">
+          <Replikk Id="i1002229">
             <A>
               <Navn personID="ERLL">
 Erlend Larsen (H) [10:42:35]:</Navn> Da håper jeg at Kystvakten
-har sin tilstedeværelse neste forsøk.</A>
+er til stede ved neste forsøk.</A>
             <A Type="Minnrykk">EU har planer om å skyte opp 300 satellitter,
 som nevnt, og EU vil at kritiske funksjoner innenfor satellittkommunikasjon
 i hovedsak skal leveres av aktører innenfor EU. Oppskytingen av
@@ -895,32 +898,33 @@ til et enormt fond som skal fremme europeisk konkurransekraft innenfor
 romfart. Romfart er en voksende næring i Norge, og et slikt fond
 vil kunne «booste» norsk næringsliv. Fra EUs ståsted er det naturlig
 at fondet brukes blant deres medlemsland. Statsråden har vært næringsminister
-en stund og lenge nok til å få et inntrykk av hva som er best for
+en stund, og lenge nok til å få et inntrykk av hva som er best for
 Norge: å forbli utenfor eller å bli medlem av EU.</A>
             <A Type="Minnrykk">Mitt spørsmål til statsråden er da: Hva er
-statsrådens konklusjon så langt, er Norge best tjent med å forbli
-utenfor EU eller er Norge best tjent med å søke medlemskap i EU?</A>
+statsrådens konklusjon så langt? Er Norge best tjent med å forbli
+utenfor EU, eller er Norge best tjent med å søke medlemskap i EU?</A>
           </Replikk>
-          <Replikk Id="i1001610">
+          <Replikk Id="i1002231">
             <A>
               <Navn personID="CTM">
 Statsråd Cecilie Myrseth [10:43:32]:</Navn> Representanten vet veldig
-godt hva jeg mener rundt det. Det er at vi nå skal ivareta EØS-avtalen
-så godt som mulig for også å ivareta norske interesser i det. Regjeringen
-kommer ikke til å ta initiativ til en søknad om et EU-medlemskap
-nå. Det er en veldig klar holdning.</A>
-            <A Type="Minnrykk">Til de andre tingene representanten drar opp
-med hensyn til EU-programmene: Jeg var også rett før påske og undertegnet
-endelig den store, viktige avtalen «Secure Connectivity», som Norge
-er en del av. Det er kjempeviktig for norsk næringsliv og gjør at
-man får tilgang til å være med på de prosjektene som er der. Det
-er en stor avtale for Norge. I tillegg er arbeidet med konkurranseevnefondet
+godt hva jeg mener om det. Det er at vi nå skal ivareta EØS-avtalen
+så godt som mulig for også å ivareta norske interesser. Regjeringen
+kommer ikke til å ta initiativ til en søknad om EU-medlemskap nå.
+Det er en veldig klar holdning.</A>
+            <A Type="Minnrykk">Til det andre representanten drar opp med hensyn
+til EU-programmene: Jeg undertegnet rett før påske – endelig – den store,
+viktige avtalen Secure Connectivity, som Norge er en del av. Det
+er kjempeviktig for norsk næringsliv og gjør at man får tilgang
+til å være med på de prosjektene som er der. Det er en stor avtale
+for Norge. </A>
+            <A Type="Minnrykk">I tillegg er arbeidet med konkurranseevnefondet
 i gang, som nevnt. Etter målet skal det først være klart i 2028,
 og Norge skal gi sine endelige innspill i løpet av 2027. Vi har
-allerede tett dialog med Kommisjonen på dette, og det har også jeg
+allerede tett dialog med Kommisjonen om dette, og det har jeg også
 med min motpart, altså kollega og kommissær Kubilius.</A>
           </Replikk>
-          <Replikk Id="i1001612">
+          <Replikk Id="i1002233">
             <A>
               <Navn personID="BRDTHO">
 Bård Ludvig Thorheim (H) [10:44:44]:</Navn> Jeg vil følge opp der
@@ -934,57 +938,57 @@ anmodet Kystvakten – som altså har hovedbase på Sortland, rett bort
 i hogget – om å håndheve den sikkerhetssonen. Da hadde ikke dette
 blitt den fiaskoen det ble for regjeringen og også for norsk romindustri,
 når det var et utstillingsvindu. Hvorfor gjorde man ikke det, og
-hvorfor brukte man ikke Kystvakten ved oppskytningen?</A>
+hvorfor brukte man ikke Kystvakten ved oppskytingen?</A>
           </Replikk>
-          <Replikk Id="i1001614">
+          <Replikk Id="i1002235">
             <A>
               <Navn personID="CTM">
 Statsråd Cecilie Myrseth [10:45:41]:</Navn> Jeg takker for tilliten
-og at man tror at jeg har myndigheten til å beordre både kystvakt
-og andre om hvor de skal være til enhver tid. Den myndigheten har
-ikke næringsministeren. Men vi skal jobbe for å sikre best mulig
-sikkerhet rundt en oppskyting fra Andøya. Vi skal gjøre alt vi kan,
-ikke minst for å sikre nå når den neste oppskytingen kommer. Å si
-at det som sviktet da raketten ikke gikk opp i luften, var næringsministeren,
-det blir litt hult, må jeg si. Jeg tenker at da burde man kanskje
-se litt på sine egne argumenter. </A>
+og at man tror jeg har myndighet til å beordre både kystvakt og
+andre om hvor de skal være til enhver tid. Den myndigheten har ikke
+næringsministeren. Men vi skal jobbe for å sikre best mulig sikkerhet
+rundt en oppskyting fra Andøya. Vi skal gjøre alt vi kan, ikke minst
+for å sikre den neste oppskytingen, når den kommer. Å si at det
+som sviktet da raketten ikke gikk opp i lufta, var næringsministeren,
+blir litt hult, må jeg si. Jeg tenker at man da kanskje burde se
+litt på sine egne argumenter. </A>
             <A Type="Minnrykk">Det som er sikkert, er at regjeringen – og
 det ansvaret har jeg – har store ambisjoner på vegne av norsk romindustri.
 Det jobber vi med hver eneste dag, enten det er å sikre tilgang
-til ulike programmer i EU eller det at vi nå utvikler helt ny politikk,
+til ulike programmer i EU, eller det er at vi nå utvikler helt ny politikk,
 i veldig tett dialog med norsk romindustri. Jeg inviterer hele Stortinget
 til å være med på dette, for her har vi mer å tjene på å jobbe sammen
-enn på å drive med den typen polemikk så man gjør nå.</A>
+enn på å drive med den typen polemikk som man gjør nå.</A>
           </Replikk>
-          <Replikk Id="i1001616">
+          <Replikk Id="i1002237">
             <A>
               <Navn personID="BRDTHO">
 Bård Ludvig Thorheim (H) [10:46:42]:</Navn> Dette er ikke polemikk.
 Det er et myndighetsansvar å håndheve en sikkerhetssone. Det var
-veldig godt kjent at det er at det er interessekonflikter mellom
-ulike næringer, som statsråden nettopp har erkjent. Det er veldig
-godt kjent. Det var veldig forutsigbart at dette kunne oppstå, og
-det hadde vært mulig for regjeringen å gi et signal videre om at
-her må man håndheve den sikkerhetssonen under en veldig viktig oppskytning.
-Veldig store kommersielle investeringer er gjort for et sånt prestisjeprosjekt.
-Jeg synes det er helt utrolig. Jeg tror at også mange av næringslivstoppene
+veldig godt kjent at det er interessekonflikter mellom ulike næringer,
+som statsråden nettopp har erkjent. Det er veldig godt kjent. Det
+var veldig forutsigbart at dette kunne oppstå, og det hadde vært
+mulig for regjeringen å gi et signal videre om at her må man håndheve
+den sikkerhetssonen under en veldig viktig oppskyting. Veldig store kommersielle
+investeringer er gjort for et sånt prestisjeprosjekt. Jeg synes
+det er helt utrolig. Jeg tror at også mange av næringslivstoppene
 som sto ved siden av og fulgte nedtellingen, reagerte på at Norge
 ikke hadde gjort en så enkel forhåndsforsikring. Det betyr vel at
-man utelukker at Kystvakten ved framtidige oppskytninger skal håndheve
+man utelukker at Kystvakten ved framtidige oppskytinger skal håndheve
 sikkerhetssonen?</A>
           </Replikk>
-          <Replikk Id="i1001618">
+          <Replikk Id="i1002239">
             <A>
               <Navn personID="CTM">
 Statsråd Cecilie Myrseth [10:47:41]:</Navn> Det gjør vi ikke. Vi
 utelukker ingenting, men det kan ikke være sånn at man skal pålegge
 næringsministeren å sende ut Kystvakten, når man mener den skal
 være tilgjengelig. Det er faktisk andre myndigheter som tar den
-typen beslutninger. Man kan anmode, det er liksom det man har muligheten
+typen beslutninger. Man kan anmode, det er det man har mulighet
 til å gjøre. </A>
             <A Type="Minnrykk">Jeg tror det er veldig viktig at man ikke forhåndskonkluderer
 i stortingssalen om akkurat hva som skjedde i denne saken. Jeg sitter
-ikke med det totale bildet på det, men jeg vet at en av suksesskriteriene
+ikke med det totale bildet, men jeg vet at et av suksesskriteriene
 til at man får til sameksistens, er god dialog lokalt, hvor man
 ivaretar og lytter til alle berørte. Det betyr at vi også skal ivareta
 og lytte til fiskerne i dette området. Det har fungert bra til nå,
@@ -993,42 +997,42 @@ tiltak og ikke minst involvere oss enda mer. Både jeg og fiskeri-
 og havministeren skal ha møte med de berørte organisasjonene framover,
 og vi skal være veldig tett påkoblet det arbeidet.</A>
           </Replikk>
-          <Replikk Id="i1001620">
+          <Replikk Id="i1002241">
             <A>
               <Navn personID="BRDTHO">
 Bård Ludvig Thorheim (H) [10:48:43]:</Navn> Stortingets spørretime
 er vel nettopp til for å kunne stille den ansvarlige statsråden
 spørsmål om det hun har ansvaret for, og også forvente at statsråden
-har oversikten over det og klarer å svare Stortinget om de spørsmålene.</A>
+har oversikten over det og klarer å svare Stortinget.</A>
             <A Type="Minnrykk">Vi var inne på EUs Secure Connectivity. Det
 er jo fint å undertegne det, men det er et problem at EU ikke vil
 sende opp raketter fra Andøya romhavn. Dette er et av flere nederlag
 som regjeringen har i forholdet til EU. Vi har også et når det gjelder
-handel, at vi falt utenfor beskyttelsestiltakene på ferrolegeringer.
+handel – at vi falt utenfor beskyttelsestiltakene på ferrolegeringer.
 Vi har også pågående diskusjoner om etterslepet. Det er et forhold
 til EU som er dårlig forvaltet, og som dermed ikke gir gjennomslag
 for norske interesser. Hva vil næringsministeren gjøre for å sikre
 at EU kan sende opp raketter fra Andøya romhavn?</A>
           </Replikk>
-          <Replikk Id="i1001622">
+          <Replikk Id="i1002243">
             <A>
               <Navn personID="CTM">
-Statsråd Cecilie Myrseth [10:49:47]:</Navn> Med all respekt å melde:
-Nå kommer man med en oppramsing, og det er ikke engang alt som er
-sant. Vi har undertegnet Secure Connectivity. Norge er en del av
-det. Det er bra. Det burde Stortinget være fornøyd med, og det burde
+Statsråd Cecilie Myrseth [10:49:47]:</Navn> Med all respekt: Nå
+kommer man med en oppramsing, og det er ikke engang alt som er sant.
+Vi har undertegnet Secure Connectivity. Norge er en del av det.
+Det er bra. Det burde Stortinget være fornøyd med, og det burde
 også representanten Thorheim være glad for, istedenfor å framstille
 det som et nederlag. </A>
             <A Type="Minnrykk">Det som også er viktig å ta med seg, er at
 akkurat nå handler ikke Secure Connectivity om polare baner – og
 det er til polare baner man skyter opp fra Andøya. Det er en åpning for
-arktisk oppskytning i framtiden, men akkurat nå handler ikke Secure
+arktisk oppskyting i framtiden, men akkurat nå handler ikke Secure
 Connectivity om det. Så det er lurt å ha med seg fakta når man kommer
 med den typen påstander. </A>
             <A Type="Minnrykk">Det er viktig for meg å si at forholdet vårt
 til EU bare er viktigere og viktigere. Derfor har regjeringen fullt
 trykk på arbeidet med det, ikke minst med å få ned etterslepet.
-Å sørge for at Norge kommer på innsiden av de europeiske romprogrammer,
+Å sørge for at Norge kommer på innsiden av de europeiske romprogrammene,
 er vårt klare mål. Da jobber vi opp mot både EU og de ulike medlemslandene.</A>
           </Replikk>
           <Presinnlegg>
@@ -1036,7 +1040,7 @@ er vårt klare mål. Da jobber vi opp mot både EU og de ulike medlemslandene.</
               <Navn>Presidenten [10:50:48]:</Navn> Da går vi videre
 til neste hovedspørsmål.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1001624">
+          <Hovedinnlegg Id="i1002245">
             <A>
               <Navn personID="INF">
 Ingrid Fiskaa (SV) [10:51:05]:</Navn> Det er vår, og det er lønsforhandlingar.
@@ -1050,52 +1054,52 @@ løner, òg i selskap der staten er ein dominerande eigar. </A>
 Bråthen hadde i fjor ei samla løn på 18,7 mill. kr. Det er 10,6 pst. meir
 enn året før. For Yara-sjef Svein Tore Holsether auka løna med nær
 7 pst. i fjor, til 17 mill. kr. Holsether er òg president i NHO.
-Og Equinor-sjef Anders Opedal fekk ein kompensasjon – som det gjerne
+Equinor-sjef Anders Opedal fekk ein kompensasjon – som det gjerne
 heiter på leiarspråket – på 23 mill. kr i fjor, og auka dermed løna
 med éin million. Lista er lengre. Alt dette – sjølv om regjeringa
 og Stortinget forventar moderasjon, og denne forventninga er uttrykt
 både i eigarskapsmeldinga og i eigne retningslinjer, men selskapa
 bryr seg openbert ikkje. </A>
             <A Type="Minnrykk">Kva signal tenkjer statsråden at desse leiarlønene
-sender til Fellesforbundet og resten av fagbevegelsen? Bør dei visa moderasjon
-når toppleiarane ikkje gjer det? Er statsråden einig i at nokon
-skal tena 17 eller 23 mill. kr, eller vil statsråden for ein gongs
-skyld gjera noko meir enn å «forventa» moderasjon frå selskapa der
-staten er ein dominerande eigar – og faktisk stemma for sine eigne
-retningslinjer og imot dei feite lønsaukane på årets generalforsamlingar?</A>
+sender til Fellesforbundet og resten av fagrørsla? Bør dei visa
+moderasjon når toppleiarane ikkje gjer det? Er statsråden einig
+i at nokon skal tena 17 eller 23 mill. kr, eller vil statsråden
+for ein gongs skyld gjera noko meir enn å forventa moderasjon frå selskapa
+der staten er ein dominerande eigar – og faktisk stemma for sine
+eigne retningslinjer og imot dei feite lønsaukane på årets generalforsamlingar?</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1001626">
+          <Hovedinnlegg Id="i1002247">
             <A>
               <Navn personID="CTM">
 Statsråd Cecilie Myrseth [10:53:05]:</Navn> Er det én ting jeg i
 hvert fall ikke skal blande meg i, er det lønnsoppgjøret mellom
 partene. Det skal partene få lov til å håndtere, som seg hør og
 bør, på våren. </A>
-            <A Type="Minnrykk">Så er det riktig at vi har vedtatt eierskapspolitikken
-her i Stortinget. Moderasjon er viktig, men det er også en annen
-bit i eierskapspolitikken som er vedtatt av Stortinget, og det er
-at lederlønner skal være konkurransedyktige. Og jeg har forståelse
-for at mange av de summene som nettopp ble listet opp, er på et
-helt annet nivå enn for helt vanlige folk. </A>
+            <A Type="Minnrykk">Så er det riktig at eierskapspolitikken er
+vedtatt her i Stortinget. Moderasjon er viktig, men det er også
+en annen bit i eierskapspolitikken som er vedtatt av Stortinget,
+og det er at lederlønner skal være konkurransedyktige. Jeg har forståelse for
+at mange av de summene som nettopp ble listet opp, er på et helt
+annet nivå enn for helt vanlige folk. </A>
             <A Type="Minnrykk">Det er uansett opp til styrene å vurdere hvordan
 man skal tiltrekke seg og beholde gode ledere, hvilken kompensasjon de
-må tilby, også i konkurranse med andre lignende selskap. Men moderasjon
-har vi flere punkter på i våre forventninger til selskapene, som
-selskapene er nødt til å ha med seg i sine vurderinger, og jeg forventer
-at selskapenes styrer også tar hensyn til moderasjon når de vurderer
-hva som er konkurransedyktig i sine selskap. Det er det som er helheten
-i den politikken som altså Stortinget har vedtatt, som også regjeringen –
-og da jeg som ansvarlig – styrer etter når vi kommer med våre forventninger
-til selskapene. Så det er det vi gjør: Vi styrer ikke selskapene,
-vi kommer med forventninger gjennom statlig eierskap.</A>
+må tilby, også i konkurranse med andre lignende selskaper. Likevel:
+Vi har flere punkter om moderasjon i våre forventninger til selskapene,
+som selskapene er nødt til å ha med seg i sine vurderinger, og jeg
+forventer at selskapenes styrer også tar hensyn til moderasjon når
+de vurderer hva som er konkurransedyktig. Det er det som er helheten
+i den politikken som Stortinget altså har vedtatt, som også regjeringen
+– og da jeg som ansvarlig – styrer etter når vi kommer med våre
+forventninger til selskapene. Det er det vi gjør: Vi styrer ikke
+selskapene, vi kommer med forventninger gjennom statlig eierskap.</A>
           </Hovedinnlegg>
-          <Replikk Id="i1001628">
+          <Replikk Id="i1002249">
             <A>
               <Navn personID="INF">
-Ingrid Fiskaa (SV) [10:54:31]:</Navn> Spørsmålet mitt handla jo
-fyrst og fremst om kva staten vil gjera som eigar, og dermed òg
-stemmegjeving i selskapene, men la meg prøva på ein annan måte:
-I eigarskapsmeldinga står det:</A>
+Ingrid Fiskaa (SV) [10:54:31]:</Navn> Spørsmålet mitt handla fyrst
+og fremst om kva staten vil gjera som eigar, og dermed òg stemmegjeving
+i selskapa, men la meg prøva på ein annan måte: I eigarskapsmeldinga
+står det:</A>
             <Sitat Type="Minnrykk">
               <A>«Dersom veksten i samlet godtgjørelse,
 eller i enkelte godtgjørelseselementer, er større for ledende ansatte enn
@@ -1104,32 +1108,32 @@ opptatt av at styret gir en særskilt begrunnelse i selskapets lønnsrapport.» 
             </Sitat>
             <A Type="Minnrykk">No ser me altså at statlege selskap gjev leiarane
 løner som ligg langt over andre, både i prosent og i kroner. Lønspakka
-til DNB-sjef Kjerstin Bråthen nemnte eg. Den auka altså med rundt
+til DNB-sjef Kjerstin Bråthen nemnde eg. Ho auka altså med rundt
 10,6 pst. i fjor – heile 1,8 mill. kr. Då er spørsmålet: Har statsråden
 fått «en særskilt begrunnelse» frå DNB eller andre? Og kva må ei
 sånn grunngjeving innehalda for at staten skal stemma for ein sånn
 lønsauke på generalforsamlinga i DNB om to veker? </A>
           </Replikk>
-          <Replikk Id="i1001630">
+          <Replikk Id="i1002251">
             <A>
               <Navn personID="CTM">
 Statsråd Cecilie Myrseth [10:55:35]:</Navn> Jeg tror at også representanten
 skjønner at når det gjelder hvordan staten forholder seg til det
-enkelte selskap, så tar vi det i eierdialogen. Det andre er at vi
-stemmer på generalforsamlingen, og det gjør vi ikke i Stortingets
-sal. Det er også viktig for å være en forutsigbar og ansvarlig eier
-at vi styrer trygt, etter de prinsippene som Stortinget har gitt.
-Vi må huske på at dette er selskap som er av de viktigste som vi
-har. Dette er selskap som skaper store verdier, og som på grunn
-av at de er statlig eid også har hovedkontor i Norge, som er viktig
-for lokalsamfunn rundt om i hele landet vårt. </A>
-            <A Type="Minnrykk">Så har denne regjeringen foreslått, med Stortingets
+enkelte selskap, tar vi det i eierdialogen. Det andre er at vi stemmer
+på generalforsamlingen, vi gjør det ikke i Stortingets sal. For
+å være en forutsigbar og ansvarlig eier er det også viktig at vi
+styrer trygt, etter de prinsippene som Stortinget har gitt. Vi må
+huske at dette er selskap som er av de viktigste vi har. Dette er
+selskap som skaper store verdier, og som på grunn av at de er statlig
+eid, også har hovedkontor i Norge, som er viktig for lokalsamfunn rundt
+om i hele landet vårt. </A>
+            <A Type="Minnrykk">Denne regjeringen har foreslått, med Stortingets
 støtte, forsterkede mål når det gjelder moderasjon i lederlønninger, for
 vi så at det var nødvendig, men det fritar ikke styrene for det
 ansvaret de har, når de skal måle det opp mot konkurransedyktighet,
-og når de skal sikre at de har gode ledere i sine selskap.</A>
+når de skal sikre at de har gode ledere i sine selskap.</A>
           </Replikk>
-          <Replikk Id="i1001632">
+          <Replikk Id="i1002253">
             <A>
               <Navn personID="INF">
 Ingrid Fiskaa (SV) [10:56:35]:</Navn> Eg høyrer at statsråden vegrar
@@ -1150,7 +1154,7 @@ lønningar for å klara å stå opp om morgonen og gjera ein jobb.</A>
 ikkje hadde gjort ein god jobb viss dei ikkje hadde fått såkalla
 konkurransedyktig løn – altså det mangedobbelte av statsministeren?</A>
           </Replikk>
-          <Replikk Id="i1001634">
+          <Replikk Id="i1002255">
             <A>
               <Navn personID="CTM">
 Statsråd Cecilie Myrseth [10:57:41]:</Navn> Dette handler ikke om
@@ -1164,13 +1168,13 @@ ha vært det samme som å si at jeg ikke har tillit til dem som sitter
 og styrer de selskapene. Det er ikke sånn man kan styre ansvarlig.
 Jeg har forståelse for at det er reaksjoner på noen av de summene, men
 det er styrene som må vurdere hva som er konkurransedyktig målt
-opp mot moderasjon, og så skal vi gjøre vurderinger av de aktuelle
-begrunnelsene som vi får, når vi skal ta stilling til det.</A>
+opp mot moderasjon, og så skal vi gjøre vurderinger av de eventuelle
+begrunnelsene vi får, når vi skal ta stilling til det.</A>
             <A Type="Minnrykk">Jeg er glad for at man sammen med bl.a. SV
-finner gode budsjetter som er bra for folk flest, og som også utjevner
+lager gode budsjetter som er bra for folk flest, og som også utjevner
 forskjeller.</A>
           </Replikk>
-          <Replikk Id="i1001636">
+          <Replikk Id="i1002257">
             <A>
               <Navn personID="INF">
 Ingrid Fiskaa (SV) [10:58:42]:</Navn> Min påstand er at regjeringa
@@ -1182,19 +1186,19 @@ leiarlønskommisjon eller lønsfrys for dei aller høgast løna leiarane,
 forslag som Arbeidarpartiet sjølv var for før dei kom i regjering,
 og regjeringa kan altså – det gjentek eg – ganske enkelt stemma
 i tråd med sine eigne og Stortingets reglar og styringssignal på
-generalforsamlingane utover våren. Likevel høyrest det jo verkeleg
-ikkje ut som om det er det som kjem til å skje, det høyrest ut som
-om regjeringa vil fortsetja å gjera ingenting.</A>
+generalforsamlingane utover våren. Likevel høyrest det verkeleg
+ikkje ut som det er det som kjem til å skje, det høyrest ut som
+regjeringa vil fortsetja å gjera ingenting.</A>
             <A Type="Minnrykk">Då spør eg rett og slett: Trur statsråden at
 forskjellane kjem til å auka eller minka i denne stortingsperioden,
 med Arbeidarpartiet i regjering?</A>
           </Replikk>
-          <Replikk Id="i1001638">
+          <Replikk Id="i1002259">
             <A>
               <Navn personID="CTM">
 Statsråd Cecilie Myrseth [10:59:39]:</Navn> Det er et veldig klart
 mål for denne regjeringen at vanlige folk skal få det bedre, og
-at vi skal ha en politikk som utjevner forskjellene. Derfor er jeg
+at vi skal ha en politikk som utjevner forskjeller. Derfor er jeg
 glad for at vi har de budsjettpartnerne vi har, for vi deler det
 samme målet. Likevel: Når det gjelder statlig eierstyring, handler
 ikke det om å skyve ansvaret over på styrene. Det handler om å forholde
@@ -1207,7 +1211,7 @@ av fellesskapet. Vi har lagt inn flere forventninger om moderasjon
 målt mot konkurransedyktighet nå enn det var tidligere, fordi vi
 mener at det er riktig. Likevel kan det ikke være sånn at statsråden
 skal styre de statlige selskapene. Vi skal drive med en aktiv og
-forsvarlig langsiktig eierstyring som sikrer de verdiene som vi
+forsvarlig, langsiktig eierstyring som sikrer de verdiene som vi
 får fra selskapene.</A>
           </Replikk>
           <Merknad>
@@ -1217,7 +1221,12 @@ får fra selskapene.</A>
 her overtatt presidentplassen.</A>
             </Handling>
           </Merknad>
-          <Hovedinnlegg Id="i1001640">
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:00:42]:</Navn> Vi går til
+neste hovedspørsmål.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1002261">
             <A>
               <Navn personID="BERST">
 Bengt Rune Strifeldt (FrP) [11:00:59]:</Navn> Mitt spørsmål går
@@ -1235,26 +1244,26 @@ Det som skjer i praksis, er at store investeringsbeslutninger utsettes,
 at innovasjon og teknologiutvikling bremses, og at usikkerheten om
 framtidige rammevilkår i seg selv blir en kostnad for norsk havbruk.
 Kan statsråden forsikre Stortinget om at leveransene fra havbruksforliket
-faktisk kommer i 2026, sånn som avtalt? Og erkjenner statsråden
-at den lange ventetiden i seg selv har en reell kostnad for norsk
-havbruksinnovasjon og -verdiskaping?</A>
+faktisk kommer i 2026, som avtalt? Og erkjenner statsråden at den
+lange ventetiden i seg selv har en reell kostnad for norsk havbruksinnovasjon
+og -verdiskaping?</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1001642">
+          <Hovedinnlegg Id="i1002263">
             <A>
               <Navn personID="NSSMAR">
 Statsråd Marianne Sivertsen Næss [11:02:12]:</Navn> Først vil jeg
-takke representanten for spørsmålet. Det viktig å holde oppmerksomheten
+takke representanten for spørsmålet. Det er viktig å holde oppmerksomheten
 rettet mot den norske havbruksnæringen, som er utrolig viktig. Sjømatnæringen
 vår er Norges nest største eksportnæring. Da vi la fram havbruksmeldingen i
 fjor vår, var det nettopp med det utgangspunkt at vi skal sikre
-at vi fortsatt er fremst og verdensledende når det gjelder sjømateksporten,
+at vi fortsatt er fremst og verdensledende når det gjelder sjømateksport,
 og at vi skal utvikle næringen til å bli mer bærekraftig og få ned
 dødeligheten. </A>
-            <A Type="Minnrykk">Jeg er veldig glad for at Stortinget stilte
-seg bredt bak de prinsippene som lå til grunn i havbruksmeldingen,
+            <A Type="Minnrykk">Jeg er veldig glad for at Stortinget bredt
+stilte seg bak de prinsippene som lå til grunn i havbruksmeldingen,
 som går på at man skal regulere faktiske og målbare miljøpåvirkninger, og
 at man skal ha individuelle insentiver for havbruksselskapene. Som
-sagt handler dette både om å få bedre fiskevelferd og å få ned dødeligheten. </A>
+sagt handler dette om både å få bedre fiskevelferd og å få ned dødeligheten. </A>
             <A Type="Minnrykk">Representanten viser til at det har gått ett
 år siden havbruksmeldingen ble lagt fram, og at man har lovet å
 levere i 2026. Det stemmer jo ikke. Stortinget var i sin behandling
@@ -1265,10 +1274,10 @@ både å medvirke og komme med innspill. Det er sånn det er når man
 behandler en stortingsmelding som gir en retning. Det er ikke en
 lovendring, det er ikke en forskrift, men det er noen prinsipper
 og en retning for den framtidige politikken. Den stilte som sagt
-Stortinget i bredt seg bak. </A>
+Stortinget seg bak i bredt. </A>
             <A Type="Minnrykk">Vi skal bruke tiden godt, og vi er allerede
 godt i gang med å følge opp de vedtakene som har kommet i Stortinget. Vi
-har god dialog med næringen og kommer til å kjøre enda tettere innspillsmøter,
+har god dialog med næringen og kommer til å kjøre enda tettere innspillsmøter
 når vi har noe som skal ut på høring, og så vi skal ha møter underveis
 i høringer. Vi skal sørge for at næringen har mulighet til å være
 delaktig hele veien. Vi har bl.a. også opprettet en digital postkasse
@@ -1278,13 +1287,13 @@ og så går vi til det som gjelder hva en akvakulturtillatelse skal
 inneholde. Parallelt ser vi på hvordan selve forvaltningen skal
 organiseres.</A>
           </Hovedinnlegg>
-          <Replikk Id="i1001644">
+          <Replikk Id="i1002265">
             <A>
               <Navn personID="BERST">
 Bengt Rune Strifeldt (FrP) [11:04:16]:</Navn> Jeg registrerer at
-statsråden ikke svarer på spørsmålet, om leveranser fra havbruksforliket
-faktisk kommer i 2026. Jeg tar det som et signal om at det gjør
-det ikke, i og med at hun svarer så diffust som hun gjør. </A>
+statsråden ikke svarer på spørsmålet om leveranser fra havbruksforliket
+faktisk kommer i 2026. Jeg tar det som et signal om at det ikke
+gjør det, i og med at hun svarer så diffust som hun gjør. </A>
             <A Type="Minnrykk">Nasjonal miljøfleksibilitetsordning er vedtatt
 av Stortinget. Næringen har fortsatt ikke sett ordningen i praksis.
 Når kan næringen forvente at ordningen faktisk trer i kraft, og
@@ -1293,22 +1302,22 @@ slik at f.eks. brakkleggingskrav reflekterer den reelle miljøbelastningen
 fra ulike teknologier, framfor å pålegge like krav uavhengig av
 risiko?</A>
           </Replikk>
-          <Replikk Id="i1001646">
+          <Replikk Id="i1002267">
             <A>
               <Navn personID="NSSMAR">
-Statsråd Marianne Sivertsen Næss [11:05:02]:</Navn> Jeg ønsker å
-gjenta, med det utgangspunkt at jeg forsto representanten rett,
-at havbruksmeldingen skulle vi komme tilbake til i løpet av to til
-fire år. Det er et ganske godt svar på spørsmålet, slik jeg oppfattet
-det fra representanten på hvor lang tid dette skal ta.</A>
+Statsråd Marianne Sivertsen Næss [11:05:02]:</Navn> Med det utgangspunkt
+at jeg forsto representanten rett, ønsker jeg å gjenta at vi skulle
+komme tilbake til havbruksmeldingen i løpet av to til fire år. Det
+er et ganske godt svar på spørsmålet fra representanten, slik jeg
+oppfattet det, på hvor lang tid dette skal ta.</A>
             <A Type="Minnrykk">Når det gjelder bruk av nedtrukken kapasitet,
-som gjelder miljøfleksibilitet og en miljøteknologiordning, så trådte
+som gjelder miljøfleksibilitet og en miljøteknologiordning, trådte
 den i kraft i fjor høst, med bruk av lukkede anlegg. Da kunne man ta
 i bruk nedtrukken kapasitet inn i lukkede anlegg. Vi skal i det
 videre arbeidet se på hvordan man kan ha en slags lavutslippsløsninger
 som kan være i bruk i resten av landet, for den ordningen som allerede
 er på plass, vil gjelde for dem som er i røde områder, og som ikke
-har mulighet til vekst. De kan da flytte den nedtrukkede kapasiteten
+har mulighet til vekst. De kan da flytte den nedtrukne kapasiteten
 over i lukkede anlegg. Vi jobber videre med å se på om vi kan få
 til noe lignende i gule og grønne områder, men der er det en del
 utfordringer som må løses. I tillegg må vi sikre at det vi gjør,
@@ -1319,7 +1328,7 @@ også står seg i et nytt reguleringssystem som vi jobber med i havbruksmeldinge
               <Navn>Presidenten [11:05:59]:</Navn> Vi går til
 neste hovedspørsmål.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1001648">
+          <Hovedinnlegg Id="i1002269">
             <A>
               <Navn personID="TMV">
 Trygve Slagsvold Vedum (Sp) [11:06:15]:</Navn> Norsk lastebilnæring,
@@ -1327,10 +1336,11 @@ norske fiskebåter, norsk anleggsbransje, gravemaskiner og lokale
 firmaer som brøyter veien om vinteren, de som snekrer, de som holder
 Norge i gang – det er enormt mye næringsvirksomhet i Norge som er
 avhengig av drivstoff og av diesel. Takket være en helt vanvittig
-krig har prisene for veldig mange av dem som holder Norge i gang, skapt
-kjempestore utfordringer. Det har gått fra å være marginalt lønnsomt
-til å være ulønnsomt. Man har kontrakter når det gjelder brøyting
-av vei, som gjør at man plutselig tenker at dette går ikke lenger. </A>
+krig har prisene skapt kjempestore utfordringer for veldig mange
+av dem som holder Norge i gang. Det har gått fra å være marginalt
+lønnsomt til å være ulønnsomt. Man har kontrakter når det gjelder
+brøyting av vei, som gjør at man plutselig tenker at dette ikke
+går lenger. </A>
             <A Type="Minnrykk">Det er flere hundretusen mennesker som jobber
 i norsk anleggsbransje og norsk byggenæring. Næringsministeren har
 ansvaret for disse næringene. Dette er mange næringer som typisk
@@ -1338,7 +1348,7 @@ er rundt omkring på små steder, og som er marginalt lønnsomme. Mener
 næringsministeren at det er riktig og viktig at man får gjennomført
 de avgiftskuttene som Stortinget vedtok før påske?</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1001650">
+          <Hovedinnlegg Id="i1002271">
             <A>
               <Navn personID="CTM">
 Statsråd Cecilie Myrseth [11:07:29]:</Navn> Viktigheten av disse
@@ -1346,7 +1356,7 @@ næringene kjenner jeg veldig godt til. Jeg har til og med flere
 i min egen familie som jobber på veien, så det kjenner jeg godt
 til. Det er også helt riktig at det vedtaket som Stortinget gjorde
 før påske, selvfølgelig følges opp, som seg hør og bør når Stortinget
-gjør vedtak. Deler av det har allerede blitt innført fra 1. april.
+gjør vedtak. Deler av det har allerede blitt innført, fra 1. april.
 Det er vel også sånn – og det vet jo representanten enda bedre enn
 meg, som tidligere finansminister – at denne type endringer skjer
 den første hver måned. </A>
@@ -1358,16 +1368,16 @@ i avgiftssatser, og det handler om statsstøtteregelverket. Det arbeidet
 er finansministeren godt i gang med, som han selvfølgelig skal være
 når Stortinget gjør vedtak, og man har satt en frist til 1. mai.</A>
           </Hovedinnlegg>
-          <Replikk Id="i1001652">
+          <Replikk Id="i1002273">
             <A>
               <Navn personID="TMV">
 Trygve Slagsvold Vedum (Sp) [11:08:30]:</Navn> Vedtakene som ikke
 er gjennomført ennå, er de som er mest næringsrelevante. Selvfølgelig
-er de også relevante for bilistene når CO<Sub>2</Sub>-avgiften blir
+er det også relevant for bilistene når CO<Sub>2</Sub>-avgiften blir
 satt ned. Men de vedtakene som ikke er de fem avgiftssatsene – som
 ikke er gjennomført ennå – er kjempeviktige, spesielt for næringslivet:
-for fiskerinæring, rederiene etter kysten, lastebilnæringen som
-vi snakket om i stad, og også for anleggsbransjen. </A>
+for fiskerinæring, rederiene etter kysten, lastebilnæringen, som
+vi snakket om i stad, og også anleggsbransjen. </A>
             <A Type="Minnrykk">Jeg hører svaret er at man jobber med det,
 men er dette en avklaring fra regjeringen om at det vil gjennomføres?
 Det skulle bare være en selvfølge, for det er jo et stortingsvedtak. Kan
@@ -1375,7 +1385,7 @@ nå bransjen være trygg på at de fem avgiftsvedtakene blir gjennomført,
 eller vurderer regjeringen å komme tilbake til Stortinget og prøve
 å ta en omkamp?</A>
           </Replikk>
-          <Replikk Id="i1001654">
+          <Replikk Id="i1002275">
             <A>
               <Navn personID="CTM">
 Statsråd Cecilie Myrseth [11:09:21]:</Navn> Dette er jo finansministerens
@@ -1386,19 +1396,19 @@ fra 1. april, krever litt mer arbeid. De krever forskriftsendringer,
 endringer i satsene og at man også ser på det som handler om statsstøtteregelverket. Det
 er selvfølgelig regjeringens ambisjon å følge opp alle vedtak, også
 dette som kommer fra Stortinget, innenfor de fristene som er satt.
-Finansministeren jobber etter dette. </A>
+Finansministeren jobber også etter dette. </A>
           </Replikk>
-          <Replikk Id="i1001656">
+          <Replikk Id="i1002277">
             <A>
               <Navn personID="TMV">
 Trygve Slagsvold Vedum (Sp) [11:10:03]:</Navn> Jeg har et tilleggsspørsmål
-til som også er hundre prosent innenfor næringsministerens ansvarsområde.
+til som er hundre prosent innenfor næringsministerens ansvarsområde.
 Da jeg hadde møte med Lastebileierforbundet før i dag, ga de uttrykk
 for at offentlig sektor var mindre villig til å justere sine kontrakter
 enn privat sektor. Det er veldig ofte sånn at man får slike sjokk,
 som ikke er ens egen skyld, så kommer eksterne forhold, og man får
-et tillegg i prisen. Man har fått en kontrakt, men så har prisene
-endret seg veldig, og et tillegg må til for å dekke de ekstrakostnadene.
+et tillegg i prisen. Man har fått en kontrakt, men så har prisene endret
+seg veldig, og et tillegg må til for å dekke de ekstrakostnadene.
 Ifølge norsk lastebilnæring er offentlig sektor mye mindre villig
 til å justere de prisene enn det privat sektor er. </A>
             <A Type="Minnrykk">Hva er næringsministerens holdning? Mener næringsministeren
@@ -1407,25 +1417,25 @@ og andre at stat, kommuner og fylker selvfølgelig skal justere prisen
 sånn at de får kompensert for de økte kostnadene prissjokket i Norge
 har forårsaket, på grunn av den grusomme krigen i Iran?</A>
           </Replikk>
-          <Replikk Id="i1001658">
+          <Replikk Id="i1002279">
             <A>
               <Navn personID="CTM">
-Statsråd Cecilie Myrseth [11:11:02]:</Navn> Nå kom det heldigvis
-etter mange krevende timer i går og i natt en våpenhvile i Midtøsten,
+Statsråd Cecilie Myrseth [11:11:02]:</Navn> Nå kom det heldigvis,
+etter mange krevende timer i går og i natt, en våpenhvile i Midtøsten,
 og prisene har gått ned. Men det er ingen tvil om at den verdenen
 vi lever i nå, er krevende for næringslivet også her i Norge, ikke
 minst for de små og mellomstore bedriftene, som representanten viser
 til. Det er likevel ikke sånn at jeg som næringsminister kan gå
-inn og si at hva kommunene skal gjøre for å ta ned de ulike prisene.
-Vi fikk på plass en ny lov om offentlige anskaffelser før påske, noe
-som er veldig viktig for både å sikre små og mellomstore bedrifter
+inn og si hva kommunene skal gjøre for å ta ned de ulike prisene.
+Før påske fikk vi på plass en ny lov om offentlige anskaffelser,
+noe som er veldig viktig for å sikre både små og mellomstore bedrifter
 bedre muligheter til å konkurrere om ulike kontrakter. Det arbeidet
 vi nå setter i gang når det gjelder forenkling, er særlig viktig
 for små og mellomstore bedrifter. Dette er arbeids- og næringslivet
 tett involvert i, og det skal også komme tiltak gjennom strategi
-før sommeren.</A>
+før sommeren. </A>
           </Replikk>
-          <Replikk Id="i1001660">
+          <Replikk Id="i1002281">
             <A>
               <Navn personID="TMV">
 Trygve Slagsvold Vedum (Sp) [11:12:04]:</Navn> I 2022 var det også
@@ -1434,29 +1444,29 @@ Jan Christian Vestre et brev til offentlige aktører, til stat, kommuner
 og fylker, der han oppfordret offentlige aktører til å justere kontraktene.
 Ifølge bransjeaktørene, altså Maskinentreprenørenes Forbund, Lastebileierforbundet
 og andre, hadde den tydelige føringen fra Vestre stor effekt. Den
-gjorde at kontrakter ble justert, at det ble ikke det lille anleggsfirmaet
-eller lastebilfirmaet som satt igjen med kostnaden, men at man rett
-og rimelig kompenserte for de økte kostnadene. Næringsminister Vestre
-gjentok også da brevet 16. september 2022, for han mente det var viktig
-at det ble fulgt opp av alle. </A>
+gjorde at kontrakter ble justert, at det ikke ble det lille anleggsfirmaet
+eller lastebilfirmaet som satt igjen med kostnaden, men at man,
+rett og rimelig, kompenserte for de økte kostnadene. Næringsminister
+Vestre gjentok også da brevet 16. september 2022, for han mente
+det var viktig at det ble fulgt opp av alle. </A>
             <A Type="Minnrykk">Rett før påske sendte Maskinentreprenørenes
 Forbund og Arbeidsmandsforbundet et brev til næringsministeren og
 oppfordret henne til å gjøre det samme. Vil næringsministeren gjøre
-det samme som tidligere statsråd Jan Christian Vestre, sende et
-brev og være tydelig?</A>
+det samme som tidligere næringsminister Jan Christian Vestre, sende
+et brev og være tydelig?</A>
           </Replikk>
-          <Replikk Id="i1001662">
+          <Replikk Id="i1002283">
             <A>
               <Navn personID="CTM">
-Statsråd Cecilie Myrseth [11:14:18]:</Navn> Situasjonen for norske
-kommuner er veldig krevende akkurat nå. Det tror jeg representanten
-er veldig opptatt av også, med tanke på hvordan pengebruken er i
-de enkelte kommunene. Det er krevende, derfor er kommuneoppgjørene
-veldig viktige. En av de tingene som påvirker næringslivet aller
-mest, er renten – det er jo den totale pengebruken, hva vi skal
-bruke penger på her i landet framover. Det har vi et felles ansvar
-for, og vi skal lande mange gode forlik også med Senterpartiet framover, som
-også tar høyde for det, for det er det som betyr aller mest. </A>
+Statsråd Cecilie Myrseth [11:13:13]:</Navn> Situasjonen for norske
+kommuner er veldig krevende akkurat nå. Det tror jeg også representanten
+er veldig opptatt av, med tanke på hvordan pengebruken er i de enkelte
+kommunene. Det er krevende, derfor er kommuneoppgjørene veldig viktige.
+Noe av det som påvirker næringslivet aller mest, er renten – det
+er jo den totale pengebruken, hva vi skal bruke penger på her i
+landet framover. Det har vi et felles ansvar for, og framover skal
+vi lande mange gode forlik også med Senterpartiet som tar høyde
+for også det, for det er det som betyr aller mest. </A>
             <A Type="Minnrykk">Så vil jeg også minne om den klare beskjeden
 eller påskebudskapet fra NHO-direktør Ole Erik Almlid om at vi trenger
 langsiktighet i det vi gjør, alt kan ikke løses med kompensasjon.
@@ -1464,16 +1474,21 @@ Det handler om langsiktige rammebetingelser. Jeg skal selvfølgelig
 svare på alle de brevene jeg får, og da vil det også bli offentlig
 kjent. </A>
           </Replikk>
-          <Hovedinnlegg Id="i1001664">
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [11:14:13]:</Navn> Vi går til
+neste hovedspørsmål.</A>
+          </Presinnlegg>
+          <Hovedinnlegg Id="i1002285">
             <A>
               <Navn personID="GEIRAJ">
 Geir Jørgensen (R) [11:14:27]:</Navn> Mitt spørsmål går til fiskeri-
 og havministeren.</A>
             <A Type="Minnrykk">Norge har til alle tider vært en stor sjøfartsnasjon.
-Vi har skip på alle verdenshav, med norske sjøfolk om bord, som
-seiler under norsk flagg. Vi bruker ganske mye penger på å ha det
-sånn. Det har tjent oss godt. Det er nettolønnsordningen som sørger
-for at vi fortsatt har skip under norsk flagg og med norske sjøfolk
+Vi har skip som seiler under norsk flagg på alle verdenshav med
+norske sjøfolk om bord. Vi bruker ganske mye penger på å ha det sånn.
+Det har tjent oss godt. Det er nettolønnsordningen som sørger for
+at vi fortsatt har skip under norsk flagg og med norske sjøfolk
 om bord. Dette er ikke EU spesielt fornøyd med, og nå foreslår regjeringen
 i Prop. 84 L for 2025–2026 å tilpasse nettolønnsordningen etter
 EUs og ESAs krav og endre loven om tilskudd til sjøfolk, sånn at
@@ -1481,7 +1496,7 @@ den skal gjelde alle skip i hele EØS-området. Dette gjør regjeringen
 til tross for at en samlet maritim næring har advart om at det kan
 føre til massiv utflagging av norske skip, tap av norsk kompetanse
 og svekket nasjonal beredskap. </A>
-            <A Type="Minnrykk">Statsråden har tidligere også her i spørretimen
+            <A Type="Minnrykk">Statsråden har også her i spørretimen tidligere
 erkjent den bekymringen og bl.a. varslet at hun vil sette ned en
 arbeidsgruppe som skal utrede konsekvensene av forslaget og gi innspill
 til forskriftsarbeidet. Hvordan kan statsråden forsvare å be Stortinget
@@ -1489,11 +1504,11 @@ om å vedta disse lovendringene nå, når hun samtidig mener at det
 er nødvendig å utrede hvilke konsekvenser de faktisk kan få for
 den norske flåten?</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1001666">
+          <Hovedinnlegg Id="i1002287">
             <A>
               <Navn personID="NSSMAR">
 Statsråd Marianne Sivertsen Næss [11:15:50]:</Navn> For regjeringens
-del er det viktig å sikre maritime næringer gode rammevilkår. En
+del er det viktig å sikre maritime næringer gode rammevilkår. Et
 av de viktigste politiske virkemidlene vi har, er det som gjelder
 tilskuddsordninger for å sikre at vi har norsk maritim kompetanse,
 og at vi har de sjøfolkene som trengs. Det er særlig viktig i den
@@ -1506,24 +1521,24 @@ i henhold til statsstøtteregelverket, er at den må være EU- og EØS-nøytral.
 Det er også den informasjonen vi har fått i dialogen med ESA. Ønsker
 vi å få den notifisert, må den være EU- og EØS-nøytral. Det betyr
 at vi stiller de samme kravene til sjøfolkene. De skal betale både
-skatt og trygd til Norge, og har arbeid, som sagt, men det nye er
-at det kan være arbeid på et skip med EU/EØS-flagg, og at de nå
-kan bli omfattet av ordningen. Det er rundt 400 sjøfolk det potensielt
+skatt og trygd til Norge, og de har som sagt arbeid, men det nye
+er at det kan være arbeid på et skip med EU/EØS-flagg, og at de
+nå kan bli omfattet av ordningen. Det er rundt 400 sjøfolk det potensielt
 kan gjelde. </A>
             <A Type="Minnrykk">Utgangspunktet vårt var å beholde ordningen.
 Vi tar nå inn muligheten for at den skal inneholde også EU- og EØS-skip.
-I lys av de innspillene vi har fått da det var på høring, har vi
-gjort noen endringer i den proposisjonen. Blant annet har vi gjort
-den registreringsnøytral. Vi setter også ned en arbeidsgruppe som
-skal se på konsekvenser. Det betyr egentlig – som jeg kommuniserte
-sist også – at det er i forskriften alle detaljene kommer. Loven
-blir nå registreringsnøytral, som gjør at vi vil innfri det i henhold
-til det ESA har formidlet til oss og praksisen de har hatt i møte
-med både Sverige, Danmark og andre land. Så må vi jobbe med den
-forskriften for å sikre at vi fortsatt har en tilskuddsordning som
-ikke bidrar til utflagging, som også er en av bekymringene.</A>
+I lys av de innspillene vi fikk da det var på høring, har vi gjort
+noen endringer i den proposisjonen. Blant annet har vi gjort den
+registreringsnøytral. Vi setter også ned en arbeidsgruppe som skal
+se på konsekvenser. Som jeg kommuniserte sist, betyr det egentlig
+at det er i forskriften alle detaljene kommer. Loven blir nå registreringsnøytral,
+som gjør at vi vil innfri det i henhold til det ESA har formidlet
+til oss, og praksisen de har hatt i møte med både Sverige, Danmark
+og andre land. Så må vi jobbe med den forskriften for å sikre at vi
+fortsatt har en tilskuddsordning som ikke bidrar til utflagging,
+som også er en av bekymringene.</A>
           </Hovedinnlegg>
-          <Replikk Id="i1001668">
+          <Replikk Id="i1002289">
             <A>
               <Navn personID="GEIRAJ">
 Geir Jørgensen (R) [11:17:50]:</Navn> Takk for svaret. </A>
@@ -1541,7 +1556,7 @@ god tid til å gjennomføre en grundig konsekvensutredning av forslaget
 før det kom hit. Hvorfor velger statsråden likevel å gå videre med
 denne lovendringen nå?</A>
           </Replikk>
-          <Replikk Id="i1001670">
+          <Replikk Id="i1002291">
             <A>
               <Navn personID="NSSMAR">
 Statsråd Marianne Sivertsen Næss [11:18:49]:</Navn> Som sagt hadde
@@ -1555,17 +1570,17 @@ vi fortsatt skal sikre norsk maritim kompetanse, at vi har norske
 sjøfolk, og at tilskuddsordningen treffer akkurat sånn som vi ønsker.
 At vi ikke bidrar til å svekke den, eller at det bidrar til utflagging, er
 en del av bekymringen som jeg absolutt anerkjenner. Derfor er jeg
-veldig glad for at det både er godt mottatt, og at vi i lag med
+veldig glad for at det både er godt mottatt, og at vi sammen med
 næringen og partene har bestemt at en arbeidsgruppe skal jobbe videre
 med forskriften. </A>
             <A Type="Minnrykk">Når det gjelder det øvrige som representanten
 sier, om «uryddig» og «uansvarlig», vil jeg si at det som ville
-vært uryddig og uansvarlig, var å stille oss i en posisjon hvor
-vi ikke hadde en midlertidig ordning som gjaldt til vi har fått
-notifisert en ny ordning som skal gjelde for ti år – og i det hele tatt
-legge til rette for at vi ikke har en ordning. </A>
+vært uryddig og uansvarlig, er å stille oss i en posisjon hvor vi
+ikke hadde en midlertidig ordning som gjaldt til vi har fått notifisert
+en ny ordning som skal gjelde for ti år – og i det hele tatt legge
+til rette for at vi ikke har en ordning. </A>
           </Replikk>
-          <Replikk Id="i1001672">
+          <Replikk Id="i1002293">
             <A>
               <Navn personID="GEIRAJ">
 Geir Jørgensen (R) [11:19:56]:</Navn> Det er også sånn at i den
@@ -1574,13 +1589,13 @@ er beredskapen, også beredskapen til sjøs, viktigere enn på lenge.
 Det er mange høringsinstanser som har advart om at forslaget kan
 føre til utflagging, og som er helt klare på at dette svekker totalberedskapen
 i Norge og Norge som sjøfartsnasjon. Da er det uforståelig at regjeringen
-så og si heller vil gå til kamp mot norske sjøfolk og norsk maritim
+så å si heller vil gå til kamp mot norske sjøfolk og norsk maritim
 næring enn å ta det nødvendige generaloppgjøret med ESA og EØS-regelverket,
 som gjør dette så usikkert som det er. Hvordan kan regjeringen gå
 videre med forslaget uten å ha oversikt over de sikkerhetspolitiske
 konsekvensene av dette?</A>
           </Replikk>
-          <Replikk Id="i1001674">
+          <Replikk Id="i1002295">
             <A>
               <Navn personID="NSSMAR">
 Statsråd Marianne Sivertsen Næss [11:20:48]:</Navn> Jeg deler inngangen,
@@ -1603,21 +1618,21 @@ skal kunne rekruttere norske sjøfolk, og at vi i arbeidet som skal
 foregå nå, må klare å balansere de ulike hensynene som ligger i dette
 bildet.</A>
           </Replikk>
-          <Replikk Id="i1001676">
+          <Replikk Id="i1002297">
             <A>
               <Navn personID="GEIRAJ">
 Geir Jørgensen (R) [11:21:51]:</Navn> Det er én mulighet som statsråden
 ikke har nevnt i noen av svarene, verken i denne runden eller i
-den forrige som vi hadde før påske, og det er at Norge ser bort
+den forrige, som vi hadde før påske, og det er at Norge ser bort
 fra ESAs betingelser og opprettholder dagens tilskuddsordning slik
 den er, og slik den fungerer meget godt for norsk sjøfart. Hva mener
 statsråden ville være det verste som kunne skje om vi sørget for
 å holde norske skip under norsk flagg, trygget arbeidsvilkårene
-og lønnsvilkårene for norske sjøfolk, og førte vår egen politikk
+og lønnsvilkårene for norske sjøfolk og førte vår egen politikk
 til beste for Norge og norske sjøfolk? Hva ville være den verste
 konsekvensen?</A>
           </Replikk>
-          <Replikk Id="i1001678">
+          <Replikk Id="i1002299">
             <A>
               <Navn personID="NSSMAR">
 Statsråd Marianne Sivertsen Næss [11:22:31]:</Navn> Jeg må si jeg
@@ -1631,15 +1646,15 @@ av de viktigste politiske virkemidlene vi har for å sikre norsk
 maritim kompetanse. Det skal vi sikre også i det videre, og det
 er særdeles viktig i den tiden vi lever i nå. Jeg kan bare understreke
 at vi tar både den maritime sikkerheten og beredskapen på alvor, og
-vi skal jobbe videre med å få en ordning på plass i lag med partene
-i arbeidslivet.</A>
+vi skal jobbe videre sammen med partene i arbeidslivet med å få
+en ordning på plass.</A>
           </Replikk>
           <Presinnlegg>
             <A>
               <Navn>Presidenten [11:22:43]:</Navn> Vi går til
 neste hovedspørsmål. </A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1001680">
+          <Hovedinnlegg Id="i1002301">
             <A>
               <Navn personID="UAB">
 Une Bastholm (MDG) [11:23:20]:</Navn> Vi skal til villfisken og
@@ -1662,10 +1677,16 @@ rundt 130–140 pst. mer enn hva forskerne og ICES har ment var forsvarlig.
 Norge skal være blant verstingene – vi er blant dem som fisker mest
 makrell. Resultatet er at makrellen kan bli borte fra den nordøstlige
 delen av Atlanterhavet, og Havforskningsinstituttets forskningssjef
-Geir Huse er overtydelig. Han uttaler: «Makrellbestanden er alt
-under det kritiske nivået for gytebestanden og har redusert reproduksjonsevne.» Han
-fortsetter med: «Den nedadgående trenden må bli snudd umiddelbart
-for å unngå bestandskollaps.»</A>
+Geir Huse er overtydelig. Han uttaler: </A>
+            <Sitat Type="Minnrykk">
+              <A>«Makrellbestanden er alt under det kritiske
+nivået for gytebestanden og har redusert reproduksjonsevne.» </A>
+            </Sitat>
+            <A Type="Minnrykk">Han fortsetter med: </A>
+            <Sitat Type="Minnrykk">
+              <A>«Den nedadgående trenden må bli snudd
+umiddelbart for å unngå bestandskollaps.»</A>
+            </Sitat>
             <A Type="Minnrykk">At Norge er med på en slik type kappløp mot
 bunnen, bekymrer meg dypt, og det gjør mange i Norge forbannet.
 Det svekker tilliten til Norge som havnasjon, og det knekker økosystemer
@@ -1674,19 +1695,19 @@ det en rådgiver i departementet som uttaler seg på vegne av regjeringen,
 så nå lar jeg statsråden få svare: Hvorfor følger ikke statsråden
 faglige anbefalinger?</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1001682">
+          <Hovedinnlegg Id="i1002303">
             <A>
               <Navn personID="NSSMAR">
 Statsråd Marianne Sivertsen Næss [11:25:27]:</Navn> Alle forhandlinger,
 om de er bilaterale eller det er med flere parter i kyststatsforhandlinger,
 er nettopp forhandlinger. Fra norsk side har det vært viktig å få
 på plass en avtale.</A>
-            <A Type="Minnrykk">Det er som du sier: Makrellbestanden er i dårlig
-forfatning. Det skyldes en kombinasjon av synkende rekruttering og
-vedvarende høyt fiskepress, så den inngangen deler vi. Når det er
-sagt, har vi jobbet iherdig over lang tid for å få på plass en helhetlig
-avtale, og vi har nå klart å få på plass en firepartsavtale, som
-da er med Storbritannia, Færøyene, Island og Norge. Den avtalen
+            <A Type="Minnrykk">Det er som representanten Bastholm sier: Makrellbestanden
+er i dårlig forfatning. Det skyldes en kombinasjon av synkende rekruttering
+og vedvarende høyt fiskepress, så den inngangen deler vi. Når det
+er sagt, har vi jobbet iherdig over lang tid for å få på plass en
+helhetlig avtale, og vi har nå klart å få på plass en firepartsavtale,
+som da er med Storbritannia, Færøyene, Island og Norge. Den avtalen
 bidrar til å redusere det langsiktige fiskepresset, og det er som
 sagt svært viktig.</A>
             <A Type="Minnrykk">I den avtalen er det to hovedelementer: Det
@@ -1701,7 +1722,7 @@ for makrell.</A>
 eksempelvis å få med EU i den avtalen. Det er som sagt gi og ta,
 og Norge har både avgitt andeler og gitt tilgang i norsk økonomisk
 sone. Dette er altså forhandlinger som foregår mellom flere parter,
-og hvor Norge er opptatt av å ta ned fiskepresset. Det vi har gjort,
+hvor Norge er opptatt av å ta ned fiskepresset. Det vi har gjort,
 er å klare å ta det ned i forhold til fjorårets tilnærming. Da var
 det et fiske som tilsvarte 118 pst. av totalkvoten, og det er nå
 redusert til 107,5 pst. Det har altså hjulpet litt, men jeg er enig
@@ -1715,7 +1736,7 @@ er med, og at man i større grad får fulgt de rådene som foreligger.</A>
 vil minne representanten Bastholm på språkbruken – «forbannet» er
 ikke et parlamentarisk uttrykk.</A>
           </Presinnlegg>
-          <Replikk Id="i1001684">
+          <Replikk Id="i1002305">
             <A>
               <Navn personID="UAB">
 Une Bastholm (MDG) [11:27:30]:</Navn> Det merker jeg meg, president.</A>
@@ -1724,17 +1745,17 @@ på hvorfor Norge utnytter en situasjon hvor man ikke har avtale
 – og har gjort det over flere år – til å fiske så mye mer enn det
 som er faglig anbefalt. Da er vi med på en konkurranse internasjonalt om
 å utnytte situasjonen, som gjør at alle taper på det. Det er ikke
-det eneste eksempelet. Jeg har hatt flere utvekslinger med fiskeriministeren
-de siste ukene om kvotesetting på flere bestander etter at Havforskningsinstituttet
-i februar kom med ny ressursoversikt som altså viser en dramatisk
-nedgang i nesten alle bestander Norge fisker på. Antall tonn fisk
-er halvert siden 2013. 2013 var riktignok et år med mye fisk, men
-det er en veldig dramatisk utvikling. Ressursoversikten har kartlagt
-46 bestander i Nordsjøen, Norskehavet og Barentshavet. </A>
+det eneste eksempelet. Jeg har de siste ukene hatt flere utvekslinger
+med fiskeriministeren om kvotesetting på flere bestander, etter
+at Havforskningsinstituttet i februar kom med ny ressursoversikt
+som altså viser en dramatisk nedgang i nesten alle bestander Norge
+fisker på. Antall tonn fisk er halvert siden 2013. 2013 var riktignok
+et år med mye fisk, men det er en veldig dramatisk utvikling. Ressursoversikten har
+kartlagt 46 bestander i Nordsjøen, Norskehavet og Barentshavet. </A>
             <A Type="Minnrykk">Er ikke statsråden bekymret? Hva vil statsråden
 foreta seg for å gjøre noe med kvotesettingen?</A>
           </Replikk>
-          <Replikk Id="i1001686">
+          <Replikk Id="i1002307">
             <A>
               <Navn personID="NSSMAR">
 Statsråd Marianne Sivertsen Næss [11:28:37]:</Navn> Jeg tror det
@@ -1742,8 +1763,8 @@ viktigste vi gjør, er å fortsette sporet med dialog og forhandlinger
 og sikre at vi sammen får på plass helhetlige avtaler. For Norges
 del har vi nå en andel på 24,6 pst. Vi er ikke dem som fisker mest,
 det er det Storbritannia som gjør, men våre 24,6 pst. reflekterer
-både tilstedeværelse av materiellbestand i norsk økonomisk sone
-og at vi får en kompensasjon for å gi Island og Færøyene soneadgang
+både tilstedeværelse av makrellbestand i norsk økonomisk sone og
+at vi får en kompensasjon for å gi Island og Færøyene soneadgang
 til å fiske deler av sin kvote i norsk økonomisk sone. </A>
             <A Type="Minnrykk">Dette er en avtale som i utgangspunktet varer
 i tre år. Det er en avtale som legger til rette for at man også
@@ -1754,27 +1775,27 @@ Det er der saken står nå. Vi har en firepartsavtale. Vi har klart
 Jeg har også tett og god dialog med kommissæren i EU, og det er
 i utgangspunktet også planlagt et møte i slutten av denne måneden,
 hvis jeg husker rett, for å følge opp disse forhandlingene og diskusjonene
-som går på akkurat det med makrell i særdeleshet.</A>
+som i særdeleshet går på akkurat det med makrell.</A>
           </Replikk>
-          <Replikk Id="i1001688">
+          <Replikk Id="i1002309">
             <A>
               <Navn personID="UAB">
 Une Bastholm (MDG) [11:29:41]:</Navn> De lave bestandene får også
 konsekvenser for fiskeriene, både små og store, og det har bl.a.
 ført til at organisasjonen Fiskebåt har bedt regjeringen fjerne
 forbudet mot at fartøy over 15 meter kan fiske med snurrevad innenfor
-4 nautiske mål av grunnlinjen mellom Kinnarodden og Svartnes på
+4 nautiske mil av grunnlinjen mellom Kinnarodden og Svartnes på
 våren. Områdene det gjelder, er viktige for gyte- og oppvekstområder,
 og Kystfiskarlaget har advart sterkt mot forslaget. </A>
             <A Type="Minnrykk">Kan statsråden avklare her og nå at det ikke
 vil bli gitt nye utvidelser av muligheter for bunntrål og snurrevad
 i løpet av denne regjeringsperioden, særlig gitt det statsråden
-i utveksling med og svar til meg selv kaller økosystemer i endring,
-bl.a. på grunn av hardt fiske og klimaendringer samtidig? Kan det
-hende at vi kanskje heller får se utvidelse av områder med forbud
-og forlengelse av perioden for forbud for bruk av snurrevad?</A>
+selv i utveksling med og svar til meg kaller økosystemer i endring, bl.a.
+på grunn av hardt fiske og klimaendringer samtidig? Kan det hende
+at vi kanskje heller får se utvidelse av områder med forbud og forlengelse
+av perioden for forbud for bruk av snurrevad?</A>
           </Replikk>
-          <Replikk Id="i1001690">
+          <Replikk Id="i1002311">
             <A>
               <Navn personID="NSSMAR">
 Statsråd Marianne Sivertsen Næss [11:30:42]:</Navn> Jeg har ikke
@@ -1782,62 +1803,61 @@ tenkt å stå her og forskuttere eventuelle saksbehandlinger og faglige
 råd vi måtte få i den type saker, men jeg er opptatt av at vi skal
 ha en helhetlig forvaltning, og at sunne, friske økosystemer er
 det beste utgangspunktet for at vi fortsatt skal være en ledende
-sjømatnasjon i framtiden. Da må vi klare å finne den balansen og
-ta de grepene som er nødvendige, som vi allerede har vist gjennom
-flere tiltak. Jeg vil komme til å gjøre det også i framtiden, dersom
-det er både faglig tilrådelig og det som er anbefalingen. </A>
-            <A Type="Minnrykk">Det er klart at det her alltid er en balansegang
-mellom det som går på bærekraft, både sosial, økonomisk og knyttet
-til miljø. Vi må klare å ivareta arbeidsplasser på den ene siden uten
-at det skal trumfe naturen og økosystemene, for da har vi ødelagt
-for oss selv. Da er det bare en bjørnetjeneste på kort sikt, som
-gjør at vi vil ødelegge for oss selv i årene som kommer. Det er
-i utgangspunktet mitt svar på det.</A>
+sjømatnasjon i framtiden. Da må vi klare å finne en balanse og ta
+de grepene som er nødvendige, som vi allerede har vist gjennom flere
+tiltak. Jeg vil gjøre det også i framtiden, dersom det er både faglig
+tilrådelig og det som er anbefalingen. </A>
+            <A Type="Minnrykk">Det er klart at det alltid er en balansegang
+her mellom det som går på bærekraft, både sosial og økonomisk bærekraft
+og bærekraft knyttet til miljø. Vi må klare å ivareta arbeidsplasser
+– på den ene siden – uten at det skal trumfe naturen og økosystemene,
+for da har vi ødelagt for oss selv. Da er det bare en bjørnetjeneste
+på kort sikt, som gjør at vi vil ødelegge for oss selv i årene som
+kommer. Det er i utgangspunktet mitt svar på det.</A>
           </Replikk>
-          <Replikk Id="i1001692">
+          <Replikk Id="i1002313">
             <A>
               <Navn personID="UAB">
-Une Bastholm (MDG) [11:31:36]:</Navn> Det siste der er jeg veldig
-enig i, og jeg håper det er førende også for fiskeriministerens
-arbeid med å få opp igjen bestandene kystnasjonen Norge høster av.</A>
+Une Bastholm (MDG) [11:31:36]:</Navn> Det siste er jeg veldig enig
+i, og jeg håper det er førende også for fiskeriministerens arbeid
+med å få opp igjen bestandene kystnasjonen Norge høster av.</A>
             <A Type="Minnrykk">Et helt konkret og lavterskel eksempel på et
 tiltak fiskeriministeren kan gjøre veldig raskt, er knyttet til
-at det i dag er sånn at veldig effektive havgående fartøy har lov
-til å fiske i viktige gyte- og oppvekstområder. Når det da skal
-tas prøver for å avdekke undermålsfisk – altså småfisk, det kan
-være bifangst eller fisk som fortsatt ikke har blitt stor nok til
-at de kan gyte og videreføre arten – tas det bare prøver på hele
-volumet av fisk man tar opp, ikke bestandsvis. Vil statsråden vurdere å
-endre prøvetakingsregimet, sånn at vi får mer oversikt over hva
-som faktisk fiskes opp, og unngår at vi fisker ut småfisk, som gjør
-at vi utrydder arter?</A>
+at veldig effektive havgående fartøy i dag har lov til å fiske i
+viktige gyte- og oppvekstområder. Når det da skal tas prøver for
+å avdekke undermålsfisk – altså småfisk, det kan være bifangst eller
+fisk som fortsatt ikke har blitt stor nok til at de kan gyte og
+videreføre arten – tas det bare prøver på hele volumet av fisk man tar
+opp, ikke bestandsvis. Vil statsråden vurdere å endre prøvetakingsregimet,
+sånn at vi får mer oversikt over hva som faktisk fiskes opp, og
+unngår at vi fisker ut småfisk, som gjør at vi utrydder arter?</A>
           </Replikk>
-          <Replikk Id="i1001694">
+          <Replikk Id="i1002315">
             <A>
               <Navn personID="NSSMAR">
 Statsråd Marianne Sivertsen Næss [11:32:32]:</Navn> Først vil jeg
 si at jeg er veldig glad for at vi har denne typen debatt i Stortinget.
 Det representanten spør om, er på et veldig detaljert nivå, veldig
-tungt faglig og komplisert, men jeg mener også at det er viktig
-at vi alltid skal utvikle både metodikk og hvordan vi både innhenter
+faglig tungt og komplisert, men jeg mener også at det er viktig
+at vi alltid skal utvikle metodikk og hvordan vi både innhenter
 kunnskap og sikrer at vi har den best tilgjengelige kunnskapen på
-bordet når vi skal fatte beslutninger. Det er min inngang i det.
+bordet når vi skal fatte beslutninger. Det er min inngang til det.
 Jeg skal ikke konkludere på spørsmålet, men jeg vil i hvert fall
 gi til kjenne at det er viktig alltid å være opptatt av metodeutvikling
-og hvordan vi får den best tilgjengelige kunnskapen til grunn.</A>
+og hvordan vi kan legge den best tilgjengelige kunnskapen til grunn.</A>
           </Replikk>
           <Presinnlegg>
             <A>
               <Navn>Presidenten [11:33:06]:</Navn> Med det er
-muntlig spørretime omme.</A>
+den muntlige spørretimen omme.</A>
           </Presinnlegg>
         </Sak>
-        <Sakreferat Id="i1001696">
+        <Sakreferat Id="i1002317">
           <Sakshode>
             <Saknr>
               <Uth Type="Sperret">Sak
 nr. 2</Uth> [11:33:08]</Saknr>
-            <Saktittel Id="i1001698">
+            <Saktittel Id="i1002319">
               <A>Referat</A>
             </Saktittel>
           </Sakshode>

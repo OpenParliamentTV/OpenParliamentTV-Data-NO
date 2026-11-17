@@ -1,15 +1,15 @@
-<Forhandlinger Status="Kvalitetssikret">
+<Forhandlinger Status="Komplett">
   <Mote moteID="11620">
     <Startseksjon>
       <Motestart>
         <Tittel>Møte tirsdag den 28. april 2026 kl. 10</Tittel>
-        <President Id="i1005854" personID="MASG">
+        <President Id="i1006703" personID="MASG">
           <A>President: <Uth Type="Sperret">Masud
 Gharahkhani</Uth></A>
         </President>
         <Dagsorden>
           <Tittel>Dagsorden <DagsordenNR>(nr. 68):</DagsordenNR></Tittel>
-          <DagsordenSak Id="i1005856">
+          <DagsordenSak Id="i1006705">
             <Liste Type="Dagsorden">
               <Pkt>
                 <A> 1.	Stortingets
@@ -42,7 +42,7 @@ og forsikringsvirksomhetsloven (forvaltning av garanterte pensjonsprodukter)</A>
 Representantforslag fra stortingsrepresentantene Bård Hoksrud, Dagfinn
 Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik, Mats Henriksen,
 Lill Harriet Sandaune og Rikard Spets om redusert bompengebelastning
-på E6 Ulsberg-Melhus</A>
+på E6 Ulsberg–Melhus</A>
                 <A>(Innst. 218 S (2025–2026), jf. Dokument 8:115 S (2025–2026))</A>
               </Pkt>
               <Pkt>
@@ -57,7 +57,7 @@ tap av førerkort samt endring av regelverket for vurdering av kjøreevne</A>
                 <A> 7.	Interpellasjon fra representanten Amalie Gunnufsen til arbeids-
 og inkluderingsministeren:</A>
                 <A>«Arbeidsledigheten blant nyutdannede masterstudenter er nå den
-høyeste på over 25 år. NIFUs ferske kandidatundersøkelse viser at
+høyeste på over 25 år. NIFUs ferske kandidatundersøkelse viser at
 nesten én av ti står helt uten jobb et halvt år etter fullførte
 studier, og at ledigheten har økt særlig blant økonomer, samfunnsvitere
 og naturvitere. Dette bekreftes av kandidatundersøkelsene ved NTNU, Nord
@@ -94,23 +94,15 @@ Blikra og Trond Giske, som har vært permittert, har igjen tatt sete.</A>
 Nina Dons-Hansen, tar nå sete.</A>
           <A Type="Minnrykk">Fra Arbeiderpartiets stortingsgruppe foreligger
 søknad om at den innvilgede permisjonen etter Stortingets forretningsorden
-§ 5 annet punktum for representanten Solveig Vitanza fra 23. april
-og inntil videre, endres til velferdspermisjon i tiden fra og med
-23. til og med 28. april.</A>
-          <A Type="Blanklinje">Etter forslag fra presidenten ble enstemmig
-besluttet:</A>
-          <Liste Type="Num">
-            <Pkt>
-              <A>Søknaden behandles straks og innvilges.</A>
-            </Pkt>
-          </Liste>
+§ 5 annet punktum for representanten Solveig Vitanza fra 23. april
+og inntil videre endres til velferdspermisjon i tiden fra og med
+23. til og med 28. april. </A>
+          <A Type="Minnrykk">Denne søknaden foreslås behandles straks og
+innvilges. – Det anses vedtatt.</A>
+          <A Type="Minnrykk">Statsråd Jon-Ivar Nygård vil overbringe én
+kongelig proposisjon.</A>
         </Presinnlegg>
-        <Presinnlegg>
-          <A>
-            <Navn>Presidenten [10:00:43]:</Navn> Statsråd Jon-Ivar
-Nygård vil overbringe én kongelig proposisjon.</A>
-        </Presinnlegg>
-        <Hovedinnlegg Id="i1005858">
+        <Hovedinnlegg Id="i1006707">
           <A>
             <Navn personID="JONN">
 Jon-Ivar Nygård (A) [10:00:55]:</Navn> På vegne av regjeringen vil
@@ -123,12 +115,12 @@ vil bli behandlet på reglementsmessig måte.</A>
           <A Type="Minnrykk">Representanten Mirell Høyer-Berntsen vil framsette
 et representantforslag.</A>
         </Presinnlegg>
-        <Hovedinnlegg Id="i1005860">
+        <Hovedinnlegg Id="i1006709">
           <A>
             <Navn personID="MIREHB">
-Mirell Høyer-Berntsen (SV) [10:01:24]:</Navn> Det er meg en ære,
+Mirell Høyer-Berntsen (SV) [10:01:24]:</Navn> Det er meg en ære
 på vegne av representantene Anne Lise Gjerstad Fredlund, Ingrid
-Fiskaa, Sunniva Holmås Eidsvoll og meg selv, å framsette et representantforslag
+Fiskaa, Sunniva Holmås Eidsvoll og meg selv å framsette et representantforslag
 om å bekjempe voldelige og ekstremistiske digitale nettverk rettet
 mot barn og unge.</A>
         </Hovedinnlegg>
@@ -137,42 +129,40 @@ mot barn og unge.</A>
             <Navn>Presidenten [10:01:42]:</Navn> Forslaget vil
 bli behandlet på reglementsmessig måte. </A>
           <A Type="Minnrykk">Sakene nr. 1–4 vil bli behandlet under ett.</A>
-          <A Type="Minnrykk">Sakene er andre gangs behandling av lover og
-gjelder lovvedtakene 36 til og med 39.</A>
         </Presinnlegg>
       </Motestart>
     </Startseksjon>
-    <Hovedseksjon Id="i1005862">
+    <Hovedseksjon Id="i1006711">
       <Saker>
         <Sak saksKartNr="1" sammenslatteSaker="1,2,3,4" sakID="104763">
           <Sakshode>
             <Saknr>
               <Uth Type="Sperret">Sak nr. 1</Uth> [10:01:58]</Saknr>
-            <Saktittel Id="i1005868">
+            <Saktittel Id="i1006717">
               <A>Stortingets vedtak til lov om inkassovirksomhet
 og inndriving av forfalte pengekrav (inkassoloven) <Uth Type="RETT">(Lovvedtak
 36 (2025–2026), jf. Innst. 192 L (2025–2026) og Prop. 3 L (2025–2026))</Uth></A>
             </Saktittel>
           </Sakshode>
         </Sak>
-        <Sak Id="i1005870" saksKartNr="2" sammenslatteSaker="1,2,3,4" sakID="104479">
+        <Sak Id="i1006719" saksKartNr="2" sammenslatteSaker="1,2,3,4" sakID="104479">
           <Sakshode>
             <Saknr>
               <Uth Type="Sperret">Sak
 nr. 2</Uth> [10:01:58]</Saknr>
-            <Saktittel Id="i1005876">
+            <Saktittel Id="i1006725">
               <A>Stortingets vedtak til lov om endringer
 i straffegjennomføringsloven mv. (isolasjon i fengsel) <Uth Type="RETT">(Lovvedtak 37 (2025–2026), jf. Innst. 193 L (2025–2026)
 og Prop. 165 L (2024–2025))</Uth></A>
             </Saktittel>
           </Sakshode>
         </Sak>
-        <Sak Id="i1005878" saksKartNr="3" sammenslatteSaker="1,2,3,4" sakID="200029">
+        <Sak Id="i1006727" saksKartNr="3" sammenslatteSaker="1,2,3,4" sakID="200029">
           <Sakshode>
             <Saknr>
               <Uth Type="Sperret">Sak
 nr. 3</Uth> [10:01:58]</Saknr>
-            <Saktittel Id="i1005884">
+            <Saktittel Id="i1006733">
               <A>Stortingets vedtak til lov om endringer
 i lov om supplerande stønad til personar med kort butid i Noreg
 (presisering av reglene om behovsprøving) <Uth Type="RETT">(Lovvedtak
@@ -180,12 +170,12 @@ i lov om supplerande stønad til personar med kort butid i Noreg
             </Saktittel>
           </Sakshode>
         </Sak>
-        <Sak Id="i1005886" saksKartNr="4" sammenslatteSaker="1,2,3,4" sakID="105929">
+        <Sak Id="i1006735" saksKartNr="4" sammenslatteSaker="1,2,3,4" sakID="105929">
           <Sakshode>
             <Saknr>
               <Uth Type="Sperret">Sak
 nr. 4</Uth> [10:01:58]</Saknr>
-            <Saktittel Id="i1005892">
+            <Saktittel Id="i1006741">
               <A>Stortingets vedtak til lov om endringer
 i foretakspensjonsloven og forsikringsvirksomhetsloven (forvaltning
 av garanterte pensjonsprodukter) <Uth Type="RETT">(Lovvedtak 39
@@ -198,12 +188,12 @@ av garanterte pensjonsprodukter) <Uth Type="RETT">(Lovvedtak 39
 om ordet.</A>
           </Presinnlegg>
         </Sak>
-        <Sak Id="i1005894" saksKartNr="5" sakID="200035">
+        <Sak Id="i1006743" saksKartNr="5" sakID="200035">
           <Sakshode>
             <Saknr>
               <Uth Type="Sperret">Sak
 nr. 5</Uth> [10:02:02]</Saknr>
-            <Saktittel Id="i1005898">
+            <Saktittel Id="i1006747">
               <A>Innstilling fra transport- og kommunikasjonskomiteen om
 Representantforslag fra stortingsrepresentantene Bård Hoksrud, Dagfinn
 Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik, Mats Henriksen,
@@ -222,7 +212,7 @@ fra transport- og kommunikasjonskomiteen vil presidenten ordne debatten slik:
 fra medlemmer av regjeringen, og de som måtte tegne seg på talerlisten
 utover den fordelte taletid, får også en taletid på inntil 3 minutter.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1005900">
+          <Hovedinnlegg Id="i1006749">
             <A>
               <Navn personID="REMSLV">
 Remi Sølvberg (R) [10:02:55]</Navn> (ordfører for saken): Saken
@@ -247,32 +237,32 @@ grunn i vedtaket. Det vises også til at den samlede bompengebelastningen
 i området oppleves som høy, særlig for pendlere og næringstransport.</A>
             <A Type="Minnrykk">Det er ulike syn i denne saken. Flere medlemmer
 understreker at legitimiteten til bompengeordningen er avhengig
-av sammenhengen mellom betaling og nytte, og at forsinkelser i prosjekter
+av sammenhengen mellom betaling og nytte, og at forsinkelser i prosjektet
 kan utfordre denne balansen. Det pekes på behovet for å vurdere
 endringer i bompengeopplegget i lys av de endrede forutsetningene.</A>
             <A Type="Minnrykk">Andre medlemmer viser til at bompengeopplegget
 bygger på lokalpolitisk tilslutning, og at det er viktig å ha et
 tilstrekkelig beslutningsgrunnlag før eventuelle endringer gjennomføres,
 bl.a. av hensyn til prosjektets finansiering og gjennomføring.</A>
-            <A Type="Minnrykk">Det fremmes ulike forslag i saken. Ett forslag
+            <A Type="Minnrykk">Det fremmes ulike forslag i saken. Et forslag
 går ut på å be regjeringen gjennomgå bompengeopplegget med sikte
 på å redusere belastningen. Et annet forslag gjelder å forlenge nedbetalingstiden
-for å redusere takstene, samt innføring av passeringstak, i dialog
-med lokale myndigheter.</A>
+for å redusere takstene, samt å innføre passeringstak i dialog med
+lokale myndigheter.</A>
             <A Type="Minnrykk">Komiteen viser samlet sett til at saken reiser
 spørsmål både om håndtering av endrede forutsetninger i enkeltprosjekter
 og om utforming av bompengeordninger mer generelt, herunder forholdet
 mellom statlig finansiering og brukerbetaling.</A>
             <A Type="Minnrykk">Jeg håper vi får en god debatt.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1005902">
+          <Hovedinnlegg Id="i1006751">
             <A>
               <Navn personID="JONBLI">
 Jone Blikra (A) [10:05:41]:</Navn> Det er utfordringer med prosjektet
 E6 Melhus–Ulsberg, og det har ingen noen problemer med å forstå,
 ei heller med å forstå bekymringen. Den politiske utfordringen er
 hvordan vi løser dette.</A>
-            <A Type="Minnrykk">Alle bompengesaker vi etter hvert har fått
+            <A Type="Minnrykk">Alle bompengesaker vi etter hvert har fått,
 og sikkert kommer til å få, bygger på lokalpolitiske vedtak. I dette
 tilfellet har det vært en grundig prosess i Trøndelag fylkeskommune
 og berørte kommuner. Alle berørte kommuner, og Trøndelag fylkeskommune,
@@ -296,7 +286,7 @@ for fylkeskommunen, som sitter med den økonomiske risikoen i prosjektet,
 og som må få muligheten til å vurdere eventuelle endringer og faktisk
 be om det.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1005904">
+          <Hovedinnlegg Id="i1006753">
             <A>
               <Navn personID="MATHEN">
 Mats Henriksen (FrP) [10:07:51]:</Navn> Innbyggerne i Melhus har
@@ -323,29 +313,29 @@ innbyggere og næringsliv.</A>
             <A Type="Minnrykk">Jeg registrerer nok en gang at Arbeiderpartiets
 svar er at vi må vente og se. Vi er innvalgt på Stortinget for å
 løse vanlige folks hverdagsproblemer. Å vente og se løser ikke noe. Det
-vitner om en regjering som både er passiv, og som ikke lager en
-politikk for vanlige folk. Arbeiderpartiet er ikke lenger et parti
-for arbeiderne; det er et parti for eliten.</A>
-            <A Type="Minnrykk">Det ser ikke ut som FrPs forslag får flertall.
+vitner om at vi har en regjering som både er passiv og som ikke
+lager en politikk for vanlige folk. Arbeiderpartiet er ikke lenger
+et parti for arbeiderne; det er et parti for eliten.</A>
+            <A Type="Minnrykk">Det ser ikke ut som om FrPs forslag får flertall.
 Derfor vil vi varsle subsidiær støtte til Høyres forslag – som de
-nok fremmer etterpå – både om forlenget nedbetalingstid og om passeringstak.
+sikkert fremmer etterpå – både om forlenget nedbetalingstid og om passeringstak.
 Høyres forslag vil føre til at innbyggerne får en lavere takst ved
 passering, og det er i tråd med FrPs intensjon.</A>
             <A Type="Minnrykk">Politikk handler om folk og folks liv – om
-pendlere på vei til og fra jobb, om småbarnsmoren som skal levere
-i barnehagen, om yrkessjåføren som holder landet i gang. FrP mener bompengesituasjonen
-i Melhus går ut over alle disse gruppene, og det er et problem.
-Det er et problem vi må løse, og det håper jeg flertallet i denne
-salen tar på alvor.</A>
-            <A Type="Minnrykk">Med det tar jeg opp forslaget i saken som FrP
-er med på.</A>
+pendlere på vei til og fra jobb, om småbarnsmora som skal levere
+i barnehagen, og om yrkessjåføren som holder landet i gang. FrP
+mener bompengesituasjonen i Melhus går ut over alle disse gruppene,
+og det er et problem. Dette er et problem vi må løse, og det håper
+jeg flertallet i denne salen tar på alvor.</A>
+            <A Type="Minnrykk">Med det tar jeg opp forslaget fra Fremskrittspartiet
+og Senterpartiet.</A>
           </Hovedinnlegg>
           <Presinnlegg>
             <A>
               <Navn>Presidenten [10:10:27]:</Navn> Representanten
 Mats Henriksen har tatt opp det forslaget han refererte til.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1005906">
+          <Hovedinnlegg Id="i1006755">
             <A>
               <Navn personID="TROH">
 Trond Helleland (H) [10:10:47]:</Navn> Vi har nå en situasjon der
@@ -356,15 +346,15 @@ bor i Melhus. Vi er åpne for å foreslå – og jeg fremmer våre forslag
 – forlenget nedbetalingstid og at regjeringen går i dialog med fylkeskommunen
 og andre lokale myndigheter for å finne ut av dette.</A>
             <A Type="Minnrykk">Det er forbausende hvor lite proaktiv regjeringen
-er når denne typen saker kommer. Det er ikke noen tvil lokalt, også i
-fylkeskommunen – som jo er bompengegarantisten, som Jone Blikra
-korrekt påpeker. Det er et sånt system vi har laget oss: Når staten
-skal bygge en vei, en riksvei, så er det fylkeskommunen som skal
-garantere. Det er en merksnodighet som har ligget i systemet i alle
-år, og sånn er det. Når også lokale myndigheter ser at her må en
-gjøre noe, regner jeg med at statsrådens departement vil gå i dialog
-med fylkeskommunen og komme tilbake til Stortinget med et revidert
-opplegg.</A>
+er når denne typen saker kommer. Det er ikke noen tvil om at det
+lokalt også er fylkeskommunen som er bompengegarantisten, som Jone
+Blikra korrekt påpeker. Det er et sånt system vi har laget oss:
+Når staten skal bygge en vei, en riksvei, er det fylkeskommunen
+som skal garantere. Det er en merksnodighet som har ligget i systemet
+i alle år, men sånn er det nå. Men når også lokale myndigheter ser
+at her må en gjøre noe, regner jeg med at statsrådens departement
+vil gå i dialog med fylkeskommunen og komme tilbake til Stortinget
+med et revidert opplegg.</A>
             <A Type="Minnrykk">Vi fremmer våre forslag, og jeg er glad for
 den subsidiære støtten som FrP varslet til våre forslag.</A>
           </Hovedinnlegg>
@@ -373,7 +363,7 @@ den subsidiære støtten som FrP varslet til våre forslag.</A>
               <Navn>Presidenten [10:12:30]:</Navn> Representanten
 Trond Helleland har tatt opp de forslagene han refererte til.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1005908">
+          <Hovedinnlegg Id="i1006757">
             <A>
               <Navn personID="GEL">
 Geir Inge Lien (Sp) [10:12:49]:</Navn> Legitimiteten til bompengeordninga
@@ -383,29 +373,29 @@ betalar bompengar på E6 mellom Ulsberg og Melhus, har verken fått
 ferdig veg eller ei rimeleg bompengebelastning. Det rammar pendlarar
 og næringstransport, og det skapar heilt forståeleg frustrasjon lokalt. </A>
             <A Type="Minnrykk">E6 Ulsberg–Melhus er eitt av fleire prosjekt
-i Nye vegars portefølje der innkrevjing startar samtidig som det
-er uklart når heile strekninga vil stå ferdig. Difor meiner eg at
-det begynner å verte på tide at Stortinget spør seg om Nye vegar
-er organisert på ein klok måte. Me kan ikkje ha det slik at vegutbyggjaren
-etterlet seg halvferdige parsellar her og der. Òg lokalt opplever
+i porteføljen til Nye vegar der innkrevjing startar samtidig som
+det er uklart når heile strekninga vil stå ferdig. Difor meiner
+eg at det begynner å verte på tide at Stortinget spør seg om Nye
+vegar er organisert på ein klok måte. Vi kan ikkje ha det slik at vegutbyggjaren
+etterlét seg halvferdige parsellar her og der. Òg lokalt opplever
 ein at dette er urimeleg. </A>
             <A Type="Minnrykk">Å ettergje gjeld i prosjekt som er forankra
 i lokalpolitiske vedtak, er vanskeleg å forsvare så lenge det står
-andre viktige samferdselsprosjekt på vent rundt omkring i landet,
-men vi forventar at regjeringa tek ansvar. I dialog med lokale myndigheiter
+andre viktige samferdselsprosjekt på vent rundt omkring i landet.
+Men vi forventar at regjeringa tek ansvar. I dialog med lokale myndigheiter
 må ein finne rom for løysingar som lét bompengetrykket gå ned, f.eks.
 gjennom utvida innkrevjingstid, slik vi føreslår i lag med Framstegspartiet. </A>
             <A Type="Minnrykk">Senterpartiet vil no varsle at dersom det nemnte
-forslaget ikkje får fleirtal, så vil vi subsidiært støtte forslaga
-frå Høgre, om forlenga nedbetalingstid og om å gå i dialog med dei
+forslaget ikkje får fleirtal, vil vi subsidiært støtte forslaga
+frå Høgre om forlengd nedbetalingstid og om å gå i dialog med dei
 lokale myndigheitene om passeringstak. Det vil i det minste vere
-eit steg i rett retning for å få ned bompengebelastinga på strekninga.</A>
+eit steg i rett retning for å få ned bompengebelastninga på strekninga.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1005910">
+          <Hovedinnlegg Id="i1006759">
             <A>
               <Navn personID="JONN">
 Statsråd Jon-Ivar Nygård [10:15:22]:</Navn> E6 Ulsberg–Melhus er
-en viktig del av hovedtransportåren mellom Oslo og Trondheim, og
+en viktig del av hovedtransportåren mellom Oslo og Trondheim og
 er et helt sentralt prosjekt for trafikksikkerhet, framkommelighet
 og regional utvikling i Trøndelag. </A>
             <A Type="Minnrykk">Jeg har selvfølgelig forståelse for forslagsstillernes
@@ -425,19 +415,23 @@ før vi eventuelt tar stilling til en gjennomgang av hele bompengeopplegget.
 Bompengeselskapet vil da ha bedre forutsetning for å kunne vurdere
 økonomien i prosjektet. Jeg viser i den sammenheng til praksisen
 med at bompengeselskapene i prosjekter med etterskuddsinnkreving
-foretar nye vurderinger etter 1–2 års drift av bompengeinnkrevingen. </A>
+foretar nye vurderinger etter ett–to års drift av bompengeinnkrevingen. </A>
             <A Type="Minnrykk">Jeg mener det må utvises stor varsomhet med
 reduksjon i bompenger i enkeltprosjekter som følge av endret framdrift. En
 slik praksis vil kunne få betydelige konsekvenser for både andre
 bompengeprosjekter, den helhetlige finansieringen av transportsektoren
-og den økonomiske risikoen som fylkeskommunen bærer, som garantist
+og den økonomiske risikoen som fylkeskommunen bærer som garantist
 for bompengeselskapets lån. </A>
             <A Type="Minnrykk">Vurderingene som ligger bak et takst- og innkrevingsopplegg,
 er grundig forankret og gjennomarbeidet. Jeg mener derfor at det
 ikke er riktig å foreta en gjennomgang av bompengeopplegget på strekningen
 E6 Melhus–Ulsberg på nåværende tidspunkt. </A>
           </Hovedinnlegg>
-          <Replikk Id="i1005912">
+          <Presinnlegg>
+            <A>
+              <Navn>Presidenten [10:17:30]:</Navn> Det blir replikkordskifte. </A>
+          </Presinnlegg>
+          <Replikk Id="i1006761">
             <A>
               <Navn personID="MATHEN">
 Mats Henriksen (FrP) [10:17:59]:</Navn> Innbyggere og næringsliv
@@ -448,28 +442,28 @@ en ny vei, er aksepten for å betale bompenger større. Manglende
 tillit til bompengeopplegget kan føre til legitimitetsproblemer. </A>
             <A Type="Minnrykk">Hva tenker statsråden er årsaken til bompengemotstanden
 som har oppstått lokalt, og hvordan vurderer statsråden legitimiteten
-til bompengeopplegget i Melhus?</A>
+i bompengeopplegget i Melhus?</A>
           </Replikk>
-          <Replikk Id="i1005914">
+          <Replikk Id="i1006763">
             <A>
               <Navn personID="JONN">
 Statsråd Jon-Ivar Nygård [10:18:31]:</Navn> Som jeg var inne på
 i mitt innlegg, har det sikkert sammenheng med framdrift og utbygging
 av prosjektene. Men som representanten vet, fordi Fremskrittspartiet
-har betydelig med aksjer i den, er jo Nye veier-modellen laget sånn
+har betydelig med aksjer i Nye veier-modellen, er jo den laget sånn
 at selskapet skal vurdere de ulike parsellene med tanke på modenhet
 og framdrift – man skal forsøke å få lønnsomheten i prosjektene
 opp. Det visste Stortinget på det tidspunktet man vedtok denne proposisjonen.
-Så det er, sånn sett, egentlig ikke veldig overraskende at man kan
+Så det er sånn sett egentlig ikke veldig overraskende at man kan
 komme i den typen situasjoner. Da er spørsmålet: Hva gjør Stortinget
 da? Da må vi for det første i hvert fall forholde oss til de vedtakene
 som er fattet lokalt, og så må vi selvfølgelig forsøke å håndtere
 dette på en sånn måte at det ikke gir merbelastninger for innbyggerne.
 Det vil jo ett av de forslagene som nå foreligger i saken, gjøre,
-nemlig det om at man skal forlenge bompengeinnkrevingen. Det ville
-bety høyere belastning på innbyggerne i regionen.</A>
+nemlig forslaget om at man skal forlenge bompengeinnkrevingen. Det
+ville bety høyere belastning på innbyggerne i regionen.</A>
           </Replikk>
-          <Replikk Id="i1005916">
+          <Replikk Id="i1006765">
             <A>
               <Navn personID="MATHEN">
 Mats Henriksen (FrP) [10:19:26]:</Navn> Statsråden viser til at
@@ -482,36 +476,36 @@ til. </A>
 at de forutsetningene som lå til grunn for bompengeproposisjonen, har
 endret seg? Kan statsråden forstå at man har den opplevelsen?</A>
           </Replikk>
-          <Replikk Id="i1005918">
+          <Replikk Id="i1006767">
             <A>
               <Navn personID="JONN">
 Statsråd Jon-Ivar Nygård [10:19:57]:</Navn> Når man vedtar lokale
-bompengeproposisjoner, eller grunnlaget for det, altså hva slags
+bompengeproposisjoner eller grunnlaget for det, altså hva slags
 type takster man skal ha, og hvilke prosjekter man skal ha, er man
 samtidig kjent med at Nye veier-modellen betyr at man prioriterer
 disse prosjektene ut ifra modenheten i prosjektene. Så det er ikke
 så veldig oppsiktsvekkende at man får forsinkelser i enkeltprosjekter.
-Hvis Stortinget åpner opp for at man – på en måte – skal ta en omkamp
+Hvis Stortinget åpner opp for at man på en måte skal ta en omkamp
 på finansieringsgrunnlaget hver gang det blir en utfordring i prosjektet, vil
 vi ha en betydelig utfordring med å finansiere veiprosjektene. Det
 er sikkert Fremskrittspartiet greit innforstått med, men det er
 kanskje andre partier i salen som burde tenke nøye igjennom om det
 er klokt.</A>
           </Replikk>
-          <Replikk Id="i1005920">
+          <Replikk Id="i1006769">
             <A>
               <Navn personID="MATHEN">
-Mats Henriksen (FrP) [10:20:42]:</Navn> I svarbrevet fra statsråden
-er svaret, som alltid fra Arbeiderpartiet, at man skal vente og
-se – og kanskje komme tilbake til dette senere. Samtidig er den
-totale bompengebelastningen i Melhus en økonomisk belastning for
-innbyggere og næringsliv i dag, noe som er både formidlet av lokalpolitikere
-og dokumentert gjennom flere lokale medieoppslag. I lys av svaret
-fra statsråden om å vente og se, hva vil statsråden si til innbyggere som
-opplever at bompenger er en økonomisk belastning i dag, og som opplever
-å betale for en veistrekning de ikke har fått?</A>
+Mats Henriksen (FrP) [10:20:42]:</Navn> Som alltid fra Arbeiderpartiet
+er svaret i svarbrevet fra statsråden at man skal vente og se og
+kanskje komme tilbake til dette senere. Samtidig er den totale bompengebelastningen
+i Melhus en økonomisk belastning for innbyggere og næringsliv i
+dag, noe som er både formidlet av lokalpolitikere og dokumentert
+gjennom flere lokale medieoppslag. I lys av svaret fra statsråden
+om å vente og se, hva vil statsråden si til innbyggere som opplever at
+bompenger er en økonomisk belastning i dag, og som opplever at de
+betaler for en veistrekning de ikke har fått?</A>
           </Replikk>
-          <Replikk Id="i1005922">
+          <Replikk Id="i1006771">
             <A>
               <Navn personID="JONN">
 Statsråd Jon-Ivar Nygård [10:21:19]:</Navn> Da vil jeg vise til
@@ -522,22 +516,23 @@ beregninger i de vedtakene de har gjort. Lokalpolitiske beslutninger
 vil også være med og påvirke den totale bompengebelastningen, både
 i prosjekter og samlet sett i en region. </A>
           </Replikk>
-          <Replikk Id="i1005924">
+          <Replikk Id="i1006773">
             <A>
               <Navn personID="TROH">
 Trond Helleland (H) [10:22:03]:</Navn> Statsråden framstiller Nye
 veier-modellen på en korrekt måte, etter min mening, men det er
-én faktor han ikke legger inn. Det at Nye veiers finansiering er
-avhengig av vedtak i statsbudsjettet, og i statsbudsjettet har ikke
-Nye veier vært prioritert av regjeringen. Det har vært en kraftig
+én faktor han ikke legger inn. Det er at Nye veiers finansiering
+er avhengig av vedtak i statsbudsjettet, og i statsbudsjettet har
+ikke Nye veier vært prioritert av regjeringen. Det har vært en kraftig
 kostnadsøkning siden 2018–2019, da dette vedtaket ble fattet. Først
 var det pandemi, så kom krigen i Ukraina, så har Nye veier ferdigstilt
 noen prosjekter uten å ha blitt kompensert for drift- og vedlikeholdskostnader.
 Budsjettene har stått stille. Det gjør at den utbyggingen som skulle
-gå sømløst fra Berkåk til Trondheim, har stoppet opp eller går sakte.
-Det er fint å snakke om modenhet, men det er kanskje mangel på bevilgninger.</A>
+gå sømløst fra Berkåk til Trondheim, har stoppet opp, eller går
+sakte. Det er fint å snakke om modenhet, men det er kanskje mangel
+på bevilgninger.</A>
           </Replikk>
-          <Replikk Id="i1005926">
+          <Replikk Id="i1006775">
             <A>
               <Navn personID="JONN">
 Statsråd Jon-Ivar Nygård [10:23:06]:</Navn> Regjeringen har bevilget
@@ -549,11 +544,11 @@ prisvekst i bygg- og anleggssektoren i en periode. Det gjør selvfølgelig at
 man har måttet få noen innsparinger i rammene sine sammenliknet
 med det man ellers ville hatt. Så har vi, Støre-regjeringen, på
 vår vakt tatt bort en del prosjekter fra porteføljen til Nye veier.
-Så man kan ikke bare se på bevilgningsnivået, man også se på totaliteten.
-Og vi har laget en mer realistisk samlet portefølje for Nye veier
-enn det Solberg-regjeringen la til grunn. </A>
+Så man kan ikke bare se på bevilgningsnivået, man må også se på
+totaliteten. Vi har laget en mer realistisk samlet portefølje for
+Nye veier enn det Solberg-regjeringen la til grunn. </A>
           </Replikk>
-          <Replikk Id="i1005928">
+          <Replikk Id="i1006777">
             <A>
               <Navn personID="TROH">
 Trond Helleland (H) [10:24:04]:</Navn> Realismen er jo avhengig
@@ -565,10 +560,10 @@ for den, fordi det hadde vært en betydelig kraftigere prisstigning
 i anleggssektoren enn det har vært. I disse dager har vi debatten
 om drivstoffpriser og at anleggsnæringen nå står i knestående, så jeg
 kjøper ikke den framstillingen. Jeg mener at regjeringen har latt
-Nye veier gå for lut og kaldt vann, uten gi de løftene som hadde
-vært nødvendig for å kunne ha en sammenhengende utbygging på E6.</A>
+Nye veier gå for lut og kaldt vann, uten å gi de løftene som hadde
+vært nødvendige for å kunne ha en sammenhengende utbygging på E6.</A>
           </Replikk>
-          <Replikk Id="i1005930">
+          <Replikk Id="i1006779">
             <A>
               <Navn personID="JONN">
 Statsråd Jon-Ivar Nygård [10:24:58]:</Navn> Jeg er ikke enig i den
@@ -580,21 +575,20 @@ det i Nye veier-modellen at de må jobbe enda hardere med å forsøke
 poenget med Nye veiers modell er jo at den skal virke på den måten.
 Det virker noe lettvint, fra mitt ståsted, å bare fylle på med penger.</A>
           </Replikk>
-          <Replikk Id="i1005932">
+          <Replikk Id="i1006781">
             <A>
               <Navn personID="GEL">
 Geir Inge Lien (Sp) [10:25:43]:</Navn> Dei som betalar bompengar
-på E6 mellom Ulsberg og Melhus har verken fått ein ferdig veg eller
+på E6 mellom Ulsberg og Melhus, har verken fått ein ferdig veg eller
 ei rimeleg bompengebelastning. Dette er ikkje den einaste staden
-her i landet kor Nye vegar no har prosjekt. Både i Gudbrandsdalen
+her i landet der Nye vegar no har prosjekt. Både i Gudbrandsdalen
 og på Sørlandet kan vi sjå at det står halvferdige prosjekt frå
-Nye vegar. Då er spørsmålet mitt til statsråden: </A>
-            <A Type="Minnrykk">Ønskjer statsråden å sjå på korleis Nye vegar
-er organisert, og om det går an å få gjort noko med at det står
-halvferdige prosjekt der folk har full bompengebelastning, noko
-dei føler er urimeleg?</A>
+Nye vegar. Då er spørsmålet mitt til statsråden: Ønskjer statsråden
+å sjå på korleis Nye vegar er organisert, og om det går an å få
+gjort noko med at det står halvferdige prosjekt der folk har full
+bompengebelastning, noko dei føler er urimeleg?</A>
           </Replikk>
-          <Replikk Id="i1005934">
+          <Replikk Id="i1006783">
             <A>
               <Navn personID="JONN">
 Statsråd Jon-Ivar Nygård [10:26:25]:</Navn> Det er vel litt karikert
@@ -618,18 +612,18 @@ er fornuftige.</A>
               <Navn>Presidenten [10:27:20]:</Navn> Replikkordskiftet
 er avsluttet.</A>
             <A Type="Minnrykk">De talere som heretter får ordet, har også
-en taletid på inntil 3 minutter.</A>
+en taletid på inntil 3 minutter. </A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1005936">
+          <Hovedinnlegg Id="i1006785">
             <A>
               <Navn personID="BÅH">
-Bård Hoksrud (FrP) [10:27:35]:</Navn> Det var interessant å høre
-på statsråden i replikkordskiftet. Statsråden sier at de har gitt
-de samme pengene som var forutsatt, som den forrige regjeringen
-gjorde, og det er liksom å levere. Vi vet at det i realiteten betyr
-ca. 1 mrd. kr mindre til nye veier enn det man skulle hatt, i tillegg
-til at vi nå har fått en rekke kostnader i forbindelse med drift
-og vedlikehold. </A>
+Bård Hoksrud (FrP) [10:27:35]</Navn> (komiteens leder): Det var
+interessant å høre på statsråden i replikkordskiftet. Statsråden
+sier at de har gitt de samme pengene som var forutsatt, som den
+forrige regjeringen gjorde, og det er liksom å levere. Vi vet at
+det i realiteten betyr ca. 1 mrd. kr mindre til nye veier enn det
+man skulle hatt, i tillegg til at vi nå har fått en rekke kostnader
+i forbindelse med drift og vedlikehold. </A>
             <A Type="Minnrykk">E6 Ulsberg–Melhus er kjempeviktig for menneskene som
 bor der, og mange av dem opplever at man nå betaler for noe man
 egentlig ikke får – og betaler på forskudd. Jeg er ikke sikker på
@@ -651,16 +645,16 @@ har egentlig ikke tenkt å gjøre noe som helst. Fremskrittspartiet
 er tydelig, og det er derfor vi har fremmet forslag, fordi vi mener
 at dette betyr mye for de menneskene det handler om. </A>
             <A Type="Minnrykk">Vi synes det er litt trist at Høyre og KrF
-ikke støtter Fremskrittspartiets og Senterpartiets forslag nr. 1,
+ikke støtter Fremskrittspartiet og Senterpartiets forslag nr. 1,
 for det ville gitt en veldig god løsning for befolkningen. Vi kommer
 sekundært til å støtte Høyres forslag, men det er ikke fordi vi heier
 på at vi skal bruke mer penger på innkreving og renteutgifter –
 for det er konsekvensen av det forslaget: at det blir dyrere og
 mer penger forsvinner til ingenting. Fremskrittspartiet og jeg vil
-at vi skal bruke pengene på å bygge ny vei, og at pengene bør gå
-til det, istedenfor til banker og finansieringsselskaper som vil
-utvide tiden man skal kreve inn bompenger for å få mer penger inn
-på kontoen.</A>
+at vi skal bruke pengene på å bygge vei og ny vei, og at pengene
+bør gå til det, istedenfor til banker og finansieringsselskaper
+som vil utvide tiden man skal kreve inn bompenger for å få mer penger
+inn på kontoen.</A>
             <A Type="Minnrykk">Jeg har lyst til å gjøre en liten visitt til
 Senterpartiet også. Jeg synes det er bra at Senterpartiet er med
 her, men det er ikke så veldig lenge siden vi hadde en sak om Kristiansand–Mandal,
@@ -672,7 +666,7 @@ også bakgrunnen for at Fremskrittspartiet støtter dette. Vi følger
 opp det vi vedtok i den forrige saken. Det var sekundært. Det gjør
 vi også i denne saken.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1005938">
+          <Hovedinnlegg Id="i1006787">
             <A>
               <Navn personID="REMSLV">
 Remi Sølvberg (R) [10:30:51]:</Navn> Denne saken viser egentlig
@@ -704,14 +698,14 @@ som nettopp det. Norge har økonomi til det, men vi har altså valgt
 et politisk system der vi sender regningen til trafikantene. Da
 burde egentlig konklusjonen være klar: Bompengeandelen i prosjektet
 må kraftig ned, og staten må ta en langt større del av regningen. </A>
-            <A Type="Minnrykk">Rødt mener igjen at dette er feil måte å finansiere
+            <A Type="Minnrykk">Igjen: Rødt mener at dette er feil måte å finansiere
 fellesskapets infrastruktur på. Jeg må si at jeg derfor har stor
 sympati med forslagsstillernes synspunkt, men jeg må også gjøre det
 klart at Rødt er bundet av en budsjettforlikavtale, og vi skal ikke
 bryte den avtalen på et veiprosjekt der Nye Veier har mislyktes
 totalt i Trøndelag.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1005940">
+          <Hovedinnlegg Id="i1006789">
             <A>
               <Navn personID="LHS">
 Lill Harriet Sandaune (FrP) [10:33:38]:</Navn> Dette er en veldig
@@ -729,7 +723,7 @@ høye bompengene på Hofstad. I dag betaler innbyggerne i Melhus bompenger
 for en vei som ikke er ferdig. Bommen har stått i flere år, og innbyggerne
 betaler dyrt for å kjøre innad i sin egen kommune. Dette har FrP
 tatt på alvor, og derfor er dette representantforslaget fremmet.
-Heldigvis støtter Senterpartiet FrPs forslag her i dag, om at det
+Heldigvis støtter Senterpartiet FrPs forslag her i dag om at det
 må gjøres en gjennomgang av bompengeopplegget for E6 Ulsberg–Melhus
 med bakgrunn i den forsinkede utbyggingen og de endrede forutsetningene
 i forhold til proposisjonen som ble vedtatt i 2019. </A>
@@ -752,7 +746,7 @@ andre partier ringer og tar kontakt for å løse en viktig sak for
 Melhus, er det ikke bare opptattsignal; her legger man tydelig på
 røret fra Arbeiderparti-regjeringens side. </A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1005942">
+          <Hovedinnlegg Id="i1006791">
             <A>
               <Navn personID="GEL">
 Geir Inge Lien (Sp) [10:36:44]:</Navn> Eg måtte ta ordet etter at
@@ -774,7 +768,7 @@ Vi i Senterpartiet er ute etter å skape gode løysingar, få bygd
 vegar og gjere Noreg til eit godt land både å leve i og produsere
 varer i, og få god framvekst. </A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1005944">
+          <Hovedinnlegg Id="i1006793">
             <A>
               <Navn personID="JONN">
 Statsråd Jon-Ivar Nygård [10:38:20]:</Navn> Det hevdes fra denne
@@ -783,9 +777,9 @@ om at veibudsjettet for 2026 er på et veldig høyt nivå. Vi har svært
 mange store prosjekter i gang, i tillegg til at vi har økt bevilgningene
 til drift og vedlikehold betydelig over de senere årene. </A>
             <A Type="Minnrykk">Når det kommer påstander fra Fremskrittspartiet
-som at man tvinger lokalpolitikerne til nærmest å fallere for staten
+om at man tvinger lokalpolitikerne til nærmest å fallere for staten
 og innføre bompenger, vil jeg si at jeg er uenig i den påstanden. Dersom
-den var riktig – det var altså en statsråd fra Fremskrittspartiet
+den var riktig, var det altså en statsråd fra Fremskrittspartiet
 som gjorde det i Trøndelag, for denne proposisjonen ble lagt fram
 av Jon Georg Dale i sin tid. </A>
             <A Type="Minnrykk">Så har jeg lyst til å kommentere det å forlenge
@@ -810,27 +804,27 @@ presedens gjennom krav om at også andre prosjekter ønsker dette.
 Det gjør at bompengebelastningen samlet sett øker, og at vi for
 så vidt mister oversikten over ordningen. </A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1005946">
+          <Hovedinnlegg Id="i1006795">
             <A>
               <Navn personID="BÅH">
 Bård Hoksrud (FrP) [10:40:45]:</Navn> Det er alltid interessant
-å høre når noen – med statsråden i spissen – skal fortelle at det
-aldri er brukt mer penger, og at det er mye penger i veibudsjettet,
-det er et svært høyt nivå osv. Men man glemmer en vesentlig ting:
-Hva får man for de pengene man bruker – får man mer, eller får man
-mindre? Realiteten er at man sannsynligvis ikke får mer, for kostnadene
+å høre når noen med statsråden i spissen skal fortelle at det aldri
+er brukt mer penger, og at det er mye penger i veibudsjettet, det
+er et svært høyt nivå, osv. Men man glemmer en vesentlig ting: Hva
+får man for de pengene man bruker – får man mer, eller får man mindre?
+Realiteten er at man sannsynligvis ikke får mer, for kostnadene
 har økt ekstremt mye på grunn av krigen i Ukraina og på grunn av
-Iran-konflikten og Midtøsten-konflikten – som gjør at kostnadene
-fyker i været. </A>
+Iran-konflikten og Midtøsten-konflikten – noe som gjør at kostnadene fyker
+i været. </A>
             <A Type="Minnrykk">Når man liksom skal være høy og mørk, bør man
 være høy og mørk i utgangspunktet. Så vet statsråden veldig godt at
 Fremskrittspartiet, selv om vi satt i regjering, ikke hadde over
 50 pst. oppslutning alene. Det er bare å se på den debatten vi har
-i dag og på de andre partiene. Det er partier som vi satt i regjering
-med, som fortsatt ønsker å bruke bompenger for å finansiere veier.
+i dag, og på de andre partiene. Det er partier som vi satt i regjering
+med som fortsatt ønsker å bruke bompenger for å finansiere veier.
 Det ønsket i utgangspunktet ikke Fremskrittspartiet, og derfor har
 vi også jobbet for å redusere bompengene. I motsetning til alle
-andre regjeringer tidligere, skjedde det faktisk kutt i bompengene
+andre regjeringer tidligere skjedde det faktisk kutt i bompengene
 med milliarder da Fremskrittspartiet satt i regjering, i tillegg
 til at vi sørget for et kraftig løft i samferdselsbudsjettet. Jeg
 tror det er lenge siden man har sett den økningen som var da, og
@@ -844,19 +838,19 @@ og hva som ligger til grunn for dette.</A>
 realiteten var at alle trodde at man skulle spise bløtkake i Kristiansand
 da stortingsvedtaket ble fattet med tanke på Mandal–Kristiansand.
 Den bløtkaken ble veldig fort gjemt vekk etter at noen ikke stemte
-for det man hadde signalisert at man skulle stemme for, da det gjaldt
-det prosjektet. </A>
+for det man hadde signalisert at man skulle stemme for, når det
+gjaldt det prosjektet. </A>
             <A Type="Minnrykk">Det er der jeg sier at Fremskrittspartiet er
 konsekvent: Vi mener det er dumt å bruke mer penger og gi dem til
-finansinstitusjoner og banker, og heller bruke mye mindre penger
-på det og være villig til å bruke noe mer av de pengene vi har,
-til å redusere eller fjerne bompenger. Det er utgangspunktet vårt. Og
+finansinstitusjoner og banker, og vil heller bruke mye mindre penger på
+det og være villig til å bruke noe mer av de pengene vi har, til
+å redusere eller fjerne bompenger. Det er utgangspunktet vårt. Og
 så skjønner vi at vi er ganske alene om det, selv om Rødt er der,
 men Rødt vil egentlig ikke bygge en del av veiene. Fremskrittspartiet
 vil bygge veier og mener at vi skal bruke mer midler fra staten
 nettopp for å sørge for det. </A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1005948">
+          <Hovedinnlegg Id="i1006797">
             <A>
               <Navn personID="KAMGUN">
 Kamzy Gunaratnam (A) [10:43:43]:</Navn> Hvis bompengeavtaler skal
@@ -883,7 +877,7 @@ inndekning i bompengeforslagene sine i sitt alternative budsjett.
 Da vi spurte i salen, var svaret: Vi har prioritert andre saker.
 Det hang ikke på greip. Man kan ikke bruke de samme pengene om igjen.
 Jeg besto så vidt matte, men selv jeg skjønner at det der ikke høres
-riktig ut. Alt dette har ett navn, og det er populisme. Endringer
+riktig ut. Alt dette har et navn, og det er populisme. Endringer
 må tas når nye avtaler inngås, ikke når regningen allerede er sendt.
 Hvis ikke ender vi opp med et system der det lønner seg å rope høyest
 etterpå. Det er en dårlig måte å bygge infrastruktur og ikke minst
@@ -891,7 +885,7 @@ tillit på.</A>
             <A Type="Minnrykk">Det snakkes om vanlige folk. Investering uten
 inndekning er dårlig gjort mot vanlige folk.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1005950">
+          <Hovedinnlegg Id="i1006799">
             <A>
               <Navn personID="TROH">
 Trond Helleland (H) [10:46:09]:</Navn> Det er interessant å få en
@@ -906,11 +900,11 @@ av.</A>
             <A Type="Minnrykk">Så er det interessant at statsråd Nygård overhodet
 ikke nevner det andre vedtakspunktet som Høyre foreslår, nemlig at
 regjeringen skal gå i dialog med lokale myndigheter for å innføre
-et passeringstak på strekningen E6 Ulsberg–Melhus. Det vil hjelpe
+et passeringstak på strekningen E6 Ulsberg–Melhus. Det vil hjelpe
 dem som bor i Melhus, som i dag blir møtt av en bombarriere som
 de må ut og inn av hele tiden når de skal gjøre lokale ærend. Det
 kunne vært interessant å høre om statsråden mener at det også er
-uansvarlig å diskutere med lokale myndigheter og med sin egen arbeiderpartiordfører
+uansvarlig å diskutere med lokale myndigheter og med sin egen Arbeiderparti-ordfører
 i Melhus om det går an å finne løsninger på dette.</A>
             <A Type="Minnrykk">Vi vet at E6 er Norges hovedvei nummer én fra
 nord til sør. Det kommer til å gå stor trafikk der. Antakelig vil
@@ -927,21 +921,21 @@ i området.</A>
           <Presinnlegg>
             <A>
               <Navn>Presidenten [10:48:33]:</Navn> Representanten
-Bår Hoksrud har hatt ordet to ganger tidligere i debatten og får
+Bård Hoksrud har hatt ordet to ganger tidligere i debatten og får
 ordet til en kort merknad, begrenset til 1 minutt.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1005952">
+          <Hovedinnlegg Id="i1006801">
             <A>
               <Navn personID="BÅH">
 Bård Hoksrud (FrP) [10:48:47]:</Navn> Jeg tror kanskje jeg må gi
 litt voksenopplæring til representanten Gunaratnam. Hun sa at Fremskrittspartiet
 ikke prioriterte penger til å redusere og fjerne bompenger i vårt
 alternative statsbudsjett; da tror jeg man må gå inn og lese en
-gang til. Det står klart og tydelig at vi prioriterer nærmere 1,4 mrd.
-kr ekstra til ordning for lavere bompengetakst. Men Arbeiderpartiet,
-Senterpartiet, Rødt, SV og MDG kuttet i budsjettforliket med 34,4 mill.
-kr til å kompensere for bompenger, så man ønsker altså å ta mer
-i bompenger fra folk fordi man ikke vil bruke så mye statlige penger.</A>
+gang til. Det står klart og tydelig at vi prioriterer nærmere 1,4 mrd. kr
+ekstra til ordning for lavere bompengetakst. Men Arbeiderpartiet,
+Senterpartiet, Rødt, SV og MDG kuttet i budsjettforliket med 34,4 mill. kr
+til å kompensere for bompenger, så man ønsker altså å ta mer i bompenger
+fra folk fordi man ikke vil bruke så mye statlige penger.</A>
             <A Type="Minnrykk">Så må jeg minne representanten om at det er
 et hull i en tunnel her borte som man hadde veldig god råd til å
 bruke penger på etter at tunnelen var bygd – i milliardklassen.
@@ -950,41 +944,41 @@ jeg kommer inn mot kontoret, går ut av heisen og tilbake igjen, ser
 jeg hvordan det har gått med oljefondet, og nå har det økt med et
 par titalls milliarder bare i dag.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1005954">
+          <Hovedinnlegg Id="i1006803">
             <A>
               <Navn personID="JONBLI">
 Jone Blikra (A) [10:50:00]:</Navn> Det er klart det sporer til innlegg
-etter representanten Hoksrud. Det å være høy og mørk er blitt referert
-til flere ganger. Verken Bård Hoksrud eller jeg er høye og mørke,
-vi er bare «og». Allikevel er det slik at når representanten Hoksrud
-sier at det var feil i innlegget på et generelt plan, så er det
+etter representanten Hoksrud. Det å være høy og mørk er det blitt
+referert til flere ganger. Verken Bård Hoksrud eller jeg er høye
+og mørke, vi er bare «og». Allikevel er det slik at når representanten
+Hoksrud sier at det var feil i innlegget til Gunaratnam, er det
 jo ikke det. Jeg var i budsjettdebatten. Jeg stilte et konkret spørsmål
 til representanten Sve om bompengesakene som Fremskrittspartiet
-hadde fremmet inneværende år hvor staten skulle overta et ansvar på
-inntil 50 mrd. kr. De fant ikke inndekning i Fremskrittspartiet
-forslag til alternativt budsjett.</A>
-            <A Type="Minnrykk">Spørsmålet var: Hvorfor klarer ikke Fremskrittspartiet
-i sitt alternative budsjett å legge inn konsekvensene av sine egne
-forslag året før, altså 50 mrd. kr på bompenger? Svaret var: Vi
-har prioritert annerledes. – Og dette ligger på tape.</A>
+hadde fremmet inneværende år, hvor staten skulle overta et ansvar på
+inntil 50 mrd. kr. Vi fant ikke inndekning i Fremskrittspartiets
+forslag til alternativt budsjett. Spørsmålet var: Hvorfor klarer
+ikke Fremskrittspartiet i sitt alternative budsjett å legge inn
+konsekvensene av sine egne forslag året før, altså 50 mrd. kr på
+bompenger? Svaret var: Vi har prioritert annerledes. – Og dette
+ligger på tape.</A>
             <A Type="Minnrykk">Ellers er det viktig å få sagt at vi alle,
 og det tror jeg gjelder hele komiteen, er opptatt av å få finansiert
-og få bygd vei. Gjennom mange, mange år har vi hatt et system med
-bompenger, som Fremskrittspartiet flittig brukte. Representanten Hoksrud
-stod på valg i Telemark og sa: Stem på meg så blir bompengene borte.
+og bygd vei. Gjennom mange, mange år har vi hatt et system med bompenger,
+som Fremskrittspartiet flittig brukte. Representanten Hoksrud sto
+på valg i Telemark og sa: Stem på meg, så blir bompengene borte.
 Det han sier nå, er at han samtidig sa, hvis Fremskrittspartiet
 får 50 pst. av stemmene. Jeg hørte ikke det i valgkampen, men nå
 er det svaret på hvorfor dette ikke skjedde da Fremskrittspartiet
 satte verdensrekord i antall bompengestasjoner og innkreving av
 bompenger.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1005956">
+          <Hovedinnlegg Id="i1006805">
             <A>
               <Navn personID="JONN">
 Statsråd Jon-Ivar Nygård [10:51:58]:</Navn> Det er ofte sagt av
-fremskrittspartirepresentantene at de er mot bompenger. Det er de
-nok, men prinsipielle motstandere av bompenger er de ikke. De satt
-tross alt i regjering i mange år og fremmet utrolig mange bompengeproposisjoner,
+Fremskrittsparti-representantene at de er mot bompenger. Det er
+de nok, men prinsipielle motstandere av bompenger er de ikke. De
+satt tross alt i regjering i mange år og fremmet utrolig mange bompengeproposisjoner,
 bl.a. denne vi nå snakker om her i dag, som også ble framstilt av
 representanten Hoksrud som om man nærmest tvang det på kommunesektoren,
 på kommuner i regionen. I så fall var det Fremskrittspartiet som
@@ -997,7 +991,7 @@ Dermed er det også de som har den økonomiske risikoen. Det bør være
 rekkefølgen på denne typen prosesser, at de som tar den økonomiske
 belastningen, er de som får håndtere den saken først.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1005958">
+          <Hovedinnlegg Id="i1006807">
             <A>
               <Navn personID="FES">
 Frank Edvard Sve (FrP) [10:53:42]:</Navn> Apropos vaksenopplæring:
@@ -1009,41 +1003,41 @@ og klør mot dei forslaga som ligg i denne saka, som både vi, Senterpartiet
 og Høgre har fremja for å faktisk gjere det betre og lettare for innbyggjarane
 og bilistane. Det representantane frå Arbeidarpartiet møter det
 med, er å prøve å latterleggjere dei partia som forsøkjer å ta ned
-bompengebelastinga i Noreg, som vi har gjort i ei årrekke. </A>
+bompengebelastinga i Noreg, som vi har gjort i ei årrekkje. </A>
             <A Type="Minnrykk">Når det gjeld vaksenopplæring. Ja, eg trur
-ein må setje seg ned og lese litt kva som skjedde i fjor i budsjettet
+ein må setje seg ned og lese litt om kva som skjedde i fjor i budsjettet
 og i vårt alternative budsjett, for vi hadde eit eige forslag som
-sa at vi bad regjeringa kome tilbake til Stortinget med dei ulike
-bompengeprosjekta for å kutte bompengane. Det hjelper ikkje å fremje
-ein sum i eit statsbudsjett for å kutte bompengane generelt på heile
-området. Regjeringa er nøydd til å kome tilbake igjen med ein og
-ein bompengeproposisjon for å faktisk kunne kutte dei pengane. Det
-bad vi om i eit eige framlegg. Så den i denne salen som forsøkjer
-å framstille det som at vi ikkje er mot bompengar i Framstegspartiet,
-det er – ja, eg blir sikkert klubba viss eg seier noko feil – det
-er i beste fall ei usanning, for det er ikkje riktig. Vi gjer det
-vi kan for å gjere det betre for befolkninga, for næringslivet,
-for innbyggjarane, gjennom å kutte i utgifter og skattar og avgifter
-også for bilistane. Vi er bilistane sitt parti. </A>
-            <A Type="Minnrykk">I denne saka og i veldig mange andre saker
-– ja, vi er klåre over at vi sat i regjering og ikkje hadde fleirtal
-aleine og var med på ei rekke saker der det blei bompengar. Men
-vi gjer i alle fall det vi kan for å kutte mest mogleg i bompengar
-der det er mogleg å få det til, som for eksempel i denne saka, og seinare
-kjem ei sak som gjeld Nordøyvegen. Vi gjer det fordi vi ser at det
-er nødvendig for å drage ned kostnadene i ein situasjon der dagens
-samferdsleminister og resten av regjeringa har sørgt for at kostnadsnivået
-til vanlege folk og næringsliv og bilistar har foke til himmels
-i heile Noreg. Så skal ikkje vi kunne jobbe for å få det billegare
-og betre for innbyggjarane, også når det gjeld bompengar? Sjølvsagt
-gjer vi det. Sjølvsagt kjem vi til å fortsetje med det. Ikkje gå
-på talarstolen her frå Arbeidarpartiet og forsøk med «dirty tricks».
-Det nyttar ikkje, det sømer seg ikkje, eg synest det faktisk er
-ganske useriøst når ein i Arbeidarpartiet ikkje ønskjer å gjere
-noko for å få betre forhold for dei som er bilistar og næringsliv,
-som får byrda med høge bompengar.</A>
+sa at vi bad regjeringa kome tilbake til Stortinget med dei ulike bompengeprosjekta
+for å kutte bompengane. Det hjelper ikkje å fremje ein sum i eit
+statsbudsjett for å kutte bompengane generelt på heile området.
+Regjeringa er nøydd til å kome tilbake igjen med ein og ein bompengeproposisjon
+for å faktisk kunne kutte dei pengane. Det bad vi om i eit eige
+framlegg. Så den i denne salen som forsøkjer å framstille det som
+at vi ikkje er mot bompengar i Framstegspartiet, det er – ja, eg
+vert sikkert klubba viss eg seier noko feil – det er i beste fall
+ei usanning, for det er ikkje riktig. Vi gjer det vi kan for å gjere
+det betre for befolkninga, for næringslivet, for innbyggjarane, gjennom
+å kutte i utgifter og skattar og avgifter, også for bilistane. Vi
+er bilistane sitt parti. </A>
+            <A Type="Minnrykk">Når det gjeld denne saka og i veldig mange
+andre saker: Ja, vi er klåre over at vi sat i regjering og ikkje
+hadde fleirtal aleine og var med på ei rekkje saker der det vart
+bompengar. Men vi gjer i alle fall det vi kan for å kutte mest mogleg
+i bompengar der det er mogleg å få det til, som f.eks. i denne saka, og
+seinare kjem ei sak som gjeld Nordøyvegen. Vi gjer det fordi vi
+ser at det er nødvendig for å dra ned kostnadene i ein situasjon
+der dagens samferdselsminister og resten av regjeringa har sørgt
+for at kostnadsnivået til vanlege folk og næringsliv og bilistar
+har foke til himmels i heile Noreg. Skal ikkje vi kunne jobbe for
+å få det billegare og betre for innbyggjarane, også når det gjeld
+bompengar? Sjølvsagt gjer vi det. Sjølvsagt kjem vi til å fortsetje
+med det. Ikkje gå på talarstolen her frå Arbeidarpartiet og forsøk
+med «dirty tricks». Det nyttar ikkje, det sømer seg ikkje, og eg
+synest det faktisk er ganske useriøst når ein i Arbeidarpartiet
+ikkje ønskjer å gjere noko for å få betre forhold for dei som er
+bilistar og næringsliv, som får byrda med høge bompengar.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1005960">
+          <Hovedinnlegg Id="i1006809">
             <A>
               <Navn personID="MATHEN">
 Mats Henriksen (FrP) [10:56:56]:</Navn> Etter en flammende engasjert
@@ -1055,17 +1049,17 @@ er en del av problemet når de stemmer for et statsbudsjett som svekker
 Nye veiers rammer. Nye veier ble ikke kompensert for økte driftskostnader,
 og de har heller ikke blitt kompensert for den ekstraordinære prisveksten
 vi har sett innenfor anleggsbransjen. Det har FrP tatt hensyn til
-i våre alternative budsjetter. Hvis dere mener at det er et problem
-der, må dere vurdere å stemme for et annet budsjett enn det dere
-har stemt for.</A>
-            <A Type="Minnrykk"> Så ble jeg ekstra engasjert av representanten
+i våre alternative budsjetter. Hvis de mener at det er et problem
+der, må de vurdere å stemme for et annet budsjett enn det de har
+stemt for.</A>
+            <A Type="Minnrykk">Så ble jeg ekstra engasjert av representanten
 Gunaratnam, som holdt et veldig spesielt innlegg. Dette handler
 ikke om å snu kappen etter vinden, det er en realitet der ute at
 forutsetningene er betraktelig endret. De lokalpolitiske vedtakene,
 stortingsvedtaket, bygget på en forutsetning om at delstrekningene
 skulle bygges ut sammenhengende, uten opphold. Slik har det ikke
 blitt, og da er vi nødt til å se på forutsetningene. </A>
-            <A Type="Minnrykk">Det virker på Gunaratnams innlegg som at regjeringen ikke
+            <A Type="Minnrykk">Det virker på Gunaratnams innlegg som om regjeringen ikke
 gjør noen ting med vanlige folks problemer. Svaret i sak etter sak
 er å vente og se, så kanskje vi kommer tilbake til det senere. Det
 minner litt om det større bildet også når det gjelder avgifter.
@@ -1073,57 +1067,58 @@ For Arbeiderpartiet virker det som bilistene er en uuttømmelig pengekrukke.
 Vi snakker om drivstoff, veibruksavgift og CO<Sub>2</Sub>-avgift.
 Vi har bompenger, vi har piggdekkgebyr, vi har byvekstavtaler og
 bompenger der også. Melhus er en type kommune som blir rammet av
-ganske mange av de parameterne, og det må vi ta hensyn til. Det
+ganske mange av de parametrene, og det må vi ta hensyn til. Det
 er også viktig å få sagt at bilen ikke er en luksusvare. Bilen er
-helt nødvendig for at vanlige folk skal kunne leve livene sine i
+helt nødvendig for at vanlige folk skal kunne leve livet sitt i
 det langstrakte landet vårt. Det forstår FrP, og det er det på tide
 at også Arbeiderpartiet forstår.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1005962">
+          <Hovedinnlegg Id="i1006811">
             <A>
               <Navn personID="ODAIND">
-Oda Indgaard (MDG) [10:59:29]:</Navn> Alle i denne komiteen vil
-ikke bygge mest mulig ny, gigantisk vei. Jeg måtte bare ta ordet
+Oda Indgaard (MDG) [10:59:29]:</Navn> Ikke alle i denne komiteen
+vil bygge mest mulig ny, gigantisk vei. Jeg måtte bare ta ordet
 for å minne om det. Denne debatten er en oppvisning i å ikke ville
-ta ansvar for politiske vedtatte mål og heller ikke ta ansvar for
-helheten. </A>
+ta ansvar for politiske vedtak og vedtatte mål, og heller ikke ta
+ansvar for helheten. </A>
             <A Type="Minnrykk">Deler av transportkomiteen møtte i dag Nasjonal
-rassikringsgruppe. Den viste et etterslep på 96 mrd. kr for å rassikre
-veiene i dette landet. Vedlikeholdsetterslepet på vei har bikket
-langt over 100 mrd. kr, og det samme gjelder for jernbanen. Forslagsstillerne
-skryter av rekordstore bevilgninger i samferdselssektoren da de
-regjerte, men resultatet ser vi jo nå: Rolls Royce-standard på enkeltstrekninger
-med dertil giganthøye bompengeregninger. MDG er det partiet som
-har vært mest mot bompenger i Stortinget i forrige periode, fordi
-vi mener at det ikke er disse gigantmotorveiene det norske folk trenger.
-Folket trenger og fortjener trygge veier i hele landet, at vi tar
-ansvar for å ta igjen vedlikeholdsetterslepet og for å fokusere
-på det som faktisk gjør at folk kan komme seg trygt rundt.</A>
-            <A Type="Minnrykk"> Så trenger man gode kollektivløsninger rundt
-byene. Når representanten Helleland står her på talerstolen og håper
-på trafikkvekst i innfartskommunen inn mot Trondheim, som har nullvekstmål,
-da står det ikke til troende at vi faktisk tenker å prioritere samferdselsmidlene
-slik at det blir levelig å bo i byene uten svevestøv, uten støy
+rassikringsgruppe. Den viste til et etterslep på 96 mrd. kr for
+å rassikre veiene i dette landet. Vedlikeholdsetterslepet på vei
+har bikket langt over 100 mrd. kr, og det samme gjelder for jernbanen.
+Forslagsstillerne skryter av rekordstore bevilgninger i samferdselssektoren
+da de regjerte, men resultatet ser vi jo nå: Rolls-Royce-standard
+på enkeltstrekninger med dertil giganthøye bompengeregninger. MDG
+er det partiet som har vært mest mot bompenger i Stortinget i forrige
+periode, for vi mener at det ikke er disse gigantmotorveiene det
+norske folk trenger. Folket trenger og fortjener trygge veier i
+hele landet, at vi tar ansvar for å ta igjen vedlikeholdsetterslepet
+og for å fokusere på det som faktisk gjør at folk kan komme seg
+trygt rundt.</A>
+            <A Type="Minnrykk">Man trenger også gode kollektivløsninger rundt
+byene. Når representanten Helleland står her på talerstolen og håper på
+trafikkvekst i innfartskommunen inn mot Trondheim, som har nullvekstmål,
+står det ikke til troende at vi faktisk tenker å prioritere samferdselsmidlene
+sånn at det blir levelig å bo i byene uten svevestøv, uten støy
 og uten at alt blir fylt opp av bil. Folk på Melhus fortjener en
 trygg vei, og de fortjener å ikke måtte betale for en vei de ikke
-får. Når det prioriteres på en sånn måte at man ikke får for eksempel
-en rask kvartersrute på tog for å komme seg inn til Trondheim, og
-heller får disse flekkvise Rolls-Royce motorveiene, da må vi også
+får. Men når det prioriteres på en sånn måte at man ikke får f.eks.
+en rask kvartersrute med tog for å komme seg inn til Trondheim og
+heller får disse flekkevise Rolls-Royce-motorveiene, må vi også
 ta konsekvensen av det. Jeg er lei meg for det, men sånn er det. </A>
           </Hovedinnlegg>
           <Presinnlegg>
             <A>
               <Navn>Presidenten [11:01:37]:</Navn> Flere har ikke
-bedt om ordet til sak 5.</A>
+bedt om ordet til sak nr. 5.</A>
           </Presinnlegg>
-          <Referanse Id="i1005964" voteringsDato="2026-04-28" debattDato="2026-04-28" saksKartNr="5" />
+          <Referanse Id="i1006813" voteringsDato="2026-04-28" debattDato="2026-04-28" saksKartNr="5" />
         </Sak>
-        <Sak Id="i1005966" saksKartNr="6" sakID="200042">
+        <Sak Id="i1006815" saksKartNr="6" sakID="200042">
           <Sakshode>
             <Saknr>
               <Uth Type="Sperret">Sak
 nr. 6</Uth> [11:01:41]</Saknr>
-            <Saktittel Id="i1005970">
+            <Saktittel Id="i1006819">
               <A>Innstilling fra transport- og kommunikasjonskomiteen om
 Representantforslag fra stortingsrepresentantene Bård Hoksrud, Dagfinn
 Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik og Mats
@@ -1142,7 +1137,7 @@ fra transport- og kommunikasjonskomiteen vil presidenten ordne debatten slik:
 fra medlemmer av regjeringen, og de som måtte tegne seg på talerlisten
 utover den fordelte taletid, får også en taletid på inntil 3 minutter.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1005972">
+          <Hovedinnlegg Id="i1006821">
             <A>
               <Navn personID="ALI">
 Anne Kristine Linnestad (H) [11:02:42]</Navn> (ordfører for saken):
@@ -1177,9 +1172,9 @@ først. Vi kan ikke sette faglige vurderinger til side før vi har
 et fullgodt alternativ på plass. En kjørevurdering i trafikken er
 et godt verktøy, men det kan ikke brukes i alle saker, f.eks. der det
 foreligger spesifikke medisinske årsaker som gjør det uforsvarlig.
-Faglige prosesser er klart, noe statsråden skriver i sitt svarbrev
-til Stortinget. Både Statens vegvesen og Helsedirektoratet jobber
-nå med å revidere retningslinjene for helsekravene til synsfelt.
+Når det gjelder faglige prosesser: Statsråden skriver i sitt svarbrev
+til Stortinget at både Statens vegvesen og Helsedirektoratet nå
+jobber med å revidere retningslinjene for helsekravene til synsfelt.
 Så kan vi spørre oss hvorfor dette arbeidet er så aktivt nå og ikke
 har vært det tidligere, men det kommer sikkert statsråden tilbake
 til.</A>
@@ -1187,22 +1182,22 @@ til.</A>
 rette balansen mellom individets frihet og samfunnets behov for
 sikkerhet.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1005974">
+          <Hovedinnlegg Id="i1006823">
             <A>
               <Navn personID="JONBLI">
-Jone Blikra (A) [11:05:42]:</Navn> For tre år siden gikk jeg til øre-nese-hals
-for å sjekke ut dårlig søvn. Etter måling viste det seg at jeg hadde
-40 pustestans i løpet av timen. Det medførte at jeg måtte levere
-fra meg lappen. Slik er regelverket – eller man må gå til behandling.
-Hva er årsaken til at vi har ulike regler og regler på mange felt
-knyttet til folks helse? Jo, det er trafikksikkerhet. Vi har det
-på mange felt, og det er viktig at vi har klare og skikkelige regler
-knyttet til trafikksikkerhet, for det er det det er: Hvem skal kjøre
-på veiene våre?</A>
+Jone Blikra (A) [11:05:42]:</Navn> For tre år siden gikk jeg til en
+øre-nese-hals-lege for å sjekke ut dårlig søvn. Etter måling viste
+det seg at jeg hadde 40 pustestans i løpet av timen. Det medførte
+at jeg måtte levere fra meg lappen. Slik er regelverket – eller
+man må gå til behandling. Hva er årsaken til at vi har ulike regler
+og har regler på mange felt knyttet til folks helse? Jo, det er
+trafikksikkerhet. Vi har det på mange felt, og det er viktig at
+vi har klare og skikkelige regler knyttet til trafikksikkerhet,
+for det er det det er: Hvem skal kjøre på veiene våre?</A>
             <A Type="Minnrykk">Jeg vil i denne saken starte med å skryte,
 først av Fremskrittspartiet. Da bør man lytte. Fremskrittspartiet
-tok denne saken opp i forrige periode. Jeg var saksordfører på saken. Det
-medførte at det ble satt ned en gruppe for å se på endringer knyttet
+tok denne saken opp i forrige periode. Jeg var saksordfører i saken.
+Det medførte at det ble satt ned en gruppe for å se på endringer knyttet
 til representantforslaget. Jeg vil videre skryte av Høyres tilnærming
 til saken nå. Denne ekspertgruppen og Helsedirektoratet skal legge
 ut et forslag på høring før sommerferien 2026 knyttet til nødvendige
@@ -1218,25 +1213,25 @@ støtter noen av forslagene.</A>
 være initiativet fra forrige periode, takket være innstillingene
 fra egentlig alle partiene her og takket være at vi må og skal forholde
 oss til forslag til bedre løsninger, bedre målinger og at fagfolk
-får uttalt seg gjennom sommeren. Norges Optikerforbund har allerede
-gitt en uttalelse i denne saken. Norges Optikerforbund sier bl.a.
-at direktoratet i samråd med forskningsmiljøer burde definere tydelig
-hva som regnes som avvik ved testing av synsfelt, og at ny førerkortveileder
-bør være teknologinøytral. Dette bør vi lytte til.</A>
+får uttalt seg gjennom sommeren. Optikerbransjen har allerede gitt en
+uttalelse i denne saken. Optikerbransjen sier bl.a. at direktoratet
+i samråd med forskningsmiljøer burde definere tydelig hva som regnes
+som avvik ved testing av synsfelt, og at ny førerkortveileder bør
+være teknologinøytral. Dette bør vi lytte til.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1005976">
+          <Hovedinnlegg Id="i1006825">
             <A>
               <Navn personID="BÅH">
-Bård Hoksrud (FrP) [11:08:35] </Navn>(komiteens leder): Dette er
+Bård Hoksrud (FrP) [11:08:35]</Navn> (komiteens leder): Dette er
 egentlig en sak som burde vært ganske enkel. Når staten skal ta
-fra folk førerkortet, da holder det ikke med en test som forskerne
+fra folk førerkortet, holder det ikke med en test som forskerne
 mener ikke er egnet til å måle faktisk kjøreevne. Da holder det
-ikke med et system hvor folk kan miste førerkortet – og jobben,
-friheten og hverdagen sin – uten at de får en reell mulighet til
-å vise om de faktisk kan kjøre trygt. For veldig mange mennesker
-er ikke førerkortet bare et plastkort i lommeboka. Det er nøkkelen
-til arbeid, nøkkelen til å hente barnebarn, nøkkelen til butikken,
-til legen, til fritidsaktiviteter og et helt vanlig liv. Derfor
+ikke med et system hvor folk kan miste førerkortet – jobben, friheten
+og hverdagen sin – uten at de får en reell mulighet til å vise om
+de faktisk kan kjøre trygt. For veldig mange mennesker er ikke førerkortet
+bare et plastkort i lommeboka. Det er nøkkelen til arbeid, til å
+hente barnebarn og til å komme seg til butikken, til legen og til
+fritidsaktiviteter – det er nøkkelen til et helt vanlig liv. Derfor
 må staten være hundre prosent trygg når den gjør et så alvorlig
 inngrep. </A>
             <A Type="Minnrykk">Fremskrittspartiet har fremmet fire konkrete
@@ -1270,7 +1265,7 @@ at ca. 550 mennesker mistet førerkortet på grunn av skarpsyn og
 synsfelt i 2022. Det betyr at omtrent ti personer i uka mister førerkortet. </A>
             <A Type="Minnrykk">Når forskningen til bl.a. Thea Melsen Sudmann
 viser at to av tre som hadde mistet førerkortet på grunn av synsutfall, besto
-simulatortesten, da burde varsellampene blinke ganske kraftig. For
+simulatortesten, burde varsellampene blinke ganske kraftig. For
 hva betyr det i praksis? Jo, det betyr at mennesker kan ha mistet
 førerkortet ikke fordi de er farlige i trafikken, men fordi de ikke
 passer inn i en test som ikke måler faktisk kjøreevne godt nok.
@@ -1279,12 +1274,12 @@ som om du skulle ha slått kron eller mynt», og da vil jeg gjerne
 spørre statsråden: Er det virkelig et godt nok grunnlag for å ta
 fra folk førerkortet, jobben, hverdagen og friheten deres?</A>
             <A Type="Minnrykk">Statsråden skriver til komiteen at arbeidet
-har høy prioritet, og at Helsedirektoratet og Statens vegvesen samarbeider, og
-at man ser på om kjørevurdering kan brukes i flere synsfeltsaker.
+har høy prioritet, at Helsedirektoratet og Statens vegvesen samarbeider,
+og at man ser på om kjørevurdering kan brukes i flere synsfeltsaker.
 Han skriver også at praktisk kjørevurdering kan gi en mer individuell
 vurdering av evnen til å kompensere for synsfeltutfall. Ja, dette
 har man holdt på med i flere år. Problemet er at folk der ute ikke
-lever i statsrådens svarbrev – de lever i møte med statsforvalter,
+lever i statsrådens svarbrev – de lever i møte med statsforvalteren,
 politiet, helseattester og et regelverk som i praksis fortsatt ser
 ut til å stenge alle dører for å få den testen og få testet evnene
 sine. </A>
@@ -1303,19 +1298,19 @@ derfor Fremskrittspartiet reagerer og tar opp dette. </A>
               <Navn>Presidenten [11:11:37]:</Navn> Representanten
 Bård Hoksrud har tatt opp de forslagene han refererte til. </A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1005978">
+          <Hovedinnlegg Id="i1006827">
             <A>
               <Navn personID="GEL">
 Geir Inge Lien (Sp) [11:11:53]:</Navn> Trafikksikkerheit er eit grunnleggjande
 ansvar for samfunnet. For Senterpartiet står nullvisjonen om ingen
 drepne eller hardt skadde i trafikken fast. Han forpliktar oss til
 å stille strenge og rette krav til køyreevne og til å sikre at regelverket
-som gjeld, bidreg til trygg ferdsel på norske vegar. Men når folk
-mistar førarretten, er det eit svært alvorleg inngrep i kvardagen.
-For mange handlar førarkortet om moglegheita til å kome seg på jobb, følgje
-opp familien og delta i lokalsamfunnet. Difor er rettssikkerheita
+som gjeld, bidreg til trygg ferdsel på norske vegar. Samtidig: Når
+folk mistar førarretten, er det eit svært alvorleg inngrep i kvardagen.
+For mange handlar førarkortet om moglegheita til å kome seg på jobb,
+følgje opp familien og delta i lokalsamfunnet. Difor er rettssikkerheita
 i slike saker avgjerande. Dei som vert råka, må ha tillit til at
-vurderingane som vert gjort, er rettferdige, individuelle og byggjer
+vurderingane som vert gjorde, er rettferdige, individuelle og byggjer
 på eit solid grunnlag. </A>
             <A Type="Minnrykk">Senterpartiet meiner det er avgjerande at metodane
 som vert brukte til å vurdere køyreevne, er fagleg forankra og kunnskapsbaserte.
@@ -1329,7 +1324,7 @@ dette arbeidet er godt i gang, men Senterpartiet er like utolmodige
 som Framstegspartiet. Difor støttar Senterpartiet forslag nr. 4.
 Det er eit tydeleg signal om at Stortinget forventar framdrift og handling,
 samtidig som det overlèt det faglege innhaldet til dei som har kompetansen.
-Me meiner dette er den rette balansen mellom politikk, ansvar og
+Vi meiner dette er den rette balansen mellom politikk, ansvar og
 fagleg integritet. Dei som er råka av dagens regelverk, fortener
 å verte møtte med respekt, føreseielegheit og verdigheit, og dei
 fortener at arbeidet med forbetringar skjer i eit godt og riktig
@@ -1338,15 +1333,15 @@ tempo. </A>
           <Merknad>
             <Handling>
               <A>
-                <Uth Type="Sperret">Alf Erik Andersen </Uth>overtok
-her presidentplassen.</A>
+                <Uth Type="Sperret">Alf Erik Andersen</Uth> hadde
+her overtatt presidentplassen.</A>
             </Handling>
           </Merknad>
-          <Hovedinnlegg Id="i1005980">
+          <Hovedinnlegg Id="i1006829">
             <A>
               <Navn personID="REMSLV">
-Remi Sølvberg (R) [11:14:29]:</Navn> La meg først få gratulere presidenten
-med nytt verv. </A>
+Remi Sølvberg (R) [11:14:29]:</Navn> La meg først få gratulere Alf
+Erik Andersen med nytt verv. </A>
             <A Type="Minnrykk">Denne saken handler om noe grunnleggende: rettssikkerhet,
 trafikksikkerhet og muligheter for å delta i samfunnet. For mange
 mennesker er førerkortet ikke bare et praktisk gode, men også en
@@ -1376,34 +1371,33 @@ nyttige verktøy i framtiden, men det må tas i bruk på en måte som
 ivaretar trafikksikkerhet og rettssikkerhet. </A>
             <A Type="Minnrykk">For Rødt er det viktig at personer som tidligere
 har mistet førerkortet på grunn av en test som nå viser seg ikke
-å være god nok, må få en ny vurdering dersom retningslinjene endres.
-Det må ikke bli slik at mennesker blir stående uten førerkort på
-grunnlag av en praksis som senere viser seg å være for snever eller
-for lite treffsikker. Derfor støtter Rødt arbeidet med å modernisere
-denne praksisen. Målet må være et system som både forhindrer farlig
-kjøring og forhindrer at mennesker mister førerretten på sviktende
-grunnlag. </A>
+å være god nok, får en ny vurdering dersom retningslinjene endres. Det
+må ikke bli slik at mennesker blir stående uten førerkort på grunnlag
+av en praksis som senere viser seg å være for snever eller for lite
+treffsikker. Derfor støtter Rødt arbeidet med å modernisere denne
+praksisen. Målet må være et system som både forhindrer farlig kjøring
+og forhindrer at mennesker mister førerretten på sviktende grunnlag. </A>
             <A Type="Minnrykk">Jeg vil skryte av forslagsstillerne før jeg
 går fra denne talerstolen. Jeg synes det er gjort et meget godt
 arbeid med å løfte denne saken. Vi støtter forslag nr. 4, som går
 på tidsskjerpelse. Det mener vi er meget bra. </A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1005982">
+          <Hovedinnlegg Id="i1006831">
             <A>
               <Navn personID="ODAIND">
 Oda Indgaard (MDG) [11:17:36]:</Navn> Mange steder i Norge finnes
 det ikke gode alternativer til bilen. Det er en selvfølge og en
-floskel, men jeg vet at en del i denne salen som tror at MDG ikke
-er klar over dette, så det må sies likevel. Selv om jeg og MDG jobber
+floskel, men jeg vet at en del i denne salen tror at MDG ikke er
+klar over dette, så det må sies likevel. Selv om jeg og MDG jobber
 utrettelig for bedre og billigere kollektivdekning og for nye løsninger
 som kan gjøre det enklere for folk å reise uten førerkort og i distriktene,
 er vi ikke der i dag. For mange er bilen helt nødvendig i hverdagen.
-Å miste førerretten får derfor veldig store konsekvenser for den enkelte,
-for arbeid, hverdagsliv og muligheten til å klare seg selv. Da må
-i det minste beslutningen for dette være riktig. For det er helt
-riktig, som har blitt sagt tidligere fra den talerstolen, at vi
-tar trafikksikkerheten på høyeste alvor. Det er best for både sjåførene
-og alle rundt. </A>
+Å miste førerretten får derfor veldig store konsekvenser for den
+enkelte – for arbeid, hverdagsliv og muligheten til å klare seg selv.
+Da må i det minste beslutningen for dette være riktig. For det er
+helt riktig, som det er blitt sagt tidligere fra denne talerstolen,
+at vi tar trafikksikkerheten på høyeste alvor. Det er best for både
+sjåførene og alle rundt. </A>
             <A Type="Minnrykk">I dag er imidlertid beslutningene ikke alltid
 basert på fakta. Forskning fra Universitetet i Oslo viser at dagens
 synsfelttest ikke gir et godt nok grunnlag. Utfallet kan være tilfeldig, og
@@ -1411,14 +1405,14 @@ resultatene varierer uten at de nødvendigvis sier noe presist om
 faktisk kjøreevne. Likevel mister folk førerkortet på dette grunnlaget,
 og hundrevis er berørt. Når en test er like vilkårlig som å kaste
 kron eller mynt, gir nok ikke testen merverdi og bør derfor skrotes.
-Det er ikke detaljstyring; det er en nødvendig endring. </A>
+Det er ikke detaljstyring; det er nødvendig endring. </A>
             <A Type="Minnrykk">MDG støtter derfor at dagens synsfelttest ikke
 lenger skal brukes som grunnlag for tap av førerkort. Vi vil også
 i løpet av dagen vurdere om vi skal bli med på forslag nr. 4, om at
 nødvendige endringer må komme innen seks måneder. Når konsekvensene
 er store for den enkelte, må også kravene til grunnlaget være høye.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1005984">
+          <Hovedinnlegg Id="i1006833">
             <A>
               <Navn personID="JONN">
 Statsråd Jon-Ivar Nygård [11:19:35]:</Navn> Dette representantforslaget
@@ -1466,7 +1460,7 @@ dem med funksjonelle vurderinger, som f.eks. bare praktisk kjørevurdering. </A>
             <A>
               <Navn>Presidenten [11:22:04]:</Navn> Det blir replikkordskifte.</A>
           </Presinnlegg>
-          <Replikk Id="i1005986">
+          <Replikk Id="i1006835">
             <A>
               <Navn personID="BÅH">
 Bård Hoksrud (FrP) [11:22:41]:</Navn> Det er interessant: Statsråden
@@ -1486,7 +1480,7 @@ uten at de egentlig skal det. </A>
 det ser ut til å bli flertall for? Og vil han sørge for å følge
 opp det vedtaket? </A>
           </Replikk>
-          <Replikk Id="i1005988">
+          <Replikk Id="i1006837">
             <A>
               <Navn personID="JONN">
 Statsråd Jon-Ivar Nygård [11:23:43]:</Navn> Jeg er enig med representanten
@@ -1510,7 +1504,7 @@ EØS-avtalen. Da må vi forholde oss til disse førerkortdirektivene
 og rett og slett bruke det regelverket som er der. Jeg er likevel enig
 i at vi må få en løsning.</A>
           </Replikk>
-          <Replikk Id="i1005990">
+          <Replikk Id="i1006839">
             <A>
               <Navn personID="BÅH">
 Bård Hoksrud (FrP) [11:24:50]:</Navn> Ja, jeg er også enig. </A>
@@ -1531,7 +1525,7 @@ Dette har en utrolig inngripende virkning i folks liv, og når det
 skjer med bakgrunn i en test som veldig mange stiller kritiske spørsmål
 til, synes ikke statsråden at det er spesielt?</A>
           </Replikk>
-          <Replikk Id="i1005992">
+          <Replikk Id="i1006841">
             <A>
               <Navn personID="JONN">
 Statsråd Jon-Ivar Nygård [11:25:55]:</Navn> Vi deler jo intensjonen
@@ -1547,7 +1541,7 @@ foreligger det likevel ikke tilstrekkelig kunnskapsgrunnlag til
 å fastslå at simulator kan erstatte kjørevurdering eller laboratoriebaserte
 undersøkelser. </A>
           </Replikk>
-          <Replikk Id="i1005994">
+          <Replikk Id="i1006843">
             <A>
               <Navn personID="BÅH">
 Bård Hoksrud (FrP) [11:26:39]:</Navn> Da skal spørsmålet mitt være
@@ -1560,7 +1554,7 @@ hvilke andre land i EU gjør dette? Er det flertallet av EU-landene,
 eller er det knapt noen EU-land som legger dette til grunn for om
 man tar fra folk førerkortet eller ikke? </A>
           </Replikk>
-          <Replikk Id="i1005996">
+          <Replikk Id="i1006845">
             <A>
               <Navn personID="JONN">
 Statsråd Jon-Ivar Nygård [11:27:09]:</Navn> Så vidt jeg er kjent
@@ -1574,7 +1568,7 @@ jeg at den jobben som Helsedirektoratet nå gjør, sammen med Statens
 vegvesen, er det som kommer til å ta oss på rett vei, nemlig at
 vi får på plass metoder som er bedre enn det vi opplever i dag. </A>
           </Replikk>
-          <Replikk Id="i1005998">
+          <Replikk Id="i1006847">
             <A>
               <Navn personID="BÅH">
 Bård Hoksrud (FrP) [11:27:48]:</Navn> Jeg vil fortsatt utfordre
@@ -1588,14 +1582,14 @@ kan bekrefte eller avkrefte om han har tenkt å følge opp det vedtaket.
 Jeg regner med at han har lest forslag til vedtak ganske godt, så
 han vet hva som ligger som forutsetninger der. </A>
           </Replikk>
-          <Replikk Id="i1006000">
+          <Replikk Id="i1006849">
             <A>
               <Navn personID="JONN">
 Statsråd Jon-Ivar Nygård [11:28:16]:</Navn> Min intensjon er at
 vi alltid forsøker å følge opp Stortingets vedtak, så hvis Stortinget
 vedtar forslag nr. 4, skal jeg følge det opp.</A>
           </Replikk>
-          <Replikk Id="i1006002">
+          <Replikk Id="i1006851">
             <A>
               <Navn personID="ALI">
 Anne Kristine Linnestad (H) [11:28:33]:</Navn> På bakgrunn av både
@@ -1617,7 +1611,7 @@ vurdert i denne salen – er dette noe statsråden kunne tenke seg
 å jobbe videre med? Jeg vet jo at lover sjelden har tilbakevirkende
 kraft, men her snakker vi om en forskrift eller en veileder. </A>
           </Replikk>
-          <Replikk Id="i1006004">
+          <Replikk Id="i1006853">
             <A>
               <Navn personID="JONN">
 Statsråd Jon-Ivar Nygård [11:29:33]:</Navn> Min inngang til det
@@ -1635,7 +1629,7 @@ er over.</A>
             <A Type="Minnrykk">De talere som heretter får ordet, har også
 en taletid på inntil 3 minutter.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1006006">
+          <Hovedinnlegg Id="i1006855">
             <A>
               <Navn personID="JONBLI">
 Jone Blikra (A) [11:30:19]:</Navn> Vi hadde en veldig god start
@@ -1646,12 +1640,12 @@ er noe vi er veldig opptatt av. Vi må se dem som kjenner på de utfordringene
 med å miste førerkortet basert på denne typen undersøkelser. </A>
             <A Type="Minnrykk">Jeg er litt lei meg for at debatten allikevel
 ender opp i at Fremskrittspartiet velger å være sinte. De velger
-å forskuttere det som allerede nå, på bakgrunn av hva Fremskrittspartiet
-i sin tid tok opp, er iverksatt. Vi får informasjon om at det legges
+å forskuttere det som allerede nå er iverksatt på bakgrunn av hva
+Fremskrittspartiet i sin tid tok opp. Vi får informasjon om at det legges
 ved et forslag til endringer før sommeren, men det skal skje en
 høring, og alle har sagt at vi i denne saken må basere oss på helsefaglige
-grunnlag før vi fatter noe vedtak. Det er jeg litt lei meg for,
-egentlig. </A>
+grunnlag før vi fatter noe vedtak. Det er jeg egentlig litt lei
+meg for. </A>
             <A Type="Minnrykk">Når det gjelder Høyres utfordring knyttet til
 forslag nr. 4: Grunnen til dette er igjen detaljnivået. I forslaget
 står det «førerkortforskriften», mens fagetatene sier at vi ikke
@@ -1659,14 +1653,14 @@ trenger å endre forskriften, men veilederen. Det blir litt teknisk.
 Det betyr ikke at man er imot endringer, men jeg synes at man faktisk
 skal la dem som har greie på det, bestemme hvilken forskrift eller
 hvilke veiledere man bør bytte for å få dette til. </A>
-            <A Type="Minnrykk">Jeg tror uansett, etter å ha hørt innleggene,
+            <A Type="Minnrykk">Etter å ha hørt innleggene, tror jeg uansett
 at vi er veldig enige om at vi nå er der vi skal være. Det har kanskje
 tatt litt lang tid, men forslagene kommer før sommeren, og så får
 vi vurdert dem. Igjen synes jeg det er litt leit at Fremskrittspartiet
 nå prøver å koke politisk suppe på frambeina på en mygg bare for
 å holde konfliktnivået oppe.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1006008">
+          <Hovedinnlegg Id="i1006857">
             <A>
               <Navn personID="BÅH">
 Bård Hoksrud (FrP) [11:32:30]:</Navn> Dette var en spesiell tilnærming
@@ -1693,11 +1687,11 @@ praktiske testen. Det kunne vært morsomt om statsråden fortalte
 meg hvor mange ganger statsforvalterne i dette landet har vært positive og
 åpnet for dette for folk som har hatt synsutfall. Det kunne vært
 interessant. Jeg tror at det er veldig, veldig få.</A>
-            <A Type="Minnrykk"> Jeg skjønner selvfølgelig at Arbeiderpartiet
+            <A Type="Minnrykk">Jeg skjønner selvfølgelig at Arbeiderpartiet
 vil prøve å si at de synes det er trist at det er litt uenighet,
 men jeg snakker på vegne av dem som har tatt kontakt, som er frustrerte
-over regjeringen og Helsedirektoratet. Det siste jeg hørte var at
-det kanskje var noen nye mennesker i Helsedirektoratet som hadde
+over regjeringen og Helsedirektoratet. Det siste jeg hørte, var
+at det kanskje var noen nye mennesker i Helsedirektoratet som hadde
 fått ansvaret for dette. De hadde ikke engang den statistikken som
 Glaukomforeningen hadde fått tidligere. Helsedirektoratet ba om
 å få den tilbake fordi de ikke hadde den. Da er jeg litt bekymret
@@ -1722,18 +1716,18 @@ glade for det i dag.</A>
               <Navn>Presidenten [11:35:35]:</Navn> Flere har ikke
 bedt om ordet til sak nr. 6.</A>
           </Presinnlegg>
-          <Referanse Id="i1006010" voteringsDato="2026-04-28" debattDato="2026-04-28" saksKartNr="6" />
+          <Referanse Id="i1006859" voteringsDato="2026-04-28" debattDato="2026-04-28" saksKartNr="6" />
         </Sak>
-        <Interpellasjon Id="i1006012" saksKartNr="7" sakID="108202">
+        <Interpellasjon Id="i1006861" saksKartNr="7" sakID="108202">
           <Sakshode>
             <Saknr>
               <Uth Type="Sperret">Sak
 nr. 7</Uth> [11:35:39]</Saknr>
-            <Saktittel Id="i1006016">
+            <Saktittel Id="i1006865">
               <A>Interpellasjon fra representanten
 Amalie Gunnufsen til arbeids- og inkluderingsministeren:</A>
               <A>«Arbeidsledigheten blant nyutdannede masterstudenter er nå den
-høyeste på over 25 år. NIFUs ferske kandidatundersøkelse viser at
+høyeste på over 25 år. NIFUs ferske kandidatundersøkelse viser at
 nesten én av ti står helt uten jobb et halvt år etter fullførte
 studier, og at ledigheten har økt særlig blant økonomer, samfunnsvitere
 og naturvitere. Dette bekreftes av kandidatundersøkelsene ved NTNU,
@@ -1747,10 +1741,10 @@ Situasjonen er alvorlig både for den enkelte og for samfunnet, som
 risikerer at høy kompetanse ikke tas i bruk. </A>
               <A>Vil statsråden redegjøre for hvordan hun vurderer utviklingen,
 og hvilke tiltak regjeringen vil sette i verk for å bidra til at
-flere unge kommer raskere i relevant arbeid»?</A>
+flere unge kommer raskere i relevant arbeid?»</A>
             </Saktittel>
           </Sakshode>
-          <Hovedinnlegg Id="i1006018">
+          <Hovedinnlegg Id="i1006867">
             <A>
               <Navn personID="AMAGUN">
 Amalie Gunnufsen (H) [11:37:03]:</Navn> Rundt om i hele Norge sitter
@@ -1760,13 +1754,13 @@ folk som har gjort alt politikerne har bedt dem om. De har fullført
 videregående, tatt opp et høyt studielån og fullført en utdanning.</A>
             <A Type="Minnrykk">Jeg er redd for at mange av disse nyutdannede
 vil få en tøff start på livet som jobbsøkere. Den ferske kandidatundersøkelsen
-fra NIFU viser at nesten en av ti masterutdannede står uten jobb
+fra NIFU viser at nesten én av ti masterutdannede står uten jobb
 et halvt år etter studiene. Det er det høyeste nivået på minst 25 år.
 Jeg må si at da NIFU-tallene kom, ble jeg ikke særlig overrasket.
-Ledigheten blant unge har ikke vært målt så høyt som i dag siden
+Ledigheten blant unge har ikke vært målt så høy som i dag siden
 vi begynte å måle i 1972. Tall fra Randstad viser at antallet inngangsjobber
 har falt med 29 pst. bare siden 2024, og kandidatundersøkelsene
-for universitetet i Agder, NTNU og Nord, som kom rundt jul, pekte
+for universitetet i Agder, NTNU og Nord, som kom rundt jul, peker
 alle i samme retning.</A>
             <A Type="Minnrykk">Derfor mener jeg at vi har sett konturene av
 denne utfordringen lenge. Allikevel har statsrådens svar på mine
@@ -1777,12 +1771,12 @@ at overgangen fra utdanning til jobb kan være krevende, og trolig
 mer krevende nå enn den var under oppgangskonjunkturen rett i etterkant
 av koronakrisen, men at hun likevel ikke har noen klare holdepunkter
 for å si at det nå er mer krevende enn i en normalsituasjon.</A>
-            <A Type="Minnrykk">Nå taler tallene fra NIFU for seg selv, men
-jeg synes det er rart at det var så mange tydelige indikatorer på
-at overgangen mellom studier og jobb har blitt vanskeligere, uten
-at statsråden ville anerkjenne det som et problem. Jeg synes det er
-rart at vi kunne se det, mens statsråden ikke kunne uttale at hun
-også så tendensene.</A>
+            <A Type="Minnrykk">Nå taler tallene fra NIFU for seg, men jeg
+synes det er rart at det var så mange tydelige indikatorer på at
+overgangen mellom studier og jobb har blitt vanskeligere, uten at
+statsråden ville anerkjenne det som et problem. Jeg synes det er rart
+at vi kunne se det, mens statsråden ikke kunne uttale at hun også
+så tendensene.</A>
             <A Type="Minnrykk">Min frykt er at det er viktigere for en Arbeiderparti-regjering
 å vise til lave ledighetstall enn å anerkjenne det som er en stor
 utfordring for mange unge i dag. Og ja, statsråden kan si at arbeidsledighetstallene
@@ -1811,7 +1805,7 @@ er stort behov for arbeidskraft mange steder. Allikevel sliter unge
 og nyutdannede med å få jobb.</A>
             <A Type="Minnrykk">Da mener jeg at vi må spørre oss: Kan noe av
 næringslivet ha blitt mer forsiktige etter det som har vært en uforutsigbar
-næringspolitikk over flere år, med skatter og kostnadssjokk påført
+næringspolitikk over flere år, med skatte- og kostnadssjokk påført
 dem over natten gjentatte ganger? Når regjeringen har gjort det
 vanskeligere for bedrifter å knytte til seg kompetanse i kortere
 perioder gjennom innstramminger i innleieregelverket og deltidsarbeid,
@@ -1823,26 +1817,26 @@ kan løse mange av oppgavene som nye ansatte tidligere gjorde?</A>
             <A Type="Minnrykk">I valgkampen i 2021, bare noen måneder før
 Støre ble statsminister, ga han landets unge en garanti om at å
 få flere unge i jobb ville være det viktigste og første en Arbeiderparti-regjering
-skal gripe fatt i. Den garantien tror jeg ikke mange unge kjenner
+skulle gripe fatt i. Den garantien tror jeg ikke mange unge kjenner
 seg igjen i.</A>
             <A Type="Minnrykk">Derfor vil jeg spørre om statsråden er fornøyd
 med denne utviklingen. Jeg er også interessert i å spørre statsråden,
 som jeg spurte høyere utdanningsministeren om i forrige uke: Hvis
-det var krise på 11 pst., hva er det da på 15 pst.</A>
+det var krise på 11 pst., hva er det da på 15 pst?</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1006020">
+          <Hovedinnlegg Id="i1006869">
             <A>
               <Navn personID="KJSE">
 Statsråd Kjersti Stenseng [11:42:17]:</Navn> Overgangen fra utdanning
 til arbeid er viktig, både for den enkelte og for samfunnet. De
 aller fleste som har fullført en utdanning, kommer i jobb relativt
-raskt, men hvor rask den overgangen fra utdanning til arbeid er,
+raskt, men hvor raskt den overgangen fra utdanning til arbeid går,
 varierer med fagfelt og med de økonomiske konjunkturene.</A>
             <A Type="Minnrykk">Vi ser at de som utdanner seg innenfor helsefag
 og pedagogiske fag, typisk er de som kommer ganske raskt i jobb.
 De som tar en mer generalistutdanning, og som ofte retter seg mot
 jobb i privat sektor, kan oppleve at det kan være perioder hvor
-det er mer krevende å komme i jobb. </A>
+det er krevende å komme i jobb. </A>
             <A Type="Minnrykk">Etterspørselen etter arbeidskraft ble noe dempet
 i 2023 og 2024, spesielt i privat sektor. NIFUs kandidatundersøkelse fra
 i fjor viser at det for fjorårets kull samlet sett har vært mer krevende
@@ -1858,20 +1852,20 @@ har jeg ingen grunn til å betvile at det nå er mer krevende for
 nyutdannede å komme i jobb. Jeg ser det i sammenheng med at etterspørselen
 etter arbeidskraft i deler av norsk økonomi har vært noe dempet
 i perioden vi har bak oss. Likevel må det også understrekes at i
-fjorårets undersøkelse er mer enn ni av ti med master i jobb seks
-måneder etter endt utdanning.</A>
+fjorårets undersøkelse er mer enn ni av ti som har tatt master,
+i jobb seks måneder etter endt utdanning.</A>
             <A Type="Minnrykk">Vi følger nøye med på utviklingen i arbeidsmarkedet, gjennom
-både SSB og Navs statistikk. Da arbeidsmarkedet tok seg kraftig
+både SSBs og Navs statistikk. Da arbeidsmarkedet tok seg kraftig
 opp etter koronakrisen, ønsket mange unge å komme i jobb, og vi
 har sett at mange unge også har kommet i jobb. Sysselsettingen i
 ungdomsgruppen 15–24 år har de siste tre årene vært den høyeste
 som noen gang er målt i denne tidsserien, som går tilbake til 2009.
-Så stemmer det også at arbeidsledigheten i ungdomsgruppen har økt
+Det stemmer også at arbeidsledigheten i ungdomsgruppen har økt,
 og ble høy i 2025. Det har bl.a. sammenheng med at flere med utdanning
 som hovedaktivitet har ønsket og søkt deltidsjobb.</A>
-            <A Type="Minnrykk">I tiden som kommer vil det være en økende knapphet
-på arbeidskraft, og jobbmulighetene vil være gode for alle som vil
-og kan jobbe. De som har relevant utdanning, vil stille sterkt.
+            <A Type="Minnrykk">I tiden som kommer, vil det være en økende
+knapphet på arbeidskraft, og jobbmulighetene vil være gode for alle
+som vil og kan jobbe. De som har relevant utdanning, vil stille sterkt.
 Utfordringen er først og fremst knyttet til en gruppe som vil jobbe,
 men ikke får jobb, og som går lenge uten jobb. Denne gruppen har
 gjennomgående lav utdanning, lite arbeidserfaring og helseutfordringer,
@@ -1879,12 +1873,12 @@ og mange har også utenlandsk opprinnelse. En hovedoppgave er derfor
 å legge til rette for at samfunnet bedre benytter den arbeidskraftressursen denne
 gruppen representerer.</A>
             <A Type="Minnrykk">Regjeringen har satt i gang en omfattende innsats
-for å øke sysselsettingen i denne gruppen av unge. Som del av ungdomsløftet
+for å øke sysselsettingen i denne gruppen av unge. Som del av Ungdomsløftet
 er det etablert en egen ungdomssatsing og egne ungdomsprogram rettet
-mot dem som mangler kompetanse og har store utfordringer med å komme
-i jobb uten bistand. Et av verktøyene er ungdomsgarantien fra 2023
-og en tidlig og tett oppfølging. Regjeringen har satt seg et mål
-om at 30 000 flere unge under 30 år skal komme seg i arbeid innen
+mot dem som mangler kompetanse, og som har store utfordringer med
+å komme i jobb uten bistand. Et av verktøyene er ungdomsgarantien
+fra 2023 og en tidlig og tett oppfølging. Regjeringen har satt seg
+et mål om at 30 000 flere unge under 30 år skal komme seg i arbeid innen
 2030.</A>
             <A Type="Minnrykk">Omstillingene i arbeidsmarkedet er store og
 raske. Derfor oppstår det også misforhold mellom den kompetansen virksomheter
@@ -1897,17 +1891,17 @@ være tilpasningsdyktig og mobil, både yrkesmessig og geografisk.
 Det er særlig viktig at nyutdannede også orienterer seg bredt. Den
 første jobben er sjelden drømmejobben, men det å komme seg i jobb
 er et veldig viktig og nødvendig steg på veien. Samtidig trenger
-vi arbeidsgivere som ser muligheten i å gi unge muligheter. Arbeidsgivere
+vi arbeidsgivere som ser viktigheten av å gi unge muligheter. Arbeidsgivere
 må satse på unge nyutdannede, selv om de ikke har mye erfaring.
 De vil få kunnskapsrike og motiverte medarbeidere. Fra myndighetenes
 side skal vi også hjelpe dem som trenger bistand til både kvalifisering
 og tilrettelegging.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1006022">
+          <Hovedinnlegg Id="i1006871">
             <A>
               <Navn personID="AMAGUN">
 Amalie Gunnufsen (H) [11:47:10]:</Navn> Da kan jeg jo bare merke
-meg at statsråden ikke ville svare på hvorfor nåværende statsminister
+meg at statsråden ikke vil svare på hvorfor nåværende statsminister
 og daværende opposisjonsleder Støre kalte den høye arbeidsledigheten
 i 2016 – som tross alt var vesentlig lavere enn i dag – en «nasjonal
 krise», men ikke kan bruke den samme betegnelsen på tallene vi ser
@@ -1923,7 +1917,7 @@ ulv, ulv, men måten Arbeiderpartiet omtaler dette på i opposisjon,
 er jo vesentlig annerledes enn de gjør når de selv sitter med ansvaret. </A>
             <A Type="Minnrykk">Jeg mener regjeringen de siste årene har vært
 mest opptatt av å lukke dørene for dem som står utenfor arbeidslivet. Det
-er trist, fordi strengere innleieregler har redusert en av de viktigste
+er trist, for strengere innleieregler har redusert en av de viktigste
 inngangsportene til arbeidslivet. Et mer rigid regelverk gjør det
 vanskeligere for bedriftene å ta sjansen på unge uten erfaring,
 og da blir det vanskeligere å få arbeidserfaring som ung.</A>
@@ -1937,15 +1931,15 @@ Oppgaver som før ga unge erfaring, blir det færre av, og da blir
 det enda viktigere at vi ikke bygger ned de inngangsportene som
 finnes. Da må også utdanningssystemet henge bedre sammen med behovene i
 arbeidslivet. Universitetene er nødt til å forholde seg til denne
-utviklingen, og studieplassene må vi dimensjonere etter næringslivet
-og kommunenes behov. Og det tror jeg at de tallene vi ser i dag,
-er et symptom på at de ikke gjør. </A>
-            <A Type="Minnrykk">Jeg har lyst til, når statsråden igjen får
-ordet, å utfordre henne på det som var kjernen i spørsmålet mitt,
-om hun er fornøyd med utviklingen, og om hun opplever at Arbeiderparti-regjeringen
+utviklingen, og vi må dimensjonere studieplassene etter næringslivets
+og kommunenes behov. Jeg tror at de tallene vi ser i dag, er et
+symptom på at de ikke gjør det. </A>
+            <A Type="Minnrykk">Når statsråden igjen får ordet, har jeg lyst
+til å utfordre henne på det som var kjernen i spørsmålet mitt, som
+var om hun er fornøyd med utviklingen, og om hun opplever at Arbeiderparti-regjeringen
 leverer på garantien om å prioritere unge i jobb foran alt annet.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1006024">
+          <Hovedinnlegg Id="i1006873">
             <A>
               <Navn personID="KJSE">
 Statsråd Kjersti Stenseng [11:50:00]:</Navn> Ja, for denne regjeringen
@@ -1959,14 +1953,14 @@ den arbeidskraften, og den enkelte trenger en jobb å gå til. </A>
             <A Type="Minnrykk">Så synes jeg det er helt irrelevant å diskutere
 hva Arbeiderpartiet sa i opposisjon i 2016. Det er altså ti år siden.
 Ja, det er krise for den enkelte hvis en blir stående utenfor arbeidslivet,
-og vi trenger arbeidskraften i Norge i årene som kommer. Så det
-er ingen motsetning i å peke på at det er et problem – og samtidig
+og vi trenger arbeidskraften i Norge i årene som kommer. Det er
+altså ingen motsetning å peke på at det er et problem og samtidig
 ha litt andre svar enn det Høyre-representanten har, for jeg hører
 altså ingen svar på utfordringene fra Høyre. </A>
             <A Type="Minnrykk">Når det gjelder hvilken arbeidskraft vi trenger
 framover, og at vi også må ha ungdom som utdanner seg til jobber
-som bedrifter og næringslivet trenger i årene som kommer, så har min
-kollega i Kunnskapsdepartementet lansert et nytt verktøy nå som
+som bedrifter og næringslivet trenger i årene som kommer, har min
+kollega i Kunnskapsdepartementet nå lansert et nytt verktøy som
 jeg tror blir veldig viktig for å sikre at vi utdanner den kompetansen
 Norge trenger. Kompetansebudsjettet skal bidra til at det samlede
 tilbudet ved fagskoler, høyskoler og universiteter samsvarer godt
@@ -1978,24 +1972,24 @@ har i årene som kommer?</A>
             <A Type="Minnrykk">KI er et eksempel på at en del juniorstillinger,
 altså de første jobbene du får, kanskje forsvinner, og allerede
 er i ferd med å forsvinne. Da må vi se på hvordan det påvirker arbeidsmarkedet
-vårt, jobbmulighetene for dem som er nyutdannet, og det gjør vi
-absolutt, i høyeste grad. </A>
+vårt og jobbmulighetene for dem som er nyutdannede, og det gjør
+vi absolutt, i høyeste grad. </A>
             <A Type="Minnrykk">Så er jeg rett og slett uenig med Høyre i at
-det å myke opp innleieregelverk og arbeidsmiljøloven er svaret på
-å gi unge en god start på arbeidslivet. Det er jo ofte kortvarige
+det å myke opp innleieregelverket og arbeidsmiljøloven er svaret
+på å gi unge en god start på arbeidslivet. Det er jo ofte kortvarige
 oppdrag, og det er uforutsigbarhet for arbeidstakere. Jeg mener
 at unge fortjener en god start på et langt arbeidsliv, med trygge
 og gode rammer, og at arbeidstidsreglene skal gi det vernet unge også
 trenger. </A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1006026">
+          <Hovedinnlegg Id="i1006875">
             <A>
               <Navn personID="MORSAN">
 Morten Sandanger (A) [11:52:46]:</Navn> Se for deg å være en ny
 student som nettopp har begynt på drømmestudiet, klar for å erobre
 verden og begynne i akkurat den jobben en har drømt om. Så kommer
-hverdagen etter tre eller fem år, hvor man skal ut og søke jobb.
-Det er lange kvelder med søknadsskriving og finpussing på cv-en.
+hverdagen etter tre eller fem år, hvor en skal ut og søke jobb.
+Det er lange kvelder med søknadsskriving og finpussing av cv-en.
 Denne prosessen må kanskje gjentas hundrevis av ganger før en får
 napp.</A>
             <A Type="Minnrykk">Dette trenger ikke jeg å forestille meg. Jeg
@@ -2005,37 +1999,37 @@ jeg fikk, var alltid at jeg hadde for lite erfaring, eller at jeg
 var for ung. Jeg hadde rett og slett tatt feil utdanning.</A>
             <A Type="Minnrykk">Dette var i 2019, men det har alltid vært et
 problem at når en er ferdig utdannet, kan det være vanskelig å få
-seg drømmejobben. For min egen del var jeg veldig kresen, og jeg skulle
-ha meg jobb innen markedsføring. I 2019, da jeg var ferdigstudert
-og arbeidsledig, het statsministeren Solberg istedenfor Støre. Det
-betydde for min del at det ikke i like stor grad ble fokusert på
-å få unge ut i arbeid. I stedet for Ungdomsløftet, «Et enklere Nav»,
-ungdomsprogrammet og 12,6 mrd. kr til arbeidsmarkedstiltak var det
-ostehøvelkutt på Navs budsjetter, noe som gikk ut over kapasiteten.</A>
+seg drømmejobben. For min egen del var jeg veldig kresen: Jeg skulle ha
+meg jobb innen markedsføring. I 2019, da jeg var ferdigstudert og
+arbeidsledig, het statsministeren Solberg istedenfor Støre. Det
+betydde for min del at det ikke i like stor grad ble satt fokus
+på å få unge ut i arbeid. I stedet for Ungdomsløftet, «Et enklere
+Nav», ungdomsprogrammet og 12,6 mrd. kr til arbeidsmarkedstiltak
+var det ostehøvelkutt på Navs budsjetter, noe som gikk ut over kapasiteten.</A>
             <A Type="Minnrykk">Jeg er glad for at Høyre, som alltid, bryr
 seg om de viktige sakene nå når de sitter i opposisjon. Det er tross
 alt viktig å få unge ut i arbeid. Jeg skulle bare ønske at vi hadde
-sett litt av dette engasjementet da de satt i posisjon også. Da
+sett litt av dette engasjementet også da de satt i posisjon. Da
 hadde det kanskje vært lettere for min egen del å komme meg i jobb i
 2019.</A>
-            <A Type="Minnrykk"> Før helgen, på Instagram, la Høyre ut en video
+            <A Type="Minnrykk">Før helgen la Høyre ut en video på Instagram
 hvor de snakket om akkurat denne problemstillingen. Der sa nestleder Ola
 Svenneby at ungdomsledigheten aldri har vært høyere. Det han velger
 ikke å si, er at sysselsettingen blant de unge aldri heller har
-vært høyere. Andelen unge i jobb er nå langt høyere etter at Arbeiderpartiet
+vært høyere. Andelen unge i jobb er nå langt høyere, etter at Arbeiderpartiet
 tok over styringen.</A>
             <A Type="Minnrykk">For å belyse dette tydeligere: Andelen unge
 i jobb er i snitt faktisk hele 6,4 prosentpoeng høyere etter at
 Arbeiderpartiet tok over, sammenlignet med årene Høyre styrte før oss.
 Og ikke nok med det: I gjennomsnitt er også arbeidsledigheten lavere.
-Så nei, jeg er ikke enig med Ola Svennebys påstander om at skattesystemet
+Så nei, jeg er ikke enig i Ola Svennebys påstander om at skattesystemet
 og at det har blitt vanskeligere å jobbe deltid, er det som gjør
 det vanskeligere for unge å komme i arbeid.</A>
             <A Type="Minnrykk">Tallene viser faktisk at Arbeiderpartiets politikk
 fungerer. Flere unge kommer seg ut i jobb. Vi satser på de unge, men
 jeg skal ikke bagatellisere at mange unge nå sliter med å få seg
 en jobb. At flere har kommet seg i jobb de siste årene, gjør ikke
-situasjonen lettere for dem som nå ikke slipper til. Dette handler
+situasjonen lettere for dem som ikke slipper til. Dette handler
 ikke bare om statistikk, det handler om en stengt dør. Det er ikke
 mangel på unge som vil jobbe – det er mangel på arbeidsgivere som
 gir dem en sjanse. Arbeidsgivere må slutte med stadig oftere å kreve
@@ -2046,12 +2040,12 @@ snarvei til deltidsarbeid, usikre stillinger, innleie og dårligere
 rettigheter. De trenger å komme seg ut i et trygt arbeidsliv og
 i hele, faste stillinger.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1006028">
+          <Hovedinnlegg Id="i1006877">
             <A>
               <Navn personID="AMAGUN">
 Amalie Gunnufsen (H) [11:56:07]:</Navn> Det er naturlig at arbeidsstyrken
 i Norge øker når befolkningen gjør det. Det er jo en grunn til at
-vi måler nettopp arbeidsledighet, for å finne ut hvor mange som
+vi måler nettopp arbeidsledighet: for å finne ut hvor mange som
 har lyst og mulighet til å jobbe som ikke får den muligheten. Det
 er akkurat det Arbeidskraftundersøkelsen viser, og den har ikke
 målt høyere ledighet i denne gruppen siden man startet å måle i
@@ -2087,40 +2081,42 @@ nå i dag står og prøver å få seg sin første jobb, at vi er nødt
 til å tørre å ta denne debatten. Da Høyre løftet denne debatten
 i sommer, ble noe av det avspist som autoritært. </A>
             <A Type="Minnrykk">Til slutt vil jeg takke statsråden for at hun
-har anerkjent at dette er en personlig krise. Jeg spør meg fremdeles
-hvorfor det er så annerledes med ungdomsledighet for Arbeiderpartiet når
-de har ansvar, enn når de er i opposisjon.</A>
+har anerkjent at dette er en personlig krise. Jeg spør meg likevel
+fremdeles hvorfor det er så annerledes med ungdomsledighet for Arbeiderpartiet
+når de har ansvar, enn når de er i opposisjon.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1006030">
+          <Hovedinnlegg Id="i1006879">
             <A>
               <Navn personID="KJSE">
 Statsråd Kjersti Stenseng [11:59:17]:</Navn> Ungdomsledighet er
 et problem uavhengig av hvem som styrer i Norge, og derfor vil jeg
-gjenta det jeg sa i stad, at å få flere i arbeid, og ikke minst
+gjenta det jeg sa i stad, at det å få flere i arbeid, og ikke minst
 unge i arbeid, er en av hovedprioriteringene til denne regjeringen.
 Jeg er også opptatt av at vi setter inn innsatsen der det er aller
 viktigst, og sørger for at de som har lite eller ingen utdanning,
-eller er dårlig kvalifisert for det behovet arbeidslivet, får bistand. </A>
+eller er dårlig kvalifisert for det behovet arbeidslivet har, får
+bistand. </A>
             <A Type="Minnrykk">Nav er et sikkerhetsnett for oss alle sammen,
 og det er også eksempler på masterstudenter som er nyutdannet og
-ikke har fått jobb som får bistand gjennom Nav til å finne en praksisplass,
-få arbeidstrening, få trening i å skrive jobbsøknader og også kommer
-ut i ordinært arbeid. Men jeg mener at den store utfordringen vår
-først og fremst er de over 100 000 under 30 år som ikke er i aktivitet,
-arbeid eller utdanning, og som må få bistand for å komme inn i arbeidslivet.</A>
+ikke har fått jobb, som får bistand gjennom Nav til å finne en praksisplass,
+få arbeidstrening, få trening i å skrive jobbsøknader, og også kommer
+ut i ordinært arbeid. Jeg mener imidlertid at den store utfordringen
+vår først og fremst er de over 100 000 under 30 år som ikke er i
+aktivitet, arbeid eller utdanning, og som må få bistand til å komme
+inn i arbeidslivet.</A>
             <A Type="Minnrykk">Jeg er helt enig med representanten fra Høyre
 i at vi må se på utdanningstilbudet, studietilbudet, og det er forsknings- og
 høyere utdanningsministeren i gang med. </A>
             <A Type="Minnrykk">Vi kan godt sammenligne hva som skjedde under
-åtte år med Høyre, og hva som skjer under Arbeiderpartiet. Jeg tror vi
-alle sammen er enige om at unge som står utenfor arbeidslivet –
-f.eks. unge uføre, som vi har hatt en dramatisk økning av under
-høyreregjeringen – er der myndighetene først og fremst skal sette
-inn innsatsen. Det er veldig vanskelig for den enkelte som er nyutdannet,
-å gå ledig i seks måneder, ett år eller mer før man får en jobb
-som man har drømt om gjennom et langt studium, men de aller, aller
-fleste kommer ut i jobb ganske raskt. Ni av ti er altså i jobb etter
-seks måneder. </A>
+åtte år med Høyre, med hva som skjer under Arbeiderpartiet. Jeg
+tror vi alle sammen er enige om at unge som står utenfor arbeidslivet
+– f.eks. unge uføre, som vi hadde en dramatisk økning av under høyreregjeringen
+– er der myndighetene først og fremst skal sette inn innsatsen.
+Det er veldig vanskelig for den enkelte som er nyutdannet, å gå
+ledig i seks måneder, ett år eller mer før man får en jobb som man
+har drømt om gjennom et langt studium, men de aller, aller fleste
+kommer ut i jobb ganske raskt. Ni av ti er altså i jobb etter seks
+måneder. </A>
             <A Type="Minnrykk">Jeg er opptatt av både dem som har høy utdanning,
 og dem som står langt unna arbeidslivet, men jeg er også opptatt av
 å prioritere ressursene der de trengs aller mest, og da er det det
@@ -2132,12 +2128,12 @@ store utenforskapet jeg er opptatt av å prioritere.</A>
 dermed ferdigbehandlet.</A>
           </Presinnlegg>
         </Interpellasjon>
-        <Sak Id="i1006032" saksKartNr="8" sakID="106364">
+        <Sak Id="i1006881" saksKartNr="8" sakID="106364">
           <Sakshode>
             <Saknr>
               <Uth Type="Sperret">Sak
 nr. 8</Uth> [12:01:44]</Saknr>
-            <Saktittel Id="i1006036">
+            <Saktittel Id="i1006885">
               <A>Innstilling fra utenriks- og forsvarskomiteen
 om Representantforslag fra stortingsrepresentantene Bjørnar Moxnes, Geir
 Jørgensen og Sofie Marhaug om å innføre nabosjekk av EU-regelverk <Uth Type="RETT">(Innst. 190 S (2025–2026), jf. Dokument 8:83 S
@@ -2155,7 +2151,7 @@ av regjeringen.</A>
 fra medlemmer av regjeringen, og de som måtte tegne seg på talerlisten
 utover den fordelte taletid, får også en taletid på inntil 3 minutter.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1006038">
+          <Hovedinnlegg Id="i1006887">
             <A>
               <Navn personID="ES">
 Erna Solberg (H) [12:02:47]</Navn> (ordfører for saken): La meg
@@ -2170,7 +2166,7 @@ til å angre. </A>
             <A Type="Minnrykk">Vi må også i enhver sånn sammenheng vurdere
 tempo, byråkratisering og tiden vi har, ikke minst i en tid hvor
 det er et enormt stort trykk på å gjøre forenklinger, avbyråkratiseringer
-og raske endringer innenfor EUs regelverk som også er EØS-relevant.
+og raske endringer innenfor EUs regelverk som også er EØS-relevante.
 For oss som er opptatt av at vi også må ha en rask implementering
 av EØS-saker, av hensyn til å sørge for likebehandling mellom norsk
 næringsliv og næringslivet innenfor det indre marked, er det viktig
@@ -2197,15 +2193,16 @@ her, har sympati for at deler av dette kan gjøres i fremtiden, men
 at det kreves et eget og annet grunnlag, nettopp i valget mellom
 hvor stort tempo vi må ha i gjennomføringen nå, og hvor mye ekstra
 byråkratisering det er.</A>
-            <A Type="Minnrykk">Til slutt vil jeg bare påpeke at selv om Høyre
-ikke står inne i en merknad fra Venstre og De Grønne om at det ville vært
-bedre med et EU-medlemskap, vil jeg understreke at Høyre mener det,
-men vi har ikke nødvendigvis behov for å si den siste delen av den
+            <A Type="Minnrykk">Til slutt: Selv om Høyre ikke står inne i en
+merknad fra Venstre og De Grønne om at det ville vært bedre med
+et EU-medlemskap, vil jeg understreke at Høyre mener det, men vi har
+ikke nødvendigvis behov for å være med på den siste delen av den
 merknaden, om at vi går imot Rødts forslag, for den modifiserte
 utgaven vi har nå, er i og for seg en innrømmelse av at det er noen
-ideer i dette forslaget vi godt kan se nærmere på i en annen sammenheng.</A>
+ideer i dette forslaget vi godt kan se nærmere på, men kanskje i
+en annen sammenheng.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1006040">
+          <Hovedinnlegg Id="i1006889">
             <A>
               <Navn personID="TRISUN">
 Trine Lise Sundnes (A) [12:05:53]:</Navn> Forslaget om en nabosjekk
@@ -2215,7 +2212,7 @@ enig i. Som et lite land knyttet til europeisk økonomi er vi avhengige
 av EØS for arbeidsplasser, eksport og trygghet for norske lønns-
 og arbeidsvilkår.</A>
             <A Type="Minnrykk">Allerede i dag gjør forvaltningen og regjeringen
-omfattende vurderinger før EU-regelverk tas inn i norske rett. Konsekvenser
+omfattende vurderinger før EU-regelverk tas inn i norsk rett. Konsekvenser
 for lovverk, næringsliv og arbeidsliv analyseres, og Stortinget
 involveres gjennom komiteene og åpne høringer. Men Arbeiderpartiet
 mener det er rom for å styrke denne praksisen, særlig når det gjelder
@@ -2235,7 +2232,7 @@ av. På den måten sikrer vi at Norge fortsatt kan samarbeide tett
 med Europa, samtidig som vi fører en selvstendig og ansvarlig politikk
 til det beste for norske arbeidsfolk og norsk industri.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1006042">
+          <Hovedinnlegg Id="i1006891">
             <A>
               <Navn personID="HGU">
 Himanshu Gulati (FrP) [12:08:11]:</Navn> La meg begynne med å gratulere
@@ -2250,10 +2247,10 @@ byråkratiske og inngripende tiltak som går lenger enn nødvendig. Til
 tider kan det virke som vi går lenger enn det andre europeiske land
 gjør. Derfor støtter vi intensjonen i dette forslaget – at vi sammenligner
 oss med ikke minst naboland og andre europeiske land for å sørge
-for at vi ikke innfører mer inngripende tiltak på våre innbyggere
+for at vi ikke innfører mer inngripende tiltak overfor våre innbyggere
 og bedrifter enn det som strengt tatt er nødvendig.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1006044">
+          <Hovedinnlegg Id="i1006893">
             <A>
               <Navn personID="INF">
 Ingrid Fiskaa (SV) [12:09:26]:</Navn> EØS-avtalen er i utgangspunktet
@@ -2265,12 +2262,12 @@ ei rekkje lover og reglar som me mange gonger ikkje hadde kome på
 å vedta viss utgangspunktet hadde vore det norske demokratiet.</A>
             <A Type="Minnrykk">Samtidig er det jo eit handlingsrom i EØS-avtalen
 som i prinsippet både tilhengjarar og motstandarar av avtalen bør vera
-einige om at me bør utnytta betre enn i dag. Det handlar jo kanskje
+einige om at me bør utnytta betre enn i dag. Det handlar kanskje
 i første rekkje om å prøva å påverka prosessane på eit tidlegare
-tidspunkt i EU før det blir fatta vedtak, og det får me heilt sikkert
-moglegheita til å diskutera i ein annan samanheng. Det pågår jo
+tidspunkt i EU, før det blir fatta vedtak, og det får me heilt sikkert
+moglegheita til å diskutera i ein annan samanheng. Det føregår jo
 òg no eit arbeid om korleis òg Stortinget kan involverast i det
-påverknadsarbeidet på ein meir effektiv måte enn det blir gjort
+påverknadsarbeidet på ein meir effektiv måte enn det som blir gjort
 i dag.</A>
             <A Type="Minnrykk">Dagens sak handlar derimot om å prøva å finna
 dei handlingsromma som òg er der etter at lovverket er vedteke i
@@ -2278,7 +2275,7 @@ EU. Det er etter SV si meining òg viktig, for me må prøva å finna dei
 moglegheitene som er for å styrkja demokratiet her heime, og òg
 å finna moglegheiter til å tilpassa lovverket, så langt det lar
 seg gjera, til norske forhold. Då gjeld det å ikkje gje seg for
-tidleg eller å la vere å bruka det handlingsrommet som jo faktisk
+tidleg eller å la vera å bruka det handlingsrommet som jo faktisk
 finst.</A>
             <A Type="Minnrykk">SV er glad for at det er ein samla komité som
 i dag går inn for å gjera det til ein hovudregel å gjennomføra samanlikningar
@@ -2293,7 +2290,7 @@ på.</A>
               <Navn>Presidenten [12:12:03]:</Navn> Representanten
 Ingrid Fiskaa har tatt opp de forslagene hun refererte til.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1006046">
+          <Hovedinnlegg Id="i1006895">
             <A>
               <Navn personID="TMV">
 Trygve Slagsvold Vedum (Sp) [12:12:18]:</Navn> Hva var hoveddiskusjonen
@@ -2307,7 +2304,7 @@ i valg. Det er grunnen til at Senterpartiet er så kritisk til EØS som
 vi er, for man har flyttet makt fra det folkevalgte skjønnet til
 et embetsverk som ikke er på valg. Vi har nesten ikke fått folkesuverenitet,
 vi har fått en slags byråkratisuverenitet. Det var fyrstesuverenitet
-før 1814 på Eidsvoll, så fikk en folkesuvereniteten. </A>
+før 1814 på Eidsvoll, så fikk en folkesuverenitet. </A>
             <A Type="Minnrykk">Det EØS er i ferd med å gjøre, er at det på
 visse områder er byråkratene som skal bestemme hva de folkevalgte
 har lov til å gjøre. Det er grunnleggende feil at det skal sitte
@@ -2340,7 +2337,7 @@ styres på også framover.</A>
 vedtak, men i bunnen ligger vår grunnleggende motstand mot at mer
 og mer makt flyttes fra Norge til Brussel.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1006048">
+          <Hovedinnlegg Id="i1006897">
             <A>
               <Navn personID="BJMO">
 Bjørnar Moxnes (R) [12:15:20]:</Navn> Det er ikke hver dag Rødt
@@ -2350,11 +2347,11 @@ dag for oss som ønsker å bekjempe unødvendig overstyring fra EU,
 og som vil stå opp for folkestyret. </A>
             <A Type="Minnrykk">Bakgrunnen er at all makt skal ligge i denne
 sal. Det gjør det ikke med EØS-avtalen, som er grunnleggende udemokratisk,
-og som griper direkte inn i Norge, i norsk samfunn, på viktige områder
-som arbeidsliv, kraft og energi, velferd og infrastruktur, og som
-ikke først og fremst bare er en ren handelsavtale. Hvordan EU-reglene
-tolkes, implementeres og praktiseres av nasjonale myndigheter, har
-store konsekvenser for utviklingen i det enkelte land. </A>
+og som griper direkte inn i Norge, i det norske samfunn, på viktige
+områder som arbeidsliv, kraft og energi, velferd og infrastruktur,
+og som ikke først og fremst bare er en ren handelsavtale. Hvordan
+EU-reglene tolkes, implementeres og praktiseres av nasjonale myndigheter,
+har store konsekvenser for utviklingen i det enkelte land. </A>
             <A Type="Minnrykk">Til tross for at Norge har et formelt større
 handlingsrom enn EUs medlemsstater, har vi i dag ingen systematisk
 ordning for å sammenligne hvordan medlemsstatene tolker og anvender
@@ -2363,12 +2360,11 @@ innhenter EU-kommisjonens og ESAs vurderinger uten å komme med en
 selvstendig undersøkelse av andre lands praksis eller deres planlagte
 gjennomføringstiltak. For å si det enkelt: Norge implementerer dermed
 teori fra EU og ikke praksis fra EUs medlemsland, og det kan gi
-absurde utslag på avgjørende samfunnsområder, f.eks. som med kraft
-og strømpriser. Da strømprisene gikk i taket i Norge på grunn av
-utenlandskablene og ACER, regulerte Frankrike krafteksporten for
-å dempe prissmitten. I Norge hørte vi at ethvert forsøk på å ta
-kontroll over krafteksporten ville være ulovlig i henhold til EU-regler
-og EØS-avtalen. </A>
+absurde utslag på avgjørende samfunnsområder, f.eks. som kraft og
+strømpriser. Da strømprisene gikk i taket i Norge på grunn av utenlandskablene
+og ACER, regulerte Frankrike krafteksporten for å dempe prissmitten.
+I Norge hørte vi at ethvert forsøk på å ta kontroll over krafteksporten
+ville være ulovlig i henhold til EU-regler og EØS-avtalen. </A>
             <A Type="Minnrykk">Fravær av en sånn nabosjekk gjør at Stortinget
 får begrenset informasjonstilgang, og det svekker også forankringen
 av norsk lov og rett. Det endres på nå. Nå får regjeringen marsjordre
@@ -2384,7 +2380,7 @@ beslutninger, og ikke minst for å unngå automatisk vikeplikt for
 alt fra Brussel og EU, ved at vi undersøker fakta før vi gjennomfører
 det i norsk rett.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1006050">
+          <Hovedinnlegg Id="i1006899">
             <A>
               <Navn personID="EBE">
 Utenriksminister Espen Barth Eide [12:18:40]:</Navn> EØS-avtalen
@@ -2406,12 +2402,12 @@ til utredningsinstruksen. Der står det faktisk at departementene
 bør vurdere en nordisk samordning der det er relevant. Det gir rom
 for å se hen til våre naboland, hente innsikt og styrke i nettopp
 nordisk mobilitet, konkurransekraft og samhandling. Jeg mener, som
-Stortingets flertall, det er rom for å bruke det nordiske samarbeidet
+Stortingets flertall, at det er rom for å bruke det nordiske samarbeidet
 enda bedre til å ha slike systematiske nabosjekker. Det er strengt
 tatt ikke noe nytt, men det er helt fint å presisere det.</A>
             <A Type="Minnrykk">Samtidig: At det ikke innføres som en absolutt
-plikt gir nødvendig fleksibilitet. Det er ikke alltid andre lands
-praksis vil være relevant for norske forhold, heller. Det er viktig
+plikt, gir nødvendig fleksibilitet. Det er ikke alltid andre lands
+praksis vil være relevant for norske forhold heller. Det er viktig
 at en slik nabolandssjekk ikke bidrar til unødige forsinkelser.
 Regjeringen mener derfor det ikke er behov for å innføre en formell
 plikt, men å tydeliggjøre at dette er god praksis, slik det endelige
@@ -2420,17 +2416,17 @@ flertallsforslaget også legger opp til. </A>
 beslutninger andre tar. Det er riktig, det er jo akkurat det vi
 bestemte oss for da vi samme år som vi sa nei til medlemskap i EU
 – hvor man kunne vært med og laget disse reglene – isteden sa ja
-til EØS hvor vi skulle ha et felles regelverk. Da den avtalen ble
+til EØS, hvor vi skulle ha et felles regelverk. Da den avtalen ble
 så balansert som den tross alt ble, var det fordi det var 12 land
 i det daværende EF, etter hvert EU, og 7 land på EFTA-siden. Nå
 er det 27 land i EU og 3 land enn så lenge på EØS-siden. Det er
 i vår interesse at dette systemet fungerer. Norske arbeidsplasser
-og norske bedrifter trenger et enhetlig regelverk. Et argument for
-å se hen til ikke minst våre nordiske naboer, er at vi også har
+og norske bedrifter trenger et enhetlig regelverk. Men et argument
+for å se hen til ikke minst våre nordiske naboer er at vi også har
 en interesse i at de implementerer et felles regelverk. </A>
             <A Type="Minnrykk">Det er heller ikke riktig at dette er noe ansiktsløse
 byråkrater bestemmer. Alle beslutningene som blir til EØS-beslutninger,
-er vedtatt at politikere i EU gjennom Europaparlamentet, gjennom
+er vedtatt av politikere i EU gjennom Europaparlamentet, gjennom
 medlemslandene i Det europeiske råd eller gjennom den politisk utnevnte
 EU-kommisjonen. Byråkratene passer bare på at alle land følger regelverket.</A>
           </Hovedinnlegg>
@@ -2439,37 +2435,36 @@ EU-kommisjonen. Byråkratene passer bare på at alle land følger regelverket.</
               <Navn>Presidenten [12:21:51]:</Navn> De talere som
 heretter får ordet, har også en taletid på inntil 3 minutter.</A>
           </Presinnlegg>
-          <Hovedinnlegg Id="i1006052">
+          <Hovedinnlegg Id="i1006901">
             <A>
               <Navn personID="TRISUN">
-Trine Lise Sundnes (A) [12:22:08]:</Navn> Jeg har i flere omganger
-hørt fra denne talerstolen at politikk utarbeidet i Brussel utarbeides
-av et byråkrati. Det jeg hører, gir ofte et inntrykk av at man faktisk
-forleder befolkningen når det gjelder hvordan demokratiet i EU faktisk
-fungerer.</A>
+Trine Lise Sundnes (A) [12:22:08]:</Navn> Jeg hører i flere omganger
+fra denne talerstolen at politikk utarbeidet i Brussel utarbeides
+av et byråkrati. Det jeg hører, gir ofte et inntrykk av at man forleder
+befolkningen når det gjelder hvordan demokratiet i EU faktisk fungerer.</A>
             <A Type="Minnrykk">Denne byråkratisuvereniteten som jeg mistenker
 at representanten Slagsvold Vedum snakker om, nemlig Kommisjonen,
-er jo politisk utpekt, men de er også vektet av EU-parlamentet,
-og hvis de blir funnet for lette, må presidenten av Kommisjonen
-faktisk finne noen andre å peke på. Det er altså en ganske omstendelig
-politisk prosess hvem som sitter i Kommisjonen. Jeg tror det er
-viktig at det norske folk faktisk vet at det ikke er byråkratioppnevnte
-mennesker som representerer Kommisjonen.</A>
+er politisk utpekt, men de er også vektet av EU-parlamentet, og
+hvis de blir funnet for lette, må presidenten i Kommisjonen faktisk
+finne noen andre å peke på. Det er altså en ganske omstendelig politisk
+prosess hvem som sitter i Kommisjonen. Jeg tror det er viktig at
+det norske folk faktisk vet at det ikke er byråkratioppnevnte mennesker
+som representerer Kommisjonen.</A>
             <A Type="Minnrykk">Når det gjelder påstanden om at det er noen
 byråkrater nede i EU som mener at det avgiftskuttet som det nå stilles spørsmål
 om, ikke er i tråd med regelverket, er det altså sånn at det er
 ESA, EØS-avtalens kontrollorgan, som behandler en klage som har
 kommet inn knyttet til hvorvidt dette avgiftskuttet er i strid med
-statsstøttereglene eller ikke. Man hopper liksom direkte på konklusjonene
+statsstøttereglene eller ikke. Man hopper liksom direkte til konklusjonene
 midt i en prosess som ikke er ferdigstilt, og igjen forleder man
-folket før endelig ord er sagt i saken.</A>
+folket før endelig ord er sagt i saken. </A>
             <A Type="Minnrykk">Når vi er opptatt av at vi skal ha god regelverksutvikling, åpenhet
-og demokratisk kontroll, må vi også faktisk fortelle om hvordan
-det faktisk fungerer, og ikke forlede befolkningen til å tro at
-regelverks- og politikkutforming i EU utformes på en annen måte
-enn den faktisk gjør.</A>
+og demokratisk kontroll, må vi også fortelle om hvordan det faktisk
+fungerer, og ikke forlede befolkningen til å tro at regelverks-
+og politikkutforming i EU utformes på en annen måte enn den faktisk
+gjør.</A>
           </Hovedinnlegg>
-          <Hovedinnlegg Id="i1006054">
+          <Hovedinnlegg Id="i1006903">
             <A>
               <Navn personID="EBE">
 Utenriksminister Espen Barth Eide [12:24:53]:</Navn> Jeg har bare
@@ -2482,22 +2477,22 @@ stede, å påvirke mens saker er i en utviklingsfase. Da gjelder det
 å plukke opp det. Det kan vårt dyktige embetsverk gjerne gjøre gjennom
 delegasjonen i Brussel, men det kan man også gjøre gjennom sine
 partikanaler, i hvert fall alle de partier som har venner i Brussel av
-samme legning, altså å finne ut hva som er på vei. Medbestemmelse
+samme legning, altså finne ut hva som er på vei. Medbestemmelse
 har vi ikke, men vår innflytelse er størst tidlig i prosessen. Så,
 når vedtaket er fattet, er det jo tilpasningen til norske forhold
 som er handlingsrommet. </A>
-            <A Type="Minnrykk">Det som ikke er handlingsrommet, er når noen
-framstiller EØS-avtalen som en meny av vedtak som man kan velge
-fra. Det mener jeg har blitt så grundig og godt drøftet av Eldring-utvalget,
+            <A Type="Minnrykk">Det som ikke er handlingsrommet, er at EØS-avtalen
+er en meny av vedtak som man kan velge fra, som noen framstiller
+det som. Det mener jeg har blitt så grundig og godt drøftet av Eldring-utvalget,
 som ble ledet av Fellesforbundets Line Eldring, at det godt kan
 leses om igjen. Det finnes et handlingsrom, og det bør vi bruke. </A>
             <A Type="Minnrykk">Samtidig har jeg lyst til å minne om at da
-vi var i regjering sammen med både daværende finansminister Vedum
-og med Ingrid Fiskaa, som tidligere var statssekretær i den rød-grønne
-regjeringen, så var det hvert eneste år hundrevis av EØS-vedtak
-som gikk rett igjennom. Det var fordi ingen i Norge fant et eneste
-problem med dem, rett og slett fordi dette er regler som alle siviliserte
-land regulerer, og vi gjør det i fellesskap, sånn at vi har et felles
+vi var i regjering sammen med daværende finansminister Vedum – og
+Ingrid Fiskaa var tidligere statssekretær i den rød-grønne regjeringen
+– var det hvert eneste år hundrevis av EØS-vedtak som gikk rett
+igjennom. Det var fordi ingen i Norge fant et eneste problem med
+dem, rett og slett fordi dette er regler som alle siviliserte land
+regulerer, og vi gjør det i fellesskap, sånn at vi har et felles
 marked. </A>
             <A Type="Minnrykk">Så er det noen store spørsmål som er viktige.
 Jeg tror det er veldig viktig nå når vi prøver å presisere denne
@@ -2512,16 +2507,16 @@ men selv det uproblematiske har jo dyktige mennesker vært igjennom
 og sjekket opp mot norsk lovgivning, og det går ikke mange uker
 mellom hver gang Stortinget gjør det samme. </A>
             <A Type="Minnrykk">Det er altså de krevende sakene, og der gjelder
-det å være tidlig ute. Da gjelder det – som alle Europa-meldinger
-som har vært skrevet siden 1994, har sagt – å velge sine slag, være tidlig
+det å være tidlig ute. Da gjelder det – som det er sagt i alle Europa-meldinger
+som har vært skrevet siden 1994 – å velge sine slag, være tidlig
 på og jobbe systematisk, basert på faglig innhold. Da kan man få
 medbestemmelse. Det er handlingsrommet.</A>
           </Hovedinnlegg>
-          <Referanse Id="i1006056" voteringsDato="2026-04-28" debattDato="2026-04-28" saksKartNr="8" />
+          <Referanse Id="i1006905" voteringsDato="2026-04-28" debattDato="2026-04-28" saksKartNr="8" />
           <Presinnlegg>
             <A>
               <Navn>Presidenten [12:27:33]:</Navn> Flere har ikke
-bedt om ordet til sak nr. 8</A>
+bedt om ordet til sak nr. 8.</A>
             <A Type="Minnrykk">Dermed er dagens kart ferdig debattert. Stortinget
 tar nå pause, og i samsvar med den annonserte dagsorden vil det
 bli votering kl. 15. </A>
@@ -2546,17 +2541,17 @@ kl. 12.28.</A>
 går da til votering og voterer først over resterende saker fra Stortingets
 møte torsdag 23. april 2026, dagsorden nr. 67.</A>
           </Presinnlegg>
-          <Voteringer Id="i1006058" saksKartNr="4" debattDato="2026-04-23" tidspunkt="1505" sakID="106366">
+          <Voteringer Id="i1006907" saksKartNr="4" debattDato="2026-04-23" tidspunkt="1505" sakID="106366">
             <Sakdel>
               <Tittel>Votering i sak nr. 4,
 debattert 23. april 2026</Tittel>
-              <A Id="i1006060">Innstilling fra helse- og omsorgskomiteen om
+              <A Id="i1006909">Innstilling fra helse- og omsorgskomiteen om
 Representantforslag fra stortingsrepresentantene Kristian August
 Eilertsen, Julia Brännström Nordtug, Stig Atle Abrahamsen og Anne
 Grethe Hauan om tiltak for bedre behandling av personer med alvorlige
 psykiske lidelser og styrket vern av samfunnet (Innst. 189 S (2025–2026),
 jf. Dokument 8:85 S (2025–2026))</A>
-              <Referanse Id="i1006062" debattDato="2026-04-23" saksKartNr="4" />
+              <Referanse Id="i1006911" debattDato="2026-04-23" saksKartNr="4" />
               <Presinnlegg>
                 <A>
                   <Navn>Presidenten:</Navn> Under debatten er det
@@ -2572,12 +2567,12 @@ Eilertsen på vegne av Fremskrittspartiet og Senterpartiet </A>
                 </Liste>
                 <A Type="Minnrykk">Det voteres over forslag nr. 2, fra Fremskrittspartiet.
 Forslaget lyder: </A>
-                <Sitat Type="Minnrykk" Id="i1006064">
-                  <A>«Stortinget ber regjeringen
-fremme forslag til nødvendige lov- og forskriftsendringer som åpner
-for at private aktører med nødvendig kompetanse kan godkjennes som
-distriktspsykiatriske sentre (DPS) med adgang til bruk av tvang,
-forutsatt oppfyllelse av samme krav som offentlige DPS.»</A>
+                <Sitat Type="Minnrykk">
+                  <A>«Stortinget ber regjeringen fremme forslag
+til nødvendige lov- og forskriftsendringer som åpner for at private
+aktører med nødvendig kompetanse kan godkjennes som distriktspsykiatriske
+sentre (DPS) med adgang til bruk av tvang, forutsatt oppfyllelse
+av samme krav som offentlige DPS.»</A>
                 </Sitat>
               </Presinnlegg>
               <Votering>
@@ -2627,15 +2622,15 @@ Senterpartiet har varslet at de vil stemme imot.</A>
               </Votering>
             </VedtakS>
           </Voteringer>
-          <Voteringer Id="i1006066" saksKartNr="5" debattDato="2026-04-23" tidspunkt="1506" sakID="200005">
+          <Voteringer Id="i1006913" saksKartNr="5" debattDato="2026-04-23" tidspunkt="1506" sakID="200005">
             <Sakdel>
               <Tittel>Votering i sak nr. 5,
 debattert 23. april 2026</Tittel>
-              <A Id="i1006068">Innstilling fra helse- og omsorgskomiteen om
+              <A Id="i1006915">Innstilling fra helse- og omsorgskomiteen om
 Representantforslag fra stortingsrepresentantene Seher Aydar og
 Mímir Kristjánsson om å redde sykehusdriften i Egersund (Innst. 206
 S (2025–2026), jf. Dokument 8:88 S (2025–2026))</A>
-              <Referanse Id="i1006070" debattDato="2026-04-23" saksKartNr="5" />
+              <Referanse Id="i1006917" debattDato="2026-04-23" saksKartNr="5" />
               <Presinnlegg>
                 <A>
                   <Navn>Presidenten:</Navn> Under debatten er det
@@ -2772,16 +2767,16 @@ tilbake på egnet måte.</A>
               </Votering>
             </VedtakS>
           </Voteringer>
-          <Voteringer Id="i1006072" saksKartNr="6" debattDato="2026-04-23" tidspunkt="1509" sakID="200006">
+          <Voteringer Id="i1006919" saksKartNr="6" debattDato="2026-04-23" tidspunkt="1509" sakID="200006">
             <Sakdel>
               <Tittel>Votering i sak nr. 6,
 debattert 23. april 2026</Tittel>
-              <A Id="i1006074">Innstilling frå helse- og omsorgskomiteen om
+              <A Id="i1006921">Innstilling frå helse- og omsorgskomiteen om
 Representantforslag fra stortingsrepresentantene Ida Lindtveit Røse, Georg
 Gulli og Jonas Andersen Sayed om et nasjonalt røykesluttprogram
 – uten kostnad for staten (Innst. 207 S (2025–2026), jf. Dokument
 8:93 S (2025–2026))</A>
-              <Referanse Id="i1006076" debattDato="2026-04-23" saksKartNr="6" />
+              <Referanse Id="i1006923" debattDato="2026-04-23" saksKartNr="6" />
               <Presinnlegg>
                 <A>
                   <Navn>Presidenten:</Navn> Under debatten er det
@@ -2893,16 +2888,16 @@ har varslet at de vil stemme imot. </A>
               </Presinnlegg>
             </VedtakS>
           </Voteringer>
-          <Voteringer Id="i1006078" saksKartNr="8" debattDato="2026-04-23" tidspunkt="1511" sakID="103597,103595">
+          <Voteringer Id="i1006925" saksKartNr="8" debattDato="2026-04-23" tidspunkt="1511" sakID="103597,103595">
             <Sakdel>
               <Tittel>Votering i sak nr. 8,
 debattert 23. april 2026</Tittel>
-              <A Id="i1006080">Innstilling fra kontroll- og konstitusjonskomiteen
+              <A Id="i1006927">Innstilling fra kontroll- og konstitusjonskomiteen
 om Riksrevisjonens undersøkelse om Totalforsvaret i sikkerhetspolitisk
 krise og krig og Riksrevisjonens undersøkelse om sikring av havneanlegg
 for å trygge samfunnssikkerheten (Innst. 178 S (2025–2026), jf.
 Dokument 3:11 (2024–2025) og Dokument 3:12 (2024–2025))</A>
-              <Referanse Id="i1006082" debattDato="2026-04-23" saksKartNr="8" />
+              <Referanse Id="i1006929" debattDato="2026-04-23" saksKartNr="8" />
               <A Type="Blanklinjeminnrykk">Komiteen hadde innstilt til Stortinget
 å gjøre følgende.</A>
             </Sakdel>
@@ -2926,14 +2921,14 @@ undersøkelse om sikring av havneanlegg for å trygge samfunnssikkerheten
               </RomertallSeksjon>
             </VedtakS>
           </Voteringer>
-          <Voteringer Id="i1006084" saksKartNr="9" debattDato="2026-04-23" tidspunkt="1511" sakID="106005">
+          <Voteringer Id="i1006931" saksKartNr="9" debattDato="2026-04-23" tidspunkt="1511" sakID="106005">
             <Sakdel>
               <Tittel>Votering i sak nr. 9,
 debattert 23. april 2026</Tittel>
-              <A Id="i1006086">Innstilling fra kontroll- og konstitusjonskomiteen
+              <A Id="i1006933">Innstilling fra kontroll- og konstitusjonskomiteen
 om at Riksrevisjonen reviderer statens eierstyring av Telenor ASA i
 forbindelse med selskapets virksomhet i Myanmar (Innst. 203 S (2025–2026))</A>
-              <Referanse Id="i1006088" debattDato="2026-04-23" saksKartNr="9" />
+              <Referanse Id="i1006935" debattDato="2026-04-23" saksKartNr="9" />
               <A Type="Blanklinjeminnrykk">Komiteen hadde innstilt til Stortinget
 å gjøre følgende</A>
             </Sakdel>
@@ -2957,26 +2952,28 @@ går så til votering over sakene på dagens kart, dagsorden nr. 68. </A>
             <Sakdel>
               <Tittel>Votering i sakene nr. 1–4, debattert
 28. april 2026</Tittel>
-              <A Type="Minnrykk">
-                <Navn>Presidenten:</Navn> Sakene nr. 1–4 er
-andre gangs behandling av lover og gjelder lovvedtakene 36 til og
-med 39. </A>
-              <A Type="Minnrykk">Det foreligger ingen forslag til anmerkning.
+              <Presinnlegg>
+                <A>
+                  <Navn>Presidenten:</Navn> Sakene nr. 1–4 er andre
+gangs behandling av lover og gjelder lovvedtakene 36 til og med
+39. </A>
+                <A Type="Minnrykk">Det foreligger ingen forslag til anmerkning.
 Stortingets lovvedtak er dermed godkjent ved andre gangs behandling
 og blir å sende Kongen i overenstemmelse med Grunnloven.</A>
+              </Presinnlegg>
             </Sakdel>
           </Voteringer>
-          <Voteringer Id="i1006090" saksKartNr="5" debattDato="2026-04-28" tidspunkt="1512" sakID="200035">
+          <Voteringer Id="i1006937" saksKartNr="5" debattDato="2026-04-28" tidspunkt="1512" sakID="200035">
             <Sakdel>
               <Tittel>Votering i sak nr. 5,
 debattert 28. april 2026</Tittel>
-              <A Id="i1006092">Innstilling fra transport- og kommunikasjonskomiteen om
+              <A Id="i1006939">Innstilling fra transport- og kommunikasjonskomiteen om
 Representantforslag fra stortingsrepresentantene Bård Hoksrud, Dagfinn
 Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik, Mats Henriksen,
 Lill Harriet Sandaune og Rikard Spets om redusert bompengebelastning
 på E6 Ulsberg–Melhus (Innst. 218 S (2025–2026), jf. Dokument 8:115 S
 (2025–2026))</A>
-              <Referanse Id="i1006094" debattDato="2026-04-28" saksKartNr="5" />
+              <Referanse Id="i1006941" debattDato="2026-04-28" saksKartNr="5" />
               <Presinnlegg>
                 <A>
                   <Navn>Presidenten:</Navn> Under debatten er det
@@ -3064,17 +3061,17 @@ Sandaune og Rikard Spets om redusert bompengebelastning på E6 Ulsberg–Melhus
               </Votering>
             </VedtakS>
           </Voteringer>
-          <Voteringer Id="i1006096" saksKartNr="6" debattDato="2026-04-28" tidspunkt="1514" sakID="200042">
+          <Voteringer Id="i1006943" saksKartNr="6" debattDato="2026-04-28" tidspunkt="1514" sakID="200042">
             <Sakdel>
               <Tittel>Votering i sak nr. 6,
 debattert 28. april 2026</Tittel>
-              <A Id="i1006098">Innstilling fra transport- og kommunikasjonskomiteen om
+              <A Id="i1006945">Innstilling fra transport- og kommunikasjonskomiteen om
 Representantforslag fra stortingsrepresentantene Bård Hoksrud, Dagfinn
 Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik og Mats
 Henriksen om stans i bruk av dagens synsfelttest som grunnlag for
 tap av førerkort samt endring av regelverket for vurdering av kjøreevne
 (Innst. 220 S (2025–2026), jf. Dokument 8:120 S (2025–2026))</A>
-              <Referanse Id="i1006100" debattDato="2026-04-28" saksKartNr="6" />
+              <Referanse Id="i1006947" debattDato="2026-04-28" saksKartNr="6" />
               <Presinnlegg>
                 <A>
                   <Navn>Presidenten:</Navn> Under debatten er det
@@ -3175,7 +3172,7 @@ endring av regelverket for vurdering av kjøreevne – vedtas ikke.</A>
                   <Navn>Presidenten:</Navn> Fremskrittspartiet har
 varslet at de vil stemme imot. </A>
               </Presinnlegg>
-              <Hovedinnlegg Id="i1006102">
+              <Hovedinnlegg Id="i1006949">
                 <A>
                   <Navn personID="UAB">
 Une Bastholm (MDG)</Navn> (fra salen): Miljøpartiet De Grønne skal
@@ -3198,15 +3195,15 @@ De Grønne varslet at de vil stemme imot. </A>
               </Presinnlegg>
             </VedtakS>
           </Voteringer>
-          <Voteringer Id="i1006104" saksKartNr="8" debattDato="2026-04-28" tidspunkt="1517" sakID="106364">
+          <Voteringer Id="i1006951" saksKartNr="8" debattDato="2026-04-28" tidspunkt="1517" sakID="106364">
             <Sakdel>
               <Tittel>Votering i sak nr. 8,
 debattert 28. april 2026</Tittel>
-              <A Id="i1006106">Innstilling fra utenriks- og forsvarskomiteen
+              <A Id="i1006953">Innstilling fra utenriks- og forsvarskomiteen
 om Representantforslag fra stortingsrepresentantene Bjørnar Moxnes, Geir
 Jørgensen og Sofie Marhaug om å innføre nabosjekk av EU-regelverk
 (Innst. 190 S (2025–2026), jf. Dokument 8:83 S (2025–2026))</A>
-              <Referanse Id="i1006108" debattDato="2026-04-28" saksKartNr="8" />
+              <Referanse Id="i1006955" debattDato="2026-04-28" saksKartNr="8" />
               <Presinnlegg>
                 <A>
                   <Navn>Presidenten:</Navn> Under debatten har Ingrid
@@ -3261,12 +3258,12 @@ som skal fremmes for Stortinget. </A>
             </VedtakS>
           </Voteringer>
         </VoteringerStart>
-        <Sakreferat Id="i1006110">
+        <Sakreferat Id="i1006957">
           <Sakshode>
             <Saknr>
               <Uth Type="Sperret">Sak
 nr. 9</Uth> [15:17:33]</Saknr>
-            <Saktittel Id="i1006112">
+            <Saktittel Id="i1006959">
               <A>Referat</A>
             </Saktittel>
           </Sakshode>
